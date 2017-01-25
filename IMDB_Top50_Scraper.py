@@ -2,10 +2,11 @@ import urllib2
 import sys
 from BeautifulSoup import BeautifulSoup
 from tqdm import tqdm
-sys.stdout = open('IMDB_Top_50.txt','w')
+year = str(int(raw_input('Enter the year: ')))
+sys.stdout = open('IMDB_Top_50_' + year + '.txt', 'w')
 opener = urllib2.build_opener()
-opener.addheaders=[('User-agent','Mozilla/5.0')]
-url = "http://www.imdb.com/search/title?release_date=2016,2016&title_type=feature"
+opener.addheaders = [('User-agent','Mozilla/5.0')]
+url = "http://www.imdb.com/search/title?release_date=" + year + "," + year + "&title_type=feature"
 ourUrl = opener.open(url).read()
 soup = BeautifulSoup(ourUrl)
 
