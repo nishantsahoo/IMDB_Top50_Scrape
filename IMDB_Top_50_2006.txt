@@ -1,0 +1,151 @@
+Most Popular Feature Films Released 2006-01-01 to 2006-12-31 : 
+1. Movie: The Departed
+Genre: Crime, Drama, Thriller
+Description: An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.
+2. Movie: The Prestige
+Genre: Drama, Mystery, Sci-Fi
+Description: Two stage magicians engage in competitive one-upmanship in an attempt to create the ultimate stage illusion.
+3. Movie: The Devil Wears Prada
+Genre: Comedy, Drama
+Description: A smart but sensible new graduate lands a job as an assistant to Miranda Priestly, the demanding editor-in-chief of a high fashion magazine.
+4. Movie: 300
+Genre: Action, Fantasy
+Description: King Leonidas of Sparta and a force of 300 men fight the Persians at Thermopylae in 480 B.C.
+5. Movie: Idiocracy
+Genre: Adventure, Comedy, Sci-Fi
+Description: Private Joe Bauers, the definition of "average American", is selected by the Pentagon to be the guinea pig for a top-secret hibernation program. Forgotten, he awakes five centuries in the future. He discovers a society so incredibly dumbed down that he's easily the most intelligent person alive.
+6. Movie: Pan's Labyrinth
+Genre: Drama, Fantasy, War
+Description: In the falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.
+7. Movie: Children of Men
+Genre: Drama, Sci-Fi, Thriller
+Description: In 2027, in a chaotic world in which women have become somehow infertile, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea.
+8. Movie: Casino Royale
+Genre: Action, Adventure, Thriller
+Description: Armed with a licence to kill, Secret Agent James Bond sets out on his first mission as 007 and must defeat a weapons dealer in a high stakes game of poker at Casino Royale, but things are not what they seem.
+9. Movie: Lady in the Water
+Genre: Drama, Fantasy, Mystery
+Description: Apartment building superintendent Cleveland Heep rescues what he thinks is a young woman from the pool he maintains. When he discovers that she is actually a character from a bedtime story who is trying to make the journey back to her home, he works with his tenants to protect his new friend from the creatures that are determined to keep her in our world.
+10. Movie: Cars
+Genre: Animation, Adventure, Comedy
+Description: A hot-shot race-car named Lightning McQueen gets waylaid in Radiator Springs, where he finds the true meaning of friendship and family.
+11. Movie: Apocalypto
+Genre: Action, Adventure, Drama
+Description: As the Mayan kingdom faces its decline, the rulers insist the key to prosperity is to build more temples and offer human sacrifices. Jaguar Paw, a young man captured for sacrifice, flees to avoid his fate.
+12. Movie: Superman Returns
+Genre: Action, Adventure, Sci-Fi
+Description: Superman reappears after a long absence, but is challenged by an old foe who uses Kryptonian technology for world domination.
+13. Movie: Pirates of the Caribbean: Dead Man's Chest
+Genre: Action, Adventure, Fantasy
+Description: Jack Sparrow races to recover the heart of Davy Jones to avoid enslaving his soul to Jones' service, as other friends and foes seek the heart for their own agenda as well.
+14. Movie: The Lives of Others
+Genre: Drama, Thriller
+Description: In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.
+15. Movie: Inside Man
+Genre: Crime, Drama, Mystery
+Description: A police detective, a bank robber, and a high-power broker enter high-stakes negotiations after the criminal's brilliant heist spirals into a hostage situation.
+16. Movie: Marie Antoinette
+Genre: Biography, Drama, History
+Description: The retelling of France's iconic but ill-fated queen, Marie Antoinette. From her betrothal and marriage to Louis XVI at 15 to her reign as queen at 19 and to the end of her reign as queen and ultimately the fall of Versailles.
+17. Movie: The Da Vinci Code
+Genre: Mystery, Thriller
+Description: A murder inside the Louvre and clues in Da Vinci paintings lead to the discovery of a religious mystery protected by a secret society for two thousand years -- which could shake the foundations of Christianity.
+18. Movie: Black Snake Moan
+Genre: Drama, Music
+Description: A God-fearing bluesman takes to a wild young woman who, as a victim of childhood sexual abuse, looks everywhere for love, never quite finding it.
+19. Movie: Underworld: Evolution
+Genre: Action, Adventure, Fantasy
+Description: Picking up directly from the previous film, vampire warrior Selene and the half werewolf Michael hunt for clues to reveal the history of their races and the war between them.
+20. Movie: The Fast and the Furious: Tokyo Drift
+Genre: Action, Crime, Romance
+Description: A teenager becomes a major competitor in the world of drift racing after moving in with his father in Tokyo to avoid a jail sentence in America.
+21. Movie: John Tucker Must Die
+Genre: Comedy, Romance
+Description: Three ex-girlfriends of a serial cheater set up their former lover to fall for the new girl in town so they can watch him get his heart broken.
+22. Movie: The Pursuit of Happyness
+Genre: Biography, Drama
+Description: A struggling salesman takes custody of his son as he's poised to begin a life-changing professional endeavor.
+23. Movie: Step Up
+Genre: Crime, Drama, Music
+Description: Tyler Gage receives the opportunity of a lifetime after vandalizing a performing arts school, gaining him the chance to earn a scholarship and dance with an up and coming dancer, Nora.
+24. Movie: Little Miss Sunshine
+Genre: Comedy, Drama
+Description: A family determined to get their young daughter into the finals of a beauty pageant take a cross-country trip in their VW bus.
+25. Movie: Silent Hill
+Genre: Adventure, Horror, Mystery
+Description: A woman, Rose, goes in search for her adopted daughter within the confines of a strange, desolate town called Silent Hill.
+26. Movie: Lucky Number Slevin
+Genre: Crime, Drama, Mystery
+Description: A case of mistaken identity lands Slevin into the middle of a war being plotted by two of the city's most rival crime bosses: The Rabbi and The Boss. Slevin is under constant surveillance by relentless Detective Brikowski as well as the infamous assassin Goodkat and finds himself having to hatch his own ingenious plot to get them before they get him.
+27. Movie: The Hills Have Eyes
+Genre: Horror
+Description: A suburban American family is being stalked by a group of psychotic people who live in the desert, far away from civilization.
+28. Movie: Alpha Dog
+Genre: Biography, Crime, Drama
+Description: A drama based on the life of Jesse James Hollywood, a drug dealer who became one of the youngest men ever to be on the FBI's most wanted list.
+29. Movie: The Fall
+Genre: Adventure, Comedy, Drama
+Description: In a hospital on the outskirts of 1920s Los Angeles, an injured stuntman begins to tell a fellow patient, a little girl with a broken arm, a fantastic story of five mythical heroes. Thanks to his fractured state of mind and her vivid imagination, the line between fiction and reality blurs as the tale advances.
+30. Movie: The Illusionist
+Genre: Drama, Mystery, Romance
+Description: In turn-of-the-century Vienna, a magician uses his abilities to secure the love of a woman far above his social standing.
+31. Movie: X-Men: The Last Stand
+Genre: Action, Adventure, Fantasy
+Description: When a cure is found to treat mutations, lines are drawn amongst the X-Men, led by Professor Charles Xavier, and the Brotherhood, a band of powerful mutants organized under Xavier's former ally, Magneto.
+32. Movie: Mission: Impossible III
+Genre: Action, Adventure, Thriller
+Description: Agent Ethan Hunt comes into conflict with a dangerous and sadistic arms dealer who threatens his life and his fiance in response .
+33. Movie: She's the Man
+Genre: Comedy, Romance, Sport
+Description: When her brother decides to ditch for a couple weeks in London, Viola heads over to his elite boarding school, disguises herself as him, and proceeds to fall for one of her soccer teammates. Little does she realize she's not the only one with romantic troubles, as she, as he, gets in the middle of a series of intermingled love affairs.
+34. Movie: The Holiday
+Genre: Comedy, Romance
+Description: Two women troubled with guy-problems swap homes in each other's countries, where they each meet a local guy and fall in love.
+35. Movie: Cashback
+Genre: Comedy, Drama, Romance
+Description: After a painful breakup, Ben develops insomnia. To kill time, he starts working the late night shift at the local supermarket, where his artistic imagination runs wild.
+36. Movie: Penelope
+Genre: Comedy, Fantasy, Romance
+Description: A modern romantic tale about a young aristocratic heiress born under a curse that can only be broken when she finds true love with "one who will love her faithfully."
+37. Movie: Perfume: The Story of a Murderer
+Genre: Crime, Drama, Fantasy
+Description: Jean-Baptiste Grenouille, born with a superior olfactory sense, creates the world's finest perfume. His work, however, takes a dark turn as he searches for the ultimate scent.
+38. Movie: The Lake House
+Genre: Drama, Fantasy, Romance
+Description: A lonely doctor who once occupied an unusual lakeside home begins exchanging love letters with its former resident, a frustrated architect. They must try to unravel the mystery behind their extraordinary romance before it's too late.
+39. Movie: The Fountain
+Genre: Drama, Sci-Fi
+Description: As a modern-day scientist, Tommy is struggling with mortality, desperately searching for the medical breakthrough that will save the life of his cancer-stricken wife, Izzi.
+40. Movie: Blood Diamond
+Genre: Adventure, Drama, Thriller
+Description: A fisherman, a smuggler, and a syndicate of businessmen match wits over the possession of a priceless diamond.
+41. Movie: Half Nelson
+Genre: Drama
+Description: An inner-city junior high school teacher with a drug habit forms an unlikely friendship with one of his students after she discovers his secret.
+42. Movie: Rocky Balboa
+Genre: Drama, Sport
+Description: Thirty years after the ring of the first bell, Rocky Balboa comes out of retirement and dons his gloves for his final fight; against the reigning heavyweight champ Mason 'The Line' Dixon.
+43. Movie: Grandma's Boy
+Genre: Comedy
+Description: A 35 year old video game tester has to move in with his grandma and her two old lady roommates.
+44. Movie: Deja Vu
+Genre: Action, Sci-Fi, Thriller
+Description: After a ferry is bombed in New Orleans, an A.T.F. agent joins a unique investigation using experimental surveillance technology to find the bomber, but soon finds himself becoming obsessed with one of the victims.
+45. Movie: Click
+Genre: Comedy, Drama, Fantasy
+Description: A workaholic architect finds a universal remote that allows him to fast-forward and rewind to different parts of his life. Complications arise when the remote starts to overrule his choices.
+46. Movie: Accepted
+Genre: Comedy
+Description: A high school slacker who's rejected by every school he applies to opts to create his own institution of higher learning, the South Harmon Institute of Technology, on a rundown piece of property near his hometown.
+47. Movie: A Good Year
+Genre: Comedy, Drama, Romance
+Description: A British investment broker inherits his uncle's chateau and vineyard in Provence, where he spent much of his childhood. He discovers a new laid-back lifestyle as he tries to renovate the estate to be sold.
+48. Movie: Babel
+Genre: Drama
+Description: Tragedy strikes a married couple on vacation in the Moroccan desert, touching off an interlocking story involving four different families.
+49. Movie: Beerfest
+Genre: Comedy
+Description: Two brothers travel to Germany for Oktoberfest, only to stumble upon a secret, centuries-old competition described as a "Fight Club" with beer games.
+50. Movie: Smokin' Aces
+Genre: Action, Crime, Drama
+Description: When a Las Vegas performer-turned-snitch named Buddy Israel decides to turn state's evidence and testify against the mob, it seems that a whole lot of people would like to make sure he's no longer breathing.

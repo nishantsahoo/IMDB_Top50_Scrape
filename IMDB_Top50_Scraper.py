@@ -11,7 +11,6 @@ ourUrl = opener.open(url).read()
 soup = BeautifulSoup(ourUrl)
 article = soup.find('div', attrs={'class': 'article'}).find('h1')
 print article.contents[0] + ': '
-
 lister_list_contents = soup.find('div', attrs={'class': 'lister-list'})
 i = 1
 itermovie = soup.findAll('div', attrs={'class': 'lister-item mode-advanced'})
@@ -21,7 +20,6 @@ for div in tqdm(itermovie):
     for item in header:
         title = header[0].findChildren('a')
         print 'Movie: ' + str(title[0].contents[0])
-
     genre = div.findChildren('span', attrs={'class': 'genre'})
     genre_contents = genre[0].text.encode('utf-8').decode('ascii', 'ignore')
     print 'Genre: ' + genre_contents
