@@ -3,7 +3,7 @@ import sys
 from BeautifulSoup import BeautifulSoup
 from tqdm import tqdm
 year = str(int(raw_input('Enter the year: ')))
-sys.stdout = open('IMDB_Top_50_' + year + '.txt', 'w')
+sys.stdout = open('DataSets//IMDB_Top_50_' + year + '.txt', 'w')
 opener = urllib2.build_opener()
 opener.addheaders = [('User-agent','Mozilla/5.0')]
 url = "http://www.imdb.com/search/title?release_date=" + year + "," + year + "&title_type=feature"
