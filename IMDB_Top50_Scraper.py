@@ -17,7 +17,7 @@ movieList = soup.findAll('div', attrs={'class': 'lister-item mode-advanced'})
 for div in tqdm(movieList):
     print str(i) + '.',
     header = div.findChildren('h3', attrs={'class': 'lister-item-header'})
-    for item in header:
+    for items in header:
         title = header[0].findChildren('a')
         print 'Movie: ' + str(title[0].contents[0])
     genre = div.findChildren('span', attrs={'class': 'genre'})

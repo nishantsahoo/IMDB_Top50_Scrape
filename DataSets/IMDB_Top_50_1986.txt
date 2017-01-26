@@ -1,0 +1,151 @@
+Most Popular Feature Films Released 1986-01-01 to 1986-12-31 : 
+1. Movie: Aliens
+Genre: Action, Adventure, Sci-Fi
+Description: The moon fromAlien(1979) has been colonized, but contact is lost. This time, the rescue team has impressive firepower, but will it be enough?
+2. Movie: Stand by Me
+Genre: Adventure, Drama
+Description: After the death of a friend, a writer recounts a boyhood journey to find the body of a missing boy.
+3. Movie: Platoon
+Genre: Drama, War
+Description: A young recruit in Vietnam faces a moral crisis when confronted with the horrors of war and the duality of man.
+4. Movie: Ferris Bueller's Day Off
+Genre: Comedy
+Description: A high school wise guy is determined to have a day off from school, despite what the principal thinks of that.
+5. Movie: Top Gun
+Genre: Action, Drama, Romance
+Description: As students at the United States Navy's elite fighter weapons school compete to be best in the class, one daring young pilot learns a few things from a civilian instructor that are not taught in the classroom.
+6. Movie: Labyrinth
+Genre: Adventure, Family, Fantasy
+Description: A 16-year old girl is given 13 hours to solve a labyrinth and rescue her baby brother when her wish for him to be taken away is granted by the Goblin King.
+7. Movie: Blue Velvet
+Genre: Drama, Mystery, Thriller
+Description: The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of psychopathic criminals who have kidnapped her child.
+8. Movie: Flight of the Navigator
+Genre: Adventure, Family, Sci-Fi
+Description: In 1978, a boy travels 8 years into the future and has an adventure with an intelligent, wisecracking alien ship.
+9. Movie: The Wraith
+Genre: Action, Horror, Romance
+Description: A mysterious figure suddenly appears to challenge a gang of motorhead thugs.
+10. Movie: Highlander
+Genre: Action, Adventure, Fantasy
+Description: An immortal Scottish swordsman must confront the last of his immortal opponent, a murderously brutal barbarian who lusts for the fabled "Prize".
+11. Movie: Big Trouble in Little China
+Genre: Action, Adventure, Comedy
+Description: An All-American trucker gets dragged into a centuries-old mystical battle in Chinatown.
+12. Movie: Pretty in Pink
+Genre: Comedy, Drama, Romance
+Description: A poor girl must choose between the affections of her doting childhood sweetheart and a rich but sensitive playboy.
+13. Movie: The Fly
+Genre: Drama, Horror, Sci-Fi
+Description: A brilliant but eccentric scientist begins to transform into a giant man/fly hybrid after one of his experiments goes horribly wrong.
+14. Movie: Nine 1/2 Weeks
+Genre: Drama, Romance
+Description: A woman gets involved in an impersonal affair with a man. She barely knows about his life, only about the sex games they play, so the relationship begins to get complicated.
+15. Movie: Hoosiers
+Genre: Drama, Sport
+Description: A coach with a checkered past and a local drunk train a small town high school basketball team to become a top contender for the championship.
+16. Movie: Howard the Duck
+Genre: Action, Adventure, Comedy
+Description: A sarcastic humanoid duck is pulled from his homeworld to Earth where he must stop an alien invader.
+17. Movie: Band of the Hand
+Genre: Action, Crime, Drama
+Description: Juvenile lost causes are reformed by a war veteran using survival tactics.
+18. Movie: Little Shop of Horrors
+Genre: Comedy, Family, Musical
+Description: A nerdy florist finds his chance for success and romance with the help of a giant man-eating plant who demands to be fed.
+19. Movie: The Mission
+Genre: Adventure, Drama, History
+Description: 18th century Spanish Jesuits try to protect a remote South American Indian tribe in danger of falling under the rule of pro-slavery Portugal.
+20. Movie: Crocodile Dundee
+Genre: Adventure, Comedy
+Description: An American reporter goes to the Australian outback to meet an eccentric crocodile poacher and invites him to New York City.
+21. Movie: Cobra
+Genre: Action, Crime, Thriller
+Description: A tough-on-crime street cop must protect the only surviving witness to a strange murderous cult with far reaching plans.
+22. Movie: Manhunter
+Genre: Crime, Horror, Mystery
+Description: Former FBI profiler Will Graham returns to service to pursue a deranged serial murderer named "the Tooth Fairy" by the media.
+23. Movie: The Color of Money
+Genre: Drama, Sport
+Description: Fast Eddie Felson teaches a cocky but immensely talented protg the ropes of pool hustling, which in turn inspires him to make an unlikely comeback.
+24. Movie: The Golden Child
+Genre: Action, Adventure, Comedy
+Description: A private detective specializing in missing children is charged with the task of finding a special child who dark forces want to eliminate.
+25. Movie: Hannah and Her Sisters
+Genre: Comedy, Drama
+Description: Between two Thanksgivings two years apart, Hannah's husband falls in love with her sister Lee, while her hypochondriac ex-husband rekindles his relationship with her sister Holly.
+26. Movie: Tenkû no shiro Rapyuta
+Genre: Animation, Adventure, Family
+Description: A young boy and a girl with a magic crystal must race against pirates and foreign agents in a search for a legendary floating castle.
+27. Movie: Jason Lives: Friday the 13th Part VI
+Genre: Horror, Thriller
+Description: Tommy Jarvis goes to the graveyard to get rid of Jason Voorhees' body once and for all, but inadvertently brings him back to life instead. The newly revived killer once again seeks revenge, and Tommy may be the only one who can defeat him.
+28. Movie: Short Circuit
+Genre: Comedy, Family, Sci-Fi
+Description: Number 5 of a group of experimental robots in a lab is electrocuted, suddenly becomes intelligent, and escapes.
+29. Movie: Der Name der Rose
+Genre: Crime, Drama, Mystery
+Description: An intellectually nonconformist friar investigates a series of mysterious deaths in an isolated abbey.
+30. Movie: The Karate Kid Part II
+Genre: Action, Family, Romance
+Description: Daniel accompanies his mentor to Okinawa who is off to see his dying father and confront his old rival, while Daniel inadvertently makes an enemy of his own.
+31. Movie: Wildcats
+Genre: Comedy, Sport
+Description: A rookie high school football coach has a harder time than she expected trying to whip her tough inner city team into shape.
+32. Movie: Chopping Mall
+Genre: Comedy, Horror, Sci-Fi
+Description: Eight teenagers are trapped after hours in a high tech shopping mall and pursued by three murderous security robots out of control.
+33. Movie: ¡Three Amigos!
+Genre: Comedy, Western
+Description: Three actors accept an invitation to a Mexican village to perform their onscreen bandit fighter roles, unaware that it is the real thing.
+34. Movie: Back to School
+Genre: Comedy, Romance, Sport
+Description: To help his discouraged son get through college, a funloving and obnoxious rich businessman decides to enter the school as a student himself.
+35. Movie: About Last Night...
+Genre: Comedy, Drama, Romance
+Description: A man and woman meet and try to have a romantic affair, despite their personal problems and the interference of their disapproving friends.
+36. Movie: Sid and Nancy
+Genre: Biography, Drama, Music
+Description: Morbid biographical story of Sid Vicious, bassist with British punk group the Sex Pistols, and his girlfriend Nancy Spungen. When the Sex Pistols break up after their fateful US tour, ...See full summary&nbsp;&raquo;
+37. Movie: The Money Pit
+Genre: Comedy
+Description: A young couple struggles to repair a hopelessly dilapidated house.
+38. Movie: Troll
+Genre: Comedy, Fantasy, Horror
+Description: A wicked troll king in search of a mystical ring that will return him to his human form invades a San Francisco apartment complex where a powerful witch lives.
+39. Movie: An American Tail
+Genre: Animation, Comedy, Drama
+Description: While emigrating to the United States, a young Russian mouse gets separated from his family and must relocate them while trying to survive in a new country.
+40. Movie: The Mosquito Coast
+Genre: Adventure, Drama, Thriller
+Description: An eccentric and dogmatic inventor sells his house and takes his family to Central America to build a utopia in the middle of the jungle. Conflicts with his family, a local preacher and ...See full summary&nbsp;&raquo;
+41. Movie: Maximum Overdrive
+Genre: Action, Comedy, Horror
+Description: A group of people try to survive when machines start to come alive and become homicidal.
+42. Movie: Heartburn
+Genre: Comedy, Drama
+Description: An autobiographical look at the breakup of Ephron's marriage to Carl "All the President's Men" Bernstein that was also a best-selling novel. The Ephron character, Rachel is a food writer at...See full summary&nbsp;&raquo;
+43. Movie: Star Trek IV: The Voyage Home
+Genre: Adventure, Comedy, Sci-Fi
+Description: To save Earth from an alien probe, Admiral James T. Kirk and his fugitive crew go back in time to San Francisco in 1986 to retrieve the only beings who can communicate with it: humpback whales.
+44. Movie: Heartbreak Ridge
+Genre: Action, Comedy, Drama
+Description: A hard-nosed, hard-living Marine gunnery sergeant clashes with his superiors and his ex-wife as he takes command of a spoiled recon platoon with a bad attitude.
+45. Movie: Peggy Sue Got Married
+Genre: Comedy, Drama, Fantasy
+Description: Peggy Sue faints at a high school reunion. When she wakes up, she finds herself in her own past, just before she finished school.
+46. Movie: River's Edge
+Genre: Crime, Drama
+Description: A high school slacker commits a shocking act and proceeds to let his friends in on the secret. However, the friends' reaction is almost as ambiguous and perplexing as the crime itself.
+47. Movie: 37°2 le matin
+Genre: Drama, Romance
+Description: Zorg is a handyman working in France, maintaining and looking after the bungalows. He lives a quiet and peaceful life, working diligently and writing in his spare time. One day, Betty walks...See full summary&nbsp;&raquo;
+48. Movie: From Beyond
+Genre: Horror, Sci-Fi
+Description: A group of scientists have developed the Resonator, a machine which allows whoever is within range to see beyond normal perceptible reality. But when the experiment succeeds, they are immediately attacked by terrible life forms.
+49. Movie: Lucas
+Genre: Comedy, Drama, Romance
+Description: A socially inept fourteen year old experiences heartbreak for the first time when his two best friends -- Cappie, an older-brother figure, and Maggie, the new girl with whom he is in love -- fall for each other.
+50. Movie: Koneko monogatari
+Genre: Adventure, Drama, Family
+Description: The adventures of a young cat and a dog as they find themselves accidentally separated and each swept into a hazardous trek.
