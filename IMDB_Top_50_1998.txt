@@ -1,0 +1,151 @@
+Most Popular Feature Films Released 1998-01-01 to 1998-12-31 : 
+1. Movie: Saving Private Ryan
+Genre: Drama, War
+Description: Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.
+2. Movie: American History X
+Genre: Crime, Drama
+Description: A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.
+3. Movie: The Big Lebowski
+Genre: Comedy, Crime, Mystery
+Description: "The Dude" Lebowski, mistaken for a millionaire Lebowski, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.
+4. Movie: Armageddon
+Genre: Action, Adventure, Sci-Fi
+Description: After discovering that an asteroid the size of Texas is going to impact Earth in less than a month, N.A.S.A. recruits a misfit team of deep core drillers to save the planet.
+5. Movie: The Parent Trap
+Genre: Adventure, Comedy, Drama
+Description: Identical twins Annie and Hallie, separated at birth and each raised by one of their biological parents, later discover each other for the first time at summer camp and make a plan to bring their wayward parents back together.
+6. Movie: The Truman Show
+Genre: Comedy, Drama, Sci-Fi
+Description: An insurance salesman/adjuster discovers his entire life is actually a television show.
+7. Movie: The Wedding Singer
+Genre: Comedy, Music, Romance
+Description: Robbie, a singer, and Julia, a waitress, are both engaged, but to the wrong people. Fortune intervenes to help them discover each other.
+8. Movie: Lock, Stock and Two Smoking Barrels
+Genre: Comedy, Crime
+Description: A botched card game in London triggers four friends, thugs, weed-growers, hard gangsters, loan sharks and debt collectors to collide with each other in a series of unexpected events, all for the sake of weed, cash and two antique shotguns.
+9. Movie: Mulan
+Genre: Animation, Adventure, Family
+Description: To save her father from death in the army, a young maiden secretly goes in his place and becomes one of China's greatest heroines in the process.
+10. Movie: You've Got Mail
+Genre: Comedy, Drama, Romance
+Description: Two business rivals who despise each other in real life unwittingly fall in love over the Internet.
+11. Movie: Fear and Loathing in Las Vegas
+Genre: Adventure, Comedy, Drama
+Description: An oddball journalist and his psychopathic lawyer travel to Las Vegas for a series of psychedelic escapades.
+12. Movie: There's Something About Mary
+Genre: Comedy, Romance
+Description: A man gets a chance to meet up with his dream girl from high school, even though his date with her back then was a complete disaster.
+13. Movie: Meet Joe Black
+Genre: Drama, Fantasy, Romance
+Description: Death, who takes the form of a young man, asks a media mogul to act as a guide to teach him about life on Earth and in the process he falls in love with his guide's daughter.
+14. Movie: Practical Magic
+Genre: Comedy, Drama, Fantasy
+Description: The wry, comic romantic tale follows the Owens sisters, Sally and Gillian, as they struggle to use their hereditary gift for practical magic to overcome the obstacles in discovering true love.
+15. Movie: The Thin Red Line
+Genre: Drama, War
+Description: Terrence Malick's adaptation ofJames Jones' autobiographical 1962 novel, focusing on the conflict at Guadalcanal during the second World War.
+16. Movie: Dark City
+Genre: Action, Drama, Mystery
+Description: A man struggles with memories of his past, including a wife he cannot remember, in a nightmarish world with no sun.
+17. Movie: Six Days Seven Nights
+Genre: Action, Adventure, Comedy
+Description: Robin Monroe, a New York magazine editor, and the gruff pilot Quinn Harris must put aside their mutual dislike if they are to survive after crash landing on a deserted South Seas island.
+18. Movie: Rush Hour
+Genre: Action, Comedy, Crime
+Description: A loyal and dedicated Hong Kong inspector teams up with a reckless and loudmouthed LAPD detective to rescue the Chinese Consul's kidnapped daughter, while trying to arrest a dangerous crime lord along the way.
+19. Movie: The Man in the Iron Mask
+Genre: Action, Adventure
+Description: The cruel King Louis XIV of France has a secret twin brother who he keeps imprisoned. Can the twin be substituted for the real king?
+20. Movie: Wild Things
+Genre: Crime, Drama, Mystery
+Description: A police detective uncovers a conspiracy behind a case involving a high-school guidance counselor when accusations of rape are made against him by two female students.
+21. Movie: Deep Impact
+Genre: Action, Drama, Romance
+Description: Unless a comet can be destroyed before colliding with Earth, only those allowed into shelters will survive. Which people will survive?
+22. Movie: Shakespeare in Love
+Genre: Comedy, Drama, History
+Description: A young Shakespeare, out of ideas and short of cash, meets his ideal woman and is inspired to write one of his most famous plays.
+23. Movie: Fallen
+Genre: Action, Crime, Drama
+Description: Homicide detective John Hobbes witnesses the execution of serial killer Edgar Reese. Soon after the execution the killings start again, and they are very similar to Reese's style.
+24. Movie: Blade
+Genre: Action, Horror
+Description: A half-vampire, half-mortal man becomes a protector of the mortal race, while slaying evil vampires.
+25. Movie: A Bug's Life
+Genre: Animation, Adventure, Comedy
+Description: A misfit ant, looking for "warriors" to save his colony from greedy grasshoppers, recruits a group of bugs that turn out to be an inept circus troupe.
+26. Movie: The Mask of Zorro
+Genre: Action, Adventure, Comedy
+Description: A young thief, seeking revenge for the death of his brother, is trained by the once great, but aged Zorro, who also pursues vengeance of his own.
+27. Movie: EverAfter
+Genre: Comedy, Drama, Romance
+Description: The "real" story of Cinderella. A refreshing new take on the classic fairy tale.
+28. Movie: Elizabeth
+Genre: Biography, Drama, History
+Description: A film of the early years of the reign of Elizabeth I of England and her difficult task of learning what is necessary to be a monarch.
+29. Movie: The Prince of Egypt
+Genre: Animation, Adventure, Biography
+Description: An Egyptian prince learns of his identity as a Hebrew, and later, his destiny to become the chosen deliverer of his people.
+30. Movie: Enemy of the State
+Genre: Action, Crime, Drama
+Description: A lawyer becomes a target by a corrupt politician and his NSA goons when he accidentally receives key evidence to a serious politically motivated crime.
+31. Movie: Rushmore
+Genre: Comedy, Drama
+Description: The extracurricular king of Rushmore preparatory school is put on academic probation.
+32. Movie: What Dreams May Come
+Genre: Drama, Fantasy, Romance
+Description: After he dies in a car crash, a man searches heaven and hell for his beloved wife.
+33. Movie: Small Soldiers
+Genre: Action, Adventure, Comedy
+Description: When missile technology is used to enhance toy action figures, the toys soon begin to take their battle programming too seriously.
+34. Movie: The Waterboy
+Genre: Comedy, Sport
+Description: A waterboy for a college football team discovers he has a unique tackling ability and becomes a member of the team.
+35. Movie: Half Baked
+Genre: Comedy, Crime
+Description: The story of three not so bright men who come up with a series of crazy schemes to get a friend out of jail.
+36. Movie: Lost in Space
+Genre: Action, Adventure, Family
+Description: The Robinson family was going into space to fight for a chance for humanity. Now they are fighting to live long enough to find a way home.
+37. Movie: Rounders
+Genre: Crime, Drama
+Description: A young man is a reformed gambler who must return to playing big stakes poker to help a friend pay off loan sharks.
+38. Movie: Pleasantville
+Genre: Comedy, Drama, Fantasy
+Description: Two 1990s teenage siblings find themselves in a 1950s sitcom where their influence begins to profoundly change that complacent world.
+39. Movie: Godzilla
+Genre: Action, Sci-Fi, Thriller
+Description: A giant, reptilian monster surfaces, leaving destruction in its wake. To stop the monster (and its babies), an earthworm scientist, his reporter ex-girlfriend, and other unlikely heroes team up to save their city.
+40. Movie: Ronin
+Genre: Action, Adventure, Crime
+Description: A freelancing former U.S. intelligence agent tries to track down a mysterious package that is wanted by both the Irish and the Russians.
+41. Movie: The X Files
+Genre: Drama, Mystery, Sci-Fi
+Description: Mulder and Scully must fight the government in a conspiracy and find the truth about an alien colonization of Earth.
+42. Movie: Can't Hardly Wait
+Genre: Comedy, Romance
+Description: Multicharacter teenage comedy about high school graduates with different agenda of life on graduation night.
+43. Movie: Stepmom
+Genre: Comedy, Drama
+Description: A terminally ill woman has to settle on her former husband's new lover, who will be their children's stepmother.
+44. Movie: The Faculty
+Genre: Horror, Sci-Fi
+Description: Students suspect that their teachers are aliens after bizarre occurrences.
+45. Movie: Lola rennt
+Genre: Crime, Drama, Thriller
+Description: After a botched money delivery, Lola has 20 minutes to come up with 100,000 Deutschmarks.
+46. Movie: Lethal Weapon 4
+Genre: Action, Crime, Thriller
+Description: With personal crises and age weighing in on them, LAPD officers Riggs and Murtaugh must contend with a deadly Chinese crimelord trying to get his brother out of prison.
+47. Movie: Hope Floats
+Genre: Drama, Romance
+Description: Birdee Calvert must choose between her morals and her heart after her husband divorces her and a charming young man, who her daughter disapproves of, comes back into her life.
+48. Movie: Pi
+Genre: Drama, Horror, Mystery
+Description: A paranoid mathematician searches for a key number that will unlock the universal patterns found in nature.
+49. Movie: Patch Adams
+Genre: Biography, Comedy, Drama
+Description: The true story of a heroic man, Hunter Patch Adams, determined to become a medical doctor because he enjoys helping people. He ventured where no doctor had ventured before, using humour and pathos.
+50. Movie: Ringu
+Genre: Horror, Mystery, Sci-Fi
+Description: Ruthlessly murdered by her father, the ghost of a seer's daughter kills all those seven days after they watch the strange contents of a mysterious video tape, unless the viewer finds the escape clause.

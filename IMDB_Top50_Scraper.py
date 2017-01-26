@@ -13,8 +13,8 @@ article = soup.find('div', attrs={'class': 'article'}).find('h1')
 print article.contents[0] + ': '
 lister_list_contents = soup.find('div', attrs={'class': 'lister-list'})
 i = 1
-itermovie = soup.findAll('div', attrs={'class': 'lister-item mode-advanced'})
-for div in tqdm(itermovie):
+movieList = soup.findAll('div', attrs={'class': 'lister-item mode-advanced'})
+for div in tqdm(movieList):
     print str(i) + '.',
     header = div.findChildren('h3', attrs={'class': 'lister-item-header'})
     for item in header:

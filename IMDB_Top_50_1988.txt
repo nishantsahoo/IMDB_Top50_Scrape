@@ -1,0 +1,151 @@
+Most Popular Feature Films Released 1988-01-01 to 1988-12-31 : 
+1. Movie: Die Hard
+Genre: Action, Thriller
+Description: John McClane, officer of the NYPD, tries to save his wife Holly Gennaro and several others that were taken hostage by German terrorist Hans Gruber during a Christmas party at the Nakatomi Plaza in Los Angeles.
+2. Movie: Beaches
+Genre: Comedy, Drama, Music
+Description: A privileged rich debutante and a cynical struggling entertainer share a turbulent, but strong childhood friendship over the years.
+3. Movie: Willow
+Genre: Action, Adventure, Drama
+Description: A reluctant dwarf must play a critical role in protecting a special baby from an evil queen.
+4. Movie: Beetlejuice
+Genre: Comedy, Fantasy
+Description: A couple of recently deceased ghosts contract the services of a "bio-exorcist" in order to remove the obnoxious new owners of their house.
+5. Movie: Rain Man
+Genre: Drama
+Description: Selfish yuppie Charlie Babbitt's father left a fortune to his savant brother Raymond and a pittance to Charlie; they travel cross-country.
+6. Movie: Heathers
+Genre: Comedy
+Description: In order to get out of the snobby clique that is destroying her good-girl reputation, an intelligent teen teams up with a dark sociopath in a plot to kill the cool kids.
+7. Movie: They Live
+Genre: Action, Horror, Sci-Fi
+Description: A drifter discovers a pair of sunglasses that allow him to wake up to the fact that aliens have taken over the Earth.
+8. Movie: Big
+Genre: Comedy, Drama, Family
+Description: After wishing to be made big, a teenage boy wakes the next morning to find himself mysteriously in the body of an adult.
+9. Movie: Akira
+Genre: Animation, Action, Drama
+Description: A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.
+10. Movie: Coming to America
+Genre: Comedy, Romance
+Description: An extremely pampered African prince travels to Queens, New York City, and goes undercover to find a wife whom he can respect for her intelligence and will.
+11. Movie: Hotaru no haka
+Genre: Animation, Drama, War
+Description: A young boy and his little sister struggle to survive in Japan during World War II.
+12. Movie: Tonari no Totoro
+Genre: Animation, Family, Fantasy
+Description: When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.
+13. Movie: Nuovo Cinema Paradiso
+Genre: Drama
+Description: A filmmaker recalls his childhood, when he fell in love with the movies at his village's theater and formed a deep friendship with the theater's projectionist.
+14. Movie: Who Framed Roger Rabbit
+Genre: Animation, Adventure, Comedy
+Description: A toon-hating detective is a cartoon rabbit's only hope to prove his innocence when he is accused of murder.
+15. Movie: Twins
+Genre: Comedy, Crime
+Description: A physically perfect but innocent man goes in search of his long-lost twin brother, who is a short small-time crook.
+16. Movie: A Fish Called Wanda
+Genre: Comedy, Crime
+Description: In London, four very different people team up to commit armed robbery, then try to doublecross each other for the loot.
+17. Movie: Working Girl
+Genre: Comedy, Drama, Romance
+Description: When a secretary's idea is stolen by her boss, she seizes an opportunity to steal it back by pretending she has her boss' job.
+18. Movie: The Last Temptation of Christ
+Genre: Drama
+Description: The life of Jesus Christ, his journey through life as he faces the struggles all humans do, and his final temptation on the cross.
+19. Movie: License to Drive
+Genre: Comedy
+Description: A teen decides to go for a night on the town with his friends despite flunking his driver's test.
+20. Movie: Hairspray
+Genre: Comedy, Drama, Family
+Description: A 'pleasantly plump' teenager teaches 1962 Baltimore a thing or two about integration after landing a spot on a local TV dance show.
+21. Movie: Mississippi Burning
+Genre: Crime, Drama, History
+Description: Two FBI agents with wildly different styles arrive in Mississippi to investigate the disappearance of some civil rights activists.
+22. Movie: The Naked Gun: From the Files of Police Squad!
+Genre: Comedy, Crime
+Description: Incompetent police detective Frank Drebin must foil an attempt to assassinateQueen Elizabeth II.
+23. Movie: Young Guns
+Genre: Action, Crime, Drama
+Description: A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.
+24. Movie: The Land Before Time
+Genre: Animation, Adventure, Drama
+Description: An orphaned brontosaurus teams up with other young dinosaurs in order to reunite with their families in a valley.
+25. Movie: Child's Play
+Genre: Horror, Thriller
+Description: A single mother gives her son a much sought after doll for his birthday, only to discover that it is possessed by the soul of a serial killer.
+26. Movie: Bloodsport
+Genre: Action, Biography, Drama
+Description: Follows Frank Dux, an American martial artist serving in the military, who decides to leave the army to compete in a martial arts tournament in Hong Kong where fights to the death can occur.
+27. Movie: Cocktail
+Genre: Comedy, Drama, Romance
+Description: A talented New York City bartender takes a job at a bar in Jamaica and falls in love.
+28. Movie: The Accused
+Genre: Drama
+Description: After a young woman suffers a brutal gang rape in a bar one night, a prosecutor assists in bringing the perpetrators to justice, including the ones who encouraged and cheered on the attack.
+29. Movie: Dangerous Liaisons
+Genre: Drama, Romance
+Description: A scheming widow and her manipulative ex-lover make a bet regarding the corruption of a recently married woman.
+30. Movie: The Unbearable Lightness of Being
+Genre: Drama, Romance
+Description: In 1968, a Czech doctor with an active sex life meets a woman who wants monogamy, and then the Soviet invasion further disrupts their lives.
+31. Movie: Rambo III
+Genre: Action, Adventure, Thriller
+Description: Colonel Trautman is captured by Soviets during a mission in Afghanistan and Rambo sets out to rescue him while taking on the invading Russian forces.
+32. Movie: Friday the 13th Part VII: The New Blood
+Genre: Horror, Thriller
+Description: Years after Tommy Jarvis chained him underwater at Camp Crystal Lake, the dormant Jason Voorhees returns to the camp grounds when he is accidentally released from his prison by a telekinetic teenager.
+33. Movie: Mystic Pizza
+Genre: Comedy, Drama, Romance
+Description: Three teenage girls come of age while working at a pizza parlor in the Connecticut town of Mystic.
+34. Movie: Bull Durham
+Genre: Comedy, Romance, Sport
+Description: A fan who has an affair with one minor-league baseball player each season meets an up-and-coming pitcher and the experienced catcher assigned to him.
+35. Movie: Midnight Run
+Genre: Action, Comedy, Crime
+Description: An accountant is chased by bounty hunters, the FBI, and the Mafia after jumping bail.
+36. Movie: The Dead Pool
+Genre: Action, Mystery, Thriller
+Description: Dirty Harry Callahan must stop a sick secret contest to murder local celebrities, which includes himself as a target.
+37. Movie: Colors
+Genre: Action, Crime, Drama
+Description: An experienced cop and his rookie partner patrol the streets of East Los Angeles while trying to keep the gang violence under control.
+38. Movie: The Great Outdoors
+Genre: Comedy
+Description: A Chicago man's hope for a peaceful family vacation in the woods is shattered when the annoying in-laws drop in.
+39. Movie: Dirty Rotten Scoundrels
+Genre: Comedy, Crime
+Description: Two con men try to settle their rivalry by betting on who can swindle a young American heiress out of $50,000 first.
+40. Movie: Two Moon Junction
+Genre: Drama, Romance
+Description: A young Southern dbutante temporarily abandons her posh lifestyle and upcoming, semi-arranged marriage to have a lustful and erotic fling with a rugged drifter who works at a local carnival.
+41. Movie: Scrooged
+Genre: Comedy, Drama, Fantasy
+Description: A selfish, cynical T.V. executive is haunted by three spirits bearing lessons on Christmas Eve.
+42. Movie: Oliver &amp; Company
+Genre: Animation, Adventure, Comedy
+Description: A lost and alone kitten joins a gang of dogs engaged in petty larceny in New York.
+43. Movie: Bright Lights, Big City
+Genre: Drama
+Description: A disillusioned young writer living in New York City turns to drugs and drinking to block out the memories of his dead mother and estranged wife.
+44. Movie: Caddyshack II
+Genre: Comedy, Sport
+Description: When a crass new-money tycoon's membership application is turned down at a snooty country club, he retaliates by buying the club and turning it into a tacky amusement park.
+45. Movie: The Adventures of Baron Munchausen
+Genre: Adventure, Comedy, Fantasy
+Description: An account of Baron Munchausen's supposed travels and fantastical experiences with his band of misfits.
+46. Movie: Le grand bleu
+Genre: Adventure, Drama, Sport
+Description: The rivalry between Enzo and Jacques, two childhood friends and now world-renowned free divers, becomes a beautiful and perilous journey into oneself and the unknown.
+47. Movie: Stand and Deliver
+Genre: Drama
+Description: The story of Jaime Escalante, a high school teacher who successfully inspired his dropout prone students to learn calculus.
+48. Movie: The Blob
+Genre: Horror, Sci-Fi, Thriller
+Description: A strange lifeform consumes everything in its path as it grows and grows.
+49. Movie: Frantic
+Genre: Crime, Drama, Mystery
+Description: In a hotel room in Paris, a doctor comes out of the shower and finds that his wife has disappeared. He soon finds himself caught up in a world of intrigue, espionage, gangsters, drugs and murder.
+50. Movie: Earth Girls Are Easy
+Genre: Comedy, Musical, Romance
+Description: A Southern California girl befriends three furry aliens after their spaceship lands in her swimming pool.
