@@ -1,0 +1,151 @@
+Most Popular Feature Films Released 1931-01-01 to 1931-12-31 : 
+1. Movie: M
+Genre: Crime, Drama, Mystery
+Description: When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.
+2. Movie: City Lights
+Genre: Comedy, Drama, Romance
+Description: With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.
+3. Movie: A Free Soul
+Genre: Crime, Drama, Romance
+Description: An alcoholic lawyer who successfully defended a notorious gambler on a murder charge objects when his free-spirited daughter becomes romantically involved with him.
+4. Movie: Frankenstein
+Genre: Drama, Horror, Sci-Fi
+Description: An obsessed scientist assembles a living being from parts of exhumed corpses.
+5. Movie: Dracula
+Genre: Fantasy, Horror
+Description: The ancient vampire Count Dracula arrives in England and begins to prey upon the virtuous young Mina.
+6. Movie: Pardon Us
+Genre: Comedy, Crime, Drama
+Description: Two guys end up in prison after attempting to sell beer to a policeman during Prohibition.
+7. Movie: The Public Enemy
+Genre: Action, Crime, Drama
+Description: A young hoodlum rises up through the ranks of the Chicago underworld, even as a gangster's accidental death threatens to spark a bloody mob war.
+8. Movie: Dr. Jekyll and Mr. Hyde
+Genre: Horror, Sci-Fi
+Description: Dr. Jekyll faces horrible consequences when he lets his dark side run wild with a potion that transforms him into the animalistic Mr. Hyde.
+9. Movie: The Front Page
+Genre: Comedy
+Description: An investigative reporter sees an opportunity for the story of a lifetime when an accused murderer escapes hanging.
+10. Movie: Little Caesar
+Genre: Action, Crime, Drama
+Description: A small-time criminal moves to a big city to seek bigger fortune.
+11. Movie: Mata Hari
+Genre: Crime, Drama, Romance
+Description: A semi-fictionalized account of the life of Mata Hari, an exotic dancer who was accused of spying for Germany during World War I.
+12. Movie: The Champ
+Genre: Drama, Sport
+Description: Alcoholic ex-boxer struggles to provide a good living for his son.
+13. Movie: Svengali
+Genre: Drama, Horror, Romance
+Description: Through hypnotism and telepathic mind control, a sinister music maestro controls the singing voice, but not the heart, of the woman he loves.
+14. Movie: Cimarron
+Genre: Drama, Western
+Description: A newspaper editor settles in an Oklahoma boom town with his reluctant wife at the end of the nineteenth century.
+15. Movie: Monkey Business
+Genre: Comedy, Musical
+Description: On a transatlantic crossing, the Marx brothers get up to their usual antics and manage to annoy just about everyone on board the ship.
+16. Movie: Private Lives
+Genre: Comedy, Drama, Romance
+Description: Divorced couple unexpectedly meet each other during their honeymoon and rekindle their love.
+17. Movie: The Bad Sister
+Genre: Drama
+Description: Marianne falls in love with a con artist who has a hidden agenda.
+18. Movie: The Maltese Falcon
+Genre: Crime, Drama, Film-Noir
+Description: A lovely dame with dangerous lies employs the services of a private detective, who is quickly caught up in the mystery and intrigue of a statuette known as the Maltese Falcon.
+19. Movie: Night Nurse
+Genre: Crime, Drama, Mystery
+Description: A nurse enlists the help of a petty criminal to foil a sinister plot to murder two children.
+20. Movie: The Black Camel
+Genre: Crime, Mystery, Thriller
+Description: The unsolved murder of a Hollywood actor several years earlier and an enigmatic psychic are the keys to help Charlie solve the Honolulu stabbing death of a beautiful actress.
+21. Movie: Mädchen in Uniform
+Genre: Drama, Romance
+Description: At an all-girls boarding school, Manuela falls in love with a teacher, to terrific consequences.
+22. Movie: Bad Girl
+Genre: Drama, Romance
+Description: A man and woman, skeptical about romance, nonetheless fall in love and are wed, but their lack of confidence in the opposite sex haunts their marriage.
+23. Movie: Rich and Strange
+Genre: Comedy, Romance, Thriller
+Description: Believing that an unexpected inheritance will bring them happiness, a married couple instead finds their relationship strained to the breaking point.
+24. Movie: Dishonored
+Genre: Drama, Romance, War
+Description: The Austrian Secret Service sends its most seductive agent to spy on the Russians.
+25. Movie: The Skin Game
+Genre: Drama
+Description: An old traditional family and a modern family battle over land in a small English village and almost destroy each other.
+26. Movie: Drácula
+Genre: Fantasy, Horror
+Description: Centuries-old vampire Dracula preys upon the innocent Eva and her friends.
+27. Movie: Platinum Blonde
+Genre: Comedy, Romance
+Description: A young woman from a very rich family impulsively marries a reporter, but each assumes the other is the one whose lifestyle must change.
+28. Movie: The Smiling Lieutenant
+Genre: Comedy, Romance, Musical
+Description: An amorous lieutenant is forced to marry a socially awkward princess, though he tries to keep his violin-playing girlfriend on the side.
+29. Movie: Die 3 Groschen-Oper
+Genre: Comedy, Drama, Musical
+Description: In London at the turn of the century, the bandit Mack the Knife marries Polly without the knowledge of her father, Peachum, the 'king of the beggars'.
+30. Movie: Arrowsmith
+Genre: Drama
+Description: Based on Sinclair Lewis's novel "Arrowsmith". A medical researcher is sent to a plague outbreak, where he has to decide priorities for the use of a vaccine.
+31. Movie: Waterloo Bridge
+Genre: Drama, Romance
+Description: A prostitute's self-loathing makes her reluctant to marry an idealistic soldier during World War One.
+32. Movie: The Miracle Woman
+Genre: Drama, Romance
+Description: After Florence Fallon's father dies unappreciated in the church where he preached for many years, she becomes embittered and loses faith. She teams up with Horsby, a con man, and performs ...See full summary&nbsp;&raquo;
+33. Movie: Alexander Hamilton
+Genre: Biography, Drama, History
+Description: With the end of the Revolutionary War in 1783, General George Washington took Colonel Hamilton with him into the newly formed government. While the main disagreements in the early days was ...See full summary&nbsp;&raquo;
+34. Movie: Indiscreet
+Genre: Comedy, Drama, Musical
+Description: A young woman jeopardizes the relationship with the man she loves when a no-account from her past shows up.
+35. Movie: An American Tragedy
+Genre: Romance, Drama
+Description: A poor factory worker, employed by a wealthy uncle, falls in love with a beautiful heiress but his happiness and promising future are jeopardized by a previous affair with a coworker he impregnated.
+36. Movie: Smart Money
+Genre: Crime, Drama
+Description: Immigrant Greek barber has uncommon skills in playing poker and soon rises in the seedy world of illegal gambling, but pretty blondes remain his Achilles' heel.
+37. Movie: Possessed
+Genre: Drama, Romance
+Description: Ambitious factory Girl Marion Martin meets a handsome well-to-do, but he's interested in her as a mistress, not a wife.
+38. Movie: Susan Lenox 
+Genre: Drama, Romance
+Description: Fleeing her cruel uncle and an arranged marriage Susan Lenox falls in love with a kind stranger but circumstances force her to become a woman of easy virtue.
+39. Movie: Skippy
+Genre: Family, Drama, Comedy
+Description: Skippy, the mischievous son of a wealthy doctor, meets Sooky in poverty-ridden Shantytown, and together they try to save Sooky's pet from a cruel dogcatcher.
+40. Movie: Blonde Crazy
+Genre: Comedy, Crime, Drama
+Description: Adventures of a cocky con man and his glamorous accomplice.
+41. Movie: Marius
+Genre: Comedy, Drama, Romance
+Description: Marius is faced with a choice whether to fulfill his passion by sailing the seas or stay and marry the woman he loves.
+42. Movie: The Painted Desert
+Genre: Western
+Description: Two men find an abandoned baby and fight over the ownership of the child resulting in lifelong rivalry.
+43. Movie: Le million
+Genre: Musical, Comedy
+Description: An impoverished painter and his rival engage in a race across Paris to recover a jacket concealing a winning lottery ticket.
+44. Movie: Tabu: A Story of the South Seas
+Genre: Drama, Romance, Adventure
+Description: On the South Pacific island of Bora Bora, a young couple's love is threatened when the tribal chief declares the girl a sacred virgin.
+45. Movie: Mary
+Genre: Mystery, Thriller
+Description: A juror in a murder trial, after voting to convict, has second thoughts and begins to investigate on his own before the execution.
+46. Movie: À nous la liberté
+Genre: Comedy, Musical
+Description: Seeking better life, two convicts escape from prison.
+47. Movie: Dance, Fools, Dance
+Genre: Crime, Drama, Romance
+Description: After the death of her father and loss of the family fortune, Bonnie gets a job as a cub reporter while her brother becomes involved in bootlegging.
+48. Movie: Safe in Hell
+Genre: Crime, Drama
+Description: After accidentally killing the man who raped her and forced her into prostitution, a New Orleans woman flees to a Caribbean island. While she awaits her fianc, the vicious local police chief sets his sights on her.
+49. Movie: Tonight or Never
+Genre: Comedy, Romance
+Description: A young opera singer finds her career stalled because of her cold and passionless performances, until she finds romance with a handsome admirer.
+50. Movie: The Criminal Code
+Genre: Crime, Drama, Romance
+Description: After a failed attempt at running for governor, D.A. Mark Brady is appointed warden of the state prison where many of the criminals he prosecuted are incarcerated.
