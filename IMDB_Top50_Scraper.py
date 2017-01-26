@@ -21,8 +21,7 @@ for div in tqdm(itermovie):
         title = header[0].findChildren('a')
         print 'Movie: ' + str(title[0].contents[0])
     genre = div.findChildren('span', attrs={'class': 'genre'})
-    genre_contents = genre[0].text.encode('utf-8').decode('ascii', 'ignore')
-    print 'Genre: ' + genre_contents
+    print 'Genre: ' + genre[0].text.encode('utf-8').decode('ascii', 'ignore')
     description = div.findChildren('p', attrs={'class': 'text-muted'})
     description_text = description[0].text.encode('utf-8').decode('ascii', 'ignore')
     print 'Description: ' + description_text
