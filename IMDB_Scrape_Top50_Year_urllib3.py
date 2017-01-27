@@ -1,15 +1,13 @@
-import urllib2
+import urllib3
 import sys
 from bs4 import BeautifulSoup
 from tqdm import tqdm
 name = raw_input('Enter your name: ')
 year = str(int(raw_input('Enter the year: ')))
-sys.stdout = open(name + '_IMDB_Top_50_' + year + '.txt', 'w')
-opener = urllib2.build_opener()
-opener.addheaders = [('User-agent', 'Mozilla/5.0')]
+sys.stdout = open(name + '_IMDB_Top_50_' + year + '_urllib3.txt', 'w')
 url = "http://www.imdb.com/search/title?release_date=" + year + "," + year + "&title_type=feature"
-ourUrl = opener.open(url).read()
-soup = BeautifulSoup(ourUrl)
+r = urllib3.PoolManager().request('GET', url).data
+soup = BeautifulSoup(r, "html.parser")
 article = soup.find('div', attrs={'class': 'article'}).find('h1')
 print article.contents[0] + ': '
 lister_list_contents = soup.find('div', attrs={'class': 'lister-list'})
@@ -22,8 +20,9 @@ for div in tqdm(movieList):
         title = header[0].findChildren('a')
         print 'Movie: ' + str(title[0].contents[0])
     genre = div.findChildren('span', attrs={'class': 'genre'})
-    print 'Genre: ' + genre[0].text.encode('utf-8').decode('ascii', 'ignore')
-    description = div.findChildren('p', attrs={'class': 'text-muted'})
-    description_text = description[0].text.encode('utf-8').decode('ascii', 'ignore')
-    print 'Description: ' + description_text
+    genre_text = genre[0].text.encode('utf-8').decode('ascii', 'ignore')
+    print 'Genre: ' + genre_text.strip('\n')
+    p_all = div.findAll('p', attrs={'class': 'text-muted'})
+    desc = p_all[1].text.encode('utf-8').decode('ascii', 'ignore')
+    print 'Description: ' + desc.strip('\n')
     i += 1

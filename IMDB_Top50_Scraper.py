@@ -1,6 +1,6 @@
 import urllib2
 import sys
-from BeautifulSoup import BeautifulSoup
+from bs4 import BeautifulSoup
 from tqdm import tqdm
 import datetime
 current_year = int(datetime.datetime.now().year)
