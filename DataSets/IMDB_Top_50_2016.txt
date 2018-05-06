@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 2016-01-01 to 2016-12-31 : 
-1. Movie: La La Land
-Genre: Comedy, Drama, Musical
-Description: A jazz pianist falls for an aspiring actress in Los Angeles.
-2. Movie: Split
-Genre: Horror, Thriller
-Description: Three girls are kidnapped by a man with a diagnosed 23 distinct personalities, and must try and escape before the apparent emergence of a frightful new 24th.
-3. Movie: Arrival
-Genre: Drama, Mystery, Sci-Fi
-Description: When twelve mysterious spacecraft appear around the world, linguistics professor Louise Banks is tasked with interpreting the language of the apparent alien visitors.
-4. Movie: Rogue One
-Genre: Action, Adventure, Sci-Fi
-Description: The Rebel Alliance makes a risky move to steal the plans for the Death Star, setting up the epic saga to follow.
-5. Movie: Patriots Day
-Genre: Drama, History, Thriller
-Description: The story of the 2013 Boston Marathon bombing and the aftermath, which includes the city-wide manhunt to find the terrorists responsible.
-6. Movie: Hidden Figures
-Genre: Biography, Drama, History
-Description: Based on a true story. A team of African-American women provide NASA with important mathematical data needed to launch the program's first successful space missions.
-7. Movie: Passengers
-Genre: Adventure, Drama, Romance
-Description: A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early.
-8. Movie: Live by Night
-Genre: Crime, Drama
-Description: A group of Boston-bred gangsters set up shop in balmy Florida during the Prohibition era, facing off against the competition and the Ku Klux Klan.
-9. Movie: Fantastic Beasts and Where to Find Them
-Genre: Adventure, Family, Fantasy
-Description: The adventures of writer Newt Scamander in New York's secret community of witches and wizards seventy years before Harry Potter reads his book in school.
-10. Movie: Hacksaw Ridge
-Genre: Drama, History, War
-Description: WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people, and becomes the first man in American history to receive the Medal of Honor without firing a shot.
-11. Movie: Moonlight
-Genre: Drama
-Description: A timeless story of human self-discovery and connection, Moonlight chronicles the life of a young black man from childhood to adulthood as he struggles to find his place in the world while growing up in a rough neighborhood of Miami.
-12. Movie: Underworld: Blood Wars
-Genre: Action, Horror
-Description: Vampire death dealer, Selene (Kate Beckinsale) fights to end the eternal war between the Lycan clan and the Vampire faction that betrayed her.
-13. Movie: Sing
-Genre: Animation, Comedy, Drama
-Description: In a city of humanoid animals, a hustling theater impresario's attempt to save his theater with a singing competition becomes grander than he anticipates even as its finalists' find that their lives will never be the same.
-14. Movie: Silence
-Genre: Drama, History
-Description: Two priests travel to Japan in an attempt to locate their mentor and propagate Catholicism.
-15. Movie: The Girl on the Train
-Genre: Drama, Mystery, Thriller
-Description: A divorcee becomes entangled in a missing persons investigation that promises to send shockwaves throughout her life.
-16. Movie: Grave
-Genre: Horror
-Description: When a young vegetarian undergoes a carnivorous hazing ritual at vet school, an unbidden taste for meat begins to grow in her.
-17. Movie: Resident Evil: The Final Chapter
-Genre: Action, Horror, Sci-Fi
-Description: Picking up immediately after the events in Resident Evil: Retribution, Alice (Milla Jovovich) is the only survivor of what was meant to be humanity's final stand against the undead. Now, ...See full summary&nbsp;&raquo;
-18. Movie: Assassin's Creed
-Genre: Action, Adventure, Fantasy
-Description: When Callum Lynch explores the memories of his ancestor Aguilar and gains the skills of a Master Assassin, he discovers he is a descendant of the secret Assassins society.
-19. Movie: The Accountant
-Genre: Action, Crime, Drama
-Description: As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities and the body count starts to rise.
-20. Movie: Deepwater Horizon
-Genre: Drama, Thriller
-Description: A dramatization of the April 2010 disaster, when the offshore drilling rig Deepwater Horizon exploded and created the worst oil spill in U.S. history.
-21. Movie: Suicide Squad
-Genre: Action, Adventure, Fantasy
-Description: A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force. Their first mission: save the world from the apocalypse.
+1. Movie: Captain America: Civil War
+2. Movie: Deadpool
+3. Movie: Doctor Strange
+4. Movie: Suicide Squad
+5. Movie: True Crimes
+6. Movie: Split
+7. Movie: X-Men: Apocalypse
+8. Movie: Moana
+9. Movie: Sing
+10. Movie: 13 Hours
+11. Movie: Hacksaw Ridge
+12. Movie: Fantastic Beasts and Where to Find Them
+13. Movie: Rogue One
+14. Movie: Batman v Superman: Dawn of Justice
+15. Movie: Friend Request
+16. Movie: La La Land
+17. Movie: Dirty Grandpa
+18. Movie: Gods of Egypt
+19. Movie: Star Trek: Beyond
+20. Movie: The Master Cleanse
+21. Movie: The Girl on the Train
 22. Movie: The Magnificent Seven
-Genre: Action, Adventure, Western
-Description: Seven gunmen in the old west gradually come together to help a poor village against savage thieves.
-23. Movie: Manchester by the Sea
-Genre: Drama
-Description: An uncle is asked to take care of his teenage nephew after the boy's father dies.
-24. Movie: Moana
-Genre: Animation, Adventure, Comedy
-Description: In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches an impetuous Chieftain's daughter's island, she answers the Ocean's call to seek out the Demigod to set things right.
-25. Movie: Nocturnal Animals
-Genre: Drama, Thriller
-Description: A wealthy art gallery owner is haunted by her ex-husband's novel, a violent thriller she interprets as a symbolic revenge tale.
-26. Movie: The Founder
-Genre: Biography, Drama, History
-Description: The story ofRay Kroc, a salesman who turned two brothers' innovative fast food eatery, McDonald's, into one of the biggest restaurant businesses in the world with a combination of ambition, persistence, and ruthlessness.
-27. Movie: A Monster Calls
-Genre: Drama, Fantasy
-Description: A boy seeks the help of a tree monster to cope with his single mother's terminal illness.
-28. Movie: Lion
-Genre: Drama
-Description: A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia; 25 years later, he sets out to find his lost family.
-29. Movie: Jack Reacher: Never Go Back
-Genre: Action, Adventure, Crime
-Description: Jack Reacher must uncover the truth behind a major government conspiracy in order to clear his name. On the run as a fugitive from the law, Reacher uncovers a potential secret from his past that could change his life forever.
-30. Movie: Trolls
-Genre: Animation, Adventure, Comedy
-Description: After the Bergens invade Troll Village, Poppy, the happiest Troll ever born, and the curmudgeonly Branch set off on a journey to rescue her friends.
-31. Movie: The Great Wall
-Genre: Action, Adventure, Fantasy
-Description: European mercenaries searching for black powder become embroiled in the defense of the Great Wall of China against a horde of monstrous creatures.
-32. Movie: Monster Trucks
-Genre: Animation, Action, Adventure
-Description: Looking for any way to get away from the life and town he was born into, Tripp (Lucas Till), a high school senior, builds a Monster Truck from bits and pieces of scrapped cars. After an ...See full summary&nbsp;&raquo;
-33. Movie: Miss Peregrine's Home for Peculiar Children
-Genre: Adventure, Drama, Family
-Description: When Jacob discovers clues to a mystery that stretches across time, he finds Miss Peregrine's Home for Peculiar Children. But the danger deepens after he gets to know the residents and learns about their special powers.
-34. Movie: Fences
-Genre: Drama
-Description: A working-class African-American father tries to raise his family in the 1950s, while coming to terms with the events of his life.
-35. Movie: The Girl with All the Gifts
-Genre: Drama, Horror, Thriller
-Description: A scientist and a teacher living in a dystopian future embark on a journey of survival with a special young girl named Melanie.
-36. Movie: The Secret Life of Pets
-Genre: Animation, Adventure, Comedy
-Description: The quiet life of a terrier named Max is upended when his owner takes in Duke, a stray whom Max instantly dislikes.
-37. Movie: Why Him?
-Genre: Comedy
-Description: A holiday gathering threatens to go off the rails when Ned Fleming realizes that his daughter's Silicon Valley billionaire boyfriend is about to pop the question.
-38. Movie: Collide
-Genre: Action, Thriller
-Description: An American backpacker gets involved with a ring of drug smugglers as their driver, though he winds up on the run from his employers across Cologne high-speed Autobahn.
-39. Movie: Deadpool
-Genre: Action, Adventure, Comedy
-Description: A fast-talking mercenary with a morbid sense of humor is subjected to a rogue experiment that leaves him with accelerated healing powers and a quest for revenge.
-40. Movie: Sleight
-Genre: Action, Drama, Sci-Fi
-Description: A young street magician (Jacob Latimore) is left to care for his little sister after their parents passing and turns to illegal activities to keep a roof over their heads. When he gets in ...See full summary&nbsp;&raquo;
-41. Movie: Alice Through the Looking Glass
-Genre: Adventure, Family, Fantasy
-Description: Alice returns to the whimsical world of Wonderland and travels back in time to help the Mad Hatter.
-42. Movie: Keeping Up with the Joneses
-Genre: Action, Comedy
-Description: A suburban couple becomes embroiled in an international espionage plot when they discover that their seemingly perfect new neighbors are government spies.
-43. Movie: Dangal
-Genre: Biography, Drama, Sport
-Description: Biographical sports drama on former wrestler Mahavir Singh Phogat and his two wrestler daughters' struggle towards glory at the Commonwealth Games in the face of societal oppression.
-44. Movie: Gold
-Genre: Adventure, Drama, Thriller
-Description: Kenny Wells, a prospector desperate for a lucky break, teams up with a similarly eager geologist and sets off on a journey to find gold in the uncharted jungle of Indonesia.
-45. Movie: Collateral Beauty
-Genre: Drama, Romance
-Description: Retreating from life after a tragedy, a man questions the universe by writing to Love, Time and Death. Receiving unexpected answers, he begins to see how these things interlock and how even loss can reveal moments of meaning and beauty.
-46. Movie: Inferno
-Genre: Action, Adventure, Crime
-Description: When Robert Langdon wakes up in an Italian hospital with amnesia, he teams up with Dr. Sienna Brooks, and together they must race across Europe against the clock to foil a deadly global plot.
-47. Movie: Jackie
-Genre: Biography, Drama
-Description: Following the assassination of PresidentJohn F. Kennedy, First LadyJacqueline Kennedyfights through grief and trauma to regain her faith, console her children, and define her husband's historic legacy.
-48. Movie: Hell or High Water
-Genre: Crime, Drama, Western
-Description: A divorced father and his ex-con older brother resort to a desperate scheme in order to save their family's ranch in West Texas.
-49. Movie: Youth in Oregon
-Genre: Comedy, Drama
-Description: A man is tasked with driving his embittered 80-year-old father-in-law cross country to be legally euthanized in Oregon, while along the way helping him rediscover a reason for living.
-50. Movie: Now You See Me 2
-Genre: Action, Adventure, Comedy
-Description: The Four Horsemen resurface and are forcibly recruited by a tech genius to pull off their most impossible heist yet.
+23. Movie: 10 Cloverfield Lane
+24. Movie: Trolls
+25. Movie: Arrival
+26. Movie: Me Before You
+27. Movie: Warcraft
+28. Movie: Hidden Figures
+29. Movie: Moonlight
+30. Movie: Passengers
+31. Movie: Miss Peregrine's Home for Peculiar Children
+32. Movie: Ghostbusters
+33. Movie: The Huntsman: Winter's War
+34. Movie: The Jungle Book
+35. Movie: Nocturnal Animals
+36. Movie: The Nice Guys
+37. Movie: Central Intelligence
+38. Movie: Jason Bourne
+39. Movie: Kimi no na wa.
+40. Movie: Hell or High Water
+41. Movie: The Lost City of Z
+42. Movie: Patriots Day
+43. Movie: Don't Breathe
+44. Movie: Zootopia
+45. Movie: The Neon Demon
+46. Movie: The Secret Life of Pets
+47. Movie: The Accountant
+48. Movie: Finding Dory
+49. Movie: The Choice
+50. Movie: Dangal

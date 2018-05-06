@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 1962-01-01 to 1962-12-31 : 
-1. Movie: To Kill a Mockingbird
-Genre: Crime, Drama
-Description: Atticus Finch, a lawyer in the Depression-era South, defends a black man against an undeserved rape charge, and his children against prejudice.
-2. Movie: Lawrence of Arabia
-Genre: Adventure, Biography, Drama
-Description: The story ofT.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.
-3. Movie: Lolita
-Genre: Crime, Drama, Romance
-Description: A middle-aged college professor becomes infatuated with a fourteen-year-old nymphet.
-4. Movie: What Ever Happened to Baby Jane?
-Genre: Drama, Horror, Thriller
-Description: A former child star torments her paraplegic sister in their decaying Hollywood mansion.
+1. Movie: Lolita
+2. Movie: To Kill a Mockingbird
+3. Movie: Lawrence of Arabia
+4. Movie: Advise & Consent
 5. Movie: Dr. No
-Genre: Action, Adventure, Thriller
-Description: A resourceful British government agent seeks answers in a case involving the disappearance of a colleague and the disruption of the American space program.
-6. Movie: The Manchurian Candidate
-Genre: Drama, Thriller
-Description: A former prisoner of war is brainwashed as an unwitting assassin for an international Communist conspiracy.
-7. Movie: The Longest Day
-Genre: Action, Drama, History
-Description: The events of D-Day, told on a grand scale from both the Allied and German points of view.
-8. Movie: How the West Was Won
-Genre: Western
-Description: A family saga covering several decades of Westward expansion in the nineteenth century - including the Gold Rush, the Civil War, and the building of the railroads.
+6. Movie: How the West Was Won
+7. Movie: What Ever Happened to Baby Jane?
+8. Movie: The Longest Day
 9. Movie: The Man Who Shot Liberty Valance
-Genre: Action, Drama, Western
-Description: A senator, who became famous for killing a notorious outlaw, returns for the funeral of an old friend and tells the truth about his deed.
-10. Movie: Cape Fear
-Genre: Drama, Horror, Thriller
-Description: A lawyer's family is stalked by a man he once helped put in jail.
-11. Movie: The Miracle Worker
-Genre: Biography, Drama
-Description: The story ofAnne Sullivan's struggle to teach the blind and deafHelen Kellerhow to communicate.
-12. Movie: The Music Man
-Genre: Comedy, Musical, Romance
-Description: Harold Hill poses as a boys' band leader to con naive Iowa townsfolk.
-13. Movie: Mutiny on the Bounty
-Genre: Adventure, Drama, History
-Description: In 1787, British ship Bounty leaves Portsmouth to bring a cargo of bread-fruit from Tahiti but the savage on-board conditions imposed by Captain Bligh trigger a mutiny led by officer Fletcher Christian.
-14. Movie: Le procès
-Genre: Drama, Mystery, Thriller
-Description: An unassuming office worker is arrested and stands trial, but he is never made aware of his charges.
-15. Movie: We Joined the Navy
-Genre: Comedy, Romance
-Description: This is the story of the riotous, romantic, exciting, astonishing and highly entertaining adventures of Lt Commander Badger, RN. An exceptionally likeable fellow, the Badger has one besetting sin, a shining honesty.
-16. Movie: Jules et Jim
-Genre: Drama, Romance
-Description: Decades of a love triangle concerning two friends and an impulsive woman.
-17. Movie: Hatari!
-Genre: Action, Adventure, Drama
-Description: A group of men trap wild animals in Africa and sell them to zoos before the arrival of a female wildlife photographer threatens to change their ways.
-18. Movie: Vivre sa vie: Film en douze tableaux
-Genre: Drama
-Description: Twelve episodic tales in the life of a Parisian woman and her slow descent into prostitution.
-19. Movie: Ivanovo detstvo
-Genre: Drama, War
-Description: In WW2, twelve year old Soviet orphan Ivan Bondarev works for the Soviet army as a scout behind the German lines and strikes a friendship with three sympathetic Soviet officers.
-20. Movie: El Ángel Exterminador
-Genre: Comedy, Drama, Fantasy
-Description: The guests at an upper-class dinner party find themselves unable to leave.
-21. Movie: Boccaccio '70
-Genre: Comedy, Fantasy, Romance
-Description: Four directors tell tales of Eros fit for a 1970s Decameron. Working-class lovers, Renzo and Luciana, marry but must hide it from her employer; plus, they need a room of their own. A ...See full summary&nbsp;&raquo;
-22. Movie: Carnival of Souls
-Genre: Fantasy, Horror, Mystery
-Description: After a traumatic accident, a woman becomes drawn to a mysterious abandoned carnival.
-23. Movie: Gypsy
-Genre: Biography, Comedy, Drama
-Description: Based on the Broadway hit about the life and times of burlesque dancer Gypsy Rose Lee and her aggressive stage mother, Mama Rose.
+10. Movie: The Manchurian Candidate
+11. Movie: Ride the High Country
+12. Movie: Cape Fear
+13. Movie: The Music Man
+14. Movie: The Miracle Worker
+15. Movie: Seppuku
+16. Movie: Ivanovo detstvo
+17. Movie: El ngel exterminador
+18. Movie: Jules et Jim
+19. Movie: Le procs
+20. Movie: Mutiny on the Bounty
+21. Movie: Hatari!
+22. Movie: Vivre sa vie: Film en douze tableaux
+23. Movie: Clo de 5  7
 24. Movie: Kingu Kongu tai Gojira
-Genre: Action, Adventure, Fantasy
-Description: A pharmaceutical company captures King Kong and brings him to Japan, where he escapes from captivity and battles a recently released Godzilla.
-25. Movie: The 300 Spartans
-Genre: Adventure, Drama, History
-Description: A small army of Greeks spearheaded by 300 Spartans do battle with the whole invading Persian army.
-26. Movie: That Touch of Mink
-Genre: Comedy, Romance
-Description: A rich businessman and a young woman are attracted to each other, but he only wants an affair while she wants to save her virginity for marriage.
-27. Movie: Hell Is for Heroes
-Genre: Drama, War
-Description: Small squad must hold off German attack.
-28. Movie: The Four Horsemen of the Apocalypse
-Genre: Drama, War
-Description: In Argentina, the family man Julio Madariaga is the patriarch of his family and considers his farm the paradise on Earth. One of his daughters, Luisa Desnoyers, has married the Frenchman ...See full summary&nbsp;&raquo;
-29. Movie: Advise &amp; Consent
-Genre: Drama, Thriller
-Description: Senate investigation into the President's newly nominated Secretary of State, gives light to a secret from the past, which may not only ruin the candidate, but the President's character as well.
-30. Movie: L'eclisse
-Genre: Drama, Romance
-Description: A young woman meets a vital young man, but their love affair is doomed because of the man's materialistic nature.
-31. Movie: Sanjuro
-Genre: Action, Crime, Drama
-Description: A crafty samurai helps a young man and his fellow clansmen save his uncle, who has been framed and imprisoned by a corrupt superintendent.
-32. Movie: Knife in the Water
-Genre: Drama, Thriller
-Description: On their way to a sailing trip, an aging husband and wife invite along an emphatic young hitchhiker out of sheer patronization.
-33. Movie: Birdman of Alcatraz
-Genre: Biography, Drama
-Description: A surly convicted murderer held in permanent isolation redeems himself when he becomes a renowned bird expert.
-34. Movie: Geronimo
-Genre: Action, Biography, History
-Description: An Apache warrior who defies U.S. attempts to bring the Indians under control grapples with an array of U.S. soldiers sent to subdue his revolt. Sympathetic scouts seek to bring Geronimo ...See full summary&nbsp;&raquo;
-35. Movie: The Day of the Triffids
-Genre: Horror, Sci-Fi
-Description: After an unusual meteor shower leaves most of the human population blind, a merchant navy officer must find a way to conquer tall, aggressive plants which are feeding on people and animals.
-36. Movie: Seppuku
-Genre: Action, Drama, History
-Description: An elder ronin samurai arrives at a feudal lord's home and requests an honorable place to commit suicide. But when the ronin inquires about a younger samurai who arrived before him things take an unexpected turn.
-37. Movie: Days of Wine and Roses
-Genre: Drama
-Description: An alcoholic marries a young woman, whom he systematically addicts to booze so they can share his "passion" together.
-38. Movie: Cléo de 5 à 7
-Genre: Comedy, Drama, Music
-Description: Cleo, a singer and hypochondriac, becomes increasingly worried that she might have cancer while awaiting test results from her doctor.
-39. Movie: The Counterfeit Traitor
-Genre: Drama, Thriller, War
-Description: Blacklisted in modern day WW2, a Swedish oil trader opts to assist British Allies, by means of infiltrating and surveying Nazi Germany.
-40. Movie: Girls! Girls! Girls!
-Genre: Musical, Comedy
-Description: When he finds out his boss is retiring to Arizona, a sailor has to find a way to buy the Westwind, a boat that he and his father built. He is also caught between two women: insensitive club singer Robin and sweet Laurel.
-41. Movie: Lonely Are the Brave
-Genre: Drama, Western
-Description: A fiercely independent cowboy arranges to have himself locked up in jail in order to then escape with an old friend who has been sentenced to the penitentiary.
-42. Movie: Follow That Dream
-Genre: Comedy, Musical, Romance
-Description: When the Kwimper family car runs out of gas on a new Florida highway and an officous state supervisor tries to run them off, Pop Kwimper digs in his heels and decides to do a little ...See full summary&nbsp;&raquo;
-43. Movie: Long Day's Journey Into Night
-Genre: Drama
-Description: Author Eugene O'Neill gives an autobiographical account of his explosive homelife, fused by a drug-addicted mother, a father who wallows in drink after realizing he is no longer a famous ...See full summary&nbsp;&raquo;
-44. Movie: Taras Bulba
-Genre: Adventure, Drama, History
-Description: A "Romeo and Juliet" story that takes place in the late 16c. Ukraine. Taras has settled into comfortable farm life after years of adventures and swashbuckling with his cossack companions. ...See full summary&nbsp;&raquo;
-45. Movie: Ride the High Country
-Genre: Western
-Description: An ex-union soldier is hired to transport gold from a mining community through dangerous territory. But what he doesn't realize is that his partner and old friend is plotting to double-cross him.
-46. Movie: Sweet Bird of Youth
-Genre: Drama
-Description: Drifter Chance Wayne returns to his hometown after many years of trying to make it in the movies. Arriving with him is a faded film star he picked up along the way, Alexandra Del Lago. ...See full summary&nbsp;&raquo;
-47. Movie: Il sorpasso
-Genre: Comedy, Drama
-Description: An impulsive braggart takes a shy law student for a two-day ride through the Roman and Tuscany countries.
-48. Movie: Prinsesse for en dag
-Genre: Family
-Description: Add a Plot
-49. Movie: In Search of the Castaways
-Genre: Adventure, Family, Fantasy
-Description: In 19th century England, young Mary Grant and her brother, Robert, embark on a dangerous quest to find their missing father, a sea captain who vanished somewhere along the Chilean coast.
-50. Movie: The Brain That Wouldn't Die
-Genre: Horror, Sci-Fi
-Description: A doctor experimenting with transplant techniques keeps his girlfriend's head alive when she is decapitated in a car crash, then goes hunting for a new body.
+25. Movie: Carnival of Souls
+26. Movie: Boccaccio 70
+27. Movie: The Loneliness of the Long Distance Runner
+28. Movie: L'eclisse
+29. Movie: Sanjuro
+30. Movie: Gypsy
+31. Movie: Birdman of Alcatraz
+32. Movie: Days of Wine and Roses
+33. Movie: Long Day's Journey Into Night
+34. Movie: Knife in the Water
+35. Movie: Jack the Giant Killer
+36. Movie: Sweet Bird of Youth
+37. Movie: Ring of Terror
+38. Movie: The Brain That Wouldn't Die
+39. Movie: Lonely Are the Brave
+40. Movie: In Search of the Castaways
+41. Movie: Girls! Girls! Girls!
+42. Movie: Experiment in Terror
+43. Movie: The Three Stooges in Orbit
+44. Movie: The Cabinet of Caligari
+45. Movie: Mamma Roma
+46. Movie: Kid Galahad
+47. Movie: Billy Budd
+48. Movie: Hell Is for Heroes
+49. Movie: Rome Adventure
+50. Movie: If a Man Answers

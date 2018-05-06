@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 2014-01-01 to 2014-12-31 : 
-1. Movie: Gone Girl
-Genre: Crime, Drama, Mystery
-Description: With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.
-2. Movie: Whiplash
-Genre: Drama, Music
-Description: A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.
-3. Movie: Interstellar
-Genre: Adventure, Drama, Sci-Fi
-Description: A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.
-4. Movie: It Follows
-Genre: Horror, Mystery
-Description: A young woman is followed by an unknown supernatural force after a sexual encounter.
-5. Movie: John Wick
-Genre: Action, Crime, Thriller
-Description: An ex-hitman comes out of retirement to track down the gangsters that took everything from him.
-6. Movie: Guardians of the Galaxy
-Genre: Action, Adventure, Sci-Fi
-Description: A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.
-7. Movie: Kingsman: The Secret Service
-Genre: Action, Adventure, Comedy
-Description: A spy organization recruits an unrefined, but promising street kid into the agency's ultra-competitive training program, just as a global threat emerges from a twisted tech genius.
-8. Movie: The Imitation Game
-Genre: Biography, Drama, Thriller
-Description: During World War II, mathematician Alan Turing tries to crack the enigma code with help from fellow mathematicians.
-9. Movie: Transformers: Age of Extinction
-Genre: Action, Adventure, Sci-Fi
-Description: Autobots must escape sight from a bounty hunter who has taken control of the human serendipity: Unexpectedly, Optimus Prime and his remaining gang turn to a mechanic, his daughter, and her back street racing boyfriend for help.
-10. Movie: The Theory of Everything
-Genre: Biography, Drama, Romance
-Description: A look at the relationship between the famous physicistStephen Hawkingand his wife.
-11. Movie: The Grand Budapest Hotel
-Genre: Adventure, Comedy, Drama
-Description: The adventures of Gustave H, a legendary concierge at a famous hotel from the fictional Republic of Zubrowka between the first and second World Wars, and Zero Moustafa, the lobby boy who becomes his most trusted friend.
-12. Movie: Birdman or (The Unexpected Virtue of Ignorance)
-Genre: Comedy, Drama, Romance
-Description: Illustrated upon the progress of his latest Broadway play, a former popular actor's struggle to cope with his current life as a wasted actor is shown.
-13. Movie: The Equalizer
-Genre: Action, Crime, Thriller
-Description: A man believes he has put his mysterious past behind him and has dedicated himself to beginning a new, quiet life. But when he meets a young girl under the control of ultra-violent Russian gangsters, he can't stand idly by - he has to help her.
-14. Movie: The Amazing Spider-Man 2
-Genre: Action, Adventure, Sci-Fi
-Description: When New York is put under siege by Oscorp, it is up to Spider-Man to save the city he swore to protect as well as his loved ones.
-15. Movie: Divergent
-Genre: Adventure, Mystery, Sci-Fi
-Description: In a world divided by factions based on virtues, Tris learns she's Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late.
-16. Movie: Edge of Tomorrow
-Genre: Action, Adventure, Sci-Fi
-Description: A soldier fighting aliens gets to relive the same day over and over again, the day restarting every time he dies.
-17. Movie: X-Men: Days of Future Past
-Genre: Action, Adventure, Sci-Fi
-Description: The X-Men send Wolverine to the past in a desperate effort to change history and prevent an event that results in doom for both humans and mutants.
-18. Movie: Fury
-Genre: Action, Drama, War
-Description: A grizzled tank commander makes tough decisions as he and his crew fight their way across Germany in April, 1945.
-19. Movie: American Sniper
-Genre: Action, Biography, Drama
-Description: Navy S.E.A.L. sniper Chris Kyle's pinpoint accuracy saves countless lives on the battlefield and turns him into a legend. Back home to his wife and kids after four tours of duty, however, Chris finds that it is the war he can't leave behind.
-20. Movie: Neighbors
-Genre: Comedy
-Description: After they are forced to live next to a fraternity house, a couple with a newborn baby do whatever they can to take them down.
-21. Movie: The Lego Movie
-Genre: Animation, Action, Adventure
-Description: An ordinary Lego construction worker, thought to be the prophesied 'Special', is recruited to join a quest to stop an evil tyrant from gluing the Lego universe into eternal stasis.
-22. Movie: Nightcrawler
-Genre: Crime, Drama, Thriller
-Description: When Louis Bloom, a driven man desperate for work, muscles into the world of L.A. crime journalism, he blurs the line between observer and participant to become the star of his own story. Aiding him in his effort is Nina, a TV-news veteran.
-23. Movie: Selma
-Genre: Biography, Drama, History
-Description: A chronicle ofMartin Luther King's campaign to secure equal voting rights via an epic march from Selma to Montgomery, Alabama in 1965.
-24. Movie: The Hobbit: The Battle of the Five Armies
-Genre: Adventure, Fantasy
-Description: Bilbo and Company are forced to engage in a war against an array of combatants and keep the Lonely Mountain from falling into the hands of a rising darkness.
-25. Movie: Lucy
-Genre: Action, Sci-Fi, Thriller
-Description: A woman, accidentally caught in a dark deal, turns the tables on her captors and transforms into a merciless warrior evolved beyond human logic.
-26. Movie: Captain America: The Winter Soldier
-Genre: Action, Adventure, Sci-Fi
-Description: As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier.
-27. Movie: Unbroken
-Genre: Biography, Drama, Sport
-Description: After a near-fatal plane crash in WWII, Olympian Louis Zamperini spends a harrowing 47 days in a raft with two fellow crewmen before he's caught by the Japanese navy and sent to a prisoner-of-war camp.
-28. Movie: This Is Where I Leave You
-Genre: Comedy, Drama
-Description: When their father passes away, four grown siblings are forced to return to their childhood home and live under the same roof together for a week, along with their over-sharing mother and an assortment of spouses, exes and might-have-beens.
-29. Movie: Big Hero 6
-Genre: Animation, Action, Adventure
-Description: The special bond that develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.
-30. Movie: Noah
-Genre: Action, Adventure, Drama
-Description: A man is chosen by his world's creator to undertake a momentous mission before an apocalyptic flood cleanses the world.
-31. Movie: Into the Woods
-Genre: Adventure, Comedy, Drama
-Description: A witch tasks a childless baker and his wife with procuring magical items from classic fairy tales to reverse the curse put on their family tree.
-32. Movie: The Hunger Games: Mockingjay - Part 1
-Genre: Adventure, Sci-Fi, Thriller
-Description: Katniss Everdeen is in District 13 after she shatters the games forever. Under the leadership of President Coin and the advice of her trusted friends, Katniss spreads her wings as she fights to save Peeta and a nation moved by her courage.
-33. Movie: Exodus: Gods and Kings
-Genre: Action, Adventure, Drama
-Description: The defiant leader Moses rises up against the Egyptian Pharaoh Ramses, setting 600,000 slaves on a monumental journey of escape from Egypt and its terrifying cycle of deadly plagues.
-34. Movie: The Fault in Our Stars
-Genre: Drama, Romance
-Description: Two teenage cancer patients begin a life-affirming journey to visit a reclusive author in Amsterdam.
-35. Movie: Horrible Bosses 2
-Genre: Comedy, Crime
-Description: Dale, Kurt and Nick decide to start their own business but things don't go as planned because of a slick investor, prompting the trio to pull off a harebrained and misguided kidnapping scheme.
-36. Movie: Teenage Mutant Ninja Turtles
-Genre: Action, Adventure, Comedy
-Description: When a kingpin threatens New York City, a group of mutated turtle warriors must emerge from the shadows to protect their home.
-37. Movie: Boyhood
-Genre: Drama
-Description: The life of Mason, from early childhood to his arrival at college.
-38. Movie: The Maze Runner
-Genre: Action, Mystery, Sci-Fi
-Description: Thomas is deposited in a community of boys after his memory is erased, soon learning they're all trapped in a maze that will require him to join forces with fellow "runners" for a shot at escape.
-39. Movie: Transcendence
-Genre: Drama, Mystery, Romance
-Description: A scientist's drive for artificial intelligence, takes on dangerous implications when his consciousness is uploaded into one such program.
-40. Movie: Maleficent
-Genre: Action, Adventure, Family
-Description: A vengeful fairy is driven to curse an infant princess, only to discover that the child may be the one person who can restore peace to their troubled land.
-41. Movie: The Book of Life
-Genre: Animation, Adventure, Comedy
-Description: Manolo, a young man who is torn between fulfilling the expectations of his family and following his heart, embarks on an adventure that spans three fantastic worlds where he must face his greatest fears.
-42. Movie: The Giver
-Genre: Drama, Romance, Sci-Fi
-Description: In a seemingly perfect community, without war, pain, suffering, differences or choice, a young boy is chosen to learn from an elderly man about the true pain and pleasure of the "real" world.
-43. Movie: Love, Rosie
-Genre: Comedy, Romance
-Description: Rosie and Alex have been best friends since they were 5, so they couldn't possibly be right for one another...or could they? When it comes to love, life and making the right choices, these two are their own worst enemies.
-44. Movie: 22 Jump Street
-Genre: Action, Comedy, Crime
-Description: After making their way through high school (twice), big changes are in store for officers Schmidt and Jenko when they go deep undercover at a local college.
-45. Movie: The Interview
-Genre: Comedy
-Description: Dave Skylark and his producer Aaron Rapoport run the celebrity tabloid show "Skylark Tonight". When they land an interview with a surprise fan, North Korean dictator Kim Jong-un, they are recruited by the CIA to turn their trip to Pyongyang into an assassination mission.
-46. Movie: Predestination
-Genre: Drama, Mystery, Sci-Fi
-Description: For his final assignment, a top temporal agent must pursue the one criminal that has eluded him throughout time. The chase turns into a unique, surprising and mind-bending exploration of love, fate, identity and time travel taboos.
-47. Movie: Chef
-Genre: Comedy, Drama
-Description: A head chef quits his restaurant job and buys a food truck in an effort to reclaim his creative promise, while piecing back together his estranged family.
-48. Movie: The Drop
-Genre: Crime, Drama, Mystery
-Description: Bob Saginowski finds himself at the center of a robbery gone awry and entwined in an investigation that digs deep into the neighborhood's past where friends, families, and foes all work together to make a living - no matter the cost.
-49. Movie: The Babadook
-Genre: Drama, Horror
-Description: A single mother, plagued by the violent death of her husband, battles with her son's fear of a monster lurking in the house, but soon discovers a sinister presence all around her.
-50. Movie: Vampire Academy
-Genre: Action, Comedy, Fantasy
-Description: Rose Hathaway is a Dhampir, half human-half vampire, a guardian of the Moroi, peaceful, mortal vampires living discreetly within our world. Her calling is to protect the Moroi from bloodthirsty, immortal Vampires, the Strigoi.
+1. Movie: Guardians of the Galaxy
+2. Movie: Captain America: The Winter Soldier
+3. Movie: The Equalizer
+4. Movie: John Wick
+5. Movie: Interstellar
+6. Movie: The Maze Runner
+7. Movie: Gone Girl
+8. Movie: Kingsman: The Secret Service
+9. Movie: The Grand Budapest Hotel
+10. Movie: X-Men: Days of Future Past
+11. Movie: Whiplash
+12. Movie: Fury
+13. Movie: Ex Machina
+14. Movie: Dawn of the Planet of the Apes
+15. Movie: Predestination
+16. Movie: Inherent Vice
+17. Movie: Edge of Tomorrow
+18. Movie: It Follows
+19. Movie: The Amazing Spider-Man 2
+20. Movie: Draft Day
+21. Movie: The Imitation Game
+22. Movie: Divergent
+23. Movie: Maleficent
+24. Movie: Testament of Youth
+25. Movie: Nightcrawler
+26. Movie: The Hobbit: The Battle of the Five Armies
+27. Movie: Lucy
+28. Movie: What We Do in the Shadows
+29. Movie: The LEGO Movie
+30. Movie: Hercules
+31. Movie: Godzilla
+32. Movie: Birdman or (The Unexpected Virtue of Ignorance)
+33. Movie: American Sniper
+34. Movie: Big Hero 6
+35. Movie: Teenage Mutant Ninja Turtles
+36. Movie: Dracula Untold
+37. Movie: Hungerford
+38. Movie: Sin City: A Dame to Kill For
+39. Movie: The Theory of Everything
+40. Movie: Blended
+41. Movie: The Fault in Our Stars
+42. Movie: Into the Woods
+43. Movie: Transformers: Age of Extinction
+44. Movie: The Best of Me
+45. Movie: The Expendables 3
+46. Movie: How to Train Your Dragon 2
+47. Movie: The Other Woman
+48. Movie: Unbroken
+49. Movie: 300: Rise of an Empire
+50. Movie: Paddington

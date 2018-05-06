@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 1964-01-01 to 1964-12-31 : 
 1. Movie: Mary Poppins
-Genre: Comedy, Family, Fantasy
-Description: A magical nanny helps bring the two children she's in charge of closer to their father through songs and magical adventures.
 2. Movie: Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
-Genre: Comedy
-Description: An insane general triggers a path to nuclear holocaust that a war room full of politicians and generals frantically try to stop.
-3. Movie: Les parapluies de Cherbourg
-Genre: Drama, Musical, Romance
-Description: A young girl separated from her lover by war faces a life-altering decision.
-4. Movie: Per un pugno di dollari
-Genre: Western
-Description: A wandering gunfighter plays two rival families against each other in a town torn apart by greed, pride, and revenge.
-5. Movie: My Fair Lady
-Genre: Drama, Family, Musical
-Description: A misogynistic and snobbish phonetics professor agrees to a wager that he can take a flower girl and make her presentable in high society.
-6. Movie: Goldfinger
-Genre: Action, Adventure, Thriller
-Description: Investigating a gold magnate's smuggling, James Bond uncovers a plot to contaminate the Fort Knox gold reserve.
-7. Movie: 633 Squadron
-Genre: War, Drama
-Description: An RAF squadron is assigned to knock out a German rocket fuel factory in Norway. The factory supplies fuel for the Nazi effort to launch rockets on England during D-Day.
-8. Movie: Marnie
-Genre: Crime, Drama, Mystery
-Description: Mark marries Marnie although she is a habitual thief and has serious psychological problems, and tries to help her confront and resolve them.
-9. Movie: One Potato, Two Potato
-Genre: Drama
-Description: Study of interracial marriage in the 1960's. A white divorce falls in love with and marries an African-American man. When her ex-husband sues for custody of her child, arguing that a mixed...See full summary&nbsp;&raquo;
-10. Movie: Zulu
-Genre: Drama, History, War
-Description: Outnumbered British soldiers do battle with Zulu warriors at Rorke's Drift.
-11. Movie: The Unsinkable Molly Brown
-Genre: Biography, Comedy, Musical
-Description: A poor, uneducated mountain girl leaves her cabin in search of respect, a wealthy husband, and a better life.
-12. Movie: Carry on Cleo
-Genre: Comedy
-Description: Two Britons are captured and enslaved by invading Romans and taken to Rome. Hengist Pod creates useless inventions, while Horsa is a brave and cunning fighter. One of their first encounters...See full summary&nbsp;&raquo;
-13. Movie: A Hard Day's Night
-Genre: Comedy, Music, Musical
-Description: A "typical" day in the life ofThe Beatles, including many of their famous songs.
-14. Movie: A Shot in the Dark
-Genre: Comedy, Crime, Mystery
-Description: Inspector Jacques Clouseau investigates the murder of Mr. Benjamin Ballon's driver at a country estate.
-15. Movie: Alexis Zorbas
-Genre: Comedy, Drama
-Description: An uptight English writer traveling to Crete on a matter of business finds his life changed forever when he meets the gregarious Alexis Zorba.
-16. Movie: The Bargee
-Genre: Comedy
-Description: Hemel Pike is a canal barge casanova, aided and abetted by his illiterate cousin, Ronnie. Hemel has a girl in every town along his route, and each one is intent on marriage. He is finally ...See full summary&nbsp;&raquo;
-17. Movie: The Fall of the Roman Empire
-Genre: Drama, History, War
-Description: The death of Marcus Aurelius leads to a succession crisis, in which the deceased emperor's son, Commodus, demonstrates that he is unwilling to let anything undermine his claim to the Roman Empire.
-18. Movie: Father Goose
-Genre: Adventure, Comedy, Romance
-Description: During WW2, a man persuaded to live on an isolated island and spot aircraft finds himself responsible for a teacher and several students, all female.
-19. Movie: The Incredible Mr. Limpet
-Genre: Animation, Comedy, Family
-Description: Meek and mild mannered bookkeeper Henry Limpet has few passions in life. It's mid-1941 and he would love to join the Navy but has been rated 4F. His friend George Stickle is in the Navy and...See full summary&nbsp;&raquo;
-20. Movie: Fail-Safe
-Genre: Drama, Thriller
-Description: American planes are sent to deliver a nuclear attack on Moscow, but it's a mistake due to an electrical malfunction. Can all-out war be averted?
+3. Movie: Seven Days in May
+4. Movie: My Fair Lady
+5. Movie: Per un pugno di dollari
+6. Movie: Good Neighbor Sam
+7. Movie: Goldfinger
+8. Movie: A Hard Day's Night
+9. Movie: Alexis Zorbas
+10. Movie: Marnie
+11. Movie: A Shot in the Dark
+12. Movie: The Best Man
+13. Movie: Lady in a Cage
+14. Movie: Zulu
+15. Movie: Kisses for My President
+16. Movie: Cheyenne Autumn
+17. Movie: Robinson Crusoe on Mars
+18. Movie: The 7th Dawn
+19. Movie: Hush...Hush, Sweet Charlotte
+20. Movie: Les parapluies de Cherbourg
 21. Movie: Suna no onna
-Genre: Drama, Thriller
-Description: An entomologist on vacation is trapped by local villagers into living with a woman whose life task is shoveling sand for them.
-22. Movie: Hush...Hush, Sweet Charlotte
-Genre: Crime, Drama, Horror
-Description: An aging, reclusive Southern belle, plagued by a horrifying family secret, descends into madness after the arrival of a lost relative.
-23. Movie: Seven Days in May
-Genre: Drama, Romance, Thriller
-Description: United States military leaders plot to overthrow the President because he supports a nuclear disarmament treaty and they fear a Soviet sneak attack.
-24. Movie: The Night of the Iguana
-Genre: Drama
-Description: A defrocked Episcopal clergyman leads a bus-load of middle-aged Baptist women on a tour of the Mexican coast and comes to terms with the failure haunting his life.
-25. Movie: The Train
-Genre: Thriller, War
-Description: In 1944, a German colonel loads a train with French art treasures to send to Germany. The Resistance must stop it without damaging the cargo.
-26. Movie: Paris - When It Sizzles
-Genre: Comedy, Romance
-Description: The sprightly young assistant of a Hollywood screenwriter helps him over his writer's block by acting out his fantasies of possible plots.
-27. Movie: The Last Man on Earth
-Genre: Horror, Sci-Fi
-Description: When a disease turns all of humanity into the living dead, the last man on earth becomes a reluctant vampire hunter.
-28. Movie: Viva Las Vegas
-Genre: Comedy, Musical
-Description: Race car driver Lucky Jackson goes to Las Vegas to earn money to pay for a new engine for his motor car. Working as a waiter, he still finds the time to court young Rusty Martin.
-29. Movie: The Pawnbroker
-Genre: Drama
-Description: A Jewish pawnbroker, victim of Nazi persecution, loses all faith in his fellow man until he realizes too late the tragedy of his actions.
-30. Movie: What a Way to Go!
-Genre: Comedy, Romance
-Description: A four-time widow discusses her four marriages, in which all of her husbands became incredibly rich and died prematurely because of their drive to be rich.
-31. Movie: Roustabout
-Genre: Drama, Music, Musical
-Description: Charlie Rogers is a leather-jacketed biker who's fired from a singing engagement after getting into a fight with a group of college toughs. While riding his cycle to the next gig, an irate ...See full summary&nbsp;&raquo;
-32. Movie: Bande à part
-Genre: Comedy, Crime, Drama
-Description: Two crooks with a fondness for old Hollywood B-movies convince a languages student to help them commit a robbery.
+22. Movie: The Last Man on Earth
+23. Movie: The Night of the Iguana
+24. Movie: Muscle Beach Party
+25. Movie: Viva Las Vegas
+26. Movie: Guns at Batasi
+27. Movie: The Train
+28. Movie: Fail-Safe
+29. Movie: What a Way to Go!
+30. Movie: Kiss Me, Stupid
+31. Movie: Murder Most Foul
+32. Movie: Father Goose
 33. Movie: Becket
-Genre: Biography, Drama, History
-Description: King Henry II of England comes to terms with his affection for his close friend and confidant Thomas  Becket, who finds his true honor by observing God's divine will rather than the king's.
-34. Movie: The Killers
-Genre: Crime, Drama, Mystery
-Description: Surprised that their contract victim didn't try to run away from them, two professional hit men try to find out who hired them and why.
-35. Movie: Il deserto rosso
-Genre: Drama
-Description: In a bleak rundown industrial area a young woman, Giuliana, tries to cope with life. She's married to Ugo the manager of a local plant but is soon having an affair with one of his ...See full summary&nbsp;&raquo;
-36. Movie: Onibaba
-Genre: Horror
-Description: Two women kill samurai and sell their belongings for a living. While one of them is having an affair with their neighbor, the other woman meets a mysterious samurai wearing a bizarre mask.
-37. Movie: Kaidan
-Genre: Drama, Fantasy, Horror
-Description: A collection of four Japanese folk tales with supernatural themes.
-38. Movie: Bedtime Story
-Genre: Comedy
-Description: The story of two gigolos who vie to see which is the best at their profession.
-39. Movie: Il vangelo secondo Matteo
-Genre: Biography, Drama, History
-Description: The life of Jesus Christ according to the Gospel of Matthew. Pasolini shows Christ as a marxist avant-la-lettre and therefore uses half of the text of Matthew.
-40. Movie: L'homme de Rio
-Genre: Action, Adventure, Comedy
-Description: A young man comes to the rescue of his girlfriend abducted by thieves and brought to Rio. An extravagant adventure ensues.
-41. Movie: The Long Ships
-Genre: Adventure
-Description: A vagabond Viking adventurer and a Moor both compete to find "The Mother of All Voices," a legendary golden bell near the Pillars of Hercules.
-42. Movie: Robinson Crusoe on Mars
-Genre: Adventure, Sci-Fi
-Description: Stranded on Mars with only a monkey as a companion, an astronaut must figure out how to find oxygen, water, and food on the lifeless planet.
-43. Movie: Topkapi
-Genre: Adventure, Comedy, Crime
-Description: A conman gets mixed up with a group of thieves who plan to rob an Istanbul museum to retrieve a jeweled dagger.
-44. Movie: Goodbye Charlie
-Genre: Comedy, Fantasy, Romance
-Description: Shot by a jealous husband, Charley falls out a porthole and is lost at sea only to find himself returned as an attractive blond woman. His best friend is staying at his house as he puts ...See full summary&nbsp;&raquo;
-45. Movie: Fantomas
-Genre: Comedy, Crime, Adventure
-Description: Le journaliste Fandor invente une interview avec le mystrieux Fantomas. Fantomas s'indigne et enlve le journaliste pour le contraindre  dire la vrit et comme Fandor ne fait pas cela, ...See full summary&nbsp;&raquo;
-46. Movie: The Masque of the Red Death
-Genre: Horror
-Description: A European prince terrorizes the local peasantry while using his castle as a refuge against the "Red Death" plague that stalks the land.
-47. Movie: 6 donne per l'assassino
-Genre: Horror, Mystery, Thriller
-Description: A shadowy killer in black brutally murders fashion models.
-48. Movie: Santa Claus Conquers the Martians
-Genre: Adventure, Comedy, Family
-Description: The Martians kidnap Santa Claus because there is nobody on Mars to give their children presents.
-49. Movie: Send Me No Flowers
-Genre: Comedy, Drama, Romance
-Description: A hypochondriac believes he is dying, and makes plans for his wife which she discovers and misunderstands.
-50. Movie: Matrimonio all'italiana
-Genre: Comedy, Drama, Romance
-Description: The rich man Domenico and Filumena, a penniless prostitute, share great part of their lives in the immediate post WWII Italy.
+34. Movie: Bande  part
+35. Movie: The Killers
+36. Movie: The Incredible Mr. Limpet
+37. Movie: The Masque of the Red Death
+38. Movie: Kaidan
+39. Movie: The Moon-Spinners
+40. Movie: Il vangelo secondo Matteo
+41. Movie: Onibaba
+42. Movie: Il deserto rosso
+43. Movie: Clash by Night
+44. Movie: The Naked Kiss
+45. Movie: First Men in the Moon
+46. Movie: Murder Ahoy
+47. Movie: The Fall of the Roman Empire
+48. Movie: The Pawnbroker
+49. Movie: The Time Travelers
+50. Movie: Paris - When It Sizzles

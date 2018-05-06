@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 1981-01-01 to 1981-12-31 : 
 1. Movie: Raiders of the Lost Ark
-Genre: Action, Adventure
-Description: Archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis.
 2. Movie: The Evil Dead
-Genre: Horror, Thriller
-Description: Five friends travel to a cabin in the woods, where they unknowingly release flesh-possessing demons.
-3. Movie: An American Werewolf in London
-Genre: Comedy, Horror
-Description: Two American college students on a walking tour of Britain are attacked by a werewolf that none of the locals will admit exists.
-4. Movie: Mad Max 2
-Genre: Action, Adventure, Sci-Fi
-Description: In the post-apocalyptic Australian wasteland, a cynical drifter agrees to help a small, gasoline rich, community escape a band of bandits.
-5. Movie: Escape from New York
-Genre: Action, Sci-Fi
-Description: In 1997, when the U.S. president crashes into Manhattan, now a giant maximum security prison, a convicted bank robber is sent in to rescue him.
-6. Movie: Das Boot
-Genre: Adventure, Drama, Thriller
-Description: The claustrophobic world of a WWII German U-boat; boredom, filth, and sheer terror.
-7. Movie: Stripes
-Genre: Action, Comedy, War
-Description: Two friends who are dissatisfied with their jobs decide to join the army for a bit of fun.
-8. Movie: Mommie Dearest
-Genre: Biography, Drama
-Description: The abusive and traumatic adoptive upbringing ofChristina Crawfordat the hands of her mother, screen queenJoan Crawford, is depicted.
-9. Movie: Friday the 13th Part 2
-Genre: Horror, Mystery, Thriller
-Description: Mrs. Voorhees is dead, and Camp Crystal Lake is shut down, but a camp next to the infamous place is stalked by an unknown assailant. Is it Mrs. Voorhees' son Jason, who did not really drown in the lake some 30 years before?
-10. Movie: Excalibur
-Genre: Adventure, Drama, Fantasy
-Description: Merlin the magician helps Arthur Pendragon unite the Britons around the round table of Camelot even as forces conspire to tear it apart
-11. Movie: Clash of the Titans
-Genre: Action, Adventure, Family
-Description: A film adaption of the myth of Perseus and his quest to battle both Medusa and the Kraken monster to save the Princess Andromeda.
-12. Movie: Porky's
-Genre: Comedy
-Description: In 1954, a group of Florida high schoolers seek out to help their buddy lose his virginity, which leads them to seek revenge on a sleazy nightclub owner and his redneck sheriff brother for harassing them.
-13. Movie: For Your Eyes Only
-Genre: Action, Adventure, Thriller
-Description: Agent 007 is assigned to hunt for a lost British encryption device and prevent it from falling into enemy hands.
-14. Movie: Endless Love
-Genre: Drama, Romance
-Description: A high school student's love for a 15-year-old girl is thwarted by parental disapproval, circumstance and accident.
-15. Movie: The Cannonball Run
-Genre: Action, Comedy, Sport
-Description: A wide variety of eccentric competitors participate in a wild and illegal cross-country road race. However, the eccentric entrants will do anything to win the road race, including low-down, dirty tricks.
+3. Movie: Mad Max 2
+4. Movie: An American Werewolf in London
+5. Movie: Excalibur
+6. Movie: Escape from New York
+7. Movie: Porky's
+8. Movie: Das Boot
+9. Movie: History of the World: Part I
+10. Movie: The Cannonball Run
+11. Movie: Possession
+12. Movie: The Funhouse
+13. Movie: Clash of the Titans
+14. Movie: Stripes
+15. Movie: Friday the 13th Part 2
 16. Movie: Body Heat
-Genre: Crime, Drama, Romance
-Description: In the midst of a searing Florida heat wave, a woman convinces her lover, a small-town lawyer, to murder her rich husband.
 17. Movie: Time Bandits
-Genre: Adventure, Comedy, Fantasy
-Description: A young boy accidentally joins a band of time traveling dwarves as they jump from era to era looking for treasure to steal.
 18. Movie: Chariots of Fire
-Genre: Biography, Drama, Sport
-Description: Two British track athletes, one a determined Jew and the other a devout Christian, compete in the 1924 Olympics.
-19. Movie: Possession
-Genre: Drama, Horror
-Description: A woman starts exhibiting increasingly disturbing behavior after asking her husband for a divorce. Suspicions of infidelity soon give way to something much more sinister.
-20. Movie: The Fox and the Hound
-Genre: Animation, Adventure, Drama
-Description: Two childhood friends find themselves forced to become enemies.
-21. Movie: Victory
-Genre: Action, Drama, Sport
-Description: As allied POWs prepare for a soccer game against the German National Team to be played in Nazi-occupied Paris, the French Resistance and British officers are making plans for the team's escape.
-22. Movie: Heavy Metal
-Genre: Animation, Adventure, Fantasy
-Description: A glowing orb terrorizes a young girl with a collection of stories of dark fantasy, eroticism and horror.
-23. Movie: On Golden Pond
-Genre: Drama
-Description: Norman is a curmudgeon with an estranged relationship with his daughter Chelsea. At Golden Pond, he and his wife nevertheless agree to care for Billy, the son of Chelsea's new boyfriend, and a most unexpected relationship blooms.
-24. Movie: Saturday the 14th
-Genre: Comedy, Fantasy, Horror
-Description: A family moves into a house inhabited by scary creatures and a number of close calls ensue.
-25. Movie: La guerre du feu
-Genre: Adventure, Drama, History
-Description: This story takes place in prehistoric time when three prehistoric tribesmen search for a new fire source.
-26. Movie: Deadly Blessing
-Genre: Horror
-Description: After her husband dies of mysterious circumstances, a widow becomes increasingly paranoid of the neighboring religious community that may have diabolical plans for her.
-27. Movie: History of the World: Part I
-Genre: Comedy
-Description: Mel Brooks brings his one-of-a-kind comic touch to the history of mankind covering events from the Old Testament to the French Revolution in a series of episodic comedy vignettes.
-28. Movie: Halloween II
-Genre: Horror
-Description: While Sheriff Brackett and Dr. Loomis hunt for Michael Myers, a traumatized Laurie is rushed to hospital, and the serial killer is not far behind her.
-29. Movie: Scanners
-Genre: Action, Horror, Sci-Fi
-Description: A scientist sends a man with extraordinary psychic powers to hunt others like him.
-30. Movie: Christiane F. - Wir Kinder vom Bahnhof Zoo
-Genre: Biography, Drama
-Description: This movie portrays the drug scene in Berlin in the 1970s, following tape recordings of Christiane F. 14-year-old Christiane lives with her mother and little sister in a typical multi-story...See full summary&nbsp;&raquo;
-31. Movie: Arthur
-Genre: Comedy, Romance
-Description: Arthur is a happy drunk with no pretensions at any ambition. He is also the heir to a vast fortune which he is told will only be his if he marries Susan. He does not love Susan, but she ...See full summary&nbsp;&raquo;
-32. Movie: Dragonslayer
-Genre: Action, Adventure, Fantasy
-Description: A young wizarding apprentice is sent to kill a dragon which has been devouring girls from a nearby kingdom.
-33. Movie: The Postman Always Rings Twice
-Genre: Crime, Drama, Thriller
-Description: The sensuous wife of a lunch wagon proprietor and a rootless drifter begin a sordidly steamy affair and conspire to murder her Greek husband.
-34. Movie: Tarzan the Ape Man
-Genre: Adventure, Drama
-Description: While on an African expedition with her father, Jane Parker meets Tarzan, and the two become fascinated by each other.
-35. Movie: Taps
-Genre: Drama
-Description: Military cadets take extreme measures to insure the future of their academy when its existence is threatened by local condo developers.
-36. Movie: The Howling
-Genre: Horror
-Description: After a bizarre and near fatal encounter with a serial killer, a television newswoman is sent to a remote mountain resort whose residents may not be what they seem.
-37. Movie: Reds
-Genre: Biography, Drama, History
-Description: A radical American journalist becomes involved with the Communist revolution in Russia and hopes to bring its spirit and idealism to the United States.
-38. Movie: The Funhouse
-Genre: Horror
-Description: Four teenage friends spend the night in a carnival funhouse and are stalked by a deformed man in a Frankenstein mask.
-39. Movie: The French Lieutenant's Woman
-Genre: Drama, Romance
-Description: A film is being made of a story, set in 19th century England, about Charles, a biologist who's engaged to be married, but who falls in love with outcast Sarah, whose melancholy makes her ...See full summary&nbsp;&raquo;
-40. Movie: Thief
-Genre: Crime, Drama, Thriller
-Description: Becoming closer to his dream of leading a normal life, a professional safecracker agrees to do a job for the mafia, who have other plans for him.
-41. Movie: The Burning
-Genre: Horror
-Description: A former summer camp caretaker, horribly burned from a prank gone wrong, lurks around an upstate New York summer camp bent on killing the teenagers responsible for his disfigurement.
-42. Movie: Blow Out
-Genre: Mystery, Thriller
-Description: A movie sound recordist accidentally records the evidence that proves that a car accident was actually murder and consequently finds himself in danger.
-43. Movie: Nighthawks
-Genre: Action, Crime, Thriller
-Description: Conservative street cop DaSilva reluctantly agrees to terminate an international terrorist who has demanded media attention. But DaSilva's "at-home" tactics are very much put to the challenge.
-44. Movie: My Dinner with Andre
-Genre: Biography, Comedy, Drama
-Description: Two old friends meet for dinner; as one tells anecdotes detailing his experiences, the other notices their differing worldviews.
-45. Movie: Gallipoli
-Genre: Adventure, Drama, History
-Description: Two Australian sprinters face the brutal realities of war when they are sent to fight in the Gallipoli campaign in Turkey during World War I.
-46. Movie: Ghost Story
-Genre: Drama, Horror, Thriller
-Description: Two generations of men find themselves haunted by the presence of a spectral woman. When the son of one of the elderly men returns to his hometown after his brother's mysterious death, they attempt to unravel her story.
-47. Movie: Private Lessons
-Genre: Comedy
-Description: An immigrant housemaid seduces a 15-year-old boy and later fakes her own death as part of his chauffeur's blackmail plot. Troubles arise when the two start to fall in love.
-48. Movie: Only When I Laugh
-Genre: Comedy, Drama
-Description: A boozy Broadway actress comes out of a 12-week cure to face the problems of her best friends as well as her needy daughter. She tries to balance the terrors of returning to work with the ...See full summary&nbsp;&raquo;
+19. Movie: For Your Eyes Only
+20. Movie: Endless Love
+21. Movie: Halloween II
+22. Movie: Gallipoli
+23. Movie: Ragtime
+24. Movie: Heavy Metal
+25. Movie: The Howling
+26. Movie: Scanners
+27. Movie: The Fox and the Hound
+28. Movie: The Postman Always Rings Twice
+29. Movie: Roar
+30. Movie: Reds
+31. Movie: On Golden Pond
+32. Movie: Venom
+33. Movie: Blow Out
+34. Movie: Mommie Dearest
+35. Movie: La guerre du feu
+36. Movie: Arthur
+37. Movie: The Burning
+38. Movie: Dragonslayer
+39. Movie: Victory
+40. Movie: Tarzan the Ape Man
+41. Movie: Taps
+42. Movie: Thief
+43. Movie: Happy Birthday to Me
+44. Movie: Nighthawks
+45. Movie: Caveman
+46. Movie: Deadly Blessing
+47. Movie: Cannibal ferox
+48. Movie: Christiane F. - Wir Kinder vom Bahnhof Zoo
 49. Movie: Outland
-Genre: Action, Crime, Sci-Fi
-Description: In the distant future, a police marshal stationed at a remote mining colony on the Jupiter moon of Io uncovers a drug-smuggling conspiracy, and gets no help from the populace when he later finds himself marked for murder.
-50. Movie: Cannibal ferox
-Genre: Adventure, Horror
-Description: Three friends out to disprove cannibalism meet two men on the run who tortured and enslaved a cannibal tribe to find emeralds, and now the tribe is out for revenge.
+50. Movie: Nice Dreams

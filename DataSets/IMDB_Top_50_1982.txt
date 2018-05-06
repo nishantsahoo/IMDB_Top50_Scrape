@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 1982-01-01 to 1982-12-31 : 
 1. Movie: Blade Runner
-Genre: Sci-Fi, Thriller
-Description: A blade runner must pursue and try to terminate four replicants who stole a ship in space and have returned to Earth to find their creator.
 2. Movie: E.T. the Extra-Terrestrial
-Genre: Family, Sci-Fi
-Description: A troubled child summons the courage to help a friendly alien escape Earth and return to his home world.
-3. Movie: Annie
-Genre: Comedy, Drama, Family
-Description: A young orphan girl's adventures in finding a family that will take her.
+3. Movie: The Thing
 4. Movie: Fast Times at Ridgemont High
-Genre: Comedy, Drama
-Description: A group of Southern California high school students are enjoying their most important subjects: sex, drugs and rock n' roll.
-5. Movie: The Thing
-Genre: Horror, Mystery, Sci-Fi
-Description: A research facility in Antarctica comes across an alien force that can become anything it touches with 100% accuracy. The members must now find out who's human and who's not before it's too late.
-6. Movie: Conan the Barbarian
-Genre: Adventure, Fantasy
-Description: A barbarian warrior sets off to avenge his parents and his tribe whom were slain by an evil sorcerer and his henchmen when he was a boy.
-7. Movie: Poltergeist
-Genre: Fantasy, Horror, Thriller
-Description: A family's home is haunted by a host of ghosts.
-8. Movie: First Blood
-Genre: Action, Adventure, Drama
-Description: Former Green Beret John Rambo is pursued into the mountains surrounding a small town by a tyrannical sheriff and his deputies, forcing him to survive using his combat skills.
-9. Movie: Gandhi
-Genre: Biography, Drama, History
-Description: Gandhi's character is fully explained as a man of nonviolence. Through his patience, he is able to drive the British out of the subcontinent. And the stubborn nature of Jinnah and his commitment towards Pakistan is portrayed.
-10. Movie: An Officer and a Gentleman
-Genre: Drama, Romance
-Description: A young man must complete his work at a Navy Flight school to become an aviator, with the help of a tough gunnery sergeant and his new girlfriend.
+5. Movie: Grease 2
+6. Movie: First Blood
+7. Movie: Conan the Barbarian
+8. Movie: Annie
+9. Movie: Poltergeist
+10. Movie: Diner
 11. Movie: TRON
-Genre: Action, Adventure, Sci-Fi
-Description: A computer hacker is abducted into the digital world and forced to participate in gladiatorial games where his only chance of escape is with the help of a heroic security program.
-12. Movie: Star Trek: The Wrath of Khan
-Genre: Action, Adventure, Sci-Fi
-Description: With the assistance of the Enterprise crew, Admiral Kirk must stop an old nemesis, Khan Noonien Singh, from using the life-generating Genesis Device as the ultimate weapon.
-13. Movie: Tootsie
-Genre: Comedy, Drama, Romance
-Description: Michael Dorsey, an unsuccessful actor, disguises himself as a woman in order to get a role on a trashy hospital soap.
-14. Movie: Friday the 13th Part III
-Genre: Horror, Thriller
-Description: Having revived from his wound, Jason Voorhees; now donning a new appearance, refuges at a cabin near Crystal Lake. As a group of co-eds reside there for their vacation, Jason continues his spree.
-15. Movie: Sophie's Choice
-Genre: Drama, Romance
-Description: After spending time with his new neighbors, an aspiring writer realizes they are harboring deep secrets that will forever change him.
-16. Movie: 48 Hrs.
-Genre: Action, Comedy, Crime
-Description: A hard-nosed cop reluctantly teams up with a wise-cracking criminal temporarily paroled to him, in order to track down a killer.
-17. Movie: The Dark Crystal
-Genre: Adventure, Family, Fantasy
-Description: On another planet in the distant past, a Gelfling embarks on a quest to find the missing shard of a magical crystal, and so restore order to his world.
+12. Movie: An Officer and a Gentleman
+13. Movie: Gandhi
+14. Movie: Sophie's Choice
+15. Movie: The Dark Crystal
+16. Movie: The King of Comedy
+17. Movie: The World According to Garp
 18. Movie: Pink Floyd: The Wall
-Genre: Animation, Drama, Fantasy
-Description: A confined but troubled rock star descends into madness in the midst of his physical and social isolation from everyone.
-19. Movie: Grease 2
-Genre: Comedy, Drama, Musical
-Description: An English student at a 1960's American high school has to prove himself to the leader of a girls' gang whose members can only date greasers.
-20. Movie: Rocky III
-Genre: Drama, Sport
-Description: After winning the ultimate title and being the world champion, Rocky falls into a hole and finds himself picked up by a former enemy.
-21. Movie: The King of Comedy
-Genre: Comedy, Crime, Drama
-Description: Aspiring comic Rupert Pupkin attempts to achieve success in show business by stalking his idol, a late night talk-show host who craves his own privacy.
-22. Movie: The World According to Garp
-Genre: Comedy, Drama
-Description: Based on the John Irving novel, this film chronicles the life of T S Garp, and his mother, Jenny. Whilst Garp sees himself as a "serious" writer, Jenny writes a feminist manifesto at an ...See full summary&nbsp;&raquo;
-23. Movie: The Beastmaster
-Genre: Action, Adventure, Fantasy
-Description: A sword-and-sorcery fantasy about a young man's search for revenge. Armed with supernatural powers, the handsome hero and his animal allies wage war against marauding forces.
-24. Movie: Swamp Thing
-Genre: Horror, Sci-Fi
-Description: After a violent incident with a special chemical, a research scientist is turned into a swamp plant monster.
-25. Movie: The Verdict
-Genre: Drama
-Description: A lawyer sees the chance to salvage his career and self-respect by taking a medical malpractice case to trial rather than settling.
-26. Movie: The Man from Snowy River
-Genre: Adventure, Drama, Family
-Description: In 1880s Australia when young Jim Craig's father dies Jim takes a job at the Harrison cattle ranch and he is forced to become a man.
+19. Movie: Friday the 13th Part III
+20. Movie: Zapped!
+21. Movie: Cat People
+22. Movie: Tootsie
+23. Movie: Star Trek: The Wrath of Khan
+24. Movie: Rocky III
+25. Movie: 48 Hrs.
+26. Movie: The Beastmaster
 27. Movie: Creepshow
-Genre: Comedy, Fantasy, Horror
-Description: An anthology which tells five terrifying tales based on the E.C. horror comic books of the 1950s.
-28. Movie: Airplane II: The Sequel
-Genre: Comedy, Sci-Fi
-Description: A faulty computer causes a passenger space shuttle to head straight for the Sun. Can Ted Striker save the day and get the shuttle back on track - again?
-29. Movie: The Secret of NIMH
-Genre: Animation, Adventure, Drama
-Description: To save her ill son, a field mouse must seek the aid of a colony of rats, with whom she has a deeper link than she ever suspected.
-30. Movie: The Last Unicorn
-Genre: Animation, Adventure, Drama
-Description: A brave unicorn and a magician fight an evil king who is obsessed with attempting to capture the world's unicorns.
-31. Movie: Night Shift
-Genre: Comedy
-Description: A morgue attendant is talked into running a brothel at his workplace after a deceased pimp is sent there. However, the pimp's killers don't look too kindly on this new 'business', nor does the morgue's owner.
-32. Movie: The Year of Living Dangerously
-Genre: Drama, Romance, War
-Description: A young Australian reporter tries to navigate the political turmoil of Indonesia during the rule of President Sukarno with the help of a diminutive photographer.
-33. Movie: Zapped!
-Genre: Comedy, Fantasy, Sci-Fi
-Description: A high school science nerd gains telekinetic powers after a laboratory accident and uses them for revenge upon bullies.
-34. Movie: Fanny och Alexander
-Genre: Drama
-Description: Two young Swedish children experience the many comedies and tragedies of their family, the Ekdahls.
-35. Movie: The Best Little Whorehouse in Texas
-Genre: Comedy, Musical
-Description: A town's sheriff and regular patron of a historical whorehouse fights to keep it running when a TV reporter targets it as the Devil's playhouse.
-36. Movie: Cat People
-Genre: Fantasy, Horror, Thriller
-Description: A young woman's sexual awakening brings horror when she discovers her urges transform her into a monstrous black leopard.
-37. Movie: Dead Men Don't Wear Plaid
-Genre: Comedy, Crime, Mystery
-Description: Film noir parody with a detective uncovering a sinister plot. Characters from real noirs appear as scenes from various films are intercut.
-38. Movie: Fitzcarraldo
-Genre: Adventure, Drama
-Description: The story of Brian Sweeney Fitzgerald, an extremely determined man who intends to build an opera house in the middle of a jungle.
-39. Movie: The Toy
-Genre: Comedy
-Description: An underemployed reporter finds himself literally purchased as a toy for a rich spoiled brat.
-40. Movie: The Pirate Movie
-Genre: Adventure, Comedy, Musical
-Description: The crew of a large ship sail the high seas encountering other pirates from other ships. The boy from the ship ends up having to save his girlfriend who is kidnapped by a bunch of other pirates.
-41. Movie: Halloween III: Season of the Witch
-Genre: Horror, Mystery, Sci-Fi
-Description: Kids all over America want Silver Shamrock masks for Halloween. Doctor Daniel Challis seeks to uncover a plot by Silver Shamrock owner Conal Cochran.
-42. Movie: The Last American Virgin
-Genre: Comedy, Drama, Romance
-Description: The friendship of a group of young friends struggling with teen sex, drugs, and work is jeopardized by a romantic interest which may turn pals into bitter rivals.
-43. Movie: Basket Case
-Genre: Comedy, Horror
-Description: A young man carrying a big basket that contains his extremely deformed Siamese-twin brother seeks vengeance on the doctors who separated them against their will.
-44. Movie: Diner
-Genre: Comedy, Drama
-Description: A group of college-age buddies struggle with their imminent passage into adulthood in 1959 Baltimore.
-45. Movie: The Entity
-Genre: Biography, Drama, Horror
-Description: Supposedly based partially on a true story, a woman is tormented and sexually molested by an invisible demon.
-46. Movie: Death Wish II
-Genre: Action, Crime, Drama
-Description: Architect Paul Kersey once again becomes a vigilante when he tries to find the five street punks who murdered his daughter and housekeeper, this time on the dark streets of Los Angeles.
+28. Movie: The Secret of NIMH
+29. Movie: Halloween III: Season of the Witch
+30. Movie: The Year of Living Dangerously
+31. Movie: Alone in the Dark
+32. Movie: Fanny och Alexander
+33. Movie: The Verdict
+34. Movie: Fitzcarraldo
+35. Movie: The Entity
+36. Movie: The Last Unicorn
+37. Movie: Firefox
+38. Movie: Swamp Thing
+39. Movie: Liquid Sky
+40. Movie: The Last American Virgin
+41. Movie: The Best Little Whorehouse in Texas
+42. Movie: Evil Under the Sun
+43. Movie: Night Shift
+44. Movie: Butterfly
+45. Movie: Missing
+46. Movie: The Sword and the Sorcerer
 47. Movie: Victor Victoria
-Genre: Comedy, Music, Musical
-Description: A struggling female soprano finds work playing a male female impersonator, but it complicates her personal life.
-48. Movie: Paradise
-Genre: Adventure, Romance
-Description: In the Victorian period, two teenagers, David and Sarah, travel with a caravan from Baghdad to Damascus. At an oasis, the white slave agent known as the Jackal raids them, mainly to add the...See full summary&nbsp;&raquo;
-49. Movie: Firefox
-Genre: Action, Adventure, Thriller
-Description: A pilot is sent into the Soviet Union on a mission to steal a prototype jet fighter that can be partially controlled by a neuralink
-50. Movie: Still of the Night
-Genre: Crime, Drama, Mystery
-Description: A Manhattan psychiatrist probes a patient's murder and falls for the victim's mysterious mistress.
+48. Movie: Basket Case
+49. Movie: Death Wish II
+50. Movie: Tenebre

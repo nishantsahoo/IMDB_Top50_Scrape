@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 2001-01-01 to 2001-12-31 : 
-1. Movie: Harry Potter and the Sorcerer's Stone
-Genre: Adventure, Family, Fantasy
-Description: Rescued from the outrageous neglect of his aunt and uncle, a young boy with a great destiny proves his worth while attending Hogwarts School of Witchcraft and Wizardry.
-2. Movie: The Lord of the Rings: The Fellowship of the Ring
-Genre: Adventure, Drama, Fantasy
-Description: A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle Earth from the Dark Lord Sauron.
-3. Movie: Pearl Harbor
-Genre: Action, Drama, History
-Description: A tale of war and romance mixed in with history. The story follows two lifelong friends and a beautiful nurse who are caught up in the horror of an infamous Sunday morning in 1941.
-4. Movie: Donnie Darko
-Genre: Drama, Sci-Fi, Thriller
-Description: A troubled teenager is plagued by visions of a man in a large rabbit suit who manipulates him to commit a series of crimes, after he narrowly escapes a bizarre accident.
+1. Movie: Super Troopers
+2. Movie: Harry Potter and the Sorcerer's Stone
+3. Movie: The Lord of the Rings: The Fellowship of the Ring
+4. Movie: Pearl Harbor
 5. Movie: Sen to Chihiro no kamikakushi
-Genre: Animation, Adventure, Family
-Description: During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.
-6. Movie: Mulholland Dr.
-Genre: Drama, Mystery, Thriller
-Description: After a car wreck on the winding Mulholland Drive renders a woman amnesiac, she and a perky Hollywood-hopeful search for clues and answers across Los Angeles in a twisting venture beyond dreams and reality.
-7. Movie: Black Hawk Down
-Genre: Drama, History, War
-Description: 160 elite U.S. soldiers drop into Somalia to capture two top lieutenants of a renegade warlord and find themselves in a desperate battle with a large force of heavily-armed Somalis.
-8. Movie: A Beautiful Mind
-Genre: Biography, Drama
-Description: AfterJohn Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.
-9. Movie: Ocean's Eleven
-Genre: Crime, Thriller
-Description: Danny Ocean and his eleven accomplices plan to rob three Las Vegas casinos simultaneously.
-10. Movie: The Fast and the Furious
-Genre: Action, Crime, Thriller
-Description: Los Angeles police officer Brian O'Connor must decide where his loyalty really lies when he becomes enamored with the street racing world he has been sent undercover to destroy.
-11. Movie: Amélie
-Genre: Comedy, Romance
-Description: Amlie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love.
-12. Movie: Bridget Jones's Diary
-Genre: Comedy, Drama, Romance
-Description: A British woman is determined to improve herself while she looks for love in a year in which she keeps a personal diary.
-13. Movie: Hannibal
-Genre: Crime, Drama, Thriller
-Description: Living in exile, Hannibal Lecter tries to reconnect with now disgraced FBI agent Clarice Starling and finds himself a target for revenge from a powerful victim.
+6. Movie: Ocean's Eleven
+7. Movie: Donnie Darko
+8. Movie: Monsters, Inc.
+9. Movie: Planet of the Apes
+10. Movie: A Beautiful Mind
+11. Movie: A Knight's Tale
+12. Movie: Shrek
+13. Movie: The Fast and the Furious
 14. Movie: Not Another Teen Movie
-Genre: Comedy
-Description: A sendup of all the teen movies that have accumulated in the past two decades.
-15. Movie: Training Day
-Genre: Crime, Drama, Thriller
-Description: On his first day on the job as a Los Angeles narcotics officer, a rookie cop goes on a 24-hour training course with a rogue detective who isn't what he appears.
-16. Movie: Blow
-Genre: Biography, Crime, Drama
-Description: The story of George Jung, the man who established the American cocaine market in the 1970s.
-17. Movie: Moulin Rouge!
-Genre: Drama, Musical, Romance
-Description: A poet falls for a beautiful courtesan whom a jealous duke covets.
-18. Movie: The Princess Diaries
-Genre: Comedy, Family, Romance
-Description: Mia Thermopolis has just found out that she is the heir apparent to the throne of Genovia. With her friends Lilly and Michael Moscovitz in tow, she tries to navigate through the rest of her 16th year.
-19. Movie: Monsters, Inc.
-Genre: Animation, Adventure, Comedy
-Description: In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, 2 monsters realize things may not be what they think.
-20. Movie: Shrek
-Genre: Animation, Adventure, Comedy
-Description: After his swamp is filled with magical creatures, Shrek agrees to rescue Princess Fiona for a villainous lord in order to get his land back.
-21. Movie: Y tu mamá también
-Genre: Adventure, Comedy, Drama
-Description: In Mexico, two teenage boys and an attractive older woman embark on a road trip and learn a thing or two about life, friendship, sex, and each other.
-22. Movie: Super Troopers
-Genre: Comedy, Crime, Mystery
-Description: Five Vermont state troopers, avid pranksters with a knack for screwing up, try to save their jobs and out-do the local police department by solving a crime.
-23. Movie: The Mummy Returns
-Genre: Action, Adventure, Fantasy
-Description: The mummified body of Imhotep is shipped to a museum in London, where he once again wakes and begins his campaign of rage and terror.
-24. Movie: Planet of the Apes
-Genre: Action, Adventure, Sci-Fi
-Description: An Air Force astronaut crash lands on a mysterious planet where evolved, talking apes dominate a race of primitive humans.
-25. Movie: Bully
-Genre: Biography, Crime, Drama
-Description: A pack of nave teenagers conspire to murder a mutual friend, whose aggressive demeanor has proved too much.
-26. Movie: Artificial Intelligence: AI
-Genre: Adventure, Drama, Sci-Fi
-Description: A highly advanced robotic boy longs to become "real" so that he can regain the love of his human mother.
-27. Movie: Jay and Silent Bob Strike Back
-Genre: Comedy
-Description: The comic 'Bluntman and Chronic' is based on real-life stoners Jay and Silent Bob, so when they get no profit from a big-screen adaptation they set out to wreck the movie.
-28. Movie: Enemy at the Gates
-Genre: Drama, History, War
-Description: A Russian and a German sniper play a game of cat-and-mouse during the Battle of Stalingrad.
-29. Movie: A Knight's Tale
-Genre: Action, Adventure, Romance
-Description: After his master dies, a peasant squire, fueled by his desire for food and glory, creates a new identity for himself as a knight.
-30. Movie: Legally Blonde
-Genre: Comedy, Romance
-Description: When a blonde sorority queen is dumped by her boyfriend, she decides to follow him to law school to get him back and, once there, learns she has more legal savvy than she ever imagined.
+15. Movie: The Mummy Returns
+16. Movie: Training Day
+17. Movie: Black Hawk Down
+18. Movie: Shallow Hal
+19. Movie: Hannibal
+20. Movie: Mulholland Dr.
+21. Movie: Legally Blonde
+22. Movie: Amlie
+23. Movie: Zoolander
+24. Movie: Lara Croft: Tomb Raider
+25. Movie: The Royal Tenenbaums
+26. Movie: Jurassic Park III
+27. Movie: Spy Kids
+28. Movie: Artificial Intelligence: AI
+29. Movie: Moulin Rouge!
+30. Movie: The Princess Diaries
 31. Movie: Vanilla Sky
-Genre: Fantasy, Mystery, Romance
-Description: A self-indulgent and vain publishing magnate finds his privileged life upended after a vehicular accident with a resentful lover.
-32. Movie: Jason X
-Genre: Action, Horror, Sci-Fi
-Description: Jason Voorhees returns with a new look, a new machete, and his same murderous attitude as he is awakened on a spaceship in the 25th century.
-33. Movie: Zoolander
-Genre: Comedy
-Description: At the end of his career, a clueless fashion model is brainwashed to kill the Prime Minister of Malaysia.
-34. Movie: The Royal Tenenbaums
-Genre: Comedy, Drama
-Description: An estranged family of former child prodigies reunites when their father announces he is terminally ill.
-35. Movie: Monster's Ball
-Genre: Drama, Romance
-Description: After a family tragedy, a racist prison guard reexamines his attitudes while falling in love with the African American wife of the last prisoner he executed.
-36. Movie: Lucía y el sexo
-Genre: Drama, Romance
-Description: Various lives converge on an isolated island, all connected by an author whose novel has become inextricably entwined with his own life.
-37. Movie: Jeepers Creepers
-Genre: Horror, Mystery
-Description: A brother and sister driving home through isolated countryside for spring break encounter a flesh-eating creature which is on the last day of its ritualistic eating spree.
-38. Movie: Serendipity
-Genre: Comedy, Romance
-Description: A couple reunite years after the night they first met, fell in love, and separated, convinced that one day they'd end up together.
-39. Movie: American Pie 2
-Genre: Comedy
-Description: In this sequel to the hit comedyAmerican Pie(1999), the high school students are now in college. These close friends decide to meet up at the beach house for some fun.
-40. Movie: The Others
-Genre: Horror, Mystery, Thriller
-Description: A woman who lives in a darkened old house with her two photosensitive children becomes convinced that her family home is haunted.
-41. Movie: Along Came a Spider
-Genre: Crime, Drama, Thriller
-Description: When a congressman's daughter under Secret Service protection is kidnapped from a private school, detective Alex Cross investigates the case even though he's recovering from the loss of his partner.
-42. Movie: Shallow Hal
-Genre: Comedy, Drama, Fantasy
-Description: A shallow man falls in love with a 300 pound woman because of her "inner beauty".
-43. Movie: Spy Game
-Genre: Action, Crime, Thriller
-Description: Retiring CIA agent Nathan Muir recalls his training of Tom Bishop while working against agency politics to free him from his Chinese captors.
-44. Movie: Wet Hot American Summer
-Genre: Comedy, Romance
-Description: Set on the last day of camp, in the hot summer of 1981, a group of counselors try to complete their unfinished business before the day ends.
-45. Movie: Atlantis: The Lost Empire
-Genre: Animation, Action, Adventure
-Description: A young adventurer named Milo Thatch joins an intrepid group of explorers to find the mysterious lost continent of Atlantis.
-46. Movie: Jurassic Park III
-Genre: Action, Adventure, Sci-Fi
-Description: A decidedly odd couple with ulterior motives convince Dr. Alan Grant to go to Isla Sorna (the second InGen dinosaur lab.), resulting in an unexpected landing...and unexpected new inhabitants on the island.
-47. Movie: Intimacy
-Genre: Drama, Romance
-Description: A failed London musician meets once a week with a woman for a series of intense sexual encounters to get away from the realities of life. But when he begins inquiring about her, it puts their relationship at risk.
-48. Movie: Lara Croft: Tomb Raider
-Genre: Action, Adventure, Fantasy
-Description: Video game adventuress Lara Croft comes to life in a movie where she races against time and villains to recover powerful ancient artifacts.
-49. Movie: Rush Hour 2
-Genre: Action, Comedy, Crime
-Description: Carter and Lee head to Hong Kong for vacation, but become embroiled in a counterfeit money scam.
-50. Movie: Ghost World
-Genre: Comedy, Drama
-Description: With only the plan of moving in together after high school, two unusually devious friends seek direction in life. As a mere gag, they respond to a man's newspaper ad for a date, only to find it will greatly complicate their lives.
+32. Movie: Blow
+33. Movie: Wet Hot American Summer
+34. Movie: Y tu mam tambin
+35. Movie: Bully
+36. Movie: Atlantis: The Lost Empire
+37. Movie: The Others
+38. Movie: Bridget Jones's Diary
+39. Movie: Enemy at the Gates
+40. Movie: Rock Star
+41. Movie: Monster's Ball
+42. Movie: Scary Movie 2
+43. Movie: Bubble Boy
+44. Movie: Thir13en Ghosts
+45. Movie: American Pie 2
+46. Movie: Luca y el sexo
+47. Movie: Jeepers Creepers
+48. Movie: From Hell
+49. Movie: I Am Sam
+50. Movie: Save the Last Dance

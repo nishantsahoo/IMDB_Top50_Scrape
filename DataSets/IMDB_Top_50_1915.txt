@@ -1,149 +1,51 @@
 Most Popular Feature Films Released 1915-01-01 to 1915-12-31 : 
 1. Movie: The Birth of a Nation
-Genre: Drama, History, War
-Description: The Stoneman family finds its friendship with the Camerons affected by the Civil War, both fighting in opposite armies. The development of the war in their lives plays through to Lincoln's assassination and the birth of the Ku Klux Klan.
 2. Movie: Les vampires
-Genre: Action, Adventure, Crime
-Description: An intrepid reporter and his loyal friend battle a bizarre secret society of criminals known as The Vampires.
-3. Movie: The Cheat
-Genre: Drama
-Description: A venal, spoiled stockbroker's wife impulsively embezzles $10,000 from the charity she chairs and desperately turns to a Burmese ivory trader to replace the stolen money.
-4. Movie: Carmen
-Genre: Drama
-Description: In order to help her smuggler kinsmen, a sultry gypsy seduces and corrupts an officer of the Civil Guard turning him into a traitor and murderer.
-5. Movie: A Fool There Was
-Genre: Drama
-Description: A married diplomat falls hopelessly under the spell of a predatory woman.
-6. Movie: Der Golem
-Genre: Horror
-Description: In this version of the golem legend, the golem, a clay statue brought to life by Rabbi Loew in 16th century Prague to save the Jews from the ongoing brutal persecution by the city's rulers,...See full summary&nbsp;&raquo;
+3. Movie: Der Golem
+4. Movie: The Cheat
+5. Movie: Carmen
+6. Movie: Alice in Wonderland
 7. Movie: Regeneration
-Genre: Biography, Crime, Drama
-Description: A boy surrounded by violence grows up to become an infamous gangster.
-8. Movie: Protéa III ou La course à la mort
-Description: Add a Plot
-9. Movie: A Butterfly on the Wheel
-Genre: Drama
-Description: Add a Plot
-10. Movie: Civilization
-Genre: Drama
-Description: Christ takes on the form of a pacifist count to end a senseless war.
-11. Movie: Inspiration
-Genre: Drama
-Description: A young sculptor searches for the perfect model to inspire his work.
-12. Movie: Alice in Wonderland
-Genre: Adventure, Family, Fantasy
-Description: Alice goes with her sister to a picnic and then she falls asleep and starts dreaming about a wonder land full of talking animals and walking playing cards.
+8. Movie: A Fool There Was
+9. Movie: Civilization
+10. Movie: A Butterfly on the Wheel
+11. Movie: Martyrs of the Alamo
+12. Movie: Posle smerti
 13. Movie: Hypocrites
-Genre: Drama
-Description: The parallel stories of a modern preacher and a medieval monk, Gabriel the Ascetic, who is killed by an ignorant mob for making a nude statue representing Truth, which is also represented by a ghostly naked girl who flits throughout the film.
-14. Movie: The Italian
-Genre: Drama
-Description: An immigrant leaves his sweetheart in Italy to find a better life across the sea in the grimy slums of New York. They are eventually reunited and marry. But life in New York is hard and ...See full summary&nbsp;&raquo;
-15. Movie: Madame Butterfly
-Genre: Drama
-Description: The story of a Japanese woman and the tragedy that ensues when she loves an American naval officer.
-16. Movie: The Lily and the Rose
-Genre: Drama
-Description: To the dismay of Allison Edwards, her bookworm, adoring neighbor, Mary Randolph, falls in love with and marries Jack Van Norman, a rich and handsome former football star. After a few months...See full summary&nbsp;&raquo;
-17. Movie: The Secretary of Frivolous Affairs
-Genre: Drama, Romance
-Description: Add a Plot
-18. Movie: Posle smerti
-Genre: Drama
-Description: Andrei lives a secluded life with his aunt, studying and thinking about his now-deceased mother. His friend Tsenin is concerned, and tries to get Andrei to accompany him to social events. ...See full summary&nbsp;&raquo;
-19. Movie: The Prince and the Pauper
-Genre: Adventure
-Description: Mistaken identities make for uproarious adventure as a poor beggar boy trades places with the royal heir to the throne in this magical, musical new animated version of the timeless ...See full summary&nbsp;&raquo;
-20. Movie: Martyrs of the Alamo
-Genre: Drama, History, War
-Description: The story of the defense of the mission-turned-fortress by 185 Texans against an overwhelming Mexican army in 1836.
-21. Movie: The Captive
-Genre: Drama, Romance, War
-Description: With her brother killed Sonya is given Turkish captive Mahmud to do the hard work on the farm. After they become fond of each other he strikes a Turkish officer. When peace arrives, his ...See full summary&nbsp;&raquo;
-22. Movie: The Coward
-Genre: Drama, History, War
-Description: Confederate soldier Frank Winslow is terrified of the war and eventually runs away from battle. But when he finds himself behind enemy lines with vital information, he must decide between ...See full summary&nbsp;&raquo;
-23. Movie: The Arab
-Genre: Adventure, Drama
-Description: An old sheik punishes his son Jamil for robbing a caravan by giving his horse to the wronged merchant. The horse is sold to a Turkish general then given to a Christian missionary Mary ...See full summary&nbsp;&raquo;
-24. Movie: The Lamb
-Genre: Adventure, Comedy, Western
-Description: Gerald, the somewhat frail son of a wealthy New York family, is bested at the beach by Bill, a strapping young cowboy from Arizona. His fiance Mary, ashamed of Gerald's "yellow streak", ...See full summary&nbsp;&raquo;
-25. Movie: Portret Doryana Greya
-Description: A corrupt young man somehow keeps his youthful beauty, but a special painting gradually reveals his inner ugliness to all.
-26. Movie: Young Romance
-Genre: Comedy
-Description: Young Romance, released in 1915, is a recent rediscovery that forever silences the claim that refined comedy cannot be conveyed via the screen. This disguise plot, worthy of an Elizabethan ...See full summary&nbsp;&raquo;
-27. Movie: The Golden Chance
-Genre: Drama
-Description: Mary Denby becomes a seamstress after her husband Steve wastes their money on booze. Her employer provides her as an escort to accompany millionaire Roger Manning. Her husband tries ...See full summary&nbsp;&raquo;
-28. Movie: The Whirl of Life
-Genre: Comedy
-Description: The plot is a loose autobiographical interpretation of the life of Vernon and Irene Castle, interspersed among a typical melodrama of the period
-29. Movie: Titanic
-Genre: History
-Description: Add a Plot
-30. Movie: Assunta Spina
-Genre: Drama
-Description: Napoli, gli inizi del secolo. Assunta Spina  una bella stiratrice ed ha per amante Michele, ma Raffaele continua a girarle attorno. Un giorno, durante il pranzo di onomastico a Marechiaro,...See full summary&nbsp;&raquo;
-31. Movie: Far from the Madding Crowd
-Genre: Drama, Romance
-Description: A girl farmer weds a faithless sergeant who is killed by her suitor, and realises she loves the bailiff.
-32. Movie: The Girl of the Golden West
-Genre: Romance, Western
-Description: Road agent Ramerrez hides out in his girlfriend's store where the Sheriff knows him to be. The Sheriff plays The Girl a game of cards to decide Ramerrez's future. She wins. She later saves him from a hanging. She rides off with him.
-33. Movie: Four Feathers
-Genre: Drama
-Description: Add a Plot
-34. Movie: The Nigger
-Genre: Drama
-Description: Add a Plot
-35. Movie: The New Adventures of J. Rufus Wallingford
-Genre: Adventure, Comedy
-Description: A series of 14 two-reel episodes, each complete in itself, involving the exploits of J. Rufus Wallingford and Blackie Daw, con men extraordinaire.
-36. Movie: Life Without Soul
-Genre: Horror
-Description: A young man gives life to a statue with disastrous results.
-37. Movie: A tolonc
-Genre: Drama
-Description: Betty (Lili Berky, Duel For Nothing), a young woman living in the country, is told by her dying father that he is really her uncle and raised her as his own when her mother was sent to ...See full summary&nbsp;&raquo;
-38. Movie: Peer Gynt
-Genre: Fantasy
-Description: A fantasy from Ibsen's verse drama. Ne'er-do-well and braggart Peer Gynt has many adventures in varied countries, making and losing money, gaining fortune at others' expense, until he finds...See full summary&nbsp;&raquo;
-39. Movie: Filibus
-Genre: Crime, Drama, Mystery
-Description: Add a Plot
-40. Movie: The College Widow
-Genre: Comedy, Drama
-Description: Add a Plot
-41. Movie: The Dictator
-Genre: Adventure, Romance
-Description: Brooke Travers, a young society man of a roving disposition and much leisure, gets into a cab with his valet and his trunks, to go to his yacht for a cruise. Arriving at the pier, the ...See full summary&nbsp;&raquo;
-42. Movie: Children of Eve
-Genre: Drama
-Description: Add a Plot
-43. Movie: The Immigrant
-Genre: Drama
-Description: Add a Plot
-44. Movie: Divorced
-Genre: Drama
-Description: Add a Plot
-45. Movie: Trilby
-Genre: Drama
-Description: A hypnotic Svengali controls the singing voice of a young starlet, but he cannot control her heart.
-46. Movie: Blue Grass
-Genre: Drama
-Description: Add a Plot
-47. Movie: Carmen
-Genre: Drama
-Description: A Spanish soldier falls under the spell of a fiery gypsy girl named Carmen. His obsession with her leads to his ruin.
-48. Movie: Alias Jimmy Valentine
-Genre: Crime, Drama
-Description: After robbing a bank, a criminal is wrongfully pardoned from prison.
-49. Movie: The Disciple
-Genre: Western
-Description: Jim Houston, the "Shootin' Iron" Parson, comes to Barren Gulch to reform the morals of the frontier community. He receives the support of "Birdshot" Bivens, the sheriff of the county. Jim's...See full summary&nbsp;&raquo;
-50. Movie: The Alien
-Genre: Drama
-Description: Add a Plot
+14. Movie: Der letzte Anzug
+15. Movie: A tolonc
+16. Movie: The Captive
+17. Movie: Madame Butterfly
+18. Movie: The Italian
+19. Movie: Life Without Soul
+20. Movie: Inspiration
+21. Movie: The Girl of the Golden West
+22. Movie: Filibus
+23. Movie: Madame de Thbes
+24. Movie: Portret Doryana Greya
+25. Movie: Fanchon, the Cricket
+26. Movie: Assunta Spina
+27. Movie: Maciste
+28. Movie: Far from the Madding Crowd
+29. Movie: The Outcast
+30. Movie: The Seven Sisters
+31. Movie: Camille
+32. Movie: Enhver
+33. Movie: La signora delle camelie
+34. Movie: The Coward
+35. Movie: Rags
+36. Movie: Little Pal
+37. Movie: The Golden Chance
+38. Movie: Marcella
+39. Movie: Children of Eve
+40. Movie: Four Feathers
+41. Movie: The Whirl of Life
+42. Movie: Bnk bn
+43. Movie: Peer Gynt
+44. Movie: Are You a Mason?
+45. Movie: The Goddess
+46. Movie: Stingaree
+47. Movie: Golfo
+48. Movie: The Lamb
+49. Movie: Deti veka
+50. Movie: The Warrens of Virginia

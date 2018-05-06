@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 2000-01-01 to 2000-12-31 : 
-1. Movie: Unbreakable
-Genre: Drama, Mystery, Sci-Fi
-Description: A man learns something extraordinary about himself after a devastating accident.
-2. Movie: Requiem for a Dream
-Genre: Drama
-Description: The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.
-3. Movie: Snatch
-Genre: Comedy, Crime
-Description: Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers, and supposedly Jewish jewelers fight to track down a priceless stolen diamond.
-4. Movie: Gladiator
-Genre: Action, Adventure, Drama
-Description: When a Roman general is betrayed and his family murdered by an emperor's corrupt son, he comes to Rome as a gladiator to seek revenge.
-5. Movie: Memento
-Genre: Mystery, Thriller
-Description: A man juggles searching for his wife's murderer and keeping his short-term memory loss from being an obstacle.
-6. Movie: American Psycho
-Genre: Crime, Drama
-Description: A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he delves deeper into his violent, hedonistic fantasies.
-7. Movie: X-Men
-Genre: Action, Adventure, Sci-Fi
-Description: Two mutants come to a private academy for their kind whose resident superhero team must oppose a terrorist organization with similar powers.
-8. Movie: Cast Away
-Genre: Adventure, Drama, Romance
-Description: A FedEx executive must transform himself physically and emotionally to survive a crash landing on a deserted island.
-9. Movie: The Replacements
-Genre: Comedy, Sport
-Description: During a pro football strike, the owners hire substitute players.
-10. Movie: Remember the Titans
-Genre: Biography, Drama, Sport
-Description: The true story of a newly appointed African-American coach and his high school team on their first season as a racially integrated unit.
-11. Movie: The Patriot
-Genre: Action, Drama, History
-Description: Peaceful farmer Benjamin Martin is driven to lead the Colonial Militia during the American Revolution when a sadistic British officer murders his son.
-12. Movie: O Brother, Where Art Thou?
-Genre: Adventure, Comedy, Crime
-Description: In the deep south during the 1930s, three escaped convicts search for hidden treasure while a relentless lawman pursues them.
-13. Movie: The Cell
-Genre: Horror, Sci-Fi, Thriller
-Description: An FBI agent persuades a social worker, who is adept with a new experimental technology, to enter the mind of a comatose serial killer in order to learn where he has hidden his latest kidnap victim.
-14. Movie: Almost Famous
-Genre: Adventure, Comedy, Drama
-Description: A high-school boy is given the chance to write a story for Rolling Stone Magazine about an up-and-coming rock band as he accompanies them on their concert tour.
-15. Movie: Scary Movie
-Genre: Comedy
-Description: A year after disposing of the body of a man they accidentally killed, a group of dumb teenagers are stalked by a bumbling serial killer.
-16. Movie: Erin Brockovich
-Genre: Biography, Drama
-Description: An unemployed single mother becomes a legal assistant and almost single-handedly brings down a California power company accused of polluting a city's water supply.
-17. Movie: The Beach
-Genre: Adventure, Drama, Romance
-Description: Twenty-something Richard travels to Thailand and finds himself in possession of a strange map. Rumours state that it leads to a solitary beach paradise, a tropical bliss - excited and intrigued, he sets out to find it.
-18. Movie: The Emperor's New Groove
-Genre: Animation, Adventure, Comedy
-Description: Emperor Kuzco is turned into a llama by his ex-administrator Yzma, and must now regain his throne with the help of Pacha, the gentle llama herder.
-19. Movie: Pitch Black
-Genre: Horror, Sci-Fi
-Description: A commercial transport ship and its crew are marooned on a planet full of bloodthirsty creatures that only come out to feast at night. But then, they learn that a month-long eclipse is about to occur.
-20. Movie: Miss Congeniality
-Genre: Action, Comedy, Crime
-Description: An FBI agent must go undercover in the Miss United States beauty pageant to prevent a group from bombing the event.
-21. Movie: Bring It On
-Genre: Comedy, Romance, Sport
-Description: A champion high school cheerleading squad discovers its previous captain stole all their best routines from an inner-city school and must scramble to compete at this year's championships.
-22. Movie: Gone in Sixty Seconds
-Genre: Action, Crime, Thriller
-Description: A retired master car thief must come back to the industry and steal 50 cars with his crew in one night to save his brother's life.
+1. Movie: Gladiator
+2. Movie: American Psycho
+3. Movie: Requiem for a Dream
+4. Movie: Unbreakable
+5. Movie: X-Men
+6. Movie: Snatch
+7. Movie: Almost Famous
+8. Movie: Memento
+9. Movie: Remember the Titans
+10. Movie: Miss Congeniality
+11. Movie: Scary Movie
+12. Movie: The Patriot
+13. Movie: Bring It On
+14. Movie: Mission: Impossible II
+15. Movie: Billy Elliot
+16. Movie: The Beach
+17. Movie: Coyote Ugly
+18. Movie: Cast Away
+19. Movie: O Brother, Where Art Thou?
+20. Movie: Hollow Man
+21. Movie: Malna
+22. Movie: Charlie's Angels
 23. Movie: Final Destination
-Genre: Horror, Thriller
-Description: After a teenager has a terrifying vision of him and his friends dying in a plane crash, he prevents the accident only to have Death hunt them down, one by one.
-24. Movie: Traffic
-Genre: Crime, Drama, Thriller
-Description: A conservative judge is appointed by the President to spearhead America's escalating war against drugs, only to discover that his teenage daughter is a crack addict. Two DEA agents protect an informant. A jailed drug baron's wife attempts to carry on the family business.
-25. Movie: How the Grinch Stole Christmas
-Genre: Comedy, Family, Fantasy
-Description: On the outskirts of Whoville, there lives a green, revenge-seeking Grinch who plans on ruining the Christmas holiday for all of the citizens of the town.
-26. Movie: Coyote Ugly
-Genre: Comedy, Drama, Music
-Description: Aspiring songwriter Violet Sanford, after getting a job at a women-run NYC bar that teases its male patrons, comes out of her shell.
-27. Movie: Love &amp; Basketball
-Genre: Drama, Romance, Sport
-Description: In 1981 in L.A., Monica moves in next door to Quincy. They're 11, and both want to play in the NBA, just like Quincy's dad. Their love-hate relationship lasts into high school, with ...See full summary&nbsp;&raquo;
-28. Movie: Road Trip
-Genre: Adventure, Comedy
-Description: Four college buddies embark on a road trip to retrieve an illicit tape mistakenly mailed to a female friend.
-29. Movie: Battlefield Earth
-Genre: Action, Adventure, Sci-Fi
-Description: After enslavement and near extermination by an alien race in the year 3000, humanity begins to fight back.
-30. Movie: Chocolat
-Genre: Drama, Romance
-Description: A woman and her daughter open a chocolate shop in a small French village that shakes up the rigid morality of the community.
-31. Movie: The Family Man
-Genre: Comedy, Drama, Fantasy
-Description: A fast-lane investment broker, offered the opportunity to see how the other half lives, wakes up to find that his sports car and girlfriend have become a mini-van and wife.
-32. Movie: Wo hu cang long
-Genre: Action, Adventure, Fantasy
-Description: Two warriors in pursuit of a stolen sword and a notorious fugitive are led to an impetuous, physically skilled, adolescent nobleman's daughter, who is at a crossroads in her life.
-33. Movie: Hollow Man
-Genre: Action, Horror, Sci-Fi
-Description: Scientists discover how to make people invisible, but their test subject becomes an insane killer who stalks them.
-34. Movie: Mission: Impossible II
-Genre: Action, Adventure, Thriller
-Description: A secret agent is sent to Sydney, to find and destroy a genetically modified disease called "Chimera".
-35. Movie: Vertical Limit
-Genre: Action, Adventure, Drama
-Description: A climber must rescue his sister on top of K2, one of the world's biggest mountains.
-36. Movie: Frequency
-Genre: Crime, Drama, Mystery
-Description: An accidental cross-time radio link connects father and son across 30 years. The son tries to save his father's life, but then must fix the consequences.
-37. Movie: What Women Want
-Genre: Comedy, Fantasy, Romance
-Description: After an accident, a chauvinistic executive gains the ability to hear what women are really thinking.
-38. Movie: Charlie's Angels
-Genre: Action, Adventure, Comedy
-Description: Three women, detectives with a mysterious boss, retrieve stolen voice-ID software, using martial arts, tech skills, and sex appeal.
-39. Movie: Romeo Must Die
-Genre: Action, Crime, Thriller
-Description: An avenging cop seeks out his brother's killer and falls for the daughter of a businessman who is involved in a money-deal with his father.
-40. Movie: Boiler Room
-Genre: Crime, Drama, Thriller
-Description: A college dropout gets a job as a broker for a suburban investment firm, which puts him on the fast track to success, but the job might not be as legitimate as it sounds.
-41. Movie: High Fidelity
-Genre: Comedy, Drama, Music
-Description: Rob, a record store owner and compulsive list maker, recounts his top five breakups, including the one in progress.
-42. Movie: The Flintstones in Viva Rock Vegas
-Genre: Comedy, Family, Romance
-Description: In this live-action prequel to the 1994 comedy hit, the Flintstones and the Rubbles go on a trip to Rock Vegas, where Wilma is pursued by playboy Chip Rockefeller.
-43. Movie: Me, Myself &amp; Irene
-Genre: Comedy
-Description: A nice-guy cop with dissociative identity disorder must protect a woman on the run from a corrupt ex-boyfriend and his associates.
-44. Movie: Billy Elliot
-Genre: Drama, Music, Romance
-Description: A talented young boy becomes torn between his unexpected love of dance and the disintegration of his family.
-45. Movie: The Gift
-Genre: Drama, Fantasy, Horror
-Description: A woman with extrasensory perception is asked to help find a young woman who has disappeared.
-46. Movie: Amores perros
-Genre: Drama, Thriller
-Description: A horrific car accident connects three stories, each involving characters dealing with loss, regret, and life's harsh realities, all in the name of love.
-47. Movie: Bedazzled
-Genre: Comedy, Fantasy
-Description: Hopeless dweeb Elliot Richards is granted seven wishes by the Devil to snare Allison, the girl of his dreams, in exchange for his soul.
-48. Movie: Where the Heart Is
-Genre: Comedy, Drama, Romance
-Description: A pregnant 17-year-old rebuilds her life after being abandoned by her boyfriend at a Wal-Mart in Sequoyah, Oklahoma.
+24. Movie: Battlefield Earth
+25. Movie: Erin Brockovich
+26. Movie: Gone in Sixty Seconds
+27. Movie: Chicken Run
+28. Movie: Space Cowboys
+29. Movie: The Flintstones in Viva Rock Vegas
+30. Movie: The Emperor's New Groove
+31. Movie: The Replacements
+32. Movie: Batoru rowaiaru
+33. Movie: Traffic
+34. Movie: Road Trip
+35. Movie: The Family Man
+36. Movie: What Lies Beneath
+37. Movie: How the Grinch Stole Christmas
+38. Movie: Meet the Parents
+39. Movie: High Fidelity
+40. Movie: Pitch Black
+41. Movie: Me, Myself & Irene
+42. Movie: The Cell
+43. Movie: Wo hu cang long
+44. Movie: The Whole Nine Yards
+45. Movie: What Women Want
+46. Movie: Scream 3
+47. Movie: Faa yeung nin wa
+48. Movie: Chocolat
 49. Movie: Little Nicky
-Genre: Comedy, Fantasy
-Description: After two of the devil's three sons escape Hell to wreak havoc on Earth, the devil must send his third son, the mild-mannered Nicky, to bring them back before it's too late.
-50. Movie: The Watcher
-Genre: Crime, Horror, Mystery
-Description: David Allen Griffin is a cool killer- time and time again, he chooses a female victim, studies her for weeks till he knows her routine to the smallest detail, makes meticulous preparations ...See full summary&nbsp;&raquo;
+50. Movie: Dude, Where's My Car?

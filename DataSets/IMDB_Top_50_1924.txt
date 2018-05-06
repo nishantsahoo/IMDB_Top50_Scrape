@@ -1,149 +1,51 @@
 Most Popular Feature Films Released 1924-01-01 to 1924-12-31 : 
 1. Movie: Sherlock Jr.
-Genre: Action, Comedy, Romance
-Description: A film projectionist longs to be a detective, and puts his meagre skills to work when he is framed by a rival for stealing his girlfriend's father's pocketwatch.
 2. Movie: Greed
-Genre: Drama, Thriller, Western
-Description: The sudden fortune won from a lottery fans such destructive greed that it ruins the lives of the three people involved.
-3. Movie: Die Nibelungen: Siegfried
-Genre: Adventure, Drama, Fantasy
-Description: Siegfried, son of King Sigmund, hears of the beautiful sister of Gunter, King of Worms, Kriemhild. On his way to Worms, he kills a dragon and finds a treasure, the Hort. He helps Gunther to...See full summary&nbsp;&raquo;
-4. Movie: Der letzte Mann
-Genre: Drama
-Description: An aging doorman, after being fired from his prestigious job at a luxurious Hotel is forced to face the scorn of his friends, neighbours and society.
-5. Movie: The Thief of Bagdad
-Genre: Adventure, Family, Fantasy
-Description: A recalcitrant thief vies with a duplicitous Mongol ruler for the hand of a beautiful princess.
+3. Movie: Girl Shy
+4. Movie: The Navigator
+5. Movie: Die Nibelungen: Siegfried
 6. Movie: He Who Gets Slapped
-Genre: Drama, Romance, Thriller
-Description: A bitter clown endeavors to rescue the young woman he loves from the lecherous count who once betrayed him.
-7. Movie: Manhandled
-Genre: Drama, Comedy
-Description: When her boyfriend, Jimmy, forgets a date, Tessie McGuire, a department store clerk, attends a party at the studio of Robert Brandt where she makes a hit with impersonations...See full synopsis&nbsp;&raquo;
-8. Movie: The Navigator
-Genre: Action, Comedy, Romance
-Description: Two spoiled rich people find themselves trapped on an empty passenger ship.
-9. Movie: The Iron Horse
-Genre: History, Romance, Western
-Description: After witnessing the murder of his father by a renegade as a boy, the grown-up Brandon helps to realize his father's dream of a transcontinental railway.
-10. Movie: Die Nibelungen: Kriemhilds Rache
-Genre: Adventure, Drama, Fantasy
-Description: After Siegfried's dead, Kriemhild marries Etzel, the King of the Huns. She gives birth to a child, and invites her brothers for a party. She tries to persuade Etzel and the other Huns, that...See full summary&nbsp;&raquo;
-11. Movie: Orlacs Hände
-Genre: Crime, Horror, Mystery
-Description: A world-famous pianist loses both hands in an accident. When new hands are grafted on, he doesn't know they once belonged to a murderer.
-12. Movie: Aelita
-Genre: Adventure, Drama, Fantasy
-Description: This is called the first Soviet science fiction film because of its "futuristic" sets on Mars, although most of it takes place in Moscow. The movie is set at the beginning of the NEP (New ...See full summary&nbsp;&raquo;
-13. Movie: The Sea Hawk
-Genre: Adventure, Drama, Romance
-Description: A wrongly convicted English gentleman goes from galley slave to pirate captain.
-14. Movie: Girl Shy
-Genre: Comedy, Romance
-Description: A shy, young man, who is completely incapable of talking to women, decides to write a book that details to other bachelors how to find a girlfriend.
-15. Movie: Dante's Inferno
-Genre: Drama, Horror, Romance
-Description: The tactics of a vicious slumlord and greedy businessman finally drive a distraught man to commit suicide. The businessman is tried for murder and executed, and is afterward taken by demons...See full summary&nbsp;&raquo;
-16. Movie: Michael
-Genre: Drama, Romance
-Description: Triangle story: painter, his young male model, unscrupulous princess.
-17. Movie: Gösta Berlings saga
-Genre: Drama, Romance
-Description: Gsta Berling is a young and attractive minister. Because he is an alcoholic and his preaches are far too daring, he is finally defrocked. He leaves the town in disgrace and arrives at ...See full summary&nbsp;&raquo;
-18. Movie: Peter Pan
-Genre: Adventure, Fantasy, Family
-Description: Peter Pan enters the nursery of the Darling children and, with the help of fairy dust, leads them off to Never Never Land, where they meet the nefarious Captain Hook.
-19. Movie: Die Finanzen des Großherzogs
-Genre: Comedy
-Description: The likeable and carefree Grand Duke of Abacco is in dire straits. There is no money left to service the State's debt; the main creditor is looking forward to expropriating the entire Duchy...See full summary&nbsp;&raquo;
-20. Movie: Violettes impériales
-Genre: Adventure, Comedy
-Description: Add a Plot
-21. Movie: Das Wachsfigurenkabinett
-Genre: Fantasy, Horror
-Description: The owner of a Waxmuseum needs for three of his models stories to be told to the audience. For that reason he has hired a writer, who after one look athe owner's pretty daughter, starts ...See full summary&nbsp;&raquo;
-22. Movie: Beau Brummel
-Genre: Drama, History, Romance
-Description: George Bryan Brummel, a British military officer, loves Lady Margery, the betrothed of Lord Alvanley. Despite her own desperate love for Brummel, she submits to family pressure and marries ...See full summary&nbsp;&raquo;
-23. Movie: L'inhumaine
-Genre: Adventure, Drama, Mystery
-Description: Claire Lescot is a famous prima donna. All men want to be loved by her. Among them is the young scientist Einar Norsen. When she mocks at him, he leaves her house with the declared ...See full summary&nbsp;&raquo;
-24. Movie: Hot Water
-Genre: Comedy
-Description: Episodic look at married life and in-law problems. Adventures include a ride on a crowded trolley with a live turkey; a wild spin in a new auto with the in-laws in tow; and a sequence in ...See full summary&nbsp;&raquo;
-25. Movie: Venus of the South Seas
-Genre: Drama, Romance
-Description: The daughter of man who owns a South Seas pearl business falls in love with a wealthy traveler. Her father dies, leaving her the business. A greedy ship captain schemes to take the business...See full summary&nbsp;&raquo;
-26. Movie: Neobychainye priklyucheniya mistera Vesta v strane bolshevikov
-Genre: Comedy
-Description: The film chronicles the adventures of an American, "Mr. West," and his faithful bodyguard and servant Jeddie, as they visit the land of the horrible, evil Bolsheviks. Through various ...See full summary&nbsp;&raquo;
-27. Movie: America
-Genre: Drama, History, War
-Description: The story of a family caught up in the American Revolutionary War.
-28. Movie: The Marriage Circle
-Genre: Comedy
-Description: Professor Stock and his wife Mizzi are always bickering. Mizzi tries to seduce Dr. Franz Braun, the new husband of her good friend Charlotte. Dr. Braun's colleague, Dr. Mueller, who has had...See full summary&nbsp;&raquo;
-29. Movie: Isn't Life Wonderful
-Genre: Drama, Romance
-Description: A family of Polish refugees tries to survive in post-World War I Germany. For a while it seems that they are making it, but soon the economic and political deterioration in the country begins to take their toll.
-30. Movie: Romola
-Genre: Drama, History
-Description: In Renaissance Florence, Tito, a no-good young man pretending to be a scholar, wins the admiration of a blind man who has long looked for someone to finish his scholarly work. He has a ...See full summary&nbsp;&raquo;
-31. Movie: Captain Blood
-Genre: Action, Adventure, Romance
-Description: Peter Blood, a young Irish physician, treats a rebel soldier wounded in battle, and he is arrested, tried for treason and sent into slavery to Barbados. He and his friend Jeremy are bought ...See full summary&nbsp;&raquo;
-32. Movie: The Perfect Flapper
-Genre: Comedy, Romance
-Description: Add a Plot
-33. Movie: Forbidden Paradise
-Genre: Comedy
-Description: Forbidden Paradise is a 1924 American silent drama film produced by Famous Players-Lasky and distributed by Paramount Pictures. It was directed by German film director Ernst Lubitsch. The ...See full summary&nbsp;&raquo;
-34. Movie: Komödie des Herzens
-Description: Add a Plot
-35. Movie: The Last Man on Earth
-Genre: Comedy, Fantasy, Sci-Fi
-Description: In the future year of 1940, a young man is rejected and humiliated by a girl and goes off to be a hermit in a redwood forest. By 1950, a dreadful plague of "Masculitis" has killed every ...See full summary&nbsp;&raquo;
-36. Movie: Quo Vadis?
-Genre: Drama
-Description: Watch the Apostles and other followers like Saul preach the gospel and spread the message of love and hope in this high quality entertaining animated feature for your kids and family.
-37. Movie: The Enemy Sex
-Genre: Drama
-Description: Add a Plot
-38. Movie: Veer Ahir
-Description: Add a Plot
-39. Movie: So Big
-Genre: Drama
-Description: Add a Plot
-40. Movie: Die Stadt ohne Juden
-Genre: Drama
-Description: Jews are expelled from the city of Utopia.
-41. Movie: Dorothy Vernon of Haddon Hall
-Genre: Drama, History, Romance
-Description: In the year 1550, Sir George Vernon agrees to have his young daughter Dorothy betrothed to John Manners, the son of the Earl of Rutland. Sir George signs a contract, promising that the ...See full summary&nbsp;&raquo;
-42. Movie: Captain January
-Genre: Drama
-Description: A lighthouse keeper finds a little girl who is washed ashore tied to some wreckage. He adopts her and they become inseparable. Eventually her real family finds her and tries to take her away.
-43. Movie: Helena
-Genre: Drama
-Description: Add a Plot
-44. Movie: Janice Meredith
-Genre: Comedy, Romance
-Description: It is 1774, the eve of the American War of Independence. Janice comes from a Tory household. She cavorts with American and British alike, is pursued by Charles Fownes, patriot and friend of...See full summary&nbsp;&raquo;
-45. Movie: Cytherea
-Genre: Drama
-Description: Add a Plot
-46. Movie: Monsieur Beaucaire
-Genre: Drama, Romance
-Description: When M. Beaucaire, a handsome barber, catches the Duke of Winterset cheating at gambling, Beaucaire exacts Winterset's cooperation in sneaking Beaucaire into a great ball, disguised as the ...See full summary&nbsp;&raquo;
-47. Movie: L'inondation
-Genre: Drama
-Description: Add a Plot
-48. Movie: Die Hermannschlacht
-Genre: Drama, History, War
-Description: Add a Plot
-49. Movie: Three Women
-Genre: Drama
-Description: A frivolous middle aged socialite is suddenly put upon to have her daughter live with her. Her conniving paramour dumps her for the daughter, leaving the young boyfriend crushed.
-50. Movie: Happiness
-Genre: Comedy
-Description: The adventures of a young shopgirl who learns that having money is not the key to happiness.
+7. Movie: The Iron Horse
+8. Movie: Der letzte Mann
+9. Movie: Orlacs Hnde
+10. Movie: Aelita
+11. Movie: Michael
+12. Movie: Black Lightning
+13. Movie: The Thief of Bagdad
+14. Movie: Monsieur Beaucaire
+15. Movie: Manhandled
+16. Movie: Das Wachsfigurenkabinett
+17. Movie: Peter Pan
+18. Movie: Beau Brummel
+19. Movie: L'inhumaine
+20. Movie: Prithvi Vallabh
+21. Movie: Hot Water
+22. Movie: Dante's Inferno
+23. Movie: Gsta Berlings saga
+24. Movie: The Last Man on Earth
+25. Movie: A Sainted Devil
+26. Movie: Die Nibelungen: Kriemhilds Rache
+27. Movie: Helena
+28. Movie: Die Stadt ohne Juden
+29. Movie: Veer Ahir
+30. Movie: Wild Oranges
+31. Movie: Tess of the D'Urbervilles
+32. Movie: Romola
+33. Movie: Die Finanzen des Groherzogs
+34. Movie: America
+35. Movie: Cytherea
+36. Movie: The Sea Hawk
+37. Movie: Isn't Life Wonderful
+38. Movie: The Wolf Man
+39. Movie: Dorothy Vernon of Haddon Hall
+40. Movie: Forbidden Paradise
+41. Movie: Le lion des Mogols
+42. Movie: The Marriage Circle
+43. Movie: The Red Lily
+44. Movie: Neobychainye priklyucheniya mistera Vesta v strane bolshevikov
+45. Movie: The Enchanted Cottage
+46. Movie: Helen's Babies
+47. Movie: Die Sklavenknigin
+48. Movie: Three Women
+49. Movie: The Hooded Falcon
+50. Movie: The White Shadow

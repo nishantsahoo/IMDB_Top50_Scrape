@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 1946-01-01 to 1946-12-31 : 
-1. Movie: It's a Wonderful Life
-Genre: Drama, Family, Fantasy
-Description: An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.
-2. Movie: The Razor's Edge
-Genre: Drama, Film-Noir, Romance
-Description: An adventuresome young man goes off to find himself and loses his socialite fiance in the process. But when he returns 10 years later, she will stop at nothing to get him back, even though she is already married.
-3. Movie: Notorious
-Genre: Drama, Film-Noir, Romance
-Description: A woman is asked to spy on a group of Nazi friends in South America. How far will she have to go to ingratiate herself with them?
+1. Movie: Till the End of Time
+2. Movie: It's a Wonderful Life
+3. Movie: Night and Day
 4. Movie: The Big Sleep
-Genre: Crime, Film-Noir, Mystery
-Description: Private detective Philip Marlowe is hired by a rich family. Before the complex case is over, he's seen murder, blackmail, and what might be love.
-5. Movie: The Killers
-Genre: Crime, Drama, Film-Noir
-Description: Hit men kill an unresisting victim, and investigator Reardon uncovers his past involvement with beautiful, deadly Kitty Collins.
-6. Movie: Gilda
-Genre: Drama, Film-Noir, Romance
-Description: A small-time gambler hired to work in a Buenos Aires casino learns that his ex-lover is married to his employer.
-7. Movie: The Best Years of Our Lives
-Genre: Drama, Romance, War
-Description: Three World War II veterans return home to small-town America to discover that they and their families have been irreparably changed.
-8. Movie: My Darling Clementine
-Genre: Biography, Drama, Western
-Description: A Western retelling the tale of the Shoot-out at the OK Corral.
-9. Movie: The Blue Dahlia
-Genre: Crime, Film-Noir, Mystery
-Description: An ex-bomber pilot is suspected of murdering his unfaithful wife.
-10. Movie: Song of the South
-Genre: Animation, Comedy, Family
-Description: The kindly story-teller Uncle Remus tells a young boy stories about trickster Br'er Rabbit, who outwits Br'er Fox and slow-witted Br'er Bear.
-11. Movie: One More Tomorrow
-Genre: Comedy, Drama
-Description: Shiftless playboy Tom Collier lives to jump from party to party--until he meets photographer Christie Sage. Through Christie, Tom takes over the ownership of The Bantam, a liberal magazine ...See full summary&nbsp;&raquo;
-12. Movie: La belle et la bête
-Genre: Drama, Fantasy, Romance
-Description: A beautiful young woman takes her father's place as the prisoner of a mysterious beast, who wishes to marry her.
-13. Movie: The Yearling
-Genre: Drama, Family
-Description: A boy persuades his parents to allow him to adopt a young deer, but what will happen if the deer misbehaves?
-14. Movie: Great Expectations
-Genre: Adventure, Drama, Mystery
-Description: A humble orphan suddenly becomes a gentleman with the help of an unknown benefactor.
-15. Movie: The Stranger
-Genre: Crime, Drama, Film-Noir
-Description: An investigator from the War Crimes Commission travels to Connecticut to find an infamous Nazi.
-16. Movie: Deception
-Genre: Crime, Drama, Film-Noir
-Description: A piano teacher believes that her fianc was killed on the battlefield. When he miraculously returns, they decide to marry, but are threatened by a wealthy, egotistical composer the piano teacher started dating on the rebound after she became convinced her love had died.
-17. Movie: Duel in the Sun
-Genre: Drama, Romance, Western
-Description: Beautiful half-breed Pearl Chavez becomes the ward of her dead father's first love and finds herself torn between her sons, one good and the other bad.
-18. Movie: A Matter of Life and Death
-Genre: Comedy, Drama, Fantasy
-Description: A British wartime aviator who cheats death must argue for his life before a celestial court.
-19. Movie: The Postman Always Rings Twice
-Genre: Crime, Drama, Film-Noir
-Description: A married woman and a drifter fall in love, then plot to murder her husband. Once the deed is done, they must live with the consequences of their actions.
-20. Movie: The Harvey Girls
-Genre: Comedy, Musical, Western
-Description: On a train trip West to become a mail order bride Susan Bradley meets a cheery crew of young women traveling out to open a " Harvey House " restaurant at a remote whistle stop to provide ...See full summary&nbsp;&raquo;
-21. Movie: The Strange Love of Martha Ivers
-Genre: Drama, Film-Noir, Romance
-Description: A ruthless, domineering woman is married to an alcoholic D.A., her childhood companion and the only living witness to her murder of her rich aunt seventeen years earlier.
-22. Movie: The Spiral Staircase
-Genre: Crime, Drama, Horror
-Description: In 1916, a shadowy serial killer is targeting women with "afflictions"; one night during a thunderstorm, the mute Helen feels menaced.
-23. Movie: Dressed to Kill
-Genre: Mystery
-Description: Sherlock Holmes sets out to discover why a trio of murderous villains, including a dangerously attractive female, are desperate to obtain three unassuming and inexpensive little music boxes.
-24. Movie: The Dark Corner
-Genre: Crime, Film-Noir, Drama
-Description: Secretary tries to help her boss, who is framed for a murder.
-25. Movie: Till the Clouds Roll By
-Genre: Biography, Musical
-Description: Biography of songwriter, Broadway pioneer, Jerome Kern. Unable to find immediate success in the USA, Kern sought recognition abroad. He journeyed to England where his dreams of success became real and where he met his future wife Eva.
-26. Movie: Night and Day
-Genre: Biography, Drama, Musical
-Description: The fictionalized biography of composer Cole Porter from his days at Yale in the 1910s through the height of his success to the 1940s. The film's attempted biography matches many public ...See full summary&nbsp;&raquo;
-27. Movie: Canyon Passage
-Genre: Drama, Western
-Description: Businessman Logan Stuart is torn between his love of two very different women in 1850's Oregon and his loyalty to a compulsive gambler friend who goes over the line.
-28. Movie: Terror by Night
-Genre: Mystery, Thriller
-Description: When the fabled Star of Rhodesia diamond is stolen on a London to Edinburgh train and the son of its owner is murdered, Sherlock Holmes must discover which of his suspicious fellow passengers is responsible.
-29. Movie: Paisà
-Genre: Drama, War
-Description: Six vignettes follow the Allied invasion from July 1943 to winter 1944, from Sicily north to Venice. Communication is fragile. A woman leads an Allied patrol through a mine field; she dies ...See full summary&nbsp;&raquo;
-30. Movie: Shock
-Genre: Film-Noir, Thriller
-Description: A psychologically distraught woman is committed to a private sanitarium by the man she witnessed commit a murder.
-31. Movie: Till the End of Time
-Genre: Drama, Romance, War
-Description: Drama about former WW2 soldiers readjusting to civilian life and dealing with their mental and physical traumas.
-32. Movie: The Time of Their Lives
-Genre: Comedy, Fantasy, Romance
-Description: Two ghosts who were mistakenly branded as traitors during the Revolutionary War return to 20th century New England to retrieve a letter from George Washington which would prove their ...See full summary&nbsp;&raquo;
-33. Movie: Of Human Bondage
-Genre: Drama
-Description: A medical student with a club foot falls for a beautiful but ambitious waitress. She soon leaves him, but gets pregnant and comes back to him for help.
-34. Movie: Panique
-Genre: Drama
-Description: In the suburbs of Paris, an old maid has just been murdered. Every body talks about that, except the misanthrope Mr Hire. The same evening, Alice, just getting out of jail, arrives and ...See full summary&nbsp;&raquo;
-35. Movie: Anna and the King of Siam
-Genre: Biography, Drama, Romance
-Description: In 1862, a young Englishwoman becomes royal tutor in Siam and befriends the King.
-36. Movie: The Strange Woman
-Genre: Drama, Film-Noir, Romance
-Description: In 1820s New England beautiful but poor and manipulative Jenny Hager marries rich old man Isaiah Poster but also seduces his son and his company foreman.
-37. Movie: Somewhere in the Night
-Genre: Crime, Drama, Film-Noir
-Description: George Taylor returns from WWII with amnesia. Back home in Los Angeles, while trying to track down his old identity, he stumbles onto a 3-year old murder case and a hunt for a missing $2 million.
-38. Movie: Humoresque
-Genre: Drama, Music, Romance
-Description: A classical musician from the slums is sidetracked by his love for a wealthy, neurotic socialite.
-39. Movie: The Dark Mirror
-Genre: Crime, Drama, Film-Noir
-Description: A man is found murdered, with witnesses convinced about the woman they saw leaving his apartment. However, it becomes apparent that the woman has a twin, and finding out which one is the killer seems impossible.
-40. Movie: Angel on My Shoulder
-Genre: Comedy, Fantasy, Romance
-Description: The Devil arranges for a deceased gangster to return to Earth as a well-respected judge to make up for his previous life.
-41. Movie: A Stolen Life
-Genre: Drama
-Description: When a woman's twin sister is drowned, she assumes her identity in order to be close to the man she feels her sister took from her years before.
-42. Movie: A Night in Casablanca
-Genre: Comedy
-Description: The Marx Brothers are employed at a hotel in postwar Casablanca, where a ring of Nazis is trying to recover a cache of stolen treasure.
-43. Movie: Dragonwyck
-Genre: Drama, Thriller, Mystery
-Description: A simple Connecticut farm girl is recruited by a distant relative, an aristocratic patroon, to be governess to his young daughter in his Hudson Valley mansion.
-44. Movie: To Each His Own
-Genre: Drama, Romance
-Description: An unwed mother, forced to give up her child to avoid scandal, follows her son's life from afar even as she prospers in business.
-45. Movie: Without Reservations
-Genre: Comedy, Romance
-Description: Kit Madden is traveling to Hollywood, where her best-selling novel is to be filmed. Aboard the train, she encounters Marines Rusty and Dink, who don't know she is the author of the famous ...See full summary&nbsp;&raquo;
-46. Movie: Sciuscià
-Genre: Drama
-Description: Two shoeshine boys in postwar Rome, Italy, save up to buy a horse, but their involvement as dupes in a burglary lands them in juvenile prison where the experience take a devastating toll on their friendship.
-47. Movie: The Virginian
-Genre: Romance, Western
-Description: Arriving at Medicine Bow, eastern schoolteacher Molly Woods meets two cowboys, irresponsible Steve and the "Virginian," who gets off on the wrong foot with her. To add to his troubles, the ...See full summary&nbsp;&raquo;
-48. Movie: Cloak and Dagger
-Genre: Adventure, Film-Noir, Romance
-Description: In WW2, the Allies race against time to persuade two nuclear scientists working for the Nazis to switch sides.
-49. Movie: The Jolson Story
-Genre: Biography, Drama, Music
-Description: This movie shows the idealized career of the singer Al Jolson, a little Jewish boy who goes against the will of his father in order to be in showbiz. He becomes a star, falls in love with a...See full summary&nbsp;&raquo;
-50. Movie: The Chase
-Genre: Film-Noir
-Description: Chuck Scott gets a job as chauffeur to tough guy Eddie Roman; but Chuck's involvement with Eddie's fearful wife becomes a nightmare.
+5. Movie: Great Expectations
+6. Movie: The Best Years of Our Lives
+7. Movie: Song of the South
+8. Movie: Notorious
+9. Movie: Gilda
+10. Movie: The Stranger
+11. Movie: The Dark Corner
+12. Movie: The Killers
+13. Movie: Two Guys from Milwaukee
+14. Movie: My Darling Clementine
+15. Movie: The Postman Always Rings Twice
+16. Movie: A Matter of Life and Death
+17. Movie: La belle et la bte
+18. Movie: The Razor's Edge
+19. Movie: Duel in the Sun
+20. Movie: The Strange Love of Martha Ivers
+21. Movie: The Harvey Girls
+22. Movie: Undercurrent
+23. Movie: The Blue Dahlia
+24. Movie: The Spiral Staircase
+25. Movie: The Yearling
+26. Movie: Canyon Passage
+27. Movie: The Dark Mirror
+28. Movie: Dressed to Kill
+29. Movie: Green for Danger
+30. Movie: Pais
+31. Movie: The Strange Woman
+32. Movie: Terror by Night
+33. Movie: Anna and the King of Siam
+34. Movie: The Kid from Brooklyn
+35. Movie: A Stolen Life
+36. Movie: To Each His Own
+37. Movie: Humoresque
+38. Movie: Dragonwyck
+39. Movie: Cloak and Dagger
+40. Movie: Sciusci
+41. Movie: Tarzan and the Leopard Woman
+42. Movie: The Virginian
+43. Movie: Lady in the Lake
+44. Movie: Abilene Town
+45. Movie: 13 Rue Madeleine
+46. Movie: Make Mine Music
+47. Movie: Deception
+48. Movie: A Night in Casablanca
+49. Movie: My Reputation
+50. Movie: Cluny Brown

@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 1935-01-01 to 1935-12-31 : 
-1. Movie: Captain Blood
-Genre: Action, Adventure
-Description: After being wrongly convicted as a traitor, Peter Blood, an English physician, is sent to exile in the British colonies of the Caribbean, where he becomes a pirate.
+1. Movie: Bride of Frankenstein
 2. Movie: The 39 Steps
-Genre: Mystery, Thriller
-Description: A man in London tries to help a counterespionage agent. But when the agent is killed and the man stands accused, he must go on the run to both save himself and also stop a spy ring which is trying to steal top secret information.
-3. Movie: Bride of Frankenstein
-Genre: Comedy, Drama, Horror
-Description: Mary Shelley reveals the main characters of her novel survived: Dr. Frankenstein, goaded by an even madder scientist, builds his monster a mate.
-4. Movie: Top Hat
-Genre: Comedy, Musical, Romance
-Description: An American dancer comes to Britain and falls for a model whom he initially annoyed, but she mistakes him for his goofy producer.
-5. Movie: The Flame Within
-Genre: Drama
-Description: Psychiatrist finds herself falling for her patient.
-6. Movie: Mutiny on the Bounty
-Genre: Adventure, Biography, Drama
-Description: Midshipman Roger Byam joins Captain Bligh and Fletcher Christian aboard HMS Bounty for a voyage to Tahiti. Bligh proves to be a brutal tyrant and, after six pleasant months on Tahiti, ...See full summary&nbsp;&raquo;
-7. Movie: Dangerous
-Genre: Drama
-Description: An alcoholic actress who is considered a dangerous jinx is rehabilitated, but she then shows that she's as dangerous as ever.
-8. Movie: A Night at the Opera
-Genre: Comedy, Music, Musical
-Description: A sly business manager and two wacky friends of two opera singers help them achieve success while humiliating their stuffy and snobbish enemies.
-9. Movie: Princesse Tam-Tam
-Genre: Comedy, Drama
-Description: A French novelist passes off a African shepherdess as a princess.
-10. Movie: Call of the Wild
-Genre: Action, Adventure, Drama
-Description: Jack Thornton has trouble winning enough at cards for the stake he needs to get to the Alaska gold fields. His luck changes when he pays $250 for Buck, a sled dog that is part wolf to keep ...See full summary&nbsp;&raquo;
-11. Movie: A Tale of Two Cities
-Genre: Drama, History, Romance
-Description: A pair of lookalikes, one a former French aristocrat and the other an alcoholic English lawyer, fall in love with the same woman amongst the turmoil of the French Revolution.
+3. Movie: Mutiny on the Bounty
+4. Movie: Captain Blood
+5. Movie: A Midsummer Night's Dream
+6. Movie: Top Hat
+7. Movie: A Night at the Opera
+8. Movie: The Littlest Rebel
+9. Movie: A Tale of Two Cities
+10. Movie: The Little Colonel
+11. Movie: Call of the Wild
 12. Movie: Anna Karenina
-Genre: Drama, Romance
-Description: The married Anna Karenina falls in love with Count Vronsky despite her husband's refusal to grant a divorce, and both must contend with the social repercussions.
-13. Movie: Suicide Squad
-Genre: Action, Drama, Romance
-Description: Larry Baker is a young fireman whose daring exploits have led him to receiving a lot of newspaper publicity which goes to his head. His sweetheart, Mary O'Connor, and fire-department ...See full summary&nbsp;&raquo;
-14. Movie: The Personal History, Adventures, Experience, &amp; Observation of David Copperfield the Younger
-Genre: Adventure, Drama, Romance
-Description: A gentle orphan discovers life and love in an indifferent adult world.
-15. Movie: Roberta
-Genre: Comedy, Musical, Romance
-Description: In Paris, a man clueless about fashion suddenly inherits his aunt's dress shop, while his bandleader friend reunites with his old flame.
-16. Movie: The Informer
-Genre: Crime, Drama
-Description: In 1922, an Irish rebel informs on his friend, then feels doom closing in.
-17. Movie: A Midsummer Night's Dream
-Genre: Comedy, Fantasy, Romance
-Description: Theseus, Duke of Athens, is going to marry Hyppolyta, Queen of the Amazons. Demetrius is engaged with Hermia, but Hermia loves Lysander. Helena loves Demetrius. Oberon and Titania, of the ...See full summary&nbsp;&raquo;
-18. Movie: Sylvia Scarlett
-Genre: Comedy, Drama, Romance
-Description: Escaping to England from a French embezzlement charge, widower Henry Scarlett is accompanied by daughter Sylvia who, to avoid detection, "disguises" herself as a boy, "Sylvester." They are ...See full summary&nbsp;&raquo;
-19. Movie: Crime and Punishment
-Genre: Crime, Drama
-Description: Man is haunted by a murder he's committed.
-20. Movie: Les Misérables
-Genre: Drama, History, Romance
-Description: In early 19th Century France an ex-convict who failed to report to parole is relentlessly pursued over a 20 year period by an obsessive policeman.
-21. Movie: Werewolf of London
-Genre: Drama, Fantasy, Horror
-Description: The juice of a rare Tibetan flower is the only thing that keeps Dr. Glendon from turning into a werewolf during a full moon.
-22. Movie: Broadway Melody of 1936
-Genre: Musical, Romance
-Description: Bob Gordon is staging a new Broadway Show, but he is short of money. He gets an offer of money by the young widow Lilian, if she can dance in his new show. Bert Keeler, a paper man, gets ...See full summary&nbsp;&raquo;
-23. Movie: The Little Colonel
-Genre: Comedy, Family
-Description: After Southern belle Elizabeth Lloyd runs off to marry Yankee Jack Sherman, her father, a former Confederate colonel during the Civil War, vows to never speak to her again. Several years ...See full summary&nbsp;&raquo;
-24. Movie: The Raven
-Genre: Crime, Horror
-Description: A brilliant surgeon obsessed withEdgar Allan Poesaves the life of a beautiful dancer and goes mad when he can't have her.
-25. Movie: Alice Adams
-Genre: Comedy, Drama, Romance
-Description: The misadventures of two social-climbing women in small town America.
-26. Movie: Scrooge
-Genre: Drama, Family, Fantasy
-Description: Scrooge, the ultimate Victorian miser, hasn't a good word for Christmas, though his impoverished clerk Cratchit and nephew Fred are full of holiday spirit. But in the night, Scrooge is ...See full summary&nbsp;&raquo;
-27. Movie: 'G' Men
-Genre: Crime, Drama, Film-Noir
-Description: It's the early days of the F.B.I. - federal agents working for the Department of Justice. Though they've got limited powers - they don't carry weapons and have to get local police approval ...See full summary&nbsp;&raquo;
-28. Movie: Mad Love
-Genre: Horror, Romance, Sci-Fi
-Description: An insane surgeon's obsession with an actress leads him to replace her husband's hands with the hands of a knife murderer which still have the urge to throw knives.
-29. Movie: Curly Top
-Genre: Family, Musical, Romance
-Description: Wealthy Edward Morgan becomes charmed with a curly-haired orphan and her pretty older sister Mary and arranges to adopt both under the alias of "Mr. Jones." As he spends more time with them, he soon finds himself falling in love with Mary.
-30. Movie: The Crusades
-Genre: Adventure, Drama, History
-Description: King Richard and the Third Crusade (1190-1192) are given the DeMille treatment with more spectacle than history.
-31. Movie: The Devil Is a Woman
-Genre: Comedy, Drama, Romance
-Description: Film told in flashbacks of an older man's obsession for a woman who can belong to no-one but can frustrate everyone. The backdrop is Sternbergs surreal and fantastic Carnaval in Spain. In ...See full summary&nbsp;&raquo;
-32. Movie: She
-Genre: Adventure, Fantasy, Romance
-Description: Leo Vincey, told by his dying uncle of a lost land visited 500 years ago by his ancestor, heads out with family friend Horace Holly to try to discover the land and its secret of immortality...See full summary&nbsp;&raquo;
-33. Movie: Ruggles of Red Gap
-Genre: Comedy, Romance
-Description: An English valet brought to the American west assimilates into the American way of life.
-34. Movie: Dante's Inferno
-Genre: Drama
-Description: Jim Carter moves in on the McWade's carnival concession which shows scenes from Dante's "Inferno". He makes it a going concern, marrying Betty along the way. An inspector calls the ...See full summary&nbsp;&raquo;
-35. Movie: The Littlest Rebel
-Genre: Comedy, Drama, Family
-Description: Shirley Temple's father, a rebel officer, sneaks back to his rundown plantation to see his family and is arrested. A Yankee takes pity and sets up an escape. Everyone is captured and the ...See full summary&nbsp;&raquo;
-36. Movie: Annie Oakley
-Genre: Biography, Drama, Western
-Description: A romanticized biography of the famous sharpshooter.
-37. Movie: The Lives of a Bengal Lancer
-Genre: Adventure, Drama
-Description: Three British soldiers on the Northwest Frontier of India struggle against the enemy - and themselves.
-38. Movie: Charlie Chan in Egypt
-Genre: Comedy, Crime, Horror
-Description: While investigating the theft of antiquities from an ancient tomb excavation, Charlie discovers that the body of the expedition's leader concealed inside the mummy's wrappings.
-39. Movie: Bonnie Scotland
-Genre: Comedy
-Description: Stan and Ollie mistakenly enlist in the army and find themselves posted to the Northwest Frontier in India on a dangerous mission.
-40. Movie: The Three Musketeers
-Genre: Action, Adventure, Romance
-Description: The young Gascon D'Artagnan arrives in Paris, his heart set on joining the king's Musketeers. He is taken under the wings of three of the most respected and feared Musketeers, Porthos, ...See full summary&nbsp;&raquo;
-41. Movie: Reckless
-Genre: Drama, Musical, Comedy
-Description: Wealthy Bob Harrison buys all the seats in the theatre to watch Mona Leslie's musical by himself. He loves her, her agent Ned Riley loves her. Conflict ensues.
-42. Movie: Goin' to Town
-Genre: Comedy, Musical
-Description: Former dance hall queen Cleo Borden, newly rich, falls for and pursues an upper-crust Englishman.
-43. Movie: Becky Sharp
-Genre: Drama, Romance, War
-Description: Set against the background of the Battle of Waterloo, Becky Sharp is the story of Vanity Fair by Thackeray. Becky and Amelia are girls at school together, but Becky is from a "show biz" ...See full summary&nbsp;&raquo;
-44. Movie: China Seas
-Genre: Action, Drama, Adventure
-Description: When earthy Dolly Portland is rejected by Captain Gaskell in favor of a socialite, she aids Jamesy McCardle, in league with Malay pirates, in his plot to seize his ship.
+13. Movie: Sylvia Scarlett
+14. Movie: The Informer
+15. Movie: The Personal History, Adventures, Experience, & Observation of David Copperfield the Younger
+16. Movie: Mark of the Vampire
+17. Movie: The Devil Is a Woman
+18. Movie: Ruggles of Red Gap
+19. Movie: Mad Love
+20. Movie: Curly Top
+21. Movie: Les Misrables
+22. Movie: Crime and Punishment
+23. Movie: Roberta
+24. Movie: The Crusades
+25. Movie: The Lives of a Bengal Lancer
+26. Movie: She
+27. Movie: Naughty Marietta
+28. Movie: Charlie Chan in Egypt
+29. Movie: Dante's Inferno
+30. Movie: Alice Adams
+31. Movie: Dangerous
+32. Movie: Murder on a Honeymoon
+33. Movie: Barbary Coast
+34. Movie: The Raven
+35. Movie: The Whole Town's Talking
+36. Movie: Hop-a-Long Cassidy
+37. Movie: I Live My Life
+38. Movie: Magnificent Obsession
+39. Movie: 'G' Men
+40. Movie: Reckless
+41. Movie: Charlie Chan in Shanghai
+42. Movie: Broadway Melody of 1936
+43. Movie: The Desert Trail
+44. Movie: The Phantom Empire
 45. Movie: Gold Diggers of 1935
-Genre: Comedy, Musical
-Description: In a luxury hotel stage director Nicoleff stages a show to get the money to pay his bills. Mrs. Prentiss, who is backing the show wants her daughter Ann to marry the millionaire T. Mosely ...See full summary&nbsp;&raquo;
-46. Movie: Barbary Coast
-Genre: Adventure, Drama, Romance
-Description: Mary Rutledge arrives from the east, finds her fiance dead, and goes to work at the roulette wheel of Louis Charnalis' Bella Donna, a rowdy gambling house in San Francisco in the 1850s. She...See full summary&nbsp;&raquo;
-47. Movie: The Ghost Goes West
-Genre: Comedy, Fantasy, Horror
-Description: An American businessman's family convinces him to buy a Scottish castle and disassemble it to ship it to America brick by brick, where it will be put it back together. The castle though is ...See full summary&nbsp;&raquo;
-48. Movie: The Whole Town's Talking
-Genre: Comedy, Crime, Drama
-Description: A meek milquetoast of a clerk is mistaken for Public Enemy #1, and the notorious killer takes advantage of the situation.
-49. Movie: Mark of the Vampire
-Genre: Horror, Mystery
-Description: When a nobleman is murdered, a professor of the occult blames vampires; but not all is what it seems.
-50. Movie: Peter Ibbetson
-Genre: Drama, Fantasy, Romance
-Description: Architect Peter Ibbetson is hired by the Duke of Towers to design a building for him. Ibbetson discovers that the Duchess of Towers, Mary, is his now-grown childhood sweetheart. Their love ...See full summary&nbsp;&raquo;
+46. Movie: The Murder Man
+47. Movie: The Wedding Night
+48. Movie: Annie Oakley
+49. Movie: Becky Sharp
+50. Movie: China Seas

@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 2005-01-01 to 2005-12-31 : 
-1. Movie: xXx: State of the Union
-Genre: Action, Adventure, Crime
-Description: Darius Stone, a new agent in the XXX program, is sent to Washington, DC to defuse a power struggle amongst national leaders.
-2. Movie: Harry Potter and the Goblet of Fire
-Genre: Adventure, Family, Fantasy
-Description: Harry finds himself mysteriously selected as an under-aged competitor in a dangerous tournament between three schools of magic.
-3. Movie: Batman Begins
-Genre: Action, Adventure
-Description: After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from the corruption that Scarecrow and the League of Shadows have cast upon it.
-4. Movie: Star Wars: Episode III - Revenge of the Sith
-Genre: Action, Adventure, Fantasy
-Description: Three years into the Clone Wars, the Jedi rescue Palpatine from Count Dooku. As Obi-Wan pursues a new threat, Anakin acts as a double agent between the Jedi Council and Palpatine and is lured into a sinister plan to rule the galaxy.
-5. Movie: V for Vendetta
-Genre: Action, Drama, Thriller
-Description: In a future British tyranny, a shadowy freedom fighter, known only by the alias of "V", plots to overthrow it with the help of a young woman.
-6. Movie: Pride &amp; Prejudice
-Genre: Drama, Romance
-Description: Sparks fly when spirited Elizabeth Bennet meets single, rich, and proud Mr. Darcy. But Mr. Darcy reluctantly finds himself falling in love with a woman beneath his class. Can each overcome their own pride and prejudice?
-7. Movie: Charlie and the Chocolate Factory
-Genre: Adventure, Comedy, Family
-Description: A young boy wins a tour through the most magnificent chocolate factory in the world, led by the world's most unusual candy maker.
-8. Movie: The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
-Genre: Adventure, Family, Fantasy
-Description: Four kids travel through a wardrobe to the land of Narnia and learn of their destiny to free it with the guidance of a mystical lion.
-9. Movie: Sin City
-Genre: Crime, Thriller
-Description: A film that explores the dark and miserable town, Basin City, and tells the story of three different people, all caught up in violent corruption.
-10. Movie: The 40 Year Old Virgin
-Genre: Comedy, Romance
-Description: Goaded by his buddies, a nerdy guy who's never "done the deed" only finds the pressure mounting when he meets a single mother.
-11. Movie: Walk the Line
-Genre: Biography, Drama, Music
-Description: A chronicle of country music legendJohnny Cash's life, from his early days on an Arkansas cotton farm to his rise to fame with Sun Records in Memphis, where he recorded alongsideElvis Presley,Jerry Lee Lewis, andCarl Perkins.
-12. Movie: Brokeback Mountain
-Genre: Drama, Romance
-Description: The story of a forbidden and secretive relationship between two cowboys, and their lives over the years.
+1. Movie: Harry Potter and the Goblet of Fire
+2. Movie: Batman Begins
+3. Movie: Sin City
+4. Movie: Pride & Prejudice
+5. Movie: The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+6. Movie: Charlie and the Chocolate Factory
+7. Movie: V for Vendetta
+8. Movie: Madagascar
+9. Movie: Brokeback Mountain
+10. Movie: King Kong
+11. Movie: The 40 Year Old Virgin
+12. Movie: Star Wars: Episode III - Revenge of the Sith
 13. Movie: Wedding Crashers
-Genre: Comedy, Romance
-Description: John Beckwith and Jeremy Grey, a pair of committed womanizers who sneak into weddings to take advantage of the romantic tinge in the air, find themselves at odds with one another when John meets and falls for Claire Cleary.
-14. Movie: Kingdom of Heaven
-Genre: Action, Adventure, Drama
-Description: Balian of Ibelin travels to Jerusalem during the crusades of the 12th century, and there he finds himself as the defender of the city and its people.
-15. Movie: The Sisterhood of the Traveling Pants
-Genre: Comedy, Drama, Family
-Description: Four best girlfriends hatch a plan to stay connected with one another as their lives start off in different directions: they pass around a pair of secondhand jeans that fits each of their bodies perfectly.
-16. Movie: The Hitchhiker's Guide to the Galaxy
-Genre: Adventure, Comedy, Sci-Fi
-Description: Mere seconds before the Earth is to be demolished by an alien construction crew, journeyman Arthur Dent is swept off the planet by his friend Ford Prefect, a researcher penning a new edition of "The Hitchhiker's Guide to the Galaxy."
-17. Movie: Hard Candy
-Genre: Crime, Drama, Thriller
-Description: A teenage girl raids a man's home in order to expose him under suspicion that he is a sex offender with pedophilia.
-18. Movie: King Kong
-Genre: Action, Adventure, Drama
-Description: After a movie crew travel to a mysterious island to shoot their picture, they encounter a giant and furious gorilla who takes their leading actress and form a special relationship with her, protecting the beautiful lady at all costs.
-19. Movie: War of the Worlds
-Genre: Adventure, Sci-Fi, Thriller
-Description: As Earth is invaded by alien tripod fighting machines, one family fights for survival.
-20. Movie: Serenity
-Genre: Action, Adventure, Sci-Fi
-Description: The crew of the ship Serenity try to evade an assassin sent to recapture one of their members who is telepathic.
-21. Movie: Sky High
-Genre: Adventure, Comedy, Family
-Description: Set in an era where superheroes are commonly known and accepted, young William Stronghold, the son of the Commander and Jetstream, tries to find a balance between being a normal teenager and an extraordinary being.
-22. Movie: The Pacifier
-Genre: Action, Comedy, Drama
-Description: Disgraced Navy SEAL Shane Wolfe is handed a new assignment: Protect the five Plummer kids from enemies of their recently deceased father -- a government scientist whose top-secret experiment remains in the kids' house.
-23. Movie: Lie with Me
-Genre: Drama, Romance
-Description: An outgoing, sexually aggressive young woman meets and begins a torrid affair with an equally aggressive young man in which their affair begins to bring a strain on their personal lives.
-24. Movie: Mr. &amp; Mrs. Smith
-Genre: Action, Comedy, Crime
-Description: A bored married couple is surprised to learn that they are both assassins hired by competing agencies to kill each other.
-25. Movie: Madagascar
-Genre: Animation, Adventure, Comedy
-Description: Spoiled by their upbringing and unaware of what wildlife really is, four animals from the New York Central Zoo escape, unwittingly assisted by four absconding penguins, and find themselves in Madagascar.
-26. Movie: Match Point
-Genre: Drama, Romance, Thriller
-Description: At a turning point in his life, a former tennis pro falls for an actress who happens to be dating his friend and soon-to-be brother-in-law.
-27. Movie: The Devil's Rejects
-Genre: Crime, Horror
-Description: The murderous, backwoods Firefly family take to the road to escape a vengeful police force which is not afraid of being as ruthless as their target.
-28. Movie: The Island
-Genre: Action, Adventure, Romance
-Description: Lincoln Six Echo is just like everyone else - he's waiting to go to the Island, the only place left in the world to actually live a life. Thousands of people stay at a facility waiting to ...See full summary&nbsp;&raquo;
-29. Movie: Constantine
-Genre: Drama, Fantasy, Horror
-Description: Supernatural detective John Constantine helps a policewoman prove her sister's death was not a suicide, but something more.
-30. Movie: House of Wax
-Genre: Horror
-Description: A group of unwitting teens are stranded near a strange wax museum and soon must fight to survive and keep from becoming the next exhibit.
-31. Movie: Rent
-Genre: Drama, Musical, Romance
-Description: This is the film version of the Pulitzer and Tony Award winning musical about Bohemians in the East Village of New York City struggling with life, love and AIDS, and the impacts they have on America.
-32. Movie: Hostel
-Genre: Horror
-Description: Three backpackers head to a Slovak city that promises to meet their hedonistic expectations, with no idea of the hell that awaits them.
-33. Movie: Four Brothers
-Genre: Action, Crime, Drama
-Description: Four brothers look to avenge their mother's death.
-34. Movie: Jarhead
-Genre: Action, Drama, War
-Description: A psychological study of operations desert shield and desert storm during the gulf war; through the eyes of a U.S marine sniper who struggles to cope with the possibility his girlfriend may be cheating on him back home.
-35. Movie: Waiting...
-Genre: Comedy
-Description: Young employees at Shenaniganz restaurant collectively stave off boredom and adulthood with their antics.
-36. Movie: The Descent
-Genre: Adventure, Horror, Thriller
-Description: A caving expedition goes horribly wrong, as the explorers become trapped and ultimately pursued by a strange breed of predators.
-37. Movie: The Ring Two
-Genre: Horror, Mystery, Sci-Fi
-Description: Six months after the incidents involving the lethal videotape, new clues prove that there is a new evil lurking in the darkness.
-38. Movie: Fantastic Four
-Genre: Action, Adventure, Family
-Description: A group of astronauts gain superpowers after a cosmic radiation exposure and must use them to oppose the plans of their enemy, Doctor Victor Von Doom.
-39. Movie: The Family Stone
-Genre: Comedy, Drama, Romance
-Description: An uptight, conservative businesswoman accompanies her boyfriend to his eccentric and outgoing family's annual Christmas celebration and finds that she's a fish out of water in their free-spirited way of life.
-40. Movie: A History of Violence
-Genre: Crime, Drama, Thriller
-Description: A mild-mannered man becomes a local hero through an act of violence, which sets off repercussions that will shake his family to its very core.
-41. Movie: The New World
-Genre: Biography, Drama, History
-Description: The story of the English exploration of Virginia, and of the changing world and loves of Pocahontas.
-42. Movie: Munich
-Genre: Drama, Thriller
-Description: Based on the true story of the Black September aftermath, about the five men chosen to eliminate the ones responsible for that fateful day.
-43. Movie: Cinderella Man
-Genre: Biography, Drama, Sport
-Description: The story of James Braddock, a supposedly washed-up boxer who came back to become a champion and an inspiration in the 1930s.
-44. Movie: Robots
-Genre: Animation, Adventure, Comedy
-Description: In a robot world, a young idealistic inventor travels to the big city to join his inspiration's company, only to find himself opposing its sinister new management.
-45. Movie: Hooligans
-Genre: Crime, Drama, Sport
-Description: A wrongfully expelled Harvard undergrad moves to London, where he is introduced to the violent underworld of football hooliganism.
-46. Movie: The Longest Yard
-Genre: Comedy, Crime, Sport
-Description: Prison inmates form a football team to challenge the prison guards.
-47. Movie: Kiss Kiss Bang Bang
-Genre: Comedy, Crime, Mystery
-Description: A murder mystery brings together a private eye, a struggling actress, and a thief masquerading as an actor.
-48. Movie: Hitch
-Genre: Comedy, Romance
-Description: While helping his latest client woo the fine lady of his dreams, a professional "date doctor" finds that his game doesn't quite work on the gossip columnist with whom he's smitten.
-49. Movie: The Amityville Horror
-Genre: Drama, Horror, Mystery
-Description: Newlyweds are terrorized by demonic forces after moving into a large house that was the site of a grisly mass murder a year before.
-50. Movie: Zathura: A Space Adventure
-Genre: Action, Adventure, Comedy
-Description: Two young brothers are drawn into an intergalactic adventure when their house is hurled through the depths of space by the magical board game they are playing.
+14. Movie: The Hitchhiker's Guide to the Galaxy
+15. Movie: The Descent
+16. Movie: Fantastic Four
+17. Movie: Doom
+18. Movie: Serenity
+19. Movie: Constantine
+20. Movie: War of the Worlds
+21. Movie: Kingdom of Heaven
+22. Movie: The Island
+23. Movie: Mr. & Mrs. Smith
+24. Movie: Lie with Me
+25. Movie: Venom
+26. Movie: Hostel
+27. Movie: The New World
+28. Movie: Walk the Line
+29. Movie: The Dukes of Hazzard
+30. Movie: Hitch
+31. Movie: The Longest Yard
+32. Movie: Kiss Kiss Bang Bang
+33. Movie: The Sisterhood of the Traveling Pants
+34. Movie: Nanny McPhee
+35. Movie: Rent
+36. Movie: Sky High
+37. Movie: The Wedding Date
+38. Movie: The Devil's Rejects
+39. Movie: Munich
+40. Movie: Waiting...
+41. Movie: Casanova
+42. Movie: Coach Carter
+43. Movie: The Amityville Horror
+44. Movie: Zathura: A Space Adventure
+45. Movie: Lord of War
+46. Movie: Memoirs of a Geisha
+47. Movie: The Brothers Grimm
+48. Movie: Jarhead
+49. Movie: Into the Blue
+50. Movie: Sahara

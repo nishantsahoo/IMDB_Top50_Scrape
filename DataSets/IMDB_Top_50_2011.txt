@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 2011-01-01 to 2011-12-31 : 
-1. Movie: Crazy, Stupid, Love.
-Genre: Comedy, Drama, Romance
-Description: A middle-aged husband's life changes dramatically when his wife asks him for a divorce. He seeks to rediscover his manhood with the help of a newfound friend, Jacob, learning to pick up girls at bars.
-2. Movie: The Three Musketeers
-Genre: Action, Adventure, Romance
-Description: The hot-headed young D'Artagnan along with three former legendary but now down on their luck Musketeers must unite and defeat a beautiful double agent and her villainous employer from seizing the French throne and engulfing Europe in war.
+1. Movie: Captain America: The First Avenger
+2. Movie: Thor
 3. Movie: Harry Potter and the Deathly Hallows: Part 2
-Genre: Adventure, Drama, Fantasy
-Description: Harry, Ron and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.
-4. Movie: The Help
-Genre: Drama
-Description: An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids' point of view on the white families for which they work, and the hardships they go through on a daily basis.
-5. Movie: Drive
-Genre: Crime, Drama
-Description: A mysterious Hollywood stuntman and mechanic moonlights as a getaway driver and finds himself in trouble when he helps out his neighbor.
-6. Movie: Captain America: The First Avenger
-Genre: Action, Adventure, Sci-Fi
-Description: Steve Rogers, a rejected military soldier transforms into Captain America after taking a dose of a "Super-Soldier serum". But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization.
+4. Movie: Bridesmaids
+5. Movie: Mission: Impossible - Ghost Protocol
+6. Movie: X: First Class
 7. Movie: Warrior
-Genre: Action, Drama, Sport
-Description: The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament - a path that puts the fighter on a collision course with his estranged, older brother.
-8. Movie: The Girl with the Dragon Tattoo
-Genre: Crime, Drama, Mystery
-Description: Journalist Mikael Blomkvist is aided in his search for a woman who has been missing for forty years by Lisbeth Salander, a young computer hacker.
-9. Movie: Sucker Punch
-Genre: Action, Fantasy
-Description: A young girl is institutionalized by her abusive stepfather. Retreating to an alternative reality as a coping strategy, she envisions a plan which will help her escape from the mental facility.
-10. Movie: The Intouchables
-Genre: Biography, Comedy, Drama
-Description: After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.
-11. Movie: Friends with Benefits
-Genre: Comedy, Romance
-Description: A young man and woman decide to take their friendship to the next level without becoming a couple, but soon discover that adding sex only leads to complications.
-12. Movie: Hanna
-Genre: Action, Drama, Thriller
-Description: A sixteen-year-old girl who was raised by her father to be the perfect assassin is dispatched on a mission across Europe, tracked by a ruthless intelligence agent and her operatives.
-13. Movie: Bridesmaids
-Genre: Comedy, Romance
-Description: Competition between the maid of honor and a bridesmaid, over who is the bride's best friend, threatens to upend the life of an out-of-work pastry chef.
-14. Movie: Hugo
-Genre: Adventure, Drama, Family
-Description: In Paris in 1931, an orphan named Hugo Cabret who lives in the walls of a train station is wrapped up in a mystery involving his late father and an automaton.
-15. Movie: Green Lantern
-Genre: Action, Adventure, Sci-Fi
-Description: Reckless test pilot Hal Jordan is granted an alien ring that bestows him with otherworldly powers that inducts him into an intergalactic police force, the Green Lantern Corps.
-16. Movie: Thor
-Genre: Action, Adventure, Fantasy
-Description: The powerful but arrogant god Thor is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.
-17. Movie: X: First Class
-Genre: Action, Adventure, Sci-Fi
-Description: In 1962, the United States government enlists the help of Mutants with superhuman abilities to stop a malicious dictator who is determined to start World War III.
-18. Movie: Immortals
-Genre: Action, Drama, Fantasy
-Description: Theseus is a mortal man chosen by Zeus to lead the fight against the ruthless King Hyperion, who is on a rampage across Greece to obtain a weapon that can destroy humanity.
-19. Movie: Pirates of the Caribbean: On Stranger Tides
-Genre: Action, Adventure, Fantasy
-Description: Jack Sparrow and Barbossa embark on a quest to find the elusive fountain of youth, only to discover that Blackbeard and his daughter are after it too.
-20. Movie: Transformers: Dark of the Moon
-Genre: Action, Adventure, Sci-Fi
-Description: The Autobots learn of a Cybertronian spacecraft hidden on the moon, and race against the Decepticons to reach it and to learn its secrets.
-21. Movie: Shame
-Genre: Drama
-Description: A man's carefully cultivated private life is disrupted when his sister arrives for an indefinite stay.
-22. Movie: Midnight in Paris
-Genre: Comedy, Fantasy, Romance
-Description: While on a trip to Paris with his fiance's family, a nostalgic screenwriter finds himself mysteriously going back to the 1920s everyday at midnight.
-23. Movie: In Time
-Genre: Action, Sci-Fi, Thriller
-Description: In a future where people stop aging at 25, but are engineered to live only one more year, having the means to buy your way out of the situation is a shot at immortal youth. Here, Will Salas finds himself accused of murder and on the run with a hostage - a connection that becomes an important part of the way against the system.
-24. Movie: Source Code
-Genre: Mystery, Romance, Sci-Fi
-Description: A soldier wakes up in someone else's body and discovers he's part of an experimental government program to find the bomber of a commuter train. A mission he has only 8 minutes to complete.
-25. Movie: Tinker Tailor Soldier Spy
-Genre: Drama, Mystery, Thriller
-Description: In the bleak days of the Cold War, espionage veteran George Smiley is forced from semi-retirement to uncover a Soviet agent within MI6.
-26. Movie: Sherlock Holmes: A Game of Shadows
-Genre: Action, Adventure, Crime
-Description: Sherlock Holmes and his sidekick Dr. Watson join forces to outwit and bring down their fiercest adversary, Professor Moriarty.
-27. Movie: Horrible Bosses
-Genre: Comedy, Crime
-Description: Three friends conspire to murder their awful bosses when they realize they are standing in the way of their happiness.
-28. Movie: Just Go with It
-Genre: Comedy, Romance
-Description: On a weekend trip to Hawaii, a plastic surgeon convinces his loyal assistant to pose as his soon-to-be-divorced wife in order to cover up a careless lie he told to his much-younger girlfriend.
-29. Movie: I Am Number Four
-Genre: Action, Adventure, Sci-Fi
-Description: Aliens and their Guardians are hiding on Earth from intergalactic bounty hunters. They can only be killed in numerical order, and Number Four is next on the list. This is his story.
-30. Movie: Limitless
-Genre: Mystery, Sci-Fi, Thriller
-Description: With the help of a mysterious pill that enables the user to access 100 percent of his brain abilities, a struggling writer becomes a financial wizard, but it also puts him in a new world with lots of dangers.
-31. Movie: Another Earth
-Genre: Drama, Romance, Sci-Fi
-Description: On the night of the discovery of a duplicate Earth in the Solar system, an ambitious young student and an accomplished composer cross paths in a tragic accident.
-32. Movie: We Need to Talk About Kevin
-Genre: Crime, Drama, Mystery
-Description: Kevin's mother struggles to love her strange child, despite the increasingly vicious things he says and does as he grows up. But Kevin is just getting started, and his final act will be beyond anything anyone imagined.
-33. Movie: No Strings Attached
-Genre: Comedy, Romance
-Description: A guy and girl try to keep their relationship strictly physical, but it's not long before they learn that they want something more.
-34. Movie: The Mechanic
-Genre: Action, Crime, Thriller
-Description: Follows an elite hit man as he teaches his trade to an apprentice who has a connection to one of his previous victims.
-35. Movie: One Day
-Genre: Drama, Romance
-Description: After spending the night together on the night of their college graduation Dexter and Em are shown each year on the same date to see where they are in their lives. They are sometimes together, sometimes not, on that day.
-36. Movie: The Ides of March
-Genre: Drama
-Description: An idealistic staffer for a new presidential candidate gets a crash course on dirty politics during his stint on the campaign trail.
-37. Movie: Fast Five
-Genre: Action, Crime, Thriller
-Description: Dominic Toretto and his crew of street racers plan a massive heist to buy their freedom while in the sights of a powerful Brazilian drug lord and a dangerous federal agent.
-38. Movie: 50/50
-Genre: Comedy, Drama, Romance
-Description: Inspired by a true story, a comedy centered on a 27-year-old guy who learns of his cancer diagnosis, and his subsequent struggle to beat the disease.
-39. Movie: Super 8
-Genre: Mystery, Sci-Fi, Thriller
-Description: During the summer of 1979, a group of friends witness a train crash and investigate subsequent unexplained events in their small town.
-40. Movie: A Dangerous Method
-Genre: Biography, Drama, Romance
-Description: A look at how the intense relationship between Carl Jung and Sigmund Freud gives birth to psychoanalysis.
-41. Movie: Mission: Impossible - Ghost Protocol
-Genre: Action, Adventure, Thriller
-Description: The IMF is shut down when it's implicated in the bombing of the Kremlin, causing Ethan Hunt and his new team to go rogue to clear their organization's name.
-42. Movie: Melancholia
-Genre: Drama
-Description: Two sisters find their already strained relationship challenged as a mysterious new planet threatens to collide with Earth.
-43. Movie: We Bought a Zoo
-Genre: Comedy, Drama, Family
-Description: Set in Southern California, a father moves his young family to the countryside to renovate and re-open a struggling zoo.
-44. Movie: Real Steel
-Genre: Action, Drama, Family
-Description: In the near future, robot boxing is a top sport. A struggling promoter feels he's found a champion in a discarded robot.
-45. Movie: Sleeping Beauty
-Genre: Drama, Romance
-Description: A haunting portrait of Lucy, a young university student drawn into a mysterious hidden world of unspoken desires.
-46. Movie: The Twilight Saga: Breaking Dawn - Part 1
-Genre: Adventure, Drama, Fantasy
-Description: The Quileutes close in on expecting parents Edward and Bella, whose unborn child poses a threat to the Wolf Pack and the towns people of Forks.
-47. Movie: Rio
-Genre: Animation, Adventure, Comedy
-Description: When Blu, a domesticated macaw from small-town Minnesota, meets the fiercely independent Jewel, he takes off on an adventure to Rio de Janeiro with the bird of his dreams.
-48. Movie: The Tree of Life
-Genre: Drama, Fantasy
-Description: The story of a family in Waco, Texas in 1956. The eldest son witnesses the loss of innocence and struggles with his parents' conflicting teachings.
-49. Movie: The Change-Up
-Genre: Comedy, Fantasy
-Description: Dave is a married man with three kids and a loving wife, and Mitch is a single man who is at the prime of his sexual life. One fateful night while Mitch and Dave are peeing in a fountain, lightning strikes and they switch bodies.
-50. Movie: Moneyball
-Genre: Biography, Drama, Sport
-Description: Oakland A's general manager Billy Beane's successful attempt to assemble a baseball team on a lean budget by employing computer-generated analysis to acquire new players.
+8. Movie: Crazy, Stupid, Love.
+9. Movie: The Help
+10. Movie: Rise of the Planet of the Apes
+11. Movie: The Girl with the Dragon Tattoo
+12. Movie: Drive
+13. Movie: Pirates of the Caribbean: On Stranger Tides
+14. Movie: The Intouchables
+15. Movie: Super 8
+16. Movie: Paul
+17. Movie: Green Lantern
+18. Movie: We Need to Talk About Kevin
+19. Movie: Just Go with It
+20. Movie: Colombiana
+21. Movie: No Strings Attached
+22. Movie: Tinker Tailor Soldier Spy
+23. Movie: Sucker Punch
+24. Movie: Immortals
+25. Movie: I Am Number Four
+26. Movie: Horrible Bosses
+27. Movie: Midnight in Paris
+28. Movie: In Time
+29. Movie: Friends with Benefits
+30. Movie: Conan the Barbarian
+31. Movie: Hugo
+32. Movie: Footloose
+33. Movie: Kill the Irishman
+34. Movie: Sherlock Holmes: A Game of Shadows
+35. Movie: Cowboys & Aliens
+36. Movie: The Twilight Saga: Breaking Dawn - Part 1
+37. Movie: Shame
+38. Movie: Contagion
+39. Movie: Young Adult
+40. Movie: Hanna
+41. Movie: Limitless
+42. Movie: Cars 2
+43. Movie: Source Code
+44. Movie: Moneyball
+45. Movie: Soul Surfer
+46. Movie: The Three Musketeers
+47. Movie: One Day
+48. Movie: Fast Five
+49. Movie: Transformers: Dark of the Moon
+50. Movie: Real Steel

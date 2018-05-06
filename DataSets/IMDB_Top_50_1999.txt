@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 1999-01-01 to 1999-12-31 : 
-1. Movie: Fight Club
-Genre: Drama
-Description: An insomniac office worker, looking for a way to change his life, crosses paths with a devil-may-care soap maker, forming an underground fight club that evolves into something much, much more.
-2. Movie: The Matrix
-Genre: Action, Sci-Fi
-Description: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
-3. Movie: 10 Things I Hate About You
-Genre: Comedy, Drama, Romance
-Description: A pretty, popular teenager can't go out on a date until her ill-tempered older sister does.
-4. Movie: Star Wars: Episode I - The Phantom Menace
-Genre: Action, Adventure, Fantasy
-Description: Two Jedi Knights escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long dormant Sith resurface to reclaim their old glory.
-5. Movie: American Beauty
-Genre: Drama, Romance
-Description: A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.
-6. Movie: The Sixth Sense
-Genre: Drama, Mystery, Thriller
-Description: A boy who communicates with spirits that don't know they're dead seeks the help of a disheartened child psychologist.
-7. Movie: The Green Mile
-Genre: Crime, Drama, Fantasy
-Description: The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.
+1. Movie: Eyes Wide Shut
+2. Movie: Fight Club
+3. Movie: Austin Powers: The Spy Who Shagged Me
+4. Movie: The Green Mile
+5. Movie: The Matrix
+6. Movie: Deep Blue Sea
+7. Movie: American Beauty
 8. Movie: American Pie
-Genre: Comedy
-Description: Four teenage boys enter a pact to lose their virginity by prom night.
-9. Movie: Eyes Wide Shut
-Genre: Drama, Mystery, Thriller
-Description: A New York City doctor, who is married to an art curator, pushes himself on a harrowing and dangerous night-long odyssey of sexual and moral discovery after his wife admits that she once almost cheated on him.
-10. Movie: Galaxy Quest
-Genre: Comedy, Sci-Fi
-Description: The alumni cast of a space opera television series have to play their roles as the real thing when an alien race needs their help.
-11. Movie: The World Is Not Enough
-Genre: Action, Adventure, Thriller
-Description: James Bond uncovers a nuclear plot when he protects an oil heiress from her former kidnapper, an international terrorist who can't feel pain.
-12. Movie: The Mummy
-Genre: Action, Adventure, Fantasy
-Description: An American serving in the French Foreign Legion on an archaeological dig at the ancient city of Hamunaptra accidentally awakens a mummy.
-13. Movie: Office Space
-Genre: Comedy
-Description: Three company workers who hate their jobs decide to rebel against their greedy boss.
-14. Movie: She's All That
-Genre: Comedy, Romance
-Description: A high school jock makes a bet that he can turn an unattractive girl into the school's prom queen.
-15. Movie: Cruel Intentions
-Genre: Drama, Romance
-Description: Two vicious step-siblings of an elite Manhattan prep school make a wager: to deflower the new headmaster's daughter before the start of term.
-16. Movie: Dogma
-Genre: Adventure, Comedy, Drama
-Description: An abortion clinic worker with a special heritage is called upon to save the existence of humanity from being negated by two renegade angels trying to exploit a loop-hole and reenter Heaven.
-17. Movie: Big Daddy
-Genre: Comedy, Drama, Family
-Description: A lazy law school grad adopts a kid to impress his girlfriend, but everything doesn't go as planned and he becomes the unlikely foster father.
-18. Movie: Sleepy Hollow
-Genre: Fantasy, Horror, Mystery
-Description: Ichabod Crane is sent to Sleepy Hollow to investigate the decapitations of 3 people with the culprit being the legendary apparition, the Headless Horseman.
-19. Movie: The Boondock Saints
-Genre: Action, Crime, Thriller
-Description: Fraternal twins set out to rid Boston of the evil men operating there while being tracked down by an FBI agent.
-20. Movie: Girl, Interrupted
-Genre: Biography, Drama
-Description: Based on writer Susanna Kaysen's account of her 18-month stay at a mental hospital in the 1960s.
+9. Movie: The Mummy
+10. Movie: Cruel Intentions
+11. Movie: 10 Things I Hate About You
+12. Movie: Star Wars: Episode I - The Phantom Menace
+13. Movie: The Sixth Sense
+14. Movie: Office Space
+15. Movie: The Virgin Suicides
+16. Movie: Life
+17. Movie: Girl, Interrupted
+18. Movie: Notting Hill
+19. Movie: The Iron Giant
+20. Movie: She's All That
 21. Movie: Toy Story 2
-Genre: Animation, Adventure, Comedy
-Description: When Woody is stolen by a toy collector, Buzz and his friends vow to rescue him, but Woody finds the idea of immortality in a museum tempting.
-22. Movie: Notting Hill
-Genre: Comedy, Drama, Romance
-Description: The life of a simple bookshop owner changes when he meets the most famous film star in the world.
-23. Movie: The Blair Witch Project
-Genre: Drama, Horror, Mystery
-Description: Three film students vanish after traveling into a Maryland forest to film a documentary on the local Blair Witch legend, leaving only their footage behind.
-24. Movie: The Talented Mr. Ripley
-Genre: Crime, Drama, Thriller
-Description: In late 1950s New York, Tom Ripley, a young underachiever, is sent to Italy to retrieve Dickie Greenleaf, a rich and spoiled millionaire playboy. But when the errand fails, Ripley takes extreme measures.
+22. Movie: The Boondock Saints
+23. Movie: Man on the Moon
+24. Movie: Never Been Kissed
 25. Movie: Magnolia
-Genre: Drama
-Description: An epic mosaic of interrelated characters in search of love, forgiveness, and meaning in the San Fernando Valley.
-26. Movie: Being John Malkovich
-Genre: Comedy, Drama, Fantasy
-Description: A puppeteer discovers a portal that leads literally into the head of movie starJohn Malkovich.
-27. Movie: Tarzan
-Genre: Animation, Adventure, Family
-Description: A man raised by gorillas must decide where he really belongs when he discovers he is a human.
-28. Movie: Message in a Bottle
-Genre: Drama, Romance
-Description: A woman discovers a tragic love letter in a bottle on a beach, and is determined to track down its author.
-29. Movie: The Virgin Suicides
-Genre: Drama, Romance
-Description: A group of male friends become obsessed with five mysterious sisters who are sheltered by their strict, religious parents in suburban Detroit in the mid-1970s.
-30. Movie: Austin Powers: The Spy Who Shagged Me
-Genre: Action, Adventure, Comedy
-Description: Dr. Evil is back...and has invented a new time machine that allows him to go back to the 60s and steal Austin Powers's mojo, inadvertently leaving him "shagless".
-31. Movie: Any Given Sunday
-Genre: Drama, Sport
-Description: A behind-the-scenes look at the life-and-death struggles of modern-day gladiators and those who lead them.
-32. Movie: For Love of the Game
-Genre: Drama, Romance, Sport
-Description: A washed up pitcher flashes through his career.
-33. Movie: Deep Blue Sea
-Genre: Action, Sci-Fi, Thriller
-Description: Searching for a cure to Alzheimer's disease a group of scientists on an isolated research facility become the bait as a trio of intelligent sharks fight back.
-34. Movie: The Thomas Crown Affair
-Genre: Crime, Romance, Thriller
-Description: A very rich and successful playboy amuses himself by stealing artwork, but may have met his match in a seductive detective.
-35. Movie: Boys Don't Cry
-Genre: Biography, Crime, Drama
-Description: Female-born Teena Brandon adopts his male identity of Brandon Teena and attempts to find himself and love in Nebraska.
-36. Movie: Romance
-Genre: Drama
-Description: Although deeply in love with her boyfriend - and indeed sleeping in the same bed with him - a schoolteacher cannot handle the almost complete lack of intimacy he will allow. Increasingly ...See full summary&nbsp;&raquo;
-37. Movie: Life
-Genre: Comedy, Crime, Drama
-Description: The story of wrongfully convicted men (Eddie Murphy and Martin Lawrence) who discover the value of life after serving 65 years in prison.
-38. Movie: The Iron Giant
-Genre: Animation, Action, Adventure
-Description: A young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy.
-39. Movie: 8MM
-Genre: Mystery, Thriller
-Description: A private investigator is hired to discover if a "snuff film" is authentic or not.
-40. Movie: Bicentennial Man
-Genre: Comedy, Drama, Sci-Fi
-Description: An android endeavors to become human as he gradually acquires emotions.
-41. Movie: Double Jeopardy
-Genre: Crime, Drama, Mystery
-Description: A woman framed for her husband's murder suspects he is still alive; as she has already been tried for the crime, she can't be re-prosecuted if she finds and kills him.
-42. Movie: Go
-Genre: Comedy, Crime
-Description: Go! tells the story of the events after a drug deal, told from three different points of view.
+26. Movie: The Talented Mr. Ripley
+27. Movie: Big Daddy
+28. Movie: Galaxy Quest
+29. Movie: Lake Placid
+30. Movie: Sleepy Hollow
+31. Movie: Tarzan
+32. Movie: Blast from the Past
+33. Movie: Dogma
+34. Movie: Mystery Men
+35. Movie: Varsity Blues
+36. Movie: The Blair Witch Project
+37. Movie: The World Is Not Enough
+38. Movie: Being John Malkovich
+39. Movie: The Thomas Crown Affair
+40. Movie: The Insider
+41. Movie: Drop Dead Gorgeous
+42. Movie: House on Haunted Hill
 43. Movie: Wild Wild West
-Genre: Action, Comedy, Sci-Fi
-Description: The two best hired guns in the West must save President Grant from the clutches of a nineteenth-century inventor-villain.
-44. Movie: Stuart Little
-Genre: Adventure, Comedy, Family
-Description: The Little family adopt a charming young mouse named Stuart, but the family cat wants rid of him.
-45. Movie: Drop Dead Gorgeous
-Genre: Comedy, Romance, Thriller
-Description: A small-town beauty pageant turns deadly as it becomes clear that someone will go to any lengths to win.
-46. Movie: The 13th Warrior
-Genre: Action, Adventure, History
-Description: A man, having fallen in love with the wrong woman, is sent by the sultan himself on a diplomatic mission to a distant land as an ambassador. Stopping at a Viking village port to restock on supplies, he finds himself unwittingly embroiled on a quest to banish a mysterious threat in a distant Viking land.
-47. Movie: The Haunting
-Genre: Fantasy, Horror, Mystery
-Description: When Eleanor, Theo, and Luke decide to take part in a sleep study at a huge mansion they get more than they bargained for when Dr. Marrow tells them of the house's ghostly past.
-48. Movie: Entrapment
-Genre: Action, Crime, Romance
-Description: An insurance agent is sent by her employer to track down and help capture an art thief.
-49. Movie: Three Kings
-Genre: Action, Adventure, Comedy
-Description: In the aftermath of the Persian Gulf War, 4 soldiers set out to steal gold that was stolen from Kuwait, but they discover people who desperately need their help.
-50. Movie: Varsity Blues
-Genre: Comedy, Drama, Romance
-Description: A back-up quarterback is chosen to lead a Texas football team to victory after the star quarterback is injured.
+44. Movie: Boys Don't Cry
+45. Movie: The 13th Warrior
+46. Movie: Any Given Sunday
+47. Movie: Double Jeopardy
+48. Movie: The Ninth Gate
+49. Movie: Payback
+50. Movie: 8MM

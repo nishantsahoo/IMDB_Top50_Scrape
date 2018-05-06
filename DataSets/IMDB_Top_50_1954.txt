@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 1954-01-01 to 1954-12-31 : 
-1. Movie: On the Waterfront
-Genre: Crime, Drama, Thriller
-Description: An ex-prize fighter turned longshoreman struggles to stand up to his corrupt union bosses.
-2. Movie: Shichinin no samurai
-Genre: Adventure, Drama
-Description: A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.
-3. Movie: Rear Window
-Genre: Mystery, Thriller
-Description: A wheelchair-bound photographer spies on his neighbours from his apartment window and becomes convinced one of them has committed murder.
-4. Movie: Sabrina
-Genre: Comedy, Drama, Romance
-Description: A playboy becomes interested in the daughter of his family's chauffeur, but it's his more serious brother who would be the better man for her.
-5. Movie: Dial M for Murder
-Genre: Crime, Film-Noir, Thriller
-Description: An ex-tennis pro carries out a plot to murder his wife. When things go wrong, he improvises a brilliant plan B.
-6. Movie: Seven Brides for Seven Brothers
-Genre: Comedy, Drama, Musical
-Description: In 1850 Oregon, when a backwoodsman brings a wife home to his farm, his six brothers decide that they want to get married too.
-7. Movie: White Christmas
-Genre: Comedy, Musical, Romance
-Description: A successful song-and-dance team become romantically involved with a sister act and team up to save the failing Vermont inn of their former commanding general.
-8. Movie: 20,000 Leagues Under the Sea
-Genre: Adventure, Drama, Family
-Description: A ship sent to investigate a wave of mysterious sinkings encounters the advanced submarine, the Nautilus, commanded by Captain Nemo.
-9. Movie: Creature from the Black Lagoon
-Genre: Horror
-Description: A strange prehistoric beast lurks in the depths of the Amazonian jungle. A group of scientists try to capture the animal and bring it back to civilization for study.
-10. Movie: The Last Time I Saw Paris
-Genre: Drama, Romance
-Description: Charles returns to Paris to reminisce about the life he led in Paris after it was liberated. He worked on "Stars and Stripes" when he met Marion and Helen. He would marry and be happy ...See full summary&nbsp;&raquo;
-11. Movie: Gojira
-Genre: Drama, Horror, Sci-Fi
-Description: American nuclear weapons testing results in the creation of a seemingly unstoppable, dinosaur-like beast.
-12. Movie: The Caine Mutiny
-Genre: Drama, War
-Description: When a U.S. Naval captain shows signs of mental instability that jeopardizes the ship, the first officer relieves him of command and faces court martial for mutiny.
-13. Movie: Them!
-Genre: Horror, Sci-Fi
-Description: The earliest atomic tests in New Mexico cause common ants to mutate into giant man-eating monsters that threaten civilization.
-14. Movie: La Strada
-Genre: Drama
-Description: A care-free girl is sold to a traveling entertainer, consequently enduring physical and emotional pain along the way.
-15. Movie: The Black Shield of Falworth
-Genre: Adventure, History, Romance
-Description: Technicolor and tights. In the days of King Henry IV, stalwart young Myles of Crisby Dale, and his sister Meg, have been raised as peasants, without any knowledge of their father's true ...See full summary&nbsp;&raquo;
-16. Movie: A Star Is Born
-Genre: Drama, Musical, Romance
-Description: A film star helps a young singer and actress find fame, even as age and alcoholism send his own career on a downward spiral.
-17. Movie: Betrayed
-Genre: Drama, History, Romance
-Description: A Dutch intelligence officer recruits an allied woman to act as liaison with dashing Resistance leader 'The Scarf' for a British attack on Arnhem.
-18. Movie: Brigadoon
-Genre: Fantasy, Musical, Romance
-Description: Two Americans on a hunting trip in Scotland become lost. They encounter a small village, not on the map, called Brigadoon, in which people harbor a mysterious secret, and behave as if they were still living two hundred years in the past.
-19. Movie: Animal Farm
-Genre: Animation, Drama
-Description: A successful farmyard revolution by the resident animals vs. the farmer goes horribly wrong as the victors create a new tyranny among themselves.
-20. Movie: Johnny Guitar
-Genre: Drama, Western
-Description: After helping a wounded gang member, a strong-willed female saloon owner is wrongly suspected of murder and bank robbery by a lynch mob.
-21. Movie: The Barefoot Contessa
-Genre: Crime, Drama, Mystery
-Description: At Maria Vargas' funeral, several people recall who she was and the impact she had on them. Harry Dawes was a not very successful writer/director when he and movie producer Kirk Edwards ...See full summary&nbsp;&raquo;
-22. Movie: Carmen Jones
-Genre: Drama, Musical, Romance
-Description: Contemporary version of the Bizet opera, with new lyrics and an African-American cast.
-23. Movie: Three Coins in the Fountain
-Genre: Drama
-Description: Three American woman working in Rome, Italy, share a spacious apartment and the desire to find love and marriage, each experiencing a few bumps in their journeys to romance.
-24. Movie: River of No Return
-Genre: Adventure, Romance, Western
-Description: The titular river unites a farmer recently released from prison, his young son, and an ambitious saloon singer. In order to survive, each must be purged of anger, and each must learn to understand and care for the others.
-25. Movie: Vera Cruz
-Genre: Adventure, Western
-Description: During the Mexican Rebellion of 1866, an unsavory group of American adventurers are hired by the forces of Emporer Maximilian to escort a countess to Vera Cruz.
-26. Movie: Demetrius and the Gladiators
-Genre: Action, Drama, History
-Description: In 1st century Rome, Christian slave Demetrius is sent to fight in the gladiatorial arena and Emperor Caligula seeks Jesus' robe for its supposedly magical powers.
-27. Movie: There's No Business Like Show Business
-Genre: Comedy, Drama, Musical
-Description: Molly and Terry Donahue, plus their three children, are The Five Donahues. Son Tim meets hat-check girl Vicky and the family act begins to fall apart.
-28. Movie: The Far Country
-Genre: Romance, Western
-Description: A self-minded adventurer (Jeff Webster) locks horns with a crooked lawman (Mr. Gannon) while driving cattle to Dawson.
-29. Movie: The Egyptian
-Genre: Biography, Drama, History
-Description: In eighteenth-dynasty Egypt, Sinuhe, a poor orphan, becomes a brilliant physician and with his friend Horemheb is appointed to the service of the new Pharoah. Sinuhe's personal triumphs and...See full summary&nbsp;&raquo;
-30. Movie: The Glenn Miller Story
-Genre: Biography, Drama, Music
-Description: Biography of bandleaderGlenn Millerfrom his beginnings to his death over the English Channel in December 1944.
-31. Movie: The High and the Mighty
-Genre: Action, Adventure, Drama
-Description: When a commercial airliner develops engine problems on a trans-Pacific flight and the pilot loses his nerve, it is up to the washed-up co-pilot Dan Roman to bring the plane in safely.
-32. Movie: Apache
-Genre: Western
-Description: Refusing to let himself be re-settled on a Florida reservation,Massai,an Apache warrior,escapes his captors and returns to his homeland to become a peaceful farmer.
-33. Movie: Hobson's Choice
-Genre: Comedy, Drama, Romance
-Description: Henry Hobson is a successful bootmaker and tyrannical widower of three daughters. The girls each want to leave their father by getting married, but Henry refuses as marriage traditions require him to pay out settlements.
-34. Movie: The Country Girl
-Genre: Drama, Music
-Description: A director hires an alcoholic has-been and strikes up a stormy relationship with the actor's wife, who he believes is the cause of all the man's problems.
-35. Movie: Magnificent Obsession
-Genre: Drama, Romance
-Description: When churlish, spoiled rich man Bob Merrick foolishly wrecks his speed boat, the rescue team resuscitates him with equipment that's therefore unavailable to aid a local hero, Dr. Wayne ...See full summary&nbsp;&raquo;
-36. Movie: Viaggio in Italia
-Genre: Drama, Romance
-Description: An unhappily married couple attempts to find direction and insight while vacationing in Naples.
-37. Movie: The Bridges at Toko-Ri
-Genre: Drama, Romance, War
-Description: Set during the Korean War, a Navy fighter pilot must come to terms with with his own ambivalence towards the war and the fear of having to bomb a set of highly defended bridges. The ending of this grim war drama is all tension.
-38. Movie: Senso
-Genre: Drama, History, Romance
-Description: A troubled and neurotic Italian Countess betrays her entire country for a self-destructive love affair with an Austrian Lieutenant.
-39. Movie: Désirée
-Genre: Biography, Drama, History
-Description: The rise and fall of Napoleon Bonaparte, Emperor of France.
-40. Movie: Miyamoto Musashi
-Genre: Action, Adventure, Biography
-Description: Depicts the early life of the legendary warrior Musashi Miyamoto; his years as an aspiring warrior, an outlaw and finally a true samurai.
-41. Movie: Bang! You're Dead
-Genre: Drama
-Description: When a local bully is found shot to death, the police suspect a young man who had recently been seen arguing with him. When thy discover that they had been arguing over the affections of a ...See full summary&nbsp;&raquo;
-42. Movie: Human Desire
-Genre: Drama, Film-Noir, Romance
-Description: A Korean War vet returns to his job as a railroad engineer and becomes involved in a sordid affair with a co-worker's wife and murder.
-43. Movie: Suddenly
-Genre: Crime, Drama, Film-Noir
-Description: In the city of Suddenly, three gangsters trap the Benson family in their own house, on the top of a hill nearby the railroad station, with the intention of killing the president of the USA.
-44. Movie: Garden of Evil
-Genre: Action, Adventure, Drama
-Description: A trio of American adventurers marooned in rural Mexico are recruited by a beautiful woman to rescue her husband trapped in a cave in Apache territory.
-45. Movie: Sanshô dayû
-Genre: Drama
-Description: In medieval Japan, a compassionate governor is sent into exile. His wife and children try to join him, but are separated, and the children grow up amid suffering and oppression.
-46. Movie: Young at Heart
-Genre: Drama, Musical, Romance
-Description: The lives and romances of three sisters in a musical family; the youngest daughter's life is complicated by the subsequent arrival of a charming composer and a cynical music arranger.
-47. Movie: The Yellow Mountain
-Genre: Drama, Western
-Description: Frontier drama about two gold prospectors who hope to strike it rich in the mines of Nevada.
-48. Movie: Touchez pas au grisbi
-Genre: Crime, Drama
-Description: An aging, world-weary gangster is double-crossed and forced out of retirement when his best friend is kidnapped and their stash of eight stolen gold bars demanded as ransom.
-49. Movie: Athena
-Genre: Musical, Romance, Comedy
-Description: Attorney, Purdom, and singer, Damone, romance two sisters, Reynolds and Powell, who live with and are strongly influenced by eccentric, health oriented and star gazing grandparents.
-50. Movie: Broken Lance
-Genre: Adventure, Western
-Description: The saga of the Devereaux rancher family, set in 1880's Arizona.
+1. Movie: Shichinin no samurai
+2. Movie: Rear Window
+3. Movie: Sabrina
+4. Movie: On the Waterfront
+5. Movie: Seven Brides for Seven Brothers
+6. Movie: 20,000 Leagues Under the Sea
+7. Movie: Creature from the Black Lagoon
+8. Movie: Dial M for Murder
+9. Movie: Them!
+10. Movie: A Star Is Born
+11. Movie: White Christmas
+12. Movie: The Boy from Oklahoma
+13. Movie: The Last Time I Saw Paris
+14. Movie: Gojira
+15. Movie: Animal Farm
+16. Movie: River of No Return
+17. Movie: La Strada
+18. Movie: Magnificent Obsession
+19. Movie: Hell and High Water
+20. Movie: The Barefoot Contessa
+21. Movie: The Caine Mutiny
+22. Movie: Riding Shotgun
+23. Movie: Johnny Guitar
+24. Movie: Ulisse
+25. Movie: Brigadoon
+26. Movie: The Glenn Miller Story
+27. Movie: River Beat
+28. Movie: The Bridges at Toko-Ri
+29. Movie: Vera Cruz
+30. Movie: Beachhead
+31. Movie: The Country Girl
+32. Movie: Suddenly
+33. Movie: The Long, Long Trailer
+34. Movie: Garden of Evil
+35. Movie: Viaggio in Italia
+36. Movie: They Who Dare
+37. Movie: Demetrius and the Gladiators
+38. Movie: Executive Suite
+39. Movie: Hobson's Choice
+40. Movie: Killers from Space
+41. Movie: The High and the Mighty
+42. Movie: Carmen Jones
+43. Movie: Border River
+44. Movie: Destry
+45. Movie: The Far Country
+46. Movie: There's No Business Like Show Business
+47. Movie: Pushover
+48. Movie: Dsire
+49. Movie: Senso
+50. Movie: Three Coins in the Fountain

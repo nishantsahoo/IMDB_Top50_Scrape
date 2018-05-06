@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 1948-01-01 to 1948-12-31 : 
-1. Movie: Mr. Blandings Builds His Dream House
-Genre: Comedy, Romance
-Description: A man and his wife decide they can afford to have a house in the country built to their specifications. It's a lot more trouble than they think.
-2. Movie: Red River
-Genre: Action, Adventure, Romance
-Description: Dunson leads a cattle drive, the culmination of over 14 years of work, to its destination in Missouri. But his tyrannical behavior along the way causes a mutiny, led by his adopted son.
-3. Movie: Rope
-Genre: Crime, Drama, Thriller
-Description: Two young men strangle their "inferior" classmate, hide his body in their apartment, and invite his friends and family to a dinner party as a means to challenge the "perfection" of their crime.
-4. Movie: Ladri di biciclette
-Genre: Drama
-Description: In post-war Italy, a working-class man's bicycle is stolen. He and his son set out to find it.
-5. Movie: The Treasure of the Sierra Madre
-Genre: Adventure, Drama, Western
-Description: Fred Dobbs and Bob Curtin, two Americans searching for work in Mexico, convince an old prospector to help them mine for gold in the Sierra Madre Mountains.
-6. Movie: The Red Shoes
-Genre: Drama, Music, Musical
-Description: A young ballet dancer is torn between the man she loves and her pursuit to become a prima ballerina.
-7. Movie: Key Largo
-Genre: Action, Crime, Drama
-Description: A man visits his old friend's hotel and finds a gangster running things. As a hurricane approaches, the two end up confronting each other.
-8. Movie: Romance on the High Seas
-Genre: Comedy, Musical, Romance
-Description: Romantic misunderstandings abound when spouses suspect each other of being unfaithful, and a nightclub singer takes a cruise under a false identity.
-9. Movie: Adventures of Don Juan
-Genre: Action, Adventure, Romance
-Description: The great lover Don Juan comes to the assistance of his queen.
-10. Movie: Johnny Belinda
-Genre: Drama
-Description: In post-war Cape Breton, a doctor's efforts to tutor a deaf/mute woman are undermined when she is raped, and the resulting pregnancy causes scandal to swirl.
-11. Movie: Fort Apache
-Genre: Western
-Description: At Fort Apache, an honorable and veteran war captain finds conflict when his regime is placed under the command of a young, glory hungry lieutenant colonel with no respect for the local Indian tribe.
-12. Movie: Oliver Twist
-Genre: Drama
-Description: An orphan named Oliver Twist meets a pickpocket on the streets of London. From there, he joins a household of boys who are trained to steal for their master.
-13. Movie: Hamlet
-Genre: Drama
-Description: Prince Hamlet struggles over whether or not he should kill his uncle, whom he suspects has murdered his father, the former king.
-14. Movie: Bud Abbott Lou Costello Meet Frankenstein
-Genre: Comedy, Fantasy, Horror
-Description: Two hapless freight handlers find themselves encountering Dracula, the Frankenstein Monster and the Wolf Man.
-15. Movie: The Black Arrow
-Genre: Action, Adventure, History
-Description: Yong nobleman Richard Shelton returns from the War of the Roses to find his father murdered, a fugitive family friend blamed, and his uncle occupying his estates.
-16. Movie: The Three Musketeers
-Genre: Action, Adventure, Drama
-Description: D'Artagnan and his musketeer comrades thwart the plans of Royal Prime Minister Richelieu to usurp the King's power.
-17. Movie: They Live by Night
-Genre: Crime, Film-Noir, Romance
-Description: An escaped convict, injured during a robbery, falls in love with the woman who nurses him back to health, but their relationship seems doomed from the beginning.
-18. Movie: Easter Parade
-Genre: Musical, Romance
-Description: A nightclub performer hires a naive chorus girl to become his new dance partner to make his former partner jealous and to prove he can make any partner a star.
-19. Movie: Joan of Arc
-Genre: Biography, Drama, History
-Description: In the Fifteenth Century, France is a defeated and ruined nation after the One Hundred Years War against England. The fourteen years old farm girl Joan of Arc claims to hear voices from ...See full summary&nbsp;&raquo;
-20. Movie: Macbeth
-Genre: Drama, History, War
-Description: In fog-dripping, barren and sometimes macabre settings, 11th-century Scottish nobleman Macbeth is led by an evil prophecy and his ruthless yet desirable wife to the treasonous act that ...See full summary&nbsp;&raquo;
-21. Movie: The Naked City
-Genre: Crime, Drama, Film-Noir
-Description: New York City film noir about two detectives investigating the death of an attractive young woman. The apparent suicide turns out to be murder.
-22. Movie: Germania anno zero
-Genre: Drama, War
-Description: A young German boy faces the problems of the tough life in the immediate post WWII Berlin.
-23. Movie: The Pirate
-Genre: Adventure, Comedy, Musical
-Description: A girl is engaged to the local richman, but meanwhile she has dreams about the legendary pirate Macoco. A traveling singer falls in love with her and to impress her he poses as the pirate.
+1. Movie: A Song Is Born
+2. Movie: Rope
+3. Movie: Ladri di biciclette
+4. Movie: The Treasure of the Sierra Madre
+5. Movie: Red River
+6. Movie: Hollow Triumph
+7. Movie: Rachel and the Stranger
+8. Movie: Fort Apache
+9. Movie: Whiplash
+10. Movie: Yellow Sky
+11. Movie: The Man from Colorado
+12. Movie: The Red Shoes
+13. Movie: Key Largo
+14. Movie: The Woman in White
+15. Movie: Bud Abbott Lou Costello Meet Frankenstein
+16. Movie: Hamlet
+17. Movie: Oliver Twist
+18. Movie: Station West
+19. Movie: Mr. Blandings Builds His Dream House
+20. Movie: Easter Parade
+21. Movie: Romance on the High Seas
+22. Movie: The Naked City
+23. Movie: A Foreign Affair
 24. Movie: Sorry, Wrong Number
-Genre: Drama, Film-Noir, Mystery
-Description: While on the telephone, an invalid woman overhears what she thinks is a murder plot and attempts to prevent it.
-25. Movie: 3 Godfathers
-Genre: Drama, Western
-Description: When 3 outlaws on the run find a dying woman and her newborn baby in the desert they vow to save the child.
-26. Movie: Anna Karenina
-Genre: Drama, Romance
-Description: A married woman's affair with a dashing young officer has tragic results.
-27. Movie: Yoidore tenshi
-Genre: Crime, Drama, Romance
-Description: A drunken doctor with a hot temper and a violence-prone gangster with tuberculosis form a quicksilver bond.
-28. Movie: Letter from an Unknown Woman
-Genre: Drama, Romance
-Description: A pianist about to flee from a duel receives a letter from a woman he cannot remember, who may hold the key to his downfall.
-29. Movie: Hollow Triumph
-Genre: Crime, Film-Noir, Drama
-Description: Pursued by the big-time gambler he robbed, John Muller takes a new identity, with ironic results.
-30. Movie: The Snake Pit
-Genre: Drama, Mystery
-Description: A detailed chronicle of a woman during her stay in a mental institution.
-31. Movie: The Fallen Idol
-Genre: Drama, Film-Noir, Mystery
-Description: A butler working in a foreign embassy in London falls under suspicion when his wife accidentally falls to her death, the only witness being an impressionable young boy.
-32. Movie: The Big Clock
-Genre: Crime, Drama, Film-Noir
-Description: When powerful publishing tycoon Earl Janoth commits an act of murder at the height of passion, he cleverly begins to cover his tracks and frame an innocent man whose identity he doesn't ...See full summary&nbsp;&raquo;
-33. Movie: All My Sons
-Genre: Drama, Film-Noir
-Description: During WW2, industrialist Joe Keller commits a crime and frames his business partner Herbert Deever but years later his sin comes back to haunt him when Joe's son plans to marry Deever's daughter.
-34. Movie: Melody Time
-Genre: Animation, Family, Music
-Description: An anthology of animated vignettes set to contemporary music.
-35. Movie: The Velvet Touch
-Genre: Drama, Thriller
-Description: Broadway star Valerie Stanton, breaking up with her producer-lover Gordon Dunning, unintentionally kills him. In flashback, she recalls meeting new flame Michael Morrell, and Dunning's ...See full summary&nbsp;&raquo;
-36. Movie: Superman
-Genre: Sci-Fi
-Description: Superman comes to Earth as a child and grows up to be his home's first superhero with his first major challenge being to oppose The Spider Lady.
-37. Movie: Portrait of Jennie
-Genre: Drama, Romance, Fantasy
-Description: A mysterious girl inspires a struggling artist.
-38. Movie: The Boy with Green Hair
-Genre: Comedy, Drama, Family
-Description: This parable looks at public reaction when the hair of an American war orphan mysteriously turns green.
-39. Movie: I Remember Mama
-Genre: Drama, Family
-Description: The ups and downs of a Norwegian immigrant family, circa 1910.
-40. Movie: Yellow Sky
-Genre: Crime, Western
-Description: A pistol-packing tomboy and her grandfather discover a band of bank robbing bandits taking refuge in the neighboring ghost town.
-41. Movie: The Woman in White
-Genre: Drama, Mystery, Romance
-Description: A young painter stumbles upon an assortment of odd characters at an English estate where he has been hired to give art lessons to beautiful Laura Fairlie. Among them are Anne Catherick, a ...See full summary&nbsp;&raquo;
-42. Movie: Call Northside 777
-Genre: Drama, Film-Noir
-Description: Chicago reporter P.J. McNeal re-opens a ten year old murder case.
-43. Movie: A Foreign Affair
-Genre: Comedy, Drama, Romance
-Description: In occupied Berlin, an army captain is torn between an ex-Nazi caf singer and the U.S. congresswoman investigating her.
-44. Movie: Wake of the Red Witch
-Genre: Action, Adventure, Romance
-Description: During the 1860s in the South Pacific, Capt. Ralls, skipper of the Red Witch, has a series of adventures involving sunken gold bullion, pearls, natives, an unscrupulous ship owner and a giant octopus.
-45. Movie: State of the Union
-Genre: Comedy, Drama
-Description: An industrialist is urged to run for President, but this requires uncomfortable compromises on both political and marital levels.
-46. Movie: Words and Music
-Genre: Biography, Comedy, Musical
-Description: Fictionalized story of the songwriting partnership ofRichard RodgersandLorenz Hart.
-47. Movie: So Dear to My Heart
-Genre: Animation, Drama, Family
-Description: This heartwarming classic tells the tale of a country boy who adopts a mischevious black lamb and learns valuable lessons about love and dedication.
-48. Movie: The Search
-Genre: Drama, War
-Description: In post-war Berlin, an American private helps a lost Czech boy find his mother.
-49. Movie: Pitfall
-Genre: Crime, Film-Noir, Thriller
-Description: Insurance executive John Forbes falls for femme fatale Mona Stevens while her boyfriend is in jail and he suffers serious consequences as a result.
-50. Movie: He Walked by Night
-Genre: Crime, Film-Noir, Thriller
-Description: This film-noir piece, told in semi-documentary style, follows police on the hunt for a resourceful criminal who shoots and kills a cop.
+25. Movie: Macbeth
+26. Movie: 3 Godfathers
+27. Movie: Blood on the Moon
+28. Movie: Apartment for Peggy
+29. Movie: Pitfall
+30. Movie: Good Sam
+31. Movie: Letter from an Unknown Woman
+32. Movie: Yoidore tenshi
+33. Movie: Mr. Peabody and the Mermaid
+34. Movie: Julia Misbehaves
+35. Movie: I Remember Mama
+36. Movie: To the Ends of the Earth
+37. Movie: He Walked by Night
+38. Movie: Superman
+39. Movie: A Date with Judy
+40. Movie: They Live by Night
+41. Movie: Joan of Arc
+42. Movie: The Big Clock
+43. Movie: Call Northside 777
+44. Movie: Anna Karenina
+45. Movie: The Fallen Idol
+46. Movie: The Snake Pit
+47. Movie: Brighton Rock
+48. Movie: The Pirate
+49. Movie: Tarzan and the Mermaids
+50. Movie: The Search

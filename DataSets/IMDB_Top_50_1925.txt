@@ -1,150 +1,51 @@
 Most Popular Feature Films Released 1925-01-01 to 1925-12-31 : 
-1. Movie: The Gold Rush
-Genre: Adventure, Comedy, Drama
-Description: A prospector goes to the Klondike in search of gold and finds it and more.
-2. Movie: Bronenosets Potyomkin
-Genre: Drama, History
-Description: A dramatized account of a great Russian naval mutiny and a resulting street demonstration which brought on a police massacre.
-3. Movie: Ben-Hur: A Tale of the Christ
-Genre: Adventure, Drama, Romance
-Description: A Jewish prince seeks to find his family and revenge himself upon his childhood friend who had him wrongly imprisoned.
-4. Movie: The Phantom of the Opera
-Genre: Horror
-Description: A mad, disfigured composer seeks love with a lovely young opera singer.
-5. Movie: The Wizard of Oz
-Genre: Comedy, Family, Fantasy
-Description: Dorothy, heir to the Oz throne, must take it back from the wicked Prime Minister Kruel with the help of three farmhands.
-6. Movie: The Big Parade
-Genre: Drama, Romance, War
-Description: A young American soldier witnesses the horrors of the Great War.
+1. Movie: The Merry Widow
+2. Movie: The Phantom of the Opera
+3. Movie: Bronenosets Potemkin
+4. Movie: The Gold Rush
+5. Movie: Ben-Hur: A Tale of the Christ
+6. Movie: Seven Chances
 7. Movie: The Pleasure Garden
-Genre: Drama, Romance
-Description: Patsy Brand is a chorus girl at the Pleasure Garden music hall. She meets Jill Cheyne who is down on her luck and gets her a job as a dancer. Jill is engaged to adventurer Hugh Fielding and...See full summary&nbsp;&raquo;
-8. Movie: The Freshman
-Genre: Comedy, Family, Sport
-Description: Nerdy college student will do anything to become popular on campus.
-9. Movie: Seven Chances
-Genre: Comedy, Romance
-Description: A man learns he will inherit a fortune if he marries. By 7 p.m. Today.
-10. Movie: Stachka
-Genre: Drama
-Description: A group of oppressed factory workers go on strike in pre-revolutionary Russia.
-11. Movie: The Lost World
-Genre: Adventure, Fantasy
-Description: The first film adaptation of Sir Arthur Conan Doyle's classic novel about a land where prehistoric creatures still roam.
-12. Movie: Die freudlose Gasse
-Genre: Drama
-Description: Vienna in the biggest depression, directly after WW1. In a slum, Lila Leid, the wife of lawyer Leid is murdered, Egon, secretary of one of Leid's clients is arrested. He was with her, and ...See full summary&nbsp;&raquo;
-13. Movie: Varieté
-Genre: Crime, Drama, Romance
-Description: Prologue: The murderer "Boss" Huller - after having spent ten years in prison - breaks his silence to tell the warden his story. "Boss", a former trapeze artist, and his wife own a cheap ...See full summary&nbsp;&raquo;
-14. Movie: The Merry Widow
-Genre: Drama, Romance
-Description: A prince must woo the now wealthy dancer he once abandoned in order to keep her money in the country in order to keep it from crashing economically.
-15. Movie: The Plastic Age
-Genre: Comedy, Romance, Sport
-Description: Hugh Carver is an athletic star and a freshman at Prescott College. He falls in love with Cynthia Day, a popular girl who loves to go to parties. He finds that it is impossible to please ...See full summary&nbsp;&raquo;
-16. Movie: Lady of the Night
-Genre: Drama, Romance
-Description: A world-weary prostitute yearns after respectability and the love of an inventor.
-17. Movie: The Eagle
-Genre: Action, Comedy, Drama
-Description: A wanted Russian lieutenant becomes a masked vigilante seeking vengeance upon the man who stole his family's land, only to fall for his charming daughter.
-18. Movie: Du skal ære din hustru
-Genre: Drama
-Description: When a man becomes tyrannical towards his family, the women of the house decide to teach him a lesson in gratitude.
-19. Movie: Stella Dallas
-Genre: Drama
-Description: Stella Dallas is a small town girl who marries the upper class Stephen Dallas, with whom she has nothing in common. After the birth of a daughter, Laurel, the Dallases go their separate ...See full summary&nbsp;&raquo;
-20. Movie: Braveheart
-Genre: Western
-Description: Chief Standing Rock's tribe has a treaty protecting their fishing grounds, but a canning corporation is violating the treaty through intimidation and force. The tribe is divided as to how ...See full summary&nbsp;&raquo;
-21. Movie: Go West
-Genre: Comedy, Western
-Description: With little luck at keeping a job in the city a New Yorker tries work in the country and eventually finds his way leading a herd of cattle to the West Coast.
-22. Movie: Maciste all'inferno
-Genre: Action, Drama, Fantasy
-Description: The devil takes Maciste down to hell in an attempt to corrupt and ruin his morality.
-23. Movie: Lady Windermere's Fan
-Genre: Comedy
-Description: A society woman believes her husband is having an affair, a misconception which may have dire personal consequences for all involved.
-24. Movie: Herr Tartüff
-Genre: Drama
-Description: Young man shows his millionaire grandfather a film based on Molire's Tartuffe, in order to expose the old man's hypocritical governess who covets his own inheritance.
+8. Movie: The Wizard of Oz
+9. Movie: The Lost World
+10. Movie: Little Annie Rooney
+11. Movie: The Freshman
+12. Movie: Go West
+13. Movie: Stachka
+14. Movie: The Big Parade
+15. Movie: The Eagle
+16. Movie: Die freudlose Gasse
+17. Movie: Stella Dallas
+18. Movie: Stage Struck
+19. Movie: Braveheart
+20. Movie: Lady of the Night
+21. Movie: Lady Windermere's Fan
+22. Movie: Herr Tartff
+23. Movie: Cobra
+24. Movie: Variet
 25. Movie: The Monster
-Genre: Comedy, Horror, Mystery
-Description: A meek clerk who doubles as an amateur detective investigates some very strange goings-on at a remote mental sanitarium.
-26. Movie: Don Q Son of Zorro
-Genre: Adventure, Romance
-Description: Don Cesar, son of Zorro, is framed for murder while visiting Spain, and becomes the whip-wielding outlaw Don Q.
-27. Movie: The Unholy Three
-Genre: Crime, Drama, Romance
-Description: A sideshow ventriloquist, midget, and strongman form a conspiracy known as "The Unholy Three" and commit a series of robberies.
-28. Movie: Body and Soul
-Genre: Drama
-Description: A minister is malevolent and sinister behind his righteous facade. He consorts with, and later extorts from, the owner of a gambling house, and betrays an honest girl, eventually driving ...See full summary&nbsp;&raquo;
-29. Movie: Sally of the Sawdust
-Genre: Comedy
-Description: Judge Foster throws his daughter out because she married a circus man. She leaves her baby girl with Prof. McGargle before she dies. Years later Sally is a dancer with whom Peyton, a son of...See full summary&nbsp;&raquo;
-30. Movie: Pretty Ladies
-Genre: Comedy, Drama
-Description: Maggie, a headlining comedienne with the Follies, takes a fall off the stage into the orchestra pit and lands on the drum of musician Al Cassidy. One thing leads to another, they fall in ...See full summary&nbsp;&raquo;
-31. Movie: The Vanishing American
-Genre: Western
-Description: History, as portrayed in this film, has been a succession of conquests of stronger races over weaker ones. As played out on the stage of Monument Valley, long ago, tribes of Indians ...See full summary&nbsp;&raquo;
-32. Movie: North Star
-Genre: Drama
-Description: Melodrama about a man who heads into the Northwest after he mistakenily believes he has killed another man and is followed there by his sister.
-33. Movie: Cobra
-Genre: Drama, Romance
-Description: A penniless, skirt-chasing Italian nobleman finds love and scandal when he travels to New York City.
-34. Movie: The Circle
-Genre: Drama
-Description: Elizabeth Cheney has a wealthy husband, social prominence and everything she could want in life . . . except Ted Lutton, the man she loves. Now, she must decide whether to give up ...See full summary&nbsp;&raquo;
-35. Movie: Hachikô
-Description: The true story about Hachiko, Japan's most famous dog.
-36. Movie: Little Annie Rooney
-Genre: Drama, Comedy
-Description: The tenements are home to an international community, including the friends and family of a tough young ragamuffin named Annie Rooney, but their neighborhood may be threatened by a potentially dangerous street gang.
-37. Movie: Riders of the Purple Sage
-Genre: Western
-Description: A Texas Ranger searches for his kidnapped sister.
-38. Movie: Sally, Irene and Mary
-Genre: Comedy, Drama
-Description: The three are showgirls, each with a different approach to life and love. Sally wants wealth and gets it finally in Marcus. Mary plots and schemes but winds up with salt-of-the-earth Jimmy....See full summary&nbsp;&raquo;
-39. Movie: La fille de l'eau
-Genre: Drama, Romance
-Description: After her father's death and her uncle having drunk all the inheritance, Virginia is left alone. She is accepted by a family of bohemians but a quarrel between the bohemians and the ...See full summary&nbsp;&raquo;
-40. Movie: Madame Sans-Gêne
-Genre: Comedy
-Description: A French washerwoman becomes a duchess and a friend of Napoleon.
-41. Movie: A Woman of the World
-Genre: Comedy, Drama
-Description: A sensual European countess arrives at a small American town where she quickly provokes moral outrage from the community. Upon arriving, even before she steps out of her taxi a district ...See full summary&nbsp;&raquo;
-42. Movie: Visages d'enfants
-Genre: Drama, Mystery, Romance
-Description: A man whose wife has died remarries, and his new wife has a daughter of her own from a previous marriage. The man's young son, however, who loved his mother deeply and misses her terribly, ...See full summary&nbsp;&raquo;
-43. Movie: Dick Turpin
-Genre: Adventure
-Description: About a vicious highway man in the 1700's
-44. Movie: Stage Struck
-Genre: Comedy
-Description: A young woman dreams of becoming a great actress. When her boyfriend starts to flirt with an actual actress, she becomes jealous and decides to fight with her rival.
-45. Movie: The Salvation Hunters
-Genre: Drama
-Description: A cowardly young man, a bitter young woman and a helpless child live on the docks, spend their days full of ennui watching a dredge dig the same hole day in and day out, chased around by ...See full summary&nbsp;&raquo;
-46. Movie: Kiss Me Again
-Genre: Comedy
-Description: Gaston Fleury's ( Monte Blue ) wife, Loulou ( Marie Prevost ), takes a perfunctory interest in music but a deeper one in a musician named Maurice ( John Roche ). Although Gaston has no ...See full summary&nbsp;&raquo;
-47. Movie: The Denial
-Genre: Drama
-Description: Beautiful Mildred Hucks is in love with young Lyman Webb, but her mother is determined to marry off Mildred to an elderly millionaire. When the Spanish-American War breaks out in 1898, ...See full summary&nbsp;&raquo;
-48. Movie: Poil de carotte
-Genre: Drama
-Description: Franois' mother, Mme Lepic, hates him and she nicknames him "Poil de Carotte" (Carrot hair). His father is more interested in politics and hunting that he is in him. In spite of the ...See full summary&nbsp;&raquo;
-49. Movie: She
-Genre: Adventure, Fantasy, Sci-Fi
-Description: In Africa an explorer is the reincarnated lover of the 2,000-year-old White Queen.
-50. Movie: A Slave of Fashion
-Genre: Comedy, Romance
-Description: Add a Plot
+26. Movie: The Unholy Three
+27. Movie: Body and Soul
+28. Movie: Du skal re din hustru
+29. Movie: Pretty Ladies
+30. Movie: Tumbleweeds
+31. Movie: Maciste all'inferno
+32. Movie: The Circle
+33. Movie: Dick Turpin
+34. Movie: The Plastic Age
+35. Movie: Riders of the Purple Sage
+36. Movie: The Vanishing American
+37. Movie: The Red Kimona
+38. Movie: La fille de l'eau
+39. Movie: She
+40. Movie: North Star
+41. Movie: The Tower of Lies
+42. Movie: Sally of the Sawdust
+43. Movie: The Swan
+44. Movie: Orochi
+45. Movie: Don Q Son of Zorro
+46. Movie: The Road to Yesterday
+47. Movie: Visages d'enfants
+48. Movie: The Green Archer
+49. Movie: Kiss Me Again
+50. Movie: Raffles: The Amateur Cracksman

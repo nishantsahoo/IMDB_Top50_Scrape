@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 2009-01-01 to 2009-12-31 : 
-1. Movie: Inglourious Basterds
-Genre: Adventure, Drama, War
-Description: In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.
-2. Movie: Avatar
-Genre: Action, Adventure, Fantasy
-Description: A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.
+1. Movie: Avatar
+2. Movie: Inglourious Basterds
 3. Movie: Watchmen
-Genre: Action, Drama, Mystery
-Description: In 1985 where former superheroes exist, the murder of a colleague sends active vigilante Rorschach into his own sprawling investigation, uncovering something that could completely change the course of history as we know it.
-4. Movie: Sherlock Holmes
-Genre: Action, Adventure, Crime
-Description: Detective Sherlock Holmes and his stalwart partner Watson engage in a battle of wits and brawn with a nemesis whose plot is a threat to all of England.
-5. Movie: Star Trek
-Genre: Action, Adventure, Sci-Fi
-Description: The brash James T. Kirk tries to live up to his father's legacy with Mr. Spock keeping him in check as a vengeful Romulan from the future creates black holes to destroy the Federation one planet at a time.
-6. Movie: The Hangover
-Genre: Comedy
-Description: Three buddies wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing. They make their way around the city in order to find their friend before his wedding.
-7. Movie: X-Men Origins: Wolverine
-Genre: Action, Adventure, Sci-Fi
-Description: A look at Wolverine's early life, in particular his time with the government squad Team X and the impact it will have on his later years.
-8. Movie: The Blind Side
-Genre: Biography, Drama, Sport
-Description: The story of Michael Oher, a homeless and traumatized boy who became an All American football player and first round NFL draft pick with the help of a caring woman and her family.
-9. Movie: The Proposal
-Genre: Comedy, Drama, Romance
-Description: A pushy boss forces her young assistant to marry her in order to keep her visa status in the U.S. and avoid deportation to Canada.
-10. Movie: Harry Potter and the Half-Blood Prince
-Genre: Adventure, Family, Fantasy
-Description: As Harry Potter begins his sixth year at Hogwarts, he discovers an old book marked as "the property of the Half-Blood Prince" and begins to learn more about Lord Voldemort's dark past.
-11. Movie: Zombieland
-Genre: Adventure, Comedy, Horror
-Description: A shy student trying to reach his family in Ohio, a gun-toting tough guy trying to find the last Twinkie, and a pair of sisters trying to get to an amusement park join forces to travel across a zombie-filled America.
-12. Movie: Friday the 13th
-Genre: Horror
-Description: A group of young adults discover a boarded up Camp Crystal Lake, where they soon encounter Jason Voorhees and his deadly intentions.
-13. Movie: (500) Days of Summer
-Genre: Comedy, Drama, Romance
-Description: An offbeat romantic comedy about a woman who doesn't believe true love exists, and the young man who falls for her.
-14. Movie: 3 Idiots
-Genre: Comedy, Drama
-Description: Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them "idiots".
-15. Movie: My Sister's Keeper
-Genre: Drama
-Description: Anna Fitzgerald looks to earn medical emancipation from her parents who until now have relied on their youngest child to help their leukemia-stricken daughter Kate remain alive.
-16. Movie: Mr. Nobody
-Genre: Drama, Fantasy, Romance
-Description: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
-17. Movie: The Young Victoria
-Genre: Biography, Drama, History
-Description: A dramatization of the turbulent first years of Queen Victoria's rule, and her enduring romance with Prince Albert.
-18. Movie: Underworld: Rise of the Lycans
-Genre: Action, Adventure, Fantasy
-Description: An origins story centered on the centuries-old feud between the race of aristocratic vampires and their onetime slaves, the Lycans.
-19. Movie: Jennifer's Body
-Genre: Comedy, Horror
-Description: A newly possessed high school cheerleader turns into a succubus who specializes in killing her male classmates. Can her best friend put an end to the horror?
-20. Movie: He's Just Not That Into You
-Genre: Comedy, Drama, Romance
-Description: The Baltimore-set movie of interconnecting story arcs deals with the challenges of reading or misreading human behavior.
-21. Movie: 17 Again
-Genre: Comedy, Drama, Family
-Description: Mike O'Donnell is ungrateful for how his life turned out. He gets a chance to rewrite his life when he tried to save a janitor near a bridge and jumped after him into a time vortex.
-22. Movie: Up
-Genre: Animation, Adventure, Comedy
-Description: Seventy-eight year old Carl Fredricksen travels to Paradise Falls in his home equipped with balloons, inadvertently taking a young stowaway.
-23. Movie: Coraline
-Genre: Animation, Family, Fantasy
-Description: An adventurous girl finds another world that is a strangely idealized version of her frustrating home, but it has sinister secrets.
-24. Movie: Hachi: A Dog's Tale
-Genre: Drama, Family
-Description: A college professor's bond with the abandoned dog he takes into his home.
-25. Movie: A Single Man
-Genre: Drama, Romance
-Description: An English professor, one year after the sudden death of his boyfriend, is unable to cope with his typical days in 1960s Los Angeles.
-26. Movie: The Lovely Bones
-Genre: Drama, Fantasy, Thriller
-Description: Centers on a young girl who has been murdered and watches over her family - and her killer - from purgatory. She must weigh her desire for vengeance against her desire for her family to heal.
-27. Movie: Pandorum
-Genre: Action, Horror, Mystery
-Description: A pair of crew members aboard a spaceship wake up with no knowledge of their mission or their identities.
-28. Movie: Moon
-Genre: Drama, Mystery, Sci-Fi
-Description: Astronaut Sam Bell has a quintessentially personal encounter toward the end of his three-year stint on the Moon, where he, working alongside his computer, GERTY, sends back to Earth parcels of a resource that has helped diminish our planet's power problems.
-29. Movie: Bride Wars
-Genre: Comedy, Romance
-Description: Two best friends become rivals when they schedule their respective weddings on the same day.
-30. Movie: Orphan
-Genre: Horror, Mystery, Thriller
-Description: A husband and wife who recently lost their baby adopt a nine year-old girl who is not nearly as innocent as she claims to be.
-31. Movie: Angels &amp; Demons
-Genre: Mystery, Thriller
-Description: Harvard symbologist Robert Langdon works to solve a murder and prevent a terrorist act against the Vatican.
-32. Movie: Dragonball Evolution
-Genre: Action, Adventure, Fantasy
-Description: The young warrior Son Goku sets out on a quest, racing against time and the vengeful King Piccolo, to collect a set of seven magical orbs that will grant their wielder unlimited power.
-33. Movie: Transformers: Revenge of the Fallen
-Genre: Action, Adventure, Sci-Fi
-Description: Sam Witwicky leaves the Autobots behind for a normal life. But when his mind is filled with cryptic symbols, the Decepticons target him and he is dragged back into the Transformers' war.
-34. Movie: The Road
-Genre: Adventure, Drama
-Description: In a dangerous post-apocalyptic world, an ailing father defends his son as they slowly travel to the sea.
-35. Movie: El secreto de sus ojos
-Genre: Drama, Mystery, Thriller
-Description: A retired legal counselor writes a novel hoping to find closure for one of his past unresolved homicide cases and for his unreciprocated love with his superior - both of which still haunt him decades later.
-36. Movie: Up in the Air
-Genre: Drama, Romance
-Description: Ryan Bingham enjoys living out of a suitcase for his job traveling around the country firing people, but finds that lifestyle threatened by the presence of a potential love interest and a new hire.
-37. Movie: Fast &amp; Furious
-Genre: Action, Crime, Thriller
-Description: Brian O'Conner, now working for the FBI in LA, teams up with Dominic Toretto to bring down a heroin importer by infiltrating his operation.
-38. Movie: 2012
-Genre: Action, Adventure, Sci-Fi
-Description: A frustrated writer struggles to keep his family alive when a series of global catastrophes threatens to annihilate mankind.
-39. Movie: District 9
-Genre: Action, Sci-Fi, Thriller
-Description: An extraterrestrial race forced to live in slum-like conditions on Earth suddenly finds a kindred spirit in a government agent who is exposed to their biotechnology.
-40. Movie: Antichrist
-Genre: Drama, Horror
-Description: A grieving couple retreat to their cabin in the woods, hoping to repair their broken hearts and troubled marriage. But nature takes its course and things go from bad to worse.
-41. Movie: Public Enemies
-Genre: Biography, Crime, Drama
-Description: The Feds try to take down notorious American gangsters John Dillinger, Baby Face Nelson and Pretty Boy Floyd during a booming crime wave in the 1930s.
-42. Movie: G.I. Joe: The Rise of Cobra
-Genre: Action, Adventure, Sci-Fi
-Description: An elite military unit comprised of special operatives known as G.I. Joe, operating out of The Pit, takes on an evil organization led by a notorious arms dealer.
+4. Movie: Cirque du Freak: The Vampire's Assistant
+5. Movie: X-Men Origins: Wolverine
+6. Movie: Public Enemies
+7. Movie: Fantastic Mr. Fox
+8. Movie: Star Trek
+9. Movie: Orphan
+10. Movie: Up
+11. Movie: Harry Potter and the Half-Blood Prince
+12. Movie: The Hangover
+13. Movie: 2012
+14. Movie: Sherlock Holmes
+15. Movie: Zombieland
+16. Movie: Jennifer's Body
+17. Movie: The Lovely Bones
+18. Movie: (500) Days of Summer
+19. Movie: Friday the 13th
+20. Movie: The Blind Side
+21. Movie: Moon
+22. Movie: A Perfect Getaway
+23. Movie: Land of the Lost
+24. Movie: The Last House on the Left
+25. Movie: Coraline
+26. Movie: Gamer
+27. Movie: The Imaginarium of Doctor Parnassus
+28. Movie: Crazy Heart
+29. Movie: 3 Idiots
+30. Movie: 17 Again
+31. Movie: Up in the Air
+32. Movie: G.I. Joe: The Rise of Cobra
+33. Movie: Mr. Nobody
+34. Movie: Drag Me to Hell
+35. Movie: Law Abiding Citizen
+36. Movie: He's Just Not That Into You
+37. Movie: The Human Centipede (First Sequence)
+38. Movie: The Proposal
+39. Movie: Push
+40. Movie: District 9
+41. Movie: Antichrist
+42. Movie: The Princess and the Frog
 43. Movie: Kynodontas
-Genre: Drama, Thriller
-Description: Three teenagers live isolated, without leaving their house, because their over-protective parents say they can only leave when their dogtooth falls out.
-44. Movie: Män som hatar kvinnor
-Genre: Crime, Drama, Mystery
-Description: A journalist is aided in his search for a woman who has been missing -- or dead -- for forty years by a young female hacker.
-45. Movie: Law Abiding Citizen
-Genre: Crime, Drama, Thriller
-Description: A frustrated man decides to take justice into his own hands after a plea bargain sets one of his family's killers free. He targets not only the killer but also the district attorney and others involved in the deal.
-46. Movie: I Love You, Man
-Genre: Comedy, Romance
-Description: Friendless Peter Klaven goes on a series of man-dates to find a Best Man for his wedding. But, when his insta-bond with his new B.F.F. puts a strain on his relationship with his fiance, can the trio learn to live happily ever after?
-47. Movie: Fantastic Mr. Fox
-Genre: Animation, Adventure, Comedy
-Description: An urbane fox cannot resist returning to his farm raiding ways and then must help his community survive the farmers' retaliation.
-48. Movie: Precious
-Genre: Drama
-Description: In New York City's Harlem circa 1987, an overweight, abused, illiterate teen who is pregnant with her second child is invited to enroll in an alternative school in hopes that her life can head in a new direction.
-49. Movie: Terminator Salvation
-Genre: Action, Adventure, Sci-Fi
-Description: In 2018, a mysterious new weapon in the war against the machines, half-human and half-machine, comes to John Connor on the eve of a resistance attack on Skynet. But whose side is he on, and can he be trusted?
-50. Movie: The Twilight Saga: New Moon
-Genre: Adventure, Drama, Fantasy
-Description: Edward leaves Bella after an attack that nearly claimed her life, and in her depression she falls into yet another paranormal relationship - this time with werewolf Jacob Black.
+44. Movie: Terminator Salvation
+45. Movie: The Twilight Saga: New Moon
+46. Movie: The Road
+47. Movie: Fast & Furious
+48. Movie: Transformers: Revenge of the Fallen
+49. Movie: Where the Wild Things Are
+50. Movie: I Love You, Man

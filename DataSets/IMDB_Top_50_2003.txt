@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 2003-01-01 to 2003-12-31 : 
-1. Movie: Love Actually
-Genre: Comedy, Drama, Romance
-Description: Follows the lives of eight very different couples in dealing with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London, England.
+1. Movie: The Room
 2. Movie: The Lord of the Rings: The Return of the King
-Genre: Adventure, Drama, Fantasy
-Description: Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.
-3. Movie: Underworld
-Genre: Action, Fantasy, Thriller
-Description: Selene, a vampire warrior, is entrenched in a conflict between vampires and werewolves, while falling in love with Michael, a human who is sought by werewolves for unknown reasons.
-4. Movie: Pirates of the Caribbean: The Curse of the Black Pearl
-Genre: Action, Adventure, Fantasy
-Description: Blacksmith Will Turner teams up with eccentric pirate "Captain" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.
-5. Movie: Finding Nemo
-Genre: Animation, Adventure, Comedy
-Description: After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.
-6. Movie: Old School
-Genre: Comedy
-Description: Three friends attempt to recapture their glory days by opening up a fraternity near their alma mater.
-7. Movie: Oldeuboi
-Genre: Drama, Mystery, Thriller
-Description: After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.
-8. Movie: Monster
-Genre: Biography, Crime, Drama
-Description: Based on the life of Aileen Wuornos, a Daytona Beach prostitute who became a serial killer.
-9. Movie: Kill Bill: Vol. 1
-Genre: Action, Crime, Thriller
-Description: The Bride wakens from a four-year coma. The child she carried in her womb is gone. Now she must wreak vengeance on the team of assassins who betrayed her - a team she was once part of.
-10. Movie: Cold Mountain
-Genre: Adventure, Drama, History
-Description: In the waning days of the American Civil War, a wounded soldier embarks on a perilous journey back home to Cold Mountain, North Carolina to reunite with his sweetheart.
-11. Movie: Mystic River
-Genre: Crime, Drama, Mystery
-Description: With a childhood tragedy that overshadowed their lives, three men are reunited by circumstance when one has a family tragedy.
-12. Movie: Freddy vs. Jason
-Genre: Action, Horror, Thriller
-Description: Freddy Krueger and Jason Voorhees return to terrorize the teenage population. Except this time, they're out to get each other, too.
-13. Movie: How to Lose a Guy in 10 Days
-Genre: Comedy, Romance
-Description: Benjamin Barry is an advertising executive and ladies' man who, to win a big campaign, bets that he can make a woman fall in love with him in 10 days. Andie Anderson covers the "How To" beat for "Composure" magazine and is assigned to write an article on "How to Lose a Guy in 10 days." They meet in a bar shortly after the bet is made.
-14. Movie: The Cat in the Hat
-Genre: Adventure, Comedy, Family
-Description: Two bored children have their lives turned upside down when a talking cat comes to visit them.
-15. Movie: Big Fish
-Genre: Adventure, Drama, Fantasy
-Description: A frustrated son tries to determine the fact from fiction in his dying father's life.
-16. Movie: The Italian Job
-Genre: Action, Crime, Thriller
-Description: After being betrayed and left for dead in Italy, Charlie Croker and his team plan an elaborate gold heist against their former ally.
-17. Movie: The Room
-Genre: Drama
-Description: Johnny is a successful banker who lives happily in a San Francisco townhouse with his fiance, Lisa. One day, inexplicably, she gets bored of him and decides to seduce Johnny's best friend, Mark. From there, nothing will be the same again.
-18. Movie: The School of Rock
-Genre: Comedy, Family, Music
-Description: After being kicked out of a rock band, Dewey Finn becomes a substitute teacher of a strict elementary private school, only to try and turn it into a rock band.
-19. Movie: Thirteen
-Genre: Drama
-Description: A thirteen-year-old girl's relationship with her mother is put to the test as she discovers drugs, sex, and petty crime in the company of her cool but troubled best friend.
-20. Movie: The Dreamers
-Genre: Drama, Romance
-Description: A young American studying in Paris in 1968 strikes up a friendship with a French brother and sister. Set against the background of the '68 Paris student riots.
-21. Movie: Lost in Translation
-Genre: Drama
-Description: A faded movie star and a neglected young woman form an unlikely bond after crossing paths in Tokyo.
-22. Movie: The Matrix Reloaded
-Genre: Action, Sci-Fi
-Description: Neo and the rebel leaders estimate that they have 72 hours until 250,000 probes discover Zion and destroy it and its inhabitants. During this, Neo must decide how he can save Trinity from a dark fate in his dreams.
-23. Movie: Identity
-Genre: Mystery, Thriller
-Description: Stranded at a desolate Nevada motel during a nasty rain-storm, ten strangers become acquainted with each other when they realize that they're being killed off one by one.
-24. Movie: Terminator 3: Rise of the Machines
-Genre: Action, Sci-Fi, Thriller
-Description: A cybernetic warrior from a post-apocalyptic future travels back in time to protect a 25-year old drifter and his future wife from a most advanced robotic assassin and to ensure they both survive a nuclear attack.
-25. Movie: The Last Samurai
-Genre: Action, Drama, History
-Description: An American military advisor embraces the Samurai culture he was hired to destroy after he is captured in battle.
-26. Movie: Daredevil
-Genre: Action, Crime, Drama
-Description: A man blinded by toxic waste which also enhanced his remaining senses fights crime as an acrobatic martial arts superhero.
-27. Movie: X2
-Genre: Action, Adventure, Fantasy
-Description: The X-Men band together to find a mutant assassin who has made an attempt on the President's life, while the Mutant Academy is attacked by military forces.
-28. Movie: Peter Pan
-Genre: Adventure, Family, Fantasy
-Description: The Darling family children receive a visit from Peter Pan, who takes them to Never Never Land where an ongoing war with the evil Pirate Captain Hook is taking place.
-29. Movie: The Matrix Revolutions
-Genre: Action, Sci-Fi
-Description: The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith.
-30. Movie: Bad Boys II
-Genre: Action, Comedy, Crime
-Description: Two loose-cannon narcotics cops investigate the flow of Ecstasy into Florida.
-31. Movie: Hulk
-Genre: Action, Sci-Fi
-Description: Bruce Banner, a genetics researcher with a tragic past, suffers an accident that causes him to transform into a raging green monster when he gets angry.
-32. Movie: 2 Fast 2 Furious
-Genre: Action, Crime, Thriller
-Description: Former cop Brian O'Conner is called upon to bust a dangerous criminal and he recruits the help of a former childhood friend and street racer who has a chance to redeem himself.
+3. Movie: Pirates of the Caribbean: The Curse of the Black Pearl
+4. Movie: Finding Nemo
+5. Movie: Kill Bill: Vol. 1
+6. Movie: Hulk
+7. Movie: Thirteen
+8. Movie: Love Actually
+9. Movie: The School of Rock
+10. Movie: Oldeuboi
+11. Movie: Holes
+12. Movie: Monster
+13. Movie: The Dreamers
+14. Movie: Lost in Translation
+15. Movie: Mystic River
+16. Movie: Bad Boys II
+17. Movie: Wrong Turn
+18. Movie: Cold Mountain
+19. Movie: Terminator 3: Rise of the Machines
+20. Movie: The Matrix Reloaded
+21. Movie: The Italian Job
+22. Movie: Daredevil
+23. Movie: The Cat in the Hat
+24. Movie: Underworld
+25. Movie: X2
+26. Movie: Big Fish
+27. Movie: S.W.A.T.
+28. Movie: Something's Gotta Give
+29. Movie: The Last Samurai
+30. Movie: Charlie's Angels: Full Throttle
+31. Movie: Master and Commander: The Far Side of the World
+32. Movie: Identity
 33. Movie: Bruce Almighty
-Genre: Comedy, Drama, Fantasy
-Description: A guy who complains about God too often is given almighty powers to teach him how difficult it is to run the world.
-34. Movie: Final Destination 2
-Genre: Horror, Thriller
-Description: When Kimberly has a violent premonition of a highway pileup she blocks the freeway, keeping a few others meant to die, safe...Or are they? The survivors mysteriously start dying and it's up to Kimberly to stop it before she's next.
-35. Movie: Anger Management
-Genre: Comedy
-Description: Dave Buznik is a businessman who is wrongly sentenced to an anger-management program, where he meets an aggressive instructor.
-36. Movie: Under the Tuscan Sun
-Genre: Comedy, Drama, Romance
-Description: A writer impulsively buys a villa in Tuscany in order to change her life.
-37. Movie: Wrong Turn
-Genre: Horror
-Description: Six people find themselves trapped in the woods of West Virginia, hunted down by "cannibalistic mountain men grossly disfigured through generations of in-breeding."
-38. Movie: House of 1000 Corpses
-Genre: Horror
-Description: Two teenage couples traveling across the backwoods of Texas searching for urban legends of murder end up as prisoners of a bizarre and sadistic backwater family of serial killers.
-39. Movie: Dreamcatcher
-Genre: Drama, Horror, Sci-Fi
-Description: Friends on a camping trip discover that the town they're vacationing in is being plagued in an unusual fashion by parasitic aliens from outer space.
-40. Movie: Elf
-Genre: Comedy, Family, Fantasy
-Description: After inadvertently wreaking havoc on the elf community due to his ungainly size, a man raised as an elf at the North Pole is sent to the U.S. in search of his true identity.
-41. Movie: The League of Extraordinary Gentlemen
-Genre: Action, Adventure, Fantasy
-Description: In an alternate Victorian Age world, a group of famous contemporary fantasy, SF and adventure characters team up on a secret mission.
-42. Movie: The Texas Chainsaw Massacre
-Genre: Horror
-Description: After picking up a traumatized young hitchhiker, five friends find themselves stalked and hunted by a deformed chainsaw-wielding killer and his family of equally psychopathic killers.
-43. Movie: Paycheck
-Genre: Action, Mystery, Sci-Fi
-Description: What seemed like a breezy idea for an engineer to net him millions of dollars, leaves him on the run for his life and piecing together why he's being chased.
-44. Movie: Freaky Friday
-Genre: Comedy, Family, Fantasy
-Description: An overworked mother and her daughter do not get along. When they switch bodies, each is forced to adapt to the other's life for one freaky Friday.
+34. Movie: Dreamcatcher
+35. Movie: The Texas Chainsaw Massacre
+36. Movie: How to Lose a Guy in 10 Days
+37. Movie: Anger Management
+38. Movie: Old School
+39. Movie: The Matrix Revolutions
+40. Movie: Freaky Friday
+41. Movie: Secondhand Lions
+42. Movie: American Wedding
+43. Movie: The Core
+44. Movie: The League of Extraordinary Gentlemen
 45. Movie: Cheaper by the Dozen
-Genre: Comedy, Family
-Description: With his wife doing a book tour, a father of twelve must handle a new job and his unstable brood.
-46. Movie: Holes
-Genre: Adventure, Comedy, Drama
-Description: A wrongfully convicted boy is sent to a brutal desert detention camp where he joins the job of digging holes for some mysterious reason.
-47. Movie: The Recruit
-Genre: Action, Drama, Mystery
-Description: A brilliant young CIA trainee is asked by his mentor to help find a mole in the Agency.
-48. Movie: Tears of the Sun
-Genre: Action, Drama, Thriller
-Description: A Special-Ops commander leads his team into the Nigerian jungle in order to rescue a doctor who will only join them if they agree to save 70 refugees too.
-49. Movie: Daddy Day Care
-Genre: Comedy, Family
-Description: Two men get laid off and have to become stay-at-home dads when they can't find jobs. This inspires them to open their own day-care center.
-50. Movie: Dogville
-Genre: Crime, Drama
-Description: A woman on the run from the mob is reluctantly accepted in a small Colorado town. In exchange, she agrees to work for them. As a search visits town, she finds out that their support has a price. Yet her dangerous secret is never far away...
+46. Movie: Peter Pan
+47. Movie: Spy Kids 3: Game Over
+48. Movie: Dogville
+49. Movie: Freddy vs. Jason
+50. Movie: Under the Tuscan Sun

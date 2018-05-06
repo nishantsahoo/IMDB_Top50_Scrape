@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 1970-01-01 to 1970-12-31 : 
 1. Movie: MASH
-Genre: Comedy, Drama, War
-Description: The staff of a Korean War field hospital use humor and hijinks to keep their sanity in the face of the horror of war.
 2. Movie: The AristoCats
-Genre: Animation, Adventure, Comedy
-Description: With the help of a smooth talking tomcat, a family of Parisian felines set to inherit a fortune from their owner try to make it back home after a jealous butler kidnaps them and leaves them in the country.
-3. Movie: Patton
-Genre: Biography, Drama, War
-Description: The World War II phase of the career of the controversial American general,George S. Patton.
-4. Movie: Kelly's Heroes
-Genre: Adventure, Comedy, War
-Description: A group of U.S. soldiers sneaks across enemy lines to get their hands on a secret stash of Nazi treasure.
-5. Movie: Love Story
-Genre: Drama, Romance
-Description: A boy and a girl from different backgrounds fall in love regardless of their upbringing - and then tragedy strikes.
-6. Movie: Catch-22
-Genre: Comedy, Drama, War
-Description: A man is trying desperately to be certified insane during World War II, so he can stop flying missions.
-7. Movie: Little Big Man
-Genre: Adventure, Comedy, Drama
-Description: Jack Crabb, looking back from extreme old age, tells of his life being raised by Indians and fighting with General Custer.
-8. Movie: Tora! Tora! Tora!
-Genre: Action, Drama, History
-Description: A dramatization of the Japanese attack on the U.S. naval base at Pearl Harbor and the series of American blunders that allowed it to happen.
-9. Movie: El topo
-Genre: Drama, Western
-Description: A mysterious black-clad gunfighter wanders a mystical Western landscape encountering multiple bizarre characters.
-10. Movie: Five Easy Pieces
-Genre: Drama
-Description: A dropout from upper-class America picks up work along the way on oil rigs when his life isn't spent in a squalid succession of bars, motels, and other points of interest.
-11. Movie: Hercules in New York
-Genre: Adventure, Family, Fantasy
-Description: Hercules (Schwarzenegger) is sent to Earth where he finds true love and starts a promising career in the bodybuilder business.
-12. Movie: Lo chiamavano Trinità...
-Genre: Comedy, Western
-Description: A lazy, unorthodox gunfighter and his portly, horse-thieving brother defend a Mormon settlement from a land-grabbing Major and his henchmen.
-13. Movie: Airport
-Genre: Action, Drama, Thriller
-Description: A bomber on board an airplane, an airport almost closed by snow, and various personal problems of the people involved.
-14. Movie: Rio Lobo
-Genre: Adventure, Western, Romance
-Description: After the Civil War, Cord McNally searches for the traitor whose perfidy caused the defeat of McNally's unit and the loss of a close friend.
-15. Movie: Beyond the Valley of the Dolls
-Genre: Comedy, Drama, Music
-Description: Three girls come to Hollywood to make it big, but find only sex, drugs and sleaze.
-16. Movie: Beneath the Planet of the Apes
-Genre: Action, Adventure, Sci-Fi
-Description: The sole survivor of an interplanetary rescue mission searches for the only survivor of the previous expedition. He discovers a planet ruled by apes and an underground city run by telepathic humans.
-17. Movie: Colossus: The Forbin Project
-Genre: Sci-Fi, Thriller
-Description: Thinking this will prevent war, the US government gives an impenetrable supercomputer total control over launching nuclear missiles. But what the computer does with the power is unimaginable to its creators.
-18. Movie: Chisum
-Genre: Biography, Western
-Description: Cattle baron John Chisum joins forces with Billy the Kid and Pat Garrett to fight the Lincoln County land war.
+3. Movie: Kelly's Heroes
+4. Movie: Love Story
+5. Movie: The Cheyenne Social Club
+6. Movie: Patton
+7. Movie: Five Easy Pieces
+8. Movie: El Topo
+9. Movie: Chisum
+10. Movie: Two Mules for Sister Sara
+11. Movie: Beneath the Planet of the Apes
+12. Movie: Catch-22
+13. Movie: Beyond the Valley of the Dolls
+14. Movie: Airport
+15. Movie: Little Big Man
+16. Movie: Lo chiamavano Trinit...
+17. Movie: Rio Lobo
+18. Movie: The Great White Hope
 19. Movie: Il conformista
-Genre: Drama
-Description: A weak-willed Italian man becomes a fascist flunky who goes abroad to arrange the assassination of his old teacher, now a political dissident.
 20. Movie: Ryan's Daughter
-Genre: Drama, Romance
-Description: Set in the wake of the 1916 Easter Rising, a married woman in a small Irish village has an affair with a troubled British officer.
-21. Movie: Two Mules for Sister Sara
-Genre: Adventure, Romance, War
-Description: Nun Sara is on the run in Mexico and is saved from cowboys by Hogan, who is preparing for a future mission to capture a French fort. The pair become good friends, but Sara never does tell him the true reason behind her being outlawed.
-22. Movie: Myra Breckinridge
-Genre: Comedy
-Description: Myron Breckinridge is waiting for her sex-change operation while a stoned surgeon stumbles into the operating room. Before the drugged doctor begins Myron's operation, he counsels him. ...See full summary&nbsp;&raquo;
-23. Movie: Zabriskie Point
-Genre: Drama
-Description: An epic portrait of late Sixties America, as seen through the portrayal of two of its children: anthropology student Daria (who's helping a property developer build a village in the Los ...See full summary&nbsp;&raquo;
-24. Movie: Performance
-Genre: Crime, Drama
-Description: Chas, a violent and psychotic East London gangster needs a place to lie low after a hit that should never have been carried out. He finds the perfect cover in the form of guest house run by...See full summary&nbsp;&raquo;
-25. Movie: They Call Me Mister Tibbs!
-Genre: Crime, Drama, Mystery
-Description: In San Francisco, a high-priced call girl is murdered and the case is assigned to Police Lieutenant Virgil Tibbs.
-26. Movie: The Private Life of Sherlock Holmes
-Genre: Adventure, Comedy, Crime
-Description: When a bored Holmes eagerly takes the case of Gabrielle Valladon after an attempt on her life, the search for her missing husband leads to Loch Ness and the legendary monster.
-27. Movie: Hexen bis aufs Blut gequält
-Genre: Drama, History, Horror
-Description: Udo Kier is a witch hunter apprentice to Herbert Lom. He believes strongly in his mentor and the ways of the church but loses faith when he catches Lom committing a crime. Kier slowly ...See full summary&nbsp;&raquo;
-28. Movie: The Great White Hope
-Genre: Drama, Romance, Sport
-Description: A black champion boxer and his white female companion struggle to survive while the white boxing establishment looks for ways to knock him down.
-29. Movie: The Twelve Chairs
-Genre: Comedy
-Description: In 1920s Soviet Russia, a fallen aristocrat, a priest and a con artist search for a treasure of jewels hidden inside one of twelve dining chairs, lost during the revolution.
-30. Movie: Le cercle rouge
-Genre: Crime, Drama, Thriller
-Description: After leaving prison, master thief Corey crosses paths with a notorious escapee and an alcoholic former policeman. The trio proceed to plot an elaborate heist.
-31. Movie: The Vampire Lovers
-Genre: Fantasy, Horror
-Description: Seductive vampire Carmilla Karnstein and her family target the beautiful and the rich in a remote area of late eighteenth-century Gemany.
-32. Movie: Bloody Mama
-Genre: Crime, Drama
-Description: A psychological gangster film based on fact. Machine gun totin' Ma Barker lead her family gang (her sons) on a crime spree in the Depression era. Her loyal brood have every perversion ...See full summary&nbsp;&raquo;
-33. Movie: The Railway Children
-Genre: Family, Drama
-Description: After the enforced absence of their father, three children move with their mother to Yorkshire, where during their adventures they attempt to discover the reason for his disappearance.
-34. Movie: Cromwell
-Genre: Biography, Drama, History
-Description: Oliver Cromwell can no longer tolerate King Charles' policies and the self-interest of the ruling class and leads a civil war to install Parliament as the ultimate ruler of England.
-35. Movie: A Man Called Horse
-Genre: Adventure, Drama, Western
-Description: In 1825, an English aristocrat is captured by Native Americans. He lives with them and begins to understand their way of life. Eventually, he is accepted as part of the tribe and becomes their leader.
-36. Movie: Sometimes a Great Notion
-Genre: Drama, Action, Adventure
-Description: A family of fiercely independent Oregon loggers struggle to keep the family business alive amidst changing times.
-37. Movie: Waterloo
-Genre: Action, Biography, Drama
-Description: Facing the decline of everything he has worked to obtain, conqueror Napoleon Bonaparte and his army confront the British at the Battle of Waterloo.
-38. Movie: I Drink Your Blood
-Genre: Horror
-Description: A group of hippies wreak havoc on a small town and a young boy, whose grandfather and sister were attacked by them, decides to get even, with deadly results.
-39. Movie: L'uccello dalle piume di cristallo
-Genre: Horror, Mystery, Thriller
-Description: A witness of an attack, a writer becomes stalked by a serial killer.
-40. Movie: The Owl and the Pussycat
-Genre: Comedy
-Description: Can a bickering odd couple in Manhattan become friends and maybe more? Owlish Felix is an unpublished writer who vents his frustration by reporting to the super that the woman in a ...See full summary&nbsp;&raquo;
-41. Movie: Scrooge
-Genre: Drama, Family, Fantasy
-Description: A musical retelling ofCharles Dickens' classic novel about an old bitter miser taken on a journey of self-redemption, courtesy of several mysterious Christmas apparitions.
-42. Movie: Valerie a týden divu
-Genre: Adventure, Drama, Fantasy
-Description: Inspired by fairy-tales such as Alice in Wonderland and Little Red-Riding Hood, "Valerie and her Week of Wonders" is a surreal tale in which love, fear, sex and religion merge into one fantastic world.
-43. Movie: The Man Who Haunted Himself
-Genre: Thriller
-Description: Harold Pelham encounters a duplicate of himself in the aftermath of a car crash. After that moment his life is upset.
-44. Movie: Deep End
-Genre: Comedy, Drama, Romance
-Description: 15-year-old Mike takes a job at the local swimming baths, where he becomes obsessed with an attractive young woman, Susan, who works there as an attendant. Although Susan has a fianc, Mike...See full summary&nbsp;&raquo;
-45. Movie: La residencia
-Genre: Horror, Mystery, Thriller
-Description: An abusive headmistress runs a secluded school for wayward girls in 19th century France, whose students are "disappearing" under mysterious circumstances after dark.
-46. Movie: Soldier Blue
-Genre: Western
-Description: After a cavalry group is massacred by the Cheyenne, only two survivors remain: Honus, a naive private devoted to his duty, and Cresta, a young woman who had lived with the Cheyenne two ...See full summary&nbsp;&raquo;
-47. Movie: Joe
-Genre: Drama, Thriller
-Description: Bill, a wealthy businessman, confronts his junkie daughter's drug-dealing boyfriend; in the ensuing argument, Bill kills him. Panic-stricken, he wanders the streets and eventually stops at ...See full summary&nbsp;&raquo;
-48. Movie: De Sade 70
-Genre: Drama, Horror
-Description: An innocent girl goes to spend the weekend on an island with a woman and her brother, but soon she finds herself entangled in a web of dream-like sexual experiments.
-49. Movie: Goin' Down the Road
-Genre: Drama
-Description: Two friends leave the picturesque yet rural province of Nova Scotia for the nightlife and culture of Toronto. They soon end up wistful and nostalgic about Nova Scotia though after finding out that Toronto isn't as fun as they'd hoped.
-50. Movie: El jardín de las delicias
-Genre: Drama
-Description: The greedy relatives of an amnesic and paralytic 45 years old millionaire try him to recover his memory by any means.
+21. Movie: Tora! Tora! Tora!
+22. Movie: Hercules in New York
+23. Movie: The Owl and the Pussycat
+24. Movie: There Was a Crooked Man...
+25. Movie: Soldier Blue
+26. Movie: Zabriskie Point
+27. Movie: The Boys in the Band
+28. Movie: The Vampire Lovers
+29. Movie: L'uccello dalle piume di cristallo
+30. Movie: Performance
+31. Movie: Waterloo
+32. Movie: Valerie a tden divu
+33. Movie: A Man Called Horse
+34. Movie: Myra Breckinridge
+35. Movie: Le cercle rouge
+36. Movie: Joe
+37. Movie: Colossus: The Forbin Project
+38. Movie: Husbands
+39. Movie: En krlekshistoria
+40. Movie: Trog
+41. Movie: Hexen bis aufs Blut geqult
+42. Movie: The Ballad of Cable Hogue
+43. Movie: The Out of Towners
+44. Movie: Indagine su un cittadino al di sopra di ogni sospetto
+45. Movie: Multiple Maniacs
+46. Movie: The Phantom Tollbooth
+47. Movie: Monte Walsh
+48. Movie: Count Yorga, Vampire
+49. Movie: Barquero
+50. Movie: Brewster McCloud

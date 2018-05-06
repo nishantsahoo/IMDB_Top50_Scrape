@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 2004-01-01 to 2004-12-31 : 
-1. Movie: A Series of Unfortunate Events
-Genre: Adventure, Comedy, Family
-Description: When a massive fire kills their parents, three children are delivered to the custody of cousin and stage actor Count Olaf, who is secretly plotting to steal their parents' vast fortune.
-2. Movie: The Incredibles
-Genre: Animation, Action, Adventure
-Description: A family of undercover superheroes, while trying to live the quiet suburban life, are forced into action to save the world.
+1. Movie: The Incredibles
+2. Movie: Troy
 3. Movie: The Notebook
-Genre: Drama, Romance
-Description: A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom, but they are soon separated because of their social differences.
-4. Movie: Troy
-Genre: Adventure
-Description: An adaptation of Homer's great epic, the film follows the assault on Troy by the united Greek forces and chronicles the fates of the men involved.
-5. Movie: Harry Potter and the Prisoner of Azkaban
-Genre: Adventure, Family, Fantasy
-Description: It's Harry's third year at Hogwarts; not only does he have a new "Defense Against the Dark Arts" teacher, but there is also trouble brewing. Convicted murderer Sirius Black has escaped the Wizards' Prison and is coming after Harry.
-6. Movie: Mean Girls
-Genre: Comedy
-Description: Cady Heron is a hit with The Plastics, the A-list girl clique at her new school, until she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George.
-7. Movie: Eternal Sunshine of the Spotless Mind
-Genre: Drama, Fantasy, Romance
-Description: When their relationship turns sour, a couple undergoes a procedure to have each other erased from their memories. But it is only through the process of loss that they discover what they had to begin with.
-8. Movie: The Machinist
-Genre: Drama, Thriller
-Description: An industrial worker who hasn't slept in a year begins to doubt his own sanity.
-9. Movie: The Village
-Genre: Drama, Mystery, Thriller
-Description: A series of events tests the beliefs of a small isolated countryside village.
-10. Movie: Ocean's Twelve
-Genre: Crime, Thriller
-Description: Daniel Ocean recruits one more team member so he can pull off three major European heists in this sequel to Ocean's 11.
-11. Movie: Crash
-Genre: Crime, Drama, Thriller
-Description: Los Angeles citizens with vastly separate lives collide in interweaving stories of race, loss and redemption.
-12. Movie: Man on Fire
-Genre: Action, Crime, Drama
-Description: In Mexico City, a former assassin swears vengeance on those who committed an unspeakable act against the family he was hired to protect.
-13. Movie: Resident Evil: Apocalypse
-Genre: Action, Horror, Sci-Fi
-Description: Alice awakes in Raccoon City, only to find it has become infested with zombies and monsters. With the help of Jill Valentine and Carlos Olivera, Alice must find a way out of the city before it is destroyed by a nuclear missile.
-14. Movie: The Phantom of the Opera
-Genre: Drama, Musical, Romance
-Description: A young soprano becomes the obsession of a disfigured musical genius who lives beneath the Paris Opra House.
-15. Movie: The Aviator
-Genre: Biography, Drama
-Description: A biopic depicting the early years of legendary director and aviatorHoward Hughes' career from the late 1920s to the mid-1940s.
-16. Movie: White Chicks
-Genre: Comedy, Crime
-Description: Two disgraced FBI agents go way undercover in an effort to protect hotel heiresses the Wilson Sisters from a kidnapping plot.
-17. Movie: The Chronicles of Riddick
-Genre: Action, Adventure, Sci-Fi
-Description: The wanted criminal Riddick arrives on a planet called Helion Prime, and finds himself up against an invading empire called the Necromongers, an army that plans to convert or kill all humans in the universe.
-18. Movie: EuroTrip
-Genre: Comedy
-Description: Dumped by his girlfriend, a high school grad decides to embark on an overseas adventure in Europe with his friends.
-19. Movie: The Punisher
-Genre: Action, Crime, Drama
-Description: An undercover FBI agent becomes a vigilante assassin and sets out to unleash his wrath upon the corrupt businessman who slaughtered his entire family at a reunion.
-20. Movie: King Arthur
-Genre: Action, Adventure, Drama
-Description: A demystified take on the tale of King Arthur and the Knights of the Round Table.
-21. Movie: The Day After Tomorrow
-Genre: Action, Adventure, Sci-Fi
-Description: Jack Hall, paleoclimatologist, must make a daring trek across America to reach his son, trapped in the cross-hairs of a sudden international storm which plunges the planet into a new Ice Age.
-22. Movie: Der Untergang
-Genre: Biography, Drama, History
-Description: Traudl Junge, the final secretary for Adolf Hitler, tells of the Nazi dictator's final days in his Berlin bunker at the end of WWII.
-23. Movie: A Cinderella Story
-Genre: Comedy, Family, Romance
-Description: Routinely exploited by her wicked stepmother, the downtrodden Sam Montgomery is excited about the prospect of meeting her Internet beau at the school's Halloween dance.
-24. Movie: The Girl Next Door
-Genre: Comedy, Drama, Romance
-Description: A teenager's dreams come true when a former porn star moves in next door and they fall in love.
-25. Movie: The Passion of the Christ
-Genre: Drama
-Description: Depicts the final twelve hours in the life of Jesus of Nazareth, on the day of his crucifixion in Jerusalem.
-26. Movie: Saw
-Genre: Horror, Mystery, Thriller
-Description: Two strangers awaken in a room with no recollection of how they got there or why, and soon discover they are pawns in a deadly game perpetrated by a notorious serial killer.
-27. Movie: Million Dollar Baby
-Genre: Drama, Sport
-Description: A determined woman works with a hardened boxing trainer to become a professional.
-28. Movie: Spanglish
-Genre: Comedy, Drama, Romance
-Description: A woman and her daughter emigrate from Mexico for a better life in America, where they start working for a family where the patriarch is a newly celebrated chef with an insecure wife.
-29. Movie: Closer
-Genre: Drama, Romance
-Description: The relationships of two couples become complicated and deceitful when the man from one couple meets the woman of the other.
-30. Movie: Hellboy
-Genre: Action, Fantasy, Horror
-Description: A demon, raised from infancy after being conjured by and rescued from the Nazis, grows up to become a defender against the forces of darkness.
-31. Movie: Spider-Man 2
-Genre: Action, Adventure
-Description: Peter Parker is beset with troubles in his failing personal life as he battles a brilliant scientist named Doctor Otto Octavius.
-32. Movie: The Butterfly Effect
-Genre: Sci-Fi, Thriller
-Description: Evan Treborn suffers blackouts during significant events of his life. As he grows up, he finds a way to remember these lost memories and a supernatural way to alter his life by reading his journal.
-33. Movie: Shaun of the Dead
-Genre: Comedy, Horror
-Description: A man decides to turn his moribund life around by winning back his ex-girlfriend, reconciling his relationship with his mother, and dealing with an entire community that has returned from the dead to eat the living.
-34. Movie: Van Helsing
-Genre: Action, Adventure
-Description: The notorious monster hunter is sent to Transylvania to stop Count Dracula who is using Dr. Frankenstein's research and a werewolf for some sinister purpose.
-35. Movie: Dodgeball: A True Underdog Story
-Genre: Comedy, Sport
-Description: A group of misfits enter a Las Vegas dodgeball tournament in order to save their cherished local gym from the onslaught of a corporate health fitness chain.
-36. Movie: 50 First Dates
-Genre: Comedy, Romance
-Description: Henry Roth is a man afraid of commitment up until he meets the beautiful Lucy. They hit it off and Henry think he's finally found the girl of his dreams, until he discovers she has short-term memory loss and forgets him the very next day.
-37. Movie: Hauru no ugoku shiro
-Genre: Animation, Adventure, Family
-Description: When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.
-38. Movie: Napoleon Dynamite
-Genre: Comedy
-Description: A listless and alienated teenager decides to help his new friend win the class presidency in their small western high school, while he must deal with his bizarre family life back home.
-39. Movie: Kill Bill: Vol. 2
-Genre: Action, Crime, Drama
-Description: The Bride continues her quest of vengeance against her former boss and lover Bill, the reclusive bouncer Budd and the treacherous, one-eyed Elle.
-40. Movie: Collateral
-Genre: Crime, Drama, Thriller
-Description: A cab driver finds himself the hostage of an engaging contract killer as he makes his rounds from hit to hit during one night in Los Angeles.
-41. Movie: Layer Cake
-Genre: Crime, Drama, Thriller
-Description: A successful cocaine dealer gets two tough assignments from his boss on the eve of his planned early retirement.
-42. Movie: The Life Aquatic with Steve Zissou
-Genre: Adventure, Comedy, Drama
-Description: With a plan to exact revenge on a mythical shark that killed his partner, oceanographer Steve Zissou rallies a crew that includes his estranged wife, a journalist, and a man who may or may not be his son.
-43. Movie: The Bourne Supremacy
-Genre: Action, Mystery, Thriller
-Description: When Jason Bourne is framed for a CIA operation gone awry, he is forced to resume his former life as a trained assassin to survive.
-44. Movie: National Treasure
-Genre: Action, Adventure, Family
-Description: A historian races to find the legendary Templar Treasure before a team of mercenaries.
-45. Movie: The Terminal
-Genre: Comedy, Drama, Romance
-Description: An eastern immigrant finds himself stranded in JFK airport, and must take up temporary residence there.
-46. Movie: Dawn of the Dead
-Genre: Action, Horror, Thriller
-Description: A nurse, a policeman, a young married couple, a salesman, and other survivors of a worldwide plague that is producing aggressive, flesh-eating zombies, take refuge in a mega Midwestern shopping mall.
-47. Movie: AVP: Alien vs. Predator
-Genre: Action, Horror, Sci-Fi
-Description: During an archaeological expedition on Bouvetya Island in Antarctica, a team of archaeologists and other scientists find themselves caught up in a battle between the two legends. Soon, the team realize that only one species can win.
-48. Movie: Taking Lives
-Genre: Crime, Mystery, Thriller
-Description: An FBI profiler is called in by French Canadian police to catch a serial killer who takes on the identity of each new victim.
-49. Movie: Alexander
-Genre: Action, Adventure, Biography
-Description: Alexander, the King of Macedonia and one of the greatest military leaders in the history of warfare, conquers much of the known world.
-50. Movie: Anchorman: The Legend of Ron Burgundy
-Genre: Comedy
-Description: Ron Burgundy is San Diego's top-rated newsman in the male-dominated broadcasting of the 1970s, but that's all about to change for Ron and his cronies when an ambitious woman is hired as a new anchor.
+4. Movie: A Series of Unfortunate Events
+5. Movie: Mean Girls
+6. Movie: The Phantom of the Opera
+7. Movie: Harry Potter and the Prisoner of Azkaban
+8. Movie: Eternal Sunshine of the Spotless Mind
+9. Movie: Dodgeball: A True Underdog Story
+10. Movie: Crash
+11. Movie: Napoleon Dynamite
+12. Movie: Blade: Trinity
+13. Movie: Dawn of the Dead
+14. Movie: Man on Fire
+15. Movie: Spider-Man 2
+16. Movie: Shaun of the Dead
+17. Movie: Club Dread
+18. Movie: Van Helsing
+19. Movie: The Girl Next Door
+20. Movie: EuroTrip
+21. Movie: The Machinist
+22. Movie: Kill Bill: Vol. 2
+23. Movie: The Punisher
+24. Movie: Alexander
+25. Movie: I, Robot
+26. Movie: 13 Going on 30
+27. Movie: Saw
+28. Movie: Friday Night Lights
+29. Movie: Million Dollar Baby
+30. Movie: Closer
+31. Movie: 50 First Dates
+32. Movie: The Terminal
+33. Movie: Der Untergang
+34. Movie: Hauru no ugoku shiro
+35. Movie: Hellboy
+36. Movie: White Chicks
+37. Movie: The Village
+38. Movie: Collateral
+39. Movie: The Passion of the Christ
+40. Movie: The Day After Tomorrow
+41. Movie: Ocean's Twelve
+42. Movie: Shrek 2
+43. Movie: The Butterfly Effect
+44. Movie: The Aviator
+45. Movie: Along Came Polly
+46. Movie: AVP: Alien vs. Predator
+47. Movie: Harold & Kumar Go to White Castle
+48. Movie: Without a Paddle
+49. Movie: Sideways
+50. Movie: Layer Cake

@@ -1,38 +1,19 @@
 Most Popular Feature Films Released 1898-01-01 to 1898-12-31 : 
-1. Movie: Can Can
-Description: "You are not often afforded the privilege of viewing a real French can-can and this film is therefore bound to score a success. Mlle. Fraidora the celebrated French can-can dancer is shown ...See full summary&nbsp;&raquo;
-2. Movie: The Highland Fling
-Description: Add a Plot
-3. Movie: Cake Walk
-Description: "Here is a film, one of the finest of its kind, portraying a number of colored professionals in their favorite pastime, a cake walk. This is a winner and is bound to win applause. Be sure ...See full summary&nbsp;&raquo;
-4. Movie: Highland Cross Sword Dance
-Description: Add a Plot
-5. Movie: Josephina Ruiz
-Description: Add a Plot
-6. Movie: Tub Race
-Description: "This turns out to be as much of a bathing scene as it is a race. Every one who has participated or witnessed a tub race will enjoy the picture."
-7. Movie: A Very Laughable Mixup
-Description: Add a Plot
-8. Movie: Torpedo Boat, 'Dupont'
-Description: "A stunning view of one of the fastest boats in Uncle Sam's torpedo fleet. She is running under forced draught at full headway, and comes like a race horse directly toward the camera, ...See full summary&nbsp;&raquo;
-9. Movie: Masked Procession
-Description: "Masqueraders dressed in most grotesque costumes are passing one side of the grandstand, while a procession of bicyclists wheel by on the other side."
-10. Movie: Highland Fling
-Description: Add a Plot
-11. Movie: Firing Broadside at Cabanas
-Description: Reenactment of a Spanish-American War battle.
-12. Movie: S.S. 'Coptic'
-Description: "Continuation of the above picture [S.S. COPTIC LYING TO]. Sun bursts forth, silver tipping the foam on the wave crests. The billows surge grandly."
+1. Movie: Torpedo Boat, 'Dupont'
+2. Movie: Can Can
+3. Movie: Tub Race
+4. Movie: Cake Walk
+5. Movie: Masked Procession
+6. Movie: Bombardment of Matanzas
+7. Movie: Firing Broadside at Cabanas
+8. Movie: S.S. 'Coptic'
+9. Movie: Pea-Hulling Machine
+10. Movie: Highland Cross Sword Dance
+11. Movie: The Startled Lover
+12. Movie: Freedom of Cuba
 13. Movie: The Telephone
-Description: Add a Plot
-14. Movie: The Startled Lover
-Genre: Romance
-Description: Add a Plot
-15. Movie: Thrilling War Scene
-Description: Add a Plot
-16. Movie: Bombardment of Matanzas
-Description: Reenactment of a Spanish-American War naval bombardment, done with miniatures.
-17. Movie: Freedom of Cuba
-Description: Add a Plot
-18. Movie: Pea-Hulling Machine
-Description: "Taken for use in patent litigation."
+14. Movie: A Very Laughable Mixup
+15. Movie: Josephina Ruiz
+16. Movie: The Highland Fling
+17. Movie: Highland Fling
+18. Movie: Thrilling War Scene

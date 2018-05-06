@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 2012-01-01 to 2012-12-31 : 
-1. Movie: The Dark Knight Rises
-Genre: Action, Thriller
-Description: Eight years after the Joker's reign of anarchy, the Dark Knight, with the help of the enigmatic Selina, is forced from his imposed exile to save Gotham City, now on the edge of total annihilation, from the brutal guerrilla terrorist Bane.
-2. Movie: Prometheus
-Genre: Adventure, Mystery, Sci-Fi
-Description: Following clues to the origin of mankind a team journey across the universe and find a structure on a distant moon containing a monolithic statue of a humanoid head and stone cylinders of alien blood but they soon find they are not alone.
-3. Movie: Lo imposible
-Genre: Drama, Thriller
-Description: The story of a tourist family in Thailand caught in the destruction and chaotic aftermath of the 2004 Indian Ocean tsunami.
-4. Movie: The Hunger Games
-Genre: Action, Adventure, Sci-Fi
-Description: Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games, a televised competition in which two teenagers from each of the twelve Districts of Panem are chosen at random to fight to the death.
-5. Movie: Django Unchained
-Genre: Drama, Western
-Description: With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.
-6. Movie: The Hobbit: An Unexpected Journey
-Genre: Adventure, Fantasy
-Description: A reluctant hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home - and the gold within it - from the dragon Smaug.
-7. Movie: The Place Beyond the Pines
-Genre: Crime, Drama, Thriller
-Description: A motorcycle stunt rider turns to robbing banks as a way to provide for his lover and their newborn child, a decision that puts him on a collision course with an ambitious rookie cop navigating a department ruled by a corrupt detective.
-8. Movie: Jack Reacher
-Genre: Action, Crime, Mystery
-Description: A homicide investigator digs deeper into a case involving a trained military sniper who shot five random victims.
-9. Movie: Pitch Perfect
-Genre: Comedy, Music, Romance
-Description: Beca, a freshman at Barden University, is cajoled into joining The Bellas, her school's all-girls singing group. Injecting some much needed energy into their repertoire, The Bellas take on their male rivals in a campus competition.
-10. Movie: The Twilight Saga: Breaking Dawn - Part 2
-Genre: Adventure, Drama, Fantasy
-Description: After the birth of Renesmee, the Cullens gather other vampire clans in order to protect the child from a false allegation that puts the family in front of the Volturi.
-11. Movie: Resident Evil: Retribution
-Genre: Action, Horror, Sci-Fi
-Description: Alice fights alongside a resistance movement to regain her freedom from an Umbrella Corporation testing facility.
-12. Movie: The Avengers
-Genre: Action, Sci-Fi
-Description: Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity.
-13. Movie: Les Misérables
-Genre: Drama, Musical, Romance
-Description: In 19th-century France, Jean Valjean, who for decades has been hunted by the ruthless policeman Javert after breaking parole, agrees to care for a factory worker's daughter. The decision changes their lives forever.
-14. Movie: The Perks of Being a Wallflower
-Genre: Drama, Romance
-Description: An introvert freshman is taken under the wings of two seniors who welcome him to the real world.
-15. Movie: Battleship
-Genre: Action, Adventure, Sci-Fi
-Description: A fleet of ships is forced to do battle with an armada of unknown origins in order to discover and thwart their destructive goals.
-16. Movie: Argo
-Genre: Biography, Drama, History
-Description: Acting under the cover of a Hollywood producer scouting a location for a science fiction film, a CIA agent launches a dangerous operation to rescue six Americans in Tehran during the U.S. hostage crisis in Iran in 1980.
-17. Movie: Underworld: Awakening
-Genre: Action, Fantasy, Horror
-Description: When human forces discover the existence of the Vampire and Lycan clans, a war to eradicate both species commences. The vampire warrior Selene leads the battle against humankind.
-18. Movie: John Carter
-Genre: Action, Adventure, Sci-Fi
-Description: Transported to Barsoom, a Civil War vet discovers a barren planet seemingly inhabited by 12-foot tall barbarians. Finding himself prisoner of these creatures, he escapes, only to encounter Woola and a princess in desperate need of a savior.
-19. Movie: Skyfall
-Genre: Action, Adventure, Thriller
-Description: Bond's loyalty to M is tested when her past comes back to haunt her. Whilst MI6 comes under attack, 007 must track down and destroy the threat, no matter how personal the cost.
-20. Movie: Cloud Atlas
-Genre: Drama, Sci-Fi
-Description: An exploration of how the actions of individual lives impact one another in the past, present and future, as one soul is shaped from a killer into a hero, and an act of kindness ripples across centuries to inspire a revolution.
-21. Movie: Snow White and the Huntsman
-Genre: Action, Adventure, Drama
-Description: In a twist to the fairy tale, the Huntsman ordered to take Snow White into the woods to be killed winds up becoming her protector and mentor in a quest to vanquish the Evil Queen.
-22. Movie: Sinister
-Genre: Horror, Mystery
-Description: Washed-up true-crime writer Ellison Oswalt finds a box of super 8 home movies that suggest the murder he is currently researching is the work of a serial killer whose work dates back to the 1960s.
-23. Movie: Silver Linings Playbook
-Genre: Comedy, Drama, Romance
-Description: After a stint in a mental institution, former teacher Pat Solitano moves back in with his parents and tries to reconcile with his ex-wife. Things get more challenging when Pat meets Tiffany, a mysterious girl with problems of her own.
-24. Movie: 21 Jump Street
-Genre: Action, Comedy, Crime
-Description: A pair of underachieving cops are sent back to a local high school to blend in and bring down a synthetic drug ring.
-25. Movie: Looper
-Genre: Action, Crime, Drama
-Description: In 2074, when the mob wants to get rid of someone, the target is sent into the past, where a hired gun awaits - someone like Joe - who one day learns the mob wants to 'close the loop' by sending back Joe's future self for assassination.
-26. Movie: The Amazing Spider-Man
-Genre: Action, Adventure
-Description: After Peter Parker is bitten by a genetically altered spider, he gains newfound, spider-like powers and ventures out to solve the mystery of his parent's mysterious death.
-27. Movie: Moonrise Kingdom
-Genre: Adventure, Comedy, Drama
-Description: A pair of young lovers flee their New England town, which causes a local search party to fan out to find them.
-28. Movie: Lawless
-Genre: Crime, Drama
-Description: Set in Depression-era Franklin County, Virginia, a trio of bootlegging brothers are threatened by a new special deputy and other authorities angling for a cut of their profits.
-29. Movie: Spring Breakers
-Genre: Crime, Drama
-Description: Four college girls hold up a restaurant in order to fund their spring break vacation. While partying, drinking, and taking drugs, they are arrested, only to be bailed out by a drug and arms dealer.
-30. Movie: Lincoln
-Genre: Biography, Drama, History
-Description: As the Civil War continues to rage, America's president struggles with continuing carnage on the battlefield as he fights with many inside his own cabinet on the decision to emancipate the slaves.
-31. Movie: Zero Dark Thirty
-Genre: Drama, History, Thriller
-Description: A chronicle of the decade-long hunt for al-Qaeda terrorist leaderOsama bin Ladenafter the September 2001 attacks, and his death at the hands of the Navy S.E.A.L.s Team 6 in May 2011.
-32. Movie: Life of Pi
-Genre: Adventure, Drama, Fantasy
-Description: A young man who survives a disaster at sea is hurtled into an epic journey of adventure and discovery. While cast away, he forms an unexpected connection with another survivor: a fearsome Bengal tiger.
-33. Movie: Jagten
-Genre: Drama
-Description: A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.
-34. Movie: Dark Shadows
-Genre: Comedy, Fantasy, Horror
-Description: An imprisoned vampire, Barnabas Collins, is set free and returns to his ancestral home, where his dysfunctional descendants are in need of his protection.
-35. Movie: Project X
-Genre: Comedy
-Description: 3 high school seniors throw a birthday party to make a name for themselves. As the night progresses, things spiral out of control as word of the party spreads.
-36. Movie: Ted
-Genre: Comedy, Fantasy
-Description: John Bennett, a man whose childhood wish of bringing his teddy bear to life came true, now must decide between keeping the relationship with the bear or his girlfriend, Lori.
-37. Movie: This Means War
-Genre: Action, Comedy, Romance
-Description: Two top CIA operatives wage an epic battle against one another after they discover they are dating the same woman.
-38. Movie: Anna Karenina
-Genre: Drama, Romance
-Description: In late-19th-century Russian high society, St. Petersburg aristocrat Anna Karenina enters into a life-changing affair with the dashing Count Alexei Vronsky.
-39. Movie: That's My Boy
-Genre: Comedy
-Description: While in his teens, Donny fathered a son, Todd, and raised him as a single parent up until Todd's 18th birthday. Now, after not seeing each other for years, Todd's world comes crashing down when Donny resurfaces just before Todd's wedding.
-40. Movie: The Cabin in the Woods
-Genre: Horror
-Description: Five friends go for a break at a remote cabin, where they get more than they bargained for, discovering the truth behind the cabin in the woods.
-41. Movie: Magic Mike
-Genre: Comedy, Drama
-Description: A male stripper teaches a younger performer how to party, pick up women, and make easy money.
-42. Movie: American Reunion
-Genre: Comedy
-Description: Jim, Michelle, Stifler, and their friends reunite in East Great Falls, Michigan for their high school reunion.
-43. Movie: End of Watch
-Genre: Crime, Drama, Thriller
-Description: Shot documentary-style, this film follows the daily grind of two young police officers in LA who are partners and friends, and what happens when they meet criminal forces greater than themselves.
-44. Movie: What to Expect When You're Expecting
-Genre: Comedy, Drama, Romance
-Description: Follows the lives of five interconnected couples as they experience the thrills and surprises of having a baby, and realize that no matter what you plan for, life does not always deliver what is expected.
-45. Movie: Total Recall
-Genre: Action, Adventure, Mystery
-Description: A factory worker, Douglas Quaid, begins to suspect that he is a spy after visiting Rekall - a company that provides its clients with implanted fake memories of a life they would like to have led - goes wrong and he finds himself on the run.
-46. Movie: The Vow
-Genre: Drama, Romance
-Description: A car accident puts Paige in a coma, and when she wakes up with severe memory loss, her husband Leo works to win her heart again.
-47. Movie: Seven Psychopaths
-Genre: Comedy, Crime
-Description: A struggling screenwriter inadvertently becomes entangled in the Los Angeles criminal underworld after his oddball friends kidnap a gangster's beloved Shih Tzu.
-48. Movie: The Paperboy
-Genre: Drama, Thriller
-Description: A reporter returns to his Florida home-town to investigate a case involving a death row inmate.
-49. Movie: Brave
-Genre: Animation, Adventure, Comedy
-Description: Determined to make her own path in life, Princess Merida defies a custom that brings chaos to her kingdom. Granted one wish, Merida must rely on her bravery and her archery skills to undo a beastly curse.
-50. Movie: The Master
-Genre: Drama
-Description: A Naval veteran arrives home from war unsettled and uncertain of his future - until he is tantalized by The Cause and its charismatic leader.
+1. Movie: The Avengers
+2. Movie: The Dark Knight Rises
+3. Movie: Django Unchained
+4. Movie: Pitch Perfect
+5. Movie: The Hunger Games
+6. Movie: Les Misrables
+7. Movie: Prometheus
+8. Movie: The Cabin in the Woods
+9. Movie: The Hobbit: An Unexpected Journey
+10. Movie: The Amazing Spider-Man
+11. Movie: Snow White and the Huntsman
+12. Movie: Wreck-It Ralph
+13. Movie: Moonrise Kingdom
+14. Movie: Lo imposible
+15. Movie: The Twilight Saga: Breaking Dawn - Part 2
+16. Movie: Cloud Atlas
+17. Movie: Lawless
+18. Movie: The Perks of Being a Wallflower
+19. Movie: Silver Linings Playbook
+20. Movie: Looper
+21. Movie: 21 Jump Street
+22. Movie: Skyfall
+23. Movie: Zero Dark Thirty
+24. Movie: Spring Breakers
+25. Movie: Lincoln
+26. Movie: Magic Mike
+27. Movie: Men in Black 3
+28. Movie: This Is 40
+29. Movie: Battleship
+30. Movie: Sinister
+31. Movie: Flight
+32. Movie: The Place Beyond the Pines
+33. Movie: That's My Boy
+34. Movie: The Bourne Legacy
+35. Movie: Ted
+36. Movie: Argo
+37. Movie: Brave
+38. Movie: Journey 2: The Mysterious Island
+39. Movie: Life of Pi
+40. Movie: The Lorax
+41. Movie: American Reunion
+42. Movie: Safe House
+43. Movie: John Carter
+44. Movie: Anna Karenina
+45. Movie: Jagten
+46. Movie: The Dictator
+47. Movie: Jack Reacher
+48. Movie: Contraband
+49. Movie: Project X
+50. Movie: Seven Psychopaths

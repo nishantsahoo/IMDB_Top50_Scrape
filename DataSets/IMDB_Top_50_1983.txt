@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 1983-01-01 to 1983-12-31 : 
-1. Movie: Star Wars: Episode VI - Return of the Jedi
-Genre: Action, Adventure, Fantasy
-Description: After rescuing Han Solo from the palace of Jabba the Hutt, the rebels attempt to destroy the second Death Star, while Luke struggles to make Vader return from the dark side of the Force.
-2. Movie: Scarface
-Genre: Crime, Drama
-Description: In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.
-3. Movie: The Outsiders
-Genre: Crime, Drama
-Description: The rivalry between two gangs, the poor greasers and the rich Socs, only heats up when one gang member kills a member of the other.
-4. Movie: Christine
-Genre: Horror
-Description: A nerdish boy buys a strange car with an evil mind of its own and his nature starts to change to reflect it.
-5. Movie: Risky Business
-Genre: Comedy, Crime, Drama
-Description: A Chicago teenager is looking for fun at home while his parents are away, but the situation quickly gets out of hand.
-6. Movie: Twilight Zone: The Movie
-Genre: Fantasy, Horror, Sci-Fi
-Description: Four horror/sci-fi segments directed by four famous directors, each of them being a new version of a classic story fromRod Serling's landmark television seriesThe Twilight Zone(1959).
-7. Movie: Superman III
-Genre: Action, Comedy, Sci-Fi
-Description: Synthetic kryptonite laced with tobacco tar splits Superman in two: good Clark Kent and bad Man of Steel.
-8. Movie: WarGames
-Genre: Sci-Fi, Thriller
-Description: A young man finds a back door into a military central computer in which reality is confused with game-playing, possibly starting World War III.
-9. Movie: Trading Places
-Genre: Comedy
-Description: A snobbish investor and a wily street con artist find their positions reversed as part of a bet by two callous millionaires.
-10. Movie: National Lampoon's Vacation
-Genre: Adventure, Comedy
-Description: The Griswold family's cross-country drive to the Walley World theme park proves to be much more arduous than they ever anticipated.
-11. Movie: The Right Stuff
-Genre: Adventure, Biography, Drama
-Description: The story of the original Mercury 7 astronauts and their macho, seat-of-the-pants approach to the space program.
-12. Movie: Flashdance
-Genre: Drama, Music, Romance
-Description: A Pittsburgh woman with two jobs as a welder and an exotic dancer wants to get into ballet school.
-13. Movie: A Christmas Story
-Genre: Comedy, Family
-Description: In the 1940s, a young boy named Ralphie attempts to convince his parents, his teacher, and Santa that a Red Ryder B.B. gun really is the perfect Christmas gift.
-14. Movie: Terms of Endearment
-Genre: Comedy, Drama
-Description: Follows hard-to-please Aurora looking for love and her daughter's family problems.
-15. Movie: Never Say Never Again
-Genre: Action, Adventure, Thriller
-Description: A SPECTRE agent has stolen two American nuclear warheads, and James Bond must find their targets before they are detonated.
-16. Movie: Videodrome
-Genre: Horror, Mystery, Sci-Fi
-Description: A sleazy cable-TV programmer begins to see his life and the future of media spin out of control in a very unusual fashion when he acquires a new kind of programming for his station.
-17. Movie: The Dead Zone
-Genre: Horror, Sci-Fi, Thriller
-Description: A man awakens from a coma to discover he has a psychic ability.
-18. Movie: Cujo
-Genre: Horror, Thriller
-Description: Cujo, a friendly St. Bernard, contracts rabies and conducts a reign of terror on a small American town.
-19. Movie: Rumble Fish
-Genre: Drama
-Description: Rusty James, an absent-minded street thug struggles to live up to his legendary older brother's reputation, and longs for the days when gang warfare was going on.
-20. Movie: Staying Alive
-Genre: Drama, Music, Romance
-Description: It's five years later and Tony Manero's Saturday Night Fever is still burning. Now he's strutting toward his biggest challenge yet - succeeding as a dancer on the Broadway stage.
+1. Movie: Scarface
+2. Movie: The Outsiders
+3. Movie: Star Wars: Episode VI - Return of the Jedi
+4. Movie: National Lampoon's Vacation
+5. Movie: WarGames
+6. Movie: Flashdance
+7. Movie: Trading Places
+8. Movie: Terms of Endearment
+9. Movie: Risky Business
+10. Movie: Christine
+11. Movie: The Meaning of Life
+12. Movie: Krull
+13. Movie: Cujo
+14. Movie: The Right Stuff
+15. Movie: Hercules
+16. Movie: Valley Girl
+17. Movie: Videodrome
+18. Movie: Superman III
+19. Movie: Jaws 3-D
+20. Movie: Sleepaway Camp
 21. Movie: The Big Chill
-Genre: Comedy, Drama
-Description: A group of seven former college friends gather for a weekend reunion at a South Carolina winter house after the funeral of one of their friends.
-22. Movie: Krull
-Genre: Action, Adventure, Fantasy
-Description: A prince and a fellowship of companions set out to rescue his bride from a fortress of alien invaders who have arrived on their home planet.
+22. Movie: Twilight Zone: The Movie
 23. Movie: Octopussy
-Genre: Action, Adventure, Thriller
-Description: A fake Faberg egg and a fellow agent's death lead James Bond to uncover an international jewel-smuggling operation, headed by the mysterious Octopussy, being used to disguise a nuclear attack on N.A.T.O. forces.
-24. Movie: Jaws 3-D
-Genre: Adventure, Horror, Thriller
-Description: The sons of police chief Brody must protect civilians at a SeaWorld theme park after a 35-foot shark becomes trapped in the park with them.
-25. Movie: Valley Girl
-Genre: Comedy, Romance
-Description: Julie, a girl from the valley, meets Randy, a punk from the city. They are from different worlds and find love. Somehow they need to stay together in spite of her trendy, shallow friends.
-26. Movie: Silkwood
-Genre: Biography, Drama, History
-Description: The story of Karen Silkwood, a metallurgy worker at a plutonium processing plant who was purposefully contaminated, psychologically tortured and possibly murdered to prevent her from exposing blatant worker safety violations at the plant.
-27. Movie: The Meaning of Life
-Genre: Comedy, Fantasy, Musical
-Description: The comedy team takes a look at life in all its stages in their own uniquely silly way.
-28. Movie: Sleepaway Camp
-Genre: Horror
-Description: Angela Baker, a traumatized and very shy young girl, is sent to summer camp with her cousin. Shortly after her arrival, anyone with sinister or less than honorable intentions gets their comeuppance.
-29. Movie: The Hunger
-Genre: Horror
-Description: A love triangle develops between a beautiful yet dangerous vampire, her cellist companion, and a gerontologist.
-30. Movie: Bad Boys
-Genre: Crime, Drama, Thriller
-Description: Chicago crime kid Mick O'Brien is sent to reform school after accidentally killing a rival's kid brother.
-31. Movie: Psycho II
-Genre: Crime, Horror, Mystery
-Description: After twenty-two years of psychiatric care, Norman Bates attempts to return to a life of solitude, but the specters of his crimes - and his mother - continue to haunt him.
-32. Movie: Easy Money
-Genre: Comedy
-Description: To inherit his mother-in-law's colossal fortune, a hard-living gambling addict must change his unhealthy ways before they get the best of him.
-33. Movie: Class
-Genre: Comedy, Drama, Romance
-Description: A young boy in private school spends one crazy night out, but soon realizes the woman he hooked up with is not who he expected.
-34. Movie: Fire and Ice
-Genre: Animation, Fantasy, Adventure
-Description: In this animated tale, a tiny village is destroyed by a surging glacier, which serves as the deadly domain for the evil Ice Lord, Nekron. The only survivor is a young warrior, Larn, who ...See full summary&nbsp;&raquo;
-35. Movie: Yentl
-Genre: Drama, Musical, Romance
-Description: A Jewish girl disguises herself as a boy to enter religious training.
-36. Movie: Smokey and the Bandit Part 3
-Genre: Comedy, Crime
-Description: Big and Little Enos are opening a sea food restaurant. They bet Sheriff Buford T. Justice that he cannot drive from Miami to the Enos ranch in Texas in a given amount of time. If Buford loses he has to give up his badge.
-37. Movie: Yellowbeard
-Genre: Action, Adventure, Comedy
-Description: Yellowbeard, a pirate's pirate, is allowed to escape from prison to lead the authorities to his treasure. He finds that his wife neglected to tell him that he now has a son, 20, and shame ...See full summary&nbsp;&raquo;
-38. Movie: All the Right Moves
-Genre: Drama, Romance, Sport
-Description: A high school football player desperate for a scholarship and his headstrong coach clash in a dying Pennsylvania steel town.
-39. Movie: Sudden Impact
-Genre: Action, Crime, Thriller
-Description: A rape victim is exacting revenge on her aggressors in a small town outside San Francisco. "Dirty" Harry Callahan, on suspension for angering his superiors (again), is assigned to the case.
-40. Movie: Merry Christmas Mr. Lawrence
-Genre: Drama, War
-Description: During WWII, a British colonel tries to bridge the cultural divides between a British POW and the Japanese camp commander in order to avoid bloodshed.
-41. Movie: Blue Thunder
-Genre: Action, Crime, Drama
-Description: The cop test pilot for an experimental police helicopter learns the sinister implications of the new vehicle.
-42. Movie: The Pirates of Penzance
-Genre: Comedy, Musical, Romance
-Description: This movie is an adaptation of Gilbert and Sullivan's comic operetta of the same name, with parts of other of their operettas stirred in. Frederic has fallen in love with sweet innocent ...See full summary&nbsp;&raquo;
-43. Movie: Mr. Mom
-Genre: Comedy, Drama
-Description: After he's laid off, a husband switches roles with his wife. She returns to the workforce and he becomes a stay-at-home dad - a job he has no clue how to do.
-44. Movie: E la nave va
-Genre: Drama, History, Music
-Description: In 1914, a luxury ship leaves Italy in order to scatter the ashes of a famous opera singer. A lovable bumbling journalist chronicles the voyage and meets the singer's many eccentric friends and admirers.
-45. Movie: Something Wicked This Way Comes
-Genre: Fantasy, Mystery, Thriller
-Description: In a small American town, a diabolical circus and its demonic proprietor prey on the townsfolk.
-46. Movie: Private School
-Genre: Comedy, Romance
-Description: Christine (Phoebe Cates), a student at an exclusive all-girls private school, is in love with Jim, who attends an academy for boys nearby. Christine's arch rival Jordan also has her eye on ...See full summary&nbsp;&raquo;
-47. Movie: The Adventures of Bob &amp; Doug McKenzie: Strange Brew
-Genre: Comedy
-Description: Canada's most famous hosers, Bob and Doug McKenzie, get jobs at the Elsinore Brewery, only to learn that something is rotten with the state of it.
-48. Movie: Breathless
-Genre: Action, Drama, Romance
-Description: Jesse has to get out of Las Vegas quickly, and steals a car to drive to L.A. On the way he shoots a police man. When he makes it to L.A. he stays with Monica, a girl he has only known for a...See full summary&nbsp;&raquo;
-49. Movie: Nostalgia
-Genre: Drama
-Description: The Russian poet Andrei Gorchakov, accompanied by guide and translator Eugenia, is traveling through Italy researching the life of an 18th-century Russian composer. In an ancient spa town, ...See full summary&nbsp;&raquo;
-50. Movie: Nate and Hayes
-Genre: Action, Adventure, Comedy
-Description: A swashbuckling adventure which takes place in the mid-1800's on the South Pacific islands where bloody raids and battles were once the rule of the day.
+24. Movie: Never Say Never Again
+25. Movie: Mr. Mom
+26. Movie: Psycho II
+27. Movie: A Christmas Story
+28. Movie: Nostalgia
+29. Movie: Private School
+30. Movie: The Hunger
+31. Movie: Staying Alive
+32. Movie: Eddie and the Cruisers
+33. Movie: Rumble Fish
+34. Movie: Yentl
+35. Movie: The Dead Zone
+36. Movie: Yellowbeard
+37. Movie: Sudden Impact
+38. Movie: Bad Boys
+39. Movie: All the Right Moves
+40. Movie: Fire and Ice
+41. Movie: Local Hero
+42. Movie: Class
+43. Movie: Silkwood
+44. Movie: My Tutor
+45. Movie: Brainstorm
+46. Movie: Lone Wolf McQuade
+47. Movie: The Keep
+48. Movie: Something Wicked This Way Comes
+49. Movie: Blue Thunder
+50. Movie: The House on Sorority Row

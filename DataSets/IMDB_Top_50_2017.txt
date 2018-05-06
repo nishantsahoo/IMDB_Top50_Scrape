@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 2017-01-01 to 2017-12-31 : 
-1. Movie: xXx: Return of Xander Cage
-Genre: Action, Adventure, Thriller
-Description: Xander Cage is left for dead after an incident, though he secretly returns to action for a new, tough assignment with his handler Augustus Gibbons.
-2. Movie: Logan
-Genre: Action, Drama, Sci-Fi
-Description: In the near future, a weary Logan cares for an ailing Professor X in a hide out on the Mexican border. But Logan's attempts to hide from the world and his legacy are up-ended when a young mutant arrives, being pursued by dark forces.
-3. Movie: Power Rangers
-Genre: Action, Adventure, Sci-Fi
-Description: A group of high-school kids, who are infused with unique superpowers, harness their abilities in order to save the world.
-4. Movie: Beauty and the Beast
-Genre: Family, Fantasy, Musical
-Description: An adaptation of the Disney fairy tale about a monstrous-looking prince and a young woman who fall in love.
-5. Movie: Justice League
-Genre: Action, Adventure, Fantasy
-Description: Fueled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne enlists the help of his newfound ally, Diana Prince, to face an even greater enemy.
-6. Movie: Fifty Shades Darker
-Genre: Drama, Romance
-Description: While Christian wrestles with his inner demons, Anastasia must confront the anger and envy of the women who came before her.
-7. Movie: A Dog's Purpose
-Genre: Adventure, Comedy, Drama
-Description: A dog looks to discover his purpose in life over the course of several lifetimes and owners.
-8. Movie: The Bye Bye Man
-Genre: Horror, Thriller
-Description: Three friends stumble upon the horrific origins of a mysterious figure they discover is the root cause of the evil behind unspeakable acts.
-9. Movie: It
-Genre: Drama, Horror, Thriller
-Description: In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.
-10. Movie: Alien: Covenant
-Genre: Sci-Fi, Thriller
-Description: The crew of the colony ship Covenant, bound for a remote planet on the far side of the galaxy, discover what they think is an uncharted paradise, but is actually a dark, dangerous world. When they uncover a threat beyond their imagination, they must attempt a harrowing escape.
-11. Movie: Death Race 2050
-Genre: Action, Comedy, Sci-Fi
-Description: In the year 2050 the planet has become overpopulated, to help control population the government develops a "Death Race." Annually competitors race across the country scoring points for ...See full summary&nbsp;&raquo;
-12. Movie: CHIPS
-Genre: Action, Comedy, Crime
-Description: The adventures of two California Highway Patrol motorcycle officers as they make their rounds on the freeways of Los Angeles.
-13. Movie: Clinical
-Genre: Thriller
-Description: A psychiatrist tries to put her life back together after a violent attack by seeking to repair the life of a new patient, but he has his own terrifying history.
-14. Movie: T2 Trainspotting
-Genre: Drama
-Description: A continuation of the Trainspotting saga reuniting the original characters.
-15. Movie: Thor: Ragnarök
-Genre: Action, Adventure, Fantasy
-Description: Thor must face the Hulk in a gladiator match and save his people from the ruthless Hela.
-16. Movie: Star Wars: Episode VIII - The Last Jedi
-Genre: Action, Adventure, Fantasy
-Description: Having taken her first steps into a larger world inStar Wars: Episode VII - The Force Awakens(2015), Rey continues her epic journey with Finn, Poe and Luke Skywalker in the next chapter of the saga.
-17. Movie: Transformers: The Last Knight
-Genre: Action, Adventure, Sci-Fi
-Description: Plot is unknown.
-18. Movie: Pirates of the Caribbean: Dead Men Tell No Tales
-Genre: Action, Adventure, Comedy
-Description: Captain Jack Sparrow searches for the trident of Poseidon.
-19. Movie: The LEGO Batman Movie
-Genre: Animation, Action, Adventure
-Description: Bruce Wayne must not only deal with the criminals of Gotham City, but also the responsibility of raising a boy he adopted.
-20. Movie: Sleepless
-Genre: Action, Crime, Thriller
-Description: A cop with a connection to the criminal underworld scours a nightclub in search of his kidnapped son.
-21. Movie: The Fate of the Furious
-Genre: Action, Crime, Thriller
-Description: When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before.
-22. Movie: Guardians of the Galaxy Vol. 2
-Genre: Action, Sci-Fi
-Description: Set to the backdrop of Awesome Mixtape #2, 'Guardians of the Galaxy Vol. 2' continues the team's adventures as they unravel the mystery of Peter Quill's true parentage.
-23. Movie: Spider-Man: Homecoming
-Genre: Action, Adventure, Sci-Fi
-Description: A young Peter Parker/Spider-Man begins to navigate his newfound identity as the web-slinging superhero.
-24. Movie: John Wick: Chapter 2
-Genre: Action, Crime, Thriller
-Description: The continuing adventures of former hitman, John Wick.
-25. Movie: Wilson
-Genre: Comedy
-Description: A lonely, neurotic and hilariously honest middle-aged man reunites with his estranged wife and meets his teenage daughter for the first time.
-26. Movie: The Dark Tower
-Genre: Action, Adventure, Fantasy
-Description: The Gunslinger, Roland Deschain, roams an Old West-like landscape where "the world has moved on" in pursuit of the man in black. Also searching for the fabled Dark Tower, in the hopes that reaching it will preserve his dying world.
-27. Movie: Wonder Woman
-Genre: Action, Adventure, Fantasy
-Description: An Amazon princess leaves her island home to explore the world and, in doing so, becomes one of the world's greatest heroes.
-28. Movie: Dunkirk
-Genre: Action, Drama, Thriller
-Description: Allied soldiers from Belgium, the British Empire, Canada, and France are surrounded by the German army and evacuated during a fierce battle in World War II.
-29. Movie: Jekyll Island
-Genre: Crime, Thriller
-Description: In the not so distant future, a team of white collar criminals are enlisted by the Federal government to thwart a cyber-attack that threatens to bankrupt the United States of America.
-30. Movie: Cars 3
-Genre: Animation, Adventure, Comedy
-Description: Lightning McQueen sets out to prove to a new generation of racers that he's still the best race car in the world.
-31. Movie: Jumanji
-Genre: Adventure, Family, Fantasy
-Description: In a brand new Jumanji adventure, the tables are turned as four teenagers are sucked into Jumanji's world - pitted against rhinos, black mambas and an endless variety of jungle traps and ...See full summary&nbsp;&raquo;
-32. Movie: Rings
-Genre: Drama, Horror
-Description: A young woman finds herself on the receiving end of a terrifying curse that threatens to take her life in 7 days.
-33. Movie: Baywatch
-Genre: Comedy
-Description: Two unlikely prospective lifeguards vie for jobs alongside the buff bodies who patrol a beach in California.
-34. Movie: XX
-Genre: Horror
-Description: An all female horror anthology featuring new work from Karyn Kusama, Annie Clark, Roxanne Benjamin and Jovanka Vuckovic.
-35. Movie: Blade Runner 2049
-Genre: Sci-Fi
-Description: Thirty years after the events of the first film, a new blade runner, LAPD Officer K (Ryan Gosling), unearths a long-buried secret that has the potential to plunge what's left of society ...See full summary&nbsp;&raquo;
-36. Movie: Song to Song
-Genre: Drama, Music, Romance
-Description: Two intersecting love triangles. Obsession and betrayal set against the music scene in Austin, Texas.
-37. Movie: Kong: Skull Island
-Genre: Action, Adventure, Fantasy
-Description: A team of explorers and soldiers travel to an uncharted island in the Pacific, unaware that they are crossing into the domain of monsters, including the mythic Kong.
-38. Movie: Ghost in the Shell
-Genre: Action, Drama, Sci-Fi
-Description: A cyborg policewoman attempts to bring down a nefarious computer hacker.
-39. Movie: Raees
-Genre: Action, Crime, Thriller
-Description: Criticizing the prohibition of alcohol, prostitution and illegal drugs in Gujarat, this film unfolds the story of a cruel and clever bootlegger, whose business is challenged by a tough cop.
-40. Movie: The Space Between Us
-Genre: Adventure, Drama, Romance
-Description: The first human born on Mars travels to Earth for the first time, experiencing the wonders of the planet through fresh eyes. He embarks on an adventure with a street smart girl to discover how he came to be.
-41. Movie: The Mummy
-Genre: Action, Adventure, Fantasy
-Description: An ancient princess is awakened from her crypt beneath the desert, bringing with her malevolence grown over millennia, and terrors that defy human comprehension.
-42. Movie: OK Jaanu
-Genre: Drama, Romance
-Description: Adi and Tara move to Mumbai to pursue their dreams. A chance meeting sparks off a heady, no strings attached romance until their careers pull them apart. Will ambition prevail over matters of the heart?
-43. Movie: Bad Kids of Crestview Academy
-Genre: Action, Comedy, Thriller
-Description: DETENTION SUCKS BUT IT'S KILLER FUN: It's four years later, and a new group of students has been placed in Saturday detention at the infamous and prestigious Crestview Academy. When ...See full summary&nbsp;&raquo;
-44. Movie: Lost in London
-Genre: Comedy, Drama
-Description: Within the course of a night, Woody Harrelson finds himself in a misadventure in London that winds him up in prison.
-45. Movie: Wonder
-Genre: Drama
-Description: A young boy born with a facial deformity is destined to fit in at a new school, and to make everyone understand he's just another ordinary kid, and that beauty isn't skin deep.
-46. Movie: All Eyez on Me
-Genre: Biography, Drama, Music
-Description: A chronicle of the life of rapperTupac Shakur.
-47. Movie: The Emoji Movie
-Genre: Animation, Comedy, Family
-Description: Gene, a muli-expressional emoji, sets out on a journey to become a normal emoji.
-48. Movie: King Arthur: Legend of the Sword
-Genre: Action, Adventure, Drama
-Description: Feature film version of the classic King Arthur story.
-49. Movie: Kingsman: The Golden Circle
-Genre: Action, Adventure, Comedy
-Description: When an attack on the Kingsman headquarters takes place and a new villain rises, Eggsy and Merlin are forced to work together with the American agency Statesman to save the world.
-50. Movie: A Cure for Wellness
-Genre: Mystery, Thriller
-Description: An ambitious young executive is sent to retrieve his company's CEO from an idyllic but mysterious "wellness center" at a remote location in the Swiss Alps but soon suspects that the spa's miraculous treatments are not what they seem.
+1. Movie: The Greatest Showman
+2. Movie: Thor: Ragnarok
+3. Movie: Hostiles
+4. Movie: Jumanji: Welcome to the Jungle
+5. Movie: Disobedience
+6. Movie: You Were Never Really Here
+7. Movie: Star Wars: Episode VIII - The Last Jedi
+8. Movie: Guardians of the Galaxy Vol. 2
+9. Movie: Spider-Man: Homecoming
+10. Movie: The Shape of Water
+11. Movie: Kodachrome
+12. Movie: Coco
+13. Movie: Justice League
+14. Movie: The Post
+15. Movie: War for the Planet of the Apes
+16. Movie: Molly's Game
+17. Movie: Pitch Perfect 3
+18. Movie: Three Billboards Outside Ebbing, Missouri
+19. Movie: It
+20. Movie: Wonder Woman
+21. Movie: Get Out
+22. Movie: Blade Runner 2049
+23. Movie: Murder on the Orient Express
+24. Movie: All the Money in the World
+25. Movie: Revenge
+26. Movie: Ghost Stories
+27. Movie: Call Me by Your Name
+28. Movie: Atomic Blonde
+29. Movie: Ferdinand
+30. Movie: Wonder
+31. Movie: Beyond Skyline
+32. Movie: I, Tonya
+33. Movie: The Dark Tower
+34. Movie: Alien: Covenant
+35. Movie: Lady Bird
+36. Movie: Phantom Thread
+37. Movie: Baby Driver
+38. Movie: Logan
+39. Movie: Baywatch
+40. Movie: Beauty and the Beast
+41. Movie: Chappaquiddick
+42. Movie: Dunkirk
+43. Movie: Downsizing
+44. Movie: Wind River
+45. Movie: Beast
+46. Movie: Valerian and the City of a Thousand Planets
+47. Movie: Girls Trip
+48. Movie: The Death of Stalin
+49. Movie: Darkest Hour
+50. Movie: Kings

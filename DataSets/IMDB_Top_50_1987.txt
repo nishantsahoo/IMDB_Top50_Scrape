@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 1987-01-01 to 1987-12-31 : 
-1. Movie: The Princess Bride
-Genre: Adventure, Family, Fantasy
-Description: While home sick in bed, a young boy's grandfather reads him a story called The Princess Bride.
-2. Movie: RoboCop
-Genre: Action, Crime, Sci-Fi
-Description: In a dystopic and crime-ridden Detroit, a terminally wounded cop returns to the force as a powerful cyborg haunted by submerged memories.
-3. Movie: Dirty Dancing
-Genre: Drama, Music, Romance
-Description: Spending the summer at a Catskills resort with her family, Frances "Baby" Houseman falls in love with the camp's dance instructor, Johnny Castle.
-4. Movie: Full Metal Jacket
-Genre: Drama, War
-Description: A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.
-5. Movie: Predator
-Genre: Action, Sci-Fi, Thriller
-Description: A team of commandos on a mission in a Central American jungle find themselves hunted by an extraterrestrial warrior.
-6. Movie: Spaceballs
-Genre: Adventure, Comedy, Sci-Fi
-Description: Planet Spaceballs' President Skroob sends Lord Dark Helmet to steal planet Druidia's abundant supply of air to replenish their own, and only Lone Starr can stop them.
-7. Movie: Lethal Weapon
-Genre: Action, Crime, Thriller
-Description: A veteran policeman, Murtaugh, is partnered with a younger, suicidal officer, Riggs. They both have one thing in common: hating working in pairs. Now they must learn to work with one another to stop a gang of drug smugglers.
-8. Movie: The Untouchables
-Genre: Crime, Drama, Thriller
-Description: Federal Agent Eliot Ness sets out to stop Al Capone; because of rampant corruption, he assembles a small, hand-picked team.
-9. Movie: The Last Emperor
-Genre: Biography, Drama, History
-Description: The story of the final Emperor of China.
-10. Movie: The Lost Boys
-Genre: Comedy, Horror
-Description: After moving to a new town, two brothers discover that the area is a haven for vampires.
-11. Movie: Summer School
-Genre: Comedy, Romance
-Description: A high-school gym teacher has big plans for the summer, but is forced to cancel them to teach a "bonehead" English class for misfit goof-off students. Fortunately, his unconventional brand ...See full summary&nbsp;&raquo;
-12. Movie: Hellraiser
-Genre: Horror, Thriller
-Description: An unfaithful wife encounters the zombie of her dead lover; demons are pursuing him after he escaped their sadomasochistic underworld.
-13. Movie: Moonstruck
-Genre: Comedy, Drama, Romance
-Description: Loretta Castorini, a book keeper from Brooklyn, New York, finds herself in a difficult situation when she falls for the brother of the man she has agreed to marry.
-14. Movie: Empire of the Sun
-Genre: Drama, History, War
-Description: A young English boy struggles to survive under Japanese occupation during World War II.
-15. Movie: Harry and the Hendersons
-Genre: Comedy, Family, Fantasy
-Description: The Henderson family adopt a friendly Sasquatch but have a hard time trying to keep the legend of 'Bigfoot' a secret.
-16. Movie: Can't Buy Me Love
-Genre: Comedy, Drama, Romance
-Description: A nerdy outcast secretly pays the most popular girl in school one thousand dollars to be his girlfriend.
-17. Movie: Three O'Clock High
-Genre: Comedy
-Description: A nerd gets himself in hot water with the new bully, a quiet bad boy who challenges him to fight on the grounds of their high school after the day's end.
-18. Movie: Fatal Attraction
-Genre: Drama, Thriller
-Description: A married man's one-night stand comes back to haunt him when that lover begins to stalk him and his family.
-19. Movie: Adventures in Babysitting
-Genre: Action, Adventure, Comedy
-Description: A babysitter must battle her way through the big city after being stranded there with the kids she's looking after.
-20. Movie: Wall Street
-Genre: Crime, Drama
-Description: A young and impatient stockbroker is willing to do anything to get to the top, including trading on illegal inside information taken through a ruthless and greedy corporate raider who takes the youth under his wing.
-21. Movie: Roxanne
-Genre: Comedy, Romance
-Description: Based on the play "Cyrano de Bergerac", large nosed C.D. Bales falls for the beautiful Roxanne while she falls for his personality but another man's looks.
-22. Movie: The Running Man
-Genre: Action, Crime, Sci-Fi
-Description: A wrongly convicted man must try to survive a public execution gauntlet staged as a game show.
-23. Movie: Masters of the Universe
-Genre: Action, Adventure, Fantasy
-Description: The heroic warrior He-Man battles against lord Skeletor and his armies of darkness for control of Castle Grayskull.
-24. Movie: Superman IV: The Quest for Peace
-Genre: Action, Adventure, Family
-Description: The Man of Steel crusades for nuclear disarmament and meets Lex Luthor's latest creation, Nuclear Man.
-25. Movie: Overboard
-Genre: Comedy, Romance
-Description: A cruel but beautiful heiress screws over a hired carpenter, who later is the first one to find her when she gets amnesia. Looking for a little revenge he convinces her that she's his wife.
-26. Movie: Mannequin
-Genre: Comedy, Fantasy, Romance
-Description: A young artist, searching for his vocation, makes a mannequin so perfect he falls in love with it. Finding the mannequin in a store window, he gets a job there and his creation comes to life.
-27. Movie: Evil Dead II
-Genre: Comedy, Fantasy, Horror
-Description: The lone survivor of an onslaught of flesh-possessing spirits holes up in a cabin with a group of strangers while the demons continue their attack.
-28. Movie: Raising Arizona
-Genre: Comedy, Crime
-Description: When a childless couple of an ex-con and an ex-cop decide to help themselves to one of another family's quintuplets, their lives become more complicated than they anticipated.
-29. Movie: The Witches of Eastwick
-Genre: Comedy, Fantasy, Horror
-Description: Three single women in a picturesque village have their wishes granted - at a cost - when a mysterious and flamboyant man arrives in their lives.
-30. Movie: La Bamba
-Genre: Biography, Drama, Music
-Description: Biographical story of the rise from nowhere of early rock and roll singer Ritchie Valens who died at age 17 in a plane crash with Buddy Holly and the Big Bopper.
-31. Movie: The Living Daylights
-Genre: Action, Adventure, Thriller
-Description: James Bond is living on the edge to stop an evil arms dealer from starting another world war. Bond crosses all seven continents in order to stop the evil Whitaker and General Koskov.
-32. Movie: Innerspace
-Genre: Action, Adventure, Comedy
-Description: A hapless store clerk must foil criminals to save the life of the man who, miniaturized in a secret experiment, was accidentally injected into him.
-33. Movie: Some Kind of Wonderful
-Genre: Drama, Romance
-Description: When Keith goes out with Amanda, the girl of his dreams, Amanda's ex-boyfriend plans to get back at Keith. Meanwhile, Keith's best friend, tomboy Watts, realizes she has feelings for Keith.
-34. Movie: *batteries not included
-Genre: Comedy, Family, Fantasy
-Description: Apartment block tenants seek the aid of alien mechanical life-forms to save their building from demolition.
-35. Movie: Angel Heart
-Genre: Crime, Horror, Mystery
-Description: Harry Angel is a private investigator. He is hired by a man who calls himself Louis Cyphre to track down a singer called Johnny Favorite. But the investigation takes an unexpected and somber turn.
-36. Movie: Police Academy 4: Citizens on Patrol
-Genre: Comedy, Crime
-Description: The misfitPolice Academy(1984) graduates now are assigned to train a group of civilian volunteers to fight crime once again plaguing the streets.
-37. Movie: Jaws: The Revenge
-Genre: Adventure, Horror, Thriller
-Description: Chief Brody's widow believes that her family is deliberately being targeted by another shark in search of revenge.
-38. Movie: No Way Out
-Genre: Action, Crime, Drama
-Description: A coverup and witchhunt occur after a politician accidentally kills his mistress.
-39. Movie: Good Morning, Vietnam
-Genre: Biography, Comedy, Drama
-Description: An unorthodox and irreverent DJ begins to shake up things when he is assigned to the U.S. Armed Services Radio station in Vietnam.
-40. Movie: Beverly Hills Cop II
-Genre: Action, Comedy, Crime
-Description: Axel Foley returns to Beverly Hills to help Taggart and Rosewood investigate Chief Bogomil's near-fatal shooting and the series of "alphabet crimes" associated with it.
-41. Movie: A Nightmare on Elm Street 3: Dream Warriors
-Genre: Action, Fantasy, Horror
-Description: Survivors of undead serial killer Freddy Krueger - who stalks his victims in their dreams - learn to take control of their own dreams in order to fight back.
-42. Movie: Planes, Trains &amp; Automobiles
-Genre: Comedy
-Description: A man must struggle to travel home for Thanksgiving with an obnoxious slob of a shower curtain ring salesman as his only companion.
-43. Movie: Over the Top
-Genre: Action, Drama, Sport
-Description: Tough trucker Lincoln Hawk is determined to win back his son and triumph at the world arm wrestling championships.
-44. Movie: 3 Men and a Baby
-Genre: Comedy, Drama, Family
-Description: Three bachelors find themselves forced to take care of a baby left by one of the guys' girlfriends.
-45. Movie: Der Himmel über Berlin
-Genre: Drama, Fantasy, Romance
-Description: An angel tires of overseeing human activity and wishes to become human when he falls in love with a mortal.
-46. Movie: Prince of Darkness
-Genre: Horror
-Description: A research team finds a mysterious cylinder in a deserted church. If opened, it could mean the end of the world.
-47. Movie: Less Than Zero
-Genre: Crime, Drama
-Description: A college freshman returns to L.A. for the holidays at his ex-girlfriend's request, but discovers that his former best friend has an out-of-control drug habit.
-48. Movie: The Monster Squad
-Genre: Action, Comedy, Family
-Description: A young group of monster fanatics attempt to save their hometown from Count Dracula and his monsters.
-49. Movie: Bad Taste
-Genre: Comedy, Horror, Sci-Fi
-Description: The population of a small town disappears and is replaced by aliens that chase human flesh for their intergalactic fast-food chain.
-50. Movie: Hamburger Hill
-Genre: Action, Drama, Thriller
-Description: A very realistic interpretation of one of the bloodiest battles of the Vietnam War.
+1. Movie: Full Metal Jacket
+2. Movie: The Princess Bride
+3. Movie: Overboard
+4. Movie: The Lost Boys
+5. Movie: Dirty Dancing
+6. Movie: Predator
+7. Movie: Spaceballs
+8. Movie: Lethal Weapon
+9. Movie: Adventures in Babysitting
+10. Movie: RoboCop
+11. Movie: Hellraiser
+12. Movie: The Running Man
+13. Movie: Can't Buy Me Love
+14. Movie: Evil Dead II
+15. Movie: The Untouchables
+16. Movie: Empire of the Sun
+17. Movie: Fatal Attraction
+18. Movie: Masters of the Universe
+19. Movie: Wall Street
+20. Movie: Some Kind of Wonderful
+21. Movie: The Witches of Eastwick
+22. Movie: Superman IV: The Quest for Peace
+23. Movie: Good Morning, Vietnam
+24. Movie: Less Than Zero
+25. Movie: Raising Arizona
+26. Movie: 3 Men and a Baby
+27. Movie: Angel Heart
+28. Movie: Mannequin
+29. Movie: La Bamba
+30. Movie: Jaws: The Revenge
+31. Movie: No Way Out
+32. Movie: Harry and the Hendersons
+33. Movie: The Last Emperor
+34. Movie: Planes, Trains & Automobiles
+35. Movie: Over the Top
+36. Movie: Moonstruck
+37. Movie: The Monster Squad
+38. Movie: *batteries not included
+39. Movie: Near Dark
+40. Movie: Der Himmel ber Berlin
+41. Movie: The Living Daylights
+42. Movie: A Nightmare on Elm Street 3: Dream Warriors
+43. Movie: Prince of Darkness
+44. Movie: Beverly Hills Cop II
+45. Movie: Innerspace
+46. Movie: Bad Taste
+47. Movie: Throw Momma from the Train
+48. Movie: Flowers in the Attic
+49. Movie: Summer School
+50. Movie: Cherry 2000

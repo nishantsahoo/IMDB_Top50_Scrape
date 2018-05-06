@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 1942-01-01 to 1942-12-31 : 
 1. Movie: Casablanca
-Genre: Drama, Romance, War
-Description: In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.
 2. Movie: Bambi
-Genre: Animation, Drama, Family
-Description: The story of a young deer growing up in the forest.
-3. Movie: Larceny, Inc.
-Genre: Comedy, Crime
-Description: Three ex-cons buy a luggage shop to tunnel into the bank vault next door. But despite all they can do, the shop prospers...
-4. Movie: To Be or Not to Be
-Genre: Comedy, War
-Description: During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy.
-5. Movie: Holiday Inn
-Genre: Comedy, Drama, Musical
-Description: At an inn which is only open on holidays, a crooner and a hoofer vie for the affections of a beautiful up-and-coming performer.
-6. Movie: Woman of the Year
-Genre: Comedy, Drama, Romance
-Description: Rival reporters Sam and Tess fall in love and get married, only to find their relationship strained when Sam comes to resent Tess' hectic lifestyle.
-7. Movie: The Magnificent Ambersons
-Genre: Drama, Romance
-Description: The spoiled young heir to the decaying Amberson fortune comes between his widowed mother and the man she has always loved.
+3. Movie: Mrs. Miniver
+4. Movie: Jungle Book
+5. Movie: Cat People
+6. Movie: To Be or Not to Be
+7. Movie: Yankee Doodle Dandy
 8. Movie: Saboteur
-Genre: Thriller, War
-Description: Aircraft factory worker Barry Kane goes on the run across the United States when he is wrongly accused of starting a fire that killed his best friend.
-9. Movie: Cat People
-Genre: Fantasy, Horror, Thriller
-Description: An American man marries a Serbian immigrant who fears that she will turn into the cat person of her homeland's fables if they are intimate together.
-10. Movie: Jungle Book
-Genre: Action, Adventure, Family
-Description: A boy raised by wolves tries to adapt to human village life.
-11. Movie: The Old Chisholm Trail
-Genre: Action, Music, Western
-Description: Dusty Gardner, bringing a herd up the Chisholm Trail, is looking for water. Belle Turner has water but wants an exorbitant price for it. When Dusty and his men start a well, Belle and her ...See full summary&nbsp;&raquo;
-12. Movie: Now, Voyager
-Genre: Drama, Romance
-Description: A frumpy spinster blossoms under therapy and becomes an elegant, independent woman.
-13. Movie: Mrs. Miniver
-Genre: Drama, Romance, War
-Description: A British family struggles to survive the first months of World War II.
-14. Movie: Yankee Doodle Dandy
-Genre: Biography, Drama, Musical
-Description: The life of the renowned musical composer, playwright, actor, dancer, and singerGeorge M. Cohan.
-15. Movie: Flying Tigers
-Genre: Action, Drama, War
-Description: Capt. Jim Gordon's command of the famed American mercenary fighter group in China is complicated by the recruitment of an old friend who is a reckless hotshot.
-16. Movie: Road to Morocco
-Genre: Adventure, Comedy, Family
-Description: Two carefree castaways on a desert shore find an Arabian Nights city, where they compete for the luscious Princess Shalmar.
+9. Movie: Now, Voyager
+10. Movie: The Pride of the Yankees
+11. Movie: Holiday Inn
+12. Movie: Random Harvest
+13. Movie: The Magnificent Ambersons
+14. Movie: Sherlock Holmes and the Secret Weapon
+15. Movie: I Married a Witch
+16. Movie: Tarzan's New York Adventure
 17. Movie: This Gun for Hire
-Genre: Crime, Drama, Film-Noir
-Description: When assassin Philip Raven shoots a blackmailer and his beautiful female companion dead, he is paid off in marked bills by his treasonous employer who is working with foreign spies.
-18. Movie: The Pride of the Yankees
-Genre: Biography, Drama, Romance
-Description: The story of the life and career of the famed baseball player, Lou Gehrig.
-19. Movie: I Married a Witch
-Genre: Comedy, Fantasy, Romance
-Description: A beautiful 17th-century witch returns to life to plague politician Wallace Wooley, descendant of her persecutor.
-20. Movie: The Glass Key
-Genre: Crime, Drama, Film-Noir
-Description: A crooked politician finds himself being accused of murder by a gangster from whom he refused help during a re-election campaign.
-21. Movie: The Palm Beach Story
-Genre: Comedy, Romance
-Description: An inventor needs cash to develop his big idea. His wife, who loves him, decides to raise it for him by divorcing him and marrying a millionaire.
-22. Movie: The Man Who Came to Dinner
-Genre: Comedy, Romance
-Description: When acerbic critic Sheridan Whiteside slips on the front steps of a provincial Ohio businessman's home and breaks his hip, he and his entourage take over the house indefinitely.
-23. Movie: The Major and the Minor
-Genre: Comedy, Romance
-Description: A woman disguises herself as a child to save on a train fare and is taken in charge by an army man who doesn't notice the truth.
-24. Movie: Kings Row
-Genre: Drama, Mystery, Romance
-Description: The dark side and hypocrisy of provincial American life is seen through the eyes of five children as they grow to adulthood at the turn-of-the-century.
-25. Movie: The First of the Few
-Genre: Adventure, Biography, Drama
-Description: Aircraft designer/patriot R. J. Mitchell, alarmed at growing German militarism, works to perfect a defense against the German Messerschmidt at the cost of his health.
-26. Movie: Random Harvest
-Genre: Drama, Romance
-Description: An amnesiac World War I vet falls in love with a music hall star, only to suffer an accident which restores his original memories but erases his post-War life.
-27. Movie: Reap the Wild Wind
-Genre: Action, Adventure, Drama
-Description: Florida ship salvager, Loxi, falls for Jack, captain of a ship wrecked on the Key West shore. However, their romance is complicated by the arrival of another suitor, and eventually leads to tragedy.
-28. Movie: Across the Pacific
-Genre: Action, Adventure, Drama
-Description: Rick Leland makes no secret of the fact he has no loyalty to his home country after he is court-martialed, kicked out of the Army, and boards a Japanese ship for the Orient in late 1941. ...See full summary&nbsp;&raquo;
-29. Movie: The Talk of the Town
-Genre: Comedy, Drama, Romance
-Description: An escaped prisoner and a stuffy law professor vie for the hand of a spirited schoolteacher.
-30. Movie: For Me and My Gal
-Genre: Musical, Romance, War
-Description: Two vaudeville performers fall in love, but find their relationship tested by the arrival of WWI.
-31. Movie: The Black Swan
-Genre: Action, Adventure, Drama
-Description: An ex-pirate contends with rowdy buccaneers and a love-hate relationship with an aristocratic woman who's tougher than she seems.
-32. Movie: My Favorite Spy
-Genre: Comedy, Musical
-Description: Kay Kyser is late to his wedding. He is taking a short cut through Central Park when he finds out that he is in the army and is due to check in that afternoon. It turns out that the army ...See full summary&nbsp;&raquo;
-33. Movie: The Spoilers
-Genre: Drama, Western
-Description: In Nome, Alaska, miner Roy Glennister and his partner Dextry, financed by saloon entertainer Cherry Malotte, fight to save their gold claim from crooked commissioner Alexander McNamara.
-34. Movie: Keeper of the Flame
-Genre: Drama, Mystery
-Description: Journalist Steve O'Malley wants to write a biography of a national hero who died when his car ran off a bridge. Steve receives conflicting reports and tales that make him question what the truth about the hero is.
-35. Movie: In Which We Serve
-Genre: Drama, War
-Description: This "story of a ship," the British destroyer HMS Torrin, is told in flash backs by survivors as they cling to a life raft.
-36. Movie: All Through the Night
-Genre: Action, Comedy, Crime
-Description: Runyonesque Broadway gamblers turn patriotic when they stumble onto a cell of Nazi saboteurs.
-37. Movie: You Were Never Lovelier
-Genre: Comedy, Musical, Romance
-Description: The Acunas, a rich Argentine family, have the tradition that the daughters have to get married in order, oldest first. When sister #1 gets married, sisters #3 and #4 put pressure on Maria, ...See full summary&nbsp;&raquo;
-38. Movie: Sherlock Holmes and the Secret Weapon
-Genre: Adventure, Crime, Drama
-Description: Sherlock Holmes and Doctor Watson must protect a Swiss inventor of an advanced bomb sight from falling into German hands.
-39. Movie: Arabian Nights
-Genre: Action, Adventure
-Description: The caliph of Baghdad must go into hiding with a group of traveling performers when his brother usurps the throne. Both brothers desire a beautiful dancing girl, who is torn between power and true love.
-40. Movie: One of Our Aircraft Is Missing
-Genre: Action, Adventure, Drama
-Description: When Nazi anti-aircraft fire damages a British bomber, its crew bails out and seeks help from the Dutch underground.
-41. Movie: In This Our Life
-Genre: Drama
-Description: A young woman (Stanley Timberlake) dumps her fiance (Craig Fleming) and runs off with her sister's (Roy Timberlake) husband (Peter Kingsmill). They marry, settle in Baltimore, and Stanley ...See full summary&nbsp;&raquo;
-42. Movie: Tortilla Flat
-Genre: Comedy, Drama, Romance
-Description: Danny, a poor northern Californian Mexican-American, inherits two houses from his grandfather and is quickly taken advantage of by his vagabond friends.
-43. Movie: Sherlock Holmes and the Voice of Terror
-Genre: Crime, Thriller, Mystery
-Description: When a Nazi saboteur jeeringly predicts to the nation new depredations, via their radio 'Voice of Terror', the Intellegence Inner Council summons Sherlock Holmes (Basil Rathbone) to help in...See full summary&nbsp;&raquo;
-44. Movie: Went the Day Well?
-Genre: Thriller, War
-Description: An English village is occupied by disguised German paratroopers as an advance post for a planned invasion.
-45. Movie: The Ghost of Frankenstein
-Genre: Drama, Horror, Sci-Fi
-Description: When Ygor brings the Monster to Dr. Ludwig Frankenstein for care, Ludwig gets the idea of replacing the Monster's current criminal brain with a normal one.
-46. Movie: Tales of Manhattan
-Genre: Comedy, Drama, Romance
-Description: A formal tailcoat that gets passed from one owner to another affects each life in a significant way.
-47. Movie: Once Upon a Honeymoon
-Genre: Adventure, Comedy, Drama
-Description: In Europe at the start of World War II, a woman notices that wherever her husband goes, the Nazis seem to follow. Meanwhile, a charming reporter is following them.
-48. Movie: Son of Fury: The Story of Benjamin Blake
-Genre: Adventure, Drama, Romance
-Description: Cheated out of his estate by his sadistic uncle, young Benjamin Blake goes to the South Seas to make his fortune so he can return to claim his birthright.
-49. Movie: Gentleman Jim
-Genre: Biography, Drama, Romance
-Description: As bareknuckled boxing enters the modern era, brash extrovert Jim Corbett uses new rules and dazzlingly innovative footwork to rise to the top of the top of the boxing world.
-50. Movie: Orchestra Wives
-Genre: Drama, Musical, Romance
-Description: Connie Ward is in seventh heaven when Gene Morrison's band rolls into town. She is swept off her feet by trumpeter Bill Abbot. After marrying him, she joins the bands tour and learns about ...See full summary&nbsp;&raquo;
+18. Movie: Woman of the Year
+19. Movie: Kings Row
+20. Movie: Red River Robin Hood
+21. Movie: Tales of Manhattan
+22. Movie: Captains of the Clouds
+23. Movie: Roxie Hart
+24. Movie: Road to Morocco
+25. Movie: Reap the Wild Wind
+26. Movie: The Talk of the Town
+27. Movie: The Major and the Minor
+28. Movie: The Man Who Came to Dinner
+29. Movie: Went the Day Well?
+30. Movie: The Black Swan
+31. Movie: Desperate Journey
+32. Movie: In Which We Serve
+33. Movie: Sherlock Holmes and the Voice of Terror
+34. Movie: The Palm Beach Story
+35. Movie: All Through the Night
+36. Movie: In This Our Life
+37. Movie: I Married an Angel
+38. Movie: Crossroads
+39. Movie: The Ghost of Frankenstein
+40. Movie: White Cargo
+41. Movie: Across the Pacific
+42. Movie: Orchestra Wives
+43. Movie: Who Done It?
+44. Movie: Tortilla Flat
+45. Movie: For Me and My Gal
+46. Movie: The Spoilers
+47. Movie: The Fleet's In
+48. Movie: The Glass Key
+49. Movie: Hopeakihlajaiset
+50. Movie: Once Upon a Honeymoon

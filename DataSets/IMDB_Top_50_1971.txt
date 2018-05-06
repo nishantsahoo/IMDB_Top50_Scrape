@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 1971-01-01 to 1971-12-31 : 
 1. Movie: A Clockwork Orange
-Genre: Crime, Drama, Sci-Fi
-Description: In future Britain, Alex DeLarge, a charismatic and psycopath delinquent, who likes to practice crimes and ultra-violence with his gang, is jailed and volunteers for an experimental aversion therapy developed by the government in an effort to solve society's crime problem - but not all goes according to plan.
-2. Movie: Willy Wonka &amp; the Chocolate Factory
-Genre: Family, Fantasy, Musical
-Description: Charlie receives a golden ticket to a factory, his sweet tooth wants going into the lushing candy, it turns out there's an adventure in everything.
-3. Movie: Dirty Harry
-Genre: Action, Crime, Drama
-Description: When a mad man calling himself 'the Scorpio Killer' menaces the city, tough as nails San Francisco Police Inspector Harry Callahan is assigned to track down and ferret out the crazed psychopath.
-4. Movie: Bedknobs and Broomsticks
-Genre: Animation, Adventure, Comedy
-Description: An apprentice witch, three kids and a cynical conman search for the missing component to a magic spell useful to the defense of Britain.
-5. Movie: Big Jake
-Genre: Western
-Description: In 1909, when John Fain's gang kidnaps Big Jake McCandles' grandson and hold him for ransom, Big Jake sets out to rescue the boy.
-6. Movie: The Last Picture Show
-Genre: Drama
-Description: In 1951, a group of high schoolers come of age in a bleak, isolated, atrophied West Texas town that is slowly dying, both culturally and economically.
-7. Movie: Fiddler on the Roof
-Genre: Drama, Family, Musical
-Description: In prerevolutionary Russia, a Jewish peasant contends with marrying off three of his daughters while growing anti-Semitic sentiment threatens his village.
-8. Movie: The French Connection
-Genre: Action, Crime, Drama
-Description: A pair of NYC cops in the Narcotics Bureau stumble onto a drug smuggling job with a French connection.
-9. Movie: Harold and Maude
-Genre: Comedy, Drama, Romance
-Description: Young, rich, and obsessed with death, Harold finds himself changed forever when he meets lively septuagenarian Maude at a funeral.
-10. Movie: Diamonds Are Forever
-Genre: Action, Adventure, Thriller
-Description: A diamond smuggling investigation leads James Bond to Las Vegas, where he uncovers an evil plot involving a rich business tycoon.
-11. Movie: Get Carter
-Genre: Crime, Thriller
-Description: When his brother dies under mysterious circumstances in a car accident, London gangster Jack Carter travels to Newcastle to investigate.
-12. Movie: Hannie Caulder
-Genre: Crime, Drama, Western
-Description: After she is raped and her husband murdered, a woman hires a bounty hunter to instruct her in the use of a gun so she can get her revenge on the three outlaws responsible.
-13. Movie: THX 1138
-Genre: Crime, Drama, Sci-Fi
-Description: Set in the 25th century, the story centers around a man and a woman who rebel against their rigidly controlled society.
-14. Movie: Vanishing Point
-Genre: Action, Crime, Thriller
-Description: During the 1970s, car delivery driver Kowalski delivers hot rods in record time but always runs into trouble with the highway cops.
-15. Movie: Twins of Evil
-Genre: Horror
-Description: A religious sect led by Gustav Weil hunts all women suspected of witchcraft, killing a number of innocent victims. Young Katy, Gustav's niece, will involve herself in a devilish cult, and become an instrument of Justice in the region.
-16. Movie: Straw Dogs
-Genre: Crime, Drama, Thriller
-Description: A young American and his English wife come to rural England and face increasingly vicious local harassment.
-17. Movie: The Devils
-Genre: Biography, Drama, History
-Description: In 17th-century France, Father Urbain Grandier seeks to protect the city of Loudun from the corrupt establishment of Cardinal Richelieu. Hysteria occurs within the city when he is accused of witchcraft by a sexually repressed nun.
+2. Movie: Willy Wonka & the Chocolate Factory
+3. Movie: The French Connection
+4. Movie: Dirty Harry
+5. Movie: Harold and Maude
+6. Movie: Bedknobs and Broomsticks
+7. Movie: Billy Jack
+8. Movie: Carnal Knowledge
+9. Movie: The Beguiled
+10. Movie: The Last Picture Show
+11. Movie: Fiddler on the Roof
+12. Movie: Straw Dogs
+13. Movie: Diamonds Are Forever
+14. Movie: The Panic in Needle Park
+15. Movie: Two-Lane Blacktop
+16. Movie: The Devils
+17. Movie: Vanishing Point
 18. Movie: Walkabout
-Genre: Adventure, Drama
-Description: Two young siblings are stranded in the Australian Outback and are forced to cope on their own. They meet an Australian boy on "walkabout": a ritual separation from his tribe.
-19. Movie: Anand
-Genre: Drama
-Description: The story of a terminally ill man who wishes to live life to the full before the inevitable occurs, as told by his best friend.
-20. Movie: Play Misty for Me
-Genre: Thriller
-Description: A brief fling between a male disc jockey and an obsessed female fan takes a frightening, and perhaps even deadly turn when another woman enters the picture.
-21. Movie: The Omega Man
-Genre: Action, Sci-Fi, Thriller
-Description: Army doctor Robert Neville struggles to create a cure for the plague that wiped out most of the human race.
-22. Movie: Klute
-Genre: Crime, Mystery, Thriller
-Description: A small-town detective searching for a missing man has only one lead: a connection with a New York prostitute.
-23. Movie: The Andromeda Strain
-Genre: Sci-Fi, Thriller
-Description: A group of scientists investigate a deadly new alien virus before it can spread.
-24. Movie: Chinmoku
-Genre: Drama, History
-Description: Two Jesuit priests encounter persecution when they travel to Japan in the 17th century to spread Christianity and to locate their mentor.
-25. Movie: Summer of '42
-Genre: Comedy, Drama, Romance
-Description: During his summer vacation on Nantucket Island in 1942, a youth eagerly awaiting his first sexual encounter finds himself developing an innocent love for a young woman awaiting news on her soldier husband's fate in WWII.
-26. Movie: The Beguiled
-Genre: Drama, Thriller, Western
-Description: While imprisoned in a Confederate girls' boarding school, an injured Union soldier cons his way into each of the lonely women's hearts, causing them to turn on each other, and eventually, on him.
-27. Movie: Le Mans
-Genre: Action, Adventure, Drama
-Description: Almost in breadth and depth of a documentary, this movie depicts an auto race during the 70s on the world's hardest endurance course: Le Mans in France. The race goes over 24 hours on 14.5 ...See full summary&nbsp;&raquo;
-28. Movie: Johnny Got His Gun
-Genre: Drama, War
-Description: A World War I soldier, rendered blind, deaf, limbless, and mute by a horrific artillery shell attack, finds a unique way of communicating with his doctors.
-29. Movie: Carnal Knowledge
-Genre: Drama
-Description: The concurrent sexual lives of best friends Jonathan and Sandy are presented, those lives which are affected by the sexual mores of the time and their own temperament, especially in ...See full summary&nbsp;&raquo;
-30. Movie: McCabe &amp; Mrs. Miller
-Genre: Drama, Western
-Description: A gambler and a prostitute become business partners in a remote Old West mining town, and their enterprise thrives until a large corporation arrives on the scene.
-31. Movie: Tang shan da xiong
-Genre: Action, Crime, Drama
-Description: A young man sworn to an oath of non-violence works with his cousins in an ice factory where they mysteriously begin to disappear.
-32. Movie: Plaza Suite
-Genre: Comedy, Drama, Romance
-Description: Three separate stories concerning relationship issues are presented, each largely taking place in suite 719 of the Plaza Hotel in New York City. In story one, suburban New Yorkers Sam and ...See full summary&nbsp;&raquo;
-33. Movie: Once Upon a Time... the Revolution
-Genre: War, Western
-Description: An I.R.A. explosives expert on the run in Mexico meets an amoral Mexican bandit; together they are drawn into the Mexican revolution.
-34. Movie: Shaft
-Genre: Action, Crime, Thriller
-Description: Cool black private eye John Shaft is hired by a crime lord to find and retrieve his kidnapped daughter.
-35. Movie: The Panic in Needle Park
-Genre: Drama
-Description: Follows the lives of heroin addicts who frequent "Needle Park" in New York City.
-36. Movie: The Tragedy of Macbeth
-Genre: Biography, Drama, History
-Description: A ruthlessly ambitious Scottish lord seizes the throne with the help of his scheming wife and a trio of witches.
-37. Movie: Wake in Fright
-Genre: Drama, Thriller
-Description: After a bad gambling bet, a schoolteacher is marooned in a town full of crazy, drunk, violent men who threaten to make him just as crazy, drunk, and violent.
-38. Movie: Soleil rouge
-Genre: Action, Western
-Description: In 1870, a gang robs a train and steals a ceremonial Japanese sword meant as a gift from Japan to the U.S. President, prompting a man hunt to retrieve it.
-39. Movie: Escape from the Planet of the Apes
-Genre: Action, Sci-Fi
-Description: The world is shocked by the appearance of three talking chimpanzees, who arrived mysteriously in a U.S. spacecraft. They become the toast of society; but one man believes them to be a threat to the human race.
+19. Movie: Play Misty for Me
+20. Movie: THX 1138
+21. Movie: Anand
+22. Movie: Once Upon a Time... the Revolution
+23. Movie: Big Jake
+24. Movie: The Andromeda Strain
+25. Movie: The Omega Man
+26. Movie: Klute
+27. Movie: Skin Game
+28. Movie: Escape from the Planet of the Apes
+29. Movie: Shaft
+30. Movie: Get Carter
+31. Movie: Wild Rovers
+32. Movie: Johnny Got His Gun
+33. Movie: Taking Off
+34. Movie: The Tragedy of Macbeth
+35. Movie: Hannie Caulder
+36. Movie: Il Decameron
+37. Movie: Bananas
+38. Movie: The Go-Between
+39. Movie: Le Mans
 40. Movie: Morte a Venezia
-Genre: Drama
-Description: In this adaptation of the Thomas Mann novel, avant-garde composer Gustave Aschenbach (loosely based on Gustav Mahler) travels to a Venetian seaside resort in search of repose after a period...See full summary&nbsp;&raquo;
-41. Movie: Billy Jack
-Genre: Action, Drama
-Description: Ex-Green Beret hapkido expert saves wild horses from being slaughtered for dog food and helps protect a desert "freedom school" for runaway.
-42. Movie: Two-Lane Blacktop
-Genre: Drama
-Description: A story of two men drag-racing across the U.S. in a primer grey '55 Chevy. Dennis Wilson is the mechanic, James Taylor is the driver.
-43. Movie: Bananas
-Genre: Comedy
-Description: When a bumbling New Yorker is dumped by his activist girlfriend, he travels to a tiny Latin American nation and becomes involved in its latest rebellion.
-44. Movie: Maid in Sweden
-Genre: Drama
-Description: Maid in Sweden tells the story of Inga, a 16-year-old Swedish girl who leaves her rural home to spend a weekend in the Swedish capital. An innocent with no experience, but with prodigious ...See full summary&nbsp;&raquo;
-45. Movie: Nicholas and Alexandra
-Genre: Biography, Drama, History
-Description: Tsar Nicholas II, the inept monarch of Russia, insensitive to the needs of his people, is overthrown and exiled to Siberia with his family.
-46. Movie: Continuavano a chiamarlo Trinità
-Genre: Comedy, Western
-Description: Bambino tries to teach his brother Trinity how to become an outlaw, but the two wind up saving a pioneer family and breaking up an arms ring instead.
-47. Movie: 10 Rillington Place
-Genre: Biography, Crime, Drama
-Description: Based on the real-life case of the British serial killer John Christie, and what happened to his neighbours Tim and Beryl Evans.
-48. Movie: Pretty Maids All in a Row
-Genre: Comedy, Crime, Mystery
-Description: California State Police Captain Sam Surcher investigates a string of teenage girl murders at Oceanfront High School.
-49. Movie: Man in the Wilderness
-Genre: Adventure, Drama, Western
-Description: In the early 1800's, a group of fur trappers and Indian traders are returning with their goods to civilisation and are making a desperate attempt to beat the oncoming winter. When guide ...See full summary&nbsp;&raquo;
-50. Movie: Taking Off
-Genre: Comedy, Drama, Music
-Description: Unable to deal with her parents, Jeannie Tyne runs away from home. Larry and Lyne Tyne search for her, and in the process meet other people whose children ran away. With their children gone...See full summary&nbsp;&raquo;
+41. Movie: Summer of '42
+42. Movie: Support Your Local Gunfighter
+43. Movie: Willard
+44. Movie: Wake in Fright
+45. Movie: McCabe & Mrs. Miller
+46. Movie: Nicholas and Alexandra
+47. Movie: Sunday Bloody Sunday
+48. Movie: Not Tonight, Darling
+49. Movie: And Now for Something Completely Different
+50. Movie: Pretty Maids All in a Row

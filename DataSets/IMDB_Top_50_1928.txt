@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 1928-01-01 to 1928-12-31 : 
 1. Movie: La passion de Jeanne d'Arc
-Genre: Biography, Drama, History
-Description: A chronicle of the trial of Jeanne d'Arc on charges of heresy, and the efforts of her ecclesiastical jurists to force Jeanne to recant her claims of holy visions.
-2. Movie: The Circus
-Genre: Comedy, Romance
-Description: The Tramp finds work and the girl of his dreams at a circus.
-3. Movie: The Man Who Laughs
-Genre: Drama, Horror, Mystery
-Description: When a proud noble refuses to kiss the hand of the despotic King James in 1690, he is cruelly executed and his son surgically disfigured.
-4. Movie: Beggars of Life
-Genre: Adventure, Drama
-Description: After killing her treacherous step-father, a girl tries to escape the country with a young vagabond. She dresses as a boy, they hop freight trains, quarrel with a group of hobos, and steal ...See full summary&nbsp;&raquo;
-5. Movie: Sadie Thompson
-Genre: Drama
-Description: A prostitute seeking a fresh start becomes the obsession of a religious extremist.
-6. Movie: Steamboat Bill, Jr.
-Genre: Action, Comedy, Drama
-Description: The effete son of a cantankerous riverboat captain comes to join his father's crew.
-7. Movie: The Cameraman
-Genre: Comedy, Romance, Family
-Description: Hopelessly in love with a woman working at MGM Studios, a clumsy man attempts to become a motion picture cameraman to be close to the object of his desire.
-8. Movie: The Wind
-Genre: Drama, Romance, Western
-Description: A frail young woman from the east moves in with her cousin in the west, where she causes tension within the family and is slowly driven mad.
-9. Movie: Oktyabr
-Genre: Drama, History
-Description: In documentary style, events in Petrograd are re-enacted from the end of the monarchy in February of 1917 to the end of the provisional government and the decrees of peace and of land in ...See full summary&nbsp;&raquo;
-10. Movie: The Crowd
-Genre: Drama, Romance
-Description: The life of a man and woman together in a large, impersonal metropolis through their hopes, struggles and downfalls.
-11. Movie: The Last Command
-Genre: Drama, History, Romance
-Description: A former Imperial Russian general and cousin of the Czar ends up in Hollywood as an extra in a movie directed by a former revolutionary.
+2. Movie: The Man Who Laughs
+3. Movie: The Circus
+4. Movie: The Crowd
+5. Movie: The Cameraman
+6. Movie: Noah's Ark
+7. Movie: Steamboat Bill, Jr.
+8. Movie: Speedy
+9. Movie: Sadie Thompson
+10. Movie: The Last Command
+11. Movie: Spione
 12. Movie: Show People
-Genre: Comedy, Romance
-Description: A young lady from Georgia goes to Hollywood in the hopes of becoming an actress.
-13. Movie: Speedy
-Genre: Action, Comedy, Family
-Description: Harold "Speedy" Swift, a fan of Babe Ruth and the New York Yankees, saves from extinction the city's last horse-drawn trolley, operated by his girlfriend's grandfather.
-14. Movie: La chute de la maison Usher
-Genre: Horror
-Description: Allan has a hard time finding the Usher's house, which is known to be cursed... But he is a personal friend of Roderick Usher, who lives with his sick wife Madeline and a doctor. Roderick ...See full summary&nbsp;&raquo;
-15. Movie: Noah's Ark
-Genre: Drama, War
-Description: The Biblical story of Noah and the Great Flood, with a parallel story of soldiers in the First World War.
-16. Movie: A Woman of Affairs
-Genre: Drama
-Description: When two childhood sweethearts are kept from marrying, misery ensues.
-17. Movie: Easy Virtue
-Genre: Romance, Thriller
-Description: A divorce hides her scandalous past from her new husband and his family.
+13. Movie: Oktyabr
+14. Movie: Easy Virtue
+15. Movie: The Docks of New York
+16. Movie: La chute de la maison Usher
+17. Movie: Laugh, Clown, Laugh
 18. Movie: The Farmer's Wife
-Genre: Comedy, Drama, Romance
-Description: After his daughter weds, a middle-aged widower with a profitable farm decides to remarry but finds choosing a suitable mate a problematic process.
-19. Movie: Laugh, Clown, Laugh
-Genre: Drama
-Description: A professional clown and a self-indulgent count learn to help each other with their problems, but then become romantic rivals.
-20. Movie: The Docks of New York
-Genre: Crime, Drama, Film-Noir
-Description: A blue-collar worker on New York's depressed waterfront finds his life changed after he saves a woman attempting suicide.
-21. Movie: Champagne
-Genre: Comedy
-Description: A spoiled heiress defies her father by running off to marry her lover. But Daddy has a few tricks up his sleeve.
-22. Movie: In Old Arizona
-Genre: Romance, Western
-Description: A charming, happy-go-lucky bandit in old Arizona plays cat-and-mouse with the sheriff trying to catch him while he romances a local beauty.
-23. Movie: Spione
-Genre: Romance, Thriller
-Description: The mastermind behind a ubiquitous spy operation learns of a dangerous romance between a Russian lady in his employ and a dashing agent from the government's secret service.
-24. Movie: The Wedding March
-Genre: Drama
-Description: A young impoverished aristocrat falls in love with an inn-keepers daughter, but has to marry money.
-25. Movie: Our Dancing Daughters
-Genre: Drama
-Description: A flapper who's secretly a good girl and a gold digging floozy masquerading as an ingnue both vie for the hand of a millionaire.
-26. Movie: Street Angel
-Genre: Drama
-Description: A woman on the run from the law finds her past catching up to her just as she is on the verge of true happiness.
-27. Movie: 4 Devils
-Genre: Drama
-Description: Four orphans, raised by an aging clown, becomes a high wire act in a circus.
+19. Movie: Our Dancing Daughters
+20. Movie: The Wind
+21. Movie: Lights of New York
+22. Movie: The Patsy
+23. Movie: Lonesome
+24. Movie: Champagne
+25. Movie: Alraune
+26. Movie: In Old Arizona
+27. Movie: Beggars of Life
 28. Movie: The Mysterious Lady
-Genre: Drama, Romance
-Description: An attractive Russian spy seduces an Austrian officer in order to get some important plans, but when she actually falls in love with him, both of them are placed in a dangerous situation.
-29. Movie: West of Zanzibar
-Genre: Drama, Mystery
-Description: A magician seeks vengeance upon the man who paralyzed him and the illegitimate daughter he sired with the magician's wife.
-30. Movie: Lonesome
-Genre: Comedy, Drama, Romance
-Description: Two lonely people in the big city meet and enjoy the thrills of an amusement park, only to lose each other in the crowd after spending a great day together. Will they ever see each other again?
-31. Movie: The Racket
-Genre: Crime, Drama, Film-Noir
-Description: An honest police captain vows to bring down a powerful bootlegger who is protected by corrupt politicians and judges.
-32. Movie: Shooting Stars
-Genre: Drama, Western
-Description: The husband and wife acting team of Mae Feather and Julian Gordon is torn apart when he discovers she is having an affair with the screen comedian Andy Wilks. Mae hatches a plot to kill her...See full summary&nbsp;&raquo;
-33. Movie: The Legion of the Condemned
-Genre: Drama, War
-Description: Add a Plot
-34. Movie: The Patriot
-Genre: Drama
-Description: In 18th-Century Russia, the Czar, Paul, is surrounded by murderous plots and trusts only Count Pahlen. Pahlen wishes to protect his friend, the mad king, but because of the horror of the ...See full summary&nbsp;&raquo;
-35. Movie: Potomok Chingis-Khana
-Genre: Drama, War
-Description: In 1918 a simple Mongolian herdsman escapes to the hills after brawling with a western capitalist fur trader who cheats him. In 1920 he helps the partisans fight for the Soviets against the...See full summary&nbsp;&raquo;
-36. Movie: Moulin Rouge
-Genre: Drama, Musical
-Description: Parysia is the rage of Paris. She has a daughter, secretly engaged to Andre, and the boy's aristocratic father objects to the alliance because of Margaret's mother being a revue artist. ...See full summary&nbsp;&raquo;
-37. Movie: A Girl in Every Port
-Genre: Action, Adventure, Comedy
-Description: Two sailors with a rivalry over chasing women become friends. But when one decides to finally settle down, will this mysterious young women come between them?
-38. Movie: The Patsy
-Genre: Comedy, Drama, Romance
-Description: An awkward teenager hopelessly in love with her elder sister's boyfriend tries to make him notice her.
-39. Movie: The First Kiss
-Genre: Romance
-Description: Add a Plot
-40. Movie: Four Sons
-Genre: Drama, War
-Description: A family saga in which three of a Bavarian widow's sons go to war for Germany and the fourth goes to America, Germany's eventual opponent.
-41. Movie: L'argent
-Genre: Drama, Romance
-Description: The business tycoon Nicolas Saccard is nearly ruined by his rival Gunderman, when he tries to raise capital for his company. To push up the price of his stock, Saccard plans a publicity ...See full summary&nbsp;&raquo;
-42. Movie: Lights of New York
-Genre: Crime, Drama
-Description: Two men are conned into bootlegging business.
-43. Movie: Hangman's House
-Genre: Drama, Romance, Thriller
-Description: Victor McLaglen, an exile Irish patriot, risks his life by returning to Ireland and helping a young couple. John Wayne is an over-enthusiastic spectator who smashes a picket fence.
-44. Movie: Un chapeau de paille d'Italie
-Genre: Comedy
-Description: On his way through the woods to his marriage, Fadinard's horse eats the hat of a married lady spending here a few moments with her lover. Fadinard has to find the very same rare hat to ...See full summary&nbsp;&raquo;
+29. Movie: A Woman of Affairs
+30. Movie: The Wedding March
+31. Movie: Moulin Rouge
+32. Movie: L'argent
+33. Movie: The Patriot
+34. Movie: 4 Devils
+35. Movie: Gentlemen Prefer Blondes
+36. Movie: Street Angel
+37. Movie: The Viking
+38. Movie: The Singing Fool
+39. Movie: Lilac Time
+40. Movie: White Shadows in the South Seas
+41. Movie: The Trail of '98
+42. Movie: Skyscraper
+43. Movie: Four Sons
+44. Movie: The Racket
 45. Movie: Feel My Pulse
-Genre: Comedy
-Description: A rich but hypochondriac heiress inherits a sanitarium. What she doesn't know is that it is a front for bootleggers, and a hideout for criminals on the run from the law.
-46. Movie: The Viking
-Genre: Action, Adventure, History
-Description: Vikings compete for power and the love of a woman.
-47. Movie: Alraune
-Genre: Drama, Fantasy, Horror
-Description: Add a Plot
-48. Movie: Submarine
-Genre: Action, Drama
-Description: Two sailors who are always competing against each other set their sights on the same girl. When she chooses one over the other, their friendship ends acrimoniously. However, things change ...See full summary&nbsp;&raquo;
-49. Movie: Zvenigora
-Genre: Drama, Fantasy
-Description: Zvenigora stars Nikolai Nademsky (Earth), as the grandfather of Timoshka (Semyon Svashenko), whom he alerts to secret treasure buried in the mountains and the boy spends the rest of his ...See full synopsis&nbsp;&raquo;
-50. Movie: White Shadows in the South Seas
-Genre: Drama, Romance
-Description: An alcoholic doctor on a Polynesian island, disgusted by white exploitation of the natives, finds himself marooned on a pristinely beautiful island.
+46. Movie: West of Zanzibar
+47. Movie: Shiraz
+48. Movie: A Girl in Every Port
+49. Movie: Potomok Chingis-Khana
+50. Movie: The Legion of the Condemned

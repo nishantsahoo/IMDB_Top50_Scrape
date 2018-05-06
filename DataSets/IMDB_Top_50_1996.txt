@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 1996-01-01 to 1996-12-31 : 
-1. Movie: Trainspotting
-Genre: Drama
-Description: Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.
-2. Movie: Courage Under Fire
-Genre: Action, Drama, Mystery
-Description: A US Army officer, despondent about a deadly mistake he made, investigates a female chopper commander's worthiness for the Medal of Honor.
-3. Movie: Romeo + Juliet
-Genre: Drama, Romance
-Description: Shakespeare's famous play is updated to the hip modern suburb of Verona still retaining its original dialogue.
-4. Movie: Fargo
-Genre: Crime, Drama, Thriller
-Description: Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.
+1. Movie: Fargo
+2. Movie: Romeo + Juliet
+3. Movie: Independence Day
+4. Movie: Trainspotting
 5. Movie: Matilda
-Genre: Comedy, Family, Fantasy
-Description: Story of a wonderful little girl, who happens to be a genius, and her wonderful teacher vs. the worst parents ever and the worst school principal imaginable.
-6. Movie: Independence Day
-Genre: Action, Adventure, Sci-Fi
-Description: The aliens are coming and their goal is to invade and destroy Earth. Fighting superior technology, mankind's best weapon is the will to survive.
-7. Movie: Scream
-Genre: Horror, Mystery
-Description: A year after the murder of her mother, a teenage girl is terrorized by a new killer, who targets the girl and her friends by using horror films as part of a deadly game.
-8. Movie: From Dusk Till Dawn
-Genre: Action, Crime, Horror
-Description: Two criminals and their hostages unknowingly seek temporary refuge in an establishment populated by vampires, with chaotic results.
-9. Movie: Sling Blade
-Genre: Drama
-Description: Karl Childers, a simple man hospitalized since his childhood murder of his mother and her lover, is released to start a new life in a small town.
-10. Movie: A Time to Kill
-Genre: Crime, Drama, Thriller
-Description: In Canton, Mississippi, a fearless young lawyer and his assistant defend a black man accused of murdering two white men who raped his 10-year-old daughter, inciting a revolt by local racist groups.
+6. Movie: From Dusk Till Dawn
+7. Movie: Sleepers
+8. Movie: Scream
+9. Movie: Mission: Impossible
+10. Movie: Jerry Maguire
 11. Movie: The Rock
-Genre: Action, Adventure, Thriller
-Description: A mild-mannered chemist and an ex-con must lead the counterstrike when a rogue group of military men, led by a renegade general, threaten a nerve gas attack from Alcatraz against San Francisco.
-12. Movie: Primal Fear
-Genre: Crime, Drama, Mystery
-Description: An altar boy is accused of murdering a priest, and the truth is buried several layers deep.
-13. Movie: Jerry Maguire
-Genre: Comedy, Drama, Romance
-Description: When a sports agent has a moral epiphany and is fired for expressing it, he decides to put his new philosophy to the test as an independent with the only athlete who stays with him.
-14. Movie: The English Patient
-Genre: Drama, Romance, War
-Description: At the close of WWII, a young nurse tends to a badly-burned plane crash victim. His past is shown in flashbacks, revealing an involvement in a fateful love affair.
-15. Movie: Space Jam
-Genre: Animation, Adventure, Comedy
-Description: In a desperate attempt to win a basketball match and earn their freedom, the Looney Tunes seek the aid of retired basketball champion, Michael Jordan.
-16. Movie: The Arrival
-Genre: Sci-Fi, Thriller
-Description: Zane, an astronomer, discovers intelligent alien life. But the aliens are keeping a deadly secret, and will do anything to stop Zane from learning it.
-17. Movie: Kama Sutra: A Tale of Love
-Genre: Crime, Drama, History
-Description: Two girlhood friends become sexual rivals at maturity.
-18. Movie: Twister
-Genre: Action, Adventure, Drama
-Description: Bill and Jo Harding, advanced storm chasers on the brink of divorce, must join together to create an advanced weather alert system by putting themselves in the cross-hairs of extremely violent tornadoes.
-19. Movie: Mission: Impossible
-Genre: Action, Adventure, Thriller
-Description: An American agent, under false suspicion of disloyalty, must discover and expose the real spy without the help of his organization.
-20. Movie: Happy Gilmore
-Genre: Comedy, Family, Sport
-Description: A rejected hockey player puts his skills to the golf course to save his grandmother's house.
-21. Movie: Sleepers
-Genre: Crime, Drama, Thriller
-Description: After a prank goes disastrously wrong, a group of boys are sent to a detention center where they are brutalized; over 10 years later, they get their chance for revenge.
-22. Movie: Mars Attacks!
-Genre: Comedy, Sci-Fi
-Description: Earth is invaded by Martians with unbeatable weapons and a cruel sense of humor.
-23. Movie: That Thing You Do!
-Genre: Comedy, Drama, Music
-Description: A Pennsylvania band scores a hit in 1964 and rides the star-making machinery as long as it can, with lots of help from its manager.
-24. Movie: The Hunchback of Notre Dame
-Genre: Animation, Drama, Family
-Description: A deformed bell-ringer must assert his independence from a vicious government minister in order to help his friend, a gypsy dancer.
-25. Movie: The Craft
-Genre: Drama, Fantasy, Horror
-Description: A newcomer to a Catholic prep high school falls in with a trio of outcast teenage girls who practice witchcraft and they all soon conjure up various spells and curses against those who even slightly anger them.
-26. Movie: Broken Arrow
-Genre: Action, Crime, Thriller
-Description: Terrorists steal nuclear warheads from the U.S. military but don't count on a pilot and park ranger spoiling their plans.
-27. Movie: Kingpin
-Genre: Comedy, Sport
-Description: A star bowler whose career was prematurely "cut off" hopes to ride a new prodigy to success and riches.
-28. Movie: The Long Kiss Goodnight
-Genre: Action, Crime, Drama
-Description: A woman suffering from amnesia begins to recover her memories after trouble from her past finds her again.
-29. Movie: Striptease
-Genre: Comedy, Crime, Drama
-Description: A stripper and single mother gets dragged into a dangerous situation after a congressman takes a fancy to her.
-30. Movie: Escape from L.A.
-Genre: Action, Adventure, Sci-Fi
-Description: Snake Plissken is once again called in by the United States government to recover a potential doomsday device from Los Angeles, now an autonomous island where undesirables are deported.
-31. Movie: Swingers
-Genre: Comedy, Drama
-Description: Wannabe actors become regulars in the stylish neo-lounge scene; Trent teaches his friend Mike the unwritten rules of the scene.
-32. Movie: The Birdcage
-Genre: Comedy
-Description: A gay cabaret owner and his drag queen companion agree to put up a false straight front so that their son can introduce them to his fiance's right-wing moralistic parents.
-33. Movie: 101 Dalmatians
-Genre: Adventure, Comedy, Family
-Description: A woman kidnaps puppies to kill them for their fur, but various animals then gang up against her and get their revenge in slapstick fashion.
-34. Movie: Crash
-Genre: Drama
-Description: After getting into a serious car accident, a TV director discovers an underground sub-culture of scarred, omnisexual car-crash victims who use car accidents and the raw sexual energy they produce to try to rejuvenate his sex life with his wife.
-35. Movie: Beautiful Girls
-Genre: Comedy, Drama, Romance
-Description: A piano player at a crossroads in his life returns home to his friends and their own problems with life and love.
-36. Movie: Stealing Beauty
-Genre: Drama, Mystery, Romance
-Description: After her mother commits suicide, nineteen year old Lucy Harmon travels to Italy to have her picture painted. However, she has other reasons for wanting to go. She wants to renew her ...See full summary&nbsp;&raquo;
-37. Movie: Fear
-Genre: Drama, Thriller
-Description: When Nicole met David; handsome, charming, affectionate, he was everything. It seemed perfect, but soon she sees that David has a darker side. And his adoration turns to obsession, their dream into a nightmare, and her love into fear.
-38. Movie: One Fine Day
-Genre: Comedy, Drama, Romance
-Description: The lives of two strangers and their young children unexpectedly intersect on one hectic, stressful day in New York City.
-39. Movie: Star Trek: First Contact
-Genre: Action, Adventure, Drama
-Description: The Borg travel back in time intended on preventing Earth's first contact with an alien species. Captain Picard and his crew pursue them to ensure that Zefram Cochrane makes his maiden flight reaching warp speed.
-40. Movie: Don't Be a Menace to South Central While Drinking Your Juice in the Hood
-Genre: Comedy, Crime
-Description: "Don't Be a Menace to South Central While Drinking your Juice in the Hood" is a parody of several U.S. films about being in the 'Hood', for instance "Boyz n the Hood", "South Central", "...See full summary&nbsp;&raquo;
-41. Movie: DragonHeart
-Genre: Action, Adventure, Fantasy
-Description: The last dragon and a disillusioned dragonslaying knight must cooperate to stop an evil king who was given partial immortality.
-42. Movie: The Crucible
-Genre: Drama, History
-Description: A Salem resident attempts to frame her ex-lover's wife for being a witch in the middle of the 1692 witchcraft trials.
+12. Movie: Happy Gilmore
+13. Movie: Mars Attacks!
+14. Movie: Space Jam
+15. Movie: A Time to Kill
+16. Movie: Striptease
+17. Movie: Twister
+18. Movie: The English Patient
+19. Movie: Kingpin
+20. Movie: The Birdcage
+21. Movie: Primal Fear
+22. Movie: The People vs. Larry Flynt
+23. Movie: The Craft
+24. Movie: Beautiful Girls
+25. Movie: Crash
+26. Movie: Don't Be a Menace to South Central While Drinking Your Juice in the Hood
+27. Movie: The First Wives Club
+28. Movie: The Hunchback of Notre Dame
+29. Movie: Sling Blade
+30. Movie: White Squall
+31. Movie: That Thing You Do!
+32. Movie: 101 Dalmatians
+33. Movie: Bound
+34. Movie: Fear
+35. Movie: Bottle Rocket
+36. Movie: The Frighteners
+37. Movie: Stealing Beauty
+38. Movie: DragonHeart
+39. Movie: Escape from L.A.
+40. Movie: One Fine Day
+41. Movie: Hamlet
+42. Movie: Swingers
 43. Movie: The Cable Guy
-Genre: Comedy, Drama, Thriller
-Description: A lonely and disturbed cable guy raised on television just wants a new friend, but his target, a designer, rejects him, with bad consequences.
-44. Movie: The First Wives Club
-Genre: Comedy
-Description: Reunited by the death of a college friend, three divorced women seek revenge on the husbands who left them for younger women.
-45. Movie: Bound
-Genre: Crime, Romance, Thriller
-Description: Corky, a tough female ex con and her lover Violet concoct a scheme to steal millions of stashed mob money and pin the blame on Violet's crooked boyfriend Caesar.
-46. Movie: Hamlet
-Genre: Drama
-Description: Hamlet, Prince of Denmark, returns home to find his father murdered and his mother remarrying the murderer, his uncle. Meanwhile, war is brewing.
-47. Movie: Breaking the Waves
-Genre: Drama, Romance
-Description: Oilman Jan is paralyzed in an accident. His wife, who prayed for his return, feels guilty; even more, when Jan urges her to have sex with another.
-48. Movie: The Island of Dr. Moreau
-Genre: Horror, Sci-Fi, Thriller
-Description: After being rescued and brought to an island, a man discovers that its inhabitants are experimental animals being turned into strange-looking humans, all of it the work of a visionary doctor.
-49. Movie: Executive Decision
-Genre: Action, Adventure, Thriller
-Description: When terrorists seize control of an airliner, an intelligence analyst accompanies a commando unit for a midair boarding operation.
-50. Movie: Emma
-Genre: Comedy, Drama, Romance
-Description: In rural 1800s England things go bad for a young matchmaker after she finds a man for another woman.
+44. Movie: The Island of Dr. Moreau
+45. Movie: Eraser
+46. Movie: Bio-Dome
+47. Movie: The Long Kiss Goodnight
+48. Movie: The Phantom
+49. Movie: James and the Giant Peach
+50. Movie: Star Trek: First Contact

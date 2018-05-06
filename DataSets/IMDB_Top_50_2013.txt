@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 2013-01-01 to 2013-12-31 : 
-1. Movie: The Wolf of Wall Street
-Genre: Biography, Comedy, Crime
-Description: Based on the true story ofJordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.
-2. Movie: Now You See Me
-Genre: Crime, Mystery, Thriller
-Description: An FBI agent and an Interpol detective track a team of illusionists who pull off bank heists during their performances and reward their audiences with the money.
-3. Movie: Prisoners
-Genre: Crime, Drama, Mystery
-Description: When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts. But just how far will this desperate father go to protect his family?
-4. Movie: Oblivion
-Genre: Action, Adventure, Mystery
-Description: A veteran assigned to extract Earth's remaining resources begins to question what he knows about his mission and himself.
-5. Movie: The Great Gatsby
-Genre: Drama, Romance
-Description: A writer and wall street trader, Nick, finds himself drawn to the past and lifestyle of his millionaire neighbor, Jay Gatsby.
-6. Movie: Frozen
-Genre: Animation, Adventure, Comedy
-Description: When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister, Anna, teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
-7. Movie: Beautiful Creatures
-Genre: Drama, Fantasy, Romance
-Description: Ethan longs to escape his small Southern town. He meets a mysterious new girl, Lena. Together, they uncover dark secrets about their respective families, their history and their town.
-8. Movie: The Mortal Instruments: City of Bones
-Genre: Action, Fantasy, Horror
-Description: When her mother disappears, Clary Fray learns that she descends from a line of warriors who protect our world from demons. She joins forces with others like her and heads into a dangerous alternate New York called the Shadow World.
-9. Movie: Her
-Genre: Drama, Romance, Sci-Fi
-Description: A lonely writer develops an unlikely relationship with an operating system designed to meet his every need.
-10. Movie: The Hobbit: The Desolation of Smaug
-Genre: Adventure, Fantasy
-Description: The dwarves, along with Bilbo Baggins and Gandalf the Grey, continue their quest to reclaim Erebor, their homeland, from Smaug. Bilbo Baggins is in possession of a mysterious and magical ring.
-11. Movie: American Hustle
-Genre: Crime, Drama
-Description: A con man, Irving Rosenfeld, along with his seductive partner Sydney Prosser, is forced to work for a wild FBI agent, Richie DiMaso, who pushes them into a world of Jersey powerbrokers and mafia.
-12. Movie: 12 Years a Slave
-Genre: Biography, Drama, History
-Description: In the antebellum United States,Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.
-13. Movie: Nymphomaniac: Vol. I
-Genre: Drama
-Description: A self-diagnosed nymphomaniac recounts her erotic experiences to the man who saved her after a beating.
-14. Movie: Gangster Squad
-Genre: Action, Crime, Drama
-Description: It's 1949 Los Angeles, the city is run by gangsters and a malicious mobster, Mickey Cohen. Determined to end the corruption, John O'Mara assembles a team of cops, ready to take down the ruthless leader and restore peace to the city.
-15. Movie: Dallas Buyers Club
-Genre: Biography, Drama
-Description: In 1985 Dallas, electrician and hustler Ron Woodroof works around the system to help AIDS patients get the medication they need after he is diagnosed with the disease.
-16. Movie: The Hunger Games: Catching Fire
-Genre: Action, Adventure, Mystery
-Description: Katniss Everdeen and Peeta Mellark become targets of the Capitol after their victory in the 74th Hunger Games sparks a rebellion in the Districts of Panem.
-17. Movie: Gravity
-Genre: Adventure, Drama, Sci-Fi
-Description: Two astronauts work together to survive after an accident which leaves them alone in space.
-18. Movie: Man of Steel
-Genre: Action, Adventure, Fantasy
-Description: Clark Kent, one of the last of an extinguished race disguised as an unremarkable human, is forced to reveal his identity when Earth is invaded by an army of survivors who threaten to bring the planet to the brink of destruction.
-19. Movie: Lone Survivor
-Genre: Action, Biography, Drama
-Description: Marcus Luttrell and his team set out on a mission to capture or kill notorious Taliban leader Ahmad Shah, in late June 2005. Marcus and his team are left to fight for their lives in one of the most valiant efforts of modern warfare.
-20. Movie: La vie d'Adèle
-Genre: Drama, Romance
-Description: Adle's life is changed when she meets Emma, a young woman with blue hair, who will allow her to discover desire and to assert herself as a woman and as an adult. In front of others, Adle grows, seeks herself, loses herself, and ultimately finds herself through love and loss.
-21. Movie: The Conjuring
-Genre: Horror, Mystery, Thriller
-Description: Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse.
-22. Movie: Snowpiercer
-Genre: Action, Drama, Sci-Fi
-Description: Set in a future where a failed climate-change experiment kills all life on the planet except for a lucky few who boarded the Snowpiercer, a train that travels around the globe, where a class system emerges.
-23. Movie: Furious 6
-Genre: Action, Crime, Thriller
-Description: Hobbs has Dominic and Brian reassemble their crew to take down a team of mercenaries: Dominic unexpectedly gets convoluted also facing his presumed deceased girlfriend, Letty.
-24. Movie: About Time
-Genre: Comedy, Drama, Fantasy
-Description: At the age of 21, Tim discovers he can travel in time and change what happens and has happened in his own life. His decision to make his world a better place by getting a girlfriend turns out not to be as easy as you might think.
-25. Movie: Pacific Rim
-Genre: Action, Adventure, Sci-Fi
-Description: As a war between humankind and monstrous sea creatures wages on, a former pilot and a trainee are paired up to drive a seemingly obsolete special weapon in a desperate effort to save the world from the apocalypse.
-26. Movie: Elysium
-Genre: Action, Drama, Sci-Fi
-Description: In the year 2154, the very wealthy live on a man-made space station while the rest of the population resides on a ruined Earth. A man takes on a mission that could bring equality to the polarized worlds.
-27. Movie: Iron Man Three
-Genre: Action, Adventure, Sci-Fi
-Description: When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.
-28. Movie: Filth
-Genre: Comedy, Crime, Drama
-Description: A corrupt, junkie cop with Borderline Personality Disorder attempts to manipulate his way through a promotion in order to win back his wife and daughter while also fighting his own borderline-fueled inner demons.
-29. Movie: We're the Millers
-Genre: Comedy, Crime
-Description: A veteran pot dealer creates a fake family as part of his plan to move a huge shipment of weed into the U.S. from Mexico.
-30. Movie: Enemy
-Genre: Mystery, Thriller
-Description: A man seeks out his exact look-alike after spotting him in a movie.
-31. Movie: This Is the End
-Genre: Comedy, Fantasy
-Description: While attending a party at James Franco's house, Seth Rogen, Jay Baruchel and many other celebrities are faced with the apocalypse.
-32. Movie: Star Trek Into Darkness
-Genre: Action, Adventure, Sci-Fi
-Description: After the crew of the Enterprise find an unstoppable force of terror from within their own organization, Captain Kirk leads a manhunt to a war-zone world to capture a one-man weapon of mass destruction.
-33. Movie: After Earth
-Genre: Action, Adventure, Sci-Fi
-Description: A crash landing leaves Kitai Raige and his father Cypher stranded on Earth, a millennium after events forced humanity's escape. With Cypher injured, Kitai must embark on a perilous journey to signal for help.
-34. Movie: Grown Ups 2
-Genre: Comedy
-Description: After moving his family back to his hometown to be with his friends and their kids, Lenny finds out that between old bullies, new bullies, schizo bus drivers, drunk cops on skis, and 400 costumed party crashers sometimes crazy follows you.
-35. Movie: The Wolverine
-Genre: Action, Adventure, Sci-Fi
-Description: When Wolverine is summoned to Japan by an old acquaintance, he is embroiled in a conflict that forces him to confront his own demons.
-36. Movie: World War Z
-Genre: Action, Adventure, Horror
-Description: Former United Nations employee Gerry Lane traverses the world in a race against time to stop the Zombie pandemic that is toppling armies and governments, and threatening to destroy humanity itself.
-37. Movie: Locke
-Genre: Drama
-Description: Ivan Locke, a dedicated family man and successful construction manager, receives a phone call on the eve of the biggest challenge of his career that sets in motion a series of events that threaten his carefully cultivated existence.
-38. Movie: Movie 43
-Genre: Comedy, Romance
-Description: A series of interconnected short films follows a washed-up producer as he pitches insane story lines featuring some of the biggest stars in Hollywood.
-39. Movie: Ender's Game
-Genre: Action, Sci-Fi
-Description: Young Ender Wiggin is recruited by the International Military to lead the fight against the Formics, a genocidal alien race which nearly annihilated the human race in a previous invasion.
-40. Movie: Thor: The Dark World
-Genre: Action, Adventure, Fantasy
-Description: When Dr. Jane Foster gets cursed with a powerful entity known as the Aether, Thor is heralded of the cosmic event known as the Convergence and the genocidal Dark Elves.
-41. Movie: The Family
-Genre: Comedy, Crime, Thriller
-Description: The Manzoni family, a notorious mafia clan, is relocated to Normandy, France under the witness protection program, where fitting in soon becomes challenging as their old habits die hard.
-42. Movie: Kick-Ass 2
-Genre: Action, Comedy, Crime
-Description: Following Kick-Ass' heroics, other citizens are inspired to become masked crusaders. But the Red Mist leads his own group of evil supervillains to kill Kick-Ass and destroy everything for which he stands.
-43. Movie: Rush
-Genre: Action, Biography, Drama
-Description: The merciless 1970s rivalry between Formula One rivalsJames HuntandNiki Lauda.
-44. Movie: The Counselor
-Genre: Crime, Drama, Thriller
-Description: A lawyer finds himself in over his head when he gets involved in drug trafficking.
+1. Movie: Thor: The Dark World
+2. Movie: The Wolf of Wall Street
+3. Movie: Iron Man Three
+4. Movie: Pacific Rim
+5. Movie: Frozen
+6. Movie: Prisoners
+7. Movie: Carrie
+8. Movie: The Great Gatsby
+9. Movie: Old Boy
+10. Movie: Her
+11. Movie: The Conjuring
+12. Movie: About Time
+13. Movie: Man of Steel
+14. Movie: Beautiful Creatures
+15. Movie: Nymphomaniac: Vol. I
+16. Movie: We're the Millers
+17. Movie: Oblivion
+18. Movie: La vie d'Adle
+19. Movie: Snowpiercer
+20. Movie: The Wolverine
+21. Movie: 12 Years a Slave
+22. Movie: Despicable Me 2
+23. Movie: Escape Plan
+24. Movie: American Hustle
+25. Movie: G.I. Joe: Retaliation
+26. Movie: World War Z
+27. Movie: Rush
+28. Movie: This Is the End
+29. Movie: Grown Ups 2
+30. Movie: Furious 6
+31. Movie: The Hobbit: The Desolation of Smaug
+32. Movie: Kick-Ass 2
+33. Movie: Now You See Me
+34. Movie: The Purge
+35. Movie: Star Trek: Into Darkness
+36. Movie: Gravity
+37. Movie: Lone Survivor
+38. Movie: The Hunger Games: Catching Fire
+39. Movie: The Mortal Instruments: City of Bones
+40. Movie: Under the Skin
+41. Movie: Movie 43
+42. Movie: Evil Dead
+43. Movie: Dallas Buyers Club
+44. Movie: Don Jon
 45. Movie: The Secret Life of Walter Mitty
-Genre: Adventure, Comedy, Drama
-Description: When his job along with that of his co-worker are threatened, Walter takes action in the real world embarking on a global journey that turns into an adventure more extraordinary than anything he could have ever imagined.
-46. Movie: Only God Forgives
-Genre: Crime, Drama
-Description: Julian, a drug-smuggler thriving in Bangkok's criminal underworld, sees his life get even more complicated when his mother compels him to find and kill whoever is responsible for his brother's recent death.
-47. Movie: Oz the Great and Powerful
-Genre: Adventure, Family, Fantasy
-Description: A frustrated circus magician from Kansas is transported to a magical land called Oz, where he will have to fulfill a prophecy to become the king, and release the land from the Wicked Witches using his great (but fake) powers.
-48. Movie: Riddick
-Genre: Action, Sci-Fi, Thriller
-Description: Left for dead on a sun-scorched planet, Riddick finds himself up against an alien race of predators. Activating an emergency beacon alerts two ships: one carrying a new breed of mercenary, the other captained by a man from Riddick's past.
-49. Movie: Begin Again
-Genre: Drama, Music
-Description: A chance encounter between a disgraced music-business executive and a young singer-songwriter new to Manhattan turns into a promising collaboration between the two talents.
-50. Movie: Nymphomaniac: Vol. II
-Genre: Drama
-Description: The continuation of Joe's sexually dictated life delves into the darker aspects of her adulthood, obsessions and what led to her being in Seligman's care.
+46. Movie: Pain & Gain
+47. Movie: RED 2
+48. Movie: Oz the Great and Powerful
+49. Movie: Nymphomaniac: Vol. II
+50. Movie: Gangster Squad

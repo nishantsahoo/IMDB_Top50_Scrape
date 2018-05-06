@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 2002-01-01 to 2002-12-31 : 
-1. Movie: xXx
-Genre: Action, Adventure, Thriller
-Description: An extreme sports athlete, Xander Cage, is recruited by the government on a special mission.
-2. Movie: Gangs of New York
-Genre: Crime, Drama
-Description: In 1863, Amsterdam Vallon returns to the Five Points area of New York City seeking revenge against Bill the Butcher, his father's killer.
-3. Movie: The Ring
-Genre: Horror, Mystery
-Description: A journalist must investigate a mysterious videotape which seems to cause the death of anyone in a week of viewing it.
-4. Movie: Resident Evil
-Genre: Action, Horror, Sci-Fi
-Description: A special military unit fights a powerful, out-of-control supercomputer and hundreds of scientists who have mutated into flesh-eating creatures after a laboratory accident.
-5. Movie: Harry Potter and the Chamber of Secrets
-Genre: Adventure, Family, Fantasy
-Description: Harry ignores warnings not to return to Hogwarts, only to find the school plagued by a series of mysterious attacks and a strange voice haunting him.
-6. Movie: Spider-Man
-Genre: Action, Adventure
-Description: When bitten by a genetically modified spider, a nerdy, shy, and awkward high school student gains spider-like abilities that he eventually must use to fight evil as a superhero after tragedy befalls his family.
-7. Movie: Star Wars: Episode II - Attack of the Clones
-Genre: Action, Adventure, Fantasy
-Description: Ten years after initially meeting, Anakin Skywalker shares a forbidden romance with Padm, while Obi-Wan investigates an assassination attempt on the Senator and discovers a secret clone army crafted for the Jedi.
+1. Movie: Spider-Man
+2. Movie: Harry Potter and the Chamber of Secrets
+3. Movie: The Lord of the Rings: The Two Towers
+4. Movie: Austin Powers in Goldmember
+5. Movie: Cidade de Deus
+6. Movie: Irrversible
+7. Movie: Gangs of New York
 8. Movie: Catch Me If You Can
-Genre: Biography, Crime, Drama
-Description: The true story ofFrank Abagnale Jr.who, before his 19th birthday, successfully conned millions of dollars' worth of checks as a Pan Am pilot, doctor, and legal prosecutor.
-9. Movie: Cidade de Deus
-Genre: Crime, Drama
-Description: Two boys growing up in a violent neighborhood of Rio de Janeiro take different paths: one becomes a photographer, the other a drug dealer.
-10. Movie: The Lord of the Rings: The Two Towers
-Genre: Adventure, Drama, Fantasy
-Description: While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.
-11. Movie: The Pianist
-Genre: Biography, Drama, War
-Description: A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.
-12. Movie: Die Another Day
-Genre: Action, Adventure, Thriller
-Description: James Bond is sent to investigate the connection between a North Korean terrorist and a diamond mogul who is funding the development of an international space weapon.
-13. Movie: Signs
-Genre: Drama, Mystery, Sci-Fi
-Description: A family living on a farm finds mysterious crop circles in their fields which suggests something more frightening to come.
-14. Movie: Irréversible
-Genre: Crime, Drama, Mystery
-Description: Events over the course of one traumatic night in Paris unfold in reverse-chronological order as the beautiful Alex is brutally raped and beaten by a stranger in the underpass.
-15. Movie: Minority Report
-Genre: Action, Mystery, Sci-Fi
-Description: In a future where a special police unit is able to arrest murderers before they commit their crimes, an officer from that unit is himself accused of a future murder.
-16. Movie: 28 Days Later...
-Genre: Drama, Horror, Sci-Fi
-Description: Four weeks after a mysterious, incurable virus spreads throughout the UK, a handful of survivors try to find sanctuary.
-17. Movie: A Walk to Remember
-Genre: Drama, Romance
-Description: The story of two North Carolina teens, Landon Carter and Jamie Sullivan, who are thrown together after Landon gets into trouble and is made to do community service.
-18. Movie: 8 Mile
-Genre: Drama, Music
-Description: A young rapper, struggling with every aspect of his life, wants to make it big but his friends and foes make this odyssey of rap harder than it may seem.
-19. Movie: The Bourne Identity
-Genre: Action, Mystery, Thriller
-Description: A man is picked up by a fishing boat, bullet-riddled and suffering from amnesia, before racing to elude assassins and regain his memory.
-20. Movie: Chicago
-Genre: Comedy, Crime, Musical
-Description: Murderesses Velma Kelly and Roxie Hart find themselves on death row together and fight for the fame that will keep them from the gallows in 1920s Chicago.
-21. Movie: Secretary
-Genre: Comedy, Drama, Romance
-Description: A young woman, recently released from a mental hospital, gets a job as a secretary to a demanding lawyer, where their employer-employee relationship turns into a sexual, sadomasochistic one.
-22. Movie: The Count of Monte Cristo
-Genre: Action, Adventure, Drama
-Description: A young man, falsely imprisoned by his jealous "friend," escapes and uses a hidden treasure to exact his revenge.
-23. Movie: Scooby-Doo
-Genre: Adventure, Comedy, Family
-Description: After an acrimonious break up, the Mystery Inc. gang are individually brought to an island resort to investigate strange goings on.
-24. Movie: Road to Perdition
-Genre: Crime, Drama, Thriller
-Description: Bonds of loyalty are put to the test when a hitman's son witnesses what his father does for a living.
-25. Movie: Red Dragon
-Genre: Crime, Drama, Thriller
-Description: A retired FBI agent with psychological gifts is assigned to help track down "The Tooth Fairy", a mysterious serial killer; aiding him is imprisoned criminal genius Hannibal "The Cannibal" Lecter.
-26. Movie: Insomnia
-Genre: Drama, Mystery, Thriller
-Description: Two Los Angeles homicide detectives are dispatched to a northern town where the sun doesn't set to investigate the methodical murder of a local teen.
-27. Movie: We Were Soldiers
-Genre: Action, Drama, History
-Description: The story of the first major battle of the American phase of the Vietnam War and the soldiers on both sides that fought it.
-28. Movie: Unfaithful
-Genre: Drama, Thriller
-Description: A New York suburban couple's marriage goes dangerously awry when the wife indulges in an adulterous fling.
-29. Movie: Cabin Fever
-Genre: Comedy, Horror
-Description: A group of five college graduates rent a cabin in the woods and begin to fall victim to a horrifying flesh-eating virus, which attracts the unwanted attention of the homicidal locals.
-30. Movie: Equilibrium
-Genre: Action, Drama, Sci-Fi
-Description: In a fascist future where all forms of feeling are illegal, a man in charge of enforcing the law rises to overthrow the system.
-31. Movie: Sweet Home Alabama
-Genre: Comedy, Romance
-Description: A young woman who's reinvented herself as a New York socialite must return home to Alabama to obtain a divorce from her husband, after seven years of separation.
-32. Movie: Blade II
-Genre: Action, Horror, Sci-Fi
-Description: Blade forms an uneasy alliance with the vampire council in order to combat the Reapers, who are feeding on vampires.
-33. Movie: Lilo &amp; Stitch
-Genre: Animation, Adventure, Comedy
-Description: A Hawaiian girl adopts an unusual pet who is actually a notorious extra-terrestrial fugitive from the law.
-34. Movie: My Big Fat Greek Wedding
-Genre: Comedy, Family, Romance
-Description: A young Greek woman falls in love with a non-Greek and struggles to get her family to accept him while she comes to terms with her heritage and cultural identity.
-35. Movie: Panic Room
-Genre: Crime, Drama, Thriller
-Description: A divorced woman and her diabetic daughter take refuge in their newly-purchased house's safe room, when three men break-in, searching for a missing fortune.
-36. Movie: The Sum of All Fears
-Genre: Action, Drama, Thriller
-Description: CIA analyst Jack Ryan must stop the plans of a Neo Nazis faction that threatens to induce a catastrophic conflict between the United States and Russia's newly elected president by detonating a nuclear weapon at a football game in Baltimore.
-37. Movie: The Rookie
-Genre: Drama, Family, Sport
-Description: A Texas baseball coach makes the major league after agreeing to try out if his high school team made the playoffs.
-38. Movie: The Hot Chick
-Genre: Comedy, Fantasy
-Description: An attractive and popular teenager who is mean-spirited toward others finds herself in the body of an older man, and must find a way to get back to her original body.
-39. Movie: Blue Crush
-Genre: Drama, Romance, Sport
-Description: As a hard-core surfer girl prepares for a big competition, she finds herself falling for a football player.
-40. Movie: Ying xiong
-Genre: Action, Adventure, History
-Description: A defense officer, Nameless, was summoned by the King of Qin regarding his success of terminating three warriors.
-41. Movie: Reign of Fire
-Genre: Action, Adventure, Fantasy
-Description: A brood of fire-breathing dragons emerges from the earth and begins setting everything ablaze, establishing dominance over the planet.
-42. Movie: The Hours
-Genre: Drama, Romance
-Description: The story of how the novel "Mrs. Dalloway" affects three generations of women, all of whom, in one way or another, have had to deal with suicide in their lives.
-43. Movie: Ken Park
-Genre: Drama
-Description: Ken Park is about several Californian skateboarders' lives and relationships with and without their parents.
-44. Movie: About a Boy
-Genre: Comedy, Drama, Romance
-Description: A cynical, immature young man is taught how to act like a grown-up by a little boy.
-45. Movie: Van Wilder
-Genre: Comedy, Romance
-Description: The most popular kid on campus meets a beautiful journalist who makes him realize that maybe he's afraid to graduate.
-46. Movie: Star Trek: Nemesis
-Genre: Action, Adventure, Sci-Fi
-Description: The Enterprise is diverted to the Romulan homeworld Romulus, supposedly because they want to negotiate a peace treaty.
-47. Movie: Maid in Manhattan
-Genre: Comedy, Drama, Romance
-Description: A senatorial candidate falls for a hotel maid, thinking she is a socialite when he sees her trying on a wealthy woman's dress.
-48. Movie: Mr. Deeds
-Genre: Comedy, Romance
-Description: A sweet-natured, small-town guy inherits a controlling stake in a media conglomerate and begins to do business his way.
-49. Movie: Bend It Like Beckham
-Genre: Comedy, Drama, Romance
-Description: The daughter of orthodox Sikh rebels against her parents' traditionalism and joins a football team.
-50. Movie: Adaptation.
-Genre: Comedy, Drama
-Description: A lovelorn screenwriter becomes desperate as he tries and fails to adapt 'The Orchid Thief' bySusan Orleanfor the screen.
+9. Movie: Scooby-Doo
+10. Movie: The Pianist
+11. Movie: 8 Mile
+12. Movie: 28 Days Later...
+13. Movie: Die Another Day
+14. Movie: A Walk to Remember
+15. Movie: The Bourne Identity
+16. Movie: Neko no ongaeshi
+17. Movie: Chicago
+18. Movie: Ice Age
+19. Movie: Star Wars: Episode II - Attack of the Clones
+20. Movie: Minority Report
+21. Movie: Signs
+22. Movie: Resident Evil
+23. Movie: The Sum of All Fears
+24. Movie: We Were Soldiers
+25. Movie: Secretary
+26. Movie: Red Dragon
+27. Movie: Lilo & Stitch
+28. Movie: Equilibrium
+29. Movie: Unfaithful
+30. Movie: The Ring
+31. Movie: Queen of the Damned
+32. Movie: Road to Perdition
+33. Movie: The Count of Monte Cristo
+34. Movie: Cabin Fever
+35. Movie: Men in Black II
+36. Movie: Blade II
+37. Movie: Insomnia
+38. Movie: The Hours
+39. Movie: Ghost Ship
+40. Movie: Sweet Home Alabama
+41. Movie: Panic Room
+42. Movie: Punch-Drunk Love
+43. Movie: The Scorpion King
+44. Movie: Frida
+45. Movie: Adaptation.
+46. Movie: Murder by Numbers
+47. Movie: John Q
+48. Movie: Van Wilder
+49. Movie: Enough
+50. Movie: Treasure Planet

@@ -1,149 +1,51 @@
 Most Popular Feature Films Released 1917-01-01 to 1917-12-31 : 
 1. Movie: Cleopatra
-Genre: Biography, Drama, History
-Description: The story of Cleopatra, the fabulous queen of Egypt, and the epic romances between her and the greatest men of Rome, Julius Caesar and Antony.
-2. Movie: The Poor Little Rich Girl
-Genre: Comedy, Drama, Family
-Description: Gwen's family is rich, but her parents ignore her and most of the servants push her around, so she is lonely and unhappy. Her father is concerned only with making money, and her mother ...See full summary&nbsp;&raquo;
-3. Movie: Jack and the Beanstalk
-Genre: Fantasy
-Description: Jack,exchanges his cow for some magic beans. The beans grow overnight into a beanstalk which Jack climbs, arriving at a magical land ruled over by a cruel giant. Jack battles the giant and ...See full summary&nbsp;&raquo;
-4. Movie: Rebecca of Sunnybrook Farm
-Genre: Comedy, Drama
-Description: With her family in financial difficulties, Rebecca is sent to live with her two strict, unfeeling aunts, who do not appreciate the young girl's charm and energy. Rebecca must make new ...See full summary&nbsp;&raquo;
-5. Movie: The Silent Man
-Genre: Western
-Description: A gold prospector strikes it rich, but the crooks who run a frontier town take it away from him. He determines to get it back and clean up the town.
-6. Movie: Terje Vigen
-Genre: Drama, War
-Description: Terje Vigen, a sailor, suffers the loss of his family through the cruelty of another man. Years later, when his enemy's family finds itself dependent on Terje's beneficence, Terje must ...See full summary&nbsp;&raquo;
-7. Movie: Umirayushchii lebed
-Genre: Drama
-Description: A grief-stricken ballerina becomes the obsession of an increasingly unhinged artist.
-8. Movie: Straight Shooting
-Genre: Western
-Description: Cattleman Flint cuts off farmer Sims' water supply. When Sims' son Ted goes for water, one of Flint's men kills him. Cheyenne is sent to finish off Sims, but finding the family at the newly dug grave, he changes sides.
+2. Movie: The Secret Man
+3. Movie: Terje Vigen
+4. Movie: The Poor Little Rich Girl
+5. Movie: Jack and the Beanstalk
+6. Movie: Rebecca of Sunnybrook Farm
+7. Movie: Patria
+8. Movie: El apstol
 9. Movie: The Little Princess
-Genre: Drama
-Description: Little Sara Crewe is placed in a boarding school by her father when he goes off to war, but he does not understand that the headmistress is a cruel, spiteful woman who makes life miserable ...See full summary&nbsp;&raquo;
-10. Movie: El apóstol
-Genre: Animation, Comedy, Drama
-Description: Argentinian President Yrigoyen burns Buenos Aires using Jupiter's thunderbolts.
-11. Movie: Bucking Broadway
-Genre: Western
-Description: A ranch foreman battles a rich stockbroker for the affections of a beautiful young woman.
-12. Movie: The Fall of the Romanoffs
-Genre: Biography, Drama, History
-Description: A dramatization of the Russian revolution and the influence upon the Russian royal family of the famous "mad monk," Rasputin.
-13. Movie: Blue Jeans
-Genre: Drama
-Description: Perry Bascom comes to the town of Rising Sun, Indiana, to take charge of the sawmills which have for years been managed by his father's best friend, Col. Henry Clay Risener. His father's ...See full summary&nbsp;&raquo;
-14. Movie: The Pride of the Clan
-Genre: Drama, Romance
-Description: Among the simple fisher-folk of a little island off the west coast of Scotland lives MacTavish, head of a clan. Here he rules as a chieftain and his word is law. One day a hurricane sweeps ...See full summary&nbsp;&raquo;
-15. Movie: A Modern Musketeer
-Genre: Adventure, Comedy, Western
-Description: A restless young man travels west, encountering adventure, romance, and danger.
-16. Movie: Wild and Woolly
-Genre: Comedy, Western, Romance
-Description: A rich young Easterner who has always wanted to live in "the Wild West" plans to move to a Western town. Unknown to him, the town's "wild" days are long gone, and it is an orderly, ...See full summary&nbsp;&raquo;
-17. Movie: Thomas Graals bästa film
-Genre: Comedy
-Description: Thomas Graal's a screenwriter, is very fond of his secretary Bessie. Overtaken by a kiss by Thomas she runs away. In his misfortune Thomas writes a screenplay inspired by Bessie. But she has not been really honest with him .
-18. Movie: '49-'17
-Genre: Western
-Description: A retired judge comes West to restore a ghost town.
-19. Movie: The Last of the Ingrams
-Genre: Drama
-Description: Jules Ingram ( William Desmond ), the sole survivor of an old Puritan family, seeks solace and forgetfulness in drink. Unable to pay his debts, Jules is driven from his house when banker ...See full summary&nbsp;&raquo;
-20. Movie: Wenn Frauen lieben und hassen
-Description: Add a Plot
-21. Movie: Come Through
-Genre: Crime, Drama
-Description: From a Montana mining camp, a young man progresses to the society heights of New York, making his mark publicly as a dancer, but secretly as a gentleman burglar.
-22. Movie: A Girl's Folly
-Genre: Comedy
-Description: A restless young girl yearns to leave her rural environment and "get away from it all". One day she stumbles upon a film crew shooting a western near her home. She makes friends with the ...See full summary&nbsp;&raquo;
-23. Movie: The End of the Tour
-Genre: Drama
-Description: Col. Jessup of Mayville does not waste any affection on his young wife, who finally runs away with a theatrical company, taking her son with her, but leaving her baby daughter. Later, she ...See full summary&nbsp;&raquo;
-24. Movie: Down to Earth
-Genre: Comedy, Romance
-Description: A healthy outdoors-type follows the girl he loves to a resort for wealthy hypochondriacs. In order to prove to her and the other patients that their "illnesses" are all in their minds, he ...See full summary&nbsp;&raquo;
-25. Movie: The Lifted Veil
-Genre: Drama
-Description: Overcome with guilt after having an affair with her best friends husband, Clorinda hopes to escape her past by moving to Europe, where she meets Malcolm, a decent man who falls in love with...See full summary&nbsp;&raquo;
-26. Movie: The Woman God Forgot
-Genre: History, Romance
-Description: Cortez sends Alvarado to Montezuma who throws him into a dungeon from which he is rescued by Tecza who loves him. He is recaptured when her lover Guatemoco finds Alvarado hiding in her ...See full summary&nbsp;&raquo;
-27. Movie: Great Expectations
-Genre: Drama
-Description: A humble orphan suddenly becomes a gentleman with the help of an unknown benefactor.
-28. Movie: The Rose of Blood
-Description: Add a Plot
-29. Movie: A Tale of Two Cities
-Genre: Drama, History, Romance
-Description: Alcoholic lawyer Sydney Carton travels to Paris during the Reign of Terror to rescue French aristocrat Charles Darnay, husband of the woman he loves.
-30. Movie: The Darling of Paris
-Genre: Drama
-Description: A gypsy girl with her foster-mother arrive in the French Capital where her beauty attracts the attention of the Apaches, and she becomes a member of their band. Her beauty attracts Claude ...See full summary&nbsp;&raquo;
-31. Movie: Tom Sawyer
-Genre: Adventure, Comedy, Drama
-Description: Tom Sawyer, a young Missouri lad, finds fun and adventure with his pals Joe Harper and Huckleberry Finn, running away to hide out on Jackson's Island and pretending to be Mississippi River ...See full summary&nbsp;&raquo;
-32. Movie: Madame Du Barry
-Genre: Drama, History
-Description: Add a Plot
-33. Movie: Mothers of Men
-Genre: Drama
-Description: A melodrama about a woman governor whose husband is accused and convicted of a bombing and the dilemma she has to struggle with --- whether to let the law take its course and the pressures ...See full summary&nbsp;&raquo;
-34. Movie: Der Golem und die Tänzerin
-Genre: Horror, Comedy
-Description: As a practical joke, an actor impersonates the screen monster he made famous. Complications ensue.
-35. Movie: A Romance of the Redwoods
-Genre: Adventure, Comedy, Drama
-Description: A young girl travels west to live with her uncle during the California Gold Rush only to find that he has been killed by Indians and his identity assumed by an outlaw.
-36. Movie: Patria
-Genre: Action, Drama
-Description: Serial about Japanese spies trying to invade the US but whose plans are foiled by a rich heiress and a Secret Service agent.
-37. Movie: The Narrow Trail
-Genre: Western
-Description: Ice Harding, outlaw, tames a wild horse and names it King. Ice and his gang hold up a stagecoach and encounter San Francisco vice king Bates and his innocent niece Betty Werdin. Ice is ...See full summary&nbsp;&raquo;
-38. Movie: The Black Stork
-Genre: Drama
-Description: A young man and woman are considering marriage; eugenicist Harry J Haiselden warns that they are ill-matched and will produce defective offspring. He is right; their baby is born defective,...See full summary&nbsp;&raquo;
-39. Movie: A Mormon Maid
-Genre: Drama, History, Western
-Description: This silent melodrama is set against the 1840s westward migration of the Mormons. Dora, a young woman, and her family are saved from an Indian attack by a Mormon community traveling to Utah...See full summary&nbsp;&raquo;
-40. Movie: The Little American
-Genre: Drama, Romance, War
-Description: A young American has her ship torpedoed by a German U-boat but makes it back to ancestral home in France, where she witnesses German brutality firsthand.
-41. Movie: Hand That Rocks the Cradle
-Genre: Drama
-Description: A doctor's wife is the head of a bureau that publishes and hands out literature on birth control. However, the police stop it and forbid her to speak in meetings about the secret that was ...See full summary&nbsp;&raquo;
-42. Movie: Sirens of the Sea
-Genre: Fantasy
-Description: Add a Plot
-43. Movie: The Bottle Imp
-Genre: Fantasy, Drama
-Description: Lopaka, a poor Hawaiian fisherman, falls in love with Kokua, a young girl of royal blood. Her father refuses to let him marry her, though, unless Lopaka can bring him two feather cloaks ...See full summary&nbsp;&raquo;
-44. Movie: Mères françaises
-Genre: Drama, War
-Description: A mother loses first her son and then her husband in the trenches of France during the First World War. She devotes herself to the French cause and to helping those wounded in the war.
-45. Movie: The Scarlet Car
-Genre: Drama
-Description: Add a Plot
-46. Movie: A Marked Man
-Genre: Western
-Description: Add a Plot
-47. Movie: Furcht
-Genre: Horror
-Description: Add a Plot
-48. Movie: The Primrose Ring
-Genre: Drama
-Description: Add a Plot
-49. Movie: The Cinderella Man
-Genre: Comedy
-Description: Add a Plot
-50. Movie: A Bid for Fortune
-Genre: Crime
-Description: An occult scientist tries to steal a collector's Chinese staff.
+10. Movie: The Silent Man
+11. Movie: The Little American
+12. Movie: Barnaby Lee
+13. Movie: The Fall of the Romanoffs
+14. Movie: Straight Shooting
+15. Movie: Bucking Broadway
+16. Movie: The Unfortunate Marriage
+17. Movie: A Romance of the Redwoods
+18. Movie: The Black Stork
+19. Movie: Betsy Ross
+20. Movie: Rapsodia satanica
+21. Movie: The Woman God Forgot
+22. Movie: Young Mother Hubbard
+23. Movie: Das fidele Gefngnis
+24. Movie: House of Cards
+25. Movie: Raffles, the Amateur Cracksman
+26. Movie: Les Misrables
+27. Movie: The Hand That Rocks the Cradle
+28. Movie: Souls Triumphant
+29. Movie: The Slave Market
+30. Movie: A Modern Monte Cristo
+31. Movie: Satana likuyushchiy
+32. Movie: A Mormon Maid
+33. Movie: National Red Cross Pageant
+34. Movie: The Heart of Texas Ryan
+35. Movie: Umirayushchii lebed
+36. Movie: No Story
+37. Movie: El hombre de acero
+38. Movie: The Honor System
+39. Movie: Outcast
+40. Movie: The End of the Tour
+41. Movie: La comtesse de Somerive
+42. Movie: The Gulf Between
+43. Movie: A Tale of Two Cities
+44. Movie: Perils of the Secret Service
+45. Movie: Der Golem und die Tnzerin
+46. Movie: Seven Keys to Baldpate
+47. Movie: Sylvia of the Secret Service
+48. Movie: Sloth
+49. Movie: La nouvelle mission de Judex
+50. Movie: American Maid

@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 1993-01-01 to 1993-12-31 : 
-1. Movie: Schindler's List
-Genre: Biography, Drama, History
-Description: In German-occupied Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazi Germans.
-2. Movie: Jurassic Park
-Genre: Adventure, Sci-Fi, Thriller
-Description: During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.
-3. Movie: The Sandlot
-Genre: Comedy, Drama, Family
-Description: A new kid in town is taken under the wing of a young baseball prodigy and his team in this coming of age movie set in the summer of 1962. Together, they get themselves into many adventures involving rival teams, lifeguards, and a vicious dog.
+1. Movie: Tombstone
+2. Movie: Schindler's List
+3. Movie: Jurassic Park
 4. Movie: Dazed and Confused
-Genre: Comedy
-Description: The adventures of high school and junior high students on the last day of school in May 1976.
-5. Movie: What's Eating Gilbert Grape
-Genre: Drama
-Description: After his father's death, Gilbert has to care for his mentally disabled brother, Arnie, and his morbidly obese mother, which is suddenly challenged when love walks into his life.
-6. Movie: Tombstone
-Genre: Action, Biography, Drama
-Description: A successful lawman's plans to retire anonymously in Tombstone, Arizona, are disrupted by the kind of outlaws he was famous for eliminating.
-7. Movie: Groundhog Day
-Genre: Comedy, Fantasy, Romance
-Description: A weatherman finds himself inexplicably living the same day over and over again.
+5. Movie: The Sandlot
+6. Movie: What's Eating Gilbert Grape
+7. Movie: A Bronx Tale
 8. Movie: True Romance
-Genre: Crime, Drama, Romance
-Description: In Detroit, a lonely pop culture geek marries a call girl, steals cocaine from her pimp, and tries to sell it in Hollywood. Meanwhile, the owners of the cocaine - the Mob - track them down in an attempt to reclaim it.
-9. Movie: Menace II Society
-Genre: Crime, Drama, Thriller
-Description: A young street hustler attempts to escape the rigors and temptations of the ghetto in a quest for a better life.
-10. Movie: Free Willy
-Genre: Adventure, Drama, Family
-Description: When a boy learns that a beloved killer whale is to be killed by the aquarium owners, the boy risks everything to free the whale.
-11. Movie: Indecent Proposal
-Genre: Drama, Romance
-Description: A millionaire offers $1,000,000 to a young married couple for a night with the wife.
-12. Movie: Homeward Bound: The Incredible Journey
-Genre: Adventure, Comedy, Drama
-Description: Three pets escape from a California ranch to find their owners in San Francisco.
-13. Movie: The Fugitive
-Genre: Action, Crime, Drama
-Description: Dr. Richard Kimble, unjustly accused of murdering his wife, must find the real killer while being the target of a nationwide manhunt.
-14. Movie: Carlito's Way
-Genre: Crime, Drama, Thriller
-Description: A Puerto Rican former convict, just released from prison, pledges to stay away from drugs and violence despite the pressure around him and lead on to a better life outside of N.Y.C.
-15. Movie: Sleepless in Seattle
-Genre: Comedy, Drama, Romance
-Description: A recently widowed man's son calls a radio talk-show in an attempt to find his father a partner.
-16. Movie: A Bronx Tale
-Genre: Crime, Drama
-Description: A father becomes worried when a local gangster befriends his son in the Bronx in the 1960s.
-17. Movie: The Three Musketeers
-Genre: Action, Adventure, Comedy
-Description: The three best of the disbanded Musketeers - Athos, Porthos, and Aramis - join a young hotheaded would-be-Musketeer, D'Artagnan, to stop the Cardinal Richelieu's evil plot: to form an ...See full summary&nbsp;&raquo;
-18. Movie: The Nightmare Before Christmas
-Genre: Animation, Family, Fantasy
-Description: Jack Skellington, king of Halloween Town, discovers Christmas Town, but his attempts to bring Christmas to his home cause confusion.
-19. Movie: Hocus Pocus
-Genre: Comedy, Family, Fantasy
-Description: After three centuries, three witch sisters are resurrected in Salem, Massachusetts on Halloween night, and it is up to two teenagers, a young girl, and an immortal cat to put an end to their reign of terror once and for all.
-20. Movie: Demolition Man
-Genre: Action, Crime, Sci-Fi
-Description: A police officer is brought out of suspended animation in prison to pursue an old ultra-violent nemesis who is loose in a non-violent future society.
+9. Movie: The Fugitive
+10. Movie: Mrs. Doubtfire
+11. Movie: Free Willy
+12. Movie: Carlito's Way
+13. Movie: Groundhog Day
+14. Movie: Addams Family Values
+15. Movie: Leprechaun
+16. Movie: Bound by Honor
+17. Movie: The Nightmare Before Christmas
+18. Movie: Falling Down
+19. Movie: The Piano
+20. Movie: Robin Hood: Men in Tights
 21. Movie: Philadelphia
-Genre: Drama
-Description: When a man with HIV is fired by his law firm because of his condition, he hires a homophobic small time lawyer as the only willing advocate for a wrongful dismissal suit.
-22. Movie: Mrs. Doubtfire
-Genre: Comedy, Drama, Family
-Description: After a bitter divorce, an actor disguises himself as a female housekeeper to spend time with his children held in custody by his former wife.
-23. Movie: Jason Goes to Hell: The Final Friday
-Genre: Fantasy, Horror, Thriller
-Description: Serial killer Jason Voorhees' supernatural origins are revealed.
-24. Movie: Addams Family Values
-Genre: Comedy, Fantasy
-Description: A comical Gothic horror-movie-type family tries to rescue their beloved uncle from his gold-digging new love.
-25. Movie: Hot Shots! Part Deux
-Genre: Action, Comedy
-Description: "Rambo" parody in which Topper Harley leads a rescue team into Iraq to save Iraqi war prisoners and all of their previous rescue teams.
-26. Movie: The Firm
-Genre: Drama, Mystery, Thriller
-Description: A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side.
-27. Movie: Last Action Hero
-Genre: Action, Adventure, Comedy
-Description: With the help of a magic ticket, a young film fan is transported into the fictional world of his favorite action film character.
-28. Movie: Cliffhanger
-Genre: Action, Adventure, Thriller
-Description: A botched mid-air heist results in suitcases full of cash being searched for by various groups throughout the Rocky Mountains.
-29. Movie: Falling Down
-Genre: Crime, Drama, Thriller
-Description: A borderline personality disordered defense worker frustrated with the various flaws he sees in society, begins to psychotically and violently lash out against them.
-30. Movie: Robin Hood: Men in Tights
-Genre: Adventure, Comedy, Musical
-Description: A spoof of Robin Hood in general andRobin Hood: Prince of Thieves(1991) in particular.
-31. Movie: In the Name of the Father
-Genre: Biography, Drama
-Description: A man's coerced confession to an IRA bombing he did not commit results in the imprisonment of his father as well. An English lawyer fights to free them.
-32. Movie: Super Mario Bros.
-Genre: Adventure, Comedy, Family
-Description: Two Brooklyn plumbers, Mario and Luigi, must travel to another dimension to rescue a princess from the evil dictator King Koopa and stop him from taking over the world.
-33. Movie: The Age of Innocence
-Genre: Drama, Romance
-Description: A tale of nineteenth-century New York high society in which a young lawyer falls in love with a woman separated from her husband, while he is engaged to the woman's cousin.
-34. Movie: In the Line of Fire
-Genre: Action, Drama, Thriller
-Description: Secret Service agent Frank Horrigan couldn't save Kennedy, but he's determined not to let a clever assassin take out this president.
-35. Movie: Bound by Honor
-Genre: Crime, Drama
-Description: Based on the true life experiences of poet Jimmy Santiago Baca, the film focuses on half-brothers Paco and Cruz, and their bi-racial cousin Miklo. It opens in 1972, as the three are members...See full summary&nbsp;&raquo;
-36. Movie: Alive
-Genre: Adventure, Biography, Drama
-Description: A Uruguayan rugby team stranded in the snow swept Andes are forced to use desperate measures to survive after a plane crash.
-37. Movie: The Piano
-Genre: Drama, Music, Romance
-Description: A mute woman is sent to 1850s New Zealand along with her young daughter and prized piano for an arranged marriage to a wealthy landowner, but is soon lusted after by a local worker on the plantation.
-38. Movie: Sister Act 2: Back in the Habit
-Genre: Comedy, Family, Music
-Description: The sisters come back to Delores's show to get her back as Sister Mary Clarence to teach music to a group of students in their parochial school which is doomed for closure. One of the girls...See full summary&nbsp;&raquo;
-39. Movie: The Remains of the Day
-Genre: Drama, Romance
-Description: A butler who sacrificed body and soul to service in the years leading up to World War II realizes too late how misguided his loyalty was to his lordly employer.
-40. Movie: This Boy's Life
-Genre: Biography, Drama
-Description: The story about the relationship between a rebellious 50s teenager and his abusive father, based on the memoirs of writer and literature professor Tobias Wolff.
+22. Movie: The Age of Innocence
+23. Movie: Super Mario Bros.
+24. Movie: The Remains of the Day
+25. Movie: Hocus Pocus
+26. Movie: Rudy
+27. Movie: Cliffhanger
+28. Movie: Sister Act 2: Back in the Habit
+29. Movie: Demolition Man
+30. Movie: Indecent Proposal
+31. Movie: Last Action Hero
+32. Movie: Airborne
+33. Movie: In the Name of the Father
+34. Movie: Coneheads
+35. Movie: Rookie of the Year
+36. Movie: The Good Son
+37. Movie: Sleepless in Seattle
+38. Movie: Alive
+39. Movie: Menace II Society
+40. Movie: Gettysburg
 41. Movie: The Secret Garden
-Genre: Drama, Family, Fantasy
-Description: A young British girl born and raised in India loses her neglectful parents in an earthquake. She is returned to England to live at her uncle's estate. Her uncle is very distant due to the ...See full summary&nbsp;&raquo;
-42. Movie: Cool Runnings
-Genre: Adventure, Comedy, Family
-Description: When a Jamaican sprinter is disqualified from the Olympic Games, he enlists the help of a dishonored coach to start the first Jamaican Bobsled Team.
-43. Movie: Much Ado About Nothing
-Genre: Comedy, Drama, Romance
-Description: Young lovers Hero and Claudio, soon to wed, conspire to get verbal sparring partners and confirmed singles Benedick and Beatrice to wed as well.
-44. Movie: The Beverly Hillbillies
-Genre: Comedy, Family
-Description: A feature adaptation of the classic TV show, when nice guy redneck Jed Clampett strikes it rich when he finds black oil, and moves he and his kin to posh Beverly Hills.
-45. Movie: Son in Law
-Genre: Comedy, Drama, Romance
-Description: Having gotten a taste of college life, a drastically changed farm girl returns home for Thanksgiving break with her best friend, a flamboyant party animal who is clearly a fish out of water in a small farm town.
-46. Movie: Sliver
-Genre: Drama, Thriller
-Description: Carly Norris is a book editor living in New York City who moves into the Sliver apartment building. In the apartment building, Carly meets two of her new neighbors, author Jack Lansford who...See full summary&nbsp;&raquo;
-47. Movie: Geronimo: An American Legend
-Genre: Drama, History, Western
-Description: The story of the Apache chief and his armed resistance to the US Government's subjugation of his people.
-48. Movie: Dennis the Menace
-Genre: Comedy, Family
-Description: When his parents have to go out of town, Dennis stays with Mr. and Mrs. Wilson. The little menace is driving Mr. Wilson crazy, but Dennis is just trying to be helpful. Even to the thief who's arrived in town.
-49. Movie: Grumpy Old Men
-Genre: Comedy, Drama, Romance
-Description: A lifelong feud between two neighbors since childhood only gets worse when a new female neighbor moves across the street.
-50. Movie: The Pelican Brief
-Genre: Crime, Drama, Mystery
-Description: A law student uncovers a conspiracy, putting herself and others in danger.
+42. Movie: Benny & Joon
+43. Movie: Dennis the Menace
+44. Movie: Made in America
+45. Movie: The Three Musketeers
+46. Movie: Much Ado About Nothing
+47. Movie: Jason Goes to Hell: The Final Friday
+48. Movie: Night Eyes Three
+49. Movie: The Firm
+50. Movie: In the Line of Fire

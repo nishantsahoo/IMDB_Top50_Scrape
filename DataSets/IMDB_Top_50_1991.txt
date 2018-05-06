@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 1991-01-01 to 1991-12-31 : 
 1. Movie: The Silence of the Lambs
-Genre: Crime, Drama, Thriller
-Description: A young F.B.I. cadet must confide in an incarcerated and manipulative killer to receive his help on catching another serial killer who skins his victims.
-2. Movie: Terminator 2: Judgment Day
-Genre: Action, Sci-Fi
-Description: A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her teenage son, John Connor, from a more advanced cyborg.
-3. Movie: Beauty and the Beast
-Genre: Animation, Family, Fantasy
-Description: A young woman whose father has been imprisoned by a terrifying beast offers herself in his place, unaware that her captor is actually a prince, physically altered by a magic spell.
+2. Movie: Stone Cold
+3. Movie: Terminator 2: Judgment Day
 4. Movie: Point Break
-Genre: Action, Crime, Drama
-Description: An FBI agent goes undercover to catch a gang of surfers who may be bank robbers.
-5. Movie: Cape Fear
-Genre: Crime, Thriller
-Description: A convicted rapist, released from prison after serving a fourteen-year sentence, stalks the family of the lawyer who originally defended him.
-6. Movie: The Addams Family
-Genre: Comedy, Fantasy
-Description: Con artists plan to fleece an eccentric family using an accomplice who claims to be their long-lost uncle.
-7. Movie: Thelma &amp; Louise
-Genre: Adventure, Crime, Drama
-Description: An Arkansas waitress and a housewife shoot a rapist and take off in a '66 Thunderbird.
-8. Movie: Robin Hood: Prince of Thieves
-Genre: Action, Adventure, Drama
-Description: When Robin and his Moorish companion come to England and the tyranny of the Sheriff of Nottingham, he decides to fight back as an outlaw.
+5. Movie: Beauty and the Beast
+6. Movie: My Girl
+7. Movie: Cape Fear
+8. Movie: Hook
 9. Movie: Boyz n the Hood
-Genre: Crime, Drama
-Description: Follows the lives of three young males living in the Crenshaw ghetto of Los Angeles, dissecting questions of race, relationships, violence and future prospects.
-10. Movie: Hook
-Genre: Adventure, Comedy, Family
-Description: When Captain Hook kidnaps his children, an adult Peter Pan must return to Neverland and reclaim his youthful spirit in order to challenge his old enemy.
-11. Movie: JFK
-Genre: Drama, History, Thriller
-Description: A New Orleans DA discovers there's more to the Kennedy assassination than the official story.
-12. Movie: My Girl
-Genre: Comedy, Drama, Family
-Description: A young girl, on the threshold of her teen years, finds her life turning upside down, when she is accompanied by an unlikely friend.
-13. Movie: Return to the Blue Lagoon
-Genre: Adventure, Drama, Romance
-Description: In this sequel toThe Blue Lagoon(1980), two children are stranded on a beautiful island in the South Pacific. With no adults to guide them, the two make a simple life together and eventually become suntanned teenagers in love.
-14. Movie: Don't Tell Mom the Babysitter's Dead
-Genre: Comedy
-Description: Five siblings are left alone all summer when their mom leaves town and the evil babysitter bites the dust.
-15. Movie: Hot Shots!
-Genre: Action, Comedy
-Description: A parody ofTop Gun(1986) in which a talented but unstable fighter pilot must overcome the ghosts of his father and save a mission sabotaged by greedy weapons manufacturers.
-16. Movie: The Commitments
-Genre: Comedy, Drama, Music
-Description: When Jimmy Rabbitte wants to start a band, he has open auditions at his house.
-17. Movie: New Jack City
-Genre: Action, Crime, Drama
-Description: A crime lord ascends to power and becomes megalomaniacal while a maverick police detective vows to stop him.
-18. Movie: Highlander II: The Quickening
-Genre: Action, Adventure, Fantasy
-Description: In the future, Highlander Connor MacLeod must prevent the destruction of Earth under an anti-ozone shield.
-19. Movie: Fried Green Tomatoes
-Genre: Drama
-Description: A housewife who is unhappy with her life befriends an old lady in a nursing home and is enthralled by the tales she tells of people she used to know.
-20. Movie: The Last Boy Scout
-Genre: Action, Thriller
-Description: A down and out cynical detective teams up with a down and out ex-quarterback to try and solve a murder case involving a pro football team and a politician.
-21. Movie: What About Bob?
-Genre: Comedy
-Description: A successful psychotherapist loses his mind after one of his most dependent patients, an obsessive-compulsive neurotic, tracks him down during his family vacation.
-22. Movie: Nothing But Trouble
-Genre: Comedy
-Description: A businessman finds he and his friends the prisoners of a sadistic judge and his equally odd family in the backwoods of a bizarre mansion.
-23. Movie: The Doors
-Genre: Biography, Drama, Music
-Description: The story of the famous and influential 1960s rock bandThe Doorsand its lead singer and composer,Jim Morrison, from his days as a UCLA film student in Los Angeles, to his untimely death in Paris, France at age 27 in 1971.
-24. Movie: Barton Fink
-Genre: Comedy, Drama, Thriller
-Description: A renowned New York playwright is enticed to California to write for the movies and discovers the hellish truth of Hollywood.
-25. Movie: The Man in the Moon
-Genre: Drama, Romance
-Description: A coming of age story set in the South of USA when Elvis was King.
-26. Movie: Backdraft
-Genre: Action, Crime, Drama
-Description: Two Chicago firefighter brothers who don't get along have to work together while a dangerous arsonist is on the loose.
-27. Movie: My Own Private Idaho
-Genre: Drama
-Description: Two best friends living on the streets of Portland as hustlers embark on a journey of self discovery and find their relationship stumbling along the way.
-28. Movie: Problem Child 2
-Genre: Comedy, Family
-Description: Junior's back in his first adventure since his last! Junior and Ben move to Mortville which seems like the perfect town to live in. The Healys have a nice new house--and Junior get's a cool...See full summary&nbsp;&raquo;
-29. Movie: Father of the Bride
-Genre: Comedy, Family, Romance
-Description: With his oldest daughter's wedding approaching, a father finds himself reluctant to let go.
-30. Movie: Naked Lunch
-Genre: Drama
-Description: After developing an addiction to the substance he uses to kill bugs, an exterminator accidentally murders his wife and becomes involved in a secret government plot being orchestrated by giant bugs in a port town in North Africa.
-31. Movie: Teenage Mutant Ninja Turtles II: The Secret of the Ooze
-Genre: Action, Adventure, Comedy
-Description: The Turtles and the Shredder battle once again, this time for the last canister of the ooze that created the Turtles, with which Shredder wants to unleash an army of new mutants.
-32. Movie: The Naked Gun 2½: The Smell of Fear
-Genre: Comedy, Crime
-Description: Lieutenant Drebin discovers that his ex-girlfriend's new beau is involved in a plot to kidnap a scientist who advocates solar energy.
-33. Movie: City Slickers
-Genre: Comedy
-Description: On the verge of turning 40, an unhappy Manhattan yuppie is roped into joining his two friends on a cattle drive in the southwest.
-34. Movie: Sleeping with the Enemy
-Genre: Drama, Thriller
-Description: A young woman fakes her own death in an attempt to escape her nightmarish marriage, but discovers it is impossible to elude her controlling husband.
+10. Movie: The Addams Family
+11. Movie: Robin Hood: Prince of Thieves
+12. Movie: Thelma & Louise
+13. Movie: Fried Green Tomatoes
+14. Movie: Doc Hollywood
+15. Movie: JFK
+16. Movie: Drop Dead Fred
+17. Movie: The Doors
+18. Movie: My Own Private Idaho
+19. Movie: The Rocketeer
+20. Movie: Backdraft
+21. Movie: Barton Fink
+22. Movie: Return to the Blue Lagoon
+23. Movie: Hot Shots!
+24. Movie: Naked Lunch
+25. Movie: City Slickers
+26. Movie: Bill & Ted's Bogus Journey
+27. Movie: The Commitments
+28. Movie: Father of the Bride
+29. Movie: New Jack City
+30. Movie: Nothing But Trouble
+31. Movie: The Last Boy Scout
+32. Movie: The Man in the Moon
+33. Movie: Toy Soldiers
+34. Movie: What About Bob?
 35. Movie: The Fisher King
-Genre: Comedy, Drama, Fantasy
-Description: A former radio DJ, suicidally despondent because of a terrible mistake he made, finds redemption in helping a deranged homeless man who was an unwitting victim of that mistake.
-36. Movie: Star Trek VI: The Undiscovered Country
-Genre: Action, Adventure, Sci-Fi
-Description: On the eve of retirement, Kirk and McCoy are charged with assassinating the Klingon High Chancellor and imprisoned. The Enterprise crew must help them escape to thwart a conspiracy aimed at sabotaging the last best hope for peace.
-37. Movie: Drop Dead Fred
-Genre: Comedy, Drama, Fantasy
-Description: A young woman finds her already unstable life rocked by the presence of a rambunctious imaginary friend from childhood.
-38. Movie: The Rocketeer
-Genre: Action, Adventure, Comedy
-Description: A young pilot stumbles onto a prototype jetpack that allows him to become a high flying masked hero.
-39. Movie: Career Opportunities
-Genre: Comedy, Romance
-Description: Josie, the daughter of the town's wealthiest businessman, faces problems at home and wishes to leave home, but is disorientated. Her decision is finalized after she falls asleep in a Target...See full summary&nbsp;&raquo;
-40. Movie: Regarding Henry
-Genre: Drama, Romance
-Description: Henry is a lawyer who survives a shooting only to find he cannot remember anything. If that weren't enough, Henry also has to recover his speech and mobility, in a life he no longer fits ...See full summary&nbsp;&raquo;
-41. Movie: Bugsy
-Genre: Biography, Crime, Drama
-Description: The story of howBugsy Siegelstarted Las Vegas.
-42. Movie: Samurai Cop
-Genre: Action, Crime, Thriller
-Description: Joe Marshall and Frank Washington are two police detectives who must stop the ruthless activities of the Katana, a renegade Yakuza gang composed of violent and sadistic killers who want to lead the drug trade in Los Angeles
-43. Movie: Delicatessen
-Genre: Comedy, Crime
-Description: Post-apocalyptic surrealist black comedy about the landlord of an apartment building who occasionally prepares a delicacy for his odd tenants.
-44. Movie: Double Impact
-Genre: Action, Crime
-Description: Twin brothers are separated when their parents are murdered but 25 years later they re-unite in order to avenge their parents' death.
-45. Movie: Night on Earth
-Genre: Comedy, Drama
-Description: An anthology of 5 different cab drivers in 5 American and European cities and their remarkable fares on the same eventful night.
+36. Movie: Sleeping with the Enemy
+37. Movie: Don't Tell Mom the Babysitter's Dead
+38. Movie: Career Opportunities
+39. Movie: Teenage Mutant Ninja Turtles II: The Secret of the Ooze
+40. Movie: The People Under the Stairs
+41. Movie: The Naked Gun 2: The Smell of Fear
+42. Movie: La belle noiseuse
+43. Movie: Double Impact
+44. Movie: Star Trek VI: The Undiscovered Country
+45. Movie: Freddy's Dead: The Final Nightmare
 46. Movie: Oscar
-Genre: Comedy, Crime
-Description: A gangster attempts to keep the promise he made to his dying father: that he would give up his life of crime and "go straight".
-47. Movie: The People Under the Stairs
-Genre: Comedy, Horror, Mystery
-Description: Two adults and a juvenile burglar break into a house occupied by a brother and sister and their stolen children and become trapped.
-48. Movie: Toy Soldiers
-Genre: Action, Drama, Thriller
-Description: When terrorists seize control of a boarding school, a group of troublemaking boys decide to resist them.
-49. Movie: Bill &amp; Ted's Bogus Journey
-Genre: Adventure, Comedy, Fantasy
-Description: A tyrant from the future creates evil android doubles of Bill and Ted and sends them back to eliminate the originals.
+47. Movie: Harley Davidson and the Marlboro Man
+48. Movie: An American Tail: Fievel Goes West
+49. Movie: Hudson Hawk
 50. Movie: Child's Play 3
-Genre: Action, Horror, Thriller
-Description: Chucky, the doll possessed by a serial killer, returns for revenge against Andy, the young boy who defeated him and who has since become a teenager.

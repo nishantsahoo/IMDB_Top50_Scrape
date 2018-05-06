@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 1938-01-01 to 1938-12-31 : 
 1. Movie: The Adventures of Robin Hood
-Genre: Action, Adventure, Romance
-Description: When Prince John and the Norman Lords begin oppressing the Saxon masses in King Richard's absence, a Saxon lord fights back as the outlaw leader of a rebel guerrilla army.
-2. Movie: The Saint in New York
-Genre: Crime, Drama, Mystery
-Description: Simon Templar, the Saint, is brought to New York. His search for the identity of "the Big Fellow" takes him through many dangerous situations.
-3. Movie: Bringing Up Baby
-Genre: Comedy, Family, Romance
-Description: While trying to secure a $1 million donation for his museum, a befuddled paleontologist is pursued by a flighty and often irritating heiress and her pet leopard, Baby.
-4. Movie: Holiday
-Genre: Comedy, Romance
-Description: A young man falls in love with a girl from a rich family. His unorthodox plan to go on holiday for the early years of his life is met with skepticism by everyone except for his fiance's eccentric sister and long-suffering brother.
-5. Movie: The Dawn Patrol
-Genre: War, Drama
-Description: British flying aces in World War I contend with the harsh realities of war.
-6. Movie: The Lady Vanishes
-Genre: Mystery, Thriller
-Description: While traveling in continental Europe, a rich young playgirl realizes that an elderly lady seems to have disappeared from the train.
-7. Movie: Woman Against Woman
-Genre: Drama, Romance
-Description: Cynthia is married to Steve and is a selfish hard woman. She decides where they will live, who they will see and even gets rid of Dora, the nanny who raised Steve and is now raising their ...See full summary&nbsp;&raquo;
-8. Movie: You Can't Take It with You
-Genre: Comedy, Drama, Romance
-Description: A man from a family of rich snobs becomes engaged to a woman from a good-natured but decidedly eccentric family.
-9. Movie: Angels with Dirty Faces
-Genre: Crime, Drama, Film-Noir
-Description: A priest tries to stop a gangster from corrupting a group of street kids.
-10. Movie: When Were You Born
-Genre: Mystery, Romance
-Description: Mei Lee Ling, an astrology expert, tells one of her fellow passengers on a ship, that he will die within two days and the next day he is dead. The police suspects that Mei does know ...See full summary&nbsp;&raquo;
-11. Movie: Jezebel
-Genre: Drama, Romance
-Description: In 1850s Louisiana, a free-spirited Southern belle loses her fianc due to her stubborn vanity and pride, and vows to win him back.
-12. Movie: Pygmalion
-Genre: Comedy, Drama, Romance
-Description: Shaw's play in which a Victorian dialect expert bets that he can teach a lower-class girl to speak proper English and thus be taken for a lady.
-13. Movie: A Christmas Carol
-Genre: Drama, Family, Fantasy
-Description: On Christmas Eve, an old miser named Ebenezer Scrooge is visited by the spirit of his former partner, Jacob Marley. The deceased partner was in his lifetime as mean and miserly as Scrooge ...See full summary&nbsp;&raquo;
-14. Movie: Le quai des brumes
-Genre: Crime, Drama, Romance
-Description: A military deserter finds love and trouble (and a small dog) in a smoky French port city.
+2. Movie: Bringing Up Baby
+3. Movie: The Lady Vanishes
+4. Movie: Pygmalion
+5. Movie: You Can't Take It with You
+6. Movie: Angels with Dirty Faces
+7. Movie: Holiday
+8. Movie: Jezebel
+9. Movie: Red Barry
+10. Movie: The Adventures of Tom Sawyer
+11. Movie: Aleksandr Nevskiy
+12. Movie: Blondie
+13. Movie: Algiers
+14. Movie: Four Daughters
 15. Movie: Boys Town
-Genre: Biography, Drama
-Description: Against all odds Father Flanagan starts "Boys' Town" after hearing a convict's story. Whitey Marsh comes there. He runs away but, hungry, returns. He runs away again but, when friend Pee ...See full summary&nbsp;&raquo;
-16. Movie: Marie Antoinette
-Genre: Biography, Drama, History
-Description: The tragic life of Marie Antoinette, who became queen of France in her late teens.
-17. Movie: Algiers
-Genre: Drama, Mystery, Romance
-Description: Beautiful Gaby meets a romantic jewel thief in the mysterious Casbah.
-18. Movie: The Adventures of Tom Sawyer
-Genre: Family, Adventure
-Description: Misadventures of a mischievous boy in 1850 Missouri.
-19. Movie: The Divorce of Lady X
-Genre: Comedy, Drama, Romance
-Description: Divorce lawyer Everard Logan thinks the woman who spent the night in his hotel room is the erring wife of his new client.
-20. Movie: Aleksandr Nevskiy
-Genre: Action, Biography, Drama
-Description: The story of how a great Russian prince led a ragtag army to battle an invading force of Teutonic Knights.
-21. Movie: The Terror of Tiny Town
-Genre: Western
-Description: An evil gunslinging midget comes to terrorize the good little people of Tiny Town. The townspeople organize to defeat him, and zany antics ensue
-22. Movie: La bête humaine
-Genre: Crime, Drama
-Description: In this classic adaptation of Emile Zola's novel, a tortured train engineer falls in love with a troubled married woman who has helped her husband commit a murder.
-23. Movie: Carefree
-Genre: Comedy, Musical, Romance
-Description: A psychiatrist agrees to hypnotize his friend's girlfriend in order to convince her to accept his proposals of marriage, but she ends up falling for the psychiatrist instead.
-24. Movie: The Citadel
-Genre: Drama
-Description: Andrew Manson, a young, enthusiastic doctor takes his first job in a Welsh mining town, and begins to wonder at the persistent cough many of the miners have. When his attempts to prove its ...See full summary&nbsp;&raquo;
-25. Movie: Room Service
-Genre: Comedy
-Description: A penniless theatrical producer must outwit the hotel efficiency expert trying to evict him from his room, while securing a backer for his new play.
-26. Movie: Four Daughters
-Genre: Drama, Music, Romance
-Description: Adam Lemp, the Dean of the Briarwood Music Foundation, has passed on his love of music to his four early adult daughters - Thea, Emma, Kay and Ann - who live with him and his sister, the ...See full summary&nbsp;&raquo;
-27. Movie: Brother Rat
-Genre: Comedy
-Description: Story of three buddies at the Virginia Military Institute. Cadet Bing Edwards is secretly married and soon to be a father.
-28. Movie: Blondie
-Genre: Comedy, Family
-Description: In this first of the Blondie series, Dagwood loses his job on the eve of his and Blondie's fifth wedding anniversary.
-29. Movie: Bluebeard's Eighth Wife
-Genre: Comedy, Romance
-Description: The daughter of a penniless marquis teaches her multi-millionaire fianc a lesson, after learning he has had 7 previous wives.
-30. Movie: Mother Carey's Chickens
-Genre: Drama, Romance
-Description: An 1890s widow has two daughters and two sons. The daughters fall in love with the same gentleman.
-31. Movie: Rebecca of Sunnybrook Farm
-Genre: Family, Comedy, Drama
-Description: Rebecca's Uncle Harry leaves her with Aunt Miranda who forbids her to associate with show people. But neighbor Anthony Kent is a talent scout who secretly set it up for her to broadcast.
-32. Movie: Three Comrades
-Genre: Drama, Romance
-Description: A love story centered around the lives of three young German soldiers in the years following World War I. Their close friendship is strengthened by their shared love for the same woman who ...See full summary&nbsp;&raquo;
-33. Movie: Vivacious Lady
-Genre: Comedy, Romance
-Description: A professor marries a nightclub singer, much to the consternation of his family and friends back home.
-34. Movie: Too Hot to Handle
-Genre: Adventure, Comedy, Drama
-Description: Two rival newsreel photographers join forces to find the an aviatrix's missing brother, who has disappeared in the Amazon rainforest.
-35. Movie: Block-Heads
-Genre: Comedy, War
-Description: It's 1938, but Stan doesn't know the war is over; he's still patrolling the trenches in France, and shoots down a French aviator. Oliver sees his old chum's picture in the paper and goes to...See full summary&nbsp;&raquo;
-36. Movie: Overland Stage Raiders
-Genre: Western
-Description: After gold shipments from a mining town have been hijacked, the three Mesquiteers buy a plane to fly the gold out. The owner of the shipping line brings in Eastern gangsters to thwart them.
-37. Movie: Child Bride
-Genre: Drama
-Description: Schoolteacher in a rural community campaigns to stop the practice of older men marrying young, underage girls.
+16. Movie: Le quai des brumes
+17. Movie: Rebecca of Sunnybrook Farm
+18. Movie: A Christmas Carol
+19. Movie: Flash Gordon's Trip to Mars
+20. Movie: The Big Broadcast of 1938
+21. Movie: Sweethearts
+22. Movie: In Old Chicago
+23. Movie: The Cowboy and the Lady
+24. Movie: Booloo
+25. Movie: The Girl of the Golden West
+26. Movie: Marie Antoinette
+27. Movie: Kleines Bezirksgericht
+28. Movie: The Dawn Patrol
+29. Movie: Going Places
+30. Movie: Carefree
+31. Movie: Unashamed: A Romance
+32. Movie: St. Martin's Lane
+33. Movie: The Adventures of Marco Polo
+34. Movie: Alexander's Ragtime Band
+35. Movie: Four's a Crowd
+36. Movie: Merrily We Live
+37. Movie: The Citadel
 38. Movie: Charlie Chan in Honolulu
-Genre: Comedy, Crime, Horror
-Description: While Charlie is distracted with the birth of his first grandchild, son Jimmy impersonates his father in order to investigate a murder aboard a freighter in the harbor.
-39. Movie: Merrily We Live
-Genre: Comedy, Romance
-Description: Dizzy society matron Emily Kilbourne has a habit of hiring ex-cons and hobos as servants. Her latest find is a handsome "tramp" who shows up at her doorstep and soon ends up in a ...See full summary&nbsp;&raquo;
-40. Movie: Flash Gordon's Trip to Mars
-Genre: Action, Adventure, Sci-Fi
-Description: When a deadly ray strikes Earth, Flash and his friends return to space to battle Ming the Merciless and his ally the queen of Mars.
-41. Movie: The Adventures of Marco Polo
-Genre: Adventure, Biography, Romance
-Description: Marco Polo travels from Venice to Peking, where he quickly discovers spaghetti and gunpowder and falls in love with the Emperor's daughter. The Emperor Kublai Khan is a kindly fellow, but ...See full summary&nbsp;&raquo;
-42. Movie: The Buccaneer
-Genre: Adventure, History
-Description: Semi-fictional account of pirate Jean Lafitte's involvement in the War of 1812.
-43. Movie: The Young in Heart
-Genre: Comedy, Drama
-Description: Thrown out of the Riviera, a family of grifters meets a lonely, vulnerable rich old woman and insinuate themselves into her life while they sponge off her.
-44. Movie: The Amazing Dr. Clitterhouse
-Genre: Crime, Drama
-Description: Black comedy about a brilliant Park Avenue doctor who becomes a criminal in order to do research into the criminal mind.
-45. Movie: Love Finds Andy Hardy
-Genre: Comedy, Romance
-Description: Andy's girlfriend Polly is planning to spend Christmas at her grandmother's, which puts a kink in his plans to take her to the country club Christmas party. He agrees (for a fee) to pretend...See full summary&nbsp;&raquo;
-46. Movie: Swiss Miss
-Genre: Comedy, Musical
-Description: Stanley and Oliver are mousetrap salesmen hoping to strike it rich in Switzerland, but get swindled out of all their money by a cheesemaker. While working off their hotel debt, Oliver falls...See full summary&nbsp;&raquo;
-47. Movie: Tarnished Angel
-Genre: Drama
-Description: The ex-fiance of a young rich man becomes the companion of a jewel thief, forming a vaudeville act with face "cure", but after she discovers, that she can really cure people, she decides ...See full summary&nbsp;&raquo;
-48. Movie: The Great Waltz
-Genre: Biography, Drama, Music
-Description: In 1845 Vienna,Johann StraussII - Schani to his friends - would rather write and perform waltzes than anything else, this at a time when a waltz is not considered proper society music. ...See full summary&nbsp;&raquo;
-49. Movie: Letter of Introduction
-Genre: Comedy, Drama
-Description: An aging actor, trying to make a comeback on Broadway, is surprised when his estranged daughter shows up. It seems that she is an actress and is also trying to make it on Broadway. He tries...See full summary&nbsp;&raquo;
-50. Movie: Alexander's Ragtime Band
-Genre: Drama, Musical, Romance
-Description: This send-up of ragtime song and dance begins in 1915 San Francisco when society boy Roger Grant decides to pursue popular rather than serious music.
+39. Movie: The Buccaneer
+40. Movie: Three Comrades
+41. Movie: Love Finds Andy Hardy
+42. Movie: The Lone Ranger
+43. Movie: The Sisters
+44. Movie: Vivacious Lady
+45. Movie: Room Service
+46. Movie: La bte humaine
+47. Movie: Htel du Nord
+48. Movie: Bluebeard's Eighth Wife
+49. Movie: Block-Heads
+50. Movie: If I Were King

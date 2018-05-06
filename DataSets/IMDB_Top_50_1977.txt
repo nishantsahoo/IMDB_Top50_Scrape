@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 1977-01-01 to 1977-12-31 : 
 1. Movie: Star Wars
-Genre: Action, Adventure, Fantasy
-Description: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a wookiee and two droids to save the galaxy from the Empire's world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.
-2. Movie: Pete's Dragon
-Genre: Animation, Adventure, Comedy
-Description: An orphan boy and his magical dragon come to town with his abusive adoptive parents in pursuit.
-3. Movie: Close Encounters of the Third Kind
-Genre: Drama, Sci-Fi
-Description: After an encounter with U.F.O.s, a line worker feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen.
-4. Movie: Annie Hall
-Genre: Comedy, Romance
-Description: Neurotic New York comedian Alvy Singer falls in love with the ditzy Annie Hall.
-5. Movie: Eraserhead
-Genre: Fantasy, Horror
-Description: Henry Spencer tries to survive his industrial environment, his angry girlfriend, and the unbearable screams of his newly born mutant child.
-6. Movie: Saturday Night Fever
-Genre: Drama, Music
-Description: A Brooklyn teenager feels his only chance to succeed is as the king of the disco floor. His carefree youth and weekend dancing help him to forget the reality of his bleak life.
-7. Movie: Smokey and the Bandit
-Genre: Action, Comedy
-Description: The Bandit is hired on to run a tractor trailer full of beer over county lines in hot pursuit by a pesky sheriff.
-8. Movie: The Spy Who Loved Me
-Genre: Action, Adventure, Thriller
-Description: James Bond investigates the hijacking of British and Russian submarines carrying nuclear warheads with the help of a KGB agent whose lover he killed.
-9. Movie: A Bridge Too Far
-Genre: Drama, History, War
-Description: Operation Market Garden, September 1944: The Allies attempt to capture several strategically important bridges in the Netherlands in the hope of breaking the German lines. However, mismanagement and poor planning result in its failure.
-10. Movie: Suspiria
-Genre: Horror
-Description: A newcomer to a fancy ballet academy gradually comes to realize that the school is a front for something far more sinister and supernatural amidst a series of grisly murders.
-11. Movie: Slap Shot
-Genre: Comedy, Drama, Sport
-Description: A failing ice hockey team finds success using constant fighting and violence during games.
-12. Movie: The Hills Have Eyes
-Genre: Horror, Thriller
-Description: On the way to California, a family has the misfortune to have their car break down in an area closed to the public, and inhabited by violent savages ready to attack.
-13. Movie: Rabid
-Genre: Horror, Sci-Fi
-Description: A young woman develops a taste for human blood after undergoing experimental plastic surgery, and her victims turn into rabid, blood-thirsty zombies who proceed to infect others, which turns into a city-wide epidemic.
-14. Movie: New York, New York
-Genre: Drama, Music, Musical
-Description: An egotistical saxophonist and a young singer meet on V-J Day and embark upon a strained and rocky romance, even as their careers begin a long, up-hill climb.
-15. Movie: Exorcist II: The Heretic
-Genre: Horror
-Description: A teenage girl once possessed by a demon finds that it still lurks within her. Meanwhile, a priest investigates the death of the girl's exorcist.
-16. Movie: Julia
-Genre: Drama
-Description: At the behest of an old and dear friend, playwright Lillian Hellman undertakes a dangerous mission to smuggle funds into Nazi Germany.
-17. Movie: The Rescuers
-Genre: Animation, Adventure, Comedy
-Description: Two mice of the Rescue Aid Society search for a little girl kidnapped by unscrupulous treasure hunters.
-18. Movie: Capricorn One
-Genre: Action, Thriller
-Description: A NASA Mars mission won't work, and its funding is endangered, so they decide to fake it just this once. But then they have to keep the secret...
-19. Movie: The Deep
-Genre: Adventure, Mystery, Thriller
-Description: A pair of young vacationers are involved in a dangerous conflict with treasure hunters when they discover a way into a deadly wreck in Bermuda waters. Featuring extended underwater ...See full summary&nbsp;&raquo;
-20. Movie: Sorcerer
-Genre: Adventure, Drama, Thriller
-Description: Four unfortunate men from different parts of the globe agree to risk their lives transporting gallons of nitroglycerin across dangerous South American jungle.
-21. Movie: 3 Women
-Genre: Drama, Mystery, Thriller
-Description: Pinky is an awkward adolescent who starts work at a spa in the California desert. She becomes overly attached to fellow spa attendant, Millie when she becomes Millie's room-mate. Millie is ...See full summary&nbsp;&raquo;
-22. Movie: The Many Adventures of Winnie the Pooh
-Genre: Animation, Comedy, Family
-Description: A collection of animated shorts based on the stories and characters by A. A. Milne.
-23. Movie: The Car
-Genre: Action, Horror, Mystery
-Description: A mysterious black, sleek automobile terrorizes everyone it comes into contact with in a small town in Utah. The local sheriff may be the only person who can stop this menace which has been possessed by pure evil.
-24. Movie: Looking for Mr. Goodbar
-Genre: Drama, Romance
-Description: A dedicated schoolteacher spends her nights cruising bars, looking for abusive men with whom she can engage in progressively violent sexual encounters.
-25. Movie: Wizards
-Genre: Animation, Adventure, Fantasy
-Description: On a post-apocalyptic Earth, a wizard and his faire folk comrades fight an evil wizard who's using technology in his bid for conquest.
-26. Movie: The Duellists
-Genre: Drama, War
-Description: A duel between two feuding Napoleonic officers eventually evolves into a decades-long series of duels, after each bout - for various reasons - ends unresolved.
-27. Movie: Bilitis
-Genre: Drama, Romance
-Description: A coming of age story centering on the exploits of a young girl during summer vacation.
-28. Movie: The Kentucky Fried Movie
-Genre: Comedy
-Description: A series of short, highly irreverent, and often tasteless skits.
-29. Movie: Hausu
-Genre: Comedy, Fantasy, Horror
-Description: A schoolgirl and six of her classmates travel to her aunt's country home, which tries to devour the girls in bizarre ways.
-30. Movie: Cross of Iron
-Genre: Drama, War
-Description: A German commander places a squad in extreme danger after its Sergeant refuses to lie for him.
-31. Movie: High Anxiety
-Genre: Comedy
-Description: Mel Brooks' parody of Alfred Hitchcock films.
-32. Movie: Airport '77
-Genre: Action, Drama, Thriller
-Description: Art thieves hijack a 747, hit fog and crash into the ocean, trapping them and the passengers under 100 feet of water.
-33. Movie: Emanuelle e gli ultimi cannibali
-Genre: Adventure, Horror
-Description: A reporter and an anthropologist traverse the amazon jungle to unearth the origins behind a mysterious woman, reputed to have been raised by a cannibal tribe.
-34. Movie: Equus
-Genre: Drama, Mystery
-Description: A psychiatrist attempts to uncover a troubled stable boy's disturbing obsession with horses.
-35. Movie: The Gauntlet
-Genre: Action, Thriller
-Description: A hard but mediocre cop is assigned to escort a prostitute into custody from Las Vegas to Phoenix, so that she can testify in a mob trial. But a lot of people are literally betting that they won't make it into town alive.
-36. Movie: The Goodbye Girl
-Genre: Comedy, Drama, Romance
-Description: After being dumped by her live-in boyfriend, an unemployed dancer and her 10-year-old daughter are reluctantly forced to live with a struggling off-Broadway actor.
-37. Movie: The Sentinel
-Genre: Horror
-Description: Not ready for marriage, a fashion model moves into an unbelievably nice Brooklyn Heights apartment, where scary occurrences turn into a much more frightening turn of events.
-38. Movie: Sinbad and the Eye of the Tiger
-Genre: Action, Adventure, Family
-Description: Sinbad The Sailor sails to deliver a cursed prince to a dangerous island in the face of deadly opposition from a powerful witch.
-39. Movie: Orca
-Genre: Adventure, Drama, Horror
-Description: A hunter squares off against a killer whale seeking vengeance for the death of its mate.
+2. Movie: Suspiria
+3. Movie: Saturday Night Fever
+4. Movie: The Spy Who Loved Me
+5. Movie: Close Encounters of the Third Kind
+6. Movie: Slap Shot
+7. Movie: Eraserhead
+8. Movie: A Bridge Too Far
+9. Movie: The Hills Have Eyes
+10. Movie: Annie Hall
+11. Movie: Smokey and the Bandit
+12. Movie: One on One
+13. Movie: Sorcerer
+14. Movie: Rabid
+15. Movie: The Rescuers
+16. Movie: Pete's Dragon
+17. Movie: The Deep
+18. Movie: Der Ruf der blonden Gttin
+19. Movie: The Many Adventures of Winnie the Pooh
+20. Movie: Bilitis
+21. Movie: Jabberwocky
+22. Movie: Hausu
+23. Movie: Exorcist II: The Heretic
+24. Movie: Damnation Alley
+25. Movie: The Kentucky Fried Movie
+26. Movie: Capricorn One
+27. Movie: New York, New York
+28. Movie: The Car
+29. Movie: Cross of Iron
+30. Movie: The Gauntlet
+31. Movie: Looking for Mr. Goodbar
+32. Movie: The Goodbye Girl
+33. Movie: Cet obscur objet du dsir
+34. Movie: Bobby Deerfield
+35. Movie: Wizards
+36. Movie: The Sentinel
+37. Movie: Julia
+38. Movie: Airport '77
+39. Movie: The Duellists
 40. Movie: Demon Seed
-Genre: Horror, Sci-Fi
-Description: A scientist creates Proteus--an organic super computer with artificial intelligence which becomes obsessed with human beings, and in particular the creators wife.
-41. Movie: Which Way Is Up?
-Genre: Comedy
-Description: Richard Pryor is playing three different roles here. The first being a poor orange picker named Leroy Jones who gets laid off when by mistake he joins the worker's union during one of their...See full summary&nbsp;&raquo;
-42. Movie: Jabberwocky
-Genre: Adventure, Comedy, Fantasy
-Description: A young peasant, with no interest in adventure or fortune, is mistaken as the kingdom's only hope when a horrible monster threatens the countryside.
-43. Movie: Der Amerikanische Freund
-Genre: Crime, Drama, Mystery
-Description: Tom Ripley, who deals in forged art, suggests a picture framer he knows would make a good hit man.
-44. Movie: Una giornata particolare
-Genre: Drama
-Description: Two neighbors, a persecuted journalist and a resigned housewife, meet during Hitler's visit in Italy in 1938.
-45. Movie: The Island of Dr. Moreau
-Genre: Adventure, Fantasy, Horror
-Description: A shipwrecked survivor discovers a remote island with a mad scientist.
-46. Movie: Cet obscur objet du désir
-Genre: Comedy, Drama
-Description: Recounted in flashback are the romantic perils of Mathieu, a middle-aged French sophisticate as he falls for his nineteen year-old former chambermaid Conchita.
-47. Movie: Rolling Thunder
-Genre: Action, Drama, Crime
-Description: Major Charles Rane comes back from the war and is given a number of gifts from his hometown because he is a war hero. Some greedy thugs decide that they want to steal a number of silver ...See full summary&nbsp;&raquo;
-48. Movie: Opening Night
-Genre: Drama
-Description: An actress suffers an emotional uproar in her personal life after a fan dies trying to see her.
-49. Movie: Black Sunday
-Genre: Action, Drama, Thriller
-Description: Black Sunday is the powerful story of a Black September terrorist group attempting to blow up a Goodyear blimp hovering over the Super Bowl stadium with 80,000 people and the president of the United States in attendance.
-50. Movie: Oh, God!
-Genre: Comedy, Fantasy
-Description: When God appears to an assistant grocery manager as a good natured old man, the Almighty selects him as his messenger for the modern world.
+41. Movie: Emanuelle e gli ultimi cannibali
+42. Movie: Orca
+43. Movie: High Anxiety
+44. Movie: 3 Women
+45. Movie: Sinbad and the Eye of the Tiger
+46. Movie: The Turning Point
+47. Movie: MacArthur
+48. Movie: Rolling Thunder
+49. Movie: Equus
+50. Movie: Valentino

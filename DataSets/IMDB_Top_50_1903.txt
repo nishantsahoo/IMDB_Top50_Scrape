@@ -1,20 +1,10 @@
 Most Popular Feature Films Released 1903-01-01 to 1903-12-31 : 
 1. Movie: The Three Musketeers
-Description: Add a Plot
-2. Movie: Alibaba and the Forty Thieves
-Description: Add a Plot
+2. Movie: The Divorce
 3. Movie: Who Said Watermelon
-Description: This shows an old man coming along happy in his belief that he has a large, fine watermelon; but a crowd of street kids have made up their minds to get the melon, and the picture shows them...See full summary&nbsp;&raquo;
-4. Movie: Massacres de Macédonie
-Description: Add a Plot
+4. Movie: Pica, pica Compadrito
 5. Movie: Reliance: Shamrock III
-Description: Add a Plot
-6. Movie: Der Specht
-Description: Add a Plot
-7. Movie: The Divorce
-Genre: Drama
-Description: A husband walks out on his wife, leaving an incriminating letter behind. She hires a detective, who discovers the husband in a compromising position with another woman.
-8. Movie: Tôkyôza katsudô daishashin
-Description: Add a Plot
-9. Movie: Pica, pica Compadrito
-Description: Add a Plot
+6. Movie: Alibaba and the Forty Thieves
+7. Movie: Massacres de Macdonie
+8. Movie: Der Specht
+9. Movie: Tkyza katsud daishashin

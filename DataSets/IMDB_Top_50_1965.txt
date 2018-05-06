@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 1965-01-01 to 1965-12-31 : 
 1. Movie: The Sound of Music
-Genre: Biography, Drama, Family
-Description: A woman leaves an Austrian convent to become a governess to the children of a Naval officer widower.
-2. Movie: The Sons of Katie Elder
-Genre: Western
-Description: Ranch owner Katie Elder's four sons determine to avenge the murder of their father and the swindling of their mother.
+2. Movie: Per qualche dollaro in pi
 3. Movie: Doctor Zhivago
-Genre: Drama, Romance, War
-Description: The life of a Russian physician and poet who, although married to another, falls in love with a political activist's wife and experiences hardship during the First World War and then the October Revolution.
-4. Movie: Per qualche dollaro in più
-Genre: Western
-Description: Two bounty hunters with the same intentions team up to track down a Western outlaw.
+4. Movie: None But the Brave
 5. Movie: Thunderball
-Genre: Action, Adventure, Thriller
-Description: James Bond heads to The Bahamas to recover two nuclear warheads stolen by SPECTRE agent Emilio Largo in an international extortion scheme.
-6. Movie: In Harm's Way
-Genre: Drama, War
-Description: A naval officer reprimanded after Pearl Harbor is later promoted to rear admiral and gets a second chance to prove himself against the Japanese.
-7. Movie: A Patch of Blue
-Genre: Drama, Romance
-Description: A blind, uneducated white girl is befriended by a black man, who becomes determined to help her escape her impoverished and abusive home life.
-8. Movie: The Spy Who Came in from the Cold
-Genre: Drama, Thriller
-Description: British agent Alec Leamas refuses to come in from the Cold War during the 1960s, choosing to face another mission, which may prove to be his final one.
+6. Movie: The Great Race
+7. Movie: Repulsion
+8. Movie: Battle of the Bulge
 9. Movie: Cat Ballou
-Genre: Comedy, Romance, Western
-Description: A woman seeking revenge for her murdered father hires a famous gunman, but he's very different from what she expects.
-10. Movie: Repulsion
-Genre: Drama, Horror, Thriller
-Description: A sex-repulsed woman who disapproves of her sister's boyfriend sinks into depression and has horrific visions of rape and violence.
-11. Movie: The Great Race
-Genre: Action, Adventure, Comedy
-Description: When a popular daredevil proposes an automobile race across three continents, his arch rival vows to beat him, while an ambitious female reporter has her own plans for victory.
-12. Movie: Battle of the Bulge
-Genre: Drama, History, War
-Description: A dramatization of Nazi Germany's final Western Front counterattack of World War II.
-13. Movie: The Flight of the Phoenix
-Genre: Adventure, Drama
-Description: After a plane crash in the Sahara, one of the survivors says he's an airplane designer and they can make a flyable plane from the wreckage.
-14. Movie: Faster, Pussycat! Kill! Kill!
-Genre: Action, Comedy
-Description: Three go-go dancers holding a young girl hostage come across a crippled old man living with his two sons in the desert. After learning he's hiding a sum of cash around, the women start scheming on him.
-15. Movie: How to Stuff a Wild Bikini
-Genre: Comedy, Musical
-Description: Frankie, on naval-reserve duty in Tahiti, doesn't trust Dee Dee to stay faithful, so he hires Bwana, a witch doctor, to help. Bwana conjures up a floating bikini, "stuffs" it with Cassandra...See full summary&nbsp;&raquo;
-16. Movie: The Greatest Story Ever Told
-Genre: Biography, Drama, History
-Description: The life of Jesus Christ.
-17. Movie: Pierrot le fou
-Genre: Crime, Drama, Romance
-Description: Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run.
-18. Movie: Major Dundee
-Genre: Adventure, War, Western
-Description: In 1864, due to frequent Apache raids from Mexico into the US, a Union officer decides to illegally cross the border and destroy the Apache, using a mixed army of Union troops, Confederate POWs, civilian mercenaries and scouts.
-19. Movie: The Collector
-Genre: Drama, Thriller
-Description: A man kidnaps a woman and holds her hostage just for the pleasure of having her there.
-20. Movie: That Darn Cat!
-Genre: Comedy, Crime, Family
-Description: A woman is kidnapped. While in captivity, she manages to send a message out with a wandering cat. The cat's owner calls the FBI. The FBI tries to follow the cat. Jealous boyfriends and nosy...See full summary&nbsp;&raquo;
-21. Movie: Help!
-Genre: Adventure, Comedy, Musical
-Description: Ringo finds himself the human sacrifice target of a cult and the band must try to protect him from it.
-22. Movie: The Cincinnati Kid
-Genre: Drama
-Description: An up-and-coming poker player tries to prove himself in a high-stakes match against a long-time master of the game.
-23. Movie: Those Magnificent Men in Their Flying Machines or How I Flew from London to Paris in 25 hours 11 minutes
-Genre: Adventure, Comedy, Family
-Description: Sabotage efforts damage an international air race.
-24. Movie: Shenandoah
-Genre: Drama, War, Western
-Description: In Shenandoah, Virginia, widower farmer Charlie Anderson lives a peaceful life with his six sons - Jacob, James, Nathan, John, Henry and Boy, his daughter Jennie, and his daughter-in-law ...See full summary&nbsp;&raquo;
-25. Movie: What's New Pussycat
-Genre: Comedy
-Description: A playboy who refuses to give up his hedonistic lifestyle to settle down and marry his true love seeks help from a demented psychoanalyst who is having romantic problems of his own.
-26. Movie: Alphaville, une étrange aventure de Lemmy Caution
-Genre: Drama, Mystery, Sci-Fi
-Description: A U.S. secret agent is sent to the distant space city of Alphaville where he must find a missing person and free the city from its tyrannical ruler.
-27. Movie: The Ipcress File
-Genre: Thriller
-Description: In London, a counter espionage agent deals with his own bureaucracy while investigating the kidnapping and brainwashing of British scientists.
-28. Movie: Akahige
-Genre: Drama
-Description: In 19th century Japan, a rough tempered yet charitable town doctor trains a young intern.
-29. Movie: Darling
-Genre: Drama, Romance
-Description: A beautiful but amoral model sleeps her way to the top of the London fashion scene at the height of the Swinging Sixties.
-30. Movie: Marriage on the Rocks
-Genre: Comedy
-Description: Ad-agency president Dan Edwards who, when he goes to Mexico to celebrate his nineteenth wedding anniversary, winds up getting divorced by mistake - whereupon his wife Valerie marries his ...See full summary&nbsp;&raquo;
-31. Movie: Spaceflight IC-1: An Adventure in Space
-Genre: Sci-Fi
-Description: A spaceship crewman plots a mutiny against the stern leader taking a group of people to settle on a new planet from Earth.
-32. Movie: Ship of Fools
-Genre: Drama, Romance, War
-Description: A varied group of passengers boarding a ship bound for post-war Germany represents a microcosm of 1930s society.
-33. Movie: The Agony and the Ecstasy
-Genre: Biography, Drama, History
-Description: The biographical story of Michelangelo's troubles while painting the Sistine Chapel at the urging of Pope Julius II.
+10. Movie: The Greatest Story Ever Told
+11. Movie: Help!
+12. Movie: The Rounders
+13. Movie: The Collector
+14. Movie: Beach Blanket Bingo
+15. Movie: Pierrot le fou
+16. Movie: Faster, Pussycat! Kill! Kill!
+17. Movie: In Harm's Way
+18. Movie: The Loves of a Blonde
+19. Movie: The Flight of the Phoenix
+20. Movie: The Sons of Katie Elder
+21. Movie: The Spy Who Came in from the Cold
+22. Movie: What's New Pussycat
+23. Movie: Boeing, Boeing
+24. Movie: The Cincinnati Kid
+25. Movie: Alphaville, une trange aventure de Lemmy Caution
+26. Movie: Apache Uprising
+27. Movie: Shenandoah
+28. Movie: The Ipcress File
+29. Movie: Von Ryan's Express
+30. Movie: Those Magnificent Men in Their Flying Machines or How I Flew from London to Paris in 25 hours 11 minutes
+31. Movie: She
+32. Movie: That Darn Cat!
+33. Movie: Darling
 34. Movie: The Heroes of Telemark
-Genre: Action, Drama, History
-Description: Norwegian resistance tries to stop German efforts to produce an atomic bomb component during World War II.
-35. Movie: Von Ryan's Express
-Genre: Action, Adventure, War
-Description: An American POW leads a group of mainly British prisoners to escape from the Germans in WWII.
-36. Movie: The Sandpiper
-Genre: Drama
-Description: A free-spirited single mother forms a connection with the wed headmaster of an Episcopal boarding school in California.
-37. Movie: Falstaff (Chimes at Midnight)
-Genre: Comedy, Drama, History
-Description: The career of Shakespeare's Sir John Falstaff as roistering companion to young Prince Hal, circa 1400-1413.
-38. Movie: Morituri
-Genre: Action, Drama, Thriller
-Description: A war pacifist is blackmailed to pose as an SS officer and to disable the scuttling explosives on freighter carrying rubber cargo to be captured by the Allies.
-39. Movie: The Hill
-Genre: Drama, War
-Description: In a North African military prison during World War II, five new prisoners struggle to survive in the face of brutal punishment and sadistic guards.
-40. Movie: Genghis Khan
-Genre: Adventure, Drama, History
-Description: During the 13th century the shy Mongol boy Temujin becomes the fearless leader Genghis Khan who unites all Mongol tribes and conquers most of Asia, Europe and the Middle-East.
-41. Movie: Girl Happy
-Genre: Comedy, Musical, Romance
-Description: A Chicago mobster hires a rock and roll singer and his band to keep an eye on his daughter during Spring Break in Fort Lauderdale, Florida.
-42. Movie: Inside Daisy Clover
-Genre: Drama, Music, Romance
-Description: A tomboy turned movie star deals with the cruelty of Hollywood.
-43. Movie: The Naked Prey
-Genre: Adventure, Drama, Thriller
-Description: A group of men are on safari. One of the party refuses to give a gift to a tribe they encounter. The tribe is offended, seizes the party, and one-by-one, kills all but one of the safari ...See full summary&nbsp;&raquo;
-44. Movie: She
-Genre: Adventure, Fantasy
-Description: An Edwardian archaeologist and two companions stumble upon a lost city in East Africa, run by a beautiful queen whose love holds the promise of immortality.
-45. Movie: Beach Blanket Bingo
-Genre: Comedy, Musical, Romance
-Description: In the fourth of the highly successful Frankie and Annette beach party movies, a motorcycle gang led by Eric Von Zipper kidnaps singing star Sugar Kane managed by Bullets, who hires ...See full summary&nbsp;&raquo;
-46. Movie: Ten Little Indians
-Genre: Crime, Mystery, Thriller
-Description: Ten people are invited to a luxury mountaintop mansion, only to find that an unseen person is killing them one by one. Could one of them be the killer?
-47. Movie: Dr. Who and the Daleks
-Genre: Adventure, Family, Sci-Fi
-Description: An eccentric inventor and his companions travel in his TARDIS to the Planet Skaro and battle the evil menace of the Daleks.
-48. Movie: Giulietta degli spiriti
-Genre: Comedy, Drama, Fantasy
-Description: Visions, memories, and mysticism all help a 40-something woman to find the strength to leave her cheating husband.
-49. Movie: Othello
-Genre: Drama
-Description: A general's marriage is destroyed when a vengeful lieutenant convinces him that his new wife has been unfaithful.
-50. Movie: Ballad in Blue
-Genre: Drama
-Description: Ray Charles attempts to help a down-on-their-luck boozing family whose son is blind. He wants to finance the recovery of his eye-sight, but the family is afraid what might happen if something goes wrong.
+35. Movie: Terrore nello spazio
+36. Movie: The Hill
+37. Movie: Ship of Fools
+38. Movie: The Sandpiper
+39. Movie: A Patch of Blue
+40. Movie: Ten Little Indians
+41. Movie: Mirage
+42. Movie: Falstaff (Chimes at Midnight)
+43. Movie: Akahige
+44. Movie: I've Gotta Horse
+45. Movie: Major Dundee
+46. Movie: Othello
+47. Movie: The Agony and the Ecstasy
+48. Movie: The Naked Prey
+49. Movie: How to Murder Your Wife
+50. Movie: La decima vittima

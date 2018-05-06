@@ -1,11 +1,6 @@
 Most Popular Feature Films Released 1904-01-01 to 1904-12-31 : 
-1. Movie: Los políticos
-Description: Add a Plot
-2. Movie: The Bengali Fisherman
-Description: Add a Plot
-3. Movie: Asahi katsudô daishashin
-Description: Add a Plot
-4. Movie: Abajo la careta
-Description: Add a Plot
-5. Movie: Elämää esplanaadikadulla
-Description: Add a Plot
+1. Movie: The Bengali Fisherman
+2. Movie: Asahi katsud daishashin
+3. Movie: Los polticos
+4. Movie: Elm esplanaadikadulla
+5. Movie: Abajo la careta

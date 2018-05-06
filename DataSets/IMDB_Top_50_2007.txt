@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 2007-01-01 to 2007-12-31 : 
-1. Movie: Chapter 27
-Genre: Biography, Crime, Drama
-Description: A film about Mark David Chapman in the days leading up to the infamous murder of Beatle John Lennon.
+1. Movie: Spider-Man 3
 2. Movie: No Country for Old Men
-Genre: Crime, Drama, Thriller
-Description: Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.
-3. Movie: Superbad
-Genre: Comedy
-Description: Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry.
-4. Movie: Gone Baby Gone
-Genre: Crime, Drama, Mystery
-Description: Two Boston area detectives investigate a little girl's kidnapping, which ultimately turns into a crisis both professionally and personally.
-5. Movie: Resident Evil: Extinction
-Genre: Action, Horror, Sci-Fi
-Description: Survivors of the Raccoon City catastrophe travel across the Nevada desert, hoping to make it to Alaska. Alice joins the caravan and their fight against the evil Umbrella Corp.
-6. Movie: Stardust
-Genre: Adventure, Family, Fantasy
-Description: In a countryside town bordering on a magical land, a young man makes a promise to his beloved that he'll retrieve a fallen star by venturing into the magical realm.
-7. Movie: Harry Potter and the Order of the Phoenix
-Genre: Adventure, Family, Fantasy
-Description: With their warning about Lord Voldemort's return scoffed at, Harry and Dumbledore are targeted by the Wizard authorities as an authoritarian bureaucrat slowly seizes power at Hogwarts.
-8. Movie: There Will Be Blood
-Genre: Drama, History
-Description: A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.
-9. Movie: Shooter
-Genre: Action, Crime, Drama
-Description: A marksman living in exile is coaxed back into action after learning of a plot to kill the President. Ultimately double-crossed and framed for the attempt, he goes on the run to find the real killer and the reason he was set up.
-10. Movie: Fracture
-Genre: Crime, Drama, Mystery
-Description: An attorney, intent on climbing the career ladder toward success, finds an unlikely opponent in a manipulative criminal he is trying to prosecute.
-11. Movie: Atonement
-Genre: Drama, Mystery, Romance
-Description: Fledgling writer Briony Tallis, as a thirteen-year-old, irrevocably changes the course of several lives when she accuses her older sister's lover of a crime he did not commit.
+3. Movie: American Gangster
+4. Movie: Knocked Up
+5. Movie: Ratatouille
+6. Movie: Harry Potter and the Order of the Phoenix
+7. Movie: Stardust
+8. Movie: Into the Wild
+9. Movie: Zodiac
+10. Movie: Atonement
+11. Movie: There Will Be Blood
 12. Movie: Transformers
-Genre: Action, Adventure, Sci-Fi
-Description: An ancient struggle between two Cybertronian races, the heroic Autobots and the evil Decepticons, comes to Earth, with a clue to the ultimate power held by a teenager.
-13. Movie: Into the Wild
-Genre: Adventure, Biography, Drama
-Description: After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness. Along the way, Christopher encounters a series of characters that shape his life.
-14. Movie: Zodiac
-Genre: Crime, Drama, History
-Description: In the late 1960s/early 1970s, a San Francisco cartoonist becomes an amateur detective obsessed with tracking down the Zodiac Killer, an unidentified individual who terrorizes Northern California with a killing spree.
+13. Movie: Superbad
+14. Movie: Hot Fuzz
 15. Movie: Death Proof
-Genre: Thriller
-Description: Two separate sets of voluptuous women are stalked at different times by a scarred stuntman who uses his "death proof" cars to execute his murderous plans.
-16. Movie: Bee Movie
-Genre: Animation, Adventure, Comedy
-Description: Barry B. Benson, a bee just graduated from college, is disillusioned at his lone career choice: making honey. On a special trip outside the hive, Barry's life is saved by Vanessa, a florist in New York City. As their relationship blossoms, he discovers humans actually eat honey, and subsequently decides to sue them.
-17. Movie: Spider-Man 3
-Genre: Action, Adventure
-Description: A strange black entity from another world bonds with Peter Parker and causes inner turmoil as he contends with new villains, temptations, and revenge.
-18. Movie: Pirates of the Caribbean: At World's End
-Genre: Action, Adventure, Fantasy
-Description: Captain Barbossa, Will Turner and Elizabeth Swann must sail off the edge of the map, navigate treachery and betrayal, find Jack Sparrow, and make their final alliances for one last decisive battle.
-19. Movie: Hot Fuzz
-Genre: Action, Comedy, Mystery
-Description: Exceptional London cop Nicholas Angel is involuntarily transferred to a quaint English village and paired with a witless new partner. While on the beat, Nicholas suspects a sinister conspiracy is afoot with the residents.
-20. Movie: P.S. I Love You
-Genre: Drama, Romance
-Description: A young widow discovers that her late husband has left her 10 messages intended to help ease her pain and start a new life.
-21. Movie: I Am Legend
-Genre: Drama, Horror, Sci-Fi
-Description: Years after a plague kills most of humanity and transforms the rest into monsters, the sole survivor in New York City struggles valiantly to find a cure.
-22. Movie: The Mist
-Genre: Horror
-Description: A freak storm unleashes a species of bloodthirsty creatures on a small town, where a small band of citizens hole up in a supermarket and fight for their lives.
-23. Movie: American Gangster
-Genre: Biography, Crime, Drama
-Description: In 1970s America, a detective works to bring down the drug empire of Frank Lucas, a heroin kingpin from Manhattan, who is smuggling the drug into the country from the Far East.
-24. Movie: Ratatouille
-Genre: Animation, Comedy, Family
-Description: A rat who can cook makes an unusual alliance with a young kitchen worker at a famous restaurant.
-25. Movie: Sweeney Todd: The Demon Barber of Fleet Street
-Genre: Drama, Horror, Musical
-Description: The infamous story of Benjamin Barker, AKA Sweeney Todd, who sets up a barber shop down in London which is the basis for a sinister partnership with his fellow tenant, Mrs. Lovett. Based on the hit Broadway musical.
-26. Movie: Enchanted
-Genre: Animation, Comedy, Family
-Description: A princess, who is prepared to be wed, is sent away to New York by an evil queen, where she falls in love with a lawyer.
-27. Movie: Juno
-Genre: Comedy, Drama
-Description: Faced with an unplanned pregnancy, an offbeat young woman makes an unusual decision regarding her unborn child.
-28. Movie: Eastern Promises
-Genre: Crime, Mystery, Thriller
-Description: A Russian teenager living in London who dies during childbirth leaves clues to a midwife in her journal that could tie her child to a rape involving a violent Russian mob family.
+16. Movie: I Am Legend
+17. Movie: Shooter
+18. Movie: Enchanted
+19. Movie: Waitress
+20. Movie: Hairspray
+21. Movie: The Mist
+22. Movie: Pirates of the Caribbean: At World's End
+23. Movie: Live Free or Die Hard
+24. Movie: 28 Weeks Later
+25. Movie: 3:10 to Yuma
+26. Movie: Fracture
+27. Movie: The Babysitters
+28. Movie: Juno
 29. Movie: Ocean's Thirteen
-Genre: Crime, Thriller
-Description: Danny Ocean rounds up the boys for a third heist, after casino owner Willy Bank double-crosses one of the original eleven, Reuben Tishkoff.
-30. Movie: Disturbia
-Genre: Drama, Mystery, Thriller
-Description: A teen living under house arrest becomes convinced his neighbor is a serial killer.
-31. Movie: Funny Games
-Genre: Crime, Drama, Horror
-Description: Two psychopathic young men take a family hostage in their cabin.
-32. Movie: Bridge to Terabithia
-Genre: Adventure, Drama, Family
-Description: A preteen's life turns upside down when he befriends the new girl in school and they imagine a whole new fantasy world to escape reality.
-33. Movie: The Assassination of Jesse James by the Coward Robert Ford
-Genre: Biography, Crime, Drama
-Description: Robert Ford, who's idolized Jesse James since childhood, tries hard to join the reforming gang of the Missouri outlaw, but gradually becomes resentful of the bandit leader.
-34. Movie: Lars and the Real Girl
-Genre: Comedy, Drama, Romance
-Description: A delusional young man strikes up an unconventional relationship with a doll he finds on the Internet.
-35. Movie: The Bourne Ultimatum
-Genre: Action, Mystery, Thriller
-Description: Jason Bourne dodges a ruthless CIA official and his agents from a new assassination program while searching for the origins of his life as a trained killer.
-36. Movie: Hairspray
-Genre: Comedy, Drama, Family
-Description: Pleasantly plump teenager Tracy Turnblad teaches 1962 Baltimore a thing or two about integration after landing a spot on a local TV dance show.
-37. Movie: Nancy Drew
-Genre: Comedy, Crime, Family
-Description: Teen detective Nancy Drew accompanies her father on a business trip to Los Angeles, where she happens upon clues to a murder mystery involving a movie star.
-38. Movie: Across the Universe
-Genre: Drama, Fantasy, Musical
-Description: The music of the Beatles and the Vietnam War form the backdrop for the romance between an upper-class American girl and a poor Liverpudlian artist.
-39. Movie: Knocked Up
-Genre: Comedy, Romance
-Description: For fun-loving party animal Ben Stone, the last thing he ever expected was for his one-night stand to show up on his doorstep eight weeks later to tell him she's pregnant with his child.
-40. Movie: Music and Lyrics
-Genre: Comedy, Music, Romance
-Description: A washed up singer is given a couple days to compose a chart-topping hit for an aspiring teen sensation. Though he's never written a decent lyric in his life, he sparks with an offbeat younger woman with a flair for words.
-41. Movie: 3:10 to Yuma
-Genre: Adventure, Crime, Drama
-Description: A small-time rancher agrees to hold a captured outlaw who's awaiting a train to go to court in Yuma. A battle of wills ensues as the outlaw tries to psych out the rancher.
-42. Movie: Live Free or Die Hard
-Genre: Action, Adventure, Thriller
-Description: John McClane and a young hacker join forces to take down master cyber-terrorist Thomas Gabriel in Washington D.C.
-43. Movie: La môme
-Genre: Biography, Drama, Music
-Description: Biopic of the iconic French singerdith Piaf. Raised by her grandmother in a brothel, she was discovered while singing on a street corner at the age of 19. Despite her success, Piaf's life was filled with tragedy.
-44. Movie: Sunshine
-Genre: Adventure, Sci-Fi, Thriller
-Description: A team of international astronauts are sent on a dangerous mission to reignite the dying Sun with a nuclear fission bomb in 2057.
-45. Movie: The Golden Compass
-Genre: Adventure, Family, Fantasy
-Description: In a parallel universe, young Lyra Belacqua journeys to the far North to save her best friend and other kidnapped children from terrible experiments by a mysterious organization.
-46. Movie: Taare Zameen Par
-Genre: Drama, Family, Music
-Description: An eight-year-old boy is thought to be lazy trouble-maker, until the new art teacher has the patience and compassion to discover the real problem behind his struggles in school.
-47. Movie: Death at a Funeral
-Genre: Comedy
-Description: Chaos ensues when a man tries to expose a dark secret regarding a recently deceased patriarch of a dysfunctional British family.
-48. Movie: AVPR: Aliens vs Predator - Requiem
-Genre: Action, Horror, Sci-Fi
-Description: Warring alien and predator races descend on a rural US town, where unsuspecting residents must band together for any chance of survival.
-49. Movie: Charlie Wilson's War
-Genre: Biography, Comedy, Drama
-Description: A drama based on a Texas congressman Charlie Wilson's covert dealings in Afghanistan, where his efforts to assist rebels in their war with the Soviets have some unforeseen and long-reaching effects.
-50. Movie: Grindhouse
-Genre: Action, Horror, Thriller
-Description: Quentin Tarantino and Robert Rodriguez's homage to exploitation double features in the 60s and 70s with two back-to-back cult films that include previews of coming attractions between them.
+30. Movie: Halloween
+31. Movie: Teeth
+32. Movie: The Bourne Ultimatum
+33. Movie: Sunshine
+34. Movie: Good Luck Chuck
+35. Movie: Bridge to Terabithia
+36. Movie: The Girl Next Door
+37. Movie: Sweeney Todd: The Demon Barber of Fleet Street
+38. Movie: Eastern Promises
+39. Movie: I Now Pronounce You Chuck & Larry
+40. Movie: Walk Hard: The Dewey Cox Story
+41. Movie: Gone Baby Gone
+42. Movie: Hitman
+43. Movie: Ghost Rider
+44. Movie: Grindhouse
+45. Movie: Planet Terror
+46. Movie: 4: Rise of the Silver Surfer
+47. Movie: Across the Universe
+48. Movie: P.S. I Love You
+49. Movie: The Assassination of Jesse James by the Coward Robert Ford
+50. Movie: The Man from Earth

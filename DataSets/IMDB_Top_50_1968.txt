@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 1968-01-01 to 1968-12-31 : 
 1. Movie: 2001: A Space Odyssey
-Genre: Adventure, Mystery, Sci-Fi
-Description: Humanity finds a mysterious, obviously artificial object buried beneath the Lunar surface and, with the intelligent computer H.A.L. 9000, sets off on a quest.
-2. Movie: Once Upon a Time in the West
-Genre: Western
-Description: A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.
+2. Movie: The Thomas Crown Affair
 3. Movie: Planet of the Apes
-Genre: Adventure, Sci-Fi
-Description: An astronaut crew crash-lands on a planet in the distant future where intelligent talking apes are the dominant species, and humans are the oppressed and enslaved.
-4. Movie: Barbarella
-Genre: Adventure, Comedy, Fantasy
-Description: Barbarella, an astronaut from the 41st century, sets out to find and stop the evil scientist Durand Durand, whose Positronic Ray threatens to bring evil back into the galaxy.
-5. Movie: Rosemary's Baby
-Genre: Drama, Horror
-Description: A young couple move into an apartment, only to be surrounded by peculiar neighbors and occurrences. When the wife becomes mysteriously pregnant, paranoia over the safety of her unborn child begins to control her life.
-6. Movie: Romeo and Juliet
-Genre: Drama, Romance
-Description: When two young members of feuding families meet, forbidden love ensues.
-7. Movie: Ice Station Zebra
-Genre: Adventure, Drama, Thriller
-Description: USN nuclear sub USS Tigerfish must rush to the North Pole to rescue the staff of Drift Ice Station Zebra weather station.
-8. Movie: Hang 'Em High
-Genre: Western
-Description: When an innocent man barely survives a lynching, he returns as a lawman determined to bring the vigilantes to justice.
-9. Movie: Chitty Chitty Bang Bang
-Genre: Adventure, Family, Fantasy
-Description: A down-on-his-luck inventor turns a broken-down Grand Prix car into a fancy vehicle for his children, and then they go off on a magical fantasy adventure to save their grandfather in a far-off land.
-10. Movie: Bullitt
-Genre: Action, Crime, Mystery
-Description: An all guts, no glory San Francisco cop becomes determined to find the underworld kingpin that killed the witness in his protection.
-11. Movie: Night of the Living Dead
-Genre: Drama, Horror, Mystery
-Description: There is panic throughout the nation as the dead suddenly come back to life. The film follows a group of characters who barricade themselves in an old farmhouse in an attempt to remain safe from these flesh eating monsters.
-12. Movie: Where Eagles Dare
-Genre: Action, Adventure, War
-Description: Allied agents stage a daring raid on a castle where the Nazis are holding an American General prisoner... but that's not all that's really going on.
-13. Movie: The Thomas Crown Affair
-Genre: Crime, Drama, Romance
-Description: A debonair, adventuresome bank executive believes he has pulled off the perfect multi-million dollar heist, only to match wits with a sexy insurance investigator who will do anything to get her man.
+4. Movie: Once Upon a Time in the West
+5. Movie: Barbarella
+6. Movie: Rosemary's Baby
+7. Movie: Romeo and Juliet
+8. Movie: Bullitt
+9. Movie: Night of the Living Dead
+10. Movie: Chitty Chitty Bang Bang
+11. Movie: Yours, Mine and Ours
+12. Movie: The Green Berets
+13. Movie: Oliver!
 14. Movie: Funny Girl
-Genre: Biography, Comedy, Drama
-Description: The life ofFanny Brice, famed comedienne and entertainer of the early 1900s. We see her rise to fame as a Ziegfield girl, subsequent career and her personal life, particularly her relationship with Nick Arnstein.
-15. Movie: Oliver!
-Genre: Drama, Family, Musical
-Description: Young Oliver Twist runs away from an orphanage and meets a group of boys trained to be pickpockets by an elderly mentor.
-16. Movie: The Lion in Winter
-Genre: Biography, Drama, History
-Description: 1183 AD: King Henry II's three sons all want to inherit the throne, but he won't commit to a choice. They and his wife variously plot to force him.
-17. Movie: Bandolero!
-Genre: Action, Crime, Drama
-Description: Mace Bishop masquerades as a hangman in order to save his outlaw brother from the gallows, runs to Mexico chased by the sheriff's posse and fights against Mexican bandits.
-18. Movie: The Odd Couple
-Genre: Comedy
-Description: Two friends try sharing an apartment, but their ideas of housekeeping and lifestyles are as different as night and day.
-19. Movie: The Devil's Brigade
-Genre: Action, Drama, War
-Description: An American colonel who has never been in combat is assigned to create a special forces unit from Canadian Army troops and a ragtag group of U.S. Army misfits.
-20. Movie: The Charge of the Light Brigade
-Genre: Drama, History, War
-Description: A chronicle of events that led to the British involvement in the Crimean War against Russia and which led to the siege of Sevastopol and the fierce Battle of Balaclava on October 25, 1854 ...See full summary&nbsp;&raquo;
-21. Movie: The Party
-Genre: Comedy
-Description: A clerical mistake results in a bumbling Indian film star being invited to an exclusive Hollywood party instead of being fired.
-22. Movie: Hellfighters
-Genre: Action, Adventure, Drama
-Description: The story of macho oil well firefighters and their wives.
-23. Movie: Candy
-Genre: Adventure, Comedy, Fantasy
-Description: Candy, an innocent high-schooler, encounters numerous colorful characters and humorous sexual situations while attempting to find meaning in life.
-24. Movie: If....
-Genre: Drama
-Description: In this allegorical story, a revolution led by pupil Mick Travis takes place at an old established private school in England.
-25. Movie: The Love Bug
-Genre: Comedy, Family, Sport
-Description: A race car driver becomes a champion with a Volkswagen Beetle with a mind of its own.
-26. Movie: The Green Slime
-Genre: Drama, Horror, Sci-Fi
-Description: A giant asteroid is heading toward Earth so some astronauts disembark from a nearby space station to blow it up. The mission is successful, and they return to the station unknowingly ...See full summary&nbsp;&raquo;
-27. Movie: Yellow Submarine
-Genre: Animation, Adventure, Comedy
-Description: The Beatles agree to accompany Captain Fred in his Yellow Submarine and go to Pepperland to free it from the music hating Blue Meanies.
-28. Movie: The Green Berets
-Genre: Drama, War
-Description: Col. Mike Kirby picks two teams of crack Green Berets for a mission in South Vietnam. First off is to build and control a camp that is trying to be taken by the enemy the second mission is to kidnap a North Vietnamese General.
-29. Movie: Charly
-Genre: Drama, Romance, Sci-Fi
-Description: An intellectually disabled man undergoes an experiment that gives him the intelligence of a genius.
-30. Movie: Coogan's Bluff
-Genre: Action, Comedy, Crime
-Description: An Arizona deputy goes to New York City to escort a fugitive back into custody.
-31. Movie: The Swimmer
-Genre: Drama
-Description: Neddy Merrill has been away for most of the Summer. He reappears at a friends pool. As they talk, someone notices that there are pools spanning the entire valley. He decided to jog from ...See full summary&nbsp;&raquo;
-32. Movie: Teorema
-Genre: Drama, Mystery
-Description: A strange visitor in a wealthy family. He seduces the maid, the son, the mother, the daughter and finally the father before leaving a few days after. After he's gone, none of them can ...See full summary&nbsp;&raquo;
-33. Movie: Yours, Mine and Ours
-Genre: Comedy, Family
-Description: When a widower with 10 children marries a widow with 8, can the 20 of them ever come together as one big happy family? From finding a house big enough for all of them and learning to make ...See full summary&nbsp;&raquo;
-34. Movie: The Wrecking Crew
-Genre: Action, Adventure, Comedy
-Description: The count has stolen enough gold to cause a financial crisis in the world markets so I.C.E. sends in ace spy Matt Helm to stop him. As Matt works alone, the British send in Freya to aid ...See full summary&nbsp;&raquo;
-35. Movie: Head
-Genre: Comedy, Musical, Fantasy
-Description: The Monkees are tossed about in a psychedelic, surrealist, plotless, circular bit of fun fluff.
-36. Movie: Histoires extraordinaires
-Genre: Horror, Mystery
-Description: Three directors each adapt a Poe short story to the screen: "Toby Dammit" features a disheveled drugged and drunk English movie star who nods acceptance in the Italian press and his ...See full summary&nbsp;&raquo;
-37. Movie: Vixen!
-Genre: Drama
-Description: Vixen lives in a Canadian mountain resort with her naive pilot husband. While he's away flying in tourists, she gets it on with practically everybody including a husband and his wife, and ...See full summary&nbsp;&raquo;
-38. Movie: The Syndicate
-Genre: Adventure
-Description: An alcoholic, his wife, a down and out American pilot and a young German form a prospecting team to search for uranium in Africa and find themselves plagued by sinister accidents.
-39. Movie: The Boston Strangler
-Genre: Crime, Drama, Mystery
-Description: A series of brutal murders in Boston sparks a seemingly endless and increasingly complex manhunt.
-40. Movie: The Split
-Genre: Action, Crime, Drama
-Description: Thieves fall out when over a half million dollars goes missing after the daring and carefully planned robbery of the Los Angeles Coliseum during a football game, each one accusing the other of having the money.
-41. Movie: Lady in Cement
-Genre: Comedy, Crime, Drama
-Description: During an ocean dive, Miami gumshoe Tony Rome finds a woman's body with its feet encased in a concrete block and sets-out to solve the murder case.
-42. Movie: With Six You Get Eggroll
-Genre: Comedy, Drama, Family
-Description: Two widowed people fall in love and marry, unprepared for the hostile reactions of their children.
-43. Movie: Shalako
-Genre: Western
-Description: Shalako, the hunter and tracker, has to save a party of European hunters who are in danger from an Indian uprising.
-44. Movie: Faces
-Genre: Drama
-Description: An old married man leaves his wife for a younger woman. Shortly after, his ex-wife also begins a relationship with a younger partner. The film follows their struggles to find love amongst each other.
-45. Movie: Witchfinder General
-Genre: Biography, Drama, Horror
-Description: A young soldier seeks to put an end to the evils caused by a vicious witch hunter.
-46. Movie: Kaijû sôshingeki
-Genre: Action, Horror, Sci-Fi
-Description: Female aliens take control of Earth's monsters and begin using them to destroy the human race.
-47. Movie: Il grande silenzio
-Genre: Western
-Description: A mute gunfighter defends a young widow and a group of outlaws against a gang of bounty killers in the winter of 1898, and a grim, tense struggle unfolds.
-48. Movie: Vargtimmen
-Genre: Drama, Horror
-Description: While vacationing on a remote Scandanavian island with his younger pregnant wife, an artist has a emotional breakdown while confronting his repressed desires.
-49. Movie: Twisted Nerve
-Genre: Crime, Drama, Horror
-Description: Martin is a troubled young man. With a mother who insists on treating him like a child, a stepfather who can't wait to see the back of him, and a brother with Down's Syndrome shut away in ...See full summary&nbsp;&raquo;
-50. Movie: Finian's Rainbow
-Genre: Family, Fantasy, Musical
-Description: An Irish immigrant and his daughter move into a town in the American South with a magical piece of gold that will change people's lives, including a struggling farmer and African American citizens threatened by a bigoted politician.
+15. Movie: Where Eagles Dare
+16. Movie: The Party
+17. Movie: Il grande silenzio
+18. Movie: The Lion in Winter
+19. Movie: Hang 'Em High
+20. Movie: The Devil's Brigade
+21. Movie: The Odd Couple
+22. Movie: Yellow Submarine
+23. Movie: The Love Bug
+24. Movie: Bandolero!
+25. Movie: The Swimmer
+26. Movie: If....
+27. Movie: Vixen!
+28. Movie: Teorema
+29. Movie: Coogan's Bluff
+30. Movie: Histoires extraordinaires
+31. Movie: Charly
+32. Movie: Head
+33. Movie: Ice Station Zebra
+34. Movie: Candy
+35. Movie: The Devil Rides Out
+36. Movie: Faces
+37. Movie: Witchfinder General
+38. Movie: The One and Only, Genuine, Original Family Band
+39. Movie: Vargtimmen
+40. Movie: Carry On... Up the Khyber
+41. Movie: Madigan
+42. Movie: Hellfighters
+43. Movie: The Girl on a Motorcycle
+44. Movie: Un tranquillo posto di campagna
+45. Movie: Baisers vols
+46. Movie: The Boston Strangler
+47. Movie: The Wrecking Crew
+48. Movie: Inspector Clouseau
+49. Movie: Diabolik
+50. Movie: Psych-Out

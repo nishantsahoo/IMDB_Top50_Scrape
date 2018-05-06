@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 1961-01-01 to 1961-12-31 : 
-1. Movie: The Parent Trap
-Genre: Comedy, Family, Romance
-Description: Teenage twin sisters swap places and scheme to reunite their divorced parents.
-2. Movie: Breakfast at Tiffany's
-Genre: Comedy, Drama, Romance
-Description: A young New York socialite becomes interested in a young man who has moved into her apartment building.
-3. Movie: West Side Story
-Genre: Crime, Drama, Musical
-Description: Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.
-4. Movie: The Guns of Navarone
-Genre: Action, Adventure, Drama
-Description: A British team is sent to cross occupied Greek territory and destroy the massive German gun emplacement that commands a key sea channel.
-5. Movie: The Hustler
-Genre: Drama, Sport
-Description: An up-and-coming pool player plays a long-time champion in a single high-stakes match.
-6. Movie: One Hundred and One Dalmatians
-Genre: Animation, Adventure, Comedy
-Description: When a litter of Dalmatian puppies are abducted by the minions of Cruella de Vil, the parents must find them before she uses them for a diabolical fashion statement.
+1. Movie: Breakfast at Tiffany's
+2. Movie: West Side Story
+3. Movie: One Hundred and One Dalmatians
+4. Movie: The Parent Trap
+5. Movie: Mr. Sardonicus
+6. Movie: The Misfits
 7. Movie: Judgment at Nuremberg
-Genre: Drama, War
-Description: In 1948, an American court in occupied Germany tries four Nazi judges for war crimes.
-8. Movie: Yôjinbô
-Genre: Action, Drama, Thriller
-Description: A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town.
-9. Movie: Blue Hawaii
-Genre: Comedy, Musical
-Description: Chad Gates has just gotten out of the Army, and is happy to be back in Hawaii with his surf-board, his beach buddies, and his girlfriend. His father wants him to go to work at the Great ...See full summary&nbsp;&raquo;
-10. Movie: The Misfits
-Genre: Drama, Romance, Western
-Description: A divorcee falls for an over-the-hill cowboy who is struggling to maintain his romantically independent lifestyle.
+8. Movie: Yjinb
+9. Movie: The Guns of Navarone
+10. Movie: The Hustler
 11. Movie: Splendor in the Grass
-Genre: Drama, Romance
-Description: A fragile Kansas girl's love for a handsome young man from the town's most powerful family drives her to heartbreak and madness.
-12. Movie: The Innocents
-Genre: Horror
-Description: A young governess for two children becomes convinced that the house and grounds are haunted.
-13. Movie: One-Eyed Jacks
-Genre: Western
-Description: After robbing a Mexican bank, Dad Longworth takes the loot and leaves his partner Rio to be captured but Rio escapes and searches for Dad in California.
-14. Movie: One, Two, Three
-Genre: Comedy
-Description: In West Berlin during the Cold War, a Coca-Cola executive is given the task of taking care of his boss' socialite daughter.
-15. Movie: Something Wild
-Genre: Drama
-Description: A young rape victim tries desperately to pick up the pieces of her life, only to find herself at the mercy of a would-be rescuer.
-16. Movie: A Raisin in the Sun
-Genre: Drama
-Description: A substantial insurance payment could mean either financial salvation or personal ruin for a poor black family.
-17. Movie: El Cid
-Genre: Adventure, Biography, Drama
-Description: The fabled Spanish hero Rodrigo Diaz (a.k.a. El Cid) overcomes a family vendetta and court intrigue to defend Christian Spain against the Moors.
+12. Movie: A Taste of Honey
+13. Movie: The Innocents
+14. Movie: Voyage to the Bottom of the Sea
+15. Movie: El Cid
+16. Movie: Blue Hawaii
+17. Movie: One-Eyed Jacks
 18. Movie: The Children's Hour
-Genre: Drama, Romance
-Description: A troublemaking student at a girls' school accuses two teachers of being lesbians.
-19. Movie: King of Kings
-Genre: Biography, Drama, History
-Description: The life of Jesus Christ.
-20. Movie: The Absent Minded Professor
-Genre: Comedy, Family, Sci-Fi
-Description: A college professor invents an anti-gravity substance which a corrupt businessman wants for himself.
-21. Movie: Pit and the Pendulum
-Genre: Drama, Fantasy, Horror
-Description: In the sixteenth century, Francis Barnard travels to Spain to clarify the strange circumstances of his sister's death after she had married the son of a cruel Spanish Inquisitor.
-22. Movie: L'année dernière à Marienbad
-Genre: Drama, Mystery
-Description: In a strange and isolated chateau, a man becomes acquainted with a woman and insists that they have met before.
-23. Movie: La notte
-Genre: Drama
-Description: A day in the life of an unfaithful married couple and their steadily deteriorating relationship.
-24. Movie: Voyage to the Bottom of the Sea
-Genre: Action, Adventure, Sci-Fi
-Description: When the Earth is threatened by a burning Van Allen Radiation Belt, US Navy Admiral Harriman Nelson plans to shoot a nuclear missile at the Belt using his experimental atomic submarine, the Seaview.
-25. Movie: Mysterious Island
-Genre: Adventure, Family, Sci-Fi
-Description: During the Civil War a group of Union soldiers and two Confederates escape the stockade using a hot air balloon and end up on a strange Pacific island.
-26. Movie: A Taste of Honey
-Genre: Drama
-Description: The moving story of a plain young girl who becomes pregnant by a black sailor, befriends a homosexual, and gradually becomes a woman.
-27. Movie: The Comancheros
-Genre: Action, Western, Adventure
-Description: Texas Ranger Jake Cutter arrests gambler Paul Regret, but soon finds himself teamed with his prisoner in an undercover effort to defeat a band of renegade arms merchants and thieves known as Comancheros.
-28. Movie: Flight That Disappeared
-Genre: Adventure, Fantasy, Sci-Fi
-Description: A cross-country airliner, whose passengers include a nuclear physicist, a rocket expert, and a mathematical genius, is drawn beyond radar range by an unknown, unbreakable force.
-29. Movie: Viridiana
-Genre: Comedy, Drama
-Description: Viridiana, a young nun about to take her final vows, pays a visit to her widowed uncle at the request of her Mother Superior.
-30. Movie: Såsom i en spegel
-Genre: Drama
-Description: Recently released from a mental hospital; Karin rejoins her emotionally disconnected family and their island home, only to slip from reality as she begins to believe she is being visited by God.
-31. Movie: Babes in Toyland
-Genre: Comedy, Family, Fantasy
-Description: Tom the Piper's Son is about to marry Mary Quite Contrary. On the eve of their wedding, evil miser Barnaby hires two henchmen to drown Tom and steal Mary's sheep, cared for by Little Bo ...See full summary&nbsp;&raquo;
-32. Movie: Lola
-Genre: Drama, Romance
-Description: A bored young man meets with his former girlfriend, now a cabaret dancer and single mother, and soon finds himself falling back in love with her.
-33. Movie: Two Rode Together
-Genre: Western
-Description: The US Army is under pressure from the desperate relatives of white prisoners of the Comanches to secure their rescue. A cynical and corrupt marshal, Guthrie McCabe, is persuaded by an army...See full summary&nbsp;&raquo;
-34. Movie: Bachelor Flat
-Genre: Comedy
-Description: British college professor seeks peace in a California beach house but has nothing but trouble from an uninvited female 'juvenile delinquent', a neighbor with a mischievous dog, and a bevy of amorous American woman.
-35. Movie: The Last Sunset
-Genre: Drama, Romance, Western
-Description: Brendan O'Malley arrives at the Mexican home of old flame Belle Breckenridge to find her married to a drunkard getting ready for a cattle drive to Texas. Hot on O'Malley's heels is lawman ...See full summary&nbsp;&raquo;
-36. Movie: Pocketful of Miracles
-Genre: Comedy, Drama
-Description: A New York gangster and his girlfriend attempt to turn street beggar Apple Annie into a society lady when the peddler learns her daughter is marrying royalty.
-37. Movie: Ercole alla conquista di Atlantide
-Genre: Adventure, Fantasy
-Description: Strong yet sleepy Hercules discovers that the Queen of Atlantis is plotting to take over the world with superhuman warriors.
-38. Movie: Une femme est une femme
-Genre: Comedy, Drama, Romance
-Description: A French striptease artist is desperate to become a mother. When her reluctant boyfriend suggests his best friend to impregnate her, feelings become complicated when she accepts.
-39. Movie: Lover Come Back
-Genre: Comedy, Drama, Romance
-Description: A series of misunderstandings leaves an advertising executive with a campaign for a product which has not yet been invented, while he romances his rival in the guise of its inventor.
-40. Movie: Come September
-Genre: Comedy, Romance
-Description: Younger generation vs. "older" folks on vacation at an Italian villa.
-41. Movie: Accattone
-Genre: Drama
-Description: A pimp with no other means to provide for himself finds his life spiraling out of control when his prostitute is sent to prison.
-42. Movie: Atlantis: The Lost Continent
-Genre: Adventure, Sci-Fi
-Description: A Greek Fisherman brings an Atlantean Princess back to her homeland which is the mythical city of Atlantis. He is enslaved for his trouble. The King is being manipulated by an evil sorcerer...See full summary&nbsp;&raquo;
-43. Movie: Divorzio all'italiana
-Genre: Comedy, Drama, Romance
-Description: A married Sicilian baron falls in love with his cousin and vows to wed her, but with divorce illegal he must concoct a crime of passion to do away with his wife.
-44. Movie: Il colosso di Rodi
-Genre: Adventure, Drama, History
-Description: While on holiday in Rhodes, Athenian war hero Darios becomes involved in two different plots to overthrow the tyrannical king, one from Rhodian patriots and the other from sinister Phoenician agents.
+19. Movie: La notte
+20. Movie: The Phantom Planet
+21. Movie: Murder She Said
+22. Movie: Ssom i en spegel
+23. Movie: L'anne dernire  Marienbad
+24. Movie: Une femme est une femme
+25. Movie: Pit and the Pendulum
+26. Movie: Viridiana
+27. Movie: The Long and the Short and the Tall
+28. Movie: King of Kings
+29. Movie: Mysterious Island
+30. Movie: A Raisin in the Sun
+31. Movie: Lover Come Back
+32. Movie: Barabbas
+33. Movie: Babes in Toyland
+34. Movie: One, Two, Three
+35. Movie: Francis of Assisi
+36. Movie: Spare the Rod
+37. Movie: The Comancheros
+38. Movie: Il colosso di Rodi
+39. Movie: Reptilicus
+40. Movie: Pocketful of Miracles
+41. Movie: The Absent Minded Professor
+42. Movie: Flower Drum Song
+43. Movie: The Last Sunset
+44. Movie: Gidget Goes Hawaiian
 45. Movie: The Roman Spring of Mrs. Stone
-Genre: Drama, Romance
-Description: An aging actress travels to Rome with her husband; after he suddenly dies during the flight, she begins a passionate affair with a young gigolo.
-46. Movie: Barabbas
-Genre: Adventure, Biography, Drama
-Description: Barabbas, the criminal that Pontius Pilate induced the populace to vote to set free, so that Christ could be crucified, is haunted by the image of Jesus for the rest of his life.
-47. Movie: Murder She Said
-Genre: Comedy, Crime, Drama
-Description: When Miss Marple reports witnessing a murder through the window of a passing train, the police dismiss her as a dotty spinster when no trace of the crime can be found.
-48. Movie: Flower Drum Song
-Genre: Comedy, Musical, Romance
-Description: Chinese stowaway Mei Li (Miyoshi Umeki) arrives in San Francisco with her father to meet her fianc, wealthy nightclub owner Sammy Fong (Jack Soo), in an arranged marriage, but the groom ...See full summary&nbsp;&raquo;
-49. Movie: Paris Blues
-Genre: Drama, Music, Romance
-Description: During the 1960s, two American ex-pat jazz musicians living in Paris meet and fall in-love with two American tourist girls.
-50. Movie: The Beast of Yucca Flats
-Genre: Horror, Sci-Fi
-Description: A defecting Soviet scientist is hit by a nuclear explosion near Yucca Flats and roams around as a beast.
+46. Movie: Homicidal
+47. Movie: Paris Blues
+48. Movie: Two Rode Together
+49. Movie: Lola
+50. Movie: The Curse of the Werewolf

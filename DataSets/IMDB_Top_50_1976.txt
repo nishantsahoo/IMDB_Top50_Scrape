@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 1976-01-01 to 1976-12-31 : 
-1. Movie: Taxi Driver
-Genre: Crime, Drama
-Description: A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feeds his urge for violent action, attempting to save a preadolescent prostitute in the process.
-2. Movie: Rocky
-Genre: Drama, Sport
-Description: Rocky Balboa, a small-time boxer, gets a supremely rare chance to fight heavy-weight champion Apollo Creed in a bout in which he strives to go the distance for his self-respect.
-3. Movie: Carrie
-Genre: Horror
-Description: Carrie White, a shy, friendless teenage girl who is sheltered by her domineering, religious mother, unleashes her telekinetic powers after being humiliated by her classmates at her senior prom.
-4. Movie: Lifeguard
-Genre: Drama
-Description: Rick is in his 30s, but still works full-time as a lifeguard on the beaches of Los Angeles in California. He enjoys the fun of it, but even more the silent moments. However when he meets ...See full summary&nbsp;&raquo;
-5. Movie: King Kong
-Genre: Adventure, Fantasy, Horror
-Description: A petroleum exploration expedition comes to an isolated island and encounters a colossal giant gorilla.
+1. Movie: Carrie
+2. Movie: Taxi Driver
+3. Movie: Rocky
+4. Movie: Logan's Run
+5. Movie: All the President's Men
 6. Movie: Network
-Genre: Drama
-Description: A television network cynically exploits a deranged former anchor's ravings and revelations about the news media for its own profit.
-7. Movie: All the President's Men
-Genre: Biography, Drama, History
-Description: "The Washington Post" reportersBob WoodwardandCarl Bernsteinuncover the details of the Watergate scandal that leads to PresidentRichard Nixon's resignation.
-8. Movie: The Omen
-Genre: Horror
-Description: Mysterious deaths surround an American ambassador. Could the child that he is raising actually be the Antichrist? The Devil's own son?
-9. Movie: Logan's Run
-Genre: Action, Sci-Fi
-Description: An idyllic sci-fi future has one major drawback: life must end at the age of 30.
-10. Movie: The Man Who Fell to Earth
-Genre: Sci-Fi, Drama
-Description: Thomas Jerome Newton is a humanoid alien who comes to Earth to get water for his dying planet. He starts a high technology company to get the billions of dollars he needs to build a return ...See full summary&nbsp;&raquo;
-11. Movie: Futureworld
-Genre: Sci-Fi, Thriller
-Description: Upon uncovering the dirty secret of futuristic theme-park Futureworld, an ex employee is killed after he tips-off 2 other reporters who decide to do an undercover investigation.
-12. Movie: Murder by Death
-Genre: Comedy, Mystery, Thriller
-Description: Five famous literary detective characters and their sidekicks are invited to a bizarre mansion to solve an even stranger mystery.
-13. Movie: Marathon Man
-Genre: Crime, Thriller
-Description: A graduate history student is unwittingly caught in the middle of an international conspiracy involving stolen diamonds, an exiled Nazi war criminal, and a rogue government agent.
-14. Movie: Ai no korîda
-Genre: Biography, Drama, Horror
-Description: A passionate telling of the story of Sada Abe, a woman whose affair with her master led to a sexual obsession which then came to a violent end.
-15. Movie: The Message
-Genre: Adventure, Biography, Drama
-Description: In the 7th century, Mohammed is visited by Angel Gabriel who urges him to lead the people of Mecca and worship God. But they're exiled in Medina before returning to Mecca to take up arms ...See full summary&nbsp;&raquo;
-16. Movie: The Outlaw Josey Wales
-Genre: Western
-Description: A Missouri farmer joins a Confederate guerrilla unit and winds up on the run from the Union soldiers who murdered his family.
-17. Movie: Bugsy Malone
-Genre: Comedy, Crime, Family
-Description: The classic gangster story of Bugsy Malone told with an all-child cast.
-18. Movie: The Shootist
-Genre: Drama, Romance, Western
-Description: A dying gunfighter spends his last days looking for a way to die with a minimum of pain and a maximum of dignity.
-19. Movie: The Enforcer
-Genre: Action, Crime, Thriller
-Description: Dirty Harry must foil a terrorist organization made up of disgruntled Vietnam veterans. But this time, he's teamed with a rookie female partner that he's not too excited to be working with.
-20. Movie: Une vraie jeune fille
-Genre: Drama
-Description: August, 1963; Alice, 14, an only child, and physically well developed, is home for vacation. She's moody, silent, keeps a diary, and explores tactile sensations with broken eggs, candle wax...See full summary&nbsp;&raquo;
-21. Movie: Assault on Precinct 13
-Genre: Action, Crime, Thriller
-Description: A police sergeant and an unlikely band of criminals defend a closing LA precinct office on New Years Eve against an army of gang members.
-22. Movie: Car Wash
-Genre: Comedy, Drama, Romance
-Description: Car Wash is about a close-knit group of employees who one day have all manner of strange visitors coming onto their forecourt, including Richard Pryor as a preaching 'wonder-man' who is ...See full summary&nbsp;&raquo;
-23. Movie: The Bad News Bears
-Genre: Comedy, Drama, Family
-Description: An aging, down-on-his-luck ex-minor leaguer coaches a team of misfits in an ultra-competitive California little league.
-24. Movie: Novecento
-Genre: Crime, Drama, History
-Description: The epic tale of a class struggle in 20th Century Italy, as seen through the eyes of two childhood friends on opposing sides.
-25. Movie: Swashbuckler
-Genre: Action, Adventure, Comedy
-Description: A pirate and a hot-tempered noblewoman join forces to protect Jamaica from a tyrant.
-26. Movie: Le locataire
-Genre: Drama, Thriller
-Description: A bureaucrat rents a Paris apartment where he finds himself drawn into a rabbit hole of dangerous paranoia.
-27. Movie: Communion
-Genre: Horror, Mystery, Thriller
-Description: After a young girl is brutally murdered during her first communion, her strange and withdrawn older sister becomes the main suspect.
-28. Movie: The Missouri Breaks
-Genre: Drama, Western
-Description: Tom Logan is a horse thief. Rancher David Braxton has horses, and a daughter, worth stealing. But Braxton has just hired Lee Clayton, an infamous "regulator", to hunt down the horse thieves; one at a time.
-29. Movie: The Pink Panther Strikes Again
-Genre: Comedy, Crime
-Description: Charles Dreyfus, who has finally cracked over inspector Clouseau's antics, escapes from a mental institution and launches an elaborate plan to get rid of Clouseau once and for all.
-30. Movie: A Star Is Born
-Genre: Drama, Music, Romance
-Description: A has-been rock star falls in love with a young, up-and-coming songstress.
-31. Movie: The Eagle Has Landed
-Genre: Adventure, Drama, Thriller
-Description: A German plot to kidnap Winston Churchill unfolds at the height of World War II.
-32. Movie: Family Plot
-Genre: Comedy, Thriller
-Description: Lighthearted suspense film about a phony psychic/con artist and her taxi driver/private investigator boyfriend who encounter a pair of serial kidnappers while trailing a missing heir in California.
-33. Movie: Stay Hungry
-Genre: Drama, Comedy
-Description: A syndicate wants to buy a whole district to rebuild it. They've bought every house except the small gym "Olympic", where Mr. Austria Joe Santo prepares for the Mr. Universum championships ...See full summary&nbsp;&raquo;
-34. Movie: The Last Tycoon
-Genre: Drama, Romance
-Description: F.Scott Fitzgerald's novel is brought to life in this story of a movie producer slowly working himself to death.
-35. Movie: Midway
-Genre: Action, Drama, History
-Description: A dramatization of the battle that was widely heralded as a turning point of the Pacific Theatre of World War II.
-36. Movie: The Little Girl Who Lives Down the Lane
-Genre: Drama, Mystery, Thriller
-Description: 13-year-old Rynn Jacobs lives alone in a high-class Quebec small town, but unknown to the neighbors, she is leading a secret and dangerous life.
-37. Movie: Salon Kitty
-Genre: Drama, War
-Description: Kitty runs a brothel in Nazi Germany where the soldiers come to "relax". Recording devices have been installed in each room by a power hungry army official, who plans to use the information to blackmail Hitler and gain power himself.
-38. Movie: Freaky Friday
-Genre: Comedy, Family, Fantasy
-Description: A mother and daughter find their personalities switched and have to live each other's lives on one strange Friday.
-39. Movie: Robin and Marian
-Genre: Adventure, Drama, Romance
-Description: Robin Hood, aging none too gracefully, returns exhausted from the Crusades to woo and win Maid Marian one last time.
-40. Movie: Buffalo Bill and the Indians, or Sitting Bull's History Lesson
-Genre: Comedy, Western
-Description: A cynical Buffalo Bill hires Sitting Bull to exploit him and add his credibility to the distorted view of history presented in his Wild West Show.
-41. Movie: Gator
-Genre: Action, Drama, Crime
-Description: Agents force a former con man to help them nab a corrupt politician.
-42. Movie: The Seven-Per-Cent Solution
-Genre: Adventure, Crime, Drama
-Description: To treat his friend's cocaine induced delusions, Watson lures Sherlock Holmes to Sigmund Freud.
-43. Movie: Up!
-Genre: Comedy
-Description: This kicks off with the murder of one Adolf Schwartz (who bears a striking resemblance to another famous Adolf) by placing a ravenous piranha fish in his bathtub. Who did it? No-one knows ...See full summary&nbsp;&raquo;
-44. Movie: Eaten Alive
-Genre: Horror, Thriller
-Description: A psychotic redneck who owns a dilapidated hotel in rural East Texas kills various people who upset him or his business, and he feeds their bodies to a large crocodile that he keeps as a pet in the swamp beside his hotel.
-45. Movie: Squirm
-Genre: Horror
-Description: A storm causes some power lines to break and touch the ground, drawing millions of man-eating worms out of the earth, and into town where they quickly start munching on the locals.
-46. Movie: Burnt Offerings
-Genre: Horror, Mystery, Thriller
-Description: A family moves into an old, haunted house that regenerates itself by feeding off of the life forces of its injured occupants.
-47. Movie: The Cassandra Crossing
-Genre: Drama, Thriller
-Description: Passengers on a European train have been exposed to a deadly disease. Nobody will let them off the train so what happens next?
-48. Movie: Silver Streak
-Genre: Action, Comedy, Crime
-Description: On a long-distance train trip, a man finds romance but also finds himself in danger of being killed, or at least pushed off the train.
-49. Movie: Una donna chiamata Apache
-Genre: Action, Drama, Romance
-Description: Tommy is an innocent cavalry officer who falls in love with a beautiful Apache woman (Yara Kewa) after rescuing her from a nasty gun smuggler named Honest Jeremy. When Jeremy and his gang find Tommy, gruesome violence ensues.
-50. Movie: Il Casanova di Federico Fellini
-Genre: Biography, Drama, History
-Description: Casanova is a libertine, collecting seductions and sexual feats. But he is really interested in someone, and is he really an interesting person ? Is he really alive ?
+7. Movie: The Outlaw Josey Wales
+8. Movie: Futureworld
+9. Movie: King Kong
+10. Movie: A Star Is Born
+11. Movie: The Omen
+12. Movie: Novecento
+13. Movie: The Bad News Bears
+14. Movie: Ai no korda
+15. Movie: Marathon Man
+16. Movie: Bugsy Malone
+17. Movie: Murder by Death
+18. Movie: Midway
+19. Movie: Assault on Precinct 13
+20. Movie: The Man Who Fell to Earth
+21. Movie: The Last Tycoon
+22. Movie: The Missouri Breaks
+23. Movie: The Enforcer
+24. Movie: Freaky Friday
+25. Movie: Le locataire
+26. Movie: Family Plot
+27. Movie: The Pink Panther Strikes Again
+28. Movie: The Shootist
+29. Movie: Eaten Alive
+30. Movie: The Little Girl Who Lives Down the Lane
+31. Movie: Communion
+32. Movie: Stay Hungry
+33. Movie: Une vraie jeune fille
+34. Movie: Salon Kitty
+35. Movie: Silver Streak
+36. Movie: The Eagle Has Landed
+37. Movie: The Cassandra Crossing
+38. Movie: The Milpitas Monster
+39. Movie: Car Wash
+40. Movie: God Told Me To
+41. Movie: Bobbie Jo and the Outlaw
+42. Movie: Robin and Marian
+43. Movie: Gator
+44. Movie: Up!
+45. Movie: Silent Movie
+46. Movie: The Slipper and the Rose: The Story of Cinderella
+47. Movie: Burnt Offerings
+48. Movie: Il Casanova di Federico Fellini
+49. Movie: The Message
+50. Movie: The Gumball Rally

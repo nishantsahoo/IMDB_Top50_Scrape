@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 1975-01-01 to 1975-12-31 : 
 1. Movie: One Flew Over the Cuckoo's Nest
-Genre: Drama
-Description: A criminal pleads insanity after getting into trouble again and once in the mental institution rebels against the oppressive nurse and rallies up the scared patients.
 2. Movie: Jaws
-Genre: Adventure, Drama, Thriller
-Description: A giant great white shark arrives on the shores of a New England beach resort and wreaks havoc with bloody attacks on swimmers, until a part-time sheriff teams up with a marine biologist and an old seafarer to hunt the monster down.
-3. Movie: The Rocky Horror Picture Show
-Genre: Comedy, Musical
-Description: A newly engaged couple have a breakdown in an isolated area and must pay a call to the bizarre residence of Dr. Frank-N-Furter.
-4. Movie: Salò o le 120 giornate di Sodoma
-Genre: Drama, War
-Description: Four fascist libertines round up nine adolescent boys and girls and subject them to one hundred and twenty days of physical, mental and sexual torture.
-5. Movie: Death Race 2000
-Genre: Action, Comedy, Sci-Fi
-Description: In a dystopian future, a cross country automobile race requires contestants to run down innocent pedestrians to gain points that are tallied based on each kill's brutality.
-6. Movie: Monty Python and the Holy Grail
-Genre: Adventure, Comedy, Fantasy
-Description: King Arthur and his knights embark on a low-budget search for the Grail, encountering many, very silly obstacles.
+3. Movie: Monty Python and the Holy Grail
+4. Movie: Sal o le 120 giornate di Sodoma
+5. Movie: The Rocky Horror Picture Show
+6. Movie: Barry Lyndon
 7. Movie: Dog Day Afternoon
-Genre: Action, Biography, Crime
-Description: A man robs a bank to pay for his lover's operation; it turns into a hostage situation and a media circus.
-8. Movie: Barry Lyndon
-Genre: Adventure, Drama, History
-Description: An Irish rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England.
-9. Movie: Shampoo
-Genre: Comedy, Drama
-Description: Lovers undo a hairdresser from Beverly Hills around Election Eve in 1968.
-10. Movie: La bête
-Genre: Drama, Fantasy, Horror
-Description: A late businessman's daughter is heading with her aunt to the estate of her soon-to-be husband, unaware of the strange rumors that cloud the family's name.
-11. Movie: Histoire d'O
-Genre: Drama
-Description: The beautiful O is taken by her boyfriend, Rene, to a bizarre retreat, where she is trained in bondage and sexual perversion. Rene discharges a personal debt by transferring possession of O...See full summary&nbsp;&raquo;
-12. Movie: Three Days of the Condor
-Genre: Mystery, Thriller
-Description: A bookish CIA researcher finds all his co-workers dead, and must outwit those responsible until he figures out who he can really trust.
-13. Movie: Zerkalo
-Genre: Biography, Drama
-Description: A dying man in his forties remembers his past. His childhood, his mother, the war, personal moments and things that tell of the recent history of all the Russian nation.
-14. Movie: Tommy
-Genre: Drama, Musical
-Description: A psychosomatically deaf, dumb and blind boy becomes a master pinball player and, subsequently, the object of a religious cult.
-15. Movie: Rollerball
-Genre: Action, Sci-Fi, Sport
-Description: In a corporate-controlled future, an ultra-violent sport known as Rollerball represents the world, and one of its powerful athletes is out to defy those who want him out of the game.
-16. Movie: The Man Who Would Be King
-Genre: Adventure
-Description: Two British soldiers in India decide to resign from the Army and set themselves up as deities in Kafiristan--a land where no white man has set foot since Alexander.
-17. Movie: The Eiger Sanction
-Genre: Action, Thriller
-Description: A classical art professor and collector, who doubles as a professional assassin, is coerced out of retirement to avenge the murder of an old friend.
-18. Movie: Picnic at Hanging Rock
-Genre: Drama, Mystery
-Description: During a rural summer picnic, a few students and a teacher from an Australian girls' school vanish without a trace. Their absence frustrates and haunts the people left behind.
-19. Movie: Nashville
-Genre: Comedy, Drama, Music
-Description: Over the course of a few hectic days, numerous interrelated people prepare for a political convention as secrets and lies are surfaced and revealed.
-20. Movie: Supervixens
-Genre: Comedy
-Description: Clint Ramsey has to leave his job working at Martin Bormann's gas station and flee after his wife is murdered by psycho cop Harry Sledge, who tries to pin the murder on Clint. Crossing ...See full summary&nbsp;&raquo;
-21. Movie: Shivers
-Genre: Horror, Sci-Fi
-Description: The residents of a suburban high-rise apartment building are being infected by a strain of parasites that turn them into mindless, sex-crazed fiends out to infect others by the slightest sexual contact.
-22. Movie: The Stepford Wives
-Genre: Horror, Mystery, Sci-Fi
-Description: Joanna Eberhart has come to the quaint little town of Stepford, Connecticut with her family, but soon discovers there lies a sinister truth in the all too perfect behavior of the female residents.
-23. Movie: Professione: reporter
-Genre: Drama, Thriller
-Description: A frustrated war correspondent, unable to find the war he's been asked to cover, takes the risky path of co-opting the I.D. of a dead arms dealer acquaintance.
-24. Movie: Profondo rosso
-Genre: Horror, Mystery, Thriller
-Description: After witnessing the murder of a famous psychic, a musician teams up with a feisty reporter to find the killer while evading attempts on their lives by the unseen assailant bent on keeping a dark secret buried.
-25. Movie: A Boy and His Dog
-Genre: Comedy, Drama, Sci-Fi
-Description: A post-apocalyptic tale based on a novella by Harlan Ellison. A boy communicates telepathically with his dog as they scavenge for food and sex, and they stumble into an underground society ...See full summary&nbsp;&raquo;
-26. Movie: The Killer Elite
-Genre: Action, Crime, Thriller
-Description: Mike Locke, who works for a private security firm affiliated with the CIA, is betrayed by his partner and left apparently crippled for life.
-27. Movie: The Adventure of Sherlock Holmes' Smarter Brother
-Genre: Comedy, Crime, Musical
-Description: The younger brother of the consulting detective tries to steal Sherlock's glory by solving an important case assisted by an eccentric Scotland Yard detective and a lovely but suspicious actress.
-28. Movie: Escape to Witch Mountain
-Genre: Adventure, Family, Fantasy
-Description: Two mysterious orphan children have extraordinary powers and are chased by a scheming millionaire. But where do these kids really call home?
-29. Movie: Sholay
-Genre: Action, Adventure, Comedy
-Description: After his family is murdered by a notorious and ruthless bandit, a former police officer enlists the services of two outlaws to capture the bandit.
-30. Movie: The Return of the Pink Panther
-Genre: Comedy, Crime, Mystery
-Description: Inspector Clouseau is put on the case when the Pink Panther diamond is stolen, with the Phantom's trademark glove the only clue.
-31. Movie: Mandingo
-Genre: Drama, History, Romance
-Description: A slave owner in the 1840s trains one of his slaves to be a bare-knuckle fighter.
-32. Movie: Ilsa: She Wolf of the SS
-Genre: Crime, Drama, Horror
-Description: Ilsa is an evil Nazi warden at a death camp that conducts "medical experiments". Ilsa's goal is to prove that women can withstand more pain and suffering than men and therefore should be allowed to fight on the front lines.
-33. Movie: Faustrecht der Freiheit
-Genre: Drama, Romance
-Description: Working class and middle-upper class worlds come together in this interesting look at class conflict within the gay world from the German director Reiner Werner Fassbinder. Fassbinder plays...See full summary&nbsp;&raquo;
-34. Movie: Rooster Cogburn
-Genre: Adventure, Drama, Western
-Description: Marshal Rooster Cogburn unwillingly teams up with Eula Goodnight to track down the killers of her father.
-35. Movie: Cooley High
-Genre: Comedy, Drama, Romance
-Description: In 1964, a group of high school friends who live on the Near North Side of Chicago enjoy life to the fullest...parties, hanging out, meeting new friends. Then life changes for two of the ...See full summary&nbsp;&raquo;
-36. Movie: Emmanuelle: L'antivierge
-Genre: Drama, Romance
-Description: Emmanuelle returns to her husband in Hong Kong and proceeds to have several extramarital affairs -- with his knowledge, of course. Her husband's lover and American guest are both very ...See full summary&nbsp;&raquo;
-37. Movie: Love and Death
-Genre: Comedy, War
-Description: In czarist Russia, a neurotic soldier and his distant cousin formulate a plot to assassinate Napoleon.
-38. Movie: Hard Times
-Genre: Crime, Drama, Sport
-Description: The adventures of a drifter turned illegal prize-fighter during the Depression Era in New Orleans.
-39. Movie: Breakheart Pass
-Genre: Mystery, Western
-Description: John Deakin is being transported, as a prisoner, on a train with supplies and medicine to Fort Humboldt, Nevada.
-40. Movie: The Wind and the Lion
-Genre: Action, Adventure, Drama
-Description: In early 20th century Morocco, a Sharif kidnaps an American women and her children, forcing President Theodore Roosevelt to send in forces to conduct a rescue mission.
-41. Movie: Dersu Uzala
-Genre: Adventure, Biography, Drama
-Description: The Russian army sends an explorer on an expedition to the snowy Siberian wilderness where he makes friends with a seasoned local hunter.
-42. Movie: Dolemite
-Genre: Action, Comedy, Crime
-Description: Dolemite is a pimp who was set up by Willie Greene and the cops, who have planted drugs, stolen furs, and guns in his trunk and got him sentenced to 20 years in jail. One day, Queen B and a...See full summary&nbsp;&raquo;
-43. Movie: Take a Hard Ride
-Genre: Western
-Description: After selling his cattle in town, ranch owner Morgan unexpectedly dies, and his foreman Pike has to deliver the payroll to Sonora, despite the perilous journey during which he's followed by many shady characters who want the money.
-44. Movie: Black Moon
-Genre: Fantasy, Mystery, Sci-Fi
-Description: To escape a gender war, a girl flees to a remote farmhouse and becomes part of an extensive family's unusual, perhaps even supernatural, lifestyle.
-45. Movie: Night Moves
-Genre: Crime, Mystery, Thriller
-Description: Los Angeles private detective Harry Moseby is hired by a client to find her runaway teenage daughter and he stumbles upon a case of murder and artifact smuggling.
+8. Movie: Picnic at Hanging Rock
+9. Movie: The Prisoner of Second Avenue
+10. Movie: Tommy
+11. Movie: Three Days of the Condor
+12. Movie: Zerkalo
+13. Movie: Histoire d'O
+14. Movie: Breakheart Pass
+15. Movie: Night Moves
+16. Movie: Rooster Cogburn
+17. Movie: Professione: reporter
+18. Movie: La bte
+19. Movie: Rollerball
+20. Movie: The Stepford Wives
+21. Movie: Death Race 2000
+22. Movie: Supervixens
+23. Movie: The Eiger Sanction
+24. Movie: Love and Death
+25. Movie: Ilsa: She Wolf of the SS
+26. Movie: Nashville
+27. Movie: Profondo rosso
+28. Movie: The Return of the Pink Panther
+29. Movie: Shivers
+30. Movie: Escape to Witch Mountain
+31. Movie: The Man Who Would Be King
+32. Movie: A Boy and His Dog
+33. Movie: Shampoo
+34. Movie: Capone
+35. Movie: Hard Times
+36. Movie: Bite the Bullet
+37. Movie: Cooley High
+38. Movie: The Apple Dumpling Gang
+39. Movie: Mandingo
+40. Movie: Let's Do It Again
+41. Movie: Lisztomania
+42. Movie: The Hiding Place
+43. Movie: Coonskin
+44. Movie: Breakout
+45. Movie: Race with the Devil
 46. Movie: Farewell, My Lovely
-Genre: Crime, Mystery, Thriller
-Description: Los Angeles private eye Philip Marlowe is hired by paroled convict Moose Malloy to find his girlfriend Velma, former seedy nightclub dancer.
-47. Movie: Mahogany
-Genre: Drama, Romance
-Description: Tracy, an aspiring designer from the slums of Chicago puts herself through fashion school in the hopes of becoming one of the world's top designers. Her ambition leads her to Rome spurring ...See full summary&nbsp;&raquo;
-48. Movie: The Apple Dumpling Gang
-Genre: Family, Comedy, Western
-Description: Three orphan children strike gold in 1878 California.
-49. Movie: The Great Waldo Pepper
-Genre: Adventure, Drama
-Description: A biplane pilot who had missed flying in WWI takes up barnstorming and later a movie career in his quest for the glory he had missed, eventually getting a chance to prove himself in a film ...See full summary&nbsp;&raquo;
-50. Movie: Flåklypa Grand Prix
-Genre: Animation, Comedy, Family
-Description: Reodor Felgen decides that he will enter a car race to defeat his former friend who has stolen his plans for a car.
+47. Movie: The Hindenburg
+48. Movie: Dersu Uzala
+49. Movie: The Day of the Locust
+50. Movie: The Sunshine Boys

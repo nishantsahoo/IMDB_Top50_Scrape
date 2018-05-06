@@ -1,150 +1,51 @@
 Most Popular Feature Films Released 1926-01-01 to 1926-12-31 : 
 1. Movie: The General
-Genre: Action, Adventure, Comedy
-Description: When Union spies steal an engineer's beloved locomotive, he pursues it single-handedly and straight through enemy lines.
 2. Movie: Faust: Eine deutsche Volkssage
-Genre: Drama, Fantasy, Horror
-Description: The demon Mephisto wagers with God that he can corrupt a mortal man's soul.
-3. Movie: The Temptress
-Genre: Drama, Romance
-Description: An architect tries suppressing his passion for a seductive woman.
-4. Movie: The Great Gatsby
-Genre: Drama
-Description: Nick Carraway, a young Midwesterner now living on Long Island, finds himself fascinated by the mysterious past and lavish lifestyle of his neighbour, the nouveau riche Jay Gatsby. He is ...See full summary&nbsp;&raquo;
-5. Movie: The Scarlet Letter
-Genre: Drama
-Description: After having a child out of wedlock, a young Puritan woman is pressured to reveal the name of her lover.
+3. Movie: The Great Gatsby
+4. Movie: The Scarlet Letter
+5. Movie: Ella Cinders
 6. Movie: Die Abenteuer des Prinzen Achmed
-Genre: Animation, Adventure, Fantasy
-Description: A handsome prince rides a flying horse to far-away lands and embarks on magical adventures, which include befriending a witch, meeting Aladdin, battling demons and falling in love with a princess.
-7. Movie: Don Juan
-Genre: Adventure, Romance
-Description: Misogynistic skirt chaser Don Juan falls for a convent girl.
-8. Movie: The Son of the Sheik
-Genre: Adventure, Drama, Romance
-Description: The son of the sheik and a dancing girl fall in love, but when he is made to believe she has betrayed him he seeks revenge.
+7. Movie: Kurutta ippji
+8. Movie: Brown of Harvard
 9. Movie: Flesh and the Devil
-Genre: Drama, Romance
-Description: Childhood friends are torn apart when one of them marries the woman the other once fiercely loved.
-10. Movie: Beverly of Graustark
-Genre: Comedy, Romance
-Description: Beverly of Graustark (1926) is a silent film directed by Sidney Franklin, starring Marion Davies, Antonio Moreno and Creighton Hale. The film's screenplay was written by Agnes Christine ...See full summary&nbsp;&raquo;
-11. Movie: The Mountain Eagle
-Genre: Romance, Thriller
-Description: In the Kentucky hills a store keeper tries to win the love of an innocent schoolteacher. She runs away and seeks refuge with a hermit.
-12. Movie: Kurutta ippêji
-Genre: Drama, Horror
-Description: A man takes a job at an asylum with hopes of freeing his imprisoned wife.
+10. Movie: Battling Butler
+11. Movie: Torrent
+12. Movie: Der heilige Berg
 13. Movie: Mat
-Genre: Drama
-Description: The Film Version Of Gorki's Great Story Of The 1905 Revolution
-14. Movie: The Black Pirate
-Genre: Adventure, Action
-Description: Seeking revenge, an athletic young man joins the pirate band responsible for his father's death.
-15. Movie: Ella Cinders
-Genre: Comedy, Romance
-Description: Poor Ella Cinders is much abused by her evil step-mother and step-sisters. When she wins a local beauty contest she jumps at the chance to get out of her dead-end life and go to Hollywood, ...See full summary&nbsp;&raquo;
-16. Movie: La Bohème
-Genre: Drama, Romance
-Description: A group of starving artists try to survive in 1830s Paris, including a seamstress and the would-be playwright she loves.
-17. Movie: Sparrows
-Genre: Drama
-Description: Molly, the eldest child at a baby farm hidden deep in a swamp, must rescue the others when their cruel master decides that one of them will be disposed of.
-18. Movie: Brown of Harvard
-Genre: Drama, Romance
-Description: Tom Brown shows up at Harvard, confident and a bit arrogant. He becomes a rival of Bob McAndrew, not only in football and rowing crew, but also for the affections of Mary Abbott, a ...See full summary&nbsp;&raquo;
+14. Movie: La Bohme
+15. Movie: 3 Bad Men
+16. Movie: Don Juan
+17. Movie: The Black Pirate
+18. Movie: For Heaven's Sake
 19. Movie: The Winning of Barbara Worth
-Genre: Drama, Romance, Western
-Description: While building an irrigation system for a Southwestern desert community, an engineer vies with a local cowboy for the affections of a rancher's daughter.
-20. Movie: 3 Bad Men
-Genre: Romance, Western
-Description: Three outlaws come to the aid of a young girl after her father is killed.
-21. Movie: Feu Mathias Pascal
-Genre: Drama
-Description: Mathias Pascal, only son of a once rich family, marries beautiful Romalinda, who has a terrible mother-in-law. She controls her daughter, and soon his home life becomes a nightmare, as well...See full summary&nbsp;&raquo;
-22. Movie: Torrent
-Genre: Drama, Romance
-Description: A young girl and her father are kicked out of their house by a cruel noblewoman, and the girl's heart is broken when her sweetheart, the noblewoman's son, won't go to Paris with them. After...See full summary&nbsp;&raquo;
-23. Movie: Battling Butler
-Genre: Comedy
-Description: A love-struck weakling must pretend to be boxer in order to gain respect from the family of the girl he loves.
-24. Movie: Nana
-Genre: Drama, Romance
-Description: When the vivacious and beautiful Nana bombs at the Thtre des Varits, she embarks on the life of a courtesan, using her allure and charisma to entice and pleasure men.
-25. Movie: Bardelys the Magnificent
-Genre: Drama, Romance
-Description: Rafael Sabatini's story of the swashbuckling era and of Bardeleys, the handsome courtier who could win any woman he set his mind to...and was not above boasting about it to all who would listen.
-26. Movie: The Great K &amp; A Train Robbery
-Genre: Western
-Description: Cullen has hired Tom to try and stop the robberies on his railroad. Knowing Cullen's secretary Holt is tipping off the gang, Tom works undercover by posing as a highwayman. To help him ...See full summary&nbsp;&raquo;
-27. Movie: Irene
-Genre: Comedy, Romance
-Description: Irene, a feisty Irish girl in Philadelphia, clashes with her family and walks out, heading to New York City to seek fame and fortune. She gets a job as a dressmaker's model and becomes ...See full summary&nbsp;&raquo;
-28. Movie: The Magician
-Genre: Drama, Fantasy, Horror
-Description: A magician/alchemist, seeking to create life, finds that he needs the "blood of a virgin" to continue his experiments. He sends out his dwarf assistant to pick out the right girl.
-29. Movie: Beau Geste
-Genre: Action, Adventure, Drama
-Description: Michael "Beau" Geste leaves England in disgrace and joins the infamous French Foreign Legion. He is reunited with his two brothers in North Africa, where they face greater danger from their...See full summary&nbsp;&raquo;
-30. Movie: The Sorrows of Satan
-Genre: Drama, Romance
-Description: Geoffrey, a young and impoverished writer, is desperately in love with Mavis, who lives at his boardinghouse and is also pursuing a writing career. Unable to marry her because of his ...See full summary&nbsp;&raquo;
-31. Movie: What Price Glory
-Genre: Comedy, Drama, War
-Description: U.S. Marine sergeants Quirt and Flagg are inveterate romantic rivals on peacetime assignments in China and the Philippines. In 1917, W.W. I brings them to France, where Flagg, now a captain...See full summary&nbsp;&raquo;
-32. Movie: Der heilige Berg
-Genre: Drama
-Description: The dancer, Diotima, meets an engineer and skier, Karl, in his cottage in the mountains where they fall in love and have an affair. When Karl's young friend, Vigo, meets her she gives him ...See full summary&nbsp;&raquo;
-33. Movie: Po zakonu
-Genre: Drama
-Description: A five-person team of gold prospectors in the Yukon has just begun to enjoy great success when one of the members snaps, and suddenly kills two of the others. The two survivors, a husband ...See full summary&nbsp;&raquo;
-34. Movie: Tell It to the Marines
-Genre: Comedy, Drama, Romance
-Description: A gruff Marine sergeant and a handsome new recruit compete for the affection of a nurse.
-35. Movie: The Sea Beast
-Genre: Action, Adventure, Fantasy
-Description: This silent movie is based on Melville's classic Moby Dick. Ahab and his brother compete for the affections of minister's daughter Esther. But the great white whale has been eluding the ...See full summary&nbsp;&raquo;
-36. Movie: The Bat
-Genre: Mystery, Thriller
-Description: A masked criminal who dresses like a giant bat terrorizes the guests at an old house rented by a mystery writer.
-37. Movie: Fig Leaves
-Genre: Comedy
-Description: In the modern day (1920s) story, Adam, a plumber, is happily married to Eve, a wardrobe-obsessed housewife, until she accidentally meets a supercilious fashion designer. At the prompting of...See full summary&nbsp;&raquo;
-38. Movie: The Strong Man
-Genre: Comedy
-Description: A meek Belgian soldier (Harry Langdon) fighting in World War I receives penpal letters and a photo from "Mary Brown", an American girl he has never met. He becomes infatuated with her by ...See full summary&nbsp;&raquo;
-39. Movie: Paris
-Genre: Drama
-Description: The power of love in the violent underground world of the Apaches in Paris in the early 20th century.
-40. Movie: A Social Celebrity
-Genre: Comedy
-Description: Add a Plot
-41. Movie: So This Is Paris
-Genre: Comedy
-Description: The first movie to ever depict a choreographed dance scene in a silent movie. The Charleston!
-42. Movie: The Boob
-Genre: Comedy, Romance
-Description: Idealistic farm boy Peter loves Amy whose fancy is urbane Harry. He discovers Harry is a rum runner and turns him over to prohibition agents, including Jane. May is at last impressed with ...See full summary&nbsp;&raquo;
-43. Movie: Glomdalsbruden
-Genre: Drama, Romance
-Description: Tore takes over the rundown family farm. Applying his youthful energy, he intends to make it into a big farm like Glomgrden on the other side of the river, where beautiful Berit loves. ...See full summary&nbsp;&raquo;
-44. Movie: Mare Nostrum
-Genre: War
-Description: The story of a female German spy who willingly sacrifices her life for her country.
-45. Movie: Geheimnisse einer Seele
-Genre: Drama
-Description: A scientist is tormented by an irrational fear of knives and the irresistible compulsion to murder his wife.
-46. Movie: For Heaven's Sake
-Genre: Action, Comedy, Romance
-Description: An irresponsible young millionaire changes his tune when he falls for the daughter of a downtown minister.
-47. Movie: Ebberöds bank
-Description: Add a Plot
-48. Movie: Mantrap
-Genre: Comedy
-Description: A sexy young manicurist living with her older backwoodsman husband in a small Canadian town finds herself attracted to a young, rich and famous divorce lawyer who comes to town on vacation.
-49. Movie: The Show Off
-Genre: Comedy, Drama
-Description: A blowhard who poses as a railroad executive (but is really just a $30-a-week clerk) catches a young bride and then drives her family's finances to the brink of ruin.
-50. Movie: The Blackbird
-Genre: Crime, Drama, Romance
-Description: Two thieves, the Blackbird and West End Bertie, fall in love with the same girl, a French nightclub performer named Fifi. Each man tries to outdo the other to win her heart.
+20. Movie: The Temptress
+21. Movie: The Mountain Eagle
+22. Movie: Nana
+23. Movie: The Bat
+24. Movie: Bardelys the Magnificent
+25. Movie: Sparrows
+26. Movie: Beau Geste
+27. Movie: The Great K & A Train Robbery
+28. Movie: The Sea Beast
+29. Movie: The Boob
+30. Movie: So This Is Paris
+31. Movie: Irene
+32. Movie: What Price Glory
+33. Movie: The Son of the Sheik
+34. Movie: The Johnstown Flood
+35. Movie: It's the Old Army Game
+36. Movie: Fascinating Youth
+37. Movie: The American Venus
+38. Movie: Geheimnisse einer Seele
+39. Movie: The Strong Man
+40. Movie: The Third Degree
+41. Movie: The Flying Ace
+42. Movie: Po zakonu
+43. Movie: The Magician
+44. Movie: The Volga Boatman
+45. Movie: Kiki
+46. Movie: Feu Mathias Pascal
+47. Movie: Tell It to the Marines
+48. Movie: Old Ironsides
+49. Movie: The Midnight Sun
+50. Movie: Der Student von Prag

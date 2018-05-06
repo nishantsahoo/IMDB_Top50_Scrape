@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 1927-01-01 to 1927-12-31 : 
 1. Movie: Metropolis
-Genre: Drama, Sci-Fi
-Description: In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working class prophet who predicts the coming of a savior to mediate their differences.
 2. Movie: Sunrise: A Song of Two Humans
-Genre: Drama, Romance
-Description: An allegorical tale about a man fighting the good and evil within him. Both sides are made flesh - one a sophisticated woman he is attracted to and the other his wife.
 3. Movie: Wings
-Genre: Drama, Romance, War
-Description: Two young men, one rich, one middle class, who are in love with the same woman, become fighter pilots in World War I.
 4. Movie: The Jazz Singer
-Genre: Drama, Music, Musical
-Description: The son of a Jewish Cantor must defy the traditions of his religious father in order to pursue his dream of becoming a jazz singer.
-5. Movie: London After Midnight
-Genre: Horror
-Description: The abandoned home of a wealthy man who supposedly committed suicide five years earlier is taken over by ghoulish figures - could they be vampires?
-6. Movie: Napoléon vu par Abel Gance
-Genre: Biography, Drama, History
-Description: A film about the French Field Marshal's youth and early military career.
-7. Movie: The Lodger: A Story of the London Fog
-Genre: Crime, Drama, Mystery
-Description: A landlady suspects her new lodger is the madman killing women in London.
+5. Movie: The Lodger: A Story of the London Fog
+6. Movie: Napolon vu par Abel Gance
+7. Movie: London After Midnight
 8. Movie: It
-Genre: Comedy, Romance
-Description: A salesgirl with plenty of "it" (sex appeal) pursues a handsome playboy.
-9. Movie: 7th Heaven
-Genre: Drama, Romance
-Description: A street cleaner saves a young woman's life, and the pair slowly fall in love until war intervenes.
+9. Movie: The King of Kings
 10. Movie: The Unknown
-Genre: Drama, Horror, Romance
-Description: A criminal on the run hides in a circus and seeks to possess the daughter of the ringmaster at any cost.
-11. Movie: The King of Kings
-Genre: Biography, Drama, History
-Description: Jesus Christ faces religious and political oppression during his ministry and in the days before his death and resurrection.
-12. Movie: The Ring
-Genre: Drama, Romance, Sport
-Description: Two boxers compete for the love of a woman.
-13. Movie: Annie Laurie
-Genre: Drama, Romance
-Description: The story of the famous battle between the Scots clans of Macdonald and Campbell, and the young woman who comes between them, Annie Laurie.
-14. Movie: Underworld
-Genre: Crime, Drama, Film-Noir
-Description: Boisterous gangster kingpin Bull Weed rehabilitates his former lawyer from his alcoholic haze, but complications arise when he falls for Weed's girlfriend.
-15. Movie: The Cat and the Canary
-Genre: Horror, Mystery
-Description: Relatives of an eccentric millionaire gather in his spooky mansion on the 20th anniversary of his death for the reading of his will.
-16. Movie: Love
-Genre: Drama, Romance
-Description: A married woman compromises her social standing and family life when she falls for a young officer.
-17. Movie: Downhill
-Genre: Adventure, Drama, Thriller
-Description: Public schoolboy Roddy Berwick is expelled from school when he takes the blame for a friend's charge and his life falls apart in a series of misadventures.
+11. Movie: The Kid Brother
+12. Movie: Chicago
+13. Movie: Underworld
+14. Movie: 7th Heaven
+15. Movie: Downhill
+16. Movie: The Ring
+17. Movie: The Cat and the Canary
 18. Movie: College
-Genre: Comedy, Drama, Sport
-Description: To reconcile with his girlfriend, a bookish college student tries to become an athlete.
 19. Movie: Uncle Tom's Cabin
-Genre: Drama, History
-Description: Slavery tears apart a black family in the South before the start of the Civil War.
-20. Movie: Chicago
-Genre: Comedy, Crime, Drama
-Description: Based on a true crime story, the movie is about a wild jazz-loving and boozing wife Roxie Hart who kills her boyfriend in cold blood after he leaves her, and how she finagles her way out ...See full summary&nbsp;&raquo;
-21. Movie: Captain Salvation
-Genre: Drama, Romance
-Description: A returning seminary student goes up against a small New England town when he comes to the aid of a prostitute who has been injured, despite the townspeople's calls for her to be run out of...See full summary&nbsp;&raquo;
-22. Movie: The Kid Brother
-Genre: Comedy, Drama, Family
-Description: A sheriff's milquetoast son has a chance to prove himself when a medicine show run by con artists comes into town.
-23. Movie: Children of Divorce
-Genre: Drama, Romance
-Description: A young flapper tricks her childhood sweetheart into marrying her. He really loves another woman, but didn't marry her for fear the marriage would end in divorce, like his parents'. Complications ensue.
-24. Movie: My Best Girl
-Genre: Comedy, Romance
-Description: Joe Merrill, son of the millionaire owner of a chain of 5 and 10 cent stores, poses as Joe Grant, and takes a job in the stockroom of one of his father's stores, to prove that he can be a ...See full summary&nbsp;&raquo;
-25. Movie: Get Your Man
-Genre: Comedy, Romance
-Description: A young American girl in Paris falls in love with a handsome nobleman, but he is about to wed in an arranged marriage. She hatches a plan to overcome that obstacle and get her man.
-26. Movie: The Beloved Rogue
-Genre: Adventure, Drama, History
-Description: Franois Villon, in his lifetime the most renowned poet in France, is also a prankster, an occasional criminal, and an ardent patriot.
-27. Movie: The Way of All Flesh
-Genre: Drama
-Description: The story takes place in Milwaukee during the early 1900s with a bank clerk named August Schiller who is happy with both his job and his family. He is tasked with transporting $1,000 in ...See full summary&nbsp;&raquo;
-28. Movie: The Student Prince in Old Heidelberg
-Genre: Drama, Romance
-Description: A cloistered, overprotected Austrian prince falls in love with a down-to-earth barmaid in this "Viennese fairy tale."
-29. Movie: Two Arabian Knights
-Genre: Comedy, Romance, Adventure
-Description: Two American soldiers are captured by the Germans on the Western Front during World War One and escape a POW camp only to stumble into further life-threatening adventures when they come across an Arabian king's daughter while on the lam.
-30. Movie: Konets Sankt-Peterburga
-Genre: Drama
-Description: A peasant comes to St. Petersburg to find work. He unwittingly helps in the arrest of an old village friend who is now a labor leader. The unemployed peasant is also arrested and sent to ...See full summary&nbsp;&raquo;
-31. Movie: The Patent Leather Kid
-Genre: Drama, Romance, Sport
-Description: A boxer has difficulty balancing his sport with a budding romance; both are further jeopardized when the United States enters the first World War.
-32. Movie: The Dove
-Genre: Romance
-Description: Add a Plot
-33. Movie: Orchids and Ermine
-Genre: Comedy, Romance
-Description: Add a Plot
-34. Movie: Nevada
-Genre: Western
-Description: Add a Plot
-35. Movie: Mr. Wu
-Genre: Drama, Romance
-Description: When Mandarin Wu's unmarried daughter becomes pregnant by a young Englishman, he seeks vengeance.
-36. Movie: The Gaucho
-Genre: Adventure, Romance
-Description: A girl is saved by a miracle after she falls from a cliff in the Argentine Andes, and is blessed with healing powers. A shrine is built on the site, and a whole city grows around it, rich ...See full summary&nbsp;&raquo;
-37. Movie: Tiptoes
-Genre: Comedy, Romance
-Description: A silent film version of the Gershwin stage musical
-38. Movie: Devushka s korobkoy
-Genre: Comedy, Drama, Romance
-Description: Natasha and her grandfather live in a cottage near Moscow, making hats for Madame Irne. Madame and her husband have told the housing committee that Natasha rents a room from them; this ...See full summary&nbsp;&raquo;
-39. Movie: Tretya meshchanskaya
-Genre: Comedy, Drama
-Description: A married couple have a small apartment in Moscow. When an old friend of the husband's arrives in the city, he is unable to find lodgings. Kolia, the husband, invites his friend to move in with them.
-40. Movie: Die Liebe der Jeanne Ney
-Genre: Drama, Romance
-Description: In the Crimea, the Reds and the Whites aren't done fighting, and Jeanne discovers that the man she loves is a Bolshevik (when he kills her father). Penniless, she returns to Paris where she...See full summary&nbsp;&raquo;
-41. Movie: Resurrection
-Genre: Drama, Romance
-Description: Katusha, a country girl, is seduced and abandoned by Prince Nekludov. Nekludov finds himself, years later, on a jury trying the same Katusha for a crime he now realizes his actions drove ...See full summary&nbsp;&raquo;
-42. Movie: The Rough Riders
-Genre: War
-Description: The story of the military unit organized by future U.S. President Teddy Roosevelt and its adventures in Cuba during the Spanish-American War of 1898.
-43. Movie: The Fair Co-Ed
-Genre: Comedy
-Description: Add a Plot
-44. Movie: The Red Mill
-Genre: Comedy, Romance
-Description: A silent version of the Victor Herbert-Henry Blossom operetta
-45. Movie: La revue des revues
-Genre: Drama
-Description: Gabrielle (Helene Hallier), an ambitious but innocent would-be young chorine, trumps a music hall publicity stunt to become the new Parisian nightclub Cinderella. But this ...See full summary&nbsp;&raquo;
-46. Movie: La sirène des tropiques
-Genre: Comedy, Drama, Romance
-Description: Marquis Svro, a rich, lazy Parisian, wants to divorce his wife so that he can marry his own goddaughter Denise. But Denise herself loves Andr Berval, an engineer employed by the marquis....See full summary&nbsp;&raquo;
-47. Movie: Long Pants
-Genre: Comedy
-Description: Harry Shelby has been kept in knee pants for years by his overprotective parents, but the day finally comes when Harry is given his first pair of long pants. Almost immediately, he is ...See full summary&nbsp;&raquo;
-48. Movie: For the Love of Mike
-Genre: Drama, Romance
-Description: Three men join forces to raise an adopted son.
-49. Movie: The Private Life of Helen of Troy
-Genre: Comedy
-Description: Queen Helen of Troy ( Mara Corda ), piqued by her husband's lack of interest in her, elopes with Paris ( Ricardo Cortez ) to Sparta. Menelaus ( Lewis Stone ), her husband, egged on by his ...See full summary&nbsp;&raquo;
-50. Movie: The Drop Kick
-Genre: Drama, Sport
-Description: College football player Jack Hamill finds his reputation on the line when he pays an innocent visit to a woman whose husband kills himself.
+20. Movie: The Private Life of Helen of Troy
+21. Movie: Children of Divorce
+22. Movie: Two Arabian Knights
+23. Movie: The Student Prince in Old Heidelberg
+24. Movie: Love
+25. Movie: Tretya meshchanskaya
+26. Movie: Nevada
+27. Movie: Arizona Bound
+28. Movie: The Enemy
+29. Movie: Mr. Wu
+30. Movie: Ham and Eggs at the Front
+31. Movie: The Beloved Rogue
+32. Movie: The Gaucho
+33. Movie: Running Wild
+34. Movie: Konets Sankt-Peterburga
+35. Movie: Spring Fever
+36. Movie: The Way of All Flesh
+37. Movie: Tarzan and the Golden Lion
+38. Movie: A Million Bid
+39. Movie: Long Pants
+40. Movie: Annie Laurie
+41. Movie: Sorrell and Son
+42. Movie: When a Man Loves
+43. Movie: The Drop Kick
+44. Movie: White Gold
+45. Movie: West Point
+46. Movie: The Show
+47. Movie: My Best Girl
+48. Movie: The Patent Leather Kid
+49. Movie: Le joueur d'checs
+50. Movie: Zange no yaiba

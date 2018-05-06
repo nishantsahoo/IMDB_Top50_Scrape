@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 1943-01-01 to 1943-12-31 : 
-1. Movie: Destination Tokyo
-Genre: Adventure, History, War
-Description: In order to provide information for the first air raid over Tokyo, a U.S. submarine sneaks into Tokyo Bay and places a spy team ashore.
-2. Movie: Stormy Weather
-Genre: Musical
-Description: The relationship between an aspiring dancer and a popular songstress provides a retrospective of the great African American entertainers of the early 1900s.
-3. Movie: Cabin in the Sky
-Genre: Musical, Fantasy
-Description: A compulsive gambler dies during a shooting, but he'll receive a second chance to reform himself and to make up with his worried wife.
-4. Movie: Northern Pursuit
-Genre: Adventure, Drama, Romance
-Description: A Canadian Mountie of German descent feigns disaffection with his homeland in hopes of infiltrating and thwarting a Nazi sabotage plot.
-5. Movie: Mr. Lucky
-Genre: Comedy, Romance
-Description: A gambler has plans to swindle money from a charity program, but starts to have second thoughts when he falls for a rich society girl.
-6. Movie: Shadow of a Doubt
-Genre: Thriller
-Description: A young woman discovers her visiting uncle may not be the man he seems to be.
-7. Movie: Higher and Higher
-Genre: Comedy, Musical, Romance
-Description: With their employer bankrupt, servants scheme to marry maid Millie to a rich husband. But Frank Sinatra lives across the street...
-8. Movie: For Whom the Bell Tolls
-Genre: Adventure, Drama, History
-Description: During the Spanish Civil War, an American allied with the Republicans finds romance during a desperate mission to blow up a strategically important bridge.
-9. Movie: The Outlaw
-Genre: Comedy, Drama, Romance
-Description: Western legends Pat Garrett, Doc Holliday and Billy the Kid are played against each other over the law and the attentions of vivacious country vixen Rio McDonald.
-10. Movie: Princess O'Rourke
-Genre: Comedy, Romance
-Description: A pilot falls in love with a woman he believes is heading cross country to become a maid, little suspecting that she's actually a princess.
-11. Movie: Jane Eyre
-Genre: Drama, Romance
-Description: After a harsh childhood, orphan Jane Eyre is hired by Edward Rochester, the brooding lord of a mysterious manor house, to care for his young daughter.
-12. Movie: Batman
-Genre: Action, Adventure, Crime
-Description: Japanese spymaster Prince Daka operates a covert espionage organization located in Gotham City's now-deserted Little Tokyo which turns American scientists into pliable zombies.
-13. Movie: The Song of Bernadette
-Genre: Biography, Drama
-Description: In 1858 France, Bernadette, an adolescent peasant girl, has a vision of "a beautiful lady" in the city dump. She never claims it to be anything other than this, but the townspeople all ...See full summary&nbsp;&raquo;
-14. Movie: Heaven Can Wait
-Genre: Comedy, Drama, Fantasy
-Description: An old rou arrives in Hades to review his life with Satan, who will rule on his eligibility to enter the Underworld.
-15. Movie: The Ox-Bow Incident
-Genre: Drama, Western
-Description: When a posse catches up three men suspected of killing a local farmer, some of them become strongly divided on whether or not to lynch the men.
-16. Movie: Sahara
-Genre: Action, Drama, War
-Description: Sergeant Joe Gunn and his tank crew pick up five British soldiers, a Frenchman and a Sudanese man with an Italian prisoner crossing the Libyan Desert to rejoin their command after the fall ...See full summary&nbsp;&raquo;
-17. Movie: Phantom of the Opera
-Genre: Drama, Horror, Music
-Description: A disfigured violinist haunts the Paris Opera House.
-18. Movie: Action in the North Atlantic
-Genre: Drama, War
-Description: An American tanker is sunk by a German U-boat and the survivors spend eleven days at sea on a raft. They're next assigned to the liberty ship "Sea Witch" bound for Murmansk through the sub-stalked North Atlantic.
-19. Movie: Lassie Come Home
-Genre: Adventure, Family
-Description: After her destitute family is forced to sell her, a collie named Lassie escapes from her new owner and begins the long trek from Scotland to her Yorkshire home.
-20. Movie: The Life and Death of Colonel Blimp
-Genre: Comedy, Drama, Romance
-Description: From the Boer War through World War II, a soldier rises through the ranks in the British military.
-21. Movie: Du Barry Was a Lady
-Genre: Comedy, Fantasy, Musical
-Description: A night club's coatroom attendant who's in-love with the club's singer accidentally sips a drugged drink that makes him dream he's French King Louis XV courting the infamous Madame Du Barry.
-22. Movie: The Moon Is Down
-Genre: Drama
-Description: When the Germans invade Norway their Commandant and the town Mayor confront each other, attempting to maintain civility as far as possible. When the army tries to orgnanize townspeople to ...See full summary&nbsp;&raquo;
-23. Movie: Frankenstein Meets the Wolf Man
-Genre: Fantasy, Horror, Sci-Fi
-Description: After being awakened, Larry Talbot chips Frankenstein's Monster out of a block of ice. When Talbot changes to the Wolf Man, the two creatures battle each other.
-24. Movie: I Walked with a Zombie
-Genre: Fantasy, Horror
-Description: A Canadian nurse is hired to care for the wife of a sugar plantation owner, who has been acting strangely, on a Caribbean island.
-25. Movie: Vredens dag
-Genre: Drama
-Description: The young wife of an aging priest falls in love with his son amidst the horror of a merciless witch hunt in 17th century Denmark.
-26. Movie: The More the Merrier
-Genre: Comedy, Romance
-Description: During the World War II housing shortage in Washington, two men and a woman share a single apartment and the older man plays Cupid to the other two.
-27. Movie: Hangmen Also Die!
-Genre: Drama, Film-Noir, Thriller
-Description: After the Nazi administrator of Czechoslovakia is shot, his assassin tries to elude the Gestapo and struggles with his impulse to give himself up as hostages are executed.
-28. Movie: Five Graves to Cairo
-Genre: Thriller, War
-Description: During World War 2, an undercover British soldier tries get word to the Allies that the Germans have tons of supplies buried in 5 excavations across Egypt.
-29. Movie: Ossessione
-Genre: Crime, Drama, Romance
-Description: Gino, a drifter, begins an affair with inn-owner Giovanna as they plan to get rid of her older husband.
-30. Movie: Air Force
-Genre: Action, Drama, History
-Description: The crew of an Air Force bomber arrives in Pearl Harbor in the aftermath of the Japanese attack and is sent on to Manila to help with the defense of the Philippines.
-31. Movie: A Guy Named Joe
-Genre: Drama, Romance, War
-Description: Dead World War II bomber pilot, Maj. Pete Sandidge, becomes guardian angel to another pilot, Capt. Ted Randall, guiding Ted through battle and helping him to romance his old girlfriend, despite her excessive devotion to Sandidge's memory.
-32. Movie: Sugata Sanshirô
-Genre: Action, Adventure, Drama
-Description: Sugata, a young man, struggles to learn the nuance and meaning of judo, and in doing so comes to learn something of the meaning of life.
-33. Movie: I Dood It
-Genre: Romance, Comedy, Musical
-Description: A bumbling pants presser at an upscale hotel's valet service nurses an unrequited crush on a Broadway star. He gets more than he bargained for when she agrees to marry him, to spite her womanizing fiance, and encounters Nazi saboteurs.
-34. Movie: Lady of Burlesque
-Genre: Comedy, Music, Mystery
-Description: After one member of their group is murdered, the performers at a burlesque house must work together to find out who the killer is before they strike again.
-35. Movie: Watch on the Rhine
-Genre: Drama
-Description: A German-born engineer, his American wife and their children travel from Mexico to the United States to visit his brother but their plans are complicated by a Romanian count.
-36. Movie: Edge of Darkness
-Genre: Drama, War
-Description: After two years under German rule, a small Norwegian fishing village rises up and revolts against the occupying Nazis.
-37. Movie: This Is the Army
-Genre: Comedy, Musical, War
-Description: In WWI dancer Jerry Jones stages an all-soldier show on Broadway, called Yip Yip Yaphank. Wounded in the war, he becomes a producer. In WWII his son Johnny Jones, who was before his ...See full summary&nbsp;&raquo;
-38. Movie: We Dive at Dawn
-Genre: Action, Drama, War
-Description: All leave is canceled so that a British submarine can be sent after a new German warship. They chase it so far that they have no fuel to get home.
-39. Movie: Stage Door Canteen
-Genre: Comedy, Musical, Romance
-Description: "Dakota," a young soldier on a pass in New York City, visits the famed Stage Door Canteen, where famous stars of the theatre and films appear and host a recreational center for servicemen ...See full summary&nbsp;&raquo;
-40. Movie: Bataan
-Genre: War
-Description: Japan has just invaded the Phillipines and the US Army attempts a desperate defence. Thirteen men are chosen to blow up a bridge on the Bataan peninsula and keep the Japanese from ...See full summary&nbsp;&raquo;
-41. Movie: The Constant Nymph
-Genre: Drama, Music, Romance
-Description: Fourteen-year-old Tessa is hopelessly in love with handsome composer Lewis Dodd, a family friend. Lewis adores Tessa, but has never shown any romantic feelings toward her. When Tessa's ...See full summary&nbsp;&raquo;
-42. Movie: Son of Dracula
-Genre: Fantasy, Horror
-Description: Count Alucard finds his way from Budapest to the swamps of the Deep South; his four nemeses are a medical doctor, a university professor, a jilted fianc and the woman he loves.
-43. Movie: The Gang's All Here
-Genre: Comedy, Musical, Romance
-Description: A soldier falls for a chorus girl and then experiences trouble when he is posted to the Pacific.
-44. Movie: So Proudly We Hail!
-Genre: Drama, Romance, War
-Description: A group of nurses returning from the war in the Phillippines recall their experiences in combat and in love.
-45. Movie: Le corbeau
-Genre: Crime, Drama, Mystery
-Description: French village doctor becomes target of poison-pen letters sent to village leaders, accusing him of affairs and practicing abortion.
-46. Movie: Sherlock Holmes Faces Death
-Genre: Crime, Mystery, Romance
-Description: During WWII several murders occur at a convalescent home where Dr. Watson has volunteered his services. He summons Holmes for help and the master detective proceeds to solve the crime from ...See full summary&nbsp;&raquo;
-47. Movie: Crash Dive
-Genre: Action, Adventure, Drama
-Description: A submarine lieutenant and his commander fall in love with the same girl.
-48. Movie: Sherlock Holmes in Washington
-Genre: Mystery
-Description: Sherlock Holmes and Doctor Watson travel to Washington D.C. in order to prevent a secret document from falling into enemy hands.
-49. Movie: The Saint Meets the Tiger
-Genre: Crime, Drama, Mystery
-Description: The last words uttered by by a conscience-stricken crook dying on the Saint's doorstep lead the detective in pursuit of gold smugglers and the master crook known as the Tiger.
-50. Movie: 'Gung Ho!': The Story of Carlson's Makin Island Raiders
-Genre: Drama, History, War
-Description: The true story of Carlson's Raiders and their World War II attack on Makin Island.
+1. Movie: Tarzan Triumphs
+2. Movie: Shadow of a Doubt
+3. Movie: The Outlaw
+4. Movie: For Whom the Bell Tolls
+5. Movie: The Ox-Bow Incident
+6. Movie: Jane Eyre
+7. Movie: Sahara
+8. Movie: Le corbeau
+9. Movie: The Song of Bernadette
+10. Movie: Batman
+11. Movie: Phantom of the Opera
+12. Movie: Ladies' Day
+13. Movie: Heaven Can Wait
+14. Movie: The Life and Death of Colonel Blimp
+15. Movie: This Is the Army
+16. Movie: Tarzan's Desert Mystery
+17. Movie: Stormy Weather
+18. Movie: Frankenstein Meets the Wolf Man
+19. Movie: The More the Merrier
+20. Movie: Jack London
+21. Movie: Bataan
+22. Movie: Stage Door Canteen
+23. Movie: Lassie Come Home
+24. Movie: Cabin in the Sky
+25. Movie: I Walked with a Zombie
+26. Movie: A Guy Named Joe
+27. Movie: Sherlock Holmes Faces Death
+28. Movie: Destination Tokyo
+29. Movie: The Spider Woman
+30. Movie: Sherlock Holmes in Washington
+31. Movie: Five Graves to Cairo
+32. Movie: The Miracle of Morgan's Creek
+33. Movie: Crash Dive
+34. Movie: Action in the North Atlantic
+35. Movie: Vredens dag
+36. Movie: Watch on the Rhine
+37. Movie: Guadalcanal Diary
+38. Movie: Son of Dracula
+39. Movie: Sugata Sanshir
+40. Movie: Air Force
+41. Movie: The North Star
+42. Movie: The Gang's All Here
+43. Movie: Dead Men Walk
+44. Movie: This Land Is Mine
+45. Movie: Mnchhausen
+46. Movie: Keeper of the Flame
+47. Movie: Titanic
+48. Movie: The Desperadoes
+49. Movie: Edge of Darkness
+50. Movie: Madame Curie

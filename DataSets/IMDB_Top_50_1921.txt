@@ -1,148 +1,51 @@
 Most Popular Feature Films Released 1921-01-01 to 1921-12-31 : 
 1. Movie: The Kid
-Genre: Comedy, Drama, Family
-Description: The Tramp cares for an abandoned child, but events put that relationship in jeopardy.
-2. Movie: Körkarlen
-Genre: Drama, Fantasy, Horror
-Description: On New Year's Eve, the driver of a ghostly carriage forces a drunken man to reflect on his selfish, wasted life.
-3. Movie: Orphans of the Storm
-Genre: Drama, History, Romance
-Description: Two orphaned sisters are caught up in the turmoil of the French Revolution, encountering misery and love along the way.
-4. Movie: Der müde Tod
-Genre: Drama, Fantasy, Thriller
-Description: When a woman's fianc disappears, Death gives her three chances to save him from his fate.
-5. Movie: The Four Horsemen of the Apocalypse
-Genre: Drama, Romance, War
-Description: An extended family split up in France and Germany find themselves on opposing sides of the battlefield during World War I.
-6. Movie: The Sheik
-Genre: Adventure, Drama, Romance
-Description: A charming Arabian sheik becomes infatuated with an adventurous, modern-thinking Englishwoman and abducts her to his home in the Saharan desert.
-7. Movie: Schloß Vogelöd
-Genre: Crime, Drama, Horror
-Description: In the castle Vogeloed, a few aristocrats are awaiting baroness Saffersttt. But first count Oetsch invites himself.. Everyone thinks he murdered his brother, baroness Safferstat's first ...See full summary&nbsp;&raquo;
-8. Movie: The Three Musketeers
-Genre: Action, Adventure, Romance
-Description: The young Gascon D'Artagnan arrives in Paris, his heart set on joining the king's Musketeers. He is taken under the wings of three of the most respected and feared Musketeers, Porthos, ...See full summary&nbsp;&raquo;
-9. Movie: Tol'able David
-Genre: Drama
-Description: When three thuggish men are responsible for the death of his father and the crippling of his brother, young David must choose between supporting his family or risking his life and exacting vengeance.
-10. Movie: Camille
-Genre: Drama, Romance
-Description: A courtesan and an idealistic young man fall in love, only for her to give up the relationship at his status-conscious father's request.
+2. Movie: Krkarlen
+3. Movie: Der mde Tod
+4. Movie: The Sheik
+5. Movie: Orphans of the Storm
+6. Movie: The Four Horsemen of the Apocalypse
+7. Movie: Schlo Vogeld
+8. Movie: Camille
+9. Movie: The Three Musketeers
+10. Movie: The Adventures of Tarzan
 11. Movie: The Affairs of Anatol
-Genre: Comedy, Drama
-Description: Socialite Anatol Spencer seeks a better relation that he has with his wife. He sets up the friend of his youth Emilie in an apartment only to have her two-time him. He comforts the near ...See full summary&nbsp;&raquo;
-12. Movie: A Sailor-Made Man
-Genre: Comedy
-Description: An idle, wealthy playboy foolishly joins the Navy when the father of the girl he wants to marry tells him to get a job to prove himself worthy.
-13. Movie: The Conquest of Canaan
-Genre: Drama
-Description: Ne'er-do-well Joe Louden scandalizes his small town and especially the proper Judge Pike. But through the love of young Ariel Taber, Joe shows the town who the real scoundrel is.
-14. Movie: Die Bergkatze
-Genre: Comedy, Drama, Romance
-Description: A charismatic lieutenant newly assigned to a remote fort is captured by a group of mountain bandits, thus setting in motion a madcap farce that is Lubitsch at his most unrestrained.
-15. Movie: The Queen of Sheba
-Genre: Adventure, Drama
-Description: The story of the ill-fated romance between Solomon, king of Israel, and the Queen of Sheba.
-16. Movie: Rip Van Winkle
-Genre: Fantasy
-Description: The story shows the development of the united state in divergent fields : Political, social and even economic field.
-17. Movie: Hamlet
-Genre: Drama
-Description: Danish silent movie-star Asta Nielsen formed her own production company to make this film, in which new elements are combined with features (and a few lines) familiar from Shakespeare's ...See full summary&nbsp;&raquo;
-18. Movie: Vier um die Frau
-Genre: Drama
-Description: Harry Yquem, a wealthy broker, remains obsessed with delusions of his devout wife's infidelity.
-19. Movie: Eldorado
-Genre: Drama
-Description: Sibilla is a single mother, working as a gypsy dancer in a lousy cafe in the south of Spain. Unable to keep with the costs of his son's medical bills, she asks for help to Estiria, her ...See full summary&nbsp;&raquo;
-20. Movie: The Adventures of Tarzan
-Genre: Action, Adventure
-Description: Tarzan spurns the love of La, Queen of Opar. When he isn't trying to keep the Bolshevik Rokoff and Clayton (pretender to the Greystoke estate) from reaching Opar, he is attacked ...See full summary&nbsp;&raquo;
-21. Movie: The Great Moment
-Genre: Drama
-Description: Add a Plot
-22. Movie: Seven Years Bad Luck
-Genre: Comedy
-Description: After breaking a mirror in his home, superstitious Max tries to avoid situations which could bring bad luck-- but in doing so, causes himself the worst luck imaginable.
-23. Movie: Little Lord Fauntleroy
-Genre: Drama
-Description: An American boy turns out to be the long-lost heir of a British fortune. He is sent to live with the cold and unsentimental lord who oversees the trust.
-24. Movie: L'Atlantide
-Genre: Adventure, Fantasy, Mystery
-Description: Two men, lost in the desert, meet Queen Antinea, ruler of Atlantis.
-25. Movie: Drakula halála
-Genre: Horror, Thriller
-Description: A girl has frightening visions after visiting an insane asylum where one of the inmates claims to be Drakula and she can not be sure whether they were a nightmare or real.
-26. Movie: The Love Light
-Genre: Drama
-Description: Angela maintains a coastal lighthouse in Italy, where she awaits the return of her brothers from the war. She learns they are casualties and takes solace in the arms of an American sailor ...See full summary&nbsp;&raquo;
-27. Movie: The Ace of Hearts
-Genre: Crime, Drama, Mystery
-Description: A romantic rivalry among members of a secret society becomes even tenser when one of the men is assigned to carry out an assassination.
-28. Movie: Dream Street
-Genre: Drama, Romance
-Description: Three men in London compete for the love of a dance-hall girl.
-29. Movie: The Conquering Power
-Genre: Drama, Romance
-Description: After losing his father, a playboy moves in with his miserly uncle, who seeks to cheat him out of his inheritance.
-30. Movie: Be My Wife
-Genre: Comedy
-Description: Max is determined to woo Mary, despite her Aunt Agatha's disapproval.
-31. Movie: Brewster's Millions
-Genre: Comedy
-Description: Monte Brewster learns that he has inherited $10 million from his late grandfather, but then learns that he must spend $2 million in less than a year and remain unmarried to inherit the rest of the money.
-32. Movie: The Blot
-Genre: Drama
-Description: The Professor dispenses the wisdom of the ages and does not make a living wage. The sons of the rich and powerful are students lacking any motivation. The next door neighbor of the ...See full summary&nbsp;&raquo;
-33. Movie: Hintertreppe
-Genre: Drama
-Description: A crippled mailman is in love with a maid who lives in the same building he does in one of the city's poor neighborhoods. She, however, is in love with a wealthy, handsome young man. ...See full summary&nbsp;&raquo;
-34. Movie: A Perfect Crime
-Genre: Drama
-Description: Add a Plot
+12. Movie: Brewster's Millions
+13. Movie: Die Bergkatze
+14. Movie: A Sailor-Made Man
+15. Movie: The Ace of Hearts
+16. Movie: The Conquering Power
+17. Movie: The Smart Sex
+18. Movie: Rip Van Winkle
+19. Movie: The Love Light
+20. Movie: Tol'able David
+21. Movie: Vier um die Frau
+22. Movie: The Torrent
+23. Movie: Drakula halla
+24. Movie: Der Gang in die Nacht
+25. Movie: The Queen of Sheba
+26. Movie: The Blot
+27. Movie: Through the Back Door
+28. Movie: Little Lord Fauntleroy
+29. Movie: Idle Hands
+30. Movie: Seven Years Bad Luck
+31. Movie: A Tale of Two Worlds
+32. Movie: Das indische Grabmal zweiter Teil - Der Tiger von Eschnapur
+33. Movie: Hamlet
+34. Movie: Eldorado
 35. Movie: Miss Lulu Bett
-Genre: Comedy, Drama
-Description: A once-timid young woman gains newfound confidence after a failed marriage, much to the chagrin of her miserable family.
-36. Movie: Der Gang in die Nacht
-Genre: Drama
-Description: Dr Eigil Borne is engaged to Hlne, a girl who is madly in love with him. At Hlne's birthday celebration, Eigil invites her to a cabaret, where he meets his other love, Lily, a passionate, fiery and funny dancer.
-37. Movie: Forbidden Fruit
-Genre: Drama
-Description: Mary Maddock becomes a seamstress after her husband Steve wastes their money on booze. Her employer provides her as an escort to accompany millionaire Mallory. Her husband tries ...See full summary&nbsp;&raquo;
-38. Movie: Markens grøde
-Genre: Drama
-Description: After the Nobel prize winning Knut Hamsun-novel, with it's criticism of industrialization, urbanizing and loss of values. The farmer Isak makes a farm out of barren soil, together with Inger and their two sons. She kills the third.
-39. Movie: Das indische Grabmal zweiter Teil - Der Tiger von Eschnapur
-Genre: Adventure, Fantasy
-Description: Howard is infected with leprosy, Mac Allen was captured by the Maharadsha, and now the Maharadsha offers Irene a deal: one night for letting healing Howard. She accepts, but when she tries ...See full summary&nbsp;&raquo;
-40. Movie: My Boy
-Genre: Comedy, Drama
-Description: An orphan escapes immigration officials at Ellis Island and goes to live with an old ship's master who can't find work and can't pay the rent.
-41. Movie: The Hope Diamond Mystery
-Genre: Action, Adventure
-Description: The true story of Lord Francis Hope who inherits the Hope Diamond and marries showgirl May Yohe. Lord Francis Hope gambles away the family fortune and May Yohe leaves him. Another suspected curse of owning the Hope Diamond.
-42. Movie: The Four Feathers
-Genre: Adventure, Drama, Romance
-Description: A 'coward' resigns his commission and poses as an Arab to save his former comrades.
-43. Movie: Die rote Nacht
-Description: Add a Plot
-44. Movie: Banditen im Frack
-Genre: Crime
-Description: Add a Plot
-45. Movie: The Sky Pilot
-Genre: Drama
-Description: The sky pilot is a preacher who helps Gwen walk again after a near-fatal accident.
-46. Movie: Molly O'
-Genre: Comedy
-Description: An Irish washerwoman's daughter falls in love with one of America's most eligible bachelors, much to the dismay of the girl's parents -- and the young doctor's newly acquired fiance! ...See full summary&nbsp;&raquo;
-47. Movie: L'uomo meccanico
-Genre: Comedy, Horror, Sci-Fi
-Description: The story begins with a scientist creating a device shaped like a man that can be remote-controlled by a machine.
-48. Movie: Her Lord and Master
-Genre: Comedy
-Description: Indiana Stillwater, the daughter of a wealthy American railroad industrialist, marries English nobleman Viscount Canning and travels to England. Her in-laws are somewhat shocked by her ...See full summary&nbsp;&raquo;
-49. Movie: Sehnsucht
-Description: A young Russian dancer in Geneva returns to Russia, where he falls in love with a grand duchess. He is arrested but manages to escape.
-50. Movie: Le chemin d'Ernoa
-Description: Add a Plot
+36. Movie: Hintertreppe
+37. Movie: The Nut
+38. Movie: Danton
+39. Movie: La terre
+40. Movie: Forbidden Fruit
+41. Movie: Das indische Grabmal erster Teil - Die Sendung des Yoghi
+42. Movie: Sappho
+43. Movie: The Wolverine
+44. Movie: Sehnsucht
+45. Movie: L'uomo meccanico
+46. Movie: A Perfect Crime
+47. Movie: Lady Hamilton
+48. Movie: Enchantment
+49. Movie: A Connecticut Yankee in King Arthur's Court
+50. Movie: Peck's Bad Boy

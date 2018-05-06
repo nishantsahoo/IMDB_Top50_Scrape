@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 2010-01-01 to 2010-12-31 : 
 1. Movie: Inception
-Genre: Action, Adventure, Sci-Fi
-Description: A thief, who steals corporate secrets through use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO.
-2. Movie: Shutter Island
-Genre: Mystery, Thriller
-Description: In 1954, a U.S. marshal investigates the disappearance of a murderess who escaped from a hospital for the criminally insane.
-3. Movie: Alice in Wonderland
-Genre: Adventure, Family, Fantasy
-Description: Nineteen-year-old Alice returns to the magical world from her childhood adventure, where she reunites with her old friends and learns of her true destiny: to end the Red Queen's reign of terror.
-4. Movie: Easy A
-Genre: Comedy, Drama, Romance
-Description: A clean-cut high school student relies on the school's rumor mill to advance her social and financial standing.
-5. Movie: Black Swan
-Genre: Drama, Thriller
-Description: A committed dancer wins the lead role in a production of Tchaikovsky's "Swan Lake" only to find herself struggling to maintain her sanity.
-6. Movie: Scott Pilgrim vs. the World
-Genre: Action, Comedy, Fantasy
-Description: Scott Pilgrim must defeat his new girlfriend's seven evil exes in order to win her heart.
-7. Movie: The Last Airbender
-Genre: Action, Adventure, Family
-Description: Follows the adventures of Aang, a young successor to a long line of Avatars, who must master all four elements and stop the Fire Nation from enslaving the Water Tribes and the Earth Kingdom.
-8. Movie: Burlesque
-Genre: Drama, Music, Musical
-Description: A small-town girl ventures to Los Angeles and finds her place in a neo-burlesque club run by a former dancer.
-9. Movie: Kick-Ass
-Genre: Action, Comedy
-Description: Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a superhero, even though he has no powers, training or meaningful reason to do so.
-10. Movie: The Town
-Genre: Crime, Drama, Thriller
-Description: As he plans his next job, a longtime thief tries to balance his feelings for a bank manager connected to one of his earlier heists, as well as the FBI agent looking to bring him and his crew down.
-11. Movie: Harry Potter and the Deathly Hallows: Part 1
-Genre: Adventure, Family, Fantasy
-Description: As Harry races against time and evil to destroy the Horcruxes, he uncovers the existence of three most powerful objects in the wizarding world: the Deathly Hallows.
-12. Movie: Resident Evil: Afterlife
-Genre: Action, Adventure, Horror
-Description: While still out to destroy the evil Umbrella Corporation, Alice joins a group of survivors living in a prison surrounded by the infected who also want to relocate to the mysterious but supposedly unharmed safe haven known only as Arcadia.
-13. Movie: Blue Valentine
-Genre: Drama, Romance
-Description: The relationship of a contemporary married couple, charting their evolution over a span of years by cross-cutting between time periods.
-14. Movie: The Social Network
-Genre: Biography, Drama
-Description: Harvard studentMark Zuckerbergcreates the social networking site that would become known as Facebook, but is later sued by two brothers who claimed he stole their idea, and the co-founder who was later squeezed out of the business.
-15. Movie: Tangled
-Genre: Animation, Adventure, Comedy
-Description: The magically long-haired Rapunzel has spent her entire life in a tower, but now that a runaway thief has stumbled upon her, she is about to discover the world for the first time, and who she really is.
-16. Movie: The A-Team
-Genre: Action, Adventure, Comedy
-Description: A group of Iraq War veterans looks to clear their name with the U.S. military, who suspect the four men of committing a crime for which they were framed.
-17. Movie: Srpski film
-Genre: Horror, Mystery, Thriller
-Description: An aging porn star agrees to participate in an "art film" in order to make a clean break from the business, only to discover that he has been drafted into making a pedophilia and necrophilia themed snuff film.
-18. Movie: Predators
-Genre: Action, Adventure, Sci-Fi
-Description: A group of elite warriors parachute into an unfamiliar jungle and are hunted by members of a merciless alien race.
-19. Movie: The King's Speech
-Genre: Biography, Drama
-Description: The story of King George VI of the United Kingdom of Great Britain and Northern Ireland, his impromptu ascension to the throne and the speech therapist who helped the unsure monarch become worthy of it.
-20. Movie: Tron: Legacy
-Genre: Action, Adventure, Sci-Fi
-Description: The son of a virtual world designer goes looking for his father and ends up inside the digital world that his father designed. He meets his father's corrupted creation and a unique ally who was born inside the digital world.
-21. Movie: Percy Jackson &amp; the Olympians: The Lightning Thief
-Genre: Adventure, Family, Fantasy
-Description: A teenager discovers he's the descendant of a Greek god and sets out on an adventure to settle an on-going battle between the gods.
-22. Movie: Clash of the Titans
-Genre: Action, Adventure, Fantasy
-Description: Perseus demigod, son of Zeus, battles the minions of the underworld to stop them from conquering heaven and earth.
-23. Movie: Incendies
-Genre: Drama, Mystery, War
-Description: Twins journey to the Middle East to discover their family history, and fulfill their mother's last wishes.
-24. Movie: The Other Guys
-Genre: Action, Comedy, Crime
-Description: Two mismatched New York City detectives seize an opportunity to step up like the city's top cops whom they idolize -- only things don't quite go as planned.
-25. Movie: Love &amp; Other Drugs
-Genre: Comedy, Drama, Romance
-Description: A young woman suffering from Parkinson's befriends a drug rep working for Pfizer in 1990s Pittsburgh.
-26. Movie: The Ghost Writer
-Genre: Mystery, Thriller
-Description: A ghostwriter hired to complete the memoirs of a former British prime minister uncovers secrets that put his own life in jeopardy.
-27. Movie: Unstoppable
-Genre: Action, Thriller
-Description: With an unmanned, half-mile-long freight train barreling toward a city, a veteran engineer and a young conductor race against the clock to prevent a catastrophe.
-28. Movie: Remember Me
-Genre: Drama, Romance
-Description: A romantic drama centered on two new lovers: Tyler, whose parents have split in the wake of his brother's suicide, and Ally, who lives each day to the fullest since witnessing her mother's murder.
-29. Movie: Secretariat
-Genre: Biography, Drama, Family
-Description: Penny Chenery Tweedy and colleagues guide her long-shot but precocious stallion to set, in 1973, the unbeaten record for winning the Triple Crown.
-30. Movie: True Grit
-Genre: Adventure, Drama, Western
-Description: A tough U.S. Marshal helps a stubborn teenager track down her father's murderer.
-31. Movie: Valentine's Day
-Genre: Comedy, Romance
-Description: Intertwining couples and singles in Los Angeles break-up and make-up based on the pressures and expectations of Valentine's Day.
-32. Movie: Toy Story 3
-Genre: Animation, Adventure, Comedy
-Description: The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.
-33. Movie: RED
-Genre: Action, Comedy, Crime
-Description: When his peaceful life is threatened by a high-tech assassin, former black-ops agent Frank Moses reassembles his old team in a last ditch effort to survive and uncover his assailants.
-34. Movie: The Karate Kid
-Genre: Action, Drama, Family
-Description: Work causes a single mother to move to China with her young son; in his new home, the boy embraces kung fu, taught to him by a master.
-35. Movie: Iron Man 2
-Genre: Action, Adventure, Sci-Fi
-Description: With the world now aware of his identity as Iron Man, Tony Stark must contend with both his declining health and a vengeful mad man with ties to his father's legacy.
-36. Movie: Despicable Me
-Genre: Animation, Adventure, Comedy
-Description: When a criminal mastermind uses a trio of orphan girls as pawns for a grand scheme, he finds their love is profoundly changing him for the better.
-37. Movie: Insidious
-Genre: Horror, Mystery, Thriller
-Description: A family looks to prevent evil spirits from trapping their comatose child in a realm called The Further.
-38. Movie: Sex and the City 2
-Genre: Comedy, Drama, Romance
-Description: While wrestling with the pressures of life, love, and work in Manhattan, Carrie, Miranda, and Charlotte join Samantha for a trip to Abu Dhabi (United Arab Emirates), where Samantha's ex is filming a new movie.
-39. Movie: The Fighter
-Genre: Biography, Drama, Sport
-Description: A look at the early years of boxer "Irish" Micky Ward and his brother who helped train him before going pro in the mid 1980s.
-40. Movie: Life as We Know It
-Genre: Comedy, Drama, Romance
-Description: Two single adults become caregivers to an orphaned girl when their mutual best friends die in an accident.
-41. Movie: 127 Hours
-Genre: Adventure, Biography, Drama
-Description: An adventurous mountain climber becomes trapped under a boulder while canyoneering alone near Moab, Utah and resorts to desperate measures in order to survive.
-42. Movie: How to Train Your Dragon
-Genre: Animation, Action, Adventure
-Description: A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.
-43. Movie: Prince of Persia: The Sands of Time
-Genre: Action, Adventure, Fantasy
-Description: A young fugitive prince and princess must stop a villain who unknowingly threatens to destroy the world with a special dagger that enables the magic sand inside to reverse time.
-44. Movie: The Switch
-Genre: Comedy, Drama, Romance
-Description: Seven years after the fact, a man comes to the realization that he was the sperm donor for his best friend's boy.
-45. Movie: Grown Ups
-Genre: Comedy, Family
-Description: After their high school basketball coach passes away, five good friends and former teammates reunite for a Fourth of July holiday weekend.
-46. Movie: The Twilight Saga: Eclipse
-Genre: Adventure, Drama, Fantasy
-Description: As a string of mysterious killings grips Seattle, Bella, whose high school graduation is fast approaching, is forced to choose between her love for vampire Edward and her friendship with werewolf Jacob.
-47. Movie: The Book of Eli
-Genre: Action, Adventure, Drama
-Description: A post-apocalyptic tale, in which a lone man fights his way across America in order to protect a sacred book that holds the secrets to saving humankind.
-48. Movie: Unthinkable
-Genre: Drama, Thriller
-Description: A psychological thriller centered around a black-ops interrogator and an FBI agent who press a suspect terrorist into divulging the location of three nuclear weapons set to detonate in the U.S.
-49. Movie: All Good Things
-Genre: Crime, Drama, Mystery
-Description: Mr. David Marks was suspected but never tried for killing his wife Katie who disappeared in 1982, but the truth is eventually revealed.
-50. Movie: The Way Back
-Genre: Adventure, Biography, Drama
-Description: Siberian gulag escapees travel 4,000 miles by foot to freedom in India.
+2. Movie: Iron Man 2
+3. Movie: Scott Pilgrim vs. the World
+4. Movie: Black Swan
+5. Movie: The Social Network
+6. Movie: Easy A
+7. Movie: Shutter Island
+8. Movie: Harry Potter and the Deathly Hallows: Part 1
+9. Movie: Despicable Me
+10. Movie: She's Out of My League
+11. Movie: Tangled
+12. Movie: Grown Ups
+13. Movie: The Other Guys
+14. Movie: The Town
+15. Movie: Kick-Ass
+16. Movie: Dinner for Schmucks
+17. Movie: Percy Jackson & the Olympians: The Lightning Thief
+18. Movie: Toy Story 3
+19. Movie: Let Me In
+20. Movie: Skyline
+21. Movie: Clash of the Titans
+22. Movie: Srpski film
+23. Movie: Insidious
+24. Movie: How to Train Your Dragon
+25. Movie: Flipped
+26. Movie: Blue Valentine
+27. Movie: Tron
+28. Movie: Alice in Wonderland
+29. Movie: The Spy Next Door
+30. Movie: Robin Hood
+31. Movie: Legion
+32. Movie: Remember Me
+33. Movie: The King's Speech
+34. Movie: Never Let Me Go
+35. Movie: Hot Tub Time Machine
+36. Movie: Predators
+37. Movie: Megamind
+38. Movie: The Last Airbender
+39. Movie: The Karate Kid
+40. Movie: Unstoppable
+41. Movie: True Grit
+42. Movie: The Expendables
+43. Movie: Salt
+44. Movie: Piranha 3D
+45. Movie: The Book of Eli
+46. Movie: The Way Back
+47. Movie: RED
+48. Movie: The A-Team
+49. Movie: Incendies
+50. Movie: Love & Other Drugs

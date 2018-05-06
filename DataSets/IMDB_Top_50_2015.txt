@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 2015-01-01 to 2015-12-31 : 
-1. Movie: Star Wars: Episode VII - The Force Awakens
-Genre: Action, Adventure, Fantasy
-Description: Three decades after the defeat of the Galactic Empire, a new threat arises. The First Order attempts to rule the galaxy and only a ragtag group of heroes can stop them, along with the help of the Resistance.
-2. Movie: The Hateful Eight
-Genre: Crime, Drama, Mystery
-Description: In the dead of a Wyoming winter, a bounty hunter and his prisoner find shelter in a cabin currently inhabited by a collection of nefarious characters.
-3. Movie: Fifty Shades of Grey
-Genre: Drama, Romance, Thriller
-Description: Literature student Anastasia Steele's life changes forever when she meets handsome, yet tormented, billionaire Christian Grey.
+1. Movie: Avengers: Age of Ultron
+2. Movie: Ant-Man
+3. Movie: Il racconto dei racconti - Tale of Tales
 4. Movie: Mad Max: Fury Road
-Genre: Action, Adventure, Sci-Fi
-Description: A woman rebels against a tyrannical ruler in postapocalyptic Australia in search for her home-land with the help of a group of female prisoners, a psychotic worshipper, and a drifter named Max.
-5. Movie: The Revenant
-Genre: Adventure, Drama, Thriller
-Description: A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.
-6. Movie: The Big Short
-Genre: Biography, Comedy, Drama
-Description: Four denizens in the world of high-finance predict the credit and housing bubble collapse of the mid-2000s, and decide to take on the big banks for their greed and lack of foresight.
-7. Movie: The VVitch: A New-England Folktale
-Genre: Horror, Mystery
-Description: A family in 1630s New England is torn apart by the forces of witchcraft, black magic and possession.
-8. Movie: Bridge of Spies
-Genre: Drama, History, Thriller
-Description: During the Cold War, an American lawyer is recruited to defend an arrested Soviet spy in court, and then help the CIA facilitate an exchange of the spy for the Soviet captured American U2 spy plane pilot, Francis Gary Powers.
-9. Movie: The Visit
-Genre: Horror, Thriller
-Description: Two siblings become increasingly frightened by their grandparents' disturbing behavior while visiting them on vacation.
-10. Movie: Sicario
-Genre: Action, Crime, Drama
-Description: An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.
-11. Movie: The Lobster
-Genre: Comedy, Drama, Romance
-Description: In a dystopian near future, single people, according to the laws of The City, are taken to The Hotel, where they are obliged to find a romantic partner in forty-five days or are transformed into beasts and sent off into The Woods.
-12. Movie: Room
-Genre: Drama
-Description: A young boy is raised within the confines of a small shed.
-13. Movie: Ex Machina
-Genre: Drama, Mystery, Sci-Fi
-Description: A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a breath-taking humanoid A.I.
-14. Movie: Avengers: Age of Ultron
-Genre: Action, Adventure, Sci-Fi
-Description: When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's Mightiest Heroes to stop the villainous Ultron from enacting his terrible plans.
-15. Movie: The Martian
-Genre: Adventure, Drama, Sci-Fi
-Description: An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive.
-16. Movie: Spotlight
-Genre: Crime, Drama, History
-Description: The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.
-17. Movie: Jurassic World
-Genre: Action, Adventure, Sci-Fi
-Description: A new theme park, built on the original site of Jurassic Park, creates a genetically modified hybrid dinosaur, which escapes containment and goes on a killing spree.
-18. Movie: Spectre
-Genre: Action, Adventure, Thriller
-Description: A cryptic message from Bond's past sends him on a trail to uncover a sinister organization. While M battles political forces to keep the secret service alive, Bond peels back the layers of deceit to reveal the terrible truth behind SPECTRE.
-19. Movie: Green Room
-Genre: Crime, Horror, Thriller
-Description: A punk rock band is forced to fight for survival after witnessing a murder at a neo-Nazi skinhead bar.
-20. Movie: The Danish Girl
-Genre: Biography, Drama, Romance
-Description: A fictitious love story loosely inspired by the lives of Danish artists Lili Elbe and Gerda Wegener. Lili and Gerda's marriage and work evolve as they navigate Lili's groundbreaking journey as a transgender pioneer.
-21. Movie: Demolition
-Genre: Drama
-Description: A successful investment banker struggles after losing his wife in a tragic car crash. With the help of a customer service rep and her young son, he starts to rebuild, beginning with the demolition of the life he once knew.
-22. Movie: Legend
-Genre: Biography, Crime, Drama
-Description: Identical twin gangsters Ronald and Reginald Kray terrorize London during the 1960s.
-23. Movie: The Rezort
-Genre: Horror
-Description: The ReZort, a safari park, offers paying guests the opportunity to kill as many zombies as they please following an outbreak.
-24. Movie: Brooklyn
-Genre: Drama, Romance
-Description: An Irish immigrant lands in 1950s Brooklyn, where she quickly falls into a romance with a local. When her past catches up with her, however, she must choose between two countries and the lives that exist within.
-25. Movie: Love
-Genre: Drama, Romance
-Description: Murphy is an American living in Paris who enters a highly sexually and emotionally charged relationship with the unstable Electra. Unaware of the effect it will have on their relationship, they invite their pretty neighbor into their bed.
-26. Movie: Furious Seven
-Genre: Action, Crime, Thriller
-Description: Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother.
-27. Movie: Cinderella
-Genre: Drama, Family, Fantasy
-Description: When her father unexpectedly passes away, young Ella finds herself at the mercy of her cruel stepmother and her scheming step-sisters. Never one to give up hope, Ella's fortunes begin to change after meeting a dashing stranger.
-28. Movie: Ant-Man
-Genre: Action, Adventure, Comedy
-Description: Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, plan and pull off a heist that will save the world.
-29. Movie: The Man from U.N.C.L.E.
-Genre: Action, Adventure, Comedy
-Description: In the early 1960s, CIA agent Napoleon Solo and KGB operative Illya Kuryakin participate in a joint mission against a mysterious criminal organization, which is working to proliferate nuclear weapons.
-30. Movie: Burnt
-Genre: Comedy, Drama
-Description: Adam Jones (Bradley Cooper) is a chef who destroyed his career with drugs and diva behavior. He cleans up and returns to London, determined to redeem himself by spearheading a top restaurant that can gain three Michelin stars.
-31. Movie: The Hunger Games: Mockingjay - Part 2
-Genre: Action, Adventure, Sci-Fi
-Description: As the war of Panem escalates to the destruction of other districts, Katniss Everdeen, the reluctant leader of the rebellion, must bring together an army against President Snow, while all she holds dear hangs in the balance.
-32. Movie: Inside Out
-Genre: Animation, Adventure, Comedy
-Description: After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.
-33. Movie: Everest
-Genre: Adventure, Biography, Drama
-Description: A climbing expedition on Mt. Everest is devastated by a severe snow storm.
-34. Movie: Terminator Genisys
-Genre: Action, Adventure, Sci-Fi
-Description: When John Connor, leader of the human resistance, sends Sgt. Kyle Reese back to 1984 to protect Sarah Connor and safeguard the future, an unexpected turn of events creates a fractured timeline.
-35. Movie: Joy
-Genre: Drama
-Description: Joy is the story of the title character, who rose to become founder and matriarch of a powerful family business dynasty.
-36. Movie: Focus
-Genre: Comedy, Crime, Drama
-Description: In the midst of veteran con man Nicky's latest scheme, a woman from his past - now an accomplished femme fatale - shows up and throws his plans for a loop.
-37. Movie: Creed
-Genre: Drama, Sport
-Description: The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the son of his late friend and former rival Apollo Creed.
-38. Movie: Straight Outta Compton
-Genre: Biography, Crime, Drama
-Description: The group NWA emerges from the mean streets of Compton in Los Angeles, California, in the mid-1980s and revolutionizes Hip Hop culture with their music and tales about life in the hood.
-39. Movie: Mission: Impossible - Rogue Nation
-Genre: Action, Adventure, Thriller
-Description: Ethan and team take on their most impossible mission yet, eradicating the Syndicate - an International rogue organization as highly skilled as they are, committed to destroying the IMF.
-40. Movie: Black Mass
-Genre: Biography, Crime, Drama
-Description: The true story of Whitey Bulger, the brother of a state senator and the most infamous violent criminal in the history of South Boston, who became an FBI informant to take down a Mafia family invading his turf.
-41. Movie: Colonia
-Genre: Drama, Romance, Thriller
-Description: A young woman's desperate search for her abducted boyfriend that draws her into the infamous Colonia Dignidad, a sect nobody has ever escaped from.
-42. Movie: Eye in the Sky
-Genre: Drama, Thriller, War
-Description: Col. Katherine Powell, a military officer in command of an operation to capture terrorists in Kenya, sees her mission escalate when a girl enters the kill zone triggering an international dispute over the implications of modern warfare.
-43. Movie: In the Heart of the Sea
-Genre: Action, Adventure, Biography
-Description: A recounting of a New England whaling ship's sinking by a giant whale in 1820, an experience that later inspired the great novel Moby-Dick.
-44. Movie: The Age of Adaline
-Genre: Drama, Fantasy, Romance
-Description: A young woman, born at the turn of the 20th century, is rendered ageless after an accident. After many solitary years, she meets a man who complicates the eternal life she has settled into.
-45. Movie: The Intern
-Genre: Comedy, Drama
-Description: 70-year-old widower Ben Whittaker has discovered that retirement isn't all it's cracked up to be. Seizing an opportunity to get back in the game, he becomes a senior intern at an online fashion site, founded and run by Jules Ostin.
-46. Movie: Spy
-Genre: Action, Comedy, Crime
-Description: A desk-bound CIA analyst volunteers to go undercover to infiltrate the world of a deadly arms dealer, and prevent diabolical global disaster.
-47. Movie: Last Knights
-Genre: Action, Adventure
-Description: A fallen warrior rises against a corrupt and sadistic ruler to avenge his dishonored master.
-48. Movie: Knock Knock
-Genre: Drama, Horror, Thriller
-Description: When a devoted husband and father is left home alone for the weekend, two stranded young women unexpectedly knock on his door for help. What starts out as a kind gesture results in a dangerous seduction and a deadly game of cat and mouse.
-49. Movie: Secret in Their Eyes
-Genre: Crime, Drama, Mystery
-Description: A tight-knit team of rising investigators, along with their supervisor, is suddenly torn apart when they discover that one of their own teenage daughters has been brutally murdered.
-50. Movie: The Invitation
-Genre: Drama, Mystery, Thriller
-Description: While attending a dinner party at his former home, a man thinks his ex-wife and her new husband have sinister intentions for their guests.
+5. Movie: Sicario
+6. Movie: Fifty Shades of Grey
+7. Movie: Spectre
+8. Movie: Jurassic World
+9. Movie: The Hateful Eight
+10. Movie: Maze Runner: The Scorch Trials
+11. Movie: Star Wars: Episode VII - The Force Awakens
+12. Movie: The Martian
+13. Movie: Inside Out
+14. Movie: Love
+15. Movie: Room
+16. Movie: Mission: Impossible - Rogue Nation
+17. Movie: Trainwreck
+18. Movie: Cinderella
+19. Movie: The Revenant
+20. Movie: The Lobster
+21. Movie: Terminator Genisys
+22. Movie: The Man from U.N.C.L.E.
+23. Movie: Spotlight
+24. Movie: Furious Seven
+25. Movie: San Andreas
+26. Movie: Pitch Perfect 2
+27. Movie: Dark Places
+28. Movie: Tomorrowland
+29. Movie: The VVitch: A New-England Folktale
+30. Movie: The Big Short
+31. Movie: Creed
+32. Movie: Fantastic Four
+33. Movie: Legend
+34. Movie: Secret in Their Eyes
+35. Movie: The Gift
+36. Movie: Chasing Valentine
+37. Movie: The Intern
+38. Movie: Vacation
+39. Movie: Focus
+40. Movie: The Invitation
+41. Movie: Straight Outta Compton
+42. Movie: Insurgent
+43. Movie: Jupiter Ascending
+44. Movie: Spy
+45. Movie: The Danish Girl
+46. Movie: In the Heart of the Sea
+47. Movie: Queen of the Desert
+48. Movie: Project Almanac
+49. Movie: Crimson Peak
+50. Movie: Southpaw

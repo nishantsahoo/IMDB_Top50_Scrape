@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 1972-01-01 to 1972-12-31 : 
 1. Movie: The Godfather
-Genre: Crime, Drama
-Description: The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.
 2. Movie: Deliverance
-Genre: Adventure, Drama, Mystery
-Description: Intent on seeing the Cahulawassee River before it's turned into one huge lake, outdoor fanatic Lewis Medlock takes his friends on a river-rafting trip they'll never forget into the dangerous American back-country.
 3. Movie: Ultimo tango a Parigi
-Genre: Drama
-Description: A young Parisian woman meets a middle-aged American businessman who demands their clandestine relationship be based only on sex.
 4. Movie: Solaris
-Genre: Drama, Mystery, Sci-Fi
-Description: A psychologist is sent to a station orbiting a distant planet in order to discover what has caused the crew to go insane.
-5. Movie: Cabaret
-Genre: Drama, Musical
-Description: A female girlie club entertainer in Weimar Republic era Berlin romances two men while the Nazi Party rises to power around them.
-6. Movie: Jeremiah Johnson
-Genre: Adventure, Drama, Western
-Description: A mountain man who wishes to live the life of a hermit becomes the unwilling object of a long vendetta by Indians, and proves to be a match for their warriors in one-on-one combat on the early frontier.
-7. Movie: The Poseidon Adventure
-Genre: Action, Adventure, Drama
-Description: A group of passengers struggle to survive and escape when their ocean liner completely capsizes at sea.
-8. Movie: The Last House on the Left
-Genre: Crime, Drama, Horror
-Description: Two teenage girls head to a rock concert for one's birthday. While trying to score marijuana in the city, they are kidnapped and brutalized by a gang of psychotic convicts.
+5. Movie: Jeremiah Johnson
+6. Movie: The Last House on the Left
+7. Movie: Pink Flamingos
+8. Movie: Cabaret
 9. Movie: Meng long guo jiang
-Genre: Action, Adventure, Crime
-Description: A man visits his relatives at their restaurant in Italy and has to help them defend against brutal gangsters harassing them.
-10. Movie: Pink Flamingos
-Genre: Comedy, Crime, Horror
-Description: Notorious Baltimore criminal and underground figure Divine goes up against a sleazy married couple who make a passionate attempt to humiliate her and seize her tabloid-given title as "The Filthiest Person Alive".
-11. Movie: Aguirre, der Zorn Gottes
-Genre: Adventure, Biography, Drama
-Description: In the 16th century, the ruthless and insane Don Lope de Aguirre leads a Spanish expedition in search of El Dorado.
-12. Movie: Boxcar Bertha
-Genre: Crime, Drama, Romance
-Description: During the depression, a union leader and a young woman become criminals to exact revenge on the management of a railroad.
+10. Movie: The Poseidon Adventure
+11. Movie: The Getaway
+12. Movie: Everything You Always Wanted to Know About Sex * But Were Afraid to Ask
 13. Movie: The Cowboys
-Genre: Adventure, Drama, Western
-Description: When his cattle drivers abandon him for the gold fields, rancher Wil Andersen is forced to take on a collection of young boys as his drivers in order to get his herd to market in time to ...See full summary&nbsp;&raquo;
-14. Movie: What's Up, Doc?
-Genre: Comedy, Romance
-Description: The accidental mix-up of four identical plaid overnight bags leads to a series of increasingly wild and wacky situations.
-15. Movie: Virgin Witch
-Genre: Horror
-Description: Christine gets her big chance at modelling when she applies at Sybil Waite's agency. Together with Christine's sister Betty they go to a castle for the weekend for a photo shoot. Sybil has ...See full summary&nbsp;&raquo;
-16. Movie: The Getaway
-Genre: Action, Crime, Thriller
-Description: A recently released ex-con and his loyal wife go on the run after a heist goes awry.
-17. Movie: Silent Running
-Genre: Drama, Sci-Fi
-Description: In a future where all flora is extinct on Earth, an astronaut is given orders to destroy the last of Earth's botany, kept in a greenhouse aboard a spacecraft.
+14. Movie: Aguirre, der Zorn Gottes
+15. Movie: Silent Running
+16. Movie: Joe Kidd
+17. Movie: Frenzy
 18. Movie: Jing wu men
-Genre: Action, Drama, Romance
-Description: A young man seeks vengence for the death of his teacher.
-19. Movie: The Mechanic
-Genre: Action, Crime, Thriller
-Description: An aging hitman befriends a young man who wants to be a professional killer. Eventually it becomes clear that someone has betrayed them.
-20. Movie: Frenzy
-Genre: Thriller
-Description: A serial murderer is strangling women with a necktie. The London police have a suspect, but he is the wrong man.
-21. Movie: Everything You Always Wanted to Know About Sex * But Were Afraid to Ask
-Genre: Comedy
-Description: Seven segments related to one another only in that they all purport to be based on sections of the book by David Reuben. The segments range from "Do Aphrodisiacs Work?" in which a court ...See full summary&nbsp;&raquo;
+19. Movie: Super Fly
+20. Movie: Fritz the Cat
+21. Movie: What's Up, Doc?
 22. Movie: Sleuth
-Genre: Mystery, Thriller
-Description: A man who loves games and theater invites his wife's lover to meet him, setting up a battle of wits with potentially deadly results.
-23. Movie: Sounder
-Genre: Drama, Family
-Description: The oldest son of a loving and strong family of black sharecroppers comes of age in the Depression-era South after his father is imprisoned for stealing food.
-24. Movie: The Valachi Papers
-Genre: Crime, Drama
-Description: When Joe Valachi (Charles Bronson) has a price put on his head by Don Vito Genovese (Lino Ventura), he must take desperate steps to protect himself while in prison. An unsuccessful attempt ...See full summary&nbsp;&raquo;
-25. Movie: Lady Sings the Blues
-Genre: Biography, Drama, Music
-Description: The story of the troubled life and career of the legendary Jazz singer, Billie Holiday.
-26. Movie: Fritz the Cat
-Genre: Animation, Comedy, Drama
-Description: A hypocritical swinging college student cat raises hell in a satiric vision of various elements on the 1960s.
-27. Movie: Viskningar och rop
-Genre: Drama
-Description: When a woman dying of cancer in early twentieth-century Sweden is visited by her two sisters, long-repressed feelings between the siblings rise to the surface.
-28. Movie: Slaughterhouse-Five
-Genre: Comedy, Drama, Sci-Fi
-Description: A man named Billy Pilgirm tells the story of how he became unstuck in time and was abducted by aliens.
-29. Movie: Bad Company
-Genre: Drama, Western
-Description: A god-fearing Ohio boy dodging the Civil War draft arrives in Jefferson City where he joins up with a hardscrabble group of like runaways heading west.
-30. Movie: 1776
-Genre: Drama, Family, History
-Description: A musical retelling of the American Revolution's political struggle in the Continental Congress to declare independence.
-31. Movie: Le charme discret de la bourgeoisie
-Genre: Comedy
-Description: A surreal, virtually plotless series of dreams centered around six middle-class people and their consistently interrupted attempts to have a meal together.
-32. Movie: Joe Kidd
-Genre: Western
-Description: An ex-bounty hunter reluctantly helps a wealthy landowner and his henchmen track down a Mexican revolutionary leader.
-33. Movie: Play It Again, Sam
-Genre: Comedy, Romance
-Description: A neurotic film critic obsessed with the movieCasablanca(1942) attempts to get over his wife leaving him by dating again with the help of a married couple and his illusory idol,Humphrey Bogart.
-34. Movie: Dracula A.D. 1972
-Genre: Fantasy, Horror
-Description: Johnny Alucard raises Count Dracula from the dead in London in 1972. The Count goes after the descendants of Van Helsing.
-35. Movie: The Magnificent Seven Ride!
-Genre: Action, Western
-Description: Marshal Chris Adams turns down a friend's request to help stop the depredations of a gang of Mexican bandits. When his wife is killed by bank robbers and his friend is killed capturing the ...See full summary&nbsp;&raquo;
-36. Movie: I racconti di Canterbury
-Genre: Comedy, Drama, History
-Description: Pasolini's artistic, sometimes violent, always vividly cinematic retelling of some of Chaucer's most erotic tales.
-37. Movie: Conquest of the Planet of the Apes
-Genre: Action, Sci-Fi
-Description: In a futuristic world that has embraced ape slavery, Caesar, the son of the late simians Cornelius and Zira, surfaces after almost twenty years of hiding out from the authorities, and prepares for a slave revolt against humanity.
-38. Movie: The Heartbreak Kid
-Genre: Comedy, Drama, Romance
-Description: Three days into his Miami honeymoon, New York Jewish Lenny meets tall, blonde Kelly. This confirms him in his opinion that he has made a serious mistake and he decides he wants Kelly ...See full summary&nbsp;&raquo;
-39. Movie: Joshû 701-gô: Sasori
-Genre: Crime, Drama, Thriller
-Description: After being used and betrayed by the detective she had fallen in love with, young Matsu is sent to a female prison full of sadistic guards and disobedient prisoners.
-40. Movie: Children Shouldn't Play with Dead Things
-Genre: Comedy, Fantasy, Horror
-Description: Six friends dig up a corpse to use in a Satanic ritual to make the dead rise from their graves.
-41. Movie: Super Fly
-Genre: Action, Crime, Drama
-Description: The daily routine of cocaine dealer Priest who wants to score one more super deal and retire.
-42. Movie: Sisters
-Genre: Horror, Thriller
-Description: A journalist witnesses a brutal murder in a neighboring apartment, but the police do not believe that the crime took place. With the help of a private detective, she seeks out the truth.
-43. Movie: Man of La Mancha
-Genre: Drama, Fantasy, Musical
-Description: The funny story of mad but kind and chivalrous elderly nobleman Don Quixote who, aided by his squire Sancho Panza, fights windmills that are seen as dragons to save prostitute Dulcinea who is seen as a noblewoman.
-44. Movie: Avanti!
-Genre: Comedy, Romance
-Description: A successful businessman goes to Italy to arrange for the return of his tycoon-father's body only to discover dad died with his mistress of long standing.
-45. Movie: The Candidate
-Genre: Comedy, Drama
-Description: Bill McKay is a candidate for the U.S. Senate from California. He has no hope of winning, so he is willing to tweak the establishment.
-46. Movie: Roma
-Genre: Comedy, Drama
-Description: A fluid, unconnected and sometimes chaotic procession of scenes detailing the various people and events of life in Italy's capital.
-47. Movie: Tomorrow
-Genre: Drama
-Description: A lonely farmer takes in a pregnant woman and looks after her. After she gives birth, tragedy strikes.
-48. Movie: Prison Girls
-Genre: Drama
-Description: Six female prisoners are given a weekend furlough to prepare them for their upcoming parole. While out, they all have miscellaneous sexual experiences, some good, some bad. One returns to ...See full summary&nbsp;&raquo;
-49. Movie: Ulzana's Raid
-Genre: Adventure, Western
-Description: After fierce war chief Ulzana and a small war party jump the reservation bent on murder and terror, an inexperienced young lieutenant is assigned to track him down.
-50. Movie: Tales from the Crypt
-Genre: Horror
-Description: Five strangers get lost in a crypt and, after meeting the mysterious Crypt Keeper, receive visions of how they will die.
+23. Movie: Viskningar och rop
+24. Movie: Prime Cut
+25. Movie: The Mechanic
+26. Movie: Grave of the Vampire
+27. Movie: Slaughterhouse-Five
+28. Movie: Le charme discret de la bourgeoisie
+29. Movie: Butterflies Are Free
+30. Movie: Conquest of the Planet of the Apes
+31. Movie: I racconti di Canterbury
+32. Movie: The Heartbreak Kid
+33. Movie: The King of Marvin Gardens
+34. Movie: Che?
+35. Movie: Boxcar Bertha
+36. Movie: Avanti!
+37. Movie: Ben
+38. Movie: Man of La Mancha
+39. Movie: 1776
+40. Movie: Horror Express
+41. Movie: Sisters
+42. Movie: Dracula A.D. 1972
+43. Movie: Sweet Sugar
+44. Movie: The Life and Times of Judge Roy Bean
+45. Movie: Images
+46. Movie: Hungry Wives
+47. Movie: The Valachi Papers
+48. Movie: Tales from the Crypt
+49. Movie: Brother Sun, Sister Moon
+50. Movie: Chato's Land

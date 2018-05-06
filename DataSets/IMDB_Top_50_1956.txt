@@ -1,151 +1,51 @@
 Most Popular Feature Films Released 1956-01-01 to 1956-12-31 : 
-1. Movie: The Searchers
-Genre: Adventure, Drama, Western
-Description: A Civil War veteran embarks on a journey to rescue his niece from an Indian tribe.
+1. Movie: The Swan
 2. Movie: The Ten Commandments
-Genre: Adventure, Biography, Drama
-Description: The Egyptian Prince, Moses, learns of his true heritage as a Hebrew and his divine mission as the deliverer of his people.
-3. Movie: Forbidden Planet
-Genre: Action, Adventure, Sci-Fi
-Description: A starship crew goes to investigate the silence of a planet's colony only to find two survivors and a deadly secret that one of them has.
-4. Movie: Giant
-Genre: Drama, Western
-Description: Sprawling epic covering the life of a Texas cattle rancher and his family and associates.
-5. Movie: The King and I
-Genre: Biography, Drama, Musical
-Description: A widow accepts a job as a live-in governess to the King of Siam's children.
-6. Movie: The Man Who Knew Too Much
-Genre: Drama, Thriller
-Description: A family vacationing in Morocco accidentally stumble on to an assassination plot and the conspirators are determined to prevent them from interfering.
-7. Movie: Around the World in Eighty Days
-Genre: Adventure, Comedy, Family
-Description: A Victorian Englishman bets that with the new steamships and railways he can circumnavigate the globe in eighty days.
+3. Movie: The Searchers
+4. Movie: Forbidden Planet
+5. Movie: Giant
+6. Movie: The King and I
+7. Movie: The Killing
 8. Movie: High Society
-Genre: Comedy, Musical, Romance
-Description: C.K. Dexter-Haven, a successful popular jazz musician, lives in a mansion near his ex-wife's Tracy Lord's family estate. She is on the verge of marrying a man blander and safer than Dex, ...See full summary&nbsp;&raquo;
-9. Movie: The Killing
-Genre: Crime, Drama, Film-Noir
-Description: Crooks plan and execute a daring race-track robbery.
+9. Movie: The Man Who Knew Too Much
 10. Movie: Moby Dick
-Genre: Adventure, Drama
-Description: The sole survivor of a lost whaling ship relates the tale of his captain's self-destructive obsession to hunt the white whale, Moby Dick.
-11. Movie: The Conqueror
-Genre: Adventure, Biography, History
-Description: Mongol chief Temujin battles against Tartar armies and for the love of the Tartar princess Bortai. Temujin becomes the emperor Genghis Khan.
-12. Movie: The Harder They Fall
-Genre: Drama, Film-Noir, Sport
-Description: Down-on-his-luck ex-sportswriter Eddie Willis is hired by shady fight promoter Nick Benko to promote his latest find, an unknown but easily exploitable phenom from Argentina.
-13. Movie: War and Peace
-Genre: Drama, Romance, War
-Description: Napoleon's tumultuous relations with Russia including his disastrous 1812 invasion serve as the backdrop for the tangled personal lives of two aristocratic families.
+11. Movie: Bhowani Junction
+12. Movie: Around the World in 80 Days
+13. Movie: Picnic
 14. Movie: Carousel
-Genre: Drama, Musical
-Description: Billy Bigelow has been dead for fifteen years, and now outside the pearly gates, he long waived his right to go back to Earth for a day. But he has heard that there is a problem with his ...See full summary&nbsp;&raquo;
 15. Movie: Invasion of the Body Snatchers
-Genre: Horror, Sci-Fi
-Description: A small-town doctor learns that the population of his community is being replaced by emotionless alien duplicates.
-16. Movie: The Bad Seed
-Genre: Crime, Drama, Horror
-Description: A housewife suspects that her seemingly perfect eight year-old daughter is a heartless killer.
-17. Movie: Et Dieu... créa la femme
-Genre: Drama, Romance
-Description: In sunny St. Tropez, a young sexpot loves one brother but marries the other.
-18. Movie: The Wrong Man
-Genre: Drama, Film-Noir
-Description: True story of an innocent man mistaken for a criminal.
-19. Movie: Lust for Life
-Genre: Biography, Drama
-Description: The life of brilliant but tortured artist Vincent van Gogh.
-20. Movie: Bundle of Joy
-Genre: Comedy, Musical
-Description: After finding a baby outside an orphanage, a salesgirl receives sympathy from those around her, including her boss' son, as they all assume the baby is hers.
-21. Movie: Baby Doll
-Genre: Drama
-Description: A steamy tale of two Southern rivals and a sensuous nineteen-year-old virgin.
-22. Movie: Anastasia
-Genre: Biography, Drama, History
-Description: An opportunistic Russian businessman tries to pass a mysterious impostor as the Grand Duchess Anastasia. But she is so convincing in her performance that even the biggest skeptics believe her.
-23. Movie: The Brave One
-Genre: Drama, Family
-Description: A young Mexican boy tirelessly tries to save his pet bull from death at the hands of a celebrated matador.
-24. Movie: The Green Man
-Genre: Comedy
-Description: Work has been going with a bang for freelance assassin Hawkins but a job in England just after the war is a different matter. His apparently easy target, a pompous government minister, is ...See full summary&nbsp;&raquo;
-25. Movie: Bus Stop
-Genre: Comedy, Drama, Romance
-Description: A naive but stubborn cowboy falls in love with a saloon singer and tries to take her away against her will to get married and live on his ranch in Montana.
-26. Movie: Alexander the Great
-Genre: Biography, Drama, History
-Description: The life and military conquests of Alexander III of Macedon (20/21 July 356 - 10/11 June 323 BC), commonly known as Alexander the Great.
-27. Movie: Written on the Wind
-Genre: Drama
-Description: Alcoholic playboy Kyle Hadley marries the woman secretly loved by his poor but hard-working best friend, who in turn is pursued by Kyle's nymphomaniac sister.
-28. Movie: Love Me Tender
-Genre: Drama, Romance, Western
-Description: At the end of the Civil War, a Confederate team is ordered to rob a Union payroll train but the war ends leaving these men with their Union loot, until the Feds come looking for it.
-29. Movie: Un condamné à mort s'est échappé ou Le vent souffle où il veut
-Genre: Drama, Thriller, War
-Description: A French Resistance fighter named Franois Leterrier attempts to escape a Nazi occupied prison while he awaits a death sentence.
-30. Movie: Trapeze
-Genre: Drama, Romance
-Description: A crippled circus acrobat is torn emotionally between two ambitious young trapeze artists, one a talented young American and a less-gifted but beautiful Italian.
-31. Movie: Somebody Up There Likes Me
-Genre: Biography, Drama, Sport
-Description: Boxer Rocky Graziano's biopic, based on his autobiography, from childhood to his World Middleweight Championship title win at age 28 in 1947.
-32. Movie: 1984
-Genre: Drama, Sci-Fi
-Description: George Orwell's novel of a totalitarian future society in which a man whose daily work is rewriting history tries to rebel by falling in love.
-33. Movie: Seven Men from Now
-Genre: Action, Western
-Description: A former sheriff blames himself for his wife's death during a Wells Fargo robbery and vows to track down and kill the seven men responsible.
-34. Movie: Notre-Dame de Paris
-Genre: Drama, History
-Description: The timeless tale of the seductive gypsy Esmeralda and the tortured hunchback Quasimodo.
-35. Movie: The Teahouse of the August Moon
-Genre: Comedy
-Description: This comedy-drama is partially a gentle satire on America's drive to change the world in the post-war years. One year after World War II, Captain Fisby is sent to the village of Tobiki in ...See full summary&nbsp;&raquo;
-36. Movie: Friendly Persuasion
-Genre: Drama, Romance, War
-Description: The pacifist attitude of a Quaker family is tested as a result of the American Civil War.
-37. Movie: The Rainmaker
-Genre: Romance, Western
-Description: Lizzie Curry is on the verge of becoming a hopeless old maid. Her wit and intelligence and skills as a homemaker can't make up for the fact that she's just plain plain! Even the town ...See full summary&nbsp;&raquo;
-38. Movie: World Without End
-Genre: Adventure, Romance, Sci-Fi
-Description: Astronauts returning from a voyage to Mars are caught in a time warp and are propelled into a post-Apocalyptic Earth populated by mutants.
-39. Movie: While the City Sleeps
-Genre: Crime, Drama, Film-Noir
-Description: A serial killer has been killing beautiful women in New York, and the new owner of a media company offers a high ranking job to the 1st administrator who can get the earliest scoops on the case.
-40. Movie: ¡Aquí hay petróleo!
-Genre: Comedy
-Description: In a Spanish town that has been dying of thirst for years, some Americans who claim to be experts in oil prospecting say that there is oil. Considering the evidence of the treasure that ...See full summary&nbsp;&raquo;
-41. Movie: Safari
-Genre: Adventure
-Description: During the Mau Mau Uprising in British Kenya in the 1950s, settler-hunter Ken Duffield is a hired guide for a lion hunting party but he also hopes to find the Mau Mau rebel who killed his family.
-42. Movie: Satellite in the Sky
-Genre: Drama, Sci-Fi
-Description: The British launch the world's first orbital vehicle. Their military sends a super-bomb along, which goes wrong and threatens the crew and a stowaway.
-43. Movie: Bob le flambeur
-Genre: Crime, Drama, Thriller
-Description: Bob, an old gangster and gambler is almost broke, so he decides in spite of the warnings of a friend, a high official from the police, to rob a gambling casino in Dauville. Everything is ...See full summary&nbsp;&raquo;
-44. Movie: The Man Who Never Was
-Genre: War, Drama
-Description: True story of a British attempt to trick the enemy into weakening Sicily's defenses before the 1943 attack, using a dead man with faked papers.
-45. Movie: Beyond a Reasonable Doubt
-Genre: Crime, Film-Noir, Drama
-Description: A novelist aided by his future father-in-law conspires to frame himself in the murder of a stripper as part of an effort to ban capital punishment.
-46. Movie: The Swan
-Genre: Comedy, Romance, Drama
-Description: Princess Beatrice's days of enjoying the regal life are numbered unless her only daughter, Princess Alexandra, makes a good impression on a distant cousin when he pays a surprise visit to ...See full summary&nbsp;&raquo;
-47. Movie: Battle Stations
-Genre: Drama, War
-Description: The crew of a U.S. Navy ship in World War II goes into battle against the Japanese fleet.
-48. Movie: Aparajito
-Genre: Drama
-Description: Following his father's death, a boy leaves home to study in Calcutta, while his mother must face a life alone.
-49. Movie: Anything Goes
-Genre: Musical
-Description: Bill Benson and Ted Adams are to appear in a Broadway show together and, while in Paris, each 'discovers' the perfect leading lady for the plum female role. Each promises the prize role to ...See full summary&nbsp;&raquo;
-50. Movie: The Catered Affair
-Genre: Comedy, Drama, Romance
-Description: At breakfast, Jane announces that she and Ralph are getting married the next week. All Jane and Ralph want is a small wedding with the immediate family and no reception. This is because ...See full summary&nbsp;&raquo;
+16. Movie: Lust for Life
+17. Movie: War and Peace
+18. Movie: Lost
+19. Movie: Gunslinger
+20. Movie: The Bad Seed
+21. Movie: Written on the Wind
+22. Movie: The Wrong Man
+23. Movie: Canyon River
+24. Movie: Et Dieu... cra la femme
+25. Movie: The Black Whip
+26. Movie: The Conqueror
+27. Movie: Bus Stop
+28. Movie: Helen of Troy
+29. Movie: Yield to the Night
+30. Movie: Baby Doll
+31. Movie: Love Me Tender
+32. Movie: Un condamn  mort s'est chapp ou Le vent souffle o il veut
+33. Movie: Somebody Up There Likes Me
+34. Movie: Up in the World
+35. Movie: Friendly Persuasion
+36. Movie: 1984
+37. Movie: Anastasia
+38. Movie: Notre-Dame de Paris
+39. Movie: Earth vs. the Flying Saucers
+40. Movie: Godzilla, King of the Monsters!
+41. Movie: The Baby and the Battleship
+42. Movie: The Rainmaker
+43. Movie: The Man Who Never Was
+44. Movie: The Harder They Fall
+45. Movie: Patterns
+46. Movie: Bob le flambeur
+47. Movie: Trapeze
+48. Movie: The Girl Can't Help It
+49. Movie: Nattbarn
+50. Movie: Aparajito
