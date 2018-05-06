@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from tqdm import tqdm
 import datetime
 current_year = int(datetime.datetime.now().year)
-for year in tqdm(range(1898, current_year)):
+for year in tqdm(range(1898, current_year+1)):
     sys.stdout = open('DataSets//IMDB_Top_50_' + str(year) + '.txt', 'w')
     opener = urllib2.build_opener()
     opener.addheaders = [('User-agent', 'Mozilla/5.0')]
