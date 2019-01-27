@@ -10,3 +10,6 @@ This script is used to scrape the list of Top 50 movies from year 1898-2018. Thi
 
 ## Execution
 ``` python IMDB_Top50_Scraper.py ```
+
+## 2019 version 
+Navigate to the 2019_Update folder to view the updated file. :3
