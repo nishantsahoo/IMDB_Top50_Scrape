@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "Jaws",
+        "certificate": "A",
+        "runtime": "124 min",
+        "genre": "Adventure, Drama, Thriller",
+        "description": "When a killer shark unleashes chaos on a beach resort, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "One Flew Over the Cuckoo's Nest",
+        "certificate": "",
+        "runtime": "133 min",
+        "genre": "Drama",
+        "description": "A criminal pleads insanity after getting into trouble again and once in the mental institution rebels against the oppressive nurse and rallies up the scared patients.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "Monty Python and the Holy Grail",
+        "certificate": "",
+        "runtime": "91 min",
+        "genre": "Adventure, Comedy, Fantasy",
+        "description": "King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "Sal\u00f2 o le 120 giornate di Sodoma",
+        "certificate": "",
+        "runtime": "117 min",
+        "genre": "Drama, Horror, War",
+        "description": "In World War II Italy, four fascist libertines round up nine adolescent boys and girls and subject them to one hundred and twenty days of physical, mental and sexual torture.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "The Rocky Horror Picture Show",
+        "certificate": "A",
+        "runtime": "100 min",
+        "genre": "Comedy, Musical",
+        "description": "A newly engaged couple have a breakdown in an isolated area and must pay a call to the bizarre residence of Dr. Frank-N-Furter.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "The Prisoner of Second Avenue",
+        "certificate": "",
+        "runtime": "98 min",
+        "genre": "Comedy",
+        "description": "A suddenly-unemployed executive suffers a nervous breakdown.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "Barry Lyndon",
+        "certificate": "",
+        "runtime": "185 min",
+        "genre": "Adventure, Drama, History",
+        "description": "An Irish rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "Dog Day Afternoon",
+        "certificate": "",
+        "runtime": "125 min",
+        "genre": "Biography, Crime, Drama",
+        "description": "A man robs a bank to pay for his lover's operation; it turns into a hostage situation and a media circus.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "Picnic at Hanging Rock",
+        "certificate": "",
+        "runtime": "115 min",
+        "genre": "Drama, Mystery",
+        "description": "During a rural summer picnic, a few students and a teacher from an Australian girls' school vanish without a trace. Their absence frustrates and haunts the people left behind.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "The Eiger Sanction",
+        "certificate": "",
+        "runtime": "129 min",
+        "genre": "Action, Crime, Thriller",
+        "description": "A classical art professor and collector, who doubles as a professional assassin, is coerced out of retirement to avenge the murder of an old friend.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "Zerkalo",
+        "certificate": "",
+        "runtime": "107 min",
+        "genre": "Biography, Drama",
+        "description": "A dying man in his forties remembers his past. His childhood, his mother, the war, personal moments and things that tell of the recent history of all the Russian nation.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "Death Race 2000",
+        "certificate": "",
+        "runtime": "80 min",
+        "genre": "Action, Comedy, Sci-Fi",
+        "description": "In a dystopian future, a cross country automobile race requires contestants to run down innocent pedestrians to gain points that are tallied based on each kill's brutality.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "The Stepford Wives",
+        "certificate": "",
+        "runtime": "115 min",
+        "genre": "Horror, Mystery, Sci-Fi",
+        "description": "Joanna Eberhart has come to the quaint little town of Stepford, Connecticut with her family, but soon discovers there lies a sinister truth in the all too perfect behavior of the female residents.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "Three Days of the Condor",
+        "certificate": "",
+        "runtime": "117 min",
+        "genre": "Mystery, Thriller",
+        "description": "A bookish CIA researcher finds all his co-workers dead, and must outwit those responsible until he figures out who he can really trust.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "The Man Who Would Be King",
+        "certificate": "",
+        "runtime": "129 min",
+        "genre": "Adventure",
+        "description": "Two British former soldiers decide to set themselves up as kings in Kafiristan, a land where no white man has set foot since Alexander the Great.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "Nashville",
+        "certificate": "",
+        "runtime": "160 min",
+        "genre": "Comedy, Drama, Music",
+        "description": "Over the course of a few hectic days, numerous interrelated people prepare for a political convention as secrets and lies are surfaced and revealed.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "Profondo rosso",
+        "certificate": "",
+        "runtime": "127 min",
+        "genre": "Horror, Mystery, Thriller",
+        "description": "A jazz pianist and a wisecracking journalist are pulled into a complex web of mystery after the former witnesses the brutal murder of a psychic.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Histoire d'O",
+        "certificate": "NC-17",
+        "runtime": "97 min",
+        "genre": "Drama",
+        "description": "The beautiful O is taken by her boyfriend, Rene, to a bizarre retreat, where she is trained in bondage and sexual perversion. Rene discharges a personal debt by transferring possession of O...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "Tommy",
+        "certificate": "",
+        "runtime": "111 min",
+        "genre": "Drama, Musical",
+        "description": "A psychosomatically deaf, dumb and blind boy becomes a master pinball player and, subsequently, the object of a religious cult.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "Rollerball",
+        "certificate": "",
+        "runtime": "125 min",
+        "genre": "Action, Sci-Fi, Sport",
+        "description": "In a corporate-controlled future, an ultra-violent sport known as Rollerball represents the world, and one of its powerful athletes is out to defy those who want him out of the game.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "Shampoo",
+        "certificate": "",
+        "runtime": "109 min",
+        "genre": "Comedy, Drama",
+        "description": "Lovers undo a hairdresser from Beverly Hills around Election Eve in 1968.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "Mandingo",
+        "certificate": "",
+        "runtime": "127 min",
+        "genre": "Drama, History, Romance",
+        "description": "A slave owner in the 1840s trains one of his slaves to be a bare-knuckle fighter.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "Shivers",
+        "certificate": "",
+        "runtime": "87 min",
+        "genre": "Horror, Sci-Fi",
+        "description": "The residents of a suburban high-rise apartment building are being infected by a strain of parasites that turn them into mindless, sex-crazed fiends out to infect others by the slightest sexual contact.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "La b\u00eate",
+        "certificate": "",
+        "runtime": "98 min",
+        "genre": "Drama, Fantasy, Horror",
+        "description": "A late businessman's daughter is heading with her aunt to the crumbling estate of her soon-to-be husband, unaware of the strange rumours that cloud the family's name.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "Escape to Witch Mountain",
+        "certificate": "",
+        "runtime": "97 min",
+        "genre": "Adventure, Family, Fantasy",
+        "description": "Two mysterious orphan children have extraordinary powers and are chased by a scheming millionaire. But where do these kids really call home?",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "A Boy and His Dog",
+        "certificate": "",
+        "runtime": "91 min",
+        "genre": "Comedy, Drama, Sci-Fi",
+        "description": "A young man and his telepathic dog wander a post-apocalyptic wasteland.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "Emmanuelle: L'antivierge",
+        "certificate": "",
+        "runtime": "83 min",
+        "genre": "Drama, Romance",
+        "description": "Emmanuelle returns to her husband in Hong Kong and proceeds to have several extramarital affairs -- with his knowledge, of course. Her husband's lover and American guest are both very ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "Professione: reporter",
+        "certificate": "PG-13",
+        "runtime": "126 min",
+        "genre": "Drama, Thriller",
+        "description": "A frustrated war correspondent, unable to find the war he's been asked to cover, takes the risky path of coopting the identity of a dead arms dealer acquaintance.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "Supervixens",
+        "certificate": "",
+        "runtime": "106 min",
+        "genre": "Comedy",
+        "description": "Clint Ramsey has to leave his job working at Martin Bormann's gas station and flee after his wife is murdered by psycho cop Harry Sledge, who tries to pin the murder on Clint. Crossing ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "Hard Times",
+        "certificate": "",
+        "runtime": "93 min",
+        "genre": "Crime, Drama, Sport",
+        "description": "The adventures of a drifter turned illegal prize-fighter during the Depression Era in New Orleans.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "Rooster Cogburn",
+        "certificate": "",
+        "runtime": "108 min",
+        "genre": "Adventure, Drama, Western",
+        "description": "Marshal Rooster Cogburn unwillingly teams up with Eula Goodnight to track down the killers of her father.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "The Return of the Pink Panther",
+        "certificate": "",
+        "runtime": "113 min",
+        "genre": "Comedy, Crime, Mystery",
+        "description": "Inspector Clouseau is put on the case when the Pink Panther diamond is stolen, with the Phantom's trademark glove the only clue.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "Night Moves",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Crime, Mystery, Thriller",
+        "description": "Los Angeles private investigator Harry Moseby is hired by a client to find her runaway teenage daughter. Moseby tracks the daughter down, only to stumble upon something much more intriguing and sinister .",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "Emanuelle nera",
+        "certificate": "",
+        "runtime": "91 min",
+        "genre": "Drama",
+        "description": "While on assignment in Nairobi, a photojournalist questions her racial and sexual identity when she engages in affairs with her wealthy hosts.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "Ilsa: She Wolf of the SS",
+        "certificate": "",
+        "runtime": "96 min",
+        "genre": "Drama, Horror, Thriller",
+        "description": "Ilsa is an evil Nazi warden at a death camp that conducts \"medical experiments\". Ilsa's goal is to prove that women can withstand more pain and suffering than men and therefore should be allowed to fight on the front lines.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "Breakheart Pass",
+        "certificate": "",
+        "runtime": "95 min",
+        "genre": "Mystery, Western",
+        "description": "John Deakin is being transported, as a prisoner, on a train with supplies and medicine to Fort Humboldt, Nevada.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "Coonskin",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Animation, Action, Comedy",
+        "description": "Rabbit, a country-born trickster, takes over the organized crime racket in Harlem, facing opposition from the institutionalized racism of the Mafia and corrupt police.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "Walking Tall Part II",
+        "certificate": "",
+        "runtime": "109 min",
+        "genre": "Action, Biography, Crime",
+        "description": "Sheriff Buford Pusser continues his one-man war against moonshiners and a ruthless crime syndicate after the murder of his wife in late 1960's Tennessee.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "Ransom",
+        "certificate": "",
+        "runtime": "89 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "A gang of hijackers led by Ray Petrie (Ian McShane) seize a British plane as it is landing in Scandinavia. Ruthless military police chief Colonel Tahlvik (Sean Connery) is assigned to ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Love and Death",
+        "certificate": "",
+        "runtime": "85 min",
+        "genre": "Comedy, War",
+        "description": "In czarist Russia, a neurotic soldier and his distant cousin formulate a plot to assassinate Napoleon.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "The Day of the Locust",
+        "certificate": "",
+        "runtime": "144 min",
+        "genre": "Drama, Thriller",
+        "description": "An art director in the 1930s falls in love and attempts to make a young woman an actress despite Hollywood who wants nothing to do with her because of her problems with an estranged man and her alcoholic father.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "Nude per l'assassino",
+        "certificate": "",
+        "runtime": "98 min",
+        "genre": "Mystery, Thriller",
+        "description": "When a fashion model dies during an abortion, a series of murders begins, starting with her doctor. The next victims are connected to the modeling agency where she worked, Albatross, run by...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "La liceale",
+        "certificate": "",
+        "runtime": "82 min",
+        "genre": "Comedy",
+        "description": "Loredana is a schoolgirl who takes advantage of her fellow students and teachers by using her innocent schoolgirl beauty. After she loses her virginity to an older man she soon realizes ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "Farewell, My Lovely",
+        "certificate": "",
+        "runtime": "95 min",
+        "genre": "Crime, Mystery, Thriller",
+        "description": "Los Angeles private eye Philip Marlowe is hired by paroled convict Moose Malloy to find his girlfriend Velma, former seedy nightclub dancer.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "Black Moon",
+        "certificate": "",
+        "runtime": "95 min",
+        "genre": "Fantasy, Mystery, Sci-Fi",
+        "description": "To escape a gender war, a girl flees to a remote farmhouse and becomes part of an extensive family's unusual, perhaps even supernatural, lifestyle.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "The Devil's Rain",
+        "certificate": "",
+        "runtime": "86 min",
+        "genre": "Horror",
+        "description": "A satanist cult leader is burnt alive by the local church. He vows to come back and haunts down, and enslave, every descendant of his congregation by the power of a book of blood contracts, in which they sold their souls to the devil.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "Capone",
+        "certificate": "",
+        "runtime": "101 min",
+        "genre": "Biography, Crime, Drama",
+        "description": "The story of the rise and fall of the infamous Chicago gangster Al Capone and the control he exhibited over the city during the prohibition years. Unusually, briefly covering the years ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "Dersu Uzala",
+        "certificate": "",
+        "runtime": "142 min",
+        "genre": "Adventure, Biography, Drama",
+        "description": "The Russian army sends an explorer on an expedition to the snowy Siberian wilderness where he makes friends with a seasoned local hunter.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "The Apple Dumpling Gang",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Comedy, Family, Western",
+        "description": "Three orphan children strike gold in 1878 California.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "French Connection II",
+        "certificate": "",
+        "runtime": "119 min",
+        "genre": "Action, Crime, Drama",
+        "description": "\"Popeye\" Doyle travels to Marseille to find Alain Charnier, the drug smuggler who eluded him in New York.",
+        "director": "",
+        "stars": []
+    }
+}

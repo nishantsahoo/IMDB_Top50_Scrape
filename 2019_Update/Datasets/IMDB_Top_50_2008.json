@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "The Dark Knight",
+        "certificate": "UA",
+        "runtime": "152 min",
+        "genre": "Action, Crime, Drama",
+        "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "The Boy in the Striped Pyjamas",
+        "certificate": "PG-13",
+        "runtime": "94 min",
+        "genre": "Drama, War",
+        "description": "Set during WWII, a story seen through the innocent eyes of Bruno, the eight-year-old son of the commandant at a German concentration camp, whose forbidden friendship with a Jewish boy on the other side of the camp fence has startling and unexpected consequences.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "Twilight",
+        "certificate": "PG-13",
+        "runtime": "122 min",
+        "genre": "Drama, Fantasy, Romance",
+        "description": "Bella Swan moves to Forks and encounters Edward Cullen, a gorgeous boy with a secret.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "Iron Man",
+        "certificate": "U",
+        "runtime": "126 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "Punisher: War Zone",
+        "certificate": "R",
+        "runtime": "103 min",
+        "genre": "Action, Adventure, Crime",
+        "description": "Frank Castle known as Punisher ruthlessly demolishes organized crime, but it starts an even bigger war.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "The Incredible Hulk",
+        "certificate": "PG-13",
+        "runtime": "112 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Bruce Banner, a scientist on the run from the U.S. Government, must find a cure for the monster he turns into, whenever he loses his temper.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "Mamma Mia!",
+        "certificate": "PG-13",
+        "runtime": "108 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "The story of a bride-to-be trying to find her real father told using hit songs by the popular 1970s group ABBA.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "Taken",
+        "certificate": "PG-13",
+        "runtime": "94 min",
+        "genre": "Action, Crime, Thriller",
+        "description": "A retired CIA agent travels across Europe and relies on his old skills to save his estranged daughter, who has been kidnapped while on a trip to Paris.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "The Happening",
+        "certificate": "R",
+        "runtime": "91 min",
+        "genre": "Mystery, Sci-Fi, Thriller",
+        "description": "A science teacher, his wife, and a young girl struggle to survive a plague that causes those infected to commit suicide.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "The Curious Case of Benjamin Button",
+        "certificate": "PG-13",
+        "runtime": "166 min",
+        "genre": "Drama, Fantasy, Romance",
+        "description": "Tells the story of Benjamin Button, a man who starts aging backwards with bizarre consequences.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "The Mummy: Tomb of the Dragon Emperor",
+        "certificate": "PG-13",
+        "runtime": "112 min",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "In the Far East, Alex O'Connell, the son of famed mummy fighters Rick and Evy O'Connell, unearths the mummy of the first Emperor of Qin -- a shape-shifting entity cursed by a witch centuries ago.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "In Bruges",
+        "certificate": "R",
+        "runtime": "107 min",
+        "genre": "Comedy, Crime, Drama",
+        "description": "Guilt-stricken after a job gone wrong, hitman Ray and his partner await orders from their ruthless boss in Bruges, Belgium, the last place in the world Ray wants to be.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "Indiana Jones and the Kingdom of the Crystal Skull",
+        "certificate": "U",
+        "runtime": "122 min",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "In 1957, archaeologist and adventurer Dr. Henry \"Indiana\" Jones, Jr. is called back into action and becomes entangled in a Soviet plot to uncover the secret behind mysterious artifacts known as the Crystal Skulls.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "Wanted",
+        "certificate": "A",
+        "runtime": "110 min",
+        "genre": "Action, Crime, Fantasy",
+        "description": "A frustrated office worker learns that he is the son of a professional assassin and that he shares his father's superhuman killing abilities.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "Cloverfield",
+        "certificate": "PG-13",
+        "runtime": "85 min",
+        "genre": "Action, Horror, Sci-Fi",
+        "description": "A group of friends venture deep into the streets of New York on a rescue mission during a rampaging monster attack.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "Quantum of Solace",
+        "certificate": "UA",
+        "runtime": "106 min",
+        "genre": "Action, Adventure, Thriller",
+        "description": "James Bond descends into mystery as he tries to stop a mysterious organization from eliminating a country's most valuable resource.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "Gran Torino",
+        "certificate": "R",
+        "runtime": "116 min",
+        "genre": "Drama",
+        "description": "Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, a Hmong teenager who tried to steal Kowalski's prized possession: a 1972 Gran Torino.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Bronson",
+        "certificate": "R",
+        "runtime": "92 min",
+        "genre": "Action, Biography, Crime",
+        "description": "A young man who was sentenced to seven years in prison for robbing a post office ends up spending three decades in solitary confinement. During this time, his own personality is supplanted by his alter-ego, Charles Bronson.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "Tropic Thunder",
+        "certificate": "R",
+        "runtime": "107 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "Through a series of freak occurrences, a group of actors shooting a big-budget war movie are forced to become the soldiers they are portraying.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "The Reader",
+        "certificate": "R",
+        "runtime": "124 min",
+        "genre": "Drama, Romance",
+        "description": "Post-WWII Germany: Nearly a decade after his affair with an older woman came to a mysterious end, law student Michael Berg re-encounters his former lover as she defends herself in a war-crime trial.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "Slumdog Millionaire",
+        "certificate": "R",
+        "runtime": "120 min",
+        "genre": "Drama, Romance",
+        "description": "A Mumbai teen reflects on his upbringing in the slums when he is accused of cheating on the Indian Version of \"Who Wants to be a Millionaire?\"",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "The Chronicles of Narnia: Prince Caspian",
+        "certificate": "PG",
+        "runtime": "150 min",
+        "genre": "Action, Adventure, Family",
+        "description": "The Pevensie siblings return to Narnia, where they are enlisted to once again help ward off an evil king and restore the rightful heir to the land's throne, Prince Caspian.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "The Other Boleyn Girl",
+        "certificate": "PG-13",
+        "runtime": "115 min",
+        "genre": "Biography, Drama, History",
+        "description": "Two sisters contend for the affection of King Henry VIII.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "Step Brothers",
+        "certificate": "R",
+        "runtime": "98 min",
+        "genre": "Comedy",
+        "description": "Two aimless middle-aged losers still living at home are forced against their will to become roommates when their parents marry.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "The Hurt Locker",
+        "certificate": "R",
+        "runtime": "131 min",
+        "genre": "Drama, Thriller, War",
+        "description": "During the Iraq War, a Sergeant recently assigned to an army bomb squad is put at odds with his squad mates due to his maverick way of handling his work.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "Hellboy II: The Golden Army",
+        "certificate": "PG-13",
+        "runtime": "120 min",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "The mythical world starts a rebellion against humanity in order to rule the Earth, so Hellboy and his team must save the world from the rebellious creatures.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "WALL\u00b7E",
+        "certificate": "",
+        "runtime": "98 min",
+        "genre": "Animation, Adventure, Family",
+        "description": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "Body of Lies",
+        "certificate": "A",
+        "runtime": "128 min",
+        "genre": "Action, Drama, Thriller",
+        "description": "A CIA agent on the ground in Jordan hunts down a powerful terrorist leader while being caught between the unclear intentions of his American supervisors and Jordan Intelligence.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "Revolutionary Road",
+        "certificate": "R",
+        "runtime": "119 min",
+        "genre": "Drama, Romance",
+        "description": "A young couple living in a Connecticut suburb during the mid-1950s struggle to come to terms with their personal problems while trying to raise their two children.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "Disaster Movie",
+        "certificate": "PG-13",
+        "runtime": "87 min",
+        "genre": "Comedy",
+        "description": "Over the course of one evening, an unsuspecting group of twenty-somethings find themselves bombarded by a series of natural disasters and catastrophic events.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "Martyrs",
+        "certificate": "R",
+        "runtime": "99 min",
+        "genre": "Horror",
+        "description": "A young woman's quest for revenge against the people who kidnapped and tormented her as a child leads her and a friend, who is also a victim of child abuse, on a terrifying journey into a living hell of depravity.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "Sex and the City",
+        "certificate": "R",
+        "runtime": "145 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A New York City writer on sex and love is finally getting married to her Mr. Big. But her three best girlfriends must console her after one of them inadvertently leads Mr. Big to jilt her.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "Definitely, Maybe",
+        "certificate": "PG-13",
+        "runtime": "112 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A political consultant tries to explain his impending divorce and past relationships to his 11-year-old daughter.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "Forgetting Sarah Marshall",
+        "certificate": "R",
+        "runtime": "111 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Devastated Peter takes a Hawaiian vacation in order to deal with the recent break-up with his TV star girlfriend, Sarah. Little does he know, Sarah's traveling to the same resort as her ex - and she's bringing along her new boyfriend.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "Vicky Cristina Barcelona",
+        "certificate": "PG-13",
+        "runtime": "96 min",
+        "genre": "Drama, Romance",
+        "description": "Two girlfriends on a summer holiday in Spain become enamored with the same painter, unaware that his ex-wife, with whom he has a tempestuous relationship, is about to re-enter the picture.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "RocknRolla",
+        "certificate": "R",
+        "runtime": "114 min",
+        "genre": "Action, Crime, Thriller",
+        "description": "In London, a real-estate scam puts millions of pounds up for grabs, attracting some of the city's scrappiest tough guys and its more established underworld types, all of whom are looking to get rich quick. While the city's seasoned criminals vie for the cash, an unexpected player -- a drugged-out rock 'n' roller presumed to be dead but very much alive -- has a multi-million-dollar prize fall into...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "Role Models",
+        "certificate": "R",
+        "runtime": "99 min",
+        "genre": "Comedy",
+        "description": "Wild behavior forces a pair of energy drink reps to enroll in a Big Brother program.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "The Wrestler",
+        "certificate": "R",
+        "runtime": "109 min",
+        "genre": "Drama, Sport",
+        "description": "A faded professional wrestler must retire, but finds his quest for a new life outside the ring a dispiriting struggle.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "Seven Pounds",
+        "certificate": "UA",
+        "runtime": "123 min",
+        "genre": "Drama, Romance",
+        "description": "A man with a fateful secret embarks on an extraordinary journey of redemption by forever changing the lives of seven strangers.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Burn After Reading",
+        "certificate": "R",
+        "runtime": "96 min",
+        "genre": "Comedy, Crime, Drama",
+        "description": "A disk containing mysterious information from a CIA agent ends up in the hands of two unscrupulous and daft gym employees who attempt to sell it.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "The House Bunny",
+        "certificate": "PG-13",
+        "runtime": "97 min",
+        "genre": "Comedy, Romance",
+        "description": "After Playboy bunny Shelley is kicked out of the playboy mansion, she finds a job as the house mother for a sorority full of socially awkward girls.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "Zack and Miri Make a Porno",
+        "certificate": "R",
+        "runtime": "101 min",
+        "genre": "Comedy, Romance",
+        "description": "Lifelong platonic friends Zack and Miri look to solve their respective cash-flow problems by making an adult film together. As the cameras roll, however, the duo begin to sense that they may have more feelings for each other than they previously thought.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Pineapple Express",
+        "certificate": "R",
+        "runtime": "111 min",
+        "genre": "Action, Comedy, Crime",
+        "description": "A process server and his marijuana dealer wind up on the run from hitmen and a corrupt police officer after he witnesses his dealer's boss murder a competitor while trying to serve papers on him.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "Valkyrie",
+        "certificate": "UA",
+        "runtime": "121 min",
+        "genre": "Drama, History, Thriller",
+        "description": "A dramatization of the July 20, 1944 assassination and political coup plot by desperate renegade German Army officers against Adolf Hitler during World War II.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "The Strangers",
+        "certificate": "R",
+        "runtime": "86 min",
+        "genre": "Horror, Mystery, Thriller",
+        "description": "A young couple staying in an isolated vacation home are terrorized by three unknown assailants.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Kung Fu Panda",
+        "certificate": "PG",
+        "runtime": "92 min",
+        "genre": "Animation, Action, Adventure",
+        "description": "The Dragon Warrior has to clash against the savage Tai Lung as China's fate hangs in the balance. However, the Dragon Warrior mantle is supposedly mistaken to be bestowed upon an obese panda who is a novice in martial arts.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "Sex Drive",
+        "certificate": "R",
+        "runtime": "109 min",
+        "genre": "Adventure, Comedy, Romance",
+        "description": "A high school senior drives cross-country with his best friends to hook up with a babe he met online.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "The Day the Earth Stood Still",
+        "certificate": "PG-13",
+        "runtime": "104 min",
+        "genre": "Drama, Sci-Fi, Thriller",
+        "description": "A remake of the 1951 classic science fiction film about an alien visitor and his giant robot counterpart who visit Earth.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "The Spirit",
+        "certificate": "PG-13",
+        "runtime": "103 min",
+        "genre": "Action, Crime, Fantasy",
+        "description": "Rookie cop Denny Colt returns from the beyond as The Spirit, a hero whose mission is to fight against the bad forces in Central City.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "Defiance",
+        "certificate": "R",
+        "runtime": "137 min",
+        "genre": "Action, Drama, History",
+        "description": "Jewish brothers in Nazi-occupied Eastern Europe escape into the Belarussian forests, where they join Russian resistance fighters, and endeavor to build a village, in order to protect themselves and about one thousand Jewish non-combatants.",
+        "director": "",
+        "stars": []
+    }
+}

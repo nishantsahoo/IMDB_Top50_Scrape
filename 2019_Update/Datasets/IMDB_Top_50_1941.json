@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "Citizen Kane",
+        "certificate": "PG",
+        "runtime": "119 min",
+        "genre": "Drama, Mystery",
+        "description": "Following the death of a publishing tycoon, news reporters scramble to discover the meaning of his final utterance.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "How Green Was My Valley",
+        "certificate": "",
+        "runtime": "118 min",
+        "genre": "Drama, Family",
+        "description": "At the turn of the century in a Welsh mining village, the Morgans, he stern, she gentle, raise coal-mining sons and hope their youngest will find a better life.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "The Feminine Touch",
+        "certificate": "",
+        "runtime": "97 min",
+        "genre": "Comedy",
+        "description": "John Hathaway is a professor of psychology at Digby College. His students are bored as he is with the students. He leaves college to go to New York to have his manuscript on jealousy ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "Dumbo",
+        "certificate": "G",
+        "runtime": "64 min",
+        "genre": "Animation, Drama, Family",
+        "description": "Ridiculed because of his enormous ears, a young circus elephant is assisted by a mouse to achieve his full potential.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "The Maltese Falcon",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Film-Noir, Mystery",
+        "description": "A private detective takes on a case that involves him with three eccentric criminals, a gorgeous liar, and their quest for a priceless statuette.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "That Uncertain Feeling",
+        "certificate": "",
+        "runtime": "84 min",
+        "genre": "Comedy",
+        "description": "A psychoanalyst causes a woman to doubt her happy marriage.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "Adventures of Captain Marvel",
+        "certificate": "",
+        "runtime": "216 min",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "To protect a magic talisman from being used for evil, a teenage boy named Billy Batson is given the power to become an adult superhero, Captain Marvel, with a single magic word: \"Shazam!\"",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "Sullivan's Travels",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Adventure, Comedy, Drama",
+        "description": "A director of escapist films goes on the road as a hobo to learn about life, which gives him a rude awakening.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "Suspicion",
+        "certificate": "",
+        "runtime": "99 min",
+        "genre": "Mystery, Thriller",
+        "description": "A shy young heiress marries a charming gentleman, and soon begins to suspect he is planning to murder her.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "The Wolf Man",
+        "certificate": "",
+        "runtime": "70 min",
+        "genre": "Horror",
+        "description": "A practical man returns to his homeland, is attacked by a creature of folklore, and infected with a horrific disease his disciplined mind tells him can not possibly exist.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "High Sierra",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Action, Adventure, Crime",
+        "description": "After being released from prison, notorious thief Roy Earle is hired by his old boss to help a group of inexperienced criminals plan and carry out the robbery of a California resort.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "Sergeant York",
+        "certificate": "",
+        "runtime": "134 min",
+        "genre": "Biography, Drama, History",
+        "description": "A marksman is drafted in World War I and ends up becoming one of the most celebrated war heroes.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "Shadows on the Stairs",
+        "certificate": "",
+        "runtime": "64 min",
+        "genre": "Drama, Mystery, Romance",
+        "description": "Occupants of a London boarding house become suspects as a string of murders are discovered.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "The Lady Eve",
+        "certificate": "",
+        "runtime": "94 min",
+        "genre": "Comedy, Romance",
+        "description": "A trio of classy card sharks targets the socially awkward heir to brewery millions for his money, until one of them falls in love with him.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "Penny Serenade",
+        "certificate": "",
+        "runtime": "119 min",
+        "genre": "Drama, Romance",
+        "description": "A couple's big dreams give way to a life full of unexpected sadness and unexpected joy.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "The Little Foxes",
+        "certificate": "",
+        "runtime": "116 min",
+        "genre": "Drama, Romance",
+        "description": "The ruthless, moneyed Hubbard clan lives in, and poisons, their part of the deep South at the turn of the twentieth century.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "Ball of Fire",
+        "certificate": "",
+        "runtime": "111 min",
+        "genre": "Comedy, Romance",
+        "description": "A group of professors working on a new encyclopedia encounter a mouthy nightclub singer who is wanted by the police to help bring down her mob boss lover.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Meet John Doe",
+        "certificate": "",
+        "runtime": "122 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A man needing money agrees to impersonate a nonexistent person who said he'd be committing suicide as a protest, and a political movement begins.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "Topper Returns",
+        "certificate": "",
+        "runtime": "88 min",
+        "genre": "Comedy, Fantasy, Mystery",
+        "description": "A fun-loving young woman finds herself murdered after trading bedrooms with her wealthy friend. Her ghost seeks aid from a banker to find out why and by whom.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "Dr. Jekyll and Mr. Hyde",
+        "certificate": "",
+        "runtime": "113 min",
+        "genre": "Horror, Sci-Fi",
+        "description": "Dr. Jekyll allows his dark side to run wild when he drinks a potion that turns him into the evil Mr. Hyde.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "Mr. & Mrs. Smith",
+        "certificate": "",
+        "runtime": "95 min",
+        "genre": "Comedy, Romance",
+        "description": "A couple who have been married for three years are shocked to learn that their marriage is not legally valid.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "Ziegfeld Girl",
+        "certificate": "",
+        "runtime": "132 min",
+        "genre": "Drama, Musical, Romance",
+        "description": "Discovery by Flo Ziegfeld changes a girl's life but not necessarily for the better, as three beautiful women find out when they join the spectacle on Broadway: Susan, the singer who must ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "Tobacco Road",
+        "certificate": "",
+        "runtime": "84 min",
+        "genre": "Comedy, Drama",
+        "description": "Hillbilly family life in 1941 rural Georgia.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "Moon Over Miami",
+        "certificate": "",
+        "runtime": "91 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "Sisters Kay and Barbara arrive in Miami from Texas looking for rich husbands.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "Blood and Sand",
+        "certificate": "",
+        "runtime": "125 min",
+        "genre": "Drama, Sport",
+        "description": "Illiterate peasant Juan Gallardo rises meteorically to fame and fortune in the bullfight arena only to sow the seeds of his own fall.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "Sun Valley Serenade",
+        "certificate": "",
+        "runtime": "86 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "When Phil Corey's band arrives at the Idaho ski resort its pianist Ted Scott is smitten with a Norwegian refugee he has sponsored, Karen Benson. When soloist Vivian Dawn quits, Karen stages an ice show as a substitute.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "The Bride Came C.O.D.",
+        "certificate": "",
+        "runtime": "92 min",
+        "genre": "Comedy, Romance",
+        "description": "A financially-strapped charter pilot hires himself to an oil tycoon to kidnap his madcap daughter and prevent her from marrying a vapid band leader.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "The Great Lie",
+        "certificate": "",
+        "runtime": "108 min",
+        "genre": "Drama",
+        "description": "After a newlywed's husband apparently dies in a plane crash, she discovers that her rival for his affections is now pregnant with his child.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "The Reluctant Dragon",
+        "certificate": "",
+        "runtime": "74 min",
+        "genre": "Animation, Comedy, Family",
+        "description": "Humorist Robert Benchley learns about the animation process at Walt Disney Studios while trying to find the great man himself to pitch him the idea of making a cartoon about a shy dragon.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "That Hamilton Woman",
+        "certificate": "",
+        "runtime": "128 min",
+        "genre": "Drama, History, Romance",
+        "description": "The story of courtesan and dance-hall girl Emma Hamilton, including her relationships with Sir William Hamilton and Admiral Horatio Nelson and her rise and fall, set during the Napoleonic Wars.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "They Died with Their Boots On",
+        "certificate": "",
+        "runtime": "140 min",
+        "genre": "Biography, Drama, Romance",
+        "description": "A highly fictionalized account of the life of George Armstrong Custer from his arrival at West Point in 1857 to his death at the battle of the Little Big Horn in 1876. He has little ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "Here Comes Mr. Jordan",
+        "certificate": "",
+        "runtime": "94 min",
+        "genre": "Comedy, Fantasy, Romance",
+        "description": "Boxer Joe Pendleton dies 50 years too soon due to a heavenly mistake, and is given a new life as a millionaire playboy.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "Kipps",
+        "certificate": "",
+        "runtime": "111 min",
+        "genre": "Comedy, Drama",
+        "description": "Kipps the draper's apprentice falls in love with a girl above his station. When he unexpectedly inherits a fortune, he thinks his dream has come true. But money can't make him a gentleman, or bring him the girl he really wants...",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "The Shanghai Gesture",
+        "certificate": "",
+        "runtime": "95 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "In Shanghai, dragon-lady 'Mother' Gin Sling operates a gambling house for wealthy patrons but she clashes with influential land developer Sir Guy Charteris who wants to put her out-of-business.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "I Wake Up Screaming",
+        "certificate": "",
+        "runtime": "82 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "Why is Inspector Ed Cornell trying to railroad Frankie Christopher for the murder of model Vicky Lynn?",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "Man Hunt",
+        "certificate": "",
+        "runtime": "105 min",
+        "genre": "Drama, Thriller, War",
+        "description": "British hunter Thorndike vacationing in Bavaria has Hitler in his gun sight. He is captured, beaten, left for dead, and escapes back to London where he is hounded by German agents and aided by a young woman.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "All That Money Can Buy",
+        "certificate": "",
+        "runtime": "107 min",
+        "genre": "Comedy, Drama, Fantasy",
+        "description": "A nineteenth-century New Hampshire farmer who makes a pact with Satan for economic success enlists Daniel Webster to extract him from his contract.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "Never Give a Sucker an Even Break",
+        "certificate": "",
+        "runtime": "71 min",
+        "genre": "Comedy, Musical",
+        "description": "Fields wants to sell a film story to Esoteric Studios. On the way he gets insulted by little boys, beat up for ogling a woman, and abused by a waitress. He becomes his niece's guardian when...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "Shadow of the Thin Man",
+        "certificate": "",
+        "runtime": "97 min",
+        "genre": "Comedy, Crime, Mystery",
+        "description": "Nick and Nora are at their wisecracking best as they investigate murder and racketeering at a local race track.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "The Devil and Miss Jones",
+        "certificate": "",
+        "runtime": "92 min",
+        "genre": "Comedy, Romance",
+        "description": "A tycoon goes undercover to ferret out agitators at a department store, but gets involved in their lives instead.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Adam Had Four Sons",
+        "certificate": "",
+        "runtime": "81 min",
+        "genre": "Drama, Romance",
+        "description": "A governess becomes the center of a wealthy family after her employer's wife dies.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "Pot o' Gold",
+        "certificate": "",
+        "runtime": "86 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "Jimmy, the owner of a failed music shop, goes to work with his uncle, the owner of a food factory. Before he gets there, he befriends an Irish family who happens to be his uncle's worst ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Johnny Eager",
+        "certificate": "",
+        "runtime": "107 min",
+        "genre": "Crime, Film-Noir, Thriller",
+        "description": "The daughter of a district attorney falls in love with a gangster who her father is trying to have imprisoned.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "You'll Never Get Rich",
+        "certificate": "",
+        "runtime": "88 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "In order to cover up his philandering ways, a married Broadway producer sets one of his dancers up on a date with a chorus girl for whom he had bought a gift, but the two dancers fall in love for real.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "Two-Faced Woman",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Comedy, Romance",
+        "description": "After a ski instructor catches her husband flirting with an old flame, she decides to pose as her (fictitious) twin sister in an attempt to keep him faithful.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Riders of the Purple Sage",
+        "certificate": "",
+        "runtime": "54 min",
+        "genre": "Western",
+        "description": "Lassiter discovers the judge (Barrat) who cheated his neice of her inheritance leads a gang of badguys posing as vigilantes.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "Hold That Ghost",
+        "certificate": "",
+        "runtime": "86 min",
+        "genre": "Adventure, Comedy, Music",
+        "description": "After inheriting a fortune from a gangster, two dim-witted service station attendants find themselves stranded in a haunted house.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "Great Guns",
+        "certificate": "",
+        "runtime": "74 min",
+        "genre": "Comedy, Romance, War",
+        "description": "Laurel and Hardy join the army. They are hardly soldiers, but they believe their employer will need them now he's drafted.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "Genroku Ch\u00fbshingura",
+        "certificate": "",
+        "runtime": "241 min",
+        "genre": "Action, Drama, History",
+        "description": "In 1701, Lord Takuminokami Asano has a feud with Lord Kira and he tries to kill Kira in the corridors of the Shogun's palace. The Shogun sentences Lord Asano to commit suppuku and deprives ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "Sundown",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Drama, War",
+        "description": "In 1941, a mysterious Somaliland native woman helps the British against the Nazis.",
+        "director": "",
+        "stars": []
+    }
+}
