@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "Murder She Said",
+        "certificate": "Unrated",
+        "runtime": "87 min",
+        "genre": "Comedy, Crime, Drama",
+        "description": "When Miss Marple reports witnessing a murder through the window of a passing train, the police dismiss her as a dotty spinster when no trace of the crime can be found.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "West Side Story",
+        "certificate": "Not Rated",
+        "runtime": "153 min",
+        "genre": "Crime, Drama, Musical",
+        "description": "Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "Breakfast at Tiffany's",
+        "certificate": "Not Rated",
+        "runtime": "115 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A young New York socialite becomes interested in a young man who has moved into her apartment building, but her past threatens to get in the way.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "101 Dalmatians",
+        "certificate": "G",
+        "runtime": "79 min",
+        "genre": "Animation, Adventure, Comedy",
+        "description": "When a litter of Dalmatian puppies are abducted by the minions of Cruella de Vil, the parents must find them before she uses them for a diabolical fashion statement.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "Judgment at Nuremberg",
+        "certificate": "Not Rated",
+        "runtime": "186 min",
+        "genre": "Drama, War",
+        "description": "In 1948, an American court in occupied Germany tries four Nazi judges for war crimes.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "The Parent Trap",
+        "certificate": "Passed",
+        "runtime": "129 min",
+        "genre": "Comedy, Family, Romance",
+        "description": "Teenage twin sisters swap places and scheme to reunite their divorced parents.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "Yojimbo",
+        "certificate": "Not Rated",
+        "runtime": "110 min",
+        "genre": "Action, Drama, Thriller",
+        "description": "A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "The Hustler",
+        "certificate": "Not Rated",
+        "runtime": "134 min",
+        "genre": "Drama, Sport",
+        "description": "An up-and-coming pool player plays a long-time champion in a single high-stakes match.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "The Guns of Navarone",
+        "certificate": "TV-PG",
+        "runtime": "158 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "A British team is sent to cross occupied Greek territory and destroy the massive German gun emplacement that commands a key sea channel.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "The Innocents",
+        "certificate": "Not Rated",
+        "runtime": "100 min",
+        "genre": "Horror",
+        "description": "A young governess for two children becomes convinced that the house and grounds are haunted.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "The Misfits",
+        "certificate": "Not Rated",
+        "runtime": "125 min",
+        "genre": "Drama, Romance, Western",
+        "description": "A divorc\u00e9e falls for an over-the-hill cowboy who is struggling to maintain his romantically independent lifestyle.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "Splendor in the Grass",
+        "certificate": "Not Rated",
+        "runtime": "124 min",
+        "genre": "Drama, Romance",
+        "description": "A fragile Kansas girl's love for a handsome young man from the town's most powerful family drives her to heartbreak and madness.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "El Cid",
+        "certificate": "Approved",
+        "runtime": "182 min",
+        "genre": "Adventure, Biography, Drama",
+        "description": "The fabled Spanish hero Rodrigo Diaz (a.k.a. El Cid) overcomes a family vendetta and court intrigue to defend Christian Spain against the Moors.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "King of Kings",
+        "certificate": "PG-13",
+        "runtime": "168 min",
+        "genre": "Biography, Drama, History",
+        "description": "The temporary physical life of the Biblical Savior, Jesus Christ.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "One-Eyed Jacks",
+        "certificate": "Not Rated",
+        "runtime": "141 min",
+        "genre": "Western",
+        "description": "After robbing a Mexican bank, Dad Longworth takes the loot and leaves his partner Rio to be captured but Rio escapes and searches for Dad in California.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "Through a Glass Darkly",
+        "certificate": "Not Rated",
+        "runtime": "89 min",
+        "genre": "Drama",
+        "description": "Recently released from a mental hospital; Karin rejoins her emotionally disconnected family and their island home, only to slip from reality as she begins to believe she is being visited by God.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "The Children's Hour",
+        "certificate": "Not Rated",
+        "runtime": "108 min",
+        "genre": "Drama, Romance",
+        "description": "A troublemaking student at a girls' school accuses two teachers of being lesbians.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Last Year at Marienbad",
+        "certificate": "Not Rated",
+        "runtime": "94 min",
+        "genre": "Drama, Mystery",
+        "description": "In a strange and isolated chateau, a man becomes acquainted with a woman and insists that they have met before.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "One, Two, Three",
+        "certificate": "Not Rated",
+        "runtime": "104 min",
+        "genre": "Comedy",
+        "description": "In West Berlin during the Cold War, a Coca-Cola executive is given the task of taking care of his boss' socialite daughter.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "The Comancheros",
+        "certificate": "Approved",
+        "runtime": "107 min",
+        "genre": "Action, Adventure, Romance",
+        "description": "Texas Ranger Jake Cutter arrests gambler Paul Regret, but soon finds himself teamed with his prisoner in an undercover effort to defeat a band of renegade arms merchants and thieves known as Comancheros.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "A Weekend with Lulu",
+        "certificate": "Approved",
+        "runtime": "89 min",
+        "genre": "Comedy",
+        "description": "Fred, Tim and Deirdre plan a fun weekend break on the coast. What they didn't make allowances for was the company of Deirdre's mother who insists on coming along as her daughter's chaperone.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "Babes in Toyland",
+        "certificate": "Approved",
+        "runtime": "106 min",
+        "genre": "Comedy, Family, Fantasy",
+        "description": "Tom the Piper's Son is about to marry Mary Quite Contrary. On the eve of their wedding, evil miser Barnaby hires two henchmen to drown Tom and steal Mary's sheep, cared for by Little Bo ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "Barabbas",
+        "certificate": "Not Rated",
+        "runtime": "137 min",
+        "genre": "Adventure, Biography, Drama",
+        "description": "Barabbas, the criminal that Pontius Pilate induced the populace to vote to set free, so that Christ could be crucified, is haunted by the image of Jesus for the rest of his life.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "La Notte",
+        "certificate": "Not Rated",
+        "runtime": "122 min",
+        "genre": "Drama",
+        "description": "A day in the life of an unfaithful married couple and their steadily deteriorating relationship.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "A Woman Is a Woman",
+        "certificate": "Not Rated",
+        "runtime": "84 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A French striptease artist is desperate to become a mother. When her reluctant boyfriend suggests that his best friend impregnate her, feelings become complicated when she accepts.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "Viridiana",
+        "certificate": "Not Rated",
+        "runtime": "90 min",
+        "genre": "Comedy, Drama",
+        "description": "Viridiana, a young nun about to take her final vows, pays a visit to her widowed uncle at the request of her Mother Superior.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "A Raisin in the Sun",
+        "certificate": "Approved",
+        "runtime": "128 min",
+        "genre": "Drama",
+        "description": "A substantial insurance payment could mean either financial salvation or personal ruin for a poor black family.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "Mysterious Island",
+        "certificate": "Not Rated",
+        "runtime": "101 min",
+        "genre": "Adventure, Family, Fantasy",
+        "description": "During the Civil War a group of Union soldiers and two Confederates escape the stockade using a hot air balloon and end up on a strange Pacific island.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "Blue Hawaii",
+        "certificate": "PG",
+        "runtime": "102 min",
+        "genre": "Comedy, Musical",
+        "description": "After arriving back in Hawaii from the Army, Chad Gates defies his parents' wishes for him to work at the family business and instead goes to work as a tour guide at his girlfriend's agency.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "The Colossus of Rhodes",
+        "certificate": "Approved",
+        "runtime": "127 min",
+        "genre": "Adventure, Drama, History",
+        "description": "While on holiday in Rhodes, Athenian war hero Darios becomes involved in two different plots to overthrow the tyrannical king, one from Rhodian patriots and the other from sinister Phoenician agents.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "Pit and the Pendulum",
+        "certificate": "Not Rated",
+        "runtime": "80 min",
+        "genre": "Drama, Horror, Mystery",
+        "description": "In the sixteenth century, Francis Barnard travels to Spain to clarify the strange circumstances of his sister's death after she had married the son of a cruel Spanish Inquisitor.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "Lover Come Back",
+        "certificate": "Approved",
+        "runtime": "107 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A series of misunderstandings leaves an advertising executive with a campaign for a product which has not yet been invented, while he romances his rival in the guise of its inventor.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "Flower Drum Song",
+        "certificate": "Approved",
+        "runtime": "133 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "A young woman arrives in San Francisco's Chinatown from Hong Kong with the intention of marrying a rakish nightclub owner, unaware he is involved with one of his singers.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "A Taste of Honey",
+        "certificate": "Not Rated",
+        "runtime": "101 min",
+        "genre": "Drama",
+        "description": "A pregnant teenage girl must fend for herself when her mother remarries, leaving the girl with only a new male friend for support.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "The Absent Minded Professor",
+        "certificate": "Approved",
+        "runtime": "92 min",
+        "genre": "Comedy, Family, Sci-Fi",
+        "description": "A college professor invents an anti-gravity substance which a corrupt businessman wants for himself.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "Come September",
+        "certificate": "Approved",
+        "runtime": "112 min",
+        "genre": "Comedy, Romance",
+        "description": "Younger generation vs. \"older\" folks on vacation at an Italian villa.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "Konga",
+        "certificate": "Unrated",
+        "runtime": "90 min",
+        "genre": "Horror, Sci-Fi",
+        "description": "Dr.Decker comes back from Africa after a year, presumed dead. During that year, he came across a way of growing plants and animals to an enormous size. He brings back a baby chimpanzee to ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "The Roman Spring of Mrs. Stone",
+        "certificate": "Approved",
+        "runtime": "103 min",
+        "genre": "Drama, Romance",
+        "description": "An aging actress travels to Rome with her husband; after he suddenly dies during the flight, she begins a passionate affair with a young gigolo.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "The Beast of Yucca Flats",
+        "certificate": "Unrated",
+        "runtime": "54 min",
+        "genre": "Horror, Sci-Fi",
+        "description": "A defecting Soviet scientist is hit by a nuclear explosion near Yucca Flats and roams around as a beast.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Pocketful of Miracles",
+        "certificate": "Approved",
+        "runtime": "136 min",
+        "genre": "Comedy, Drama",
+        "description": "A New York gangster and his girlfriend attempt to turn street beggar Apple Annie into a society lady when the peddler learns her daughter is marrying royalty.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Il Posto",
+        "certificate": "Not Rated",
+        "runtime": "93 min",
+        "genre": "Drama",
+        "description": "A very young college graduate attempts to obtain a position with a large corporation.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "Voyage to the Bottom of the Sea",
+        "certificate": "PG",
+        "runtime": "105 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "When the Earth is threatened by a burning Van Allen Radiation Belt, U.S. Navy Admiral Harriman Nelson plans to shoot a nuclear missile at the Belt, using his experimental atomic submarine, the Seaview.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Two Rode Together",
+        "certificate": "Not Rated",
+        "runtime": "109 min",
+        "genre": "Western",
+        "description": "A corrupt marshal is pressured by his army friend into negotiating the release of white captives of the Comanches, but finds that their reintegration into society has its consequences.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "Bachelor Flat",
+        "certificate": "Not Rated",
+        "runtime": "91 min",
+        "genre": "Comedy",
+        "description": "British college professor seeks peace in a California beach house but has nothing but trouble from an uninvited female 'juvenile delinquent', a neighbor with a mischievous dog, and a bevy of amorous American woman.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "Divorce Italian Style",
+        "certificate": "Not Rated",
+        "runtime": "105 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A married Sicilian baron falls in love with his cousin and vows to wed her, but with divorce illegal he must concoct a crime of passion to do away with his wife.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Scream of Fear",
+        "certificate": "Approved",
+        "runtime": "81 min",
+        "genre": "Horror, Thriller",
+        "description": "A wheelchair-bound young woman returns to her father's estate after ten years, and although she's told he's away, she keeps seeing his dead body on the estate.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "Mothra",
+        "certificate": "Passed",
+        "runtime": "101 min",
+        "genre": "Fantasy, Sci-Fi, Thriller",
+        "description": "A giant, ancient moth begins to attack Japan when coming to the rescue of it's two, foot-tall worshippers who were taken by shipwreck survivors.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "Victim",
+        "certificate": "Not Rated",
+        "runtime": "90 min",
+        "genre": "Drama",
+        "description": "The death of a young man leads to the discovery of a blackmail plot against a number of gay men in 1960s London.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "Town Without Pity",
+        "certificate": "Approved",
+        "runtime": "105 min",
+        "genre": "Crime, Drama",
+        "description": "Four American soldiers stationed near a German village face death in the rape of a local girl, and are defended by outside counsel Major Steve Garrett.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "Whistle Down the Wind",
+        "certificate": "Unrated",
+        "runtime": "99 min",
+        "genre": "Crime, Drama",
+        "description": "When an injured wife murderer takes refuge on a remote Lancashire farm, the owners three children mistakenly believe him to be the Second Coming of Christ.",
+        "director": "",
+        "stars": []
+    }
+}

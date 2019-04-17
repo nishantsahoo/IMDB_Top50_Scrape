@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "Psycho",
+        "certificate": "R",
+        "runtime": "109 min",
+        "genre": "Horror, Mystery, Thriller",
+        "description": "A Phoenix secretary embezzles forty thousand dollars from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "The Magnificent Seven",
+        "certificate": "Approved",
+        "runtime": "128 min",
+        "genre": "Action, Adventure, Western",
+        "description": "Seven gunfighters are hired by Mexican peasants to liberate their village from oppressive bandits.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "Spartacus",
+        "certificate": "PG-13",
+        "runtime": "197 min",
+        "genre": "Adventure, Biography, Drama",
+        "description": "The slave Spartacus leads a violent revolt against the decadent Roman Republic.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "The Apartment",
+        "certificate": "Not Rated",
+        "runtime": "125 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A man tries to rise in his company by letting its executives use his apartment for trysts, but complications and a romance of his own ensue.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "Ocean's 11",
+        "certificate": "Approved",
+        "runtime": "127 min",
+        "genre": "Comedy, Crime, Music",
+        "description": "Danny Ocean gathers a group of his World War II compatriots to pull off the ultimate Las Vegas heist. Together the eleven friends plan to rob five Las Vegas casinos in one night.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "The Time Machine",
+        "certificate": "G",
+        "runtime": "103 min",
+        "genre": "Adventure, Romance, Sci-Fi",
+        "description": "A man's vision for a utopian society is disillusioned when travelling forward into time reveals a dark and dangerous society.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "Breathless",
+        "certificate": "Not Rated",
+        "runtime": "90 min",
+        "genre": "Crime, Drama",
+        "description": "A small-time thief steals a car and impulsively murders a motorcycle policeman. Wanted by the authorities, he reunites with a hip American journalism student and attempts to persuade her to run away with him to Italy.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "La Dolce Vita",
+        "certificate": "Not Rated",
+        "runtime": "174 min",
+        "genre": "Comedy, Drama",
+        "description": "A series of stories following a week in the life of a philandering paparazzo journalist living in Rome.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "The Lost World",
+        "certificate": "Approved",
+        "runtime": "97 min",
+        "genre": "Adventure, Fantasy, Sci-Fi",
+        "description": "Professor Challenger leads an expedition of scientists and adventurers to a remote plateau deep in the Amazonian jungle to verify his claim that dinosaurs still live there.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "Swiss Family Robinson",
+        "certificate": "G",
+        "runtime": "126 min",
+        "genre": "Adventure, Family",
+        "description": "A Swiss family must survive being shipwrecked on a deserted island.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "Where the Boys Are",
+        "certificate": "Approved",
+        "runtime": "99 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Four very different college girls drive to Fort Lauderdale, Florida for spring break and seek out various adventures and romance for themselves.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "Les yeux sans visage",
+        "certificate": "Not Rated",
+        "runtime": "90 min",
+        "genre": "Drama, Horror",
+        "description": "A surgeon causes an accident which leaves his daughter disfigured, and goes to extremes to give her a new face.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "Peeping Tom",
+        "certificate": "Not Rated",
+        "runtime": "101 min",
+        "genre": "Crime, Drama, Horror",
+        "description": "A young man murders women, using a movie camera to film their dying expressions of terror.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "Exodus",
+        "certificate": "Approved",
+        "runtime": "208 min",
+        "genre": "Action, Drama, History",
+        "description": "The state of Israel is created in 1948, resulting in war with its Arab neighbors.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "The Little Shop of Horrors",
+        "certificate": "Not Rated",
+        "runtime": "72 min",
+        "genre": "Comedy, Horror",
+        "description": "A clumsy young man nurtures a plant and discovers that it's carnivorous, forcing him to kill to feed it.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "The Alamo",
+        "certificate": "Passed",
+        "runtime": "162 min",
+        "genre": "Adventure, Drama, History",
+        "description": "In 1836, a small band of soldiers sacrifice their lives in hopeless combat against a massive army in order to prevent a tyrant from smashing the new Republic of Texas.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "Purple Noon",
+        "certificate": "PG-13",
+        "runtime": "118 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "Tom Ripley is a talented mimic, moocher, forger and all-around criminal improviser; but there's more to Tom Ripley than even he can guess.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Inherit the Wind",
+        "certificate": "Passed",
+        "runtime": "128 min",
+        "genre": "Biography, Drama, History",
+        "description": "Based on a real-life case in 1925, two great lawyers argue the case for and against a science teacher accused of the crime of teaching evolution.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "Rocco and His Brothers",
+        "certificate": "Not Rated",
+        "runtime": "177 min",
+        "genre": "Crime, Drama, Sport",
+        "description": "Having recently been uprooted to Milan, Rocco and his four brothers each look for a new way in life when a prostitute comes between Rocco and his brother Simone.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "The Virgin Spring",
+        "certificate": "Not Rated",
+        "runtime": "89 min",
+        "genre": "Drama",
+        "description": "An innocent yet pampered young virgin and her family's pregnant and jealous servant set out to deliver candles to church, but only one returns from events that transpire in the woods along the way.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "North to Alaska",
+        "certificate": "Approved",
+        "runtime": "122 min",
+        "genre": "Comedy, Romance, Western",
+        "description": "During the Alaska gold rush, prospector George sends partner Sam to Seattle to bring his fianc\u00e9e but when it turns out that she married another man, Sam returns with a pretty substitute, the hostess of the Henhouse dance hall.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "L'Avventura",
+        "certificate": "Not Rated",
+        "runtime": "144 min",
+        "genre": "Drama, Mystery",
+        "description": "A woman disappears during a Mediterranean boating trip. During the search, her lover and her best friend become attracted to each other.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "Elmer Gantry",
+        "certificate": "Approved",
+        "runtime": "146 min",
+        "genre": "Drama",
+        "description": "A fast-talking traveling salesman with a charming, loquacious manner convinces a sincere evangelist that he can be an effective preacher for her cause.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "Tunes of Glory",
+        "certificate": "Not Rated",
+        "runtime": "106 min",
+        "genre": "Drama",
+        "description": "After World War II, a Highland Regiment's acting Commanding Officer, who rose from the ranks, is replaced by a peace-time Oxford-educated Commanding Officer, leading to a dramatic conflict between the two.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "Black Sunday",
+        "certificate": "Not Rated",
+        "runtime": "87 min",
+        "genre": "Horror",
+        "description": "A vengeful witch and her fiendish servant return from the grave and begin a bloody campaign to possess the body of the witch's beautiful look-alike descendant, with only the girl's brother and a handsome doctor standing in her way.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "Pollyanna",
+        "certificate": "Approved",
+        "runtime": "134 min",
+        "genre": "Comedy, Drama, Family",
+        "description": "A young girl comes to an embittered town and confronts its attitude with her determination to see the best in life.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "Circle of Deception",
+        "certificate": "Approved",
+        "runtime": "100 min",
+        "genre": "Drama, Romance, War",
+        "description": "Unbeknownst to him, a soldier is sent on a doomed mission because of the high likelihood of him divulging secrets if captured and tortured.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "Skywatch",
+        "certificate": "Not Rated",
+        "runtime": "90 min",
+        "genre": "Comedy, Drama",
+        "description": "A comedy drama set in a WWII British Army Searchlight Squad. They are an odd bunch of misfits but somehow manage to get the job done.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "Hell Is a City",
+        "certificate": "",
+        "runtime": "93 min",
+        "genre": "Crime, Thriller",
+        "description": "In Britain, a Manchester police inspector becomes obsessed with capturing a criminal who escapes from prison.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "13 Ghosts",
+        "certificate": "Not Rated",
+        "runtime": "85 min",
+        "genre": "Horror",
+        "description": "A family inherits what proves to be a haunted house, but a special pair of goggles allows them to see their ghostly tormentors.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "Village of the Damned",
+        "certificate": "Not Rated",
+        "runtime": "77 min",
+        "genre": "Horror, Sci-Fi",
+        "description": "In the English village of Midwich, the blonde-haired, glowing-eyed children of uncertain paternity prove to have frightening powers.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "The Fugitive Kind",
+        "certificate": "Not Rated",
+        "runtime": "119 min",
+        "genre": "Drama, Romance",
+        "description": "Valentine \"Snakeskin\" Xavier, a trouble-prone drifter trying to go straight, wanders into a small Mississippi town looking for a simple and honest life but finds himself embroiled with problem-filled women.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "Let's Make Love",
+        "certificate": "Not Rated",
+        "runtime": "119 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "When billionaire Jean-Marc Clement learns that he is to be satirized in an off-Broadway revue, he passes himself off as an actor playing him in order to get closer to the beautiful star of the show, Amanda Dell.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "House of Usher",
+        "certificate": "Not Rated",
+        "runtime": "79 min",
+        "genre": "Drama, Horror",
+        "description": "Upon entering his fianc\u00e9e's family mansion, a man discovers a savage family curse and fears that his future brother-in-law has entombed his bride-to-be prematurely.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "Cimarron",
+        "certificate": "Approved",
+        "runtime": "147 min",
+        "genre": "Drama, Romance, Western",
+        "description": "The Oklahoma Land Run of April 1889 sets the stage for an epic saga of a frontier adventurer, his wife and family and their friends.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "Sink the Bismarck!",
+        "certificate": "Approved",
+        "runtime": "97 min",
+        "genre": "Action, Drama, History",
+        "description": "The World War II story of the British Navy's effort to defeat Nazi Germany's most powerful warship.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "Two Women",
+        "certificate": "Not Rated",
+        "runtime": "100 min",
+        "genre": "Drama, War",
+        "description": "In the Italy of WWII, a widow and her lonely daughter seek for distance between them and the horrors of war.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "Saturday Night and Sunday Morning",
+        "certificate": "Approved",
+        "runtime": "89 min",
+        "genre": "Drama, Romance",
+        "description": "A rebellious, hard-living factory worker juggles relationships with two women, one of whom is married to another man but pregnant with his child.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "The Bad Sleep Well",
+        "certificate": "Not Rated",
+        "runtime": "151 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "A vengeful young man marries the daughter of a corrupt industrialist in order to seek justice for his father's suicide.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Wild River",
+        "certificate": "Not Rated",
+        "runtime": "110 min",
+        "genre": "Drama, History, Romance",
+        "description": "A TVA bureaucrat comes to the river to do what none of his predecessors have been able to do - evict a stubborn octogenarian from her island before the rising waters engulf her.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Strangers When We Meet",
+        "certificate": "Approved",
+        "runtime": "117 min",
+        "genre": "Drama, Romance",
+        "description": "A suburban architect loves his wife but is bored with his marriage and with his work, so he takes up with the neglected, married beauty who lives down the street.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "La V\u00e9rit\u00e9",
+        "certificate": "Not Rated",
+        "runtime": "127 min",
+        "genre": "Drama",
+        "description": "A liberated small-town girl and the family's black sheep moves to Paris with her sister, only to find herself standing trial for the shocking murder of her young lover. Was his killing premeditated or was this a crime of passion?",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Midnight Lace",
+        "certificate": "Approved",
+        "runtime": "103 min",
+        "genre": "Drama, Mystery, Thriller",
+        "description": "In London, a recently wed American woman's sanity comes into question when she claims to be the victim of a threatening stalker.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "The Unforgiven",
+        "certificate": "Approved",
+        "runtime": "125 min",
+        "genre": "Drama, Romance, Western",
+        "description": "The neighbors of a frontier family turn on them when it is suspected that their adopted daughter was stolen from the local Kiowa tribe.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "The Brides of Dracula",
+        "certificate": "Unrated",
+        "runtime": "85 min",
+        "genre": "Horror",
+        "description": "Vampire hunter Van Helsing returns to Transylvania to destroy handsome bloodsucker Baron Meinster, who has designs on beautiful young schoolteacher Marianne.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "The Sundowners",
+        "certificate": "Unrated",
+        "runtime": "133 min",
+        "genre": "Drama, Adventure",
+        "description": "In Australia's Outback during the early twentieth century, the impoverished Carmody family lives a nomadic life out of their wagon, but the mom and son want to settle, while the dad is against it.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "BUtterfield 8",
+        "certificate": "Not Rated",
+        "runtime": "109 min",
+        "genre": "Drama",
+        "description": "A Manhattan call girl has a tragic affair with a rich married man.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "Le Trou",
+        "certificate": "Not Rated",
+        "runtime": "131 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "In prison four long-sentence inmates planning an elaborate escape cautiously induct a new inmate to join in their scheme which leads to distrust and uncertainty.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "From the Terrace",
+        "certificate": "Passed",
+        "runtime": "149 min",
+        "genre": "Drama, Romance",
+        "description": "An ambitious young executive chooses a loveless marriage and an unfulfilling personal life in exchange for a successful Wall Street career.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "The City of the Dead",
+        "certificate": "PG-13",
+        "runtime": "78 min",
+        "genre": "Horror, Mystery, Thriller",
+        "description": "A young college student arrives in a sleepy Massachusetts town to research witchcraft; during her stay at an eerie inn, she discovers a startling secret about the town and its inhabitants.",
+        "director": "",
+        "stars": []
+    }
+}

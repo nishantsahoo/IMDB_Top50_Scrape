@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "The Goonies",
+        "certificate": "PG",
+        "runtime": "114 min",
+        "genre": "Adventure, Comedy, Family",
+        "description": "A group of young misfits who call themselves The Goonies discover an ancient map and set out on a quest to find a legendary pirate's long-lost treasure.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "Back to the Future",
+        "certificate": "PG",
+        "runtime": "116 min",
+        "genre": "Adventure, Comedy, Sci-Fi",
+        "description": "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "The Breakfast Club",
+        "certificate": "R",
+        "runtime": "97 min",
+        "genre": "Comedy, Drama",
+        "description": "Five high school students meet in Saturday detention and discover how they have a lot more in common than they thought.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "Legend",
+        "certificate": "PG",
+        "runtime": "94 min",
+        "genre": "Adventure, Fantasy, Romance",
+        "description": "A young man must stop the Lord of Darkness from both destroying daylight and marrying the woman he loves.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "Weird Science",
+        "certificate": "PG-13",
+        "runtime": "94 min",
+        "genre": "Comedy, Romance, Sci-Fi",
+        "description": "Two high school nerds attempt to create the perfect woman, but she turns out to be more than that.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "Rocky IV",
+        "certificate": "PG",
+        "runtime": "91 min",
+        "genre": "Drama, Sport",
+        "description": "Rocky Balboa proudly holds the world heavyweight boxing championship, but a new challenger has stepped forward: Drago, a six-foot-four, 261-pound fighter who has the backing of the Soviet Union.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "Teen Wolf",
+        "certificate": "PG",
+        "runtime": "91 min",
+        "genre": "Comedy, Fantasy",
+        "description": "An ordinary high school student discovers that his family has an unusual pedigree when he finds himself turning into a werewolf.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "Clue",
+        "certificate": "PG",
+        "runtime": "94 min",
+        "genre": "Comedy, Crime, Mystery",
+        "description": "Six guests are anonymously invited to a strange mansion for dinner, but after their host is killed, they must cooperate with the staff to identify the murderer as the bodies pile up.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "St. Elmo's Fire",
+        "certificate": "R",
+        "runtime": "110 min",
+        "genre": "Drama, Romance",
+        "description": "A group of friends, just out of college, struggle with adulthood.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "Brazil",
+        "certificate": "R",
+        "runtime": "132 min",
+        "genre": "Drama, Sci-Fi",
+        "description": "A bureaucrat, in a retro-future world, tries to correct an administrative error and becomes an enemy of the state.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "Rambo: First Blood Part II",
+        "certificate": "R",
+        "runtime": "96 min",
+        "genre": "Action, Adventure, Thriller",
+        "description": "John Rambo is released from prison by the government for a top-secret covert mission to the last place on Earth he'd want to return - the jungles of Vietnam.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "Mask",
+        "certificate": "PG-13",
+        "runtime": "120 min",
+        "genre": "Biography, Drama",
+        "description": "A teenager with a massive facial skull deformity and biker gang mother attempt to live as normal a life as possible under the circumstances.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "A Chorus Line",
+        "certificate": "PG-13",
+        "runtime": "113 min",
+        "genre": "Drama, Music, Musical",
+        "description": "Hopefuls try out before a demanding director for a part in a new musical.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "The Color Purple",
+        "certificate": "PG-13",
+        "runtime": "154 min",
+        "genre": "Drama",
+        "description": "A black Southern woman struggles to find her identity after suffering abuse from her father and others over four decades.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "Commando",
+        "certificate": "R",
+        "runtime": "90 min",
+        "genre": "Action, Adventure, Thriller",
+        "description": "A retired Special Forces colonel tries to save his daughter, who was abducted by his former subordinate.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "Witness",
+        "certificate": "R",
+        "runtime": "112 min",
+        "genre": "Crime, Drama, Romance",
+        "description": "A young Amish boy is sole witness to a murder; policeman John Book goes into hiding in Amish country to protect him until the trial.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "A View to a Kill",
+        "certificate": "PG",
+        "runtime": "131 min",
+        "genre": "Action, Adventure, Thriller",
+        "description": "An investigation of a horse-racing scam leads 007 to a mad industrialist who plans to create a worldwide microchip monopoly by destroying California's Silicon Valley.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Come and See",
+        "certificate": "Not Rated",
+        "runtime": "142 min",
+        "genre": "Drama, War",
+        "description": "After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors of World War II.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "Mad Max Beyond Thunderdome",
+        "certificate": "PG-13",
+        "runtime": "107 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "After being exiled from the most advanced town in post apocalyptic Australia, a drifter travels with a group of abandoned children to rebel against the town's queen.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "Cocoon",
+        "certificate": "PG-13",
+        "runtime": "117 min",
+        "genre": "Comedy, Drama, Sci-Fi",
+        "description": "When a group of trespassing seniors swim in a pool containing alien cocoons, they find themselves energized with youthful vigor.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "Pale Rider",
+        "certificate": "R",
+        "runtime": "115 min",
+        "genre": "Western",
+        "description": "A mysterious preacher protects a humble prospector village from a greedy mining company trying to encroach on their land.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "After Hours",
+        "certificate": "R",
+        "runtime": "97 min",
+        "genre": "Comedy, Crime, Drama",
+        "description": "An ordinary word processor has the worst night of his life after he agrees to visit a girl in Soho who he met that evening at a coffee shop.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "Out of Africa",
+        "certificate": "PG",
+        "runtime": "161 min",
+        "genre": "Biography, Drama, Romance",
+        "description": "In 20th-century colonial Kenya, a Danish baroness/plantation owner has a passionate love affair with a free-spirited big-game hunter.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "Fright Night",
+        "certificate": "R",
+        "runtime": "106 min",
+        "genre": "Horror, Thriller",
+        "description": "A teenager discovers that the newcomer in his neighborhood is a vampire, so he turns to an actor in a television horror show for help dealing with the undead.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "Silverado",
+        "certificate": "PG-13",
+        "runtime": "133 min",
+        "genre": "Action, Crime, Drama",
+        "description": "A misfit bunch of friends come together to right the injustices which exist in a small town.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "Return to Oz",
+        "certificate": "PG",
+        "runtime": "113 min",
+        "genre": "Adventure, Family, Fantasy",
+        "description": "Dorothy, saved from a psychiatric experiment by a mysterious girl, is somehow called back to Oz when a vain witch and the Nome King destroy everything that makes the magical land beautiful.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "Better Off Dead...",
+        "certificate": "PG",
+        "runtime": "97 min",
+        "genre": "Comedy, Romance",
+        "description": "A teenager has to deal with his girlfriend dumping him among family crises, homicidal paper boys, and a rival skier.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "Red Sonja",
+        "certificate": "PG-13",
+        "runtime": "89 min",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "A female Redhead sets out on a killing spree to avenge her family's murder.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "National Lampoon's European Vacation",
+        "certificate": "PG-13",
+        "runtime": "95 min",
+        "genre": "Adventure, Comedy",
+        "description": "The Griswolds win a vacation tour across Europe where the usual havoc ensues.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "Lifeforce",
+        "certificate": "R",
+        "runtime": "101 min",
+        "genre": "Action, Horror, Mystery",
+        "description": "A race of space vampires arrives in London and infects the populace, beginning an apocalyptic descent into chaos.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "Re-Animator",
+        "certificate": "Unrated",
+        "runtime": "105 min",
+        "genre": "Comedy, Horror, Sci-Fi",
+        "description": "After an odd new medical student arrives on campus, a dedicated local and his girlfriend become involved in bizarre experiments centering around the re-animation of dead tissue.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "Mischief",
+        "certificate": "R",
+        "runtime": "93 min",
+        "genre": "Comedy, Romance",
+        "description": "1956. Obsessed with the hottest girl in class, a gawky high school student takes a crash course in teenage coolness from his motorcycle rebel neighbour, under the watchful eye of the eternal symbol of teenage rebellion: James Dean.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "Girls Just Want to Have Fun",
+        "certificate": "PG",
+        "runtime": "90 min",
+        "genre": "Comedy, Music, Romance",
+        "description": "Janey is new in town and soon meets Lynne, who shares her passion for dancing in general and \"Dance TV\" in particular.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "Spies Like Us",
+        "certificate": "PG",
+        "runtime": "102 min",
+        "genre": "Adventure, Comedy",
+        "description": "Two bumbling government employees think they are U.S. spies, only to discover that they are actually decoys for Nuclear War.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "The Return of the Living Dead",
+        "certificate": "R",
+        "runtime": "91 min",
+        "genre": "Comedy, Horror, Sci-Fi",
+        "description": "When two bumbling employees at a medical supply warehouse accidentally release a deadly gas into the air, the vapors cause the dead to rise again as zombies.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "Friday the 13th: A New Beginning",
+        "certificate": "R",
+        "runtime": "92 min",
+        "genre": "Horror, Mystery, Thriller",
+        "description": "Still haunted by his past, Tommy Jarvis - who, as a child, killed Jason Voorhees - wonders if the serial killer is connected to a series of brutal murders occurring in and around the secluded halfway house where he now lives.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "Just One of the Guys",
+        "certificate": "PG-13",
+        "runtime": "90 min",
+        "genre": "Comedy, Romance",
+        "description": "Terry feels discriminated against when the summer jobs at Sun Tribune go to 2 guys. She decides to do something about it. She dresses like a guy and gets a haircut. Will students at the other high school notice? Girls notice \"him\".",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "Secret Admirer",
+        "certificate": "R",
+        "runtime": "90 min",
+        "genre": "Comedy, Romance",
+        "description": "An anonymous love letter left in Michael's locker on the last day of school wreaks havoc on his life and the lives of everyone who come in contact with it.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "A Room with a View",
+        "certificate": "Not Rated",
+        "runtime": "117 min",
+        "genre": "Drama, Romance",
+        "description": "In a Florence pensione circa 1900 with English guests, George and his dad offer their rooms with views to Lucy and her chaperone. Lucy and George get acquainted but Lucy returns to England. George and Lucy meet again but now she's engaged.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Cat's Eye",
+        "certificate": "PG-13",
+        "runtime": "94 min",
+        "genre": "Comedy, Horror, Thriller",
+        "description": "A stray cat is the linking element of three tales of suspense and horror.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Ran",
+        "certificate": "R",
+        "runtime": "162 min",
+        "genre": "Action, Drama",
+        "description": "In Medieval Japan, an elderly warlord retires, handing over his empire to his three sons. However, he vastly underestimates how the new-found power will corrupt them and cause them to turn on each other...and him.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "House",
+        "certificate": "R",
+        "runtime": "93 min",
+        "genre": "Comedy, Fantasy, Horror",
+        "description": "A troubled writer moves into a haunted house after inheriting it from his aunt.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Ladyhawke",
+        "certificate": "PG-13",
+        "runtime": "121 min",
+        "genre": "Adventure, Comedy, Drama",
+        "description": "Philipe Gastone, a thief, escapes from the dungeon at Aquila, sparking a manhunt. He is nearly captured when Captain Navarre befriends him. Navarre has been hunted by the Bishop's men for ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "Day of the Dead",
+        "certificate": "Not Rated",
+        "runtime": "96 min",
+        "genre": "Horror, Thriller",
+        "description": "A small group of military officers and scientists dwell in an underground bunker as the world above is overrun by zombies.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "Pee-wee's Big Adventure",
+        "certificate": "PG",
+        "runtime": "91 min",
+        "genre": "Adventure, Comedy, Family",
+        "description": "When eccentric man-child Pee-wee Herman gets his beloved bike stolen in broad daylight, he sets out across the U.S. on the adventure of his life.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "The Stuff",
+        "certificate": "R",
+        "runtime": "87 min",
+        "genre": "Comedy, Horror, Sci-Fi",
+        "description": "A delicious, mysterious goo that oozes from the earth is marketed as the newest dessert sensation, but the tasty treat rots more than teeth when zombie-like snackers who only want to consume more of the strange substance at any cost begin infesting the world.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "The Black Cauldron",
+        "certificate": "PG",
+        "runtime": "80 min",
+        "genre": "Animation, Action, Adventure",
+        "description": "A young boy and a bunch of misfit friends embark on a quest to find a dark magic item of ultimate power before a diabolical tyrant can.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "Real Genius",
+        "certificate": "PG",
+        "runtime": "108 min",
+        "genre": "Comedy, Romance, Sci-Fi",
+        "description": "Teenage geniuses deal with their abilities while developing a high-powered laser for a university project. When their professor intends to turn their work into a military weapon, they decide to ruin his plans.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "Private Resort",
+        "certificate": "R",
+        "runtime": "82 min",
+        "genre": "Comedy",
+        "description": "The story of two adolescent boys who are guests at a Florida resort for the week-end. Their only interest is, of course, chasing girls, but fate has much more in store for them.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "Perfect",
+        "certificate": "R",
+        "runtime": "115 min",
+        "genre": "Drama, Romance",
+        "description": "A female aerobics instructor meets a male reporter doing a story on health clubs, but it isn't love at first sight.",
+        "director": "",
+        "stars": []
+    }
+}

@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "Star Wars: Episode IV - A New Hope",
+        "certificate": "PG",
+        "runtime": "121 min",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "Suspiria",
+        "certificate": "R",
+        "runtime": "92 min",
+        "genre": "Horror",
+        "description": "An American newcomer to a prestigious German ballet academy comes to realize that the school is a front for something sinister amid a series of grisly murders.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "Saturday Night Fever",
+        "certificate": "R",
+        "runtime": "118 min",
+        "genre": "Drama, Music",
+        "description": "Anxious about his future after high school, a 19 year old Italian American from Brooklyn tries to escape the harsh reality of his bleak family life by dominating the dance floor at the local disco.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "Close Encounters of the Third Kind",
+        "certificate": "PG",
+        "runtime": "138 min",
+        "genre": "Drama, Sci-Fi",
+        "description": "Roy Neary, an electric lineman, watches how his quiet and ordinary daily life turns upside down after a close encounter with a UFO.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "Eraserhead",
+        "certificate": "Not Rated",
+        "runtime": "89 min",
+        "genre": "Horror",
+        "description": "Henry Spencer tries to survive his industrial environment, his angry girlfriend, and the unbearable screams of his newly born mutant child.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "The Spy Who Loved Me",
+        "certificate": "PG",
+        "runtime": "125 min",
+        "genre": "Action, Adventure, Thriller",
+        "description": "James Bond investigates the hijacking of British and Russian submarines carrying nuclear warheads, with the help of a K.G.B. Agent, whose lover he killed.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "Smokey and the Bandit",
+        "certificate": "PG",
+        "runtime": "96 min",
+        "genre": "Action, Comedy",
+        "description": "The Bandit is hired on to run a tractor trailer full of beer over state lines, in hot pursuit by a pesky sheriff.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "Annie Hall",
+        "certificate": "PG",
+        "runtime": "93 min",
+        "genre": "Comedy, Romance",
+        "description": "Neurotic New York comedian Alvy Singer falls in love with the ditzy Annie Hall.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "A Bridge Too Far",
+        "certificate": "PG",
+        "runtime": "175 min",
+        "genre": "Drama, History, War",
+        "description": "Operation Market Garden, September 1944: The Allies attempt to capture several strategically important bridges in the Netherlands in the hope of breaking the German lines. However, mismanagement and poor planning result in its failure.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "Sorcerer",
+        "certificate": "PG",
+        "runtime": "121 min",
+        "genre": "Adventure, Drama, Thriller",
+        "description": "Four unfortunate men from different parts of the globe agree to risk their lives transporting gallons of nitroglycerin across dangerous South American jungle.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "The Kentucky Fried Movie",
+        "certificate": "R",
+        "runtime": "83 min",
+        "genre": "Comedy",
+        "description": "A series of short, highly irreverent, and often tasteless skits.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "The Car",
+        "certificate": "PG",
+        "runtime": "96 min",
+        "genre": "Action, Horror, Mystery",
+        "description": "A small desert town is terrorized by a powerful, seemingly possessed car, and the local sheriff may be the only one who can stop it.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "Slap Shot",
+        "certificate": "R",
+        "runtime": "123 min",
+        "genre": "Comedy, Drama, Sport",
+        "description": "A failing ice hockey team finds success with outrageously violent hockey goonery.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "The Deep",
+        "certificate": "PG",
+        "runtime": "123 min",
+        "genre": "Adventure, Mystery, Thriller",
+        "description": "In Bermuda, two amateur treasure-hunting divers have a run-in with local criminals when they inadvertently discover the secret cargo of a World War II shipwreck.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "The Many Adventures of Winnie the Pooh",
+        "certificate": "G",
+        "runtime": "74 min",
+        "genre": "Animation, Comedy, Family",
+        "description": "A collection of animated shorts based on the stories and characters by A. A. Milne.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "The Hills Have Eyes",
+        "certificate": "R",
+        "runtime": "90 min",
+        "genre": "Horror, Thriller",
+        "description": "On the way to California, a family has the misfortune to have their car break down in an area closed to the public, and inhabited by violent savages ready to attack.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "The Rescuers",
+        "certificate": "G",
+        "runtime": "78 min",
+        "genre": "Animation, Adventure, Comedy",
+        "description": "Two mice of the Rescue Aid Society search for a little girl kidnapped by unscrupulous treasure hunters.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Orca",
+        "certificate": "PG",
+        "runtime": "92 min",
+        "genre": "Adventure, Drama, Horror",
+        "description": "A hunter squares off against a killer whale seeking vengeance for the death of its mate.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "New York, New York",
+        "certificate": "PG",
+        "runtime": "155 min",
+        "genre": "Drama, Music, Musical",
+        "description": "An egotistical saxophonist and a young singer meet on V-J Day and embark upon a strained and rocky romance, even as their careers begin a long, up-hill climb.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "Rabid",
+        "certificate": "R",
+        "runtime": "91 min",
+        "genre": "Horror, Sci-Fi",
+        "description": "A young woman develops a taste for human blood after undergoing experimental plastic surgery, and her victims turn into rabid, blood-thirsty zombies who proceed to infect others, which turns into a city-wide epidemic.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "3 Women",
+        "certificate": "PG",
+        "runtime": "124 min",
+        "genre": "Drama, Mystery, Thriller",
+        "description": "Two roommates/physical therapists, one a vain woman and the other a mysterious teenager, share a bizarre relationship.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "Capricorn One",
+        "certificate": "PG",
+        "runtime": "123 min",
+        "genre": "Action, Thriller",
+        "description": "A NASA Mars mission won't work, and its funding is endangered, so they decide to fake it just this once. But then they have to keep the secret.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "Hausu",
+        "certificate": "Not Rated",
+        "runtime": "88 min",
+        "genre": "Comedy, Horror",
+        "description": "A schoolgirl and six of her classmates travel to her aunt's country home, which turns out to be haunted.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "Bilitis",
+        "certificate": "R",
+        "runtime": "95 min",
+        "genre": "Drama, Romance",
+        "description": "A coming of age story centering on the exploits of a young girl during summer vacation.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "The Gauntlet",
+        "certificate": "R",
+        "runtime": "109 min",
+        "genre": "Action, Crime, Thriller",
+        "description": "A hard but mediocre cop is assigned to escort a prostitute into custody from Las Vegas to Phoenix, so that she can testify in a mob trial. But a lot of people are literally betting that they won't make it into town alive.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "Pete's Dragon",
+        "certificate": "G",
+        "runtime": "128 min",
+        "genre": "Animation, Adventure, Comedy",
+        "description": "An orphan boy and his magical dragon come to town with his abusive adoptive parents in pursuit.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "Exorcist II: The Heretic",
+        "certificate": "R",
+        "runtime": "117 min",
+        "genre": "Horror",
+        "description": "A teenage girl once possessed by a demon finds that it still lurks within her. Meanwhile, a priest investigates the death of the girl's exorcist.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "The Island of Dr. Moreau",
+        "certificate": "PG",
+        "runtime": "99 min",
+        "genre": "Adventure, Fantasy, Horror",
+        "description": "A shipwrecked survivor discovers a remote island owned by a crazed scientist who is carrying out sinister experiments on the island's inhabitants.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "Cross of Iron",
+        "certificate": "R",
+        "runtime": "119 min",
+        "genre": "Drama, War",
+        "description": "A German commander places a squad in extreme danger after its Sergeant refuses to lie for him.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "Looking for Mr. Goodbar",
+        "certificate": "R",
+        "runtime": "136 min",
+        "genre": "Drama",
+        "description": "A dedicated schoolteacher spends her nights cruising bars, looking for abusive men with whom she can engage in progressively violent sexual encounters.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "That Obscure Object of Desire",
+        "certificate": "R",
+        "runtime": "103 min",
+        "genre": "Comedy, Drama",
+        "description": "Recounted in flashback are the romantic perils of Mathieu, a middle-aged French sophisticate as he falls for his nineteen year-old former chambermaid Conchita.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "The Sentinel",
+        "certificate": "R",
+        "runtime": "92 min",
+        "genre": "Horror",
+        "description": "Not ready for marriage, a fashion model moves into an unbelievably cheap Brooklyn Heights apartment, where weird occurrences turn into a much more frightening turn of events.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "Jabberwocky",
+        "certificate": "PG",
+        "runtime": "105 min",
+        "genre": "Adventure, Comedy, Fantasy",
+        "description": "A young peasant, with no interest in adventure or fortune, is mistaken as the kingdom's only hope when a horrible monster threatens the countryside.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "Julia",
+        "certificate": "PG",
+        "runtime": "117 min",
+        "genre": "Drama",
+        "description": "At the behest of an old and dear friend, playwright Lillian Hellman undertakes a dangerous mission to smuggle funds into Nazi Germany.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "Wizards",
+        "certificate": "PG",
+        "runtime": "80 min",
+        "genre": "Animation, Adventure, Fantasy",
+        "description": "On a post-apocalyptic Earth, a wizard and his faire folk comrades fight an evil wizard who's using technology in his bid for conquest.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "Damnation Alley",
+        "certificate": "PG",
+        "runtime": "91 min",
+        "genre": "Sci-Fi",
+        "description": "In a post-apocalyptic world, a group of survivors travel and find other settlements in huge custom designed all terrain vehicles.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "The Goodbye Girl",
+        "certificate": "PG",
+        "runtime": "111 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "After being dumped by her live-in boyfriend, an unemployed dancer and her 10-year-old daughter are reluctantly forced to live with a struggling off-Broadway actor.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "The White Buffalo",
+        "certificate": "PG",
+        "runtime": "97 min",
+        "genre": "Action, Adventure, Western",
+        "description": "At the closing of 1874 a haunted, dying Wild Bill Hickcock teams up with a grieving Crazy Horse to hunt a murderous albino buffalo.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "The Duellists",
+        "certificate": "PG",
+        "runtime": "100 min",
+        "genre": "Drama, War",
+        "description": "A small feud between two Napoleonic officers evolves into a decades-long series of duels.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Emanuelle and the Last Cannibals",
+        "certificate": "",
+        "runtime": "85 min",
+        "genre": "Adventure, Horror",
+        "description": "A hedonistic photojournalist and an anthropologist traverse the Amazon Jungle to unearth the origins behind a mysterious woman, reputed to have been raised by a cannibal tribe.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Valentino",
+        "certificate": "R",
+        "runtime": "128 min",
+        "genre": "Biography, Drama",
+        "description": "In 1926 the tragic and untimely death of a silent screen actor caused female moviegoers to riot in the streets and in some cases to commit suicide - that actor was Rudolph Valentino. ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "Jungle Holocaust",
+        "certificate": "R",
+        "runtime": "88 min",
+        "genre": "Adventure, Horror",
+        "description": "An oil prospector escapes from capture by a primitive cannibal tribe in the Philippine rain forest and heads out to locate his missing companion and their plane to return home.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Demon Seed",
+        "certificate": "R",
+        "runtime": "94 min",
+        "genre": "Horror, Sci-Fi",
+        "description": "A scientist creates Proteus--an organic super computer with artificial intelligence which becomes obsessed with human beings, and in particular the creators wife.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "The American Friend",
+        "certificate": "Not Rated",
+        "runtime": "125 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "Tom Ripley, who deals in forged art, suggests a picture framer he knows would make a good hit man.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "Maladolescenza",
+        "certificate": "",
+        "runtime": "93 min",
+        "genre": "Drama, Romance",
+        "description": "A teen boy grows from playing and fighting with his German-shepherd dog, to playing kids and adult games with two equally young girls, in a dream-like forest which eventually turns eerie, and somber.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "High Anxiety",
+        "certificate": "PG",
+        "runtime": "94 min",
+        "genre": "Comedy, Mystery",
+        "description": "Mel Brooks' parody of Alfred Hitchcock films.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "Airport '77",
+        "certificate": "PG",
+        "runtime": "114 min",
+        "genre": "Action, Drama, Thriller",
+        "description": "Art thieves hijack a 747, hit fog and crash into the ocean, trapping them and the passengers under one hundred feet of water.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "Voodoo Passion",
+        "certificate": "Not Rated",
+        "runtime": "89 min",
+        "genre": "Crime, Drama",
+        "description": "Susan arrives in Haiti to live with her husband Jack, who lives with a lesbian housekeeper and Olga, a nymphomaniac platinum blonde, introduced to her as Jack's sister. Susan begins to have...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "Sinbad and the Eye of the Tiger",
+        "certificate": "G",
+        "runtime": "113 min",
+        "genre": "Action, Adventure, Family",
+        "description": "Sinbad The Sailor sails to deliver a cursed prince to a dangerous island in the face of deadly opposition from a powerful witch.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "Rolling Thunder",
+        "certificate": "R",
+        "runtime": "95 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "A returning war veteran loses his family to a violent home invasion and decides to seek and retaliate against those responsible.",
+        "director": "",
+        "stars": []
+    }
+}

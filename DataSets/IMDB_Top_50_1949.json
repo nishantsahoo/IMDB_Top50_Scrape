@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "The Third Man",
+        "certificate": "Not Rated",
+        "runtime": "93 min",
+        "genre": "Film-Noir, Mystery, Thriller",
+        "description": "Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "On the Town",
+        "certificate": "Not Rated",
+        "runtime": "98 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "Three sailors on a day of shore leave in New York City look for fun and romance before their twenty-four hours are up.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "She Wore a Yellow Ribbon",
+        "certificate": "Passed",
+        "runtime": "104 min",
+        "genre": "Western",
+        "description": "Captain Nathan Brittles, on the eve of retirement, takes out a last patrol to stop an impending massive Indian attack. Encumbered by women who must be evacuated, Brittles finds his mission imperiled.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "Kind Hearts and Coronets",
+        "certificate": "Not Rated",
+        "runtime": "106 min",
+        "genre": "Comedy, Crime",
+        "description": "A distant poor relative of the Duke of D'Ascoyne plots to inherit the title by murdering the eight other heirs who stand ahead of him in the line of succession.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "The Fighting Kentuckian",
+        "certificate": "Passed",
+        "runtime": "100 min",
+        "genre": "Adventure, Romance, War",
+        "description": "In 1818 Alabama, French settlers are pitted against greedy land-grabber Blake Randolph but Kentucky militiaman John Breen, who's smitten with French gal Fleurette De Marchand, comes to the settlers' aid.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "Samson and Delilah",
+        "certificate": "Approved",
+        "runtime": "131 min",
+        "genre": "Adventure, Drama, History",
+        "description": "When strongman Samson rejects the love of the beautiful Philistine woman Delilah, she seeks vengeance that brings horrible consequences they both regret.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "John Loves Mary",
+        "certificate": "Approved",
+        "runtime": "96 min",
+        "genre": "Comedy",
+        "description": "A GI marries the English girlfriend of his best friend to get her into the U.S. for his friend who lost track of her in the war only to find on returning home that he is stuck with the girl because the friend has married someone else.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "The Heiress",
+        "certificate": "Not Rated",
+        "runtime": "115 min",
+        "genre": "Drama, Romance",
+        "description": "A young naive woman falls for a handsome young man who her emotionally abusive father suspects is a fortune hunter.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "White Heat",
+        "certificate": "Not Rated",
+        "runtime": "114 min",
+        "genre": "Action, Crime, Drama",
+        "description": "A psychopathic criminal with a mother complex makes a daring break from prison and leads his old gang in a chemical plant payroll heist. Shortly after the plan takes place, events take a crazy turn.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "Border Incident",
+        "certificate": "Passed",
+        "runtime": "94 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "Mexican and American federal agents tackle a vicious gang exploiting illegal farm workers in southern California.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "Adam's Rib",
+        "certificate": "Not Rated",
+        "runtime": "101 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Domestic and professional tensions mount when a husband and wife work as opposing lawyers in a case involving a woman who shot her husband.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "Batman and Robin",
+        "certificate": "Approved",
+        "runtime": "263 min",
+        "genre": "Action, Adventure, Crime",
+        "description": "The caped crusaders versus The Wizard, black-hooded mastermind.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "The Secret Garden",
+        "certificate": "Approved",
+        "runtime": "92 min",
+        "genre": "Drama, Family",
+        "description": "A girl is sent to live with her uncle on his estate when her parents die. There she discovers much intrigue, family history and secrets and personal baggage. In particular, a screaming child and...a secret garden.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "Little Women",
+        "certificate": "Approved",
+        "runtime": "122 min",
+        "genre": "Drama, Family, Romance",
+        "description": "A group of sisters experience life's difficulties and its pleasures while growing up in nineteenth-century America.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "All the King's Men",
+        "certificate": "Approved",
+        "runtime": "110 min",
+        "genre": "Drama, Film-Noir",
+        "description": "The rise and fall of a corrupt politician, who makes his friends richer and retains power by dint of a populist appeal.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "The Fountainhead",
+        "certificate": "Approved",
+        "runtime": "114 min",
+        "genre": "Drama, Romance",
+        "description": "An uncompromising, visionary architect struggles to maintain his integrity and individualism despite personal, professional and economic pressures to conform to popular standards.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "The Blue Lagoon",
+        "certificate": "Not Rated",
+        "runtime": "101 min",
+        "genre": "Adventure, Drama, Romance",
+        "description": "In the Victorian period, two children are shipwrecked on a tropical island in the South Pacific and fall in love while growing up together.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Act of Violence",
+        "certificate": "Passed",
+        "runtime": "82 min",
+        "genre": "Drama, Film-Noir, Thriller",
+        "description": "An embittered, vengeful POW stalks his former commanding officer who betrayed his men's planned escape attempt from a Nazi prison camp.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "D.O.A.",
+        "certificate": "Approved",
+        "runtime": "83 min",
+        "genre": "Drama, Film-Noir, Mystery",
+        "description": "Frank Bigelow, told he's been poisoned and has only a few days to live, tries to find out who killed him and why.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "Sands of Iwo Jima",
+        "certificate": "Approved",
+        "runtime": "100 min",
+        "genre": "Action, Drama, Romance",
+        "description": "A dramatization of the World War II Battle of Iwo Jima.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "Twelve O'Clock High",
+        "certificate": "Not Rated",
+        "runtime": "132 min",
+        "genre": "Drama, War",
+        "description": "A hard-as-nails general takes over a bomber unit suffering from low morale and whips them into fighting shape.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "Late Spring",
+        "certificate": "Not Rated",
+        "runtime": "108 min",
+        "genre": "Drama",
+        "description": "Noriko is twenty-seven years old and still living with her widowed father. Everybody tries to talk her into marrying, but Noriko wants to stay at home caring for her father.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "Stray Dog",
+        "certificate": "Not Rated",
+        "runtime": "122 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "During a sweltering summer, a rookie homicide detective tries to track down his stolen Colt pistol.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "Silent Dust",
+        "certificate": "",
+        "runtime": "82 min",
+        "genre": "Drama",
+        "description": "A wealthy blind man is determined to build a cricket pavilion as a memorial to his dead son, who was killed in battle in World War II. Not long before the dedication ceremony is to be held,...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "Criss Cross",
+        "certificate": "Not Rated",
+        "runtime": "84 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "An armored truck driver and his lovely ex-wife conspire with a gang to have his own truck robbed on the route.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "Battleground",
+        "certificate": "Approved",
+        "runtime": "118 min",
+        "genre": "Action, Drama, History",
+        "description": "True tale about a squad of the 101st Airborne Division coping with being trapped by the Nazis in the besieged city of Bastogne, Belgium during the Battle of the Bulge in December of 1944.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "The Adventures of Ichabod and Mr. Toad",
+        "certificate": "Approved",
+        "runtime": "68 min",
+        "genre": "Animation, Comedy, Family",
+        "description": "An animated adaptation of \"The Wind in the Willows\" followed by an adaptation of \"The Legend of Sleepy Hollow\".",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "A Letter to Three Wives",
+        "certificate": "Not Rated",
+        "runtime": "103 min",
+        "genre": "Drama, Romance",
+        "description": "A letter is addressed to three wives from their \"best friend\" Addie Ross, announcing that she is running away with one of their husbands...but she does not say which one.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "Too Late for Tears",
+        "certificate": "Not Rated",
+        "runtime": "99 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "Through a fluke circumstance a ruthless woman stumbles across a suitcase filled with $60,000, and she is determined to hold onto it even if it means murder.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "Whisky Galore",
+        "certificate": "Approved",
+        "runtime": "80 min",
+        "genre": "Comedy, Crime",
+        "description": "Scottish islanders try to plunder 50,000 cases of whisky from a stranded ship.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "Under Capricorn",
+        "certificate": "Approved",
+        "runtime": "117 min",
+        "genre": "Crime, Drama, Romance",
+        "description": "A young gentleman goes to Australia where he reunites with his now married childhood sweetheart, only to find out she has become an alcoholic and harbors dark secrets.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "Mighty Joe Young",
+        "certificate": "Approved",
+        "runtime": "84 min",
+        "genre": "Adventure, Drama, Fantasy",
+        "description": "A young woman who has raised a giant gorilla from an infant brings him to Hollywood years later seeking her fortune in order to save her family's ranch.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "The Great Gatsby",
+        "certificate": "",
+        "runtime": "91 min",
+        "genre": "Drama",
+        "description": "A Jazz Age bootlegger learns the hard way about the wages of sin.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "Impact",
+        "certificate": "Approved",
+        "runtime": "111 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "A unfaithful wife plots with her lover to kill her husband, but the lover is accidentally killed instead. The husband stays in hiding, and lets his wife be charged with conspiracy.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "Pinky",
+        "certificate": "Approved",
+        "runtime": "102 min",
+        "genre": "Drama",
+        "description": "A light-skinned black woman falls in love with a white doctor, though he is unaware of her true race.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "Champion",
+        "certificate": "Approved",
+        "runtime": "99 min",
+        "genre": "Drama, Film-Noir, Sport",
+        "description": "Boxer Midge Kelly rises to fame...mainly by stepping on other people.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "The Great Sinner",
+        "certificate": "Approved",
+        "runtime": "110 min",
+        "genre": "Drama",
+        "description": "A young writer goes to Wiesbaden to write about gambling and gamblers, only to ultimately become a compulsive gambler himself. Losing all his wealth, as well as his moral fibre, he commits ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "Jour de F\u00eate",
+        "certificate": "Not Rated",
+        "runtime": "70 min",
+        "genre": "Comedy",
+        "description": "Once a year the fair comes for one day to the little town 'Sainte-Severe-sur-Indre'. All inhabitants are scoffing at Francois, the postman, what he seems not to recognize. The rising of the...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "The Passionate Friends",
+        "certificate": "Approved",
+        "runtime": "95 min",
+        "genre": "Drama",
+        "description": "The Passionate Friends were in love when young, but separated, and she married an older man. Then Mary Justin meets Steven Stratton again and they have one last fling together in the Alps.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Knock on Any Door",
+        "certificate": "Approved",
+        "runtime": "100 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "An attorney defends a hoodlum of murder, using the oppressiveness of the slums to appeal to the court.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Love Happy",
+        "certificate": "Passed",
+        "runtime": "85 min",
+        "genre": "Comedy, Crime, Music",
+        "description": "The Marx Brothers help young Broadway hopefuls while thwarting diamond thieves.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "Passport to Pimlico",
+        "certificate": "Approved",
+        "runtime": "84 min",
+        "genre": "Comedy",
+        "description": "Residents of a part of London declare independence, when they discover an old treaty. This leads to the need for a 'Passport to Pimlico'.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Madame Bovary",
+        "certificate": "Passed",
+        "runtime": "114 min",
+        "genre": "Drama, Romance",
+        "description": "A provincial doctor's wife's romantic illusions about life and social status lead her to betray her naive husband, take on lovers and run up ruinous debts.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "Take Me Out to the Ball Game",
+        "certificate": "Approved",
+        "runtime": "93 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "Two turn-of-the-century baseball players, who work in vaudeville during the off-season, run into trouble with their team's new female owner and a gambler who doesn't want them to win the pennant.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "The Inspector General",
+        "certificate": "Approved",
+        "runtime": "102 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "A town's corrupt officials think a fool is actually an investigator in disguise.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Reign of Terror",
+        "certificate": "Approved",
+        "runtime": "89 min",
+        "genre": "History, Romance, Thriller",
+        "description": "Robespierrre, a powerful figure in the French revolution, is desperately looking for his black book, a death list of those marked for the guillotine.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "Le Silence de la Mer",
+        "certificate": "Not Rated",
+        "runtime": "87 min",
+        "genre": "Drama, Romance, War",
+        "description": "1941 in a small town in Nazi occupied France. Against the will of its elderly male and his adult niece residents, the Nazis commandeer a house for one of their officers, Lt. Werner von ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "Beyond the Forest",
+        "certificate": "Approved",
+        "runtime": "97 min",
+        "genre": "Drama, Film-Noir, Romance",
+        "description": "Resentful of her small-town life, a married woman schemes to run off with a rich businessman.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "Scene of the Crime",
+        "certificate": "Passed",
+        "runtime": "94 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "Homicide detective Mike Conovan investigates the shooting of fellow detective Monigan...who apparrently was moonlighting as guard for a bookie. He finds that all the bookies in town are ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "In the Good Old Summertime",
+        "certificate": "Approved",
+        "runtime": "102 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "In turn-of-the century America, Andrew and Veronica are co-workers in a music shop who dislike one another during working hours but unwillingly carry on an anonymous romance through the mail.",
+        "director": "",
+        "stars": []
+    }
+}

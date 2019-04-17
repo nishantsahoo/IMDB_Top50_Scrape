@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "Split",
+        "certificate": "PG-13",
+        "runtime": "117 min",
+        "genre": "Horror, Thriller",
+        "description": "Three girls are kidnapped by a man with a diagnosed 23 distinct personalities. They must try to escape before the apparent emergence of a frightful new 24th.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "Suicide Squad",
+        "certificate": "PG-13",
+        "runtime": "123 min",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force. Their first mission: save the world from the apocalypse.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "X-Men: Apocalypse",
+        "certificate": "PG-13",
+        "runtime": "144 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "In the 1980s the X-Men must defeat an ancient all-powerful mutant, En Sabah Nur, who intends to thrive through bringing destruction to the world.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "Captain America: Civil War",
+        "certificate": "PG-13",
+        "runtime": "147 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "Batman v Superman: Dawn of Justice",
+        "certificate": "PG-13",
+        "runtime": "151 min",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "Fearing that the actions of Superman are left unchecked, Batman takes on the Man of Steel, while the world wrestles with what kind of a hero it really needs.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "Deadpool",
+        "certificate": "R",
+        "runtime": "108 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "Me Before You",
+        "certificate": "PG-13",
+        "runtime": "106 min",
+        "genre": "Drama, Romance",
+        "description": "A girl in a small town forms an unlikely bond with a recently-paralyzed man she's taking care of.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "Passengers",
+        "certificate": "PG-13",
+        "runtime": "116 min",
+        "genre": "Drama, Romance, Sci-Fi",
+        "description": "A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "The Invisible Guest",
+        "certificate": "",
+        "runtime": "106 min",
+        "genre": "Crime, Mystery, Thriller",
+        "description": "While the clock is ticking, with the aid of a witness preparation expert, a successful entrepreneur accused of murder has less than three hours to come up with an impregnable defence.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "Moana",
+        "certificate": "PG",
+        "runtime": "107 min",
+        "genre": "Animation, Adventure, Comedy",
+        "description": "In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches Moana's island, she answers the Ocean's call to seek out the Demigod to set things right.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "Doctor Strange",
+        "certificate": "PG-13",
+        "runtime": "115 min",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "Fantastic Beasts and Where to Find Them",
+        "certificate": "PG-13",
+        "runtime": "133 min",
+        "genre": "Adventure, Family, Fantasy",
+        "description": "The adventures of writer Newt Scamander in New York's secret community of witches and wizards seventy years before Harry Potter reads his book in school.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "The Girl on the Train",
+        "certificate": "R",
+        "runtime": "112 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "A divorcee becomes entangled in a missing persons investigation that promises to send shockwaves throughout her life.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "The Magnificent Seven",
+        "certificate": "PG-13",
+        "runtime": "132 min",
+        "genre": "Action, Adventure, Western",
+        "description": "Seven gunmen from a variety of backgrounds are brought together by a vengeful young widow to protect her town from the private army of a destructive industrialist.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "Sing",
+        "certificate": "PG",
+        "runtime": "108 min",
+        "genre": "Animation, Comedy, Family",
+        "description": "In a city of humanoid animals, a hustling theater impresario's attempt to save his theater with a singing competition becomes grander than he anticipates even as its finalists find that their lives will never be the same.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "Rogue One",
+        "certificate": "PG-13",
+        "runtime": "133 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "The daughter of an Imperial scientist joins the Rebel Alliance in a risky move to steal the Death Star plans.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "La La Land",
+        "certificate": "PG-13",
+        "runtime": "128 min",
+        "genre": "Comedy, Drama, Music",
+        "description": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Lion",
+        "certificate": "PG-13",
+        "runtime": "118 min",
+        "genre": "Biography, Drama",
+        "description": "A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia. 25 years later, he sets out to find his lost family.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "The Jungle Book",
+        "certificate": "PG",
+        "runtime": "106 min",
+        "genre": "Adventure, Drama, Family",
+        "description": "After a threat from the tiger Shere Khan forces him to flee the jungle, a man-cub named Mowgli embarks on a journey of self discovery with the help of panther Bagheera and free-spirited bear Baloo.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "Hacksaw Ridge",
+        "certificate": "R",
+        "runtime": "139 min",
+        "genre": "Biography, Drama, History",
+        "description": "World War II American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people, and becomes the first man in American history to receive the Medal of Honor without firing a shot.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "Nocturnal Animals",
+        "certificate": "R",
+        "runtime": "116 min",
+        "genre": "Drama, Thriller",
+        "description": "A wealthy art gallery owner is haunted by her ex-husband's novel, a violent thriller she interprets as a symbolic revenge tale.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "Arrival",
+        "certificate": "PG-13",
+        "runtime": "116 min",
+        "genre": "Drama, Mystery, Sci-Fi",
+        "description": "A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecraft appear around the world.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "The Nice Guys",
+        "certificate": "R",
+        "runtime": "116 min",
+        "genre": "Action, Comedy, Crime",
+        "description": "In 1970s Los Angeles, a mismatched pair of private eyes investigate a missing girl and the mysterious death of a porn star.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "Lady Macbeth",
+        "certificate": "R",
+        "runtime": "89 min",
+        "genre": "Drama, Romance",
+        "description": "In 19th-century rural England, a young bride who has been sold into marriage discovers an unstoppable desire within herself as she enters into an affair with a worker on her estate.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "The Accountant",
+        "certificate": "R",
+        "runtime": "128 min",
+        "genre": "Action, Crime, Drama",
+        "description": "As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities, and the body count starts to rise.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "Moonlight",
+        "certificate": "R",
+        "runtime": "111 min",
+        "genre": "Drama",
+        "description": "A chronicle of the childhood, adolescence and burgeoning adulthood of a young, African-American, gay man growing up in a rough neighborhood of Miami.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "The Neon Demon",
+        "certificate": "R",
+        "runtime": "117 min",
+        "genre": "Horror, Thriller",
+        "description": "An aspiring model, Jesse, is new to Los Angeles. However, her beauty and youth, which generate intense fascination and jealousy within the fashion industry, may prove themselves sinister.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "Hell or High Water",
+        "certificate": "R",
+        "runtime": "102 min",
+        "genre": "Action, Crime, Drama",
+        "description": "A divorced father and his ex-con older brother resort to a desperate scheme in order to save their family's ranch in West Texas.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "Silence",
+        "certificate": "R",
+        "runtime": "161 min",
+        "genre": "Adventure, Drama, History",
+        "description": "In the 17th century, two Portuguese Jesuit priests travel to Japan in an attempt to locate their mentor, who is rumored to have committed apostasy, and to propagate Catholicism.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "The Legend of Tarzan",
+        "certificate": "PG-13",
+        "runtime": "110 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "Tarzan, having acclimated to life in London, is called back to his former home in the jungle to investigate the activities at a mining encampment.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "The Secret Life of Pets",
+        "certificate": "PG",
+        "runtime": "87 min",
+        "genre": "Animation, Adventure, Comedy",
+        "description": "The quiet life of a terrier named Max is upended when his owner takes in Duke, a stray whom Max instantly dislikes.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "Hidden Figures",
+        "certificate": "PG",
+        "runtime": "127 min",
+        "genre": "Biography, Drama, History",
+        "description": "The story of a team of female African-American mathematicians who served a vital role in NASA during the early years of the U.S. space program.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "The Edge of Seventeen",
+        "certificate": "R",
+        "runtime": "104 min",
+        "genre": "Comedy, Drama",
+        "description": "High-school life gets even more unbearable for Nadine when her best friend, Krista, starts dating her older brother.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "Your Name.",
+        "certificate": "PG",
+        "runtime": "106 min",
+        "genre": "Animation, Drama, Fantasy",
+        "description": "Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "Ghostbusters",
+        "certificate": "PG-13",
+        "runtime": "116 min",
+        "genre": "Action, Comedy, Fantasy",
+        "description": "Following a ghost invasion of Manhattan, paranormal enthusiasts Erin Gilbert and Abby Yates, nuclear engineer Jillian Holtzmann, and subway worker Patty Tolan band together to stop the otherworldly threat.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "War Dogs",
+        "certificate": "R",
+        "runtime": "114 min",
+        "genre": "Comedy, Crime, Drama",
+        "description": "Loosely based on the true story of two young men, David Packouz and Efraim Diveroli, who won a three hundred million dollar contract from the Pentagon to arm America's allies in Afghanistan.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "Now You See Me 2",
+        "certificate": "PG-13",
+        "runtime": "129 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "The Four Horsemen resurface, and are forcibly recruited by a tech genius to pull off their most impossible heist yet.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "Zootopia",
+        "certificate": "PG",
+        "runtime": "108 min",
+        "genre": "Animation, Adventure, Comedy",
+        "description": "In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "The Conjuring 2",
+        "certificate": "R",
+        "runtime": "134 min",
+        "genre": "Drama, Horror, Mystery",
+        "description": "Ed and Lorraine Warren travel to North London to help a single mother raising 4 children alone in a house plagued by a supernatural spirit.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Don't Breathe",
+        "certificate": "R",
+        "runtime": "88 min",
+        "genre": "Crime, Horror, Thriller",
+        "description": "Hoping to walk away with a massive fortune, a trio of thieves break into the house of a blind man who isn't as helpless as he seems.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Snowden",
+        "certificate": "R",
+        "runtime": "134 min",
+        "genre": "Biography, Drama, Thriller",
+        "description": "The NSA's illegal surveillance techniques are leaked to the public by one of the agency's employees, Edward Snowden, in the form of thousands of classified documents distributed to the press.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "A Cure for Wellness",
+        "certificate": "R",
+        "runtime": "146 min",
+        "genre": "Drama, Fantasy, Horror",
+        "description": "An ambitious young executive is sent to retrieve his company's CEO from an idyllic but mysterious \"wellness center\" at a remote location in the Swiss Alps, but soon suspects that the spa's treatments are not what they seem.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Lights Out",
+        "certificate": "PG-13",
+        "runtime": "81 min",
+        "genre": "Drama, Horror, Mystery",
+        "description": "Rebecca must unlock the terror behind her little brother's experiences that once tested her sanity, bringing her face to face with a supernatural spirit attached to their mother.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "Star Trek Beyond",
+        "certificate": "PG-13",
+        "runtime": "122 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "The crew of the USS Enterprise explores the furthest reaches of uncharted space, where they encounter a new ruthless enemy, who puts them, and everything the Federation stands for, to the test.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "Miss Peregrine's Home for Peculiar Children",
+        "certificate": "PG-13",
+        "runtime": "127 min",
+        "genre": "Adventure, Drama, Fantasy",
+        "description": "When Jacob discovers clues to a mystery that stretches across time, he finds Miss Peregrine's Home for Peculiar Children. But the danger deepens after he gets to know the residents and learns about their special powers.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Gods of Egypt",
+        "certificate": "PG-13",
+        "runtime": "127 min",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "Mortal hero Bek teams with the god Horus in an alliance against Set, the merciless god of darkness, who has usurped Egypt's throne, plunging the once peaceful and prosperous empire into chaos and conflict.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "Jason Bourne",
+        "certificate": "PG-13",
+        "runtime": "123 min",
+        "genre": "Action, Thriller",
+        "description": "The CIA's most dangerous former operative is drawn out of hiding to uncover more explosive truths about his past.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "The Handmaiden",
+        "certificate": "Not Rated",
+        "runtime": "145 min",
+        "genre": "Drama, Romance, Thriller",
+        "description": "A woman is hired as a handmaiden to a Japanese heiress, but secretly she is involved in a plot to defraud her.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "The Founder",
+        "certificate": "PG-13",
+        "runtime": "115 min",
+        "genre": "Biography, Drama, History",
+        "description": "The story of Ray Kroc, a salesman who turned two brothers' innovative fast food eatery, McDonald's, into the biggest restaurant business in the world, with a combination of ambition, persistence, and ruthlessness.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "The Huntsman: Winter's War",
+        "certificate": "PG-13",
+        "runtime": "114 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "Eric and fellow warrior Sara, raised as members of ice Queen Freya's army, try to conceal their forbidden love as they fight to survive the wicked intentions of both Freya and her sister Ravenna.",
+        "director": "",
+        "stars": []
+    }
+}

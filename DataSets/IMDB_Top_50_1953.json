@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "99 River Street",
+        "certificate": "Not Rated",
+        "runtime": "83 min",
+        "genre": "Action, Crime, Drama",
+        "description": "A former boxer turned cab driver has to hide from the police when his badgering wife is murdered by the jewel thief she was having an affair with.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "Shane",
+        "certificate": "Not Rated",
+        "runtime": "118 min",
+        "genre": "Drama, Western",
+        "description": "A weary gunfighter attempts to settle down with a homestead family, but a smoldering settler/rancher conflict forces him to act.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "Peter Pan",
+        "certificate": "G",
+        "runtime": "77 min",
+        "genre": "Animation, Adventure, Family",
+        "description": "Wendy and her brothers are whisked away to the magical world of Neverland with the hero of their stories, Peter Pan.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "Roman Holiday",
+        "certificate": "Not Rated",
+        "runtime": "118 min",
+        "genre": "Comedy, Romance",
+        "description": "A bored and sheltered princess escapes her guardians and falls in love with an American newsman in Rome.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "Dream Wife",
+        "certificate": "Approved",
+        "runtime": "100 min",
+        "genre": "Comedy, Romance",
+        "description": "A business tycoon decides to wed a Middle Eastern princess whose customs dictate the pair must live apart for several months before marrying; even more complications settle in when the tycoon's ex-fianc\u00e9e is assigned to chaperone the pair.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "Small Town Girl",
+        "certificate": "Approved",
+        "runtime": "92 min",
+        "genre": "Musical, Romance",
+        "description": "Rick Belrow Livingston, in love with Broadway star Lisa, is sentenced to 30 days in jail for speeding through a small town. He persuades the judge's daughter Cindy to let him leave for one ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "From Here to Eternity",
+        "certificate": "Passed",
+        "runtime": "118 min",
+        "genre": "Drama, Romance, War",
+        "description": "In Hawaii in 1941, a private is cruelly punished for not boxing on his unit's team, while his captain's wife and second-in-command are falling in love.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "The Big Heat",
+        "certificate": "Not Rated",
+        "runtime": "89 min",
+        "genre": "Crime, Film-Noir, Thriller",
+        "description": "Tough cop Dave Bannion takes on a politically powerful crime syndicate.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "House of Wax",
+        "certificate": "GP",
+        "runtime": "88 min",
+        "genre": "Horror",
+        "description": "An associate burns down a wax museum with the owner inside, but he survives only to become vengeful and murderous.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "Tokyo Story",
+        "certificate": "Not Rated",
+        "runtime": "136 min",
+        "genre": "Drama",
+        "description": "An old couple visit their children and grandchildren in the city; but the children have little time for them.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "The Girl Who Had Everything",
+        "certificate": "Approved",
+        "runtime": "69 min",
+        "genre": "Romance, Drama",
+        "description": "Attorney's daughter falls for one of his gangster clients.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "The War of the Worlds",
+        "certificate": "G",
+        "runtime": "85 min",
+        "genre": "Action, Sci-Fi, Thriller",
+        "description": "A small town in California is attacked by Martians, beginning a worldwide invasion.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "The Wages of Fear",
+        "certificate": "Not Rated",
+        "runtime": "131 min",
+        "genre": "Adventure, Drama, Thriller",
+        "description": "In a decrepit South American village, four men are hired to transport an urgent nitroglycerine shipment without the equipment that would make it safe.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "Kiss Me Kate",
+        "certificate": "Approved",
+        "runtime": "109 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "An ex-husband and wife team star in a musical version of 'The Taming of the Shrew'; off-stage, the production is troublesome with ex-lovers' quarrels and a gangster looking for some money owed to them.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "Gentlemen Prefer Blondes",
+        "certificate": "Not Rated",
+        "runtime": "91 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "Showgirls Lorelei Lee and Dorothy Shaw travel to Paris, pursued by a private detective hired by the suspicious father of Lorelei's fianc\u00e9, as well as a rich, enamored old man and many other doting admirers.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "Stalag 17",
+        "certificate": "Not Rated",
+        "runtime": "120 min",
+        "genre": "Comedy, Drama, War",
+        "description": "When two escaping American World War II prisoners are killed, the German P.O.W. camp barracks black marketeer, J.J. Sefton, is suspected of being an informer.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "The Robe",
+        "certificate": "Unrated",
+        "runtime": "135 min",
+        "genre": "Drama, History",
+        "description": "In the Roman province of Judea during the 1st century, Roman tribune Marcellus Gallio is ordered to crucify Jesus of Nazareth but is tormented by his guilty conscience afterwards.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Invaders from Mars",
+        "certificate": "Approved",
+        "runtime": "78 min",
+        "genre": "Horror, Sci-Fi",
+        "description": "A young boy learns that space aliens are taking over the minds of earthlings.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "Julius Caesar",
+        "certificate": "Not Rated",
+        "runtime": "120 min",
+        "genre": "Biography, Drama, History",
+        "description": "The growing ambition of Julius Caesar is a source of major concern to his close friend Brutus. Cassius persuades him to participate in his plot to assassinate Caesar, but they have both sorely underestimated Mark Antony.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "Mogambo",
+        "certificate": "Approved",
+        "runtime": "116 min",
+        "genre": "Adventure, Drama, Romance",
+        "description": "On a Kenyan safari, white hunter Victor Marswell has a love triangle with seductive American socialite Eloise Kelly and anthropologist Donald Nordley's cheating wife Linda.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "How to Marry a Millionaire",
+        "certificate": "Not Rated",
+        "runtime": "95 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Three women set out to find eligible millionaires to marry, but find true love in the process.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "Pickup on South Street",
+        "certificate": "Passed",
+        "runtime": "80 min",
+        "genre": "Crime, Film-Noir, Thriller",
+        "description": "A pickpocket unwittingly lifts a message destined for enemy agents and becomes a target for a Communist spy ring.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "Fear and Desire",
+        "certificate": "Not Rated",
+        "runtime": "62 min",
+        "genre": "Drama, Thriller, War",
+        "description": "Four soldiers trapped behind enemy lines must confront their fears and desires.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "The Cruel Sea",
+        "certificate": "Approved",
+        "runtime": "126 min",
+        "genre": "Drama, War",
+        "description": "The World War II adventures of a British convoy escort ship and its officers.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "Calamity Jane",
+        "certificate": "Approved",
+        "runtime": "101 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "The story of Calamity Jane, her saloon, and her romance with Wild Bill Hickok.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "The Wild One",
+        "certificate": "Not Rated",
+        "runtime": "79 min",
+        "genre": "Drama",
+        "description": "Two rival motorcycle gangs terrorize a small town after one of their leaders is thrown in jail.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "Hondo",
+        "certificate": "PG",
+        "runtime": "83 min",
+        "genre": "Drama, Romance, War",
+        "description": "Army despatch rider Hondo Lane discovers a woman and young son living in the midst of warring Apaches and becomes their protector.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "Devil's Canyon",
+        "certificate": "Approved",
+        "runtime": "92 min",
+        "genre": "Action, Crime, Drama",
+        "description": "In 1897 Arizona, an ex-marshal is sent to the territorial prison where many of his enemies, among guards and inmates alike, are eager for a chance at payback.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "Glen or Glenda",
+        "certificate": "PG",
+        "runtime": "65 min",
+        "genre": "Drama",
+        "description": "A psychiatrist tells two stories: one of a transvestite (Glen or Glenda), the other of a pseudohermaphrodite (Alan or Anne).",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "Ugetsu",
+        "certificate": "Not Rated",
+        "runtime": "96 min",
+        "genre": "Drama, Fantasy, War",
+        "description": "A tale of ambition, family, love, and war set in the midst of the Japanese Civil Wars of the sixteenth century.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "Beat the Devil",
+        "certificate": "Approved",
+        "runtime": "89 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "On their way to Africa are a group of rogues who hope to get rich there, and a seemingly innocent British couple. They meet and things happen...",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "Niagara",
+        "certificate": "Not Rated",
+        "runtime": "92 min",
+        "genre": "Film-Noir, Thriller",
+        "description": "As two couples are visiting Niagara Falls, tensions between one wife and her husband reach the level of murder.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "Titanic",
+        "certificate": "Not Rated",
+        "runtime": "98 min",
+        "genre": "Drama, History, Romance",
+        "description": "An unhappily married couple struggle to deal with their problems while on board the ill-fated ship.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "The Glass Wall",
+        "certificate": "Approved",
+        "runtime": "82 min",
+        "genre": "Drama, Film-Noir",
+        "description": "Peter, a WW II 'displaced person' about to be deported jumps ship in New York harbor in an effort to find an ex-G.I named Tom whom he helped during the war and can prove Peter's right to ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "Ride, Vaquero!",
+        "certificate": "Passed",
+        "runtime": "90 min",
+        "genre": "Romance, Western",
+        "description": "Two outlaws, Rio and Esqueda, raised together as stepbrothers, have a showdown over the issue of whether to evict new settlers from their territory.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "The Band Wagon",
+        "certificate": "Passed",
+        "runtime": "112 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "A pretentiously artistic director is hired for a new Broadway musical and changes it beyond recognition.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "Monsieur Hulot's Holiday",
+        "certificate": "Not Rated",
+        "runtime": "83 min",
+        "genre": "Comedy",
+        "description": "Monsieur Hulot comes to a beachside hotel for a vacation, where he accidentally (but good-naturedly) causes havoc.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "It Came from Outer Space",
+        "certificate": "Approved",
+        "runtime": "81 min",
+        "genre": "Horror, Sci-Fi",
+        "description": "A spaceship from another world crashes in the Arizona desert and only an amateur stargazer and a schoolteacher suspect alien influence when the local townsfolk begin to act strangely.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "I Confess",
+        "certificate": "Not Rated",
+        "runtime": "95 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "A priest, who comes under suspicion for murder, cannot clear his name without breaking the seal of the confessional.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Summer with Monika",
+        "certificate": "R",
+        "runtime": "96 min",
+        "genre": "Drama, Romance",
+        "description": "A pair of teenagers meet one summer day, start a reckless affair and abandon their families to be with one another.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "I Vitelloni",
+        "certificate": "Not Rated",
+        "runtime": "104 min",
+        "genre": "Comedy, Drama",
+        "description": "A character study of five young men at crucial turning points in their lives in a small town in Italy.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "Angel Face",
+        "certificate": "Not Rated",
+        "runtime": "91 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "Ambulance driver Frank Jessup is ensnared in the schemes of the sensuous but dangerous Diane Tremayne.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "The Actress",
+        "certificate": "Passed",
+        "runtime": "90 min",
+        "genre": "Biography, Comedy, Drama",
+        "description": "Former seaman Clinton Jones now works at a lowly job. His daughter Ruth wants to become an actress. Clinton gets fired and Ruth rejects the advances of Fred Whitmarsh. Her father gives her ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "The Hitch-Hiker",
+        "certificate": "Approved",
+        "runtime": "71 min",
+        "genre": "Crime, Film-Noir, Thriller",
+        "description": "Two fishermen pick up a psychotic escaped convict who tells them that he intends to murder them when the ride is over.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "The 5,000 Fingers of Dr. T.",
+        "certificate": "G",
+        "runtime": "89 min",
+        "genre": "Family, Fantasy, Music",
+        "description": "A young boy travels to an imaginary world where, assisted by his family's plumber, he must save other piano playing kids like himself from the dungeons of his dictatorial piano teacher who also mind-controls his mother.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Return to Paradise",
+        "certificate": "Approved",
+        "runtime": "100 min",
+        "genre": "Adventure, Drama, Romance",
+        "description": "An American drifter comes to a remote Polynesian island controlled by a Puritanical missionary and turns the social life of the island upside-down.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "The Man from the Alamo",
+        "certificate": "Approved",
+        "runtime": "79 min",
+        "genre": "Drama, Western",
+        "description": "During the Alamo siege, John Stroud is sent to Ox Bow to protect the townsfolk but, following a massacre, he infiltrates Jess Wade's gang of turncoat renegades supporting the Mexicans.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "The Beast from 20,000 Fathoms",
+        "certificate": "Approved",
+        "runtime": "80 min",
+        "genre": "Adventure, Horror, Sci-Fi",
+        "description": "A ferocious dinosaur awakened by an Arctic atomic test terrorizes the North Atlantic and, ultimately, New York City.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "Escape from Fort Bravo",
+        "certificate": "Passed",
+        "runtime": "99 min",
+        "genre": "Western",
+        "description": "During the Civil War, a group of Confederates escapes from the Union POW camp at Fort Bravo but has to contend with the desert, the Mescalero Apaches and the pursuing Union troops.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "The Bigamist",
+        "certificate": "Approved",
+        "runtime": "80 min",
+        "genre": "Drama, Film-Noir",
+        "description": "A man secretly married to two women feels the pressure of his deceit.",
+        "director": "",
+        "stars": []
+    }
+}

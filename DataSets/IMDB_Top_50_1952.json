@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "Singin' in the Rain",
+        "certificate": "G",
+        "runtime": "103 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "A silent film production company and cast make a difficult transition to sound.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "High Noon",
+        "certificate": "PG",
+        "runtime": "85 min",
+        "genre": "Action, Drama, Thriller",
+        "description": "A town Marshal, despite the disagreements of his newlywed bride and the townspeople around him, must face a gang of deadly killers alone at high noon when the gang leader, an outlaw he sent up years ago, arrives on the noon train.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "The Quiet Man",
+        "certificate": "Passed",
+        "runtime": "129 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A retired American boxer returns to the village of his birth in Ireland, where he finds love.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "Invitation",
+        "certificate": "Not Rated",
+        "runtime": "84 min",
+        "genre": "Drama, Romance",
+        "description": "Always believing she had a happy marriage, a young wife's trust in her husband is shaken when she discovers that her father had paid him to marry her.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "Viva Zapata!",
+        "certificate": "Approved",
+        "runtime": "113 min",
+        "genre": "Biography, Drama, History",
+        "description": "The story of Mexican revolutionary Emiliano Zapata, who led a rebellion against the corrupt, oppressive dictatorship of president Porfirio Diaz in the early 20th century.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "Ikiru",
+        "certificate": "Not Rated",
+        "runtime": "143 min",
+        "genre": "Drama",
+        "description": "A bureaucrat tries to find a meaning in his life after he discovers he has terminal cancer.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "Lovely to Look At",
+        "certificate": "Approved",
+        "runtime": "103 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "Three Broadway producers struggling to get backing for their show hope one's sudden inheritance of a half interest in a Parisian fashion house is the answer. They travel to Paris only to learn the salon is in debt and requires their help.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "Bend of the River",
+        "certificate": "Approved",
+        "runtime": "91 min",
+        "genre": "Action, Adventure, Romance",
+        "description": "When a town boss confiscates homesteader's supplies after gold is discovered nearby, a tough cowboy risks his life to try and get it to them.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "Sudden Fear",
+        "certificate": "Approved",
+        "runtime": "110 min",
+        "genre": "Film-Noir, Thriller",
+        "description": "After an ambitious actor insinuates himself into the life of a wealthy middle-aged playwright and marries her, he plots with his mistress to murder her.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "Limelight",
+        "certificate": "G",
+        "runtime": "137 min",
+        "genre": "Drama, Music, Romance",
+        "description": "A fading comedian and a suicidally despondent ballet dancer must look to each other to find meaning and hope in their lives.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "The Greatest Show on Earth",
+        "certificate": "Passed",
+        "runtime": "152 min",
+        "genre": "Drama, Family, Romance",
+        "description": "The dramatic lives of trapeze artists, a clown, and an elephant trainer are told against a background of circus spectacle.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "The Duel at Silver Creek",
+        "certificate": "Approved",
+        "runtime": "77 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "Marshal Tyrone and the Silver Kid form an uneasy alliance against a gang of claim jumpers.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "My Cousin Rachel",
+        "certificate": "Approved",
+        "runtime": "98 min",
+        "genre": "Drama, Mystery, Romance",
+        "description": "A young man plots revenge against the woman he believes murdered his cousin, but his plans are shaken when he comes face to face with the enigmatic beauty.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "The Bad and the Beautiful",
+        "certificate": "Passed",
+        "runtime": "118 min",
+        "genre": "Drama, Romance",
+        "description": "An unscrupulous movie producer uses an actress, a director and a writer to achieve success.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "Moulin Rouge",
+        "certificate": "Not Rated",
+        "runtime": "119 min",
+        "genre": "Biography, Drama, Music",
+        "description": "Fictional account of French artist Henri de Toulouse-Lautrec.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "The Importance of Being Earnest",
+        "certificate": "Not Rated",
+        "runtime": "95 min",
+        "genre": "Comedy, Drama",
+        "description": "When Algernon discovers that his friend, Ernest, has created a fictional brother for whenever he needs a reason to escape dull country life, Algernon poses as the brother, resulting in ever increasing confusion.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "Hangman's Knot",
+        "certificate": "Approved",
+        "runtime": "81 min",
+        "genre": "Romance, Western",
+        "description": "A Confederate Major and his troops are falsely led to believe the Civil War is not over, and become wanted men after they attack a Union Army wagon train in Nevada.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "The Crimson Pirate",
+        "certificate": "Not Rated",
+        "runtime": "105 min",
+        "genre": "Adventure, Comedy",
+        "description": "During the 1700s, pirate Captain Vallo seizes a British warship and gets involved in various money-making schemes involving Caribbean rebels led by El Libre, British envoy Baron Jose Gruda, and a beautiful courtesan named Consuelo.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "Miss Robin Hood",
+        "certificate": "Approved",
+        "runtime": "76 min",
+        "genre": "Comedy, Crime",
+        "description": "Henry Wrigley is happy writing stories for a children's' comic. Then he meets Miss Honey, who encourages him to go into minor crime.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "Pat and Mike",
+        "certificate": "Not Rated",
+        "runtime": "95 min",
+        "genre": "Comedy, Romance, Sport",
+        "description": "Pat is a women's sports sensation unless her fianc\u00e9 is around. Her new shady manager Mike keeps them apart and develops feelings for her.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "Umberto D.",
+        "certificate": "Not Rated",
+        "runtime": "89 min",
+        "genre": "Drama",
+        "description": "An elderly man and his dog struggle to survive on his government pension in Rome.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "Monkey Business",
+        "certificate": "Approved",
+        "runtime": "97 min",
+        "genre": "Comedy, Sci-Fi",
+        "description": "A chemist finds his personal and professional life turned upside down when one of his chimpanzees finds the fountain of youth.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "Ivanhoe",
+        "certificate": "Approved",
+        "runtime": "106 min",
+        "genre": "Adventure, Drama, History",
+        "description": "A knight seeks to free the captive King Richard and put him back on the throne.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "Private Information",
+        "certificate": "",
+        "runtime": "65 min",
+        "genre": "Drama",
+        "description": "Charlotte suspects that the local council is corrupt and building defective drains that could cause public health issues.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "The Narrow Margin",
+        "certificate": "Not Rated",
+        "runtime": "71 min",
+        "genre": "Film-Noir, Thriller",
+        "description": "A woman planning to testify against the mob must be protected against their assassins on the train trip from Chicago to Los Angeles.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "The Snows of Kilimanjaro",
+        "certificate": "Approved",
+        "runtime": "114 min",
+        "genre": "Adventure, Drama, Romance",
+        "description": "Writer Harry Street reflects on his life as he lies dying from an infection while on safari in the shadow of Mount Kilamanjaro.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "Kansas City Confidential",
+        "certificate": "Not Rated",
+        "runtime": "99 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "An ex-con trying to go straight is framed for a million dollar armored car robbery and must go to Mexico in order to unmask the real culprits.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "Don't Bother to Knock",
+        "certificate": "Passed",
+        "runtime": "76 min",
+        "genre": "Drama, Film-Noir, Mystery",
+        "description": "After being dumped by his girlfriend, an airline pilot pursues a babysitter in his hotel and gradually realizes she's dangerous.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "Forbidden Games",
+        "certificate": "Not Rated",
+        "runtime": "86 min",
+        "genre": "Drama, War",
+        "description": "A young French girl orphaned in a Nazi air attack is befriended by the son of a poor farmer, and together they try to come to terms with the realities of death.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "Scaramouche",
+        "certificate": "Approved",
+        "runtime": "115 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "In France during the late 18th Century, a man sets out to avenge the death of his friend at the hands of a master swordsman.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "Clash by Night",
+        "certificate": "Approved",
+        "runtime": "105 min",
+        "genre": "Drama, Film-Noir, Romance",
+        "description": "Mae Doyle comes back to her hometown a cynical woman. Her brother Joe fears that his love, fish cannery worker Peggy, may wind up like Mae. Mae marries Jerry and has a baby; she is happy but restless, drawn to Jerry's friend Earl.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "Come Back, Little Sheba",
+        "certificate": "Approved",
+        "runtime": "99 min",
+        "genre": "Drama, Romance",
+        "description": "An emotionally remote recovering alcoholic and his dowdy, unambitious wife face a personal crisis when they take in an attractive lodger.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "The White Reindeer",
+        "certificate": "Not Rated",
+        "runtime": "74 min",
+        "genre": "Drama, Fantasy, Horror",
+        "description": "A newly wed woman goes to the local shaman to get some help with her lovelife, but instead gets turned into a white reindeer vampire.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "The Sound Barrier",
+        "certificate": "Approved",
+        "runtime": "109 min",
+        "genre": "Drama, Romance, War",
+        "description": "Fictionalized story of British aerospace engineers solving the problem of supersonic flight.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "Kvinnors v\u00e4ntan",
+        "certificate": "Not Rated",
+        "runtime": "107 min",
+        "genre": "Comedy, Drama",
+        "description": "The four wives of four brothers share stories of their marriages as they each wait for their husbands in a small, secluded cottage.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "The Big Sky",
+        "certificate": "Approved",
+        "runtime": "140 min",
+        "genre": "Drama, Western",
+        "description": "The success of the journey focuses on keeping the Indian girl alive as well as themselves to complete trade with the Blackfeet.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "O. Henry's Full House",
+        "certificate": "Approved",
+        "runtime": "117 min",
+        "genre": "Drama",
+        "description": "John Steinbeck introduces a quintet of five of O. Henry's most celebrated stories from his New York Period (1902-1910) in this anthology film.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "Hans Christian Andersen",
+        "certificate": "Approved",
+        "runtime": "112 min",
+        "genre": "Biography, Family, Musical",
+        "description": "The opening scene of the movie describes it best: \"Once upon a time there lived in Denmark a great storyteller named Hans Christian Andersen. This is not the story of his life, but a fairy tale about the great spinner of fairy tales.\"",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "Blackbeard, the Pirate",
+        "certificate": "Approved",
+        "runtime": "99 min",
+        "genre": "Adventure, Romance",
+        "description": "Honest Edward Maynard finds himself serving as ship's surgeon under the infamous pirate Blackbeard.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "The Story of Robin Hood and His Merrie Men",
+        "certificate": "Approved",
+        "runtime": "84 min",
+        "genre": "Action, Adventure, Family",
+        "description": "With King Richard away at the crusades, Prince John rules England with an iron fist and tasks the Sheriff of Nottingham with the collection of high taxes and the capture of outlaw Robin Hood.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "The Life of Oharu",
+        "certificate": "Not Rated",
+        "runtime": "133 min",
+        "genre": "Drama",
+        "description": "Follows a woman's fight and survival amid the vicissitudes of life and the cruelty of the society.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "The Prisoner of Zenda",
+        "certificate": "Approved",
+        "runtime": "96 min",
+        "genre": "Adventure",
+        "description": "An Englishman vacationing in a Ruritarian kingdom is recruited to impersonate his cousin, the soon-to-be-crowned king when the monarch is drugged and kidnapped.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Road to Bali",
+        "certificate": "Approved",
+        "runtime": "91 min",
+        "genre": "Adventure, Comedy, Fantasy",
+        "description": "Two unemployed show-biz pals accept treasure-diving work in Bali for a local princess and they find treasure, love and trouble.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "Denver and Rio Grande",
+        "certificate": "Passed",
+        "runtime": "89 min",
+        "genre": "Adventure, Western",
+        "description": "A romanticized history of the building of the Denver & Rio Grande Railroad in the Colorado mountains.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "Deadline - U.S.A.",
+        "certificate": "Passed",
+        "runtime": "87 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "With his newspaper about to be sold, crusading editor Ed Hutcheson tries to complete an expos\u00e9 on gangster Rienzi.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Macao",
+        "certificate": "Passed",
+        "runtime": "81 min",
+        "genre": "Adventure, Crime, Drama",
+        "description": "Nick Cochran, an American in exile in Macao, has a chance to restore his name by helping capture an international crime lord. Undercover, can he mislead the bad guys and still woo the handsome singer/petty crook, Julie Benson?",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "The Member of the Wedding",
+        "certificate": "TV-G",
+        "runtime": "93 min",
+        "genre": "Drama",
+        "description": "A young tomboy named Frankie is forced to face her own immaturity as a result her older brother's wedding.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "Europe '51",
+        "certificate": "Not Rated",
+        "runtime": "118 min",
+        "genre": "Drama",
+        "description": "A wealthy woman becomes obsessed with humanitarianism when her young son dies after committing suicide.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "Invasion, U.S.A.",
+        "certificate": "Approved",
+        "runtime": "73 min",
+        "genre": "Drama, Sci-Fi, War",
+        "description": "A group of people at a bar witness the unfolding events of a Soviet invasion of the USA.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "Phone Call from a Stranger",
+        "certificate": "",
+        "runtime": "105 min",
+        "genre": "Drama, Film-Noir",
+        "description": "While waiting on a delayed flight, David Trask, who has left his unfaithful wife, meets three of his fellow passengers. When the aircraft crashes, he is one of few survivors, and sets out to resolve their unfinished business.",
+        "director": "",
+        "stars": []
+    }
+}

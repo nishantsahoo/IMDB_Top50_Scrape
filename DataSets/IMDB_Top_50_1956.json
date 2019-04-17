@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "The Ten Commandments",
+        "certificate": "G",
+        "runtime": "220 min",
+        "genre": "Adventure, Drama",
+        "description": "The Egyptian Prince, Moses, learns of his true heritage as a Hebrew and his divine mission as the deliverer of his people.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "The Searchers",
+        "certificate": "Passed",
+        "runtime": "119 min",
+        "genre": "Adventure, Drama, Western",
+        "description": "An American Civil War veteran embarks on a journey to rescue his niece from the Comanches.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "Tea and Sympathy",
+        "certificate": "Approved",
+        "runtime": "122 min",
+        "genre": "Drama",
+        "description": "Tom Lee is a sensitive boy of 17 whose lack of interest in the \"manly\" pursuits of sports, mountain climbing and girls labels him \"sister-boy\" at the college he is attending. Head master ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "The King and I",
+        "certificate": "G",
+        "runtime": "133 min",
+        "genre": "Biography, Drama, Musical",
+        "description": "A widow accepts a job as a live-in governess to the King of Siam's children.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "Forbidden Planet",
+        "certificate": "G",
+        "runtime": "98 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "A starship crew goes to investigate the silence of a planet's colony only to find two survivors and a deadly secret that one of them has.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "Giant",
+        "certificate": "G",
+        "runtime": "201 min",
+        "genre": "Drama, Western",
+        "description": "Sprawling epic covering the life of a Texas cattle rancher and his family and associates.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "The Man Who Knew Too Much",
+        "certificate": "PG",
+        "runtime": "120 min",
+        "genre": "Drama, Thriller",
+        "description": "An American physician and his wife take matters into their own hands after assassins planning to execute a foreign Prime Minister kidnap their son.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "Love Me Tender",
+        "certificate": "Approved",
+        "runtime": "89 min",
+        "genre": "Drama, Musical, Romance",
+        "description": "At the end of the Civil War, a Confederate team is ordered to rob a Union payroll train but the war ends leaving these men with their Union loot, until the Feds come looking for it.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "The Wrong Man",
+        "certificate": "Not Rated",
+        "runtime": "105 min",
+        "genre": "Drama, Film-Noir",
+        "description": "In 1953, an innocent man named Christopher Emmanuel \"Manny\" Balestrero is arrested after being mistaken for an armed robber.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "The Killing",
+        "certificate": "Not Rated",
+        "runtime": "84 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "Crook Johnny Clay assembles a five man team to plan and execute a daring race-track robbery.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "Moby Dick",
+        "certificate": "Not Rated",
+        "runtime": "116 min",
+        "genre": "Adventure, Drama",
+        "description": "The sole survivor of a lost whaling ship relates the tale of his captain's self-destructive obsession to hunt the white whale, Moby Dick.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "Lust for Life",
+        "certificate": "Approved",
+        "runtime": "122 min",
+        "genre": "Biography, Drama",
+        "description": "The life of brilliant but tortured artist Vincent van Gogh.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "Invasion of the Body Snatchers",
+        "certificate": "Not Rated",
+        "runtime": "80 min",
+        "genre": "Drama, Horror, Sci-Fi",
+        "description": "A small-town doctor learns that the population of his community is being replaced by emotionless alien duplicates.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "Around the World in 80 Days",
+        "certificate": "G",
+        "runtime": "175 min",
+        "genre": "Adventure, Comedy, Family",
+        "description": "A Victorian Englishman bets that with the new steamships and railways he can circumnavigate the globe in eighty days.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "Fire Maidens of Outer Space",
+        "certificate": "Approved",
+        "runtime": "73 min",
+        "genre": "Sci-Fi",
+        "description": "A team of astronauts lands on a moon of Jupiter to find it populated with beautiful young women looking for mates. An old man explains to the explorers the group's story, as well as the moon's dangers.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "War and Peace",
+        "certificate": "PG",
+        "runtime": "208 min",
+        "genre": "Drama, Romance, War",
+        "description": "Napoleon's (Herbert Lom's) tumultuous relations with Russia including his disastrous 1812 invasion serve as the backdrop for the tangled personal lives of two aristocratic families.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "The Bad Seed",
+        "certificate": "Approved",
+        "runtime": "129 min",
+        "genre": "Crime, Drama, Horror",
+        "description": "A housewife suspects that her seemingly perfect eight year-old daughter is a heartless killer.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "High Society",
+        "certificate": "Not Rated",
+        "runtime": "111 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "A spoiled heiress must choose between three suitors: her jazz musician ex-husband, a stuffy businessman, and an undercover tabloid reporter.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "The Conqueror",
+        "certificate": "Approved",
+        "runtime": "111 min",
+        "genre": "Adventure, Biography, History",
+        "description": "Mongol chief Temujin battles against Tartar armies and for the love of the Tartar princess Bortai. Temujin becomes the emperor Genghis Khan.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "Nightfall",
+        "certificate": "",
+        "runtime": "78 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "Through a series of bizarre coincidences, an artist finds himself falsely accused of bank robbery and murder and is pursued by the authorities and the real killers.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "Child in the House",
+        "certificate": "Not Rated",
+        "runtime": "90 min",
+        "genre": "Drama",
+        "description": "Young Elizabeth is left with her relatives, a married couple, while her mother is in hospital. The friendly husband likes her, but the wife hates kids. Her father, an often absent crook on the lam, visits her in secret one day.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "...And God Created Woman",
+        "certificate": "PG",
+        "runtime": "90 min",
+        "genre": "Drama, Romance",
+        "description": "In sunny St. Tropez, a young sexpot loves one brother but marries the other.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "Picnic",
+        "certificate": "Approved",
+        "runtime": "115 min",
+        "genre": "Drama, Romance",
+        "description": "Emotions are ignited amongst the complacent townsfolk when a handsome drifter arrives in a small Kansas community on the morning of the Labour Day picnic.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "Baby Doll",
+        "certificate": "Approved",
+        "runtime": "114 min",
+        "genre": "Drama",
+        "description": "A steamy tale of two Southern rivals and a sensuous nineteen-year-old virgin.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "Anastasia",
+        "certificate": "Unrated",
+        "runtime": "105 min",
+        "genre": "Biography, Drama, History",
+        "description": "An opportunistic Russian businessman tries to pass a mysterious impostor as the Grand Duchess Anastasia. But she is so convincing in her performance that even the biggest skeptics believe her.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "Written on the Wind",
+        "certificate": "Not Rated",
+        "runtime": "99 min",
+        "genre": "Drama",
+        "description": "Alcoholic playboy Kyle Hadley marries the woman secretly loved by his poor but hard-working best friend, who in turn is pursued by Kyle's nymphomaniac sister.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "Carousel",
+        "certificate": "Approved",
+        "runtime": "128 min",
+        "genre": "Drama, Fantasy, Musical",
+        "description": "Fifteen years after his death, a carousel barker is granted permission to return to Earth for one day to make amends to his widow and their daughter.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "Somebody Up There Likes Me",
+        "certificate": "Passed",
+        "runtime": "113 min",
+        "genre": "Biography, Drama, Sport",
+        "description": "Boxer Rocky Graziano's biopic, based on his autobiography, from childhood to his World Middleweight Championship title win at age 28 in 1947.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "Pillars of the Sky",
+        "certificate": "Approved",
+        "runtime": "95 min",
+        "genre": "Action, Western",
+        "description": "In 1868 Oregon, when the Army violates the treaty by building a road across the reservation, several tribal chiefs decide to unite their forces against the trespassing whites.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "The Harder They Fall",
+        "certificate": "Passed",
+        "runtime": "109 min",
+        "genre": "Drama, Film-Noir, Sport",
+        "description": "Down-on-his-luck ex-sportswriter Eddie Willis is hired by shady fight promoter Nick Benko to promote his latest find, an unknown but easily exploitable phenom from Argentina.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "The Hunchback of Notre Dame",
+        "certificate": "PG",
+        "runtime": "104 min",
+        "genre": "Drama, History",
+        "description": "The timeless tale of the seductive gypsy Esmeralda and the tortured hunchback Quasimodo.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "The Swan",
+        "certificate": "Approved",
+        "runtime": "104 min",
+        "genre": "Comedy, Romance, Drama",
+        "description": "Princess Beatrice's days of enjoying the regal life are numbered unless her only daughter, Princess Alexandra, makes a good impression on a distant cousin when he pays a surprise visit to ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "A Man Escaped",
+        "certificate": "Not Rated",
+        "runtime": "101 min",
+        "genre": "Drama",
+        "description": "A captured French Resistance fighter during WWII engineers a daunting escape from a Nazi prison in France.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "The Catered Affair",
+        "certificate": "Approved",
+        "runtime": "94 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "At breakfast, Jane announces that she and Ralph are getting married the next week. All Jane and Ralph want is a small wedding with the immediate family and no reception, because Jane's ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "1984",
+        "certificate": "Not Rated",
+        "runtime": "90 min",
+        "genre": "Drama, Sci-Fi",
+        "description": "In a totalitarian future society, Winston Smith, whose daily work is re-writing history, tries to rebel by falling in love.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "Bus Stop",
+        "certificate": "Approved",
+        "runtime": "96 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A naive but stubborn cowboy falls in love with a saloon singer and tries to take her away against her will to get married and live on his ranch in Montana.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "Three Men in a Boat",
+        "certificate": "Approved",
+        "runtime": "84 min",
+        "genre": "Animation, Comedy, Romance",
+        "description": "Three London gentlemen take vacation rowing down the Thames, encountering various mishaps and misadventures along the way.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "The Brave One",
+        "certificate": "Approved",
+        "runtime": "100 min",
+        "genre": "Drama, Family",
+        "description": "A young Mexican boy tirelessly tries to save his pet bull from death at the hands of a celebrated matador.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "Friendly Persuasion",
+        "certificate": "Passed",
+        "runtime": "137 min",
+        "genre": "Drama, Romance, War",
+        "description": "The pacifist attitude of a Quaker family is tested as a result of the American Civil War.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Aparajito",
+        "certificate": "Not Rated",
+        "runtime": "110 min",
+        "genre": "Drama",
+        "description": "Following his father's death, a boy leaves home to study in Calcutta, while his mother must face a life alone.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Bob le Flambeur",
+        "certificate": "PG",
+        "runtime": "98 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "After losing big, an aging gambler decides to assemble a team to rob a casino.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "Alexander the Great",
+        "certificate": "Not Rated",
+        "runtime": "141 min",
+        "genre": "Biography, Drama, History",
+        "description": "The life and military conquests of Alexander III of Macedon (July 20/21, 356 - June 10/11, 323 B.C.), commonly known as Alexander the Great.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "World Without End",
+        "certificate": "Approved",
+        "runtime": "80 min",
+        "genre": "Adventure, Romance, Sci-Fi",
+        "description": "Astronauts returning from a voyage to Mars are caught in a time warp and are propelled into a post-Apocalyptic Earth populated by mutants.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "The Benny Goodman Story",
+        "certificate": "Approved",
+        "runtime": "116 min",
+        "genre": "Biography, Drama, Music",
+        "description": "The young Benny Goodman is taught clarinet by a Chicago music professor. He is advised by bandleader Kid Ory to play whichever kind of music he likes best, but to make a living, Benny begins by joining the Ben Pollack traveling band.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "The Man Who Never Was",
+        "certificate": "Approved",
+        "runtime": "103 min",
+        "genre": "War, Drama",
+        "description": "True story of a British attempt to trick the enemy into weakening Sicily's defenses before the 1943 attack, using a dead man with faked papers.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Jubal",
+        "certificate": "Passed",
+        "runtime": "100 min",
+        "genre": "Drama, Romance, Western",
+        "description": "A new foreman rejects the sexual advances of a frustrated rancher's wife, which leads to conflicts that could get him killed.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "7 Men from Now",
+        "certificate": "Approved",
+        "runtime": "78 min",
+        "genre": "Action, Western",
+        "description": "A former sheriff blames himself for his wife's death during a Wells Fargo robbery and vows to track down and kill the seven men responsible.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "Earth vs. the Flying Saucers",
+        "certificate": "Unrated",
+        "runtime": "83 min",
+        "genre": "Action, Sci-Fi",
+        "description": "Extraterrestrials traveling in high-tech flying saucers contact a scientist as part of a plan to enslave the inhabitants of Earth.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "Bundle of Joy",
+        "certificate": "Approved",
+        "runtime": "98 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "After finding a baby outside an orphanage, a salesgirl receives sympathy from those around her, including her boss' son, as they all assume the baby is hers.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "Godzilla, King of the Monsters!",
+        "certificate": "Not Rated",
+        "runtime": "80 min",
+        "genre": "Action, Horror, Sci-Fi",
+        "description": "A 400-foot (122-meter) dinosaur-like beast, awoken from undersea hibernation off the Japanese coast by atomic-bomb testing, attacks Tokyo.",
+        "director": "",
+        "stars": []
+    }
+}

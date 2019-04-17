@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "The Birds",
+        "certificate": "PG-13",
+        "runtime": "119 min",
+        "genre": "Drama, Horror, Mystery",
+        "description": "A wealthy San Francisco socialite pursues a potential boyfriend to a small Northern California town that slowly takes a turn for the bizarre when birds of all kinds suddenly begin to attack people.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "From Russia with Love",
+        "certificate": "PG",
+        "runtime": "115 min",
+        "genre": "Action, Adventure, Thriller",
+        "description": "James Bond willingly falls into an assassination plot involving a naive Russian beauty in order to retrieve a Soviet encryption device that was stolen by S.P.E.C.T.R.E.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "The Great Escape",
+        "certificate": "Not Rated",
+        "runtime": "172 min",
+        "genre": "Adventure, Drama, History",
+        "description": "Allied prisoners of war plan for several hundred of their number to escape from a German camp during World War II.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "Cleopatra",
+        "certificate": "G",
+        "runtime": "192 min",
+        "genre": "Biography, Drama, History",
+        "description": "Queen Cleopatra of Egypt experiences both triumph and tragedy as she attempts to resist the imperial ambitions of Rome.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "8\u00bd",
+        "certificate": "Not Rated",
+        "runtime": "138 min",
+        "genre": "Drama",
+        "description": "A harried movie director retreats into his memories and fantasies.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "It's a Mad Mad Mad Mad World",
+        "certificate": "G",
+        "runtime": "205 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "A group of motorists hear about a crook's hidden stash of loot, and race against each other across the country to get to it.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "The Sword in the Stone",
+        "certificate": "G",
+        "runtime": "79 min",
+        "genre": "Animation, Adventure, Comedy",
+        "description": "A poor boy named Arthur learns the power of love, kindness, knowledge and bravery with the help of a wizard called Merlin in the path to become one of the most beloved kings in English history.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "McLintock!",
+        "certificate": "Passed",
+        "runtime": "127 min",
+        "genre": "Comedy, Romance, Western",
+        "description": "Wealthy rancher G.W. McLintock uses his power and influence in the territory to keep the peace between farmers, ranchers, land-grabbers, Indians and corrupt government officials.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "Charade",
+        "certificate": "Not Rated",
+        "runtime": "113 min",
+        "genre": "Comedy, Mystery, Romance",
+        "description": "Romance and suspense ensue in Paris as a woman is pursued by several men who want a fortune her murdered husband had stolen. Whom can she trust?",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "Irma la Douce",
+        "certificate": "Not Rated",
+        "runtime": "147 min",
+        "genre": "Comedy, Romance",
+        "description": "In Paris, a former policeman falls in love with a prostitute, and tries to get her out of that life by paying for all of her time.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "The Pink Panther",
+        "certificate": "Not Rated",
+        "runtime": "115 min",
+        "genre": "Comedy, Crime, Romance",
+        "description": "The bumbling Inspector Clouseau travels to Rome to catch a notorious jewel thief known as \"The Phantom\" before he conducts his most daring heist yet: a princess' priceless diamond with one slight imperfection, known as \"The Pink Panther\".",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "Dementia 13",
+        "certificate": "Unrated",
+        "runtime": "75 min",
+        "genre": "Horror, Thriller",
+        "description": "A scheming widow hatches a daring plan to get her hands on her late husband's inheritance, unbeknownst to her that she is targeted by an axe-wielding murderer who lurks within the family's estate.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "Lord of the Flies",
+        "certificate": "Not Rated",
+        "runtime": "92 min",
+        "genre": "Adventure, Drama, Thriller",
+        "description": "Lost on an island, young survivors of a plane crash eventually revert to savagery despite the few rational boys' attempts to prevent that.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "The Leopard",
+        "certificate": "PG",
+        "runtime": "186 min",
+        "genre": "Drama, History",
+        "description": "The Prince of Salina, a noble aristocrat of impeccable integrity, tries to preserve his family and class amid the tumultuous social upheavals of 1860's Sicily.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "Bye Bye Birdie",
+        "certificate": "Approved",
+        "runtime": "112 min",
+        "genre": "Comedy, Musical",
+        "description": "A rock singer travels to a small Ohio town to make his \"farewell\" television performance and kiss his biggest fan before he is drafted.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "Jason and the Argonauts",
+        "certificate": "G",
+        "runtime": "104 min",
+        "genre": "Adventure, Family, Fantasy",
+        "description": "The legendary Greek hero leads a team of intrepid adventurers in a perilous quest for the legendary Golden Fleece.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "Contempt",
+        "certificate": "Not Rated",
+        "runtime": "102 min",
+        "genre": "Drama, Romance",
+        "description": "Screenwriter Paul Javal's marriage to his wife Camille disintegrates during movie production as she spends time with the producer. Layered conflicts between art and business ensue.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "The Silence",
+        "certificate": "R",
+        "runtime": "96 min",
+        "genre": "Drama",
+        "description": "Two estranged sisters, Ester and Anna, and Anna's 10-year-old son travel to the Central European country on the verge of war. Ester becomes seriously ill and the three of them move into a hotel in a small town called Timoka.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "The Haunting",
+        "certificate": "G",
+        "runtime": "112 min",
+        "genre": "Horror",
+        "description": "A scientist doing research on the paranormal invites two women to a haunted mansion. One of the participants soon starts losing her mind.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "Move Over, Darling",
+        "certificate": "Approved",
+        "runtime": "103 min",
+        "genre": "Comedy, Romance",
+        "description": "After five years lost at sea, a missing wife thought long dead returns just after her husband remarries.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "4 for Texas",
+        "certificate": "Approved",
+        "runtime": "124 min",
+        "genre": "Comedy, Western",
+        "description": "Zack Thomas is a tough guy who hooks up with Joe Jarrett to open a casino.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "Ieri oggi domani",
+        "certificate": "Not Rated",
+        "runtime": "119 min",
+        "genre": "Comedy, Romance",
+        "description": "Stories about three very different women and the men they attract.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "High and Low",
+        "certificate": "Not Rated",
+        "runtime": "143 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "An executive of a shoe company becomes a victim of extortion when his chauffeur's son is kidnapped and held for ransom.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "Donovan's Reef",
+        "certificate": "Not Rated",
+        "runtime": "109 min",
+        "genre": "Adventure, Comedy, Romance",
+        "description": "Comedy subtly dealing with moral issues such as racial bigotry, corporate greed, American belief of societal superiority and hypocrisy.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "Hud",
+        "certificate": "Not Rated",
+        "runtime": "112 min",
+        "genre": "Drama",
+        "description": "Honest and hard-working Texas rancher Homer Bannon has a conflict with his unscrupulous, selfish, arrogant and egotistical son Hud, who sank into alcoholism after accidentally killing his brother in a car crash.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "The Nutty Professor",
+        "certificate": "Not Rated",
+        "runtime": "107 min",
+        "genre": "Comedy, Romance, Sci-Fi",
+        "description": "To improve his social life, a nerdish professor drinks a potion that temporarily turns him into the handsome, but obnoxious, Buddy Love.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "Winter Light",
+        "certificate": "Not Rated",
+        "runtime": "81 min",
+        "genre": "Drama",
+        "description": "A small town priest struggles with his faith.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "The Terror",
+        "certificate": "TV-PG",
+        "runtime": "81 min",
+        "genre": "Horror, Thriller",
+        "description": "A young officer in Napoleon's Army pursues a mysterious woman to the castle of an elderly Baron.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "Tom Jones",
+        "certificate": "Not Rated",
+        "runtime": "128 min",
+        "genre": "Adventure, Comedy, History",
+        "description": "The romantic and chivalrous adventures of adopted bastard Tom Jones in 18th century England.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "Lilies of the Field",
+        "certificate": "Unrated",
+        "runtime": "94 min",
+        "genre": "Drama",
+        "description": "A travelling handyman becomes the answer to the prayers of nuns who wish to build a chapel in the desert.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "The Raven",
+        "certificate": "G",
+        "runtime": "86 min",
+        "genre": "Comedy, Fantasy, Horror",
+        "description": "A magician, who has been turned into a raven, turns to a former sorcerer for help.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "Love with the Proper Stranger",
+        "certificate": "Unrated",
+        "runtime": "102 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Angie Rossini is an innocent Italian Catholic Macy's salesgirl, who discovers she's pregnant from a fling with Rocky, a musician. Angie finds Rocky (who doesn't remember her at first) to ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "Invasion of the Triffids",
+        "certificate": "Approved",
+        "runtime": "93 min",
+        "genre": "Horror, Sci-Fi",
+        "description": "After an unusual meteor shower leaves most of the human population blind, a merchant navy officer must find a way to conquer tall, aggressive plants which are feeding on people and animals.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "55 Days at Peking",
+        "certificate": "Unrated",
+        "runtime": "154 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "During the 1900 Boxer Rebellion against foreigners in China, U.S. Marine Major Matt Lewis, aided by British Consul Sir Arthur Robertson, devises a strategy to keep the rebels at bay until an international military relief force arrives.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "Spencer's Mountain",
+        "certificate": "Approved",
+        "runtime": "118 min",
+        "genre": "Drama, Family",
+        "description": "Clay Spencer is a hard-working man who loves his wife and large family. He is respected by his neighbors and always ready to give them a helping hand. Although not a churchgoer, he even ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "The Thrill of It All",
+        "certificate": "Approved",
+        "runtime": "108 min",
+        "genre": "Comedy, Romance",
+        "description": "A housewife's sudden rise to fame as a soap spokesperson leads to chaos in her home life.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "What a Crazy World",
+        "certificate": "",
+        "runtime": "88 min",
+        "genre": "Musical",
+        "description": "Unemployed East End lad Alf Hitchens has an on-off relationship with his girlfriend Marilyn and a dream of hitting the big time in the music business. Cheerful pop musical with a ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "The Victors",
+        "certificate": "",
+        "runtime": "175 min",
+        "genre": "Drama, War",
+        "description": "Intelligent, sprawling saga of a squad of American soldiers, following them through Europe during World War II.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "X: The Man with the X-Ray Eyes",
+        "certificate": "Not Rated",
+        "runtime": "79 min",
+        "genre": "Horror, Sci-Fi, Thriller",
+        "description": "A doctor uses special eye drops to give himself x-ray vision, but the new power has disastrous consequences.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Blood Feast",
+        "certificate": "Not Rated",
+        "runtime": "67 min",
+        "genre": "Horror",
+        "description": "An Egyptian caterer kills various women in suburban Miami to use their body parts to bring to life a dormant Egyptian goddess, while an inept police detective tries to track him down.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "The Servant",
+        "certificate": "Unrated",
+        "runtime": "116 min",
+        "genre": "Drama",
+        "description": "An upper-class man hires a servant who turns out to have a hidden agenda.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "Sunday in New York",
+        "certificate": "Approved",
+        "runtime": "105 min",
+        "genre": "Comedy, Romance",
+        "description": "On a Sunday, Eileen Tyler, still a virgin, leaves Albany to visit her airline pilot brother in New York but a chance encounter with a man on a city bus threatens to derail her upcoming marriage to boyfriend Russ.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "The Flood",
+        "certificate": "",
+        "runtime": "58 min",
+        "genre": "Family",
+        "description": "Set during some East Anglian floods, the story revolves around how eight children trapped in a farmhouse manage to cope by themselves until rescued.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "The Incredible Journey",
+        "certificate": "G",
+        "runtime": "80 min",
+        "genre": "Adventure, Drama, Family",
+        "description": "The story of three pets, a cat and two dogs, who lose their owners when they are all on vacation. Can they find their way home?",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "The Fire Within",
+        "certificate": "Not Rated",
+        "runtime": "108 min",
+        "genre": "Drama",
+        "description": "Alain Leroy is having a course of treatment in a private hospital because of his problem with alcohol. Although he is constantly distressed, he leaves the hospital and tries to meet good ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "The List of Adrian Messenger",
+        "certificate": "Not Rated",
+        "runtime": "98 min",
+        "genre": "Mystery",
+        "description": "A former intelligence officer is tasked by the heir to the Gleneyre estate to investigate the unusual deaths of a disparate group of eleven men on a list.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "Voyage to the End of the Universe",
+        "certificate": "",
+        "runtime": "81 min",
+        "genre": "Sci-Fi",
+        "description": "The year is 2163. Starship Ikaria XB 1 embarks on a long journey across the Universe, to search for life on the planets of Alpha Centauri.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "This Sporting Life",
+        "certificate": "Not Rated",
+        "runtime": "134 min",
+        "genre": "Drama, Sport",
+        "description": "Despite success on the field, a rising rugby star senses the emerging emptiness of his life as his inner angst begins to materialize through aggression and brutality, so he attempts to woo his landlady in hopes of finding reason to live.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "Shock Corridor",
+        "certificate": "Not Rated",
+        "runtime": "101 min",
+        "genre": "Drama, Mystery",
+        "description": "Bent on winning a Pulitzer Prize, a journalist commits himself to a mental institution to solve a strange and unclear murder.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "Black Sabbath",
+        "certificate": "Not Rated",
+        "runtime": "92 min",
+        "genre": "Horror",
+        "description": "Boris Karloff hosts a trio of horror stories concerning a stalked call girl, a vampire-like monster who preys on his family, and a nurse who is haunted by her ring's rightful owner.",
+        "director": "",
+        "stars": []
+    }
+}

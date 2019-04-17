@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "2001: A Space Odyssey",
+        "certificate": "G",
+        "runtime": "149 min",
+        "genre": "Adventure, Sci-Fi",
+        "description": "After discovering a mysterious artifact buried beneath the lunar surface, mankind sets off on a quest to find its origins with help from intelligent supercomputer HAL 9000.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "Once Upon a Time in the West",
+        "certificate": "PG-13",
+        "runtime": "165 min",
+        "genre": "Western",
+        "description": "A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "Chitty Chitty Bang Bang",
+        "certificate": "G",
+        "runtime": "144 min",
+        "genre": "Adventure, Family, Fantasy",
+        "description": "A down-on-his-luck inventor turns a broken-down Grand Prix car into a fancy vehicle for his children, and then they go off on a magical fantasy adventure to save their grandfather in a far-off land.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "The Party",
+        "certificate": "PG",
+        "runtime": "99 min",
+        "genre": "Comedy",
+        "description": "A clerical mistake results in a bumbling Indian film star being invited to an exclusive Hollywood party instead of being fired.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "Rosemary's Baby",
+        "certificate": "R",
+        "runtime": "137 min",
+        "genre": "Drama, Horror",
+        "description": "A young couple moves in to an apartment only to be surrounded by peculiar neighbors and occurrences. When the wife becomes mysteriously pregnant, paranoia over the safety of her unborn child begins to control her life.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "Barbarella",
+        "certificate": "PG",
+        "runtime": "98 min",
+        "genre": "Adventure, Comedy, Fantasy",
+        "description": "Barbarella, an astronaut from the 41st century, sets out to find and stop the evil scientist Durand Durand, whose Positronic Ray threatens to bring evil back into the galaxy.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "Planet of the Apes",
+        "certificate": "G",
+        "runtime": "112 min",
+        "genre": "Adventure, Sci-Fi",
+        "description": "An astronaut crew crash-lands on a planet in the distant future where intelligent talking apes are the dominant species, and humans are the oppressed and enslaved.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "Romeo and Juliet",
+        "certificate": "PG",
+        "runtime": "138 min",
+        "genre": "Drama, Romance",
+        "description": "When two young members of feuding families meet, forbidden love ensues.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "Faces",
+        "certificate": "R",
+        "runtime": "130 min",
+        "genre": "Drama",
+        "description": "A middle-aged man leaves his wife for a younger woman. Shortly after, his ex-wife also begins a relationship with a younger partner. The film follows their struggles to find love amongst each other.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "Bullitt",
+        "certificate": "M/PG",
+        "runtime": "114 min",
+        "genre": "Action, Crime, Mystery",
+        "description": "An all guts, no glory San Francisco cop becomes determined to find the underworld kingpin that killed the witness in his protection.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "Hang 'Em High",
+        "certificate": "M",
+        "runtime": "114 min",
+        "genre": "Western",
+        "description": "When an innocent man barely survives a lynching, he returns as a lawman determined to bring the vigilantes to justice.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "Night of the Living Dead",
+        "certificate": "Not Rated",
+        "runtime": "96 min",
+        "genre": "Horror",
+        "description": "A ragtag group of Pennsylvanians barricade themselves in an old farmhouse to remain safe from a bloodthirsty, flesh-eating breed of monsters who are ravaging the East Coast of the United States.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "The Thomas Crown Affair",
+        "certificate": "Approved",
+        "runtime": "102 min",
+        "genre": "Crime, Drama, Romance",
+        "description": "A debonair, adventuresome bank executive believes he has pulled off the perfect multi-million dollar heist, only to match wits with a sexy insurance investigator who will do anything to get her man.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "Oliver!",
+        "certificate": "G",
+        "runtime": "153 min",
+        "genre": "Drama, Family, Musical",
+        "description": "After being sold to a mortician, young orphan Oliver Twist runs away and meets a group of boys trained to be pickpockets by an elderly mentor.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "Where Eagles Dare",
+        "certificate": "PG",
+        "runtime": "158 min",
+        "genre": "Action, Adventure, War",
+        "description": "Allied agents stage a daring raid on a castle where the Nazis are holding an American General prisoner... but that's not all that's really going on.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "The Lion in Winter",
+        "certificate": "PG",
+        "runtime": "134 min",
+        "genre": "Biography, Drama, History",
+        "description": "1183 A.D.: King Henry II's three sons all want to inherit the throne, but he won't commit to a choice. They and his wife variously plot to force him.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "The Odd Couple",
+        "certificate": "G",
+        "runtime": "105 min",
+        "genre": "Comedy",
+        "description": "Two friends try sharing an apartment, but their ideas of housekeeping and lifestyles are as different as night and day.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Funny Girl",
+        "certificate": "G",
+        "runtime": "151 min",
+        "genre": "Biography, Comedy, Drama",
+        "description": "The life of Fanny Brice, famed comedienne and entertainer of the early 1900s. We see her rise to fame as a Ziegfeld girl, subsequent career, and her personal life, particularly her relationship with Nick Arnstein.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "Coogan's Bluff",
+        "certificate": "R",
+        "runtime": "93 min",
+        "genre": "Action, Comedy, Crime",
+        "description": "An Arizona deputy sheriff is sent to New York City to escort an escaped fugitive back for trial.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "Candy",
+        "certificate": "R",
+        "runtime": "115 min",
+        "genre": "Adventure, Comedy, Fantasy",
+        "description": "Candy, an innocent high-schooler, encounters numerous colorful characters and humorous sexual situations while attempting to find meaning in life.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "If....",
+        "certificate": "R",
+        "runtime": "111 min",
+        "genre": "Drama",
+        "description": "In this allegorical story, a revolution led by pupil Mick Travis takes place at an old established private school in England.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "Voyage to the Planet of Prehistoric Women",
+        "certificate": "Unrated",
+        "runtime": "78 min",
+        "genre": "Adventure, Sci-Fi",
+        "description": "Astronauts landing on Venus encounter dangerous creatures and almost meet some sexy Venusian women who like to sun-bathe in hip-hugging skin-tight pants and seashell brassieres.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "The Swimmer",
+        "certificate": "Approved",
+        "runtime": "95 min",
+        "genre": "Drama",
+        "description": "A man spends a summer day swimming as many pools as he can all over a quiet suburban town.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "The Devil's Brigade",
+        "certificate": "Approved",
+        "runtime": "130 min",
+        "genre": "Action, Drama, War",
+        "description": "An American colonel who has never been in combat is assigned to create a special forces unit from Canadian Army troops and a ragtag group of U.S. Army misfits.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "The Love Bug",
+        "certificate": "G",
+        "runtime": "108 min",
+        "genre": "Comedy, Family, Sport",
+        "description": "A race car driver becomes a champion with a Volkswagen Beetle with a mind of its own.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "Teorema",
+        "certificate": "Not Rated",
+        "runtime": "98 min",
+        "genre": "Drama, Mystery",
+        "description": "A mysterious young man seduces each member of a bourgeois family. When he suddenly leaves, how will their lives change?",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "The Green Berets",
+        "certificate": "G",
+        "runtime": "142 min",
+        "genre": "Drama, War",
+        "description": "Col. Mike Kirby picks two teams of crack Green Berets for a mission in South Vietnam. First off is to build and control a camp that is trying to be taken by the enemy the second mission is to kidnap a North Vietnamese General.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "Yours, Mine and Ours",
+        "certificate": "Unrated",
+        "runtime": "111 min",
+        "genre": "Comedy, Family",
+        "description": "A widower with ten children falls for a widow with eight, and they must decide about forming a huge, unconventional family.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "Hell in the Pacific",
+        "certificate": "G",
+        "runtime": "103 min",
+        "genre": "Adventure, War",
+        "description": "During World War II, an American pilot and a marooned Japanese navy captain are deserted on a small uninhabited island in the Pacific Ocean. There, they must cease their hostility and cooperate if they want to survive, but will they?",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "The Great Silence",
+        "certificate": "Not Rated",
+        "runtime": "105 min",
+        "genre": "Western",
+        "description": "A mute gunfighter defends a young widow and a group of outlaws against a gang of bounty killers in the winter of 1898, and a grim, tense struggle unfolds.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "Charly",
+        "certificate": "M",
+        "runtime": "103 min",
+        "genre": "Drama, Romance, Sci-Fi",
+        "description": "An intellectually disabled man undergoes an experiment that gives him the intelligence of a genius.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "Head",
+        "certificate": "G",
+        "runtime": "86 min",
+        "genre": "Comedy, Fantasy, Musical",
+        "description": "The Monkees are tossed about in a psychedelic, surrealist, plotless, circular bit of fun fluff.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "Hellfighters",
+        "certificate": "G",
+        "runtime": "121 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "The story of macho oil well firefighters and their wives.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "Yellow Submarine",
+        "certificate": "G",
+        "runtime": "85 min",
+        "genre": "Animation, Adventure, Comedy",
+        "description": "The Beatles agree to accompany Captain Fred in his Yellow Submarine and go to Pepperland to free it from the music hating Blue Meanies.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "Hour of the Wolf",
+        "certificate": "Not Rated",
+        "runtime": "90 min",
+        "genre": "Drama, Horror",
+        "description": "While vacationing on a remote Scandanavian island with his younger pregnant wife, an artist has an emotional breakdown while confronting his repressed desires.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "Spirits of the Dead",
+        "certificate": "R",
+        "runtime": "121 min",
+        "genre": "Drama, Horror, Mystery",
+        "description": "Anthology film from three European directors based on stories by Edgar Allan Poe: a cruel princess haunted by a ghostly horse, a sadistic young man haunted by his double, and an alcoholic actor haunted by the Devil.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "Witchfinder General",
+        "certificate": "Unrated",
+        "runtime": "86 min",
+        "genre": "Biography, Drama, Horror",
+        "description": "A young soldier seeks to put an end to the evils caused by a vicious witch hunter.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "The Devil Rides Out",
+        "certificate": "G",
+        "runtime": "95 min",
+        "genre": "Horror",
+        "description": "Devil worshipers plan to convert two new victims.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "Finian's Rainbow",
+        "certificate": "G",
+        "runtime": "141 min",
+        "genre": "Family, Fantasy, Musical",
+        "description": "An Irish immigrant and his daughter move into a town in the American South with a magical piece of gold that will change people's lives, including a struggling farmer and African American citizens threatened by a bigoted politician.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Stolen Kisses",
+        "certificate": "R",
+        "runtime": "90 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "After being discharged from the army, Antoine Doinel centers a screwball comedy where he applies for different jobs and tries to make sense of his relationships with women.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Shame",
+        "certificate": "R",
+        "runtime": "103 min",
+        "genre": "Drama",
+        "description": "In the midst of a civil war, former violinists Jan and Eva Rosenberg, who have a tempestuous marriage, run a farm on a rural island. In spite of their best efforts to escape their homeland, the war impinges on every aspect of their lives.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "Greetings",
+        "certificate": "R",
+        "runtime": "88 min",
+        "genre": "Comedy, Drama",
+        "description": "An offbeat, episodic film about three friends, Paul, a shy love-seeker, Lloyd, a vibrant conspiracy nut, and Jon, an aspiring filmmaker and peeping tom. The film satirizes free-love, the ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Bandolero!",
+        "certificate": "PG-13",
+        "runtime": "106 min",
+        "genre": "Action, Crime, Drama",
+        "description": "Mace Bishop masquerades as a hangman in order to save his outlaw brother from the gallows, runs to Mexico chased by the Sheriff's posse and fights against Mexican bandits.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "Vixen!",
+        "certificate": "X",
+        "runtime": "70 min",
+        "genre": "Drama",
+        "description": "Vixen lives in a Canadian mountain resort with her naive pilot husband. While he's away flying in tourists, she gets it on with practically everybody including a husband and his wife, and ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "Dark of the Sun",
+        "certificate": "Approved",
+        "runtime": "100 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "A band of mercenaries led by Captain Curry travel through war-torn Congo across deadly terrain, battling rival armies, to steal $50 million in uncut diamonds. But infighting, sadistic rebels and a time lock jeopardize everything.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Deadfall",
+        "certificate": "R",
+        "runtime": "120 min",
+        "genre": "Crime, Drama",
+        "description": "Cat burglar Henry Clarke and his accomplices, the Moreaus, attempt to steal diamonds from the ch\u00e2teau of millionaire Salinas. However, Henry's partners in crime aren't the most emotionally stable people.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "Ice Station Zebra",
+        "certificate": "G",
+        "runtime": "148 min",
+        "genre": "Adventure, Thriller",
+        "description": "USN nuclear sub USS Tigerfish must rush to the North Pole to rescue the staff of Drift Ice Station Zebra weather station.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "Yabu no naka no kuroneko",
+        "certificate": "Not Rated",
+        "runtime": "99 min",
+        "genre": "Drama, Horror",
+        "description": "Two women are raped and killed by samurai soldiers. Soon they reappear as vengeful ghosts who seduce and brutally murder the passing samurai.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "The Detective",
+        "certificate": "Approved",
+        "runtime": "114 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "Police detective Joe Leland investigates the murder of a homosexual man. While investigating, he discovers links to official corruption in New York City in this drama that delves into a world of sex and drugs.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "Danger: Diabolik",
+        "certificate": "Not Rated",
+        "runtime": "105 min",
+        "genre": "Action, Comedy, Crime",
+        "description": "International man of mystery Diabolik and his sensuous lover Eva Kant pull off heist after heist, all while European cops led by Inspector Ginko and envious mobsters led by Ralph Valmont are closing in on them.",
+        "director": "",
+        "stars": []
+    }
+}

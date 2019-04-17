@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "Romeo + Juliet",
+        "certificate": "PG-13",
+        "runtime": "120 min",
+        "genre": "Drama, Romance",
+        "description": "Shakespeare's famous play is updated to the hip modern suburb of Verona still retaining its original dialogue.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "Trainspotting",
+        "certificate": "R",
+        "runtime": "93 min",
+        "genre": "Drama",
+        "description": "Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "Matilda",
+        "certificate": "PG",
+        "runtime": "102 min",
+        "genre": "Comedy, Family, Fantasy",
+        "description": "Story of a wonderful little girl, who happens to be a genius, and her wonderful teacher vs. the worst parents ever and the worst school principal imaginable.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "From Dusk Till Dawn",
+        "certificate": "R",
+        "runtime": "108 min",
+        "genre": "Action, Crime, Horror",
+        "description": "Two criminals and their hostages unknowingly seek temporary refuge in a truck stop populated by vampires, with chaotic results.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "Space Jam",
+        "certificate": "PG",
+        "runtime": "88 min",
+        "genre": "Animation, Adventure, Comedy",
+        "description": "In a desperate attempt to win a basketball match and earn their freedom, the Looney Tunes seek the aid of retired basketball champion, Michael Jordan.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "Mars Attacks!",
+        "certificate": "PG-13",
+        "runtime": "106 min",
+        "genre": "Comedy, Sci-Fi",
+        "description": "Earth is invaded by Martians with unbeatable weapons and a cruel sense of humor.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "Happy Gilmore",
+        "certificate": "PG-13",
+        "runtime": "92 min",
+        "genre": "Comedy, Sport",
+        "description": "A rejected hockey player puts his skills to the golf course to save his grandmother's house.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "Twister",
+        "certificate": "PG-13",
+        "runtime": "113 min",
+        "genre": "Adventure, Thriller",
+        "description": "Bill and Jo Harding, advanced storm chasers on the brink of divorce, must join together to create an advanced weather alert system by putting themselves in the cross-hairs of extremely violent tornadoes.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "Independence Day",
+        "certificate": "PG-13",
+        "runtime": "145 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "The aliens are coming and their goal is to invade and destroy Earth. Fighting superior technology, mankind's best weapon is the will to survive.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "Scream",
+        "certificate": "R",
+        "runtime": "111 min",
+        "genre": "Horror, Mystery",
+        "description": "A year after the murder of her mother, a teenage girl is terrorized by a new killer, who targets the girl and her friends by using horror films as part of a deadly game.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "Fargo",
+        "certificate": "R",
+        "runtime": "98 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "The Birdcage",
+        "certificate": "R",
+        "runtime": "117 min",
+        "genre": "Comedy",
+        "description": "A gay cabaret owner and his drag queen companion agree to put up a false straight front so that their son can introduce them to his fianc\u00e9e's right-wing moralistic parents.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "A Time to Kill",
+        "certificate": "R",
+        "runtime": "149 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "In Canton, Mississippi, a fearless young lawyer and his assistant defend a black man accused of murdering two white men who raped his ten-year-old daughter, inciting violent retribution and revenge from the Ku Klux Klan.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "Kazaam",
+        "certificate": "PG",
+        "runtime": "93 min",
+        "genre": "Comedy, Family, Fantasy",
+        "description": "A troubled kid inadvertently releases a genie, who must grant him any three wishes he requests.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "Swingers",
+        "certificate": "R",
+        "runtime": "96 min",
+        "genre": "Comedy, Drama",
+        "description": "Wannabe actors become regulars in the stylish neo-lounge scene; Trent teaches his friend Mike the unwritten rules of the scene.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "Mission: Impossible",
+        "certificate": "PG-13",
+        "runtime": "110 min",
+        "genre": "Action, Adventure, Thriller",
+        "description": "An American agent, under false suspicion of disloyalty, must discover and expose the real spy without the help of his organization.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "Jerry Maguire",
+        "certificate": "R",
+        "runtime": "139 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "When a sports agent has a moral epiphany and is fired for expressing it, he decides to put his new philosophy to the test as an independent agent with the only athlete who stays with him and his former secretary.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "The Cable Guy",
+        "certificate": "PG-13",
+        "runtime": "96 min",
+        "genre": "Comedy, Drama, Thriller",
+        "description": "A lonely and mentally disturbed cable guy raised on television just wants a new friend, but his target, a designer, rejects him, with bad consequences.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "Primal Fear",
+        "certificate": "R",
+        "runtime": "129 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "An altar boy is accused of murdering a priest, and the truth is buried several layers deep.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "The English Patient",
+        "certificate": "R",
+        "runtime": "162 min",
+        "genre": "Drama, Romance, War",
+        "description": "At the close of WWII, a young nurse tends to a badly-burned plane crash victim. His past is shown in flashbacks, revealing an involvement in a fateful love affair.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "The Rock",
+        "certificate": "R",
+        "runtime": "136 min",
+        "genre": "Action, Adventure, Thriller",
+        "description": "A mild-mannered chemist and an ex-con must lead the counterstrike when a rogue group of military men, led by a renegade general, threaten a nerve gas attack from Alcatraz against San Francisco.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "The Craft",
+        "certificate": "R",
+        "runtime": "101 min",
+        "genre": "Drama, Fantasy, Horror",
+        "description": "A newcomer to a Catholic prep high school falls in with a trio of outcast teenage girls who practice witchcraft, and they all soon conjure up various spells and curses against those who anger them.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "The Hunchback of Notre Dame",
+        "certificate": "G",
+        "runtime": "91 min",
+        "genre": "Animation, Drama, Family",
+        "description": "A deformed bell-ringer must assert his independence from a vicious government minister in order to help his friend, a gypsy dancer.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "Striptease",
+        "certificate": "R",
+        "runtime": "115 min",
+        "genre": "Comedy, Crime, Drama",
+        "description": "A stripper and single mother gets dragged into a dangerous situation after a congressman takes a fancy to her.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "Sleepers",
+        "certificate": "R",
+        "runtime": "147 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "After a prank goes disastrously wrong, a group of boys are sent to a detention center where they are brutalized. Thirteen years later, they get their chance for revenge.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "Fear",
+        "certificate": "R",
+        "runtime": "97 min",
+        "genre": "Drama, Thriller",
+        "description": "When Nicole met David; handsome, charming, affectionate, he was everything. It seemed perfect, but soon she sees that David has a darker side. And his adoration turns to obsession, their dream into a nightmare, and her love into fear.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "Crash",
+        "certificate": "NC-17",
+        "runtime": "100 min",
+        "genre": "Drama",
+        "description": "After getting into a serious car accident, a TV director discovers an underground sub-culture of scarred, omnisexual car-crash victims who use car accidents and the raw sexual energy they produce to try to rejuvenate his sex life with his wife.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "Bound",
+        "certificate": "R",
+        "runtime": "109 min",
+        "genre": "Crime, Romance, Thriller",
+        "description": "Corky, a tough female ex con and her lover Violet concoct a scheme to steal millions of stashed mob money and pin the blame on Violet's crooked boyfriend Caesar.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "James and the Giant Peach",
+        "certificate": "PG",
+        "runtime": "79 min",
+        "genre": "Animation, Adventure, Family",
+        "description": "An orphan, who lives with his two cruel aunts, befriends anthropomorphic bugs who live inside a giant peach, and they embark on a journey to New York City.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "The People vs. Larry Flynt",
+        "certificate": "R",
+        "runtime": "129 min",
+        "genre": "Biography, Drama",
+        "description": "The story of a controversial pornography publisher and how he became a defender of free speech.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "The Frighteners",
+        "certificate": "R",
+        "runtime": "110 min",
+        "genre": "Comedy, Fantasy, Horror",
+        "description": "After a tragic car accident kills his wife, a man discovers he can communicate with the dead to con people. However, when a demonic spirit appears, he may be the only one who can stop it from killing the living and the dead.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "Escape from L.A.",
+        "certificate": "R",
+        "runtime": "101 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Snake Plissken is once again called in by the United States government to recover a potential doomsday device from Los Angeles, now an autonomous island where undesirables are deported.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "Kingpin",
+        "certificate": "PG-13",
+        "runtime": "114 min",
+        "genre": "Comedy, Sport",
+        "description": "A star bowler whose career was prematurely \"cut off\" hopes to ride a new prodigy to success and riches.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "Sling Blade",
+        "certificate": "R",
+        "runtime": "135 min",
+        "genre": "Drama",
+        "description": "Karl Childers, a simple man hospitalized since his childhood murder of his mother and her lover, is released to start a new life in a small town.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "That Thing You Do!",
+        "certificate": "PG",
+        "runtime": "108 min",
+        "genre": "Comedy, Drama, Music",
+        "description": "A local Pennsylvania band scores a one hit wonder in 1964 and rides the star-making machinery as long as they can, with lots of help from its manager.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "Eraser",
+        "certificate": "R",
+        "runtime": "115 min",
+        "genre": "Action, Drama, Mystery",
+        "description": "A Witness Protection specialist becomes suspicious of his co-workers when dealing with a case involving high-tech weapons.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "Hard Eight",
+        "certificate": "R",
+        "runtime": "101 min",
+        "genre": "Crime, Drama",
+        "description": "Professional gambler Sydney teaches John the tricks of the trade. John does well until he falls for cocktail waitress Clementine.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "101 Dalmatians",
+        "certificate": "G",
+        "runtime": "103 min",
+        "genre": "Adventure, Comedy, Crime",
+        "description": "An evil high-fashion designer plots to steal Dalmatian puppies in order to make an extravagant fur coat, but instead creates an extravagant mess.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "Don't Be a Menace to South Central While Drinking Your Juice in the Hood",
+        "certificate": "R",
+        "runtime": "89 min",
+        "genre": "Comedy, Crime",
+        "description": "A parody of several U.S. films about being in the 'Hood', for instance \"Boyz n the Hood\", \"South Central\", \"Menace II Society\", \"Higher Learning\" and \"Juice\".",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "The Island of Dr. Moreau",
+        "certificate": "PG-13",
+        "runtime": "96 min",
+        "genre": "Horror, Sci-Fi, Thriller",
+        "description": "After being rescued and brought to an island, a man discovers that its inhabitants are experimental animals being turned into strange-looking humans, all of it the work of a visionary doctor.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Star Trek: First Contact",
+        "certificate": "PG-13",
+        "runtime": "111 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "The Borg travel back in time intent on preventing Earth's first contact with an alien species. Captain Picard and his crew pursue them to ensure that Zefram Cochran makes his maiden flight reaching warp speed.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "2 Days in the Valley",
+        "certificate": "R",
+        "runtime": "104 min",
+        "genre": "Comedy, Crime, Thriller",
+        "description": "48 hours of intersecting lives and crimes in Los Angeles.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "The Mirror Has Two Faces",
+        "certificate": "PG-13",
+        "runtime": "126 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A shy, middle-aged professor enters into a romantic but non-physical relationship with an unlucky-in-love colleague.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "Stealing Beauty",
+        "certificate": "R",
+        "runtime": "118 min",
+        "genre": "Drama, Mystery, Romance",
+        "description": "After her mother commits suicide, a young woman travels to Italy in search of love, truth and a deeper connection with herself.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "Hamlet",
+        "certificate": "PG-13",
+        "runtime": "242 min",
+        "genre": "Drama",
+        "description": "Hamlet, Prince of Denmark, returns home to find his father murdered and his mother remarrying the murderer, his uncle. Meanwhile, war is brewing.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Bio-Dome",
+        "certificate": "PG-13",
+        "runtime": "88 min",
+        "genre": "Comedy",
+        "description": "Moronic best friends get themselves locked inside the Bio-Dome, a science experiment, along with a group of environmental scientists for one year.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "Emma",
+        "certificate": "PG",
+        "runtime": "120 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "While matchmaking for friends and neighbours, a young 19th Century Englishwoman nearly misses her own chance at love.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "The Nutty Professor",
+        "certificate": "PG-13",
+        "runtime": "95 min",
+        "genre": "Comedy, Romance, Sci-Fi",
+        "description": "Grossly overweight yet good-hearted professor Sherman Klump takes a special chemical that turns him into the slim but obnoxious Buddy Love.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "Breaking the Waves",
+        "certificate": "R",
+        "runtime": "159 min",
+        "genre": "Drama",
+        "description": "Oilman Jan is paralyzed in an accident. His wife, who prayed for his return, feels guilty; even more, when Jan urges her to have sex with another.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "Jack",
+        "certificate": "PG-13",
+        "runtime": "113 min",
+        "genre": "Comedy, Drama, Fantasy",
+        "description": "Because of an unusual aging disorder that has aged him four times faster than a normal human being, a boy enters the fifth grade for the first time with the appearance of a 40 year old man.",
+        "director": "",
+        "stars": []
+    }
+}

@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "Shazam!",
+        "certificate": "PG-13",
+        "runtime": "132 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "We all have a superhero inside us, it just takes a bit of magic to bring it out. In Billy Batson's case, by shouting out one word - SHAZAM. - this streetwise fourteen-year-old foster kid can turn into the grown-up superhero Shazam.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "Avengers: Endgame",
+        "certificate": "PG-13",
+        "runtime": "181 min",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to undo Thanos' actions and restore order to the universe.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "Hellboy",
+        "certificate": "R",
+        "runtime": "120 min",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "Based on the graphic novels by Mike Mignola, Hellboy, caught between the worlds of the supernatural and human, battles an ancient sorceress bent on revenge.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "Joker",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Crime, Drama, Thriller",
+        "description": "A failed stand-up comedian is driven insane and becomes a psychopathic murderer.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "After",
+        "certificate": "PG-13",
+        "runtime": "105 min",
+        "genre": "Drama, Romance",
+        "description": "A young woman falls for a guy with a dark secret and the two embark on a rocky relationship. Based on the novel by Anna Todd.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "Pet Sematary",
+        "certificate": "R",
+        "runtime": "101 min",
+        "genre": "Horror, Mystery, Thriller",
+        "description": "Dr. Louis Creed and his wife, Rachel, relocate from Boston to rural Maine with their two young children. The couple soon discover a mysterious burial ground hidden deep in the woods near their new home.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "The Lion King",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Animation, Adventure, Drama",
+        "description": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "Terminator: Dark Fate",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Plot unknown.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "Star Wars: The Rise of Skywalker",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "The final chapter of the saga from a galaxy far, far away.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "The Silence",
+        "certificate": "PG-13",
+        "runtime": "90 min",
+        "genre": "Horror, Thriller",
+        "description": "When the world is under attack from terrifying creatures who hunt their human prey by sound, 16-year old Ally Andrews (Kiernan Shipka), who lost her hearing at 13, and her family seek refuge in a remote haven.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "Us",
+        "certificate": "R",
+        "runtime": "116 min",
+        "genre": "Horror, Thriller",
+        "description": "A family's serene beach vacation turns to chaos when their doppelg\u00e4ngers appear and begin to terrorize them.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "Captain Marvel",
+        "certificate": "PG-13",
+        "runtime": "123 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "The Highwaymen",
+        "certificate": "R",
+        "runtime": "132 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "A pair of Texas Rangers come out of retirement to catch the infamous outlaws Bonnie and Clyde.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "Glass",
+        "certificate": "PG-13",
+        "runtime": "129 min",
+        "genre": "Drama, Sci-Fi, Thriller",
+        "description": "Security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "Dumbo",
+        "certificate": "PG",
+        "runtime": "112 min",
+        "genre": "Adventure, Family, Fantasy",
+        "description": "A young elephant, whose oversized ears enable him to fly, helps save a struggling circus, but when the circus plans a new venture, Dumbo and his friends discover dark secrets beneath its shiny veneer.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "The Dirt",
+        "certificate": "TV-MA",
+        "runtime": "107 min",
+        "genre": "Biography, Comedy, Drama",
+        "description": "The story of how M\u00f6tley Cr\u00fce came to be one of the most notorious rock 'n roll groups in history.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "Escape Room",
+        "certificate": "PG-13",
+        "runtime": "99 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "Six strangers find themselves in a maze of deadly mystery rooms, and must use their wits to survive.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "The Addams Family",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Animation, Comedy, Family",
+        "description": "An animated version of Charles Addams' series of cartoons about a peculiar, ghoulish family.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "Unplanned",
+        "certificate": "R",
+        "runtime": "106 min",
+        "genre": "Drama",
+        "description": "Abby Johnson is one of the youngest Planned Parenthood directors in the US. After she is asked to assist in an abortion at thirteen weeks gestation she instead resigns, becoming a pro-life activist.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "Once Upon a Time in Hollywood",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Comedy, Drama",
+        "description": "A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood's Golden Age in 1969 Los Angeles.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "Triple Frontier",
+        "certificate": "R",
+        "runtime": "125 min",
+        "genre": "Action, Adventure, Crime",
+        "description": "Loyalties are tested when five former special forces operatives reunite to steal a drug lord's fortune, unleashing a chain of unintended consequences.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "Stuber",
+        "certificate": "",
+        "runtime": "105 min",
+        "genre": "Action, Comedy",
+        "description": "A detective recruits his Uber driver into an unexpected night of adventure.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "How to Train Your Dragon: The Hidden World",
+        "certificate": "PG",
+        "runtime": "104 min",
+        "genre": "Animation, Action, Adventure",
+        "description": "When Hiccup discovers Toothless isn't the only Night Fury, he must seek \"The Hidden World\", a secret Dragon Utopia before a hired tyrant named Grimmel finds it first.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "Brightburn",
+        "certificate": "R",
+        "runtime": "",
+        "genre": "Drama, Horror, Sci-Fi",
+        "description": "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "The Dead Don't Die",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Comedy, Fantasy, Horror",
+        "description": "The peaceful town of Centerville finds itself battling a zombie horde as the dead start rising from their graves.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "Aladdin",
+        "certificate": "PG",
+        "runtime": "",
+        "genre": "Adventure, Comedy, Family",
+        "description": "A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "The Curse of La Llorona",
+        "certificate": "R",
+        "runtime": "93 min",
+        "genre": "Horror, Mystery, Thriller",
+        "description": "Ignoring the eerie warning of a troubled mother suspected of child endangerment, a social worker and her own small kids are soon drawn into a frightening supernatural realm.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "Little",
+        "certificate": "PG-13",
+        "runtime": "109 min",
+        "genre": "Comedy, Fantasy, Romance",
+        "description": "A woman is transformed into her younger self at a point in her life when the pressures of adulthood become too much to bear.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "The Perfect Date",
+        "certificate": "TV-14",
+        "runtime": "89 min",
+        "genre": "Comedy, Romance",
+        "description": "To save up for college, Brooks Rattigan creates an app where anyone can pay him to play the perfect stand-in boyfriend for any occasion.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "Sonic the Hedgehog",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Animation, Action, Adventure",
+        "description": "A cop in the rural town of Green Hills will help Sonic escape from the government who is looking to capture him.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "Missing Link",
+        "certificate": "PG",
+        "runtime": "95 min",
+        "genre": "Animation, Adventure, Comedy",
+        "description": "Mr. Link recruits explorer Sir Lionel Frost to help find his long-lost relatives in the fabled valley of Shangri-La. Along with adventurer Adelina Fortnight, this trio of explorers travel the world to help their new friend.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "Five Feet Apart",
+        "certificate": "PG-13",
+        "runtime": "116 min",
+        "genre": "Drama, Romance",
+        "description": "A pair of teenagers with cystic fibrosis meet in a hospital and fall in love.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "Spider-Man: Far from Home",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Action, Adventure, Comedy",
+        "description": "Peter Parker and his friends go on a European vacation, where Peter finds himself agreeing to help Nick Fury uncover the mystery of several elemental creature attacks, creating havoc across the continent.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "It: Chapter Two",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Horror, Thriller",
+        "description": "Twenty-seven years later, the Losers Club have grown up and moved away, until a devastating phone call brings them back.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "The Kid Who Would Be King",
+        "certificate": "PG",
+        "runtime": "120 min",
+        "genre": "Action, Adventure, Family",
+        "description": "A band of kids embark on an epic quest to thwart a medieval menace.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "Dark Phoenix",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Jean Grey begins to develop incredible powers that corrupt and turn her into a Dark Phoenix. Now the X-Men will have to decide if the life of a team member is worth more than all the people living in the world.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "The Beach Bum",
+        "certificate": "R",
+        "runtime": "95 min",
+        "genre": "Comedy",
+        "description": "A rebellious stoner named Moondog lives life by his own rules.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "The Trap",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Comedy",
+        "description": "A man returns home to Atlanta to help his brother's struggling restaurant.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "The Last Summer",
+        "certificate": "",
+        "runtime": "109 min",
+        "genre": "Comedy",
+        "description": "A group of young people in Chicago come together during the summer before they head off to college.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Rambo V: Last Blood",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Action, Adventure, Thriller",
+        "description": "Rambo goes up against a Mexican cartel in what's reported to be his last adventure.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Booksmart",
+        "certificate": "",
+        "runtime": "102 min",
+        "genre": "Comedy",
+        "description": "On the eve of their high school graduation, two academic superstars and best friends realize they should have worked less and played more. Determined not to fall short of their peers, the girls try to cram four years of fun into one night.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "Godzilla: King of the Monsters",
+        "certificate": "PG-13",
+        "runtime": "",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "The crypto-zoological agency Monarch faces off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Native Son",
+        "certificate": "TV-MA",
+        "runtime": "104 min",
+        "genre": "Drama",
+        "description": "A young African-American living in Chicago enters into a seductive new world of money and power after he is hired as a chauffeur for an affluent businessman.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "Pok\u00e9mon Detective Pikachu",
+        "certificate": "PG",
+        "runtime": "104 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "In a world where people collect Pok\u00e9mon to do battle, a boy comes across an intelligent talking Pikachu who seeks to be a detective.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "John Wick: Chapter 3 - Parabellum",
+        "certificate": "",
+        "runtime": "130 min",
+        "genre": "Action, Thriller",
+        "description": "Super-Assassin John Wick is on the run after killing a member of the international assassin's guild, and with a $14 million price tag on his head - he is the target of hit men and women everywhere.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Alita: Battle Angel",
+        "certificate": "PG-13",
+        "runtime": "122 min",
+        "genre": "Action, Adventure, Romance",
+        "description": "A deactivated female cyborg is revived, but cannot remember anything of her past life and goes on a quest to find out who she is.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "The Best of Enemies",
+        "certificate": "PG-13",
+        "runtime": "133 min",
+        "genre": "Biography, Drama, History",
+        "description": "Civil rights activist Ann Atwater faces off against C.P. Ellis, Exalted Cyclops of the Ku Klux Klan, in 1971 Durham, North Carolina over the issue of school integration.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "Alien Warfare",
+        "certificate": "",
+        "runtime": "88 min",
+        "genre": "Action, Sci-Fi",
+        "description": "A team of Navy Seals investigates a mysterious science outpost only to have to combat a squad of formidable alien soldiers.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "Extremely Wicked, Shockingly Evil, and Vile",
+        "certificate": "R",
+        "runtime": "108 min",
+        "genre": "Biography, Crime, Drama",
+        "description": "A chronicle of the crimes of Ted Bundy, from the perspective of his longtime girlfriend, Elizabeth Kloepfer, who refused to believe the truth about him for years.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "Long Shot",
+        "certificate": "R",
+        "runtime": "125 min",
+        "genre": "Comedy, Romance",
+        "description": "When Fred Flarsky reunites with his first crush, one of the most influential women in the world, Charlotte Field, he charms her. As she prepares to make a run for the Presidency, Charlotte hires Fred as her speechwriter and sparks fly.",
+        "director": "",
+        "stars": []
+    }
+}

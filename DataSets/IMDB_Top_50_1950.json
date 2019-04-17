@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "In a Lonely Place",
+        "certificate": "Not Rated",
+        "runtime": "94 min",
+        "genre": "Drama, Film-Noir, Mystery",
+        "description": "A potentially violent screenwriter is a murder suspect until his lovely neighbor clears him. But she begins to have doubts.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "All About Eve",
+        "certificate": "Not Rated",
+        "runtime": "138 min",
+        "genre": "Drama",
+        "description": "An ingenue insinuates herself into the lives of an established but aging stage actress and her circle of theater friends.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "Sunset Blvd.",
+        "certificate": "Not Rated",
+        "runtime": "110 min",
+        "genre": "Drama, Film-Noir",
+        "description": "A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "Cinderella",
+        "certificate": "G",
+        "runtime": "74 min",
+        "genre": "Animation, Family, Fantasy",
+        "description": "When Cinderella's cruel stepmother prevents her from attending the Royal Ball, she gets some unexpected help from the lovable mice Gus and Jaq, and from her Fairy Godmother.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "Rash\u00f4mon",
+        "certificate": "Not Rated",
+        "runtime": "88 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "The rape of a bride and the murder of her samurai husband are recalled from the perspectives of a bandit, the bride, the samurai's ghost and a woodcutter.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "A Life of Her Own",
+        "certificate": "Not Rated",
+        "runtime": "108 min",
+        "genre": "Drama",
+        "description": "Small town Kansas girl, Lily James, is the latest model working for the Thomas Callaway Agency in New York City. Despite her small town roots, Lily is street-wise because of her tough ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "Gun Crazy",
+        "certificate": "Passed",
+        "runtime": "87 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "A well meaning crack shot husband is pressured by his beautiful marksman wife to go on an interstate robbery spree, where he finds out just how depraved and deadly she really is.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "Winchester '73",
+        "certificate": "Not Rated",
+        "runtime": "92 min",
+        "genre": "Action, Drama, Western",
+        "description": "The journey of a prized rifle from one ill-fated owner to another parallels a cowboy's search for a murderous fugitive.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "Rio Grande",
+        "certificate": "Passed",
+        "runtime": "105 min",
+        "genre": "Romance, Western",
+        "description": "A cavalry officer posted on the Rio Grande must deal with murderous raiding Apaches, his son who's a risk-taking recruit and his wife from whom he has been separated for many years.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "Broken Arrow",
+        "certificate": "Approved",
+        "runtime": "93 min",
+        "genre": "Drama, Romance, Western",
+        "description": "Tom Jeffords tries to make peace between settlers and Apaches in Arizona territory.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "The Asphalt Jungle",
+        "certificate": "Passed",
+        "runtime": "112 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "A major heist goes off as planned, until bad luck and double crosses cause everything to unravel.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "The Magnet",
+        "certificate": "Approved",
+        "runtime": "79 min",
+        "genre": "Comedy",
+        "description": "A boy steals a powerful magnet from a younger boy and gets him into all sorts of trouble.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "Harvey",
+        "certificate": "Approved",
+        "runtime": "104 min",
+        "genre": "Comedy, Drama, Fantasy",
+        "description": "Due to his insistence that he has an invisible six foot-tall rabbit for a best friend, a whimsical middle-aged man is thought by his family to be insane - but he may be wiser than anyone knows.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "Treasure Island",
+        "certificate": "PG",
+        "runtime": "96 min",
+        "genre": "Adventure, Family",
+        "description": "The treasure seeking adventures of young Jim Hawkins and pirate captain Long John Silver.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "The Gunfighter",
+        "certificate": "Not Rated",
+        "runtime": "85 min",
+        "genre": "Western",
+        "description": "Notorious gunfighter Jimmy Ringo rides into town to find his true love, who doesn't want to see him. He hasn't come looking for trouble, but trouble finds him around every corner.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "The Young and the Damned",
+        "certificate": "Not Rated",
+        "runtime": "80 min",
+        "genre": "Crime, Drama",
+        "description": "A group of juvenile delinquents live a violent and crime-filled life in the festering slums of Mexico City, and the morals of young Pedro are gradually corrupted and destroyed by the others.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "Night and the City",
+        "certificate": "Not Rated",
+        "runtime": "96 min",
+        "genre": "Crime, Film-Noir, Mystery",
+        "description": "A small-time grifter and nightclub tout takes advantage of some fortuitous circumstances and tries to become a big-time player as a wrestling promoter.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Wagon Master",
+        "certificate": "Approved",
+        "runtime": "86 min",
+        "genre": "Adventure, Western",
+        "description": "Two young drifters guide a Mormon wagon train to the San Juan Valley and encounter cutthroats, Indians, geography, and moral challenges on the journey.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "Annie Get Your Gun",
+        "certificate": "Passed",
+        "runtime": "107 min",
+        "genre": "Biography, Comedy, Musical",
+        "description": "The story of the great sharpshooter Annie Oakley, who rose to fame while dealing with her love/professional rival, Frank Butler.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "Born Yesterday",
+        "certificate": "Not Rated",
+        "runtime": "103 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A tycoon hires a tutor to teach his lover proper etiquette, with unexpected results.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "Father of the Bride",
+        "certificate": "Not Rated",
+        "runtime": "92 min",
+        "genre": "Comedy, Romance",
+        "description": "The father of a young woman deals with the emotional pain of her getting married, along with the financial and organizational trouble of arranging the wedding.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "The Nevadan",
+        "certificate": "Approved",
+        "runtime": "81 min",
+        "genre": "Western",
+        "description": "A mysterious stranger crosses paths with an outlaw bank robber and a greedy rancher.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "Stage to Tucson",
+        "certificate": "Passed",
+        "runtime": "81 min",
+        "genre": "Action, Adventure, Western",
+        "description": "A group of outlaws posing as Southern sympathizers and led secretly by freight-line owner Jim Maroon are raiding stagecoaches, and this is a threat to the Union communications. Grif ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "Stage Fright",
+        "certificate": "Approved",
+        "runtime": "110 min",
+        "genre": "Film-Noir, Thriller",
+        "description": "A struggling actress tries to help a friend prove his innocence when he's accused of murdering the husband of a high society entertainer.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "Panic in the Streets",
+        "certificate": "Approved",
+        "runtime": "96 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "A doctor and a policeman in New Orleans have only 48 hours to locate a killer infected with pneumonic plague.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "Cheaper by the Dozen",
+        "certificate": "Approved",
+        "runtime": "86 min",
+        "genre": "Comedy, Drama, Family",
+        "description": "\"Cheaper By the Dozen\", based on the real-life story of the Gilbreth family, follows them from Providence, Rhode Island to Montclair, New Jersey, and details the amusing anecdotes found in ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "Where the Sidewalk Ends",
+        "certificate": "Not Rated",
+        "runtime": "95 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "Det. Sgt. Mark Dixon wants to be something his old man wasn't: a guy on the right side of the law. But Dixon's vicious nature will get the better of him.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "The Men",
+        "certificate": "Passed",
+        "runtime": "85 min",
+        "genre": "Drama",
+        "description": "A paralyzed war vet tries to adjust to the world without the use of his limbs.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "Quicksand",
+        "certificate": "Approved",
+        "runtime": "79 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "After taking 20 dollars from his employer to go on a date with plans to repay it the next day, an auto mechanic falls into increasingly disastrous circumstances for more and more money which rapidly spirals out of his control.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "Orpheus",
+        "certificate": "Not Rated",
+        "runtime": "95 min",
+        "genre": "Fantasy, Drama, Romance",
+        "description": "A poet in love with Death follows his unhappy wife into the underworld.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "Stromboli",
+        "certificate": "Not Rated",
+        "runtime": "81 min",
+        "genre": "Drama",
+        "description": "Karin, a young woman from the Baltic countries, marries fisherman Antonio to escape from a prison camp. But she cannot get used to the tough life in Antonio's volcano-threatened village, Stromboli.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "Odette",
+        "certificate": "",
+        "runtime": "105 min",
+        "genre": "Drama, History, War",
+        "description": "During WW2, a French woman living in England volunteers to work for British Intelligence in Nazi-occupied France.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "Les Enfants Terribles",
+        "certificate": "Not Rated",
+        "runtime": "105 min",
+        "genre": "Drama",
+        "description": "The dangerously obsessive relationship between a psychologically manipulative brother and sister who isolate themselves and draw others into their mind games.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "Woman on the Run",
+        "certificate": "Not Rated",
+        "runtime": "77 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "Frank Johnson flees police after becoming an eyewitness to murder. He is pursued around scenic San Francisco by his wife, a reporter, the police, and... the real murderer.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "The Flame and the Arrow",
+        "certificate": "Not Rated",
+        "runtime": "88 min",
+        "genre": "Adventure, Drama, History",
+        "description": "Dardo, a Robin Hood-like figure, and his loyal followers use a Roman ruin in Medieval Lombardy as their headquarters as they conduct an insurgency against their Hessian conquerors.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "King Solomon's Mines",
+        "certificate": "Passed",
+        "runtime": "103 min",
+        "genre": "Action, Adventure, Romance",
+        "description": "Adventurer Allan Quartermain leads an expedition into uncharted African territory in an attempt to locate an explorer who went missing during his search for the fabled diamond mines of King Solomon.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "No Way Out",
+        "certificate": "Passed",
+        "runtime": "106 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "A black doctor is assigned to treat two white racist suspects who are brothers, and when one dies, it causes tension that could start a race riot.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "The Jackie Robinson Story",
+        "certificate": "Approved",
+        "runtime": "77 min",
+        "genre": "Biography, Drama, Sport",
+        "description": "Biography of Jackie Robinson, the first black major league baseball player in the 20th century. Traces his career in the negro leagues and the major leagues.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "Ambush",
+        "certificate": "TV-PG",
+        "runtime": "90 min",
+        "genre": "Western",
+        "description": "In 1878, Ward Kinsman, a prospector and Indian scout, has been persuaded by the US Cavalry to find Mary Carlyle, the daughter of a general, who has been taken by Apaches.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Three Little Words",
+        "certificate": "Passed",
+        "runtime": "102 min",
+        "genre": "Biography, Comedy, Musical",
+        "description": "The story of the successful Tin Pan Alley songwriting team of Bert Kalmar and Harry Ruby is told loosely and lightheartedly.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Cyrano de Bergerac",
+        "certificate": "Not Rated",
+        "runtime": "113 min",
+        "genre": "Adventure, Drama, Romance",
+        "description": "The charismatic swordsman-poet helps another woo the woman he loves in this straightforward version of the play.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "Montana",
+        "certificate": "Approved",
+        "runtime": "76 min",
+        "genre": "Western",
+        "description": "An Australian sheepman comes to Montana looking for grazing space, is opposed by local ranchers and a wealthy cattle-woman.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Tarzan and the Slave Girl",
+        "certificate": "Approved",
+        "runtime": "74 min",
+        "genre": "Action, Adventure",
+        "description": "As Jane and the local tribeswomen are abducted one by one by the wild Lionians, Tarzan attempts to persuade their prince to accept a potent medicament for his ailing men, while the girls face certain death. Can Tarzan set them free?",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "Summer Stock",
+        "certificate": "Approved",
+        "runtime": "108 min",
+        "genre": "Musical, Romance",
+        "description": "A small-town farmer, down on her luck, finds her homestead invaded by a theatrical troupe invited to stay by her ne'er-do-well sister.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "Harriet Craig",
+        "certificate": "Approved",
+        "runtime": "94 min",
+        "genre": "Drama",
+        "description": "Domineering Harriet Craig holds more regard for her home and its possessions than she does for any person in her life. Among those she treats like household objects are her kind husband ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Madeleine",
+        "certificate": "Approved",
+        "runtime": "101 min",
+        "genre": "Crime, Drama",
+        "description": "The middle-class family of a young woman cannot understand why she delays in marrying a respectable young man. They know nothing about her long-standing affair with a Frenchman.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "A Ticket to Tomahawk",
+        "certificate": "Approved",
+        "runtime": "90 min",
+        "genre": "Comedy, Music, Western",
+        "description": "In 1876 Colorado, the Tomahawk and Western Railroad is expanding through the Rockies, but some stagecoach operators, fearing a loss of revenue, plan to sabotage the railroad.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "The File on Thelma Jordon",
+        "certificate": "Passed",
+        "runtime": "100 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "Assistant district attorney Cleve Marshall falls for the mysterious Thelma Jordon when she seeks help solving robberies of her aunt's estate.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "The Black Rose",
+        "certificate": "Approved",
+        "runtime": "120 min",
+        "genre": "Adventure, History, Romance",
+        "description": "A disinherited 13th Century Saxon nobleman leaves Norman England with an archer friend to seek his fortune in the Far East.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "Kansas Raiders",
+        "certificate": "Approved",
+        "runtime": "80 min",
+        "genre": "Western",
+        "description": "Outraged by Redleg atrocities, the James and Younger Brothers along with Kit Dalton join Quantrill's Raiders and find themselves participating in even worse war crimes.",
+        "director": "",
+        "stars": []
+    }
+}

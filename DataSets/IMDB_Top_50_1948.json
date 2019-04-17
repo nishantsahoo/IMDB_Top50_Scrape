@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "Rope",
+        "certificate": "PG",
+        "runtime": "80 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "Two men attempt to prove they committed the perfect crime by hosting a dinner party after strangling their former classmate to death.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "Bicycle Thieves",
+        "certificate": "Not Rated",
+        "runtime": "89 min",
+        "genre": "Drama",
+        "description": "In post-war Italy, a working-class man's bicycle is stolen. He and his son set out to find it.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "The Treasure of the Sierra Madre",
+        "certificate": "Passed",
+        "runtime": "126 min",
+        "genre": "Adventure, Drama, Western",
+        "description": "Fred Dobbs and Bob Curtin, two Americans searching for work in Mexico, convince an old prospector to help them mine for gold in the Sierra Madre Mountains.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "Red River",
+        "certificate": "Passed",
+        "runtime": "133 min",
+        "genre": "Action, Adventure, Romance",
+        "description": "Dunson leads a cattle drive, the culmination of over 14 years of work, to its destination in Missouri. But his tyrannical behavior along the way causes a mutiny, led by his adopted son.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "Fort Apache",
+        "certificate": "Not Rated",
+        "runtime": "128 min",
+        "genre": "Action, Adventure, Western",
+        "description": "At Fort Apache, an honorable and veteran war captain finds conflict when his regime is placed under the command of a young, glory hungry lieutenant colonel with no respect for the local Indian tribe.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "The Red Shoes",
+        "certificate": "Not Rated",
+        "runtime": "134 min",
+        "genre": "Drama, Music, Romance",
+        "description": "A young ballet dancer is torn between the man she loves and her pursuit to become a prima ballerina.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "Key Largo",
+        "certificate": "Not Rated",
+        "runtime": "100 min",
+        "genre": "Action, Crime, Drama",
+        "description": "A man visits his war buddy's family hotel and finds a gangster running things. As a hurricane approaches, the two end up confronting each other.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "The Kissing Bandit",
+        "certificate": "Approved",
+        "runtime": "100 min",
+        "genre": "Comedy, Musical, Western",
+        "description": "Ricardo, the milquetoast son of a Mexican bandit, would rather lead a quiet life in Boston. But the family would rather that he follow in his father's footsteps and become \"The Kissing Bandit\".",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "Easter Parade",
+        "certificate": "Approved",
+        "runtime": "107 min",
+        "genre": "Musical, Romance",
+        "description": "A nightclub performer hires a naive chorus girl to become his new dance partner to make his former partner jealous and to prove he can make any partner a star.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "Oliver Twist",
+        "certificate": "Not Rated",
+        "runtime": "105 min",
+        "genre": "Drama",
+        "description": "An orphan named Oliver Twist meets a pickpocket on the streets of London. From there, he joins a household of boys who are trained to steal for their master.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "Abbott and Costello Meet Frankenstein",
+        "certificate": "Not Rated",
+        "runtime": "83 min",
+        "genre": "Comedy, Fantasy, Horror",
+        "description": "Two hapless freight handlers find themselves encountering Dracula, the Frankenstein Monster and the Wolf Man.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "Hamlet",
+        "certificate": "Not Rated",
+        "runtime": "154 min",
+        "genre": "Drama",
+        "description": "Prince Hamlet struggles over whether or not he should kill his uncle, whom he suspects has murdered his father, the former King.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "The Three Musketeers",
+        "certificate": "Not Rated",
+        "runtime": "125 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "D'Artagnan and his musketeer comrades thwart the plans of Royal Prime Minister Richelieu to usurp the King's power.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "The Naked City",
+        "certificate": "Not Rated",
+        "runtime": "96 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "Two New York City detectives investigate the death of an attractive young woman. The apparent suicide turns out to be murder.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "He Walked by Night",
+        "certificate": "Approved",
+        "runtime": "79 min",
+        "genre": "Crime, Film-Noir, Thriller",
+        "description": "This film-noir piece, told in semi-documentary style, follows police on the hunt for a resourceful criminal who shoots and kills a cop.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "Superman",
+        "certificate": "Approved",
+        "runtime": "244 min",
+        "genre": "Sci-Fi",
+        "description": "Superman comes to Earth as a child and grows up to be his home's first superhero with his first major challenge being to oppose The Spider Lady.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "Joan of Arc",
+        "certificate": "Approved",
+        "runtime": "145 min",
+        "genre": "Biography, Drama, History",
+        "description": "The abbreviated life of the 15th Century French heroine.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Macbeth",
+        "certificate": "Passed",
+        "runtime": "92 min",
+        "genre": "Drama, History, War",
+        "description": "Macbeth, the Thane of Glamis, receives a prophecy from a trio of witches that one day he will become King of Scotland. Consumed by ambition and spurred to action by his wife, Macbeth murders his king and takes the throne for himself.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "A Foreign Affair",
+        "certificate": "Approved",
+        "runtime": "116 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "In occupied Berlin, an army captain is torn between an ex-Nazi caf\u00e9 singer and the U.S. congresswoman investigating her.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "They Live by Night",
+        "certificate": "Passed",
+        "runtime": "95 min",
+        "genre": "Crime, Film-Noir, Romance",
+        "description": "An escaped convict, injured during a robbery, falls in love with the woman who nurses him back to health, but their relationship seems doomed from the beginning.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "Drunken Angel",
+        "certificate": "Not Rated",
+        "runtime": "102 min",
+        "genre": "Crime, Drama, Romance",
+        "description": "A drunken doctor with a hot temper and a violence-prone gangster with tuberculosis form a quicksilver bond.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "All My Sons",
+        "certificate": "Approved",
+        "runtime": "94 min",
+        "genre": "Drama, Film-Noir",
+        "description": "During WW2, industrialist Joe Keller commits a crime and frames his business partner Herbert Deever but years later his sin comes back to haunt him when Joe's son plans to marry Deever's daughter.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "Mr. Blandings Builds His Dream House",
+        "certificate": "Approved",
+        "runtime": "94 min",
+        "genre": "Comedy, Romance",
+        "description": "A man and his wife decide they can afford to have a house in the country built to their specifications. It's a lot more trouble than they think.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "Black Bart",
+        "certificate": "Passed",
+        "runtime": "80 min",
+        "genre": "Western",
+        "description": "California stage robber Black Bart meets European dancer Lola Montez.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "Wake of the Red Witch",
+        "certificate": "Approved",
+        "runtime": "106 min",
+        "genre": "Action, Adventure, Romance",
+        "description": "During the 1860s in the South Pacific, Capt. Ralls, skipper of the Red Witch, has a series of adventures involving sunken gold bullion, pearls, natives, an unscrupulous ship owner and a giant octopus.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "Road House",
+        "certificate": "Passed",
+        "runtime": "95 min",
+        "genre": "Action, Drama, Film-Noir",
+        "description": "A night club owner becomes infatuated with a torch singer and frames his best friend/manager for embezzlement when the chanteuse falls in love with him.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "Scott of the Antarctic",
+        "certificate": "PG",
+        "runtime": "111 min",
+        "genre": "Action, Adventure, Biography",
+        "description": "The story of British explorer Robert Falcon Scott's 1912 expedition and his quest to be the first to reach the South Pole.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "Sorry, Wrong Number",
+        "certificate": "Approved",
+        "runtime": "89 min",
+        "genre": "Drama, Film-Noir, Mystery",
+        "description": "While on the telephone, an invalid woman overhears what she thinks is a murder plot and attempts to prevent it.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "The Snake Pit",
+        "certificate": "Not Rated",
+        "runtime": "108 min",
+        "genre": "Drama, Mystery",
+        "description": "A detailed chronicle of a woman during her stay in a mental institution.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "The Big Clock",
+        "certificate": "Not Rated",
+        "runtime": "95 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "After murdering someone, a magazine tycoon tries to frame an unknown, innocent man of the murder instead, while the innocent man tries to solve the murder himself.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "Adventures of Don Juan",
+        "certificate": "Passed",
+        "runtime": "110 min",
+        "genre": "Action, Adventure, Romance",
+        "description": "The great lover Don Juan comes to the assistance of his queen.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "Letter from an Unknown Woman",
+        "certificate": "Not Rated",
+        "runtime": "87 min",
+        "genre": "Drama, Romance",
+        "description": "A pianist about to flee from a duel receives a letter from a woman he cannot remember, who may hold the key to his downfall.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "Force of Evil",
+        "certificate": "Not Rated",
+        "runtime": "79 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "An unethical lawyer, with an older brother he wants to help, becomes a partner with a client in the numbers racket.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "Brighton Rock",
+        "certificate": "Not Rated",
+        "runtime": "92 min",
+        "genre": "Crime, Drama",
+        "description": "Pinkie Brown is a small-town hoodlum whose gang runs a protection racket based at Brighton race course. When Pinkie murders a journalist called Fred Hale whom he believes is responsible for...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "Portrait of Jennie",
+        "certificate": "Approved",
+        "runtime": "86 min",
+        "genre": "Drama, Romance, Fantasy",
+        "description": "A mysterious girl inspires a struggling artist.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "3 Godfathers",
+        "certificate": "Passed",
+        "runtime": "106 min",
+        "genre": "Drama, Western",
+        "description": "Three outlaws on the run find a dying woman in the desert who gives birth to a baby. The mother entrusts the care of the child to the three men.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "I Remember Mama",
+        "certificate": "Approved",
+        "runtime": "134 min",
+        "genre": "Drama, Family",
+        "description": "The ups and downs of a Norwegian immigrant family, circa 1910.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "Anna Karenina",
+        "certificate": "Approved",
+        "runtime": "139 min",
+        "genre": "Drama, Romance",
+        "description": "A married woman's affair with a dashing young officer has tragic results.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "Pitfall",
+        "certificate": "Not Rated",
+        "runtime": "86 min",
+        "genre": "Crime, Film-Noir, Thriller",
+        "description": "Married insurance adjuster John Forbes falls for femme fatale Mona Stevens while her boyfriend is in jail and all suffer serious consequences as a result.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Hollow Triumph",
+        "certificate": "Approved",
+        "runtime": "83 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "Pursued by the big-time gambler he robbed, John Muller takes a new identity, with ironic results.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Ladies of the Chorus",
+        "certificate": "Approved",
+        "runtime": "61 min",
+        "genre": "Musical, Romance",
+        "description": "A chorus girl falls in love with a wealthy young man, but their relationship is jeopardized by her mother's fears about the reaction of his family.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "One Touch of Venus",
+        "certificate": "Approved",
+        "runtime": "82 min",
+        "genre": "Comedy, Fantasy, Musical",
+        "description": "Fantasy comedy about a young window dresser who kisses a statue of Venus, which then comes to life in the form of Ava Gardner. However, the problems begin when Venus falls in love with him.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Melody Time",
+        "certificate": "Approved",
+        "runtime": "75 min",
+        "genre": "Animation, Family, Music",
+        "description": "An anthology of animated vignettes set to contemporary music.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "The Pirate",
+        "certificate": "Approved",
+        "runtime": "102 min",
+        "genre": "Adventure, Comedy, Musical",
+        "description": "A girl is engaged to the local richman, but meanwhile she has dreams about the legendary pirate Macoco. A traveling singer falls in love with her and to impress her he poses as the pirate.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "The Fallen Idol",
+        "certificate": "Approved",
+        "runtime": "95 min",
+        "genre": "Drama, Mystery, Thriller",
+        "description": "A butler working in a foreign embassy in London falls under suspicion when his wife accidentally falls to her death, the only witness being an impressionable young boy.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Coroner Creek",
+        "certificate": "Passed",
+        "runtime": "90 min",
+        "genre": "Western",
+        "description": "A man is bent on taking revenge on those he believes are responsible for his fiance's death.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "The Search",
+        "certificate": "Passed",
+        "runtime": "104 min",
+        "genre": "Drama, War",
+        "description": "In post-war Berlin, an American private helps a lost Czech boy find his mother.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "Romance on the High Seas",
+        "certificate": "Approved",
+        "runtime": "99 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "Romantic misunderstandings abound when spouses suspect each other of being unfaithful, and a nightclub singer takes a cruise under a false identity.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "The Woman in White",
+        "certificate": "Approved",
+        "runtime": "109 min",
+        "genre": "Drama, Mystery, Romance",
+        "description": "A young painter stumbles upon an assortment of odd characters at an English estate where he has been hired to give art lessons to beautiful Laura Fairlie. Among them are Anne Catherick, a ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "The Boy with Green Hair",
+        "certificate": "Approved",
+        "runtime": "82 min",
+        "genre": "Comedy, Drama, Family",
+        "description": "This parable looks at public reaction when the hair of an American war orphan mysteriously turns green.",
+        "director": "",
+        "stars": []
+    }
+}

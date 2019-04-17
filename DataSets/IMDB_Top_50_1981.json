@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "Raiders of the Lost Ark",
+        "certificate": "PG",
+        "runtime": "115 min",
+        "genre": "Action, Adventure",
+        "description": "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before Adolf Hitler's Nazis can obtain its awesome powers.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "Clash of the Titans",
+        "certificate": "PG",
+        "runtime": "118 min",
+        "genre": "Action, Adventure, Family",
+        "description": "Perseus must battle Medusa and the Kraken to save the Princess Andromeda.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "The Evil Dead",
+        "certificate": "NC-17",
+        "runtime": "85 min",
+        "genre": "Horror",
+        "description": "Five friends travel to a cabin in the woods, where they unknowingly release flesh-possessing demons.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "Stripes",
+        "certificate": "R",
+        "runtime": "106 min",
+        "genre": "Comedy, War",
+        "description": "Two friends who are dissatisfied with their jobs decide to join the army for a bit of fun.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "Body Heat",
+        "certificate": "R",
+        "runtime": "113 min",
+        "genre": "Crime, Drama, Romance",
+        "description": "In the midst of a searing Florida heat wave, a woman persuades her lover, a small-town lawyer, to murder her rich husband.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "The Road Warrior",
+        "certificate": "R",
+        "runtime": "94 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "In the post-apocalyptic Australian wasteland, a cynical drifter agrees to help a small, gasoline rich community escape a horde of bandits.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "Excalibur",
+        "certificate": "PG",
+        "runtime": "140 min",
+        "genre": "Adventure, Drama, Fantasy",
+        "description": "Merlin the magician helps Arthur Pendragon unite the Britons around the Round Table of Camelot, even as dark forces conspire to tear it apart.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "Das Boot",
+        "certificate": "R",
+        "runtime": "149 min",
+        "genre": "Adventure, Drama, Thriller",
+        "description": "The claustrophobic world of a WWII German U-boat; boredom, filth and sheer terror.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "An American Werewolf in London",
+        "certificate": "R",
+        "runtime": "97 min",
+        "genre": "Comedy, Horror",
+        "description": "Two American college students on a walking tour of Britain are attacked by a werewolf that none of the locals will admit exists.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "Galaxy of Terror",
+        "certificate": "R",
+        "runtime": "81 min",
+        "genre": "Action, Adventure, Horror",
+        "description": "Science fiction suspense thriller, in which a rescue space ship crew meets up with horrors projected by their own imaginations.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "Nighthawks",
+        "certificate": "R",
+        "runtime": "99 min",
+        "genre": "Action, Crime, Thriller",
+        "description": "Conservative street cop DaSilva reluctantly agrees to terminate an international terrorist who has demanded media attention. But DaSilva's \"at-home\" tactics are very much put to the challenge.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "Possession",
+        "certificate": "R",
+        "runtime": "124 min",
+        "genre": "Drama, Horror",
+        "description": "A woman starts exhibiting increasingly disturbing behavior after asking her husband for a divorce. Suspicions of infidelity soon give way to something much more sinister.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "Dragonslayer",
+        "certificate": "PG",
+        "runtime": "109 min",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "A young wizarding apprentice is sent to kill a dragon which has been devouring girls from a nearby kingdom.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "Escape from New York",
+        "certificate": "R",
+        "runtime": "99 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "In 1997, when the U.S. president crashes into Manhattan, now a giant maximum security prison, a convicted bank robber is sent in to rescue him.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "Victory",
+        "certificate": "PG",
+        "runtime": "116 min",
+        "genre": "Drama, Sport, War",
+        "description": "As allied P.O.W.s prepare for a soccer game against the German National Team to be played in Nazi-occupied Paris, the French Resistance and British officers are making plans for the team's escape.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "Porky's",
+        "certificate": "R",
+        "runtime": "94 min",
+        "genre": "Comedy",
+        "description": "In 1954, a group of Florida high school students try to help their buddy lose his virginity, which leads them to seeking revenge on a sleazy nightclub owner and his redneck sheriff brother for harassing them.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "For Your Eyes Only",
+        "certificate": "PG",
+        "runtime": "127 min",
+        "genre": "Action, Adventure, Thriller",
+        "description": "Agent 007 is assigned to hunt for a lost British encryption device and prevent it from falling into enemy hands.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Friday the 13th Part 2",
+        "certificate": "R",
+        "runtime": "87 min",
+        "genre": "Horror, Mystery, Thriller",
+        "description": "Mrs. Voorhees is dead, and Camp Crystal Lake is shut down, but a camp next to the infamous place is stalked by an unknown assailant.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "Heavy Metal",
+        "certificate": "R",
+        "runtime": "86 min",
+        "genre": "Animation, Adventure, Fantasy",
+        "description": "A glowing green orb - which embodies ultimate evil - terrorizes a young girl with an anthology of bizarre and fantastic stories of dark fantasy, eroticism and horror.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "Time Bandits",
+        "certificate": "PG",
+        "runtime": "110 min",
+        "genre": "Adventure, Comedy, Fantasy",
+        "description": "A young boy accidentally joins a band of time travelling dwarves, as they jump from era to era looking for treasure to steal.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "Arthur",
+        "certificate": "PG",
+        "runtime": "97 min",
+        "genre": "Comedy, Romance",
+        "description": "Arthur is a happy drunk with no pretensions at any ambition. He is also the heir to a vast fortune which he is told will only be his if he marries Susan. He does not love Susan, but she ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "The Cannonball Run",
+        "certificate": "PG",
+        "runtime": "95 min",
+        "genre": "Action, Comedy, Sport",
+        "description": "A wide variety of eccentric competitors participate in a wild and illegal cross-country road race. However, the eccentric entrants will do anything to win the road race, including low-down, dirty tricks.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "Endless Love",
+        "certificate": "R",
+        "runtime": "116 min",
+        "genre": "Drama, Romance",
+        "description": "A high school student's love for a 15-year-old girl is thwarted by parental disapproval, circumstance and accident.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "Ragtime",
+        "certificate": "PG",
+        "runtime": "155 min",
+        "genre": "Drama",
+        "description": "A young black pianist becomes embroiled in the lives of an upper-class white family set among the racial tensions, infidelity, violence, and other nostalgic events in early 1900s New York City.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "Pennies from Heaven",
+        "certificate": "R",
+        "runtime": "108 min",
+        "genre": "Drama, Musical, Romance",
+        "description": "During the Great Depression, a sheet music salesman seeks to escape his dreary life through popular music and a love affair with an innocent school teacher.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "Mommie Dearest",
+        "certificate": "R",
+        "runtime": "129 min",
+        "genre": "Biography, Drama",
+        "description": "The abusive and traumatic adoptive upbringing of Christina Crawford at the hands of her mother, screen queen Joan Crawford, is depicted.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "Halloween II",
+        "certificate": "R",
+        "runtime": "92 min",
+        "genre": "Horror",
+        "description": "While Sheriff Brackett and Dr. Loomis hunt for Michael Myers, a traumatized Laurie is rushed to hospital, and the serial killer is not far behind her.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "Scanners",
+        "certificate": "R",
+        "runtime": "103 min",
+        "genre": "Horror, Sci-Fi, Thriller",
+        "description": "A scientist sends a man with extraordinary psychic powers to hunt others like him.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "Blow Out",
+        "certificate": "R",
+        "runtime": "108 min",
+        "genre": "Mystery, Thriller",
+        "description": "A movie sound recordist accidentally records the evidence that proves that a car accident was actually murder and consequently finds himself in danger.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "The Howling",
+        "certificate": "R",
+        "runtime": "91 min",
+        "genre": "Horror",
+        "description": "After a bizarre and near deadly encounter with a serial killer, a television newswoman is sent to a remote mountain resort whose residents may not be what they seem.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "Dead & Buried",
+        "certificate": "R",
+        "runtime": "94 min",
+        "genre": "Horror, Mystery",
+        "description": "A suspense horror film set in a small coastal town where, after a series of gory murders commited by mobs of townspeople against visiting tourists, the corpses begin to come back to life.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "Chariots of Fire",
+        "certificate": "PG",
+        "runtime": "125 min",
+        "genre": "Biography, Drama, Sport",
+        "description": "Two British track athletes, one a determined Jew, and the other a devout Christian, compete in the 1924 Olympics.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "History of the World: Part I",
+        "certificate": "R",
+        "runtime": "92 min",
+        "genre": "Comedy, History",
+        "description": "Mel Brooks brings his one-of-a-kind comic touch to the history of mankind covering events from the Old Testament to the French Revolution in a series of episodic comedy vignettes.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "Quest for Fire",
+        "certificate": "R",
+        "runtime": "100 min",
+        "genre": "Adventure, Drama, History",
+        "description": "This story takes place in prehistoric time when three tribesmen search for a new fire source.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "The Fox and the Hound",
+        "certificate": "G",
+        "runtime": "83 min",
+        "genre": "Animation, Adventure, Drama",
+        "description": "Two childhood friends find themselves forced to become enemies.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "Private Lessons",
+        "certificate": "R",
+        "runtime": "87 min",
+        "genre": "Comedy",
+        "description": "An immigrant housemaid seduces a 15-year-old boy and later fakes her own death as part of his chauffeur's blackmail plot. Troubles arise when the two start to fall in love.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "Taps",
+        "certificate": "PG",
+        "runtime": "126 min",
+        "genre": "Drama",
+        "description": "Military cadets take extreme measures to insure the future of their academy when its existence is threatened by local condo developers.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "Tarzan the Ape Man",
+        "certificate": "R",
+        "runtime": "115 min",
+        "genre": "Adventure, Drama",
+        "description": "While on an African expedition with her father, Jane Parker meets Tarzan, and the two become fascinated by each other.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "The Postman Always Rings Twice",
+        "certificate": "R",
+        "runtime": "122 min",
+        "genre": "Crime, Drama, Romance",
+        "description": "The sensuous wife of a lunch wagon proprietor and a rootless drifter begin a sordidly steamy affair and conspire to murder her Greek husband.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "On Golden Pond",
+        "certificate": "PG",
+        "runtime": "109 min",
+        "genre": "Drama",
+        "description": "Norman is a curmudgeon with an estranged relationship with his daughter Chelsea. At Golden Pond, he and his wife nevertheless agree to care for Billy, the son of Chelsea's new boyfriend, and a most unexpected relationship blooms.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Thief",
+        "certificate": "R",
+        "runtime": "123 min",
+        "genre": "Action, Crime, Drama",
+        "description": "Coming closer to his dream of leading a normal life, a professional safecracker agrees to do a job for the Mafia, who has other plans for him.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "Cannibal Ferox",
+        "certificate": "Not Rated",
+        "runtime": "93 min",
+        "genre": "Adventure, Horror",
+        "description": "Three friends out to disprove cannibalism meet two men on the run who tortured and enslaved a cannibal tribe to find emeralds, and now the tribe is out for revenge.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Piranha II: The Spawning",
+        "certificate": "R",
+        "runtime": "94 min",
+        "genre": "Drama, Horror, Romance",
+        "description": "A scuba diving instructor, her biochemist boyfriend, and her police chief ex-husband try to link a series of bizarre deaths to a mutant strain of piranha fish whose lair is a sunken freighter ship off a Caribbean island resort.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "Roar",
+        "certificate": "PG",
+        "runtime": "102 min",
+        "genre": "Adventure, Thriller",
+        "description": "A family goes to Africa to meet their father who lives with wild lions.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "Southern Comfort",
+        "certificate": "R",
+        "runtime": "106 min",
+        "genre": "Action, Thriller",
+        "description": "During a routine exercise, a team of National Guards are threatened by angry and violent locals.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Reds",
+        "certificate": "PG",
+        "runtime": "195 min",
+        "genre": "Biography, Drama, History",
+        "description": "A radical American journalist becomes involved with the Communist revolution in Russia, and hopes to bring its spirit and idealism to the United States.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "Lady Chatterley's Lover",
+        "certificate": "R",
+        "runtime": "104 min",
+        "genre": "Drama, Romance",
+        "description": "A film adaptation of D.H. Lawrence's novel. After a crippling injury leaves her husband impotent, Lady Chatterly is torn between her love for her husband and her physical desires. With her ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "Christiane F.",
+        "certificate": "R",
+        "runtime": "138 min",
+        "genre": "Biography, Drama",
+        "description": "This movie portrays the drug scene in Berlin in the 1970s, following tape recordings of Christiane F. 14-year-old Christiane lives with her mother and little sister in a typical multi-story...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "The Burning",
+        "certificate": "R",
+        "runtime": "91 min",
+        "genre": "Horror",
+        "description": "A former summer camp caretaker, horribly burned from a prank gone wrong, lurks around an upstate New York summer camp bent on killing the teenagers responsible for his disfigurement.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "Ghost Story",
+        "certificate": "R",
+        "runtime": "110 min",
+        "genre": "Drama, Horror, Thriller",
+        "description": "Two generations of men find themselves haunted by the presence of a spectral woman. When the son of one of the elderly men returns to his hometown after his brother's mysterious death, they attempt to unravel her story.",
+        "director": "",
+        "stars": []
+    }
+}
