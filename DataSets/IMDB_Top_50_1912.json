@@ -5,8 +5,14 @@
         "runtime": "",
         "genre": "Drama",
         "description": "Consists of two parts: Part One: The Life of John Bunyon (2 reels); Part Two: The Pilgrim's Progress (3 reels).",
-        "director": "",
-        "stars": []
+        "director": "Francis Powers",
+        "stars": [
+            "Warner Oland",
+            "Ethel Clayton",
+            "Clifford Leigh"
+        ],
+        "votes": "15",
+        "gross": ""
     },
     "2": {
         "name": "From the Manger to the Cross; or, Jesus of Nazareth",
@@ -14,8 +20,15 @@
         "runtime": "71 min",
         "genre": "Biography, Drama",
         "description": "An account of the life of Jesus Christ, based on the books of the New Testament: After Jesus' birth is foretold to his parents, he is born in Bethlehem, and is visited by shepherds and wise...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Sidney Olcott",
+        "stars": [
+            "R. Henderson Bland",
+            "Percy Dyer",
+            "Gene Gauntier",
+            "Alice Hollister"
+        ],
+        "votes": "421",
+        "gross": ""
     },
     "3": {
         "name": "Cleopatra",
@@ -23,8 +36,15 @@
         "runtime": "100 min",
         "genre": "Drama, History",
         "description": "The fabled queen of Egypt's affair with Roman general Marc Antony is ulimately disastrous for both of them.",
-        "director": "",
-        "stars": []
+        "director": "Charles L. Gaskill",
+        "stars": [
+            "Helen Gardner",
+            "Pearl Sindelar",
+            "Miss Fielding",
+            "Miss Robson"
+        ],
+        "votes": "384",
+        "gross": ""
     },
     "4": {
         "name": "Satana",
@@ -32,8 +52,15 @@
         "runtime": "",
         "genre": "Drama, Horror",
         "description": "A four chapter film including Satan vs the Creator, Satan vs the Saviour, The Green Demon/Satan during the Dark Ages and The Red Demon/Satan in modern times.",
-        "director": "",
-        "stars": []
+        "director": "Luigi Maggi",
+        "stars": [
+            "Mario Bonnard",
+            "Mary Cleo Tarlarini",
+            "Fernanda Negri Pouget",
+            "Mario Voller-Buzzi"
+        ],
+        "votes": "16",
+        "gross": ""
     },
     "5": {
         "name": "La dame aux cam\u00e9lias",
@@ -41,8 +68,17 @@
         "runtime": "",
         "genre": "Drama, Romance",
         "description": "Marguerite is a courtesan in Paris. She falls deeply in love with a young man of promise, Armand Duval. When Armand's father begs her not to ruin his hope of a career and position by ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Andr\u00e9 Calmettes",
+        "stars": [
+            "Louis Mercanton",
+            "Henri Pouctal",
+            "Sarah Bernhardt",
+            "Lou Tellegen",
+            "Paul Capellani",
+            "Jean Chameroy"
+        ],
+        "votes": "22",
+        "gross": ""
     },
     "6": {
         "name": "Richard III",
@@ -50,8 +86,16 @@
         "runtime": "55 min",
         "genre": "Drama",
         "description": "Richard of Gloucester uses manipulation and murder to gain the English throne.",
-        "director": "",
-        "stars": []
+        "director": "Andr\u00e9 Calmettes",
+        "stars": [
+            "James Keane",
+            "Robert Gemp",
+            "Frederick Warde",
+            "Albert Gardner",
+            "James Keane"
+        ],
+        "votes": "205",
+        "gross": ""
     },
     "7": {
         "name": "Le myst\u00e8re des roches de Kador",
@@ -59,8 +103,15 @@
         "runtime": "45 min",
         "genre": "Crime, Drama, Mystery",
         "description": "The action takes place in Brittany .Fernand De Keranic wants to latch on to his niece and ward Suzanne's fortune.He tries to do away with her and her lover when she goes for a sail with ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "L\u00e9once Perret",
+        "stars": [
+            "Suzanne Grandais",
+            "\u00c9mile Keppens",
+            "L\u00e9once Perret",
+            "Max Dhartigny"
+        ],
+        "votes": "261",
+        "gross": ""
     },
     "8": {
         "name": "Grannie",
@@ -68,8 +119,12 @@
         "runtime": "",
         "genre": "",
         "description": "There is no documentation that a film bearing this title was directed by D.W. Griffith, or was produced by Biograph at this time. It may have been suspended before completion or else released under another title.",
-        "director": "",
-        "stars": []
+        "director": "D.W. Griffith",
+        "stars": [
+            "Mary Pickford"
+        ],
+        "votes": "13",
+        "gross": ""
     },
     "9": {
         "name": "Independenta Romaniei",
@@ -77,8 +132,15 @@
         "runtime": "120 min",
         "genre": "History, War",
         "description": "The movie depicts the Romanian War of Independence (1877-1878).",
-        "director": "",
-        "stars": []
+        "director": "Aristide Demetriade",
+        "stars": [
+            "Aristide Demetriade",
+            "Constanta Demetriade",
+            "Constantin Nottara",
+            "Pepi Machauer"
+        ],
+        "votes": "183",
+        "gross": ""
     },
     "10": {
         "name": "The Flying Circus",
@@ -86,8 +148,15 @@
         "runtime": "46 min",
         "genre": "Drama",
         "description": "The Flying Circus was the largest traveling artist band in the country, and among its favorite artists were the rope-dancer, Laurento and the snake tamer, Ula Kiri. The hot blooded gypsy ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Alfred Lind",
+        "stars": [
+            "Rasmus Ottesen",
+            "Emilie Otterdahl",
+            "Lili Beck",
+            "Kirstine Friis-Hjorth"
+        ],
+        "votes": "69",
+        "gross": ""
     },
     "11": {
         "name": "Oliver Twist",
@@ -95,8 +164,14 @@
         "runtime": "",
         "genre": "Drama",
         "description": "An orphan in early 19th century England escapes the poorhouse only to fall among a gang of pickpockets in London.",
-        "director": "",
-        "stars": []
+        "director": "Nat C. Goodwin",
+        "stars": [
+            "Vinnie Burns",
+            "Charley Rogers",
+            "Mortimer Martine"
+        ],
+        "votes": "19",
+        "gross": ""
     },
     "12": {
         "name": "The Three Musketeers",
@@ -104,8 +179,16 @@
         "runtime": "",
         "genre": "",
         "description": "D'Artagnan and his musketeer comrades must thwart the plans of Cardinal Richelieu to usurp King Louis XIII's power.",
-        "director": "",
-        "stars": []
+        "director": "Andr\u00e9 Calmettes",
+        "stars": [
+            "Henri Pouctal",
+            "\u00c9mile Dehelly",
+            "Nelly Cormon",
+            "Marcel Vibert",
+            "Adolphe Cand\u00e9"
+        ],
+        "votes": "",
+        "gross": ""
     },
     "13": {
         "name": "Les mis\u00e9rables",
@@ -113,8 +196,15 @@
         "runtime": "163 min",
         "genre": "Drama",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Albert Capellani",
+        "stars": [
+            "Henry Krauss",
+            "Henri \u00c9ti\u00e9vant",
+            "L\u00e9on Bernard",
+            "Maria Ventura"
+        ],
+        "votes": "18",
+        "gross": ""
     },
     "14": {
         "name": "The Adventures of Lieutenant Petrosino",
@@ -122,8 +212,10 @@
         "runtime": "",
         "genre": "Drama",
         "description": "The story of Lt. Joseph Petrosino, an Italian-American New York City police detective, who was assigned to investigate the Sicilian Mafia, which was beginning to become a major problem in ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Sidney M. Goldin",
+        "stars": [],
+        "votes": "13",
+        "gross": ""
     },
     "15": {
         "name": "Oliver Twist",
@@ -131,8 +223,15 @@
         "runtime": "",
         "genre": "Drama",
         "description": "An orphan named Oliver Twist meets a pickpocket on the streets of London. From there, he joins a household of boys who are trained to steal for their master.",
-        "director": "",
-        "stars": []
+        "director": "Thomas Bentley",
+        "stars": [
+            "Ivy Millais",
+            "John McMahon",
+            "Harry Royston",
+            "Alma Taylor"
+        ],
+        "votes": "12",
+        "gross": ""
     },
     "16": {
         "name": "Anna Kar\u00e9nine",
@@ -140,8 +239,14 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Albert Capellani",
+        "stars": [
+            "Jeanne Delvair",
+            "Paul Capellani",
+            "L\u00e9on Bernard"
+        ],
+        "votes": "9",
+        "gross": ""
     },
     "17": {
         "name": "The Midnight Wedding",
@@ -149,8 +254,15 @@
         "runtime": "",
         "genre": "Drama",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Raymond Longford",
+        "stars": [
+            "J. Barry",
+            "D.L. Dalziel",
+            "Jack Goodall",
+            "Robert Henry"
+        ],
+        "votes": "",
+        "gross": ""
     },
     "18": {
         "name": "Quincy Adams Sawyer",
@@ -159,7 +271,9 @@
         "genre": "Comedy",
         "description": "A Bostonian acts as a go-between for a foundling and her suitor in the small town of Mason's Corners, learning that the young woman's foster mother has hidden the secret of her parentage.",
         "director": "",
-        "stars": []
+        "stars": [],
+        "votes": "",
+        "gross": ""
     },
     "19": {
         "name": "Vampyrdanserinden",
@@ -167,8 +281,15 @@
         "runtime": "",
         "genre": "",
         "description": "The man-hungry \"vampire,\" later to be popularized by America's Theda Bara, made her screen debut in this Danish melodrama directed by August Blom. Clara Wieth starred in the title role of ...                See full synopsis\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "August Blom",
+        "stars": [
+            "Ingeborg Bruhn Bertelsen",
+            "Svend Bille",
+            "Axel Boesen",
+            "Frederik Christensen"
+        ],
+        "votes": "15",
+        "gross": ""
     },
     "20": {
         "name": "Peril of the Plains",
@@ -176,8 +297,13 @@
         "runtime": "",
         "genre": "Drama, Western",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Sam Warner",
+        "stars": [
+            "Dot Farley",
+            "Helen Armstrong"
+        ],
+        "votes": "",
+        "gross": ""
     },
     "21": {
         "name": "Wenn die Maske f\u00e4llt",
@@ -185,8 +311,15 @@
         "runtime": "",
         "genre": "",
         "description": "Drama about jealousy, high finance and a mistress. Sanna, scorned by her lover Willi won't abandon him, but saves him from financial ruin. The swindling banker is brought to justice and Sanna reunites with Willi.",
-        "director": "",
-        "stars": []
+        "director": "Urban Gad",
+        "stars": [
+            "Asta Nielsen",
+            "Fritz Weidemann",
+            "Frau Gude",
+            "Reinhold Pasch"
+        ],
+        "votes": "",
+        "gross": ""
     },
     "22": {
         "name": "The Reward for Broncho Billy",
@@ -194,8 +327,15 @@
         "runtime": "",
         "genre": "Drama, Western",
         "description": "After holding up a stage-coach, Broncho Billy disappears into the woods on horseback. The driver of the coach unhitches one of the horses and rides to the nearest town, notifies the sheriff...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Gilbert M. 'Broncho Billy' Anderson",
+        "stars": [
+            "Gilbert M. 'Broncho Billy' Anderson",
+            "Evelyn Selbie",
+            "True Boardman",
+            "True Boardman"
+        ],
+        "votes": "",
+        "gross": ""
     },
     "23": {
         "name": "Bj\u00f8rnet\u00e6mmeren",
@@ -203,8 +343,15 @@
         "runtime": "50 min",
         "genre": "Drama",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Alfred Lind",
+        "stars": [
+            "Lili Beck",
+            "Peter Fjelstrup",
+            "Holger-Madsen",
+            "Richard Jensen"
+        ],
+        "votes": "30",
+        "gross": ""
     },
     "24": {
         "name": "A Pueblo Romance",
@@ -212,8 +359,13 @@
         "runtime": "",
         "genre": "",
         "description": "There is no documentation that any film bearing this title was produced or distributed by Biograph at this time. Either the production may have been suspended before completion or else it ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "D.W. Griffith",
+        "stars": [
+            "Mary Pickford",
+            "Blanche Sweet"
+        ],
+        "votes": "8",
+        "gross": ""
     },
     "25": {
         "name": "The Mail Order Wife",
@@ -221,8 +373,12 @@
         "runtime": "",
         "genre": "",
         "description": "John White's sweetheart, May Webster, refuses to marry him while her old father is in need of her, and John goes west to take a government farm. Finding that their two ranch grants adjoin ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Francis X. Bushman",
+        "stars": [
+            "Bryant Washburn"
+        ],
+        "votes": "",
+        "gross": ""
     },
     "26": {
         "name": "The Sergeant's Boy",
@@ -230,8 +386,15 @@
         "runtime": "",
         "genre": "Drama",
         "description": "An army sergeant befriends an orphan boy.",
-        "director": "",
-        "stars": []
+        "director": "Thomas H. Ince",
+        "stars": [
+            "Harold Lockwood",
+            "Nick Cogley",
+            "Shorty Hamilton",
+            "J. Barney Sherry"
+        ],
+        "votes": "",
+        "gross": ""
     },
     "27": {
         "name": "The Vengeance of Fate",
@@ -239,8 +402,14 @@
         "runtime": "",
         "genre": "",
         "description": "Hazel Phillips, a young girl, is courted by two young men, Evans and Porter, in a western town. She favors Porter, and the two are married. Evans conceals his chagrin and jealousy, and ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Charles Giblyn",
+        "stars": [
+            "Ethel Grandin",
+            "Charles K. French",
+            "Walter Edwards"
+        ],
+        "votes": "",
+        "gross": ""
     },
     "28": {
         "name": "The Mummy",
@@ -248,8 +417,10 @@
         "runtime": "",
         "genre": "Comedy",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "A.E. Coleby",
+        "stars": [],
+        "votes": "27",
+        "gross": ""
     },
     "29": {
         "name": "Lucretia Borgia",
@@ -257,8 +428,15 @@
         "runtime": "",
         "genre": "Drama",
         "description": "About the daughter of the Borgia, a noble medieval house. From her numerous and unhappy weddings, to the forced monacation, to the will of her family.",
-        "director": "",
-        "stars": []
+        "director": "Gerolamo Lo Savio",
+        "stars": [
+            "Francesca Bertini",
+            "Vittoria Lepanto",
+            "Giovanni Pezzinga",
+            "Gustavo Serena"
+        ],
+        "votes": "",
+        "gross": ""
     },
     "30": {
         "name": "Storstadens Hy\u00e6ne",
@@ -266,8 +444,15 @@
         "runtime": "",
         "genre": "Drama",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Knud Lumbye",
+        "stars": [
+            "Alfred Arnbak",
+            "Aage Brandt",
+            "Karen Brandt",
+            "Vera Brechling"
+        ],
+        "votes": "",
+        "gross": ""
     },
     "31": {
         "name": "Ma \u00e9s holnap",
@@ -275,8 +460,15 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Michael Curtiz",
+        "stars": [
+            "Art\u00far Somlay",
+            "Gyula Abonyi",
+            "Jen\u00f6n\u00e9 Veszpr\u00e9my",
+            "Endre Szegh\u00f5"
+        ],
+        "votes": "23",
+        "gross": ""
     },
     "32": {
         "name": "The Clod",
@@ -284,8 +476,10 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Thomas H. Ince",
+        "stars": [],
+        "votes": "",
+        "gross": ""
     },
     "33": {
         "name": "A Motorcycle Adventure",
@@ -293,8 +487,15 @@
         "runtime": "55 min",
         "genre": "Drama",
         "description": "Dave Martin, who has lately become a motorcycle enthusiast, leaves his Denver home on his machine for a visit with his uncle and cousin who live in the Rockies. His uncle, William Martin, ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Marshall Stedman",
+        "stars": [
+            "William Duncan",
+            "Myrtle Stedman",
+            "Clay M. Greene",
+            "Florence Dye"
+        ],
+        "votes": "",
+        "gross": ""
     },
     "34": {
         "name": "Az utols\u00f3 boh\u00e9m",
@@ -302,8 +503,15 @@
         "runtime": "",
         "genre": "Drama, Romance",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Michael Curtiz",
+        "stars": [
+            "Antal Ny\u00e1ray",
+            "Elem\u00e9r Thury",
+            "B\u00e9la Bodonyi",
+            "Zolt\u00e1n Sipos"
+        ],
+        "votes": "25",
+        "gross": ""
     },
     "35": {
         "name": "The Sepoy Rebellion",
@@ -311,8 +519,12 @@
         "runtime": "",
         "genre": "Action",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "James Morrison",
+        "stars": [
+            "Wallace Reid"
+        ],
+        "votes": "",
+        "gross": ""
     },
     "36": {
         "name": "Trilby",
@@ -320,8 +532,17 @@
         "runtime": "50 min",
         "genre": "Horror",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Jacob Fleck",
+        "stars": [
+            "Luise Fleck",
+            "Anton Kolm",
+            "Claudius Velt\u00e9e",
+            "Paul Askonas",
+            "Frau Galfres-Hubermann",
+            "Szokol Aoles"
+        ],
+        "votes": "9",
+        "gross": ""
     },
     "37": {
         "name": "Gogi Ratiani",
@@ -329,8 +550,15 @@
         "runtime": "45 min",
         "genre": "Drama, Family",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Kote Marjanishvili",
+        "stars": [
+            "Gogi Ratiani",
+            "Irine Donauri",
+            "Zaali Terishvili",
+            "Nutsa Chkheidze"
+        ],
+        "votes": "13",
+        "gross": ""
     },
     "38": {
         "name": "Breaking the News",
@@ -338,8 +566,12 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "W.J. Lincoln",
+        "stars": [
+            "Harrie Ireland"
+        ],
+        "votes": "",
+        "gross": ""
     },
     "39": {
         "name": "Samh\u00e4llets dom",
@@ -347,8 +579,16 @@
         "runtime": "59 min",
         "genre": "Drama",
         "description": "Harald steals money in order to pay a personal guarantee. The crime is discovered and he is sentenced to imprisonment. After the penalty is served he travels to America to begin a new life.",
-        "director": "",
-        "stars": []
+        "director": "Julius Jaenzon",
+        "stars": [
+            "Eric Malmberg",
+            "Eric Malmberg",
+            "Victor Arfvidson",
+            "Tollie Zellman",
+            "Eugen Nilsson"
+        ],
+        "votes": "",
+        "gross": ""
     },
     "40": {
         "name": "The Great Circus Catastrophe",
@@ -356,8 +596,15 @@
         "runtime": "45 min",
         "genre": "Drama",
         "description": "A melodrama about the destitute Count lured into a circus environment and forced to show their daring high up in the circus dome.",
-        "director": "",
-        "stars": []
+        "director": "Eduard Schnedler-S\u00f8rensen",
+        "stars": [
+            "Frederik Christensen",
+            "Aage Hertel",
+            "Alma Hinding",
+            "Frederik Jacobsen"
+        ],
+        "votes": "39",
+        "gross": ""
     },
     "41": {
         "name": "Mysteries of Paris",
@@ -365,8 +612,15 @@
         "runtime": "50 min",
         "genre": "Drama",
         "description": "The Archduke Rodolphe d'Illyrie is secretly united to Countess Sarah Mac Gregor and they have a daughter together. The young woman learns that her father-in-law is potting to have the ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Albert Capellani",
+        "stars": [
+            "Paul Capellani",
+            "Henri \u00c9ti\u00e9vant",
+            "Jean Kemm",
+            "F\u00e9lix Gand\u00e9ra"
+        ],
+        "votes": "",
+        "gross": ""
     },
     "42": {
         "name": "1812 god",
@@ -374,8 +628,17 @@
         "runtime": "48 min",
         "genre": "Drama, History",
         "description": "Napoleon invades Russia in 1812.",
-        "director": "",
-        "stars": []
+        "director": "Vasili Goncharov",
+        "stars": [
+            "Kai Hansen",
+            "Aleksandr Uralsky",
+            "Vasili Goncharov",
+            "Aleksandra Goncharova",
+            "Andrej Gromov",
+            "Pavel Knorr"
+        ],
+        "votes": "76",
+        "gross": ""
     },
     "43": {
         "name": "Dall'amore al disonore",
@@ -383,8 +646,10 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Ugo Falena",
+        "stars": [],
+        "votes": "",
+        "gross": ""
     },
     "44": {
         "name": "Le n\u00e8gre blanc",
@@ -392,8 +657,14 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Abel Gance",
+        "stars": [
+            "Abel Gance",
+            "Mathilde Thizeau",
+            "Jean Toulout"
+        ],
+        "votes": "",
+        "gross": ""
     },
     "45": {
         "name": "Anny - en gatepiges roman",
@@ -401,8 +672,15 @@
         "runtime": "68 min",
         "genre": "Drama, Romance",
         "description": "Anny works in a cigar-shop. Wholesaler Willmann fancy Anny and hire her as his housemaid. Soon the two have an intimate relationship. But Anny finds someone new. At a carnival. Her next ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Adam Eriksen",
+        "stars": [
+            "Julie Jansen-Fuhr",
+            "Johan Andersson",
+            "Gunlaug Lund",
+            "Waldemar Zwinge"
+        ],
+        "votes": "",
+        "gross": ""
     },
     "46": {
         "name": "Tierra baja",
@@ -410,8 +688,14 @@
         "runtime": "",
         "genre": "Drama",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Mario Gallo",
+        "stars": [
+            "Pablo Podest\u00e1",
+            "Blanca Podest\u00e1",
+            "El\u00edas Alippi"
+        ],
+        "votes": "",
+        "gross": ""
     },
     "47": {
         "name": "Bryggerens datter",
@@ -419,8 +703,15 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Rasmus Ottesen",
+        "stars": [
+            "Peter S. Andersen",
+            "Olaf F\u00f8nss",
+            "Richard Jensen",
+            "Jacoba Jessen"
+        ],
+        "votes": "",
+        "gross": ""
     },
     "48": {
         "name": "Arrival at Howrah",
@@ -428,8 +719,13 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Hiralal Sen",
+        "stars": [
+            "King George V",
+            "Queen Mary"
+        ],
+        "votes": "",
+        "gross": ""
     },
     "49": {
         "name": "Kommand\u00f8rens d\u00f8tre",
@@ -437,8 +733,15 @@
         "runtime": "",
         "genre": "Drama",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Leo Tscherning",
+        "stars": [
+            "Clara Pontoppidan",
+            "Carlo Wieth",
+            "Augusta Blad",
+            "Maja Bjerre-Lind"
+        ],
+        "votes": "",
+        "gross": ""
     },
     "50": {
         "name": "The Heroine from Derna",
@@ -446,7 +749,12 @@
         "runtime": "",
         "genre": "Drama, War",
         "description": "This picture portrays the terrible assault upon Derna, in which the young Italian captain, Adolfo Bertini, was wounded in the forehead and, after a conflict, fell into the hands of the ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Gennaro Righelli",
+        "stars": [
+            "Maria Righelli",
+            "Ruffo Geri"
+        ],
+        "votes": "",
+        "gross": ""
     }
 }

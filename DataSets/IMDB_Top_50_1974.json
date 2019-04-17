@@ -5,8 +5,15 @@
         "runtime": "202 min",
         "genre": "Crime, Drama",
         "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
-        "director": "",
-        "stars": []
+        "director": "Francis Ford Coppola",
+        "stars": [
+            "Al Pacino",
+            "Robert De Niro",
+            "Robert Duvall",
+            "Diane Keaton"
+        ],
+        "votes": "987,667",
+        "gross": "$57.30M"
     },
     "2": {
         "name": "Chinatown",
@@ -14,8 +21,15 @@
         "runtime": "130 min",
         "genre": "Drama, Mystery, Thriller",
         "description": "A private detective hired to expose an adulterer finds himself caught up in a web of deceit, corruption, and murder.",
-        "director": "",
-        "stars": []
+        "director": "Roman Polanski",
+        "stars": [
+            "Jack Nicholson",
+            "Faye Dunaway",
+            "John Huston",
+            "Perry Lopez"
+        ],
+        "votes": "263,843",
+        "gross": "$29.20M"
     },
     "3": {
         "name": "Death Wish",
@@ -23,8 +37,15 @@
         "runtime": "93 min",
         "genre": "Action, Crime, Drama",
         "description": "A New York City architect becomes a one-man vigilante squad after his wife is murdered by street punks in which he randomly goes out and kills would-be muggers on the mean streets after dark.",
-        "director": "",
-        "stars": []
+        "director": "Michael Winner",
+        "stars": [
+            "Charles Bronson",
+            "Hope Lange",
+            "Vincent Gardenia",
+            "Steven Keats"
+        ],
+        "votes": "31,732",
+        "gross": "$22.00M"
     },
     "4": {
         "name": "The Texas Chain Saw Massacre",
@@ -32,8 +53,15 @@
         "runtime": "83 min",
         "genre": "Horror",
         "description": "Two siblings and three of their friends en route to visit their grandfather's grave in Texas end up falling victim to a family of cannibalistic psychopaths.",
-        "director": "",
-        "stars": []
+        "director": "Tobe Hooper",
+        "stars": [
+            "Marilyn Burns",
+            "Edwin Neal",
+            "Allen Danziger",
+            "Paul A. Partain"
+        ],
+        "votes": "119,520",
+        "gross": "$30.86M"
     },
     "5": {
         "name": "Blazing Saddles",
@@ -41,8 +69,15 @@
         "runtime": "93 min",
         "genre": "Comedy, Western",
         "description": "In order to ruin a western town, a corrupt politician appoints a black Sheriff, who promptly becomes his most formidable adversary.",
-        "director": "",
-        "stars": []
+        "director": "Mel Brooks",
+        "stars": [
+            "Cleavon Little",
+            "Gene Wilder",
+            "Slim Pickens",
+            "Harvey Korman"
+        ],
+        "votes": "115,080",
+        "gross": "$119.50M"
     },
     "6": {
         "name": "The Conversation",
@@ -50,8 +85,15 @@
         "runtime": "113 min",
         "genre": "Drama, Mystery, Thriller",
         "description": "A paranoid, secretive surveillance expert has a crisis of conscience when he suspects that a couple, on whom he is spying, will be murdered.",
-        "director": "",
-        "stars": []
+        "director": "Francis Ford Coppola",
+        "stars": [
+            "Gene Hackman",
+            "John Cazale",
+            "Allen Garfield",
+            "Frederic Forrest"
+        ],
+        "votes": "86,889",
+        "gross": "$4.42M"
     },
     "7": {
         "name": "Murder on the Orient Express",
@@ -59,8 +101,15 @@
         "runtime": "128 min",
         "genre": "Crime, Drama, Mystery",
         "description": "In December 1935, when his train is stopped by deep snow, detective Hercule Poirot is called on to solve a murder that occurred in his car the night before.",
-        "director": "",
-        "stars": []
+        "director": "Sidney Lumet",
+        "stars": [
+            "Albert Finney",
+            "Lauren Bacall",
+            "Ingrid Bergman",
+            "Sean Connery"
+        ],
+        "votes": "49,318",
+        "gross": ""
     },
     "8": {
         "name": "Young Frankenstein",
@@ -68,8 +117,15 @@
         "runtime": "106 min",
         "genre": "Comedy",
         "description": "An American grandson of the infamous scientist, struggling to prove that his grandfather was not as insane as people believe, is invited to Transylvania, where he discovers the process that reanimates a dead body.",
-        "director": "",
-        "stars": []
+        "director": "Mel Brooks",
+        "stars": [
+            "Gene Wilder",
+            "Madeline Kahn",
+            "Marty Feldman",
+            "Peter Boyle"
+        ],
+        "votes": "132,411",
+        "gross": "$86.30M"
     },
     "9": {
         "name": "Mame",
@@ -77,8 +133,15 @@
         "runtime": "132 min",
         "genre": "Musical",
         "description": "It's the late 1920s. Upon the death of wealthy Chicagoan Edward Dennis, his nine-year old son Patrick Dennis becomes the ward of their only living relative, Edward's equally wealthy New ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Gene Saks",
+        "stars": [
+            "Lucille Ball",
+            "Robert Preston",
+            "Bea Arthur",
+            "Bruce Davison"
+        ],
+        "votes": "2,418",
+        "gross": ""
     },
     "10": {
         "name": "The Man with the Golden Gun",
@@ -86,8 +149,15 @@
         "runtime": "125 min",
         "genre": "Action, Adventure, Thriller",
         "description": "James Bond is led to believe that he is targeted by the world's most expensive assassin while he attempts to recover sensitive solar cell technology that is being sold to the highest bidder.",
-        "director": "",
-        "stars": []
+        "director": "Guy Hamilton",
+        "stars": [
+            "Roger Moore",
+            "Christopher Lee",
+            "Britt Ekland",
+            "Maud Adams"
+        ],
+        "votes": "85,988",
+        "gross": "$20.97M"
     },
     "11": {
         "name": "The Towering Inferno",
@@ -95,8 +165,15 @@
         "runtime": "165 min",
         "genre": "Action, Drama, Thriller",
         "description": "At the opening party of a colossal, but poorly constructed, office building, a massive fire breaks out that threatens to destroy the tower and everyone in it.",
-        "director": "",
-        "stars": []
+        "director": "John Guillermin",
+        "stars": [
+            "Paul Newman",
+            "Steve McQueen",
+            "William Holden",
+            "Faye Dunaway"
+        ],
+        "votes": "35,525",
+        "gross": "$116.00M"
     },
     "12": {
         "name": "The Night Porter",
@@ -104,8 +181,15 @@
         "runtime": "118 min",
         "genre": "Drama",
         "description": "After a chance meeting at a hotel in 1957, a Holocaust survivor and the Nazi officer who tortured her resume their sadomasochistic relationship.",
-        "director": "",
-        "stars": []
+        "director": "Liliana Cavani",
+        "stars": [
+            "Dirk Bogarde",
+            "Charlotte Rampling",
+            "Philippe Leroy",
+            "Gabriele Ferzetti"
+        ],
+        "votes": "9,910",
+        "gross": ""
     },
     "13": {
         "name": "The Great Gatsby",
@@ -113,8 +197,15 @@
         "runtime": "144 min",
         "genre": "Drama, Romance",
         "description": "A Midwesterner becomes fascinated with his nouveau riche neighbor, who obsesses over his lost love.",
-        "director": "",
-        "stars": []
+        "director": "Jack Clayton",
+        "stars": [
+            "Robert Redford",
+            "Mia Farrow",
+            "Bruce Dern",
+            "Karen Black"
+        ],
+        "votes": "21,917",
+        "gross": ""
     },
     "14": {
         "name": "Thunderbolt and Lightfoot",
@@ -122,8 +213,15 @@
         "runtime": "115 min",
         "genre": "Comedy, Crime, Drama",
         "description": "With the help of an irreverent young sidekick, a bank robber gets his old gang back together to organize a daring new heist.",
-        "director": "",
-        "stars": []
+        "director": "Michael Cimino",
+        "stars": [
+            "Clint Eastwood",
+            "Jeff Bridges",
+            "Geoffrey Lewis",
+            "Catherine Bach"
+        ],
+        "votes": "19,722",
+        "gross": "$25.00M"
     },
     "15": {
         "name": "The Longest Yard",
@@ -131,8 +229,15 @@
         "runtime": "121 min",
         "genre": "Comedy, Crime, Drama",
         "description": "A sadistic warden asks a former pro quarterback, now serving time in his prison, to put together a team of inmates to take on (and get pummeled by) the guards.",
-        "director": "",
-        "stars": []
+        "director": "Robert Aldrich",
+        "stars": [
+            "Burt Reynolds",
+            "Eddie Albert",
+            "Ed Lauter",
+            "Michael Conrad"
+        ],
+        "votes": "15,482",
+        "gross": ""
     },
     "16": {
         "name": "Lenny",
@@ -140,8 +245,15 @@
         "runtime": "111 min",
         "genre": "Biography, Drama",
         "description": "The story of acerbic 1960s comic Lenny Bruce, whose groundbreaking, no-holds-barred style and social commentary was often deemed by the Establishment as too obscene for the public.",
-        "director": "",
-        "stars": []
+        "director": "Bob Fosse",
+        "stars": [
+            "Dustin Hoffman",
+            "Valerie Perrine",
+            "Jan Miner",
+            "Stanley Beck"
+        ],
+        "votes": "12,951",
+        "gross": ""
     },
     "17": {
         "name": "Zardoz",
@@ -149,8 +261,15 @@
         "runtime": "105 min",
         "genre": "Adventure, Fantasy, Sci-Fi",
         "description": "In the distant future, a savage trained only to kill finds a way into the community of bored immortals that alone preserves humanity's achievements.",
-        "director": "",
-        "stars": []
+        "director": "John Boorman",
+        "stars": [
+            "Sean Connery",
+            "Charlotte Rampling",
+            "Sara Kestelman",
+            "John Alderton"
+        ],
+        "votes": "17,590",
+        "gross": ""
     },
     "18": {
         "name": "The Terminal Man",
@@ -158,8 +277,15 @@
         "runtime": "107 min",
         "genre": "Horror, Sci-Fi, Thriller",
         "description": "Hoping to cure his violent seizures, a man agrees to a series of experimental microcomputers inserted into his brain but inadvertently discovers that violence now triggers a pleasurable response his brain.",
-        "director": "",
-        "stars": []
+        "director": "Mike Hodges",
+        "stars": [
+            "George Segal",
+            "Joan Hackett",
+            "Richard Dysart",
+            "Donald Moffat"
+        ],
+        "votes": "1,671",
+        "gross": ""
     },
     "19": {
         "name": "A Woman Under the Influence",
@@ -167,8 +293,15 @@
         "runtime": "155 min",
         "genre": "Drama, Romance",
         "description": "Mabel, a wife and mother, is loved by her husband Nick but her mental illness proves to be a problem in the marriage.",
-        "director": "",
-        "stars": []
+        "director": "John Cassavetes",
+        "stars": [
+            "Gena Rowlands",
+            "Peter Falk",
+            "Fred Draper",
+            "Lady Rowlands"
+        ],
+        "votes": "17,910",
+        "gross": ""
     },
     "20": {
         "name": "The Arena",
@@ -176,8 +309,15 @@
         "runtime": "83 min",
         "genre": "Action, Adventure",
         "description": "Two thousand years ago, the people of Rome are so blas\u00e9e, so used to violence, that entertaining them becomes a political problem. Someone suggests, after a hectic girl fight in a kitchen ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Steve Carver",
+        "stars": [
+            "Margaret Markov",
+            "Pam Grier",
+            "Lucretia Love",
+            "Paul Muller"
+        ],
+        "votes": "972",
+        "gross": ""
     },
     "21": {
         "name": "Phantom of the Paradise",
@@ -185,8 +325,15 @@
         "runtime": "91 min",
         "genre": "Comedy, Drama, Fantasy",
         "description": "A disfigured composer sells his soul for the woman he loves so that she will perform his music. However, an evil record tycoon betrays him and steals his music to open his rock palace, The Paradise.",
-        "director": "",
-        "stars": []
+        "director": "Brian De Palma",
+        "stars": [
+            "Paul Williams",
+            "William Finley",
+            "Jessica Harper",
+            "Gerrit Graham"
+        ],
+        "votes": "14,233",
+        "gross": ""
     },
     "22": {
         "name": "Emmanuelle",
@@ -194,8 +341,15 @@
         "runtime": "95 min",
         "genre": "Drama",
         "description": "The wife of a French diplomat in Bangkok, Emmanuelle embarks on a voyage of sexual discovery.",
-        "director": "",
-        "stars": []
+        "director": "Just Jaeckin",
+        "stars": [
+            "Sylvia Kristel",
+            "Alain Cuny",
+            "Marika Green",
+            "Daniel Sarky"
+        ],
+        "votes": "8,533",
+        "gross": "$8.72M"
     },
     "23": {
         "name": "Alice Doesn't Live Here Anymore",
@@ -203,8 +357,15 @@
         "runtime": "112 min",
         "genre": "Drama, Romance",
         "description": "A recently widowed woman is on the road with her precocious young son, determined to make a new life for herself as a singer.",
-        "director": "",
-        "stars": []
+        "director": "Martin Scorsese",
+        "stars": [
+            "Ellen Burstyn",
+            "Kris Kristofferson",
+            "Mia Bendixsen",
+            "Alfred Lutter III"
+        ],
+        "votes": "18,436",
+        "gross": "$17.60M"
     },
     "24": {
         "name": "Foxy Brown",
@@ -212,8 +373,15 @@
         "runtime": "92 min",
         "genre": "Action, Crime, Thriller",
         "description": "A voluptuous black woman takes a job as a high-class prostitute in order to get revenge on the mobsters who murdered her boyfriend.",
-        "director": "",
-        "stars": []
+        "director": "Jack Hill",
+        "stars": [
+            "Pam Grier",
+            "Antonio Fargas",
+            "Peter Brown",
+            "Terry Carter"
+        ],
+        "votes": "7,861",
+        "gross": ""
     },
     "25": {
         "name": "The Little Prince",
@@ -221,8 +389,15 @@
         "runtime": "88 min",
         "genre": "Family, Fantasy, Musical",
         "description": "A pilot, stranded in the desert, meets a little boy who is a prince on a planet.",
-        "director": "",
-        "stars": []
+        "director": "Stanley Donen",
+        "stars": [
+            "Richard Kiley",
+            "Steven Warner",
+            "Joss Ackland",
+            "Clive Revill"
+        ],
+        "votes": "3,014",
+        "gross": ""
     },
     "26": {
         "name": "The Lords of Flatbush",
@@ -230,8 +405,16 @@
         "runtime": "86 min",
         "genre": "Comedy, Drama, Romance",
         "description": "A group of kids in Brooklyn form a gang. From this moment on they do everything together. This makes things easier but at the same time they have to face new problems.",
-        "director": "",
-        "stars": []
+        "director": "Martin Davidson",
+        "stars": [
+            "Stephen Verona",
+            "Sylvester Stallone",
+            "Henry Winkler",
+            "Perry King",
+            "Paul Mace"
+        ],
+        "votes": "3,174",
+        "gross": ""
     },
     "27": {
         "name": "Dark Star",
@@ -239,8 +422,15 @@
         "runtime": "83 min",
         "genre": "Comedy, Sci-Fi",
         "description": "In the far reaches of space, a small crew, 20 years into their solitary mission, find things beginning to go hilariously wrong.",
-        "director": "",
-        "stars": []
+        "director": "John Carpenter",
+        "stars": [
+            "Dan O'Bannon",
+            "Dre Pahich",
+            "Brian Narelle",
+            "Cal Kuniholm"
+        ],
+        "votes": "19,966",
+        "gross": ""
     },
     "28": {
         "name": "Black Christmas",
@@ -248,8 +438,15 @@
         "runtime": "98 min",
         "genre": "Horror, Mystery, Thriller",
         "description": "During their Christmas break, a group of sorority girls are stalked by a stranger.",
-        "director": "",
-        "stars": []
+        "director": "Bob Clark",
+        "stars": [
+            "Olivia Hussey",
+            "Keir Dullea",
+            "Margot Kidder",
+            "John Saxon"
+        ],
+        "votes": "27,320",
+        "gross": "$4.05M"
     },
     "29": {
         "name": "Flesh Gordon",
@@ -257,8 +454,16 @@
         "runtime": "78 min",
         "genre": "Comedy, Sci-Fi",
         "description": "Emperor Wang (the Perverted) is leader of the planet Porno and sends his mighty \"Sex Ray\" towards Earth, turning everyone into sex-mad fiends. Only one man can save the Earth, football ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Michael Benveniste",
+        "stars": [
+            "Howard Ziehm",
+            "Jason Williams",
+            "Suzanne Fields",
+            "Joseph Hudgins",
+            "William Dennis Hunt"
+        ],
+        "votes": "3,569",
+        "gross": ""
     },
     "30": {
         "name": "The Taking of Pelham One Two Three",
@@ -266,8 +471,15 @@
         "runtime": "104 min",
         "genre": "Action, Crime, Thriller",
         "description": "In New York, armed men hijack a subway car and demand a ransom for the passengers. Even if it's paid, how could they get away?",
-        "director": "",
-        "stars": []
+        "director": "Joseph Sargent",
+        "stars": [
+            "Walter Matthau",
+            "Robert Shaw",
+            "Martin Balsam",
+            "Hector Elizondo"
+        ],
+        "votes": "23,624",
+        "gross": ""
     },
     "31": {
         "name": "It's Alive",
@@ -275,8 +487,15 @@
         "runtime": "91 min",
         "genre": "Horror",
         "description": "The Davies expect a baby, which turns out to be a monster with a nasty habit of killing when it's scared. And it's easily scared.",
-        "director": "",
-        "stars": []
+        "director": "Larry Cohen",
+        "stars": [
+            "John P. Ryan",
+            "Sharon Farrell",
+            "Andrew Duggan",
+            "Guy Stockwell"
+        ],
+        "votes": "6,118",
+        "gross": ""
     },
     "32": {
         "name": "Earthquake",
@@ -284,8 +503,15 @@
         "runtime": "122 min",
         "genre": "Action, Drama, Thriller",
         "description": "Various interconnected people struggle to survive when an earthquake of unimaginable magnitude hits Los Angeles, California.",
-        "director": "",
-        "stars": []
+        "director": "Mark Robson",
+        "stars": [
+            "Charlton Heston",
+            "Ava Gardner",
+            "George Kennedy",
+            "Lorne Greene"
+        ],
+        "votes": "12,401",
+        "gross": "$79.70M"
     },
     "33": {
         "name": "Female Trouble",
@@ -293,8 +519,15 @@
         "runtime": "89 min",
         "genre": "Comedy, Crime",
         "description": "A spoiled schoolgirl runs away from home, gets pregnant while hitch-hiking, and ends up as a fashion model for a pair of beauticians who like to photograph women committing crimes.",
-        "director": "",
-        "stars": []
+        "director": "John Waters",
+        "stars": [
+            "Divine",
+            "David Lochary",
+            "Mary Vivian Pearce",
+            "Mink Stole"
+        ],
+        "votes": "6,879",
+        "gross": ""
     },
     "34": {
         "name": "The Sugarland Express",
@@ -302,8 +535,15 @@
         "runtime": "110 min",
         "genre": "Crime, Drama",
         "description": "A woman attempts to reunite her family by helping her husband escape prison and together kidnapping their son. But things don't go as planned when they are forced to take a police hostage on the road.",
-        "director": "",
-        "stars": []
+        "director": "Steven Spielberg",
+        "stars": [
+            "Goldie Hawn",
+            "Ben Johnson",
+            "Michael Sacks",
+            "William Atherton"
+        ],
+        "votes": "13,720",
+        "gross": "$7.50M"
     },
     "35": {
         "name": "Watch Out, We're Mad",
@@ -311,8 +551,15 @@
         "runtime": "101 min",
         "genre": "Action, Comedy",
         "description": "After a tied 1st place in a local stunt race, two drivers start a contest to decide who of them will own the prize, a dune buggy. But when a mobster destroys the car, they are determined to get it back.",
-        "director": "",
-        "stars": []
+        "director": "Marcello Fondato",
+        "stars": [
+            "Terence Hill",
+            "Bud Spencer",
+            "Patty Shepard",
+            "Deogratias Huerta"
+        ],
+        "votes": "9,471",
+        "gross": ""
     },
     "36": {
         "name": "Airport 1975",
@@ -320,8 +567,15 @@
         "runtime": "107 min",
         "genre": "Action, Drama, Thriller",
         "description": "A 747 in flight collides with a small plane, and is rendered pilotless. Somehow the control tower must get a pilot aboard so the jet can land.",
-        "director": "",
-        "stars": []
+        "director": "Jack Smight",
+        "stars": [
+            "Charlton Heston",
+            "Karen Black",
+            "George Kennedy",
+            "Efrem Zimbalist Jr."
+        ],
+        "votes": "8,620",
+        "gross": "$47.29M"
     },
     "37": {
         "name": "Big Bad Mama",
@@ -329,8 +583,15 @@
         "runtime": "84 min",
         "genre": "Action, Comedy, Crime",
         "description": "Mama and daughters get forced by circumstances into bootlegging and bank robbing, and travel across the country trailed by the law.",
-        "director": "",
-        "stars": []
+        "director": "Steve Carver",
+        "stars": [
+            "Angie Dickinson",
+            "William Shatner",
+            "Tom Skerritt",
+            "Susan Sennett"
+        ],
+        "votes": "1,918",
+        "gross": ""
     },
     "38": {
         "name": "Gone in 60 Seconds",
@@ -338,8 +599,15 @@
         "runtime": "105 min",
         "genre": "Action, Crime, Drama",
         "description": "When a South American drug lord pays Pace to steal 48 cars for him, all but one is in the bag - thereby, the police precipitate in a desperate car chase against Pace and his Eleanor across Southern California.",
-        "director": "",
-        "stars": []
+        "director": "H.B. Halicki",
+        "stars": [
+            "H.B. Halicki",
+            "Marion Busia",
+            "Jerry Daugirda",
+            "James McIntyre"
+        ],
+        "votes": "7,565",
+        "gross": "$40.00M"
     },
     "39": {
         "name": "Vampyres",
@@ -347,8 +615,15 @@
         "runtime": "87 min",
         "genre": "Horror",
         "description": "A lesbian vampire couple waylay and abduct various passer-byes, both male and female, to hold them captive at their rural manor in the English countryside in order to kill and feed on them to satisfy their insatiable thirst for blood.",
-        "director": "",
-        "stars": []
+        "director": "Jos\u00e9 Ram\u00f3n Larraz",
+        "stars": [
+            "Marianne Morris",
+            "Anulka Dziubinska",
+            "Murray Brown",
+            "Brian Deacon"
+        ],
+        "votes": "2,641",
+        "gross": ""
     },
     "40": {
         "name": "Bring Me the Head of Alfredo Garcia",
@@ -356,8 +631,15 @@
         "runtime": "112 min",
         "genre": "Action, Crime, Drama",
         "description": "An American barroom pianist and his prostitute girlfriend go on a road trip through the Mexican underworld to collect a bounty on the head of a dead gigolo.",
-        "director": "",
-        "stars": []
+        "director": "Sam Peckinpah",
+        "stars": [
+            "Warren Oates",
+            "Isela Vega",
+            "Robert Webber",
+            "Gig Young"
+        ],
+        "votes": "16,333",
+        "gross": ""
     },
     "41": {
         "name": "Sweet Movie",
@@ -365,8 +647,15 @@
         "runtime": "98 min",
         "genre": "Comedy, Drama, Mystery",
         "description": "In the contest of the \"most virgin\" Miss Monde 1984, Miss Canada wins, and prize is the marriage with the milk industry tycoon with his fifty billion dollars fortune. In their honeymoon, ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Dusan Makavejev",
+        "stars": [
+            "Carole Laure",
+            "Pierre Cl\u00e9menti",
+            "Anna Prucnal",
+            "Sami Frey"
+        ],
+        "votes": "4,875",
+        "gross": ""
     },
     "42": {
         "name": "The Land That Time Forgot",
@@ -374,8 +663,15 @@
         "runtime": "91 min",
         "genre": "Adventure, Fantasy",
         "description": "During World War I, a German U-boat sinks a British ship and takes the survivors on board. After it takes a wrong turn, the submarine takes them to the unknown land of Caprona, where they find dinosaurs and neanderthals.",
-        "director": "",
-        "stars": []
+        "director": "Kevin Connor",
+        "stars": [
+            "Doug McClure",
+            "John McEnery",
+            "Susan Penhaligon",
+            "Keith Barron"
+        ],
+        "votes": "4,936",
+        "gross": ""
     },
     "43": {
         "name": "Caged Heat",
@@ -383,8 +679,15 @@
         "runtime": "83 min",
         "genre": "Action, Comedy, Drama",
         "description": "In a women's prison, a group of inmates band together to combat the repressive and abusive policies of the warden.",
-        "director": "",
-        "stars": []
+        "director": "Jonathan Demme",
+        "stars": [
+            "Juanita Brown",
+            "Erica Gavin",
+            "Roberta Collins",
+            "Ella Reid"
+        ],
+        "votes": "1,790",
+        "gross": ""
     },
     "44": {
         "name": "Mr. Majestyk",
@@ -392,8 +695,15 @@
         "runtime": "103 min",
         "genre": "Action, Crime, Drama",
         "description": "A melon farmer battles organized crime and a hit man who wants to kill him.",
-        "director": "",
-        "stars": []
+        "director": "Richard Fleischer",
+        "stars": [
+            "Charles Bronson",
+            "Linda Cristal",
+            "Al Lettieri",
+            "Lee Purcell"
+        ],
+        "votes": "6,689",
+        "gross": ""
     },
     "45": {
         "name": "The Phantom of Liberty",
@@ -401,8 +711,15 @@
         "runtime": "104 min",
         "genre": "Comedy",
         "description": "A series of surreal sequences that critique morality and society in a stream of consciousness style.",
-        "director": "",
-        "stars": []
+        "director": "Luis Bu\u00f1uel",
+        "stars": [
+            "Jean-Claude Brialy",
+            "Adolfo Celi",
+            "Michel Piccoli",
+            "Monica Vitti"
+        ],
+        "votes": "12,544",
+        "gross": "$0.01M"
     },
     "46": {
         "name": "The Tamarind Seed",
@@ -410,8 +727,15 @@
         "runtime": "125 min",
         "genre": "Drama, Romance",
         "description": "During a Caribbean vacation, a British civil servant finds herself falling in love with a Russian Agent.",
-        "director": "",
-        "stars": []
+        "director": "Blake Edwards",
+        "stars": [
+            "Julie Andrews",
+            "Omar Sharif",
+            "Anthony Quayle",
+            "Dan O'Herlihy"
+        ],
+        "votes": "1,428",
+        "gross": ""
     },
     "47": {
         "name": "Dirty Mary Crazy Larry",
@@ -419,8 +743,15 @@
         "runtime": "93 min",
         "genre": "Action, Crime, Thriller",
         "description": "Larry Rayder is an aspiring NASCAR driver, Deke Sommers is mechanic. As they feel they collectively are the best, the only thing that is holding them back is money to build the best vehicle...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "John Hough",
+        "stars": [
+            "Peter Fonda",
+            "Susan George",
+            "Adam Roarke",
+            "Kenneth Tobey"
+        ],
+        "votes": "5,547",
+        "gross": ""
     },
     "48": {
         "name": "The Front Page",
@@ -428,8 +759,15 @@
         "runtime": "105 min",
         "genre": "Comedy, Drama, Romance",
         "description": "As a tabloid newspaper editor tries to prevent his top reporter from retiring, an escaped death row convict shows up at the office trying to convey his innocence.",
-        "director": "",
-        "stars": []
+        "director": "Billy Wilder",
+        "stars": [
+            "Jack Lemmon",
+            "Walter Matthau",
+            "Susan Sarandon",
+            "Vincent Gardenia"
+        ],
+        "votes": "10,922",
+        "gross": "$17.30M"
     },
     "49": {
         "name": "Benji",
@@ -437,8 +775,15 @@
         "runtime": "86 min",
         "genre": "Adventure, Family, Romance",
         "description": "A stray dog saves two kidnapped children.",
-        "director": "",
-        "stars": []
+        "director": "Joe Camp",
+        "stars": [
+            "Peter Breck",
+            "Deborah Walley",
+            "Patsy Garrett",
+            "Allen Fiuzat"
+        ],
+        "votes": "4,010",
+        "gross": "$39.55M"
     },
     "50": {
         "name": "The Yakuza",
@@ -446,7 +791,14 @@
         "runtime": "112 min",
         "genre": "Action, Crime, Drama",
         "description": "American private-eye Harry Kilmer returns to Japan to rescue a friend's kidnapped daughter from the clutches of the Yakuza.",
-        "director": "",
-        "stars": []
+        "director": "Sydney Pollack",
+        "stars": [
+            "Robert Mitchum",
+            "Ken Takakura",
+            "Brian Keith",
+            "Herb Edelman"
+        ],
+        "votes": "6,752",
+        "gross": ""
     }
 }

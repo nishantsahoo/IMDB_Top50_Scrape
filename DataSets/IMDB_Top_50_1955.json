@@ -5,8 +5,15 @@
         "runtime": "92 min",
         "genre": "Crime, Drama, Film-Noir",
         "description": "A religious fanatic marries a gullible widow whose young children are reluctant to tell him where their real daddy hid $10,000 he'd stolen in a robbery.",
-        "director": "",
-        "stars": []
+        "director": "Charles Laughton",
+        "stars": [
+            "Robert Mitchum",
+            "Shelley Winters",
+            "Lillian Gish",
+            "James Gleason"
+        ],
+        "votes": "74,685",
+        "gross": "$0.65M"
     },
     "2": {
         "name": "East of Eden",
@@ -14,8 +21,15 @@
         "runtime": "118 min",
         "genre": "Drama",
         "description": "A wilful young man contends against his brother for the attention of their religious father while reconnecting with his estranged mother and falling for his brother's girlfriend.",
-        "director": "",
-        "stars": []
+        "director": "Elia Kazan",
+        "stars": [
+            "James Dean",
+            "Raymond Massey",
+            "Julie Harris",
+            "Burl Ives"
+        ],
+        "votes": "36,495",
+        "gross": ""
     },
     "3": {
         "name": "To Catch a Thief",
@@ -23,8 +37,15 @@
         "runtime": "106 min",
         "genre": "Mystery, Romance, Thriller",
         "description": "A retired jewel thief sets out to prove his innocence after being suspected of returning to his former occupation.",
-        "director": "",
-        "stars": []
+        "director": "Alfred Hitchcock",
+        "stars": [
+            "Cary Grant",
+            "Grace Kelly",
+            "Jessie Royce Landis",
+            "John Williams"
+        ],
+        "votes": "55,803",
+        "gross": "$8.75M"
     },
     "4": {
         "name": "The Man from Laramie",
@@ -32,8 +53,15 @@
         "runtime": "103 min",
         "genre": "Western",
         "description": "A stranger, Will Lockhart, defies the local cattle baron and his sadistic son by working for one of his oldest rivals.",
-        "director": "",
-        "stars": []
+        "director": "Anthony Mann",
+        "stars": [
+            "James Stewart",
+            "Arthur Kennedy",
+            "Donald Crisp",
+            "Cathy O'Donnell"
+        ],
+        "votes": "8,339",
+        "gross": ""
     },
     "5": {
         "name": "Hit the Deck",
@@ -41,8 +69,15 @@
         "runtime": "112 min",
         "genre": "Comedy, Musical, Romance",
         "description": "Sailor Danny Xavier Smith and two other gobs try to save his sister Susan's virtue. She wants to get a role in the show \"Hit the Deck\". After wrecking the producers hotel suite, they land ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Roy Rowland",
+        "stars": [
+            "Jane Powell",
+            "Tony Martin",
+            "Debbie Reynolds",
+            "Walter Pidgeon"
+        ],
+        "votes": "600",
+        "gross": ""
     },
     "6": {
         "name": "Rebel Without a Cause",
@@ -50,8 +85,15 @@
         "runtime": "111 min",
         "genre": "Drama",
         "description": "A rebellious young man with a troubled past comes to a new town, finding friends and enemies.",
-        "director": "",
-        "stars": []
+        "director": "Nicholas Ray",
+        "stars": [
+            "James Dean",
+            "Natalie Wood",
+            "Sal Mineo",
+            "Jim Backus"
+        ],
+        "votes": "75,482",
+        "gross": ""
     },
     "7": {
         "name": "Lady and the Tramp",
@@ -59,8 +101,17 @@
         "runtime": "76 min",
         "genre": "Animation, Adventure, Comedy",
         "description": "The romantic tale of a sheltered uptown Cocker Spaniel dog and a streetwise downtown Mutt.",
-        "director": "",
-        "stars": []
+        "director": "Clyde Geronimi",
+        "stars": [
+            "Wilfred Jackson",
+            "Hamilton Luske",
+            "Barbara Luddy",
+            "Larry Roberts",
+            "Peggy Lee",
+            "Bill Thompson"
+        ],
+        "votes": "107,791",
+        "gross": "$93.60M"
     },
     "8": {
         "name": "Oklahoma!",
@@ -68,8 +119,15 @@
         "runtime": "145 min",
         "genre": "Comedy, Drama, Musical",
         "description": "In Oklahoma, several farmers, cowboys and a traveling salesman compete for the romantic favors of various local ladies.",
-        "director": "",
-        "stars": []
+        "director": "Fred Zinnemann",
+        "stars": [
+            "Gordon MacRae",
+            "Gloria Grahame",
+            "Gene Nelson",
+            "Charlotte Greenwood"
+        ],
+        "votes": "10,208",
+        "gross": ""
     },
     "9": {
         "name": "Guys and Dolls",
@@ -77,8 +135,15 @@
         "runtime": "150 min",
         "genre": "Comedy, Crime, Musical",
         "description": "In New York, a gambler is challenged to take a cold female missionary to Havana, but they fall for each other, and the bet has a hidden motive to finance a crap game.",
-        "director": "",
-        "stars": []
+        "director": "Joseph L. Mankiewicz",
+        "stars": [
+            "Marlon Brando",
+            "Jean Simmons",
+            "Frank Sinatra",
+            "Vivian Blaine"
+        ],
+        "votes": "13,996",
+        "gross": "$13.00M"
     },
     "10": {
         "name": "The Seven Year Itch",
@@ -86,8 +151,15 @@
         "runtime": "105 min",
         "genre": "Comedy, Romance",
         "description": "When his family goes away for the summer, a so far faithful husband is tempted by a beautiful neighbor.",
-        "director": "",
-        "stars": []
+        "director": "Billy Wilder",
+        "stars": [
+            "Marilyn Monroe",
+            "Tom Ewell",
+            "Evelyn Keyes",
+            "Sonny Tufts"
+        ],
+        "votes": "30,612",
+        "gross": "$12.00M"
     },
     "11": {
         "name": "We're No Angels",
@@ -95,8 +167,15 @@
         "runtime": "106 min",
         "genre": "Comedy, Crime, Romance",
         "description": "Three Devil's Island escapees hide out in the house of a kindly merchant and repay his kindness by helping him and his family out of several crises.",
-        "director": "",
-        "stars": []
+        "director": "Michael Curtiz",
+        "stars": [
+            "Humphrey Bogart",
+            "Peter Ustinov",
+            "Aldo Ray",
+            "Joan Bennett"
+        ],
+        "votes": "7,231",
+        "gross": ""
     },
     "12": {
         "name": "This Island Earth",
@@ -104,8 +183,15 @@
         "runtime": "86 min",
         "genre": "Horror, Mystery, Sci-Fi",
         "description": "Aliens come to Earth seeking scientists to help them in their war.",
-        "director": "",
-        "stars": []
+        "director": "Joseph M. Newman",
+        "stars": [
+            "Jeff Morrow",
+            "Faith Domergue",
+            "Rex Reason",
+            "Lance Fuller"
+        ],
+        "votes": "7,981",
+        "gross": ""
     },
     "13": {
         "name": "Summertime",
@@ -113,8 +199,15 @@
         "runtime": "100 min",
         "genre": "Romance, Drama",
         "description": "A lonely American woman unexpectedly finds romance in Venice, Italy.",
-        "director": "",
-        "stars": []
+        "director": "David Lean",
+        "stars": [
+            "Katharine Hepburn",
+            "Rossano Brazzi",
+            "Isa Miranda",
+            "Darren McGavin"
+        ],
+        "votes": "6,844",
+        "gross": ""
     },
     "14": {
         "name": "Diabolique",
@@ -122,8 +215,15 @@
         "runtime": "117 min",
         "genre": "Crime, Drama, Horror",
         "description": "The wife and mistress of a loathed school principal hatch a plan to murder him while having the perfect alibi. They carry out the plan...but then his body disappears.",
-        "director": "",
-        "stars": []
+        "director": "Henri-Georges Clouzot",
+        "stars": [
+            "Simone Signoret",
+            "V\u00e9ra Clouzot",
+            "Paul Meurisse",
+            "Charles Vanel"
+        ],
+        "votes": "56,065",
+        "gross": ""
     },
     "15": {
         "name": "The Trouble with Harry",
@@ -131,8 +231,15 @@
         "runtime": "99 min",
         "genre": "Comedy, Mystery",
         "description": "The trouble with Harry is that he's dead, and everyone seems to have a different idea of what should be done with his body.",
-        "director": "",
-        "stars": []
+        "director": "Alfred Hitchcock",
+        "stars": [
+            "John Forsythe",
+            "Shirley MacLaine",
+            "Edmund Gwenn",
+            "Mildred Natwick"
+        ],
+        "votes": "30,024",
+        "gross": ""
     },
     "16": {
         "name": "The Ladykillers",
@@ -140,8 +247,15 @@
         "runtime": "91 min",
         "genre": "Comedy, Crime",
         "description": "Five diverse oddball criminal types planning a bank robbery rent rooms on a cul-de-sac from an octogenarian widow under the pretext that they are classical musicians.",
-        "director": "",
-        "stars": []
+        "director": "Alexander Mackendrick",
+        "stars": [
+            "Alec Guinness",
+            "Peter Sellers",
+            "Cecil Parker",
+            "Herbert Lom"
+        ],
+        "votes": "23,982",
+        "gross": ""
     },
     "17": {
         "name": "Pather Panchali",
@@ -149,8 +263,15 @@
         "runtime": "125 min",
         "genre": "Drama",
         "description": "Impoverished priest Harihar Ray, dreaming of a better life for himself and his family, leaves his rural Bengal village in search of work.",
-        "director": "",
-        "stars": []
+        "director": "Satyajit Ray",
+        "stars": [
+            "Kanu Bannerjee",
+            "Karuna Bannerjee",
+            "Subir Banerjee",
+            "Chunibala Devi"
+        ],
+        "votes": "18,952",
+        "gross": "$0.54M"
     },
     "18": {
         "name": "Killer's Kiss",
@@ -158,8 +279,15 @@
         "runtime": "67 min",
         "genre": "Crime, Drama, Film-Noir",
         "description": "Ready to catch a train to his hometown, a washed up boxer tells us about the strange and twisty events that happened to him the past couple of days.",
-        "director": "",
-        "stars": []
+        "director": "Stanley Kubrick",
+        "stars": [
+            "Frank Silvera",
+            "Irene Kane",
+            "Jamie Smith",
+            "Jerry Jarrett"
+        ],
+        "votes": "18,928",
+        "gross": ""
     },
     "19": {
         "name": "Kiss Me Deadly",
@@ -167,8 +295,15 @@
         "runtime": "106 min",
         "genre": "Crime, Film-Noir, Mystery",
         "description": "A doomed female hitchhiker pulls Mike Hammer into a deadly whirlpool of intrigue, revolving around a mysterious \"great whatsit\".",
-        "director": "",
-        "stars": []
+        "director": "Robert Aldrich",
+        "stars": [
+            "Ralph Meeker",
+            "Albert Dekker",
+            "Paul Stewart",
+            "Juano Hernandez"
+        ],
+        "votes": "16,596",
+        "gross": ""
     },
     "20": {
         "name": "Marty",
@@ -176,8 +311,15 @@
         "runtime": "90 min",
         "genre": "Drama, Romance",
         "description": "A middle-aged butcher and a school teacher who have given up on the idea of love meet at a dance and fall for each other.",
-        "director": "",
-        "stars": []
+        "director": "Delbert Mann",
+        "stars": [
+            "Ernest Borgnine",
+            "Betsy Blair",
+            "Esther Minciotti",
+            "Augusta Ciolli"
+        ],
+        "votes": "19,005",
+        "gross": ""
     },
     "21": {
         "name": "The Indian Fighter",
@@ -185,8 +327,15 @@
         "runtime": "88 min",
         "genre": "Western",
         "description": "A scout leading a wagon train through hostile Indian country unwittingly gets involved with a Sioux chief's daughter.",
-        "director": "",
-        "stars": []
+        "director": "Andr\u00e9 De Toth",
+        "stars": [
+            "Kirk Douglas",
+            "Elsa Martinelli",
+            "Walter Matthau",
+            "Diana Douglas"
+        ],
+        "votes": "1,817",
+        "gross": ""
     },
     "22": {
         "name": "Bad Day at Black Rock",
@@ -194,8 +343,15 @@
         "runtime": "81 min",
         "genre": "Crime, Drama, Mystery",
         "description": "A one-armed stranger comes to a tiny town possessing a terrible past they want to keep secret, by violent means if necessary.",
-        "director": "",
-        "stars": []
+        "director": "John Sturges",
+        "stars": [
+            "Spencer Tracy",
+            "Robert Ryan",
+            "Anne Francis",
+            "Dean Jagger"
+        ],
+        "votes": "17,253",
+        "gross": ""
     },
     "23": {
         "name": "Tarantula",
@@ -203,8 +359,15 @@
         "runtime": "80 min",
         "genre": "Horror, Sci-Fi",
         "description": "A spider escapes from an isolated Arizona desert laboratory experimenting in giantism and grows to tremendous size as it wreaks havoc on the local inhabitants.",
-        "director": "",
-        "stars": []
+        "director": "Jack Arnold",
+        "stars": [
+            "John Agar",
+            "Mara Corday",
+            "Leo G. Carroll",
+            "Nestor Paiva"
+        ],
+        "votes": "7,653",
+        "gross": "$1.10M"
     },
     "24": {
         "name": "Revenge of the Creature",
@@ -212,8 +375,15 @@
         "runtime": "82 min",
         "genre": "Horror, Sci-Fi",
         "description": "Men capture the creature from the Black Lagoon and make him an aquarium attraction, from which he escapes.",
-        "director": "",
-        "stars": []
+        "director": "Jack Arnold",
+        "stars": [
+            "John Agar",
+            "Lori Nelson",
+            "John Bromfield",
+            "Nestor Paiva"
+        ],
+        "votes": "4,771",
+        "gross": ""
     },
     "25": {
         "name": "The Court Jester",
@@ -221,8 +391,16 @@
         "runtime": "101 min",
         "genre": "Adventure, Comedy, Family",
         "description": "A hapless carnival performer masquerades as the court jester as part of a plot against an evil ruler who has overthrown the rightful king.",
-        "director": "",
-        "stars": []
+        "director": "Melvin Frank",
+        "stars": [
+            "Norman Panama",
+            "Danny Kaye",
+            "Glynis Johns",
+            "Basil Rathbone",
+            "Angela Lansbury"
+        ],
+        "votes": "10,438",
+        "gross": ""
     },
     "26": {
         "name": "Rififi",
@@ -230,8 +408,15 @@
         "runtime": "118 min",
         "genre": "Crime, Thriller",
         "description": "Four men plan a technically perfect crime, but the human element intervenes...",
-        "director": "",
-        "stars": []
+        "director": "Jules Dassin",
+        "stars": [
+            "Jean Servais",
+            "Carl M\u00f6hner",
+            "Robert Manuel",
+            "Janine Darcey"
+        ],
+        "votes": "22,661",
+        "gross": "$0.06M"
     },
     "27": {
         "name": "Sissi",
@@ -239,8 +424,15 @@
         "runtime": "102 min",
         "genre": "Comedy, Drama, History",
         "description": "In the first of a trilogy of movies about Elisabeth \"Sissi\" of Austria, the young vibrant princess catches the eye of her sister's fianc\u00e9, Emperor Franz Josef.",
-        "director": "",
-        "stars": []
+        "director": "Ernst Marischka",
+        "stars": [
+            "Romy Schneider",
+            "Karlheinz B\u00f6hm",
+            "Magda Schneider",
+            "Uta Franz"
+        ],
+        "votes": "6,902",
+        "gross": ""
     },
     "28": {
         "name": "PT Raiders",
@@ -248,8 +440,15 @@
         "runtime": "95 min",
         "genre": "Crime, Drama, Thriller",
         "description": "A trio of ex-servicemen begin smuggling innocuous black market items into post-war Britain, but through greed they graduate to more sinister cargo.",
-        "director": "",
-        "stars": []
+        "director": "Basil Dearden",
+        "stars": [
+            "Richard Attenborough",
+            "George Baker",
+            "Bill Owen",
+            "Virginia McKenna"
+        ],
+        "votes": "346",
+        "gross": ""
     },
     "29": {
         "name": "The Dam Busters",
@@ -257,8 +456,15 @@
         "runtime": "105 min",
         "genre": "Drama, History, War",
         "description": "The story of how the British attacked German dams in WWII by using an ingenious technique to drop bombs where they would be most effective.",
-        "director": "",
-        "stars": []
+        "director": "Michael Anderson",
+        "stars": [
+            "Richard Todd",
+            "Michael Redgrave",
+            "Ursula Jeans",
+            "Basil Sydney"
+        ],
+        "votes": "8,723",
+        "gross": ""
     },
     "30": {
         "name": "Mister Roberts",
@@ -266,8 +472,17 @@
         "runtime": "123 min",
         "genre": "Comedy, Drama, War",
         "description": "In the waning days of World War II, the United States Navy cargo ship Reluctant and her crew are stationed in the \"backwater\" areas of the Pacific Ocean. Trouble ensues when the crew members are granted liberty.",
-        "director": "",
-        "stars": []
+        "director": "John Ford",
+        "stars": [
+            "Mervyn LeRoy",
+            "Joshua Logan",
+            "Henry Fonda",
+            "James Cagney",
+            "William Powell",
+            "Jack Lemmon"
+        ],
+        "votes": "14,228",
+        "gross": "$21.20M"
     },
     "31": {
         "name": "All That Heaven Allows",
@@ -275,8 +490,15 @@
         "runtime": "89 min",
         "genre": "Drama, Romance",
         "description": "An upper-class widow falls in love with a much younger, down-to-earth nurseryman, much to the disapproval of her children and criticism of her country club peers.",
-        "director": "",
-        "stars": []
+        "director": "Douglas Sirk",
+        "stars": [
+            "Jane Wyman",
+            "Rock Hudson",
+            "Agnes Moorehead",
+            "Conrad Nagel"
+        ],
+        "votes": "11,717",
+        "gross": ""
     },
     "32": {
         "name": "Land of the Pharaohs",
@@ -284,8 +506,15 @@
         "runtime": "106 min",
         "genre": "Adventure, Drama, History",
         "description": "A captured architect designs an ingenious plan to ensure the impregnability of tomb of a self-absorbed Pharaoh, obsessed with the security of his next life.",
-        "director": "",
-        "stars": []
+        "director": "Howard Hawks",
+        "stars": [
+            "Jack Hawkins",
+            "Joan Collins",
+            "Dewey Martin",
+            "Alexis Minotis"
+        ],
+        "votes": "3,248",
+        "gross": "$1.50M"
     },
     "33": {
         "name": "It's a Great Day!",
@@ -293,8 +522,15 @@
         "runtime": "71 min",
         "genre": "Comedy",
         "description": "Bob Grove, a builder has problems with the council, over building supplies that he needs to complete a job on a local housing estate. Under pressure to finish the job, his son gets them ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "John Warrington",
+        "stars": [
+            "Ruth Dunning",
+            "Edward Evans",
+            "Sheila Sweet",
+            "Peter Bryant"
+        ],
+        "votes": "55",
+        "gross": ""
     },
     "34": {
         "name": "Ordet",
@@ -302,8 +538,15 @@
         "runtime": "126 min",
         "genre": "Drama, Fantasy",
         "description": "Follows the lives of the Borgen family, as they deal with inner conflict, as well as religious conflict with each other, and the rest of the town.",
-        "director": "",
-        "stars": []
+        "director": "Carl Theodor Dreyer",
+        "stars": [
+            "Henrik Malberg",
+            "Emil Hass Christensen",
+            "Preben Lerdorff Rye",
+            "Hanne Aagesen"
+        ],
+        "votes": "12,091",
+        "gross": ""
     },
     "35": {
         "name": "Bride of the Monster",
@@ -311,8 +554,15 @@
         "runtime": "69 min",
         "genre": "Horror, Sci-Fi",
         "description": "A mad doctor attempts to create atomic supermen.",
-        "director": "",
-        "stars": []
+        "director": "Edward D. Wood Jr.",
+        "stars": [
+            "Bela Lugosi",
+            "Tor Johnson",
+            "Tony McCoy",
+            "Loretta King"
+        ],
+        "votes": "6,034",
+        "gross": ""
     },
     "36": {
         "name": "La Pointe Courte",
@@ -320,8 +570,13 @@
         "runtime": "86 min",
         "genre": "Drama",
         "description": "There are two parts to this film: sequences of life in the fishing village of La Pointe Courte (a government inspector's visit, the death of a child) alternate with others following a ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Agn\u00e8s Varda",
+        "stars": [
+            "Philippe Noiret",
+            "Silvia Monfort"
+        ],
+        "votes": "1,880",
+        "gross": ""
     },
     "37": {
         "name": "The Man with the Golden Arm",
@@ -329,8 +584,15 @@
         "runtime": "119 min",
         "genre": "Crime, Drama, Film-Noir",
         "description": "A strung-out junkie deals with a demoralizing drug addiction while his crippled wife and card sharks pull him down.",
-        "director": "",
-        "stars": []
+        "director": "Otto Preminger",
+        "stars": [
+            "Frank Sinatra",
+            "Kim Novak",
+            "Eleanor Parker",
+            "Arnold Stang"
+        ],
+        "votes": "8,479",
+        "gross": ""
     },
     "38": {
         "name": "The Big Combo",
@@ -338,8 +600,15 @@
         "runtime": "87 min",
         "genre": "Crime, Drama, Film-Noir",
         "description": "A police lt. is ordered to stop investigating deadly crime boss Mr. Brown, because he hasn't been able to get any hard evidence against him. He then goes after Brown's girlfriend who despises him, for information instead.",
-        "director": "",
-        "stars": []
+        "director": "Joseph H. Lewis",
+        "stars": [
+            "Cornel Wilde",
+            "Richard Conte",
+            "Jean Wallace",
+            "Brian Donlevy"
+        ],
+        "votes": "5,649",
+        "gross": ""
     },
     "39": {
         "name": "Richard III",
@@ -347,8 +616,15 @@
         "runtime": "161 min",
         "genre": "Biography, Drama, History",
         "description": "Shakespeare's powerful tale of the wicked deformed King and his conquests, both on the battlefield and in the boudoir.",
-        "director": "",
-        "stars": []
+        "director": "Laurence Olivier",
+        "stars": [
+            "Laurence Olivier",
+            "Cedric Hardwicke",
+            "Nicholas Hannen",
+            "Ralph Richardson"
+        ],
+        "votes": "3,691",
+        "gross": ""
     },
     "40": {
         "name": "Davy Crockett: King of the Wild Frontier",
@@ -356,8 +632,15 @@
         "runtime": "93 min",
         "genre": "Adventure, Drama, Family",
         "description": "American frontiersman Davy Crockett fights in the Creek Indian War, is elected to the U.S. Congress and fights for Texas at the Alamo.",
-        "director": "",
-        "stars": []
+        "director": "Norman Foster",
+        "stars": [
+            "Fess Parker",
+            "Buddy Ebsen",
+            "Basil Ruysdael",
+            "Hans Conried"
+        ],
+        "votes": "2,967",
+        "gross": ""
     },
     "41": {
         "name": "It Came from Beneath the Sea",
@@ -365,8 +648,15 @@
         "runtime": "79 min",
         "genre": "Horror, Sci-Fi",
         "description": "A giant, radioactive octopus rises from the Philippine Trench to terrorize the North American Pacific Coast.",
-        "director": "",
-        "stars": []
+        "director": "Robert Gordon",
+        "stars": [
+            "Kenneth Tobey",
+            "Faith Domergue",
+            "Donald Curtis",
+            "Ian Keith"
+        ],
+        "votes": "4,343",
+        "gross": ""
     },
     "42": {
         "name": "The Last Frontier",
@@ -374,8 +664,15 @@
         "runtime": "98 min",
         "genre": "History, Romance, Western",
         "description": "A trapper and his two partners work as scouts for a remote army fort where they witness an incompetent colonel's decision to throw his small unprepared garrison against Red Cloud's sizable Sioux force.",
-        "director": "",
-        "stars": []
+        "director": "Anthony Mann",
+        "stars": [
+            "Victor Mature",
+            "Guy Madison",
+            "Robert Preston",
+            "James Whitmore"
+        ],
+        "votes": "1,238",
+        "gross": ""
     },
     "43": {
         "name": "Smiles of a Summer Night",
@@ -383,8 +680,15 @@
         "runtime": "109 min",
         "genre": "Comedy, Romance",
         "description": "In Sweden at the turn of the century, members of the upper class and their servants find themselves in a romantic tangle that they try to work out amidst jealousy and heartbreak.",
-        "director": "",
-        "stars": []
+        "director": "Ingmar Bergman",
+        "stars": [
+            "Ulla Jacobsson",
+            "Eva Dahlbeck",
+            "Harriet Andersson",
+            "Margit Carlqvist"
+        ],
+        "votes": "10,955",
+        "gross": ""
     },
     "44": {
         "name": "Jedda the Uncivilized",
@@ -392,8 +696,15 @@
         "runtime": "101 min",
         "genre": "Adventure, Drama, History",
         "description": "Set against the harsh natural surrounds of outback Northern Territory, Jedda captures a rare and honest glimpse into the heart and history of indigenous Australia. Young Jedda is caught ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Charles Chauvel",
+        "stars": [
+            "Rosalie Kunoth-Monks",
+            "Robert Tudawali",
+            "Betty Suttor",
+            "Paul Reynall"
+        ],
+        "votes": "250",
+        "gross": ""
     },
     "45": {
         "name": "To Hell and Back",
@@ -401,8 +712,15 @@
         "runtime": "106 min",
         "genre": "Action, Biography, Drama",
         "description": "The true WWII story of Audie Murphy, the most decorated soldier in U.S. history. Based on the autobiography of Audie Murphy who stars as himself in the film.",
-        "director": "",
-        "stars": []
+        "director": "Jesse Hibbs",
+        "stars": [
+            "Audie Murphy",
+            "Marshall Thompson",
+            "Charles Drake",
+            "Jack Kelly"
+        ],
+        "votes": "4,351",
+        "gross": ""
     },
     "46": {
         "name": "My Sister Eileen",
@@ -410,8 +728,15 @@
         "runtime": "108 min",
         "genre": "Comedy, Musical, Romance",
         "description": "After submitting a story of her beautiful sister, a woman assumes her identity to maintain the attention of a playboy publisher.",
-        "director": "",
-        "stars": []
+        "director": "Richard Quine",
+        "stars": [
+            "Janet Leigh",
+            "Jack Lemmon",
+            "Betty Garrett",
+            "Bob Fosse"
+        ],
+        "votes": "1,363",
+        "gross": ""
     },
     "47": {
         "name": "The Desperate Hours",
@@ -419,8 +744,15 @@
         "runtime": "112 min",
         "genre": "Crime, Drama, Film-Noir",
         "description": "Three escaped convicts move in on and terrorize a suburban household.",
-        "director": "",
-        "stars": []
+        "director": "William Wyler",
+        "stars": [
+            "Humphrey Bogart",
+            "Fredric March",
+            "Arthur Kennedy",
+            "Martha Scott"
+        ],
+        "votes": "7,953",
+        "gross": ""
     },
     "48": {
         "name": "Strategic Air Command",
@@ -428,8 +760,15 @@
         "runtime": "112 min",
         "genre": "Action, Drama, War",
         "description": "An ex-pilot and current baseballer is recalled into the U.S. Air Force and assumes an increasingly important role in Cold War deterrence.",
-        "director": "",
-        "stars": []
+        "director": "Anthony Mann",
+        "stars": [
+            "James Stewart",
+            "June Allyson",
+            "Frank Lovejoy",
+            "Barry Sullivan"
+        ],
+        "votes": "2,784",
+        "gross": ""
     },
     "49": {
         "name": "The Quatermass Xperiment",
@@ -437,8 +776,15 @@
         "runtime": "78 min",
         "genre": "Horror, Sci-Fi",
         "description": "Professor Bernard Quatermass' manned rocket ship returns to Earth, but two of the astronauts are missing and the survivor seems ill and unable to communicate.",
-        "director": "",
-        "stars": []
+        "director": "Val Guest",
+        "stars": [
+            "Brian Donlevy",
+            "Jack Warner",
+            "Margia Dean",
+            "Thora Hird"
+        ],
+        "votes": "4,772",
+        "gross": ""
     },
     "50": {
         "name": "Love Me or Leave Me",
@@ -446,7 +792,14 @@
         "runtime": "122 min",
         "genre": "Biography, Drama, Music",
         "description": "A fictionalized account of the career of jazz singer Ruth Etting and her tempestuous marriage to gangster Marty Snyder, who helped propel her to stardom.",
-        "director": "",
-        "stars": []
+        "director": "Charles Vidor",
+        "stars": [
+            "Doris Day",
+            "James Cagney",
+            "Cameron Mitchell",
+            "Robert Keith"
+        ],
+        "votes": "3,276",
+        "gross": ""
     }
 }

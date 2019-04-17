@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "Dune",
+        "certificate": "",
+        "runtime": "137 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "A Duke's son leads desert warriors against the galactic emperor and his father's evil nemesis when they assassinate his father and free their desert world from the emperor's rule.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "Sixteen Candles",
+        "certificate": "A",
+        "runtime": "93 min",
+        "genre": "Comedy, Romance",
+        "description": "A girl's \"sweet\" sixteenth birthday becomes anything but special, as she suffers from every embarrassment possible.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "Ghost Busters",
+        "certificate": "",
+        "runtime": "105 min",
+        "genre": "Action, Comedy, Fantasy",
+        "description": "Three former parapsychology professors set up shop as a unique ghost removal service.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "Once Upon a Time in America",
+        "certificate": "R",
+        "runtime": "229 min",
+        "genre": "Crime, Drama",
+        "description": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "The Terminator",
+        "certificate": "",
+        "runtime": "107 min",
+        "genre": "Action, Sci-Fi",
+        "description": "A seemingly indestructible android is sent from 2029 to 1984 to assassinate a waitress, whose unborn son will lead humanity in a war against the machines, while a soldier from that war is sent to protect her at all costs.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "Gremlins",
+        "certificate": "",
+        "runtime": "106 min",
+        "genre": "Comedy, Fantasy, Horror",
+        "description": "A boy inadvertently breaks three important rules concerning his new pet and unleashes a horde of malevolently mischievous monsters on a small town.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "Indiana Jones and the Temple of Doom",
+        "certificate": "(Banned)",
+        "runtime": "118 min",
+        "genre": "Action, Adventure",
+        "description": "In 1935, Indiana Jones arrives in India, still part of the British Empire, and is asked to find a mystical stone. He then stumbles upon a secret cult committing enslavement and human sacrifices in the catacombs of an ancient palace.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "The Karate Kid",
+        "certificate": "",
+        "runtime": "126 min",
+        "genre": "Action, Drama, Family",
+        "description": "A martial arts master agrees to teach karate to a bullied teenager.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "Revenge of the Nerds",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Comedy",
+        "description": "At Adams College, a group of bullied outcasts and misfits resolve to fight back for their peace and self-respect.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "The NeverEnding Story",
+        "certificate": "",
+        "runtime": "102 min",
+        "genre": "Adventure, Drama, Family",
+        "description": "A troubled boy dives into a wondrous fantasy world through the pages of a mysterious book.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "Amadeus",
+        "certificate": "R",
+        "runtime": "160 min",
+        "genre": "Biography, Drama, History",
+        "description": "The life, success and troubles of Wolfgang Amadeus Mozart, as told by Antonio Salieri, the contemporary composer who was insanely jealous of Mozart's talent and claimed to have murdered him.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "Footloose",
+        "certificate": "",
+        "runtime": "107 min",
+        "genre": "Drama, Music, Romance",
+        "description": "A city teenager moves to a small town where rock music and dancing have been banned, and his rebellious spirit shakes up the populace.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "2010: The Year We Make Contact",
+        "certificate": "",
+        "runtime": "116 min",
+        "genre": "Adventure, Mystery, Sci-Fi",
+        "description": "A joint U.S.-Soviet expedition is sent to Jupiter to learn what happened to the Discovery.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "A Nightmare on Elm Street",
+        "certificate": "A",
+        "runtime": "91 min",
+        "genre": "Horror",
+        "description": "The monstrous spirit of a slain janitor seeks revenge by invading the dreams of teenagers whose parents were responsible for his untimely death.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "Nineteen Eighty-Four",
+        "certificate": "",
+        "runtime": "113 min",
+        "genre": "Drama, Sci-Fi",
+        "description": "In a totalitarian future society, a man, whose daily work is re-writing history, tries to rebel by falling in love.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "Police Academy",
+        "certificate": "",
+        "runtime": "96 min",
+        "genre": "Comedy",
+        "description": "A group of good-hearted, but incompetent misfits enter the police academy, but the instructors there are not going to put up with their pranks.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "Splash",
+        "certificate": "",
+        "runtime": "111 min",
+        "genre": "Comedy, Fantasy, Romance",
+        "description": "A young man is reunited with a mermaid who saved him from drowning as a boy. He falls in love with her, not knowing who or what she is.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Beverly Hills Cop",
+        "certificate": "",
+        "runtime": "105 min",
+        "genre": "Action, Comedy, Crime",
+        "description": "A freewheeling Detroit cop pursuing a murder investigation finds himself dealing with the very different culture of Beverly Hills.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "This Is Spinal Tap",
+        "certificate": "",
+        "runtime": "82 min",
+        "genre": "Comedy, Music",
+        "description": "Spinal Tap, one of England's loudest bands, is chronicled by film director Marty DiBergi on what proves to be a fateful tour.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "Red Dawn",
+        "certificate": "",
+        "runtime": "114 min",
+        "genre": "Action, Drama",
+        "description": "It is the dawn of World War III. In mid-western America, a group of teenagers band together to defend their town, and their country, from invading Soviet forces.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "The Adventures of Buckaroo Banzai Across the 8th Dimension",
+        "certificate": "",
+        "runtime": "103 min",
+        "genre": "Adventure, Comedy, Romance",
+        "description": "Adventurer, brain surgeon, rock musician Buckaroo Banzai and his crime-fighting team, the Hong Kong Cavaliers, must stop evil alien invaders from the eighth dimension who are planning to conquer Earth.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "Top Secret!",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Comedy, Music",
+        "description": "Parody of WWII spy movies in which an American rock and roll singer becomes involved in a Resistance plot to rescue a scientist imprisoned in East Germany.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "Paris, Texas",
+        "certificate": "",
+        "runtime": "145 min",
+        "genre": "Drama",
+        "description": "Travis Henderson, an aimless drifter who has been missing for four years, wanders out of the desert and must reconnect with society, himself, his life, and his family.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "The Woman in Red",
+        "certificate": "",
+        "runtime": "87 min",
+        "genre": "Comedy, Romance",
+        "description": "On his way to work, Teddy spots Charlotte, an incredibly beautiful Woman in Red. He really wants to meet her, but what would his wife say?",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "Romancing the Stone",
+        "certificate": "",
+        "runtime": "106 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "A mousy romance novelist sets off for Colombia to ransom her kidnapped sister, and soon finds herself in the middle of a dangerous adventure hunting for treasure with a mercenary rogue.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "The Last Starfighter",
+        "certificate": "",
+        "runtime": "101 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Video game expert Alex Rogan finds himself transported to another planet after conquering The Last Starfighter video game only to find out it was just a test. He was recruited to join the team of best starfighters to defend their world from the attack.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "Conan the Destroyer",
+        "certificate": "",
+        "runtime": "103 min",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "Conan leads a ragtag group of adventurers on a quest for a princess.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "Streets of Fire",
+        "certificate": "PG",
+        "runtime": "93 min",
+        "genre": "Action, Crime, Drama",
+        "description": "A mercenary is hired to rescue his ex-girlfriend, a singer who has been kidnapped by a motorcycle gang.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "The Bounty",
+        "certificate": "",
+        "runtime": "132 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "Fed up with their captain's harsh discipline, a sailing ship's crew decides to take action.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "Bachelor Party",
+        "certificate": "",
+        "runtime": "105 min",
+        "genre": "Comedy",
+        "description": "A soon-to-be-married man's friends throw him the ultimate bachelor party.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "Body Double",
+        "certificate": "",
+        "runtime": "114 min",
+        "genre": "Mystery, Thriller",
+        "description": "A young actor's obsession with spying on a beautiful woman who lives nearby leads to a baffling series of events with drastic consequences.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "Kaze no tani no Naushika",
+        "certificate": "PG",
+        "runtime": "117 min",
+        "genre": "Animation, Adventure, Fantasy",
+        "description": "Warrior and pacifist Princess Nausica\u00e4 desperately struggles to prevent two warring nations from destroying themselves and their dying planet.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "Blood Simple",
+        "certificate": "",
+        "runtime": "99 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "A rich but jealous man hires a private investigator to kill his cheating wife and her new man. But, when blood is involved, nothing is simple.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "The Natural",
+        "certificate": "PG",
+        "runtime": "138 min",
+        "genre": "Drama, Sport",
+        "description": "An unknown comes seemingly out of nowhere to become a legendary player with almost divine talent.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "Supergirl",
+        "certificate": "",
+        "runtime": "150 min",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "After losing a powerful orb, Kara, Superman's cousin, comes to Earth to retrieve it and instead finds herself up against a wicked witch.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "Friday the 13th: The Final Chapter",
+        "certificate": "",
+        "runtime": "91 min",
+        "genre": "Horror, Thriller",
+        "description": "After being mortally wounded and taken to the morgue, murderer Jason Voorhees spontaneously revives and embarks on a killing spree as he makes his way back to his home at Camp Crystal Lake.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "Children of the Corn",
+        "certificate": "",
+        "runtime": "92 min",
+        "genre": "Horror, Thriller",
+        "description": "A young couple is trapped in a remote town where a dangerous religious cult of children believe everyone over the age of 18 must be killed.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "Repo Man",
+        "certificate": "",
+        "runtime": "92 min",
+        "genre": "Comedy, Crime, Sci-Fi",
+        "description": "Young punk Otto becomes a repo man after helping to steal a car, and stumbles into a world of wackiness as a result.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "Starman",
+        "certificate": "",
+        "runtime": "115 min",
+        "genre": "Romance, Sci-Fi",
+        "description": "An alien takes the form of a young widow's husband and asks her to drive him from Wisconsin to Arizona. The government tries to stop them.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "The Killing Fields",
+        "certificate": "",
+        "runtime": "141 min",
+        "genre": "Biography, Drama, History",
+        "description": "A journalist is trapped in Cambodia during tyrant Pol Pot's bloody 'Year Zero' cleansing campaign, which claimed the lives of two million 'undesirable' civilians.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Against All Odds",
+        "certificate": "",
+        "runtime": "128 min",
+        "genre": "Action, Adventure, Crime",
+        "description": "A gangster hires an ex-football player to find his girlfriend. When he finds her, they fall in love, and the twists start to appear.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "Runaway",
+        "certificate": "",
+        "runtime": "99 min",
+        "genre": "Action, Crime, Sci-Fi",
+        "description": "In the near future, a police officer specializes in malfunctioning robots. When a robot turns out to have been programmed to kill, he begins to uncover a homicidal plot to create killer robots... and his son becomes a target.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Purple Rain",
+        "certificate": "",
+        "runtime": "111 min",
+        "genre": "Drama, Music, Musical",
+        "description": "A young musician, tormented by an abusive situation at home, must contend with a rival singer, a burgeoning romance, and his own dissatisfied band, as his star begins to rise.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "Up the Creek",
+        "certificate": "",
+        "runtime": "96 min",
+        "genre": "Comedy",
+        "description": "Bob McGraw is in his 12th year of college, goofing his way through life. Bob the slacker, Irwin the alcoholic geek, Gonzer the human food disposal and Max the ne'er do well are the four ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "The Lost Empire",
+        "certificate": "",
+        "runtime": "83 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "Seeking revenge, officer Angel Wolfe, her Native American friend Whitestar, and outlaw Heather infiltrate a fortified island where an undead wizard and his evil cult force captured women to take part in gladiatorial tournaments.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Moscow on the Hudson",
+        "certificate": "",
+        "runtime": "115 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "When a Russian musician defects in Bloomingdale's department store in New York, he finds adjusting to American life more difficult than he imagined.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "Night of the Comet",
+        "certificate": "",
+        "runtime": "95 min",
+        "genre": "Comedy, Horror, Sci-Fi",
+        "description": "A comet wipes out most of life on Earth, leaving two Valley Girls fighting against cannibal zombies and a sinister group of scientists.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "Hardbodies",
+        "certificate": "",
+        "runtime": "88 min",
+        "genre": "Comedy",
+        "description": "Three middle-aged daddies visit California to have a marvelous time at the beach. When they learn that a nice apartment and an expensive cabriolet isn't enough for them to score with the ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "Star Trek III: The Search for Spock",
+        "certificate": "",
+        "runtime": "105 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Admiral Kirk and his bridge crew risk their careers stealing the decommissioned Enterprise to return to the restricted Genesis Planet to recover Spock's body.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "The Cotton Club",
+        "certificate": "",
+        "runtime": "127 min",
+        "genre": "Crime, Drama, Music",
+        "description": "The Cotton Club was a famous night club in Harlem. The story follows the people who visited the club, those who ran it, and is peppered with the Jazz music that made it so famous.",
+        "director": "",
+        "stars": []
+    }
+}

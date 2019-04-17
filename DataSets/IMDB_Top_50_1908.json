@@ -5,8 +5,16 @@
         "runtime": "120 min",
         "genre": "Fantasy, Adventure",
         "description": "L. Frank Baum would appear in a white suit and present his live actors, slide shows and films as a live travelogue presentation of his popular fantasies. Highlights include Dorothy being ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Francis Boggs",
+        "stars": [
+            "Otis Turner",
+            "L. Frank Baum",
+            "Frank Burns",
+            "George E. Wilson",
+            "Wallace Illington"
+        ],
+        "votes": 33,
+        "gross": ""
     },
     "2": {
         "name": "Hamlet",
@@ -14,8 +22,12 @@
         "runtime": "",
         "genre": "Drama",
         "description": "Hamlet suspects his uncle has murdered his father to claim the throne of Denmark and the hand of Hamlet's mother, but the prince cannot decide whether or not he should take vengeance.",
-        "director": "",
-        "stars": []
+        "director": "Mario Caserini",
+        "stars": [
+            "Fernanda Negri Pouget"
+        ],
+        "votes": 11,
+        "gross": ""
     },
     "3": {
         "name": "Resa Stockholm-G\u00f6teborg genom G\u00f6ta och Trollh\u00e4tte kanaler",
@@ -23,8 +35,10 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Charles Magnusson",
+        "stars": [],
+        "votes": 9,
+        "gross": ""
     },
     "4": {
         "name": "Cuisine magn\u00e9tique",
@@ -32,8 +46,10 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Segundo de Chom\u00f3n",
+        "stars": [],
+        "votes": 14,
+        "gross": ""
     },
     "5": {
         "name": "I promessi sposi",
@@ -41,8 +57,10 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Mario Morais",
+        "stars": [],
+        "votes": 9,
+        "gross": ""
     },
     "6": {
         "name": "La glu",
@@ -50,8 +68,10 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Giovanni Pastrone",
+        "stars": [],
+        "votes": 8,
+        "gross": ""
     },
     "7": {
         "name": "Don Quijote",
@@ -59,8 +79,10 @@
         "runtime": "",
         "genre": "Drama",
         "description": "A self-proclaimed \"knight\" and his hapless squire travel the Spanish countryside, attacking \"giants\" that are really windmills in his attempt to win the love of the fair Dulcinea.",
-        "director": "",
-        "stars": []
+        "director": "Narciso Cuy\u00e0s",
+        "stars": [],
+        "votes": 10,
+        "gross": ""
     },
     "8": {
         "name": "Os Guaranis",
@@ -68,8 +90,13 @@
         "runtime": "",
         "genre": "Romance",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Benjamin Oliveira",
+        "stars": [
+            "Inez Grizeta",
+            "Benjamin Oliveira"
+        ],
+        "votes": 10,
+        "gross": ""
     },
     "9": {
         "name": "L-A-Z-Y",
@@ -78,7 +105,9 @@
         "genre": "Music",
         "description": "wonderment of my mind, some lazy thing I call video. good techno music and very mezerizing artwork by myself. three sets of music and over 130 minutes",
         "director": "",
-        "stars": []
+        "stars": [],
+        "votes": "",
+        "gross": ""
     },
     "10": {
         "name": "Gans-Nelson Fight",
@@ -86,8 +115,12 @@
         "runtime": "",
         "genre": "Sport",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Joe Gans",
+        "stars": [
+            "Battling Nelson"
+        ],
+        "votes": 11,
+        "gross": ""
     },
     "11": {
         "name": "Hiawatha",
@@ -96,7 +129,9 @@
         "genre": "",
         "description": "Add a Plot",
         "director": "",
-        "stars": []
+        "stars": [],
+        "votes": "",
+        "gross": ""
     },
     "12": {
         "name": "Le devoir",
@@ -104,8 +139,14 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Louis Feuillade",
+        "stars": [
+            "Alice Tissot",
+            "Maurice Vinot",
+            "Ren\u00e9e Carl"
+        ],
+        "votes": 7,
+        "gross": ""
     },
     "13": {
         "name": "Donnerwetter, tadellos",
@@ -113,8 +154,12 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Henry Bender",
+        "stars": [
+            "Fritzi Massary"
+        ],
+        "votes": 21,
+        "gross": ""
     },
     "14": {
         "name": "Poum \u00e0 la chasse",
@@ -122,8 +167,13 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Ren\u00e9 Le Somptier",
+        "stars": [
+            "Andr\u00e9 Le Somptier",
+            "Alice Tissot"
+        ],
+        "votes": "",
+        "gross": ""
     },
     "15": {
         "name": "Trallala Lied",
@@ -131,8 +181,10 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Fritzi Massary",
+        "stars": [],
+        "votes": 7,
+        "gross": ""
     },
     "16": {
         "name": "Los carreros",
@@ -140,8 +192,10 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Eugene Py",
+        "stars": [],
+        "votes": 9,
+        "gross": ""
     },
     "17": {
         "name": "Soga kyodai kariba no akebono",
@@ -149,8 +203,13 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Shokichi Umeya",
+        "stars": [
+            "Kasen Nakamura",
+            "Utae Nakamura"
+        ],
+        "votes": "",
+        "gross": ""
     },
     "18": {
         "name": "Taikoki judanme",
@@ -158,8 +217,13 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Sakiji Ichikawa",
+        "stars": [
+            "Kasen Nakamura",
+            "Utae Nakamura"
+        ],
+        "votes": 8,
+        "gross": ""
     },
     "19": {
         "name": "L'uomo dalla testa dura",
@@ -167,8 +231,12 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Edoardo Bencivenga",
+        "stars": [
+            "Felice Minotti"
+        ],
+        "votes": "",
+        "gross": ""
     },
     "20": {
         "name": "The Reg Girl",
@@ -176,8 +244,10 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Florence Lawrence",
+        "stars": [],
+        "votes": "",
+        "gross": ""
     },
     "21": {
         "name": "El pastorcito de Torrente",
@@ -185,8 +255,10 @@
         "runtime": "",
         "genre": "Drama",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Antonio Cuesta",
+        "stars": [],
+        "votes": 8,
+        "gross": ""
     },
     "22": {
         "name": "Don \u00c1lvaro o la fuerza del sino",
@@ -194,7 +266,12 @@
         "runtime": "",
         "genre": "Drama",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Narciso Cuy\u00e0s",
+        "stars": [
+            "Jaime Borr\u00e1s",
+            "Joaqu\u00edn Carrasco"
+        ],
+        "votes": 8,
+        "gross": ""
     }
 }

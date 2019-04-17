@@ -5,8 +5,15 @@
         "runtime": "97 min",
         "genre": "Action, Horror",
         "description": "Freddy Krueger and Jason Voorhees return to terrorize the teenage population. Except this time, they're out to get each other, too.",
-        "director": "",
-        "stars": []
+        "director": "Ronny Yu",
+        "stars": [
+            "Robert Englund",
+            "Ken Kirzinger",
+            "Kelly Rowland",
+            "Monica Keena"
+        ],
+        "votes": "102,552",
+        "gross": "$82.62M"
     },
     "2": {
         "name": "The Lord of the Rings: The Return of the King",
@@ -14,8 +21,15 @@
         "runtime": "201 min",
         "genre": "Adventure, Drama, Fantasy",
         "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
-        "director": "",
-        "stars": []
+        "director": "Peter Jackson",
+        "stars": [
+            "Elijah Wood",
+            "Viggo Mortensen",
+            "Ian McKellen",
+            "Orlando Bloom"
+        ],
+        "votes": "1,476,467",
+        "gross": "$377.85M"
     },
     "3": {
         "name": "Hulk",
@@ -23,8 +37,15 @@
         "runtime": "138 min",
         "genre": "Action, Sci-Fi",
         "description": "Bruce Banner, a genetics researcher with a tragic past, suffers an accident that causes him to transform into a raging green monster when he gets angry.",
-        "director": "",
-        "stars": []
+        "director": "Ang Lee",
+        "stars": [
+            "Eric Bana",
+            "Jennifer Connelly",
+            "Sam Elliott",
+            "Josh Lucas"
+        ],
+        "votes": "237,933",
+        "gross": "$132.18M"
     },
     "4": {
         "name": "Kill Bill: Vol. 1",
@@ -32,8 +53,15 @@
         "runtime": "111 min",
         "genre": "Action, Crime, Thriller",
         "description": "After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.",
-        "director": "",
-        "stars": []
+        "director": "Quentin Tarantino",
+        "stars": [
+            "Uma Thurman",
+            "David Carradine",
+            "Daryl Hannah",
+            "Michael Madsen"
+        ],
+        "votes": "897,179",
+        "gross": "$70.10M"
     },
     "5": {
         "name": "The Dreamers",
@@ -41,8 +69,15 @@
         "runtime": "115 min",
         "genre": "Drama, Romance",
         "description": "A young American studying in Paris in 1968 strikes up a friendship with a French brother and sister. Set against the background of the '68 Paris student riots.",
-        "director": "",
-        "stars": []
+        "director": "Bernardo Bertolucci",
+        "stars": [
+            "Michael Pitt",
+            "Louis Garrel",
+            "Eva Green",
+            "Anna Chancellor"
+        ],
+        "votes": "99,913",
+        "gross": "$2.53M"
     },
     "6": {
         "name": "The Texas Chainsaw Massacre",
@@ -50,8 +85,15 @@
         "runtime": "98 min",
         "genre": "Horror",
         "description": "After picking up a traumatized young hitchhiker, five friends find themselves stalked and hunted by a deformed chainsaw-wielding loon and his family of equally psychopathic killers.",
-        "director": "",
-        "stars": []
+        "director": "Marcus Nispel",
+        "stars": [
+            "Jessica Biel",
+            "Jonathan Tucker",
+            "Andrew Bryniarski",
+            "Erica Leerhsen"
+        ],
+        "votes": "122,084",
+        "gross": "$80.57M"
     },
     "7": {
         "name": "Love Actually",
@@ -59,8 +101,15 @@
         "runtime": "135 min",
         "genre": "Comedy, Drama, Romance",
         "description": "Follows the lives of eight very different couples in dealing with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London, England.",
-        "director": "",
-        "stars": []
+        "director": "Richard Curtis",
+        "stars": [
+            "Hugh Grant",
+            "Martine McCutcheon",
+            "Liam Neeson",
+            "Laura Linney"
+        ],
+        "votes": "384,131",
+        "gross": "$59.70M"
     },
     "8": {
         "name": "The Room",
@@ -68,8 +117,15 @@
         "runtime": "99 min",
         "genre": "Drama",
         "description": "Johnny is a successful banker who lives happily in a San Francisco townhouse with his fianc\u00e9e, Lisa. One day, inexplicably, she gets bored with him and decides to seduce his best friend, Mark. From there, nothing will be the same again.",
-        "director": "",
-        "stars": []
+        "director": "Tommy Wiseau",
+        "stars": [
+            "Tommy Wiseau",
+            "Juliette Danielle",
+            "Greg Sestero",
+            "Philip Haldiman"
+        ],
+        "votes": "71,112",
+        "gross": ""
     },
     "9": {
         "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
@@ -77,8 +133,15 @@
         "runtime": "143 min",
         "genre": "Action, Adventure, Fantasy",
         "description": "Blacksmith Will Turner teams up with eccentric pirate \"Captain\" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.",
-        "director": "",
-        "stars": []
+        "director": "Gore Verbinski",
+        "stars": [
+            "Johnny Depp",
+            "Geoffrey Rush",
+            "Orlando Bloom",
+            "Keira Knightley"
+        ],
+        "votes": "957,279",
+        "gross": "$305.41M"
     },
     "10": {
         "name": "Lost in Translation",
@@ -86,8 +149,15 @@
         "runtime": "102 min",
         "genre": "Drama",
         "description": "A faded movie star and a neglected young woman form an unlikely bond after crossing paths in Tokyo.",
-        "director": "",
-        "stars": []
+        "director": "Sofia Coppola",
+        "stars": [
+            "Bill Murray",
+            "Scarlett Johansson",
+            "Giovanni Ribisi",
+            "Anna Faris"
+        ],
+        "votes": "371,873",
+        "gross": "$44.59M"
     },
     "11": {
         "name": "Oldeuboi",
@@ -95,8 +165,15 @@
         "runtime": "120 min",
         "genre": "Action, Drama, Mystery",
         "description": "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.",
-        "director": "",
-        "stars": []
+        "director": "Chan-wook Park",
+        "stars": [
+            "Min-sik Choi",
+            "Ji-tae Yu",
+            "Hye-jeong Kang",
+            "Dae-han Ji"
+        ],
+        "votes": "453,291",
+        "gross": "$0.71M"
     },
     "12": {
         "name": "Spy Kids 3-D: Game Over",
@@ -104,8 +181,15 @@
         "runtime": "84 min",
         "genre": "Action, Adventure, Comedy",
         "description": "Carmen's caught in a virtual reality game designed by the Kids' new nemesis, the Toymaker. It's up to Juni to save his sister, and ultimately the world.",
-        "director": "",
-        "stars": []
+        "director": "Robert Rodriguez",
+        "stars": [
+            "Daryl Sabara",
+            "Alexa PenaVega",
+            "Antonio Banderas",
+            "Carla Gugino"
+        ],
+        "votes": "49,009",
+        "gross": "$111.76M"
     },
     "13": {
         "name": "Monster",
@@ -113,8 +197,15 @@
         "runtime": "109 min",
         "genre": "Biography, Crime, Drama",
         "description": "Based on the life of Aileen Wuornos, a Daytona Beach prostitute who became a serial killer.",
-        "director": "",
-        "stars": []
+        "director": "Patty Jenkins",
+        "stars": [
+            "Charlize Theron",
+            "Christina Ricci",
+            "Bruce Dern",
+            "Lee Tergesen"
+        ],
+        "votes": "123,873",
+        "gross": "$34.47M"
     },
     "14": {
         "name": "Big Fish",
@@ -122,8 +213,15 @@
         "runtime": "125 min",
         "genre": "Adventure, Drama, Fantasy",
         "description": "A frustrated son tries to determine the fact from fiction in his dying father's life.",
-        "director": "",
-        "stars": []
+        "director": "Tim Burton",
+        "stars": [
+            "Ewan McGregor",
+            "Albert Finney",
+            "Billy Crudup",
+            "Jessica Lange"
+        ],
+        "votes": "388,222",
+        "gross": "$66.26M"
     },
     "15": {
         "name": "Terminator 3: Rise of the Machines",
@@ -131,8 +229,15 @@
         "runtime": "109 min",
         "genre": "Action, Sci-Fi",
         "description": "A cybernetic warrior from a post-apocalyptic future travels back in time to protect a 25-year old drifter and his future wife from a most advanced robotic assassin and to ensure they both survive a nuclear attack.",
-        "director": "",
-        "stars": []
+        "director": "Jonathan Mostow",
+        "stars": [
+            "Arnold Schwarzenegger",
+            "Nick Stahl",
+            "Kristanna Loken",
+            "Claire Danes"
+        ],
+        "votes": "346,882",
+        "gross": "$150.37M"
     },
     "16": {
         "name": "The Matrix Reloaded",
@@ -140,8 +245,16 @@
         "runtime": "138 min",
         "genre": "Action, Sci-Fi",
         "description": "Following the events of The Matrix (1999), Neo and the rebel leaders estimate they have 72 hours until 250,000 probes discover Zion and destroy it and its inhabitants. Neo must decide how he can save Trinity from a dark fate in his dreams.",
-        "director": "",
-        "stars": []
+        "director": "Lana Wachowski",
+        "stars": [
+            "Lilly Wachowski",
+            "Keanu Reeves",
+            "Laurence Fishburne",
+            "Carrie-Anne Moss",
+            "Hugo Weaving"
+        ],
+        "votes": "474,859",
+        "gross": "$281.49M"
     },
     "17": {
         "name": "Mystic River",
@@ -149,8 +262,15 @@
         "runtime": "138 min",
         "genre": "Crime, Drama, Mystery",
         "description": "The lives of three men who were childhood friends are shattered when one of them has a family tragedy.",
-        "director": "",
-        "stars": []
+        "director": "Clint Eastwood",
+        "stars": [
+            "Sean Penn",
+            "Tim Robbins",
+            "Kevin Bacon",
+            "Emmy Rossum"
+        ],
+        "votes": "386,392",
+        "gross": "$90.14M"
     },
     "18": {
         "name": "Finding Nemo",
@@ -158,8 +278,16 @@
         "runtime": "100 min",
         "genre": "Animation, Adventure, Comedy",
         "description": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
-        "director": "",
-        "stars": []
+        "director": "Andrew Stanton",
+        "stars": [
+            "Lee Unkrich",
+            "Albert Brooks",
+            "Ellen DeGeneres",
+            "Alexander Gould",
+            "Willem Dafoe"
+        ],
+        "votes": "859,025",
+        "gross": "$380.84M"
     },
     "19": {
         "name": "School of Rock",
@@ -167,8 +295,15 @@
         "runtime": "109 min",
         "genre": "Comedy, Music",
         "description": "After being kicked out of his rock band, Dewey Finn becomes a substitute teacher of an uptight elementary private school, only to try and turn them into a rock band.",
-        "director": "",
-        "stars": []
+        "director": "Richard Linklater",
+        "stars": [
+            "Jack Black",
+            "Mike White",
+            "Joan Cusack",
+            "Adam Pascal"
+        ],
+        "votes": "242,806",
+        "gross": "$81.26M"
     },
     "20": {
         "name": "Underworld",
@@ -176,8 +311,15 @@
         "runtime": "121 min",
         "genre": "Action, Fantasy, Thriller",
         "description": "Selene, a vampire warrior, is entrenched in a conflict between vampires and werewolves, while falling in love with Michael, a human who is sought by werewolves for unknown reasons.",
-        "director": "",
-        "stars": []
+        "director": "Len Wiseman",
+        "stars": [
+            "Kate Beckinsale",
+            "Scott Speedman",
+            "Shane Brolly",
+            "Michael Sheen"
+        ],
+        "votes": "238,211",
+        "gross": "$51.97M"
     },
     "21": {
         "name": "Holes",
@@ -185,8 +327,15 @@
         "runtime": "117 min",
         "genre": "Adventure, Comedy, Drama",
         "description": "A wrongfully convicted boy is sent to a brutal desert detention camp where he joins the job of digging holes for some mysterious reason.",
-        "director": "",
-        "stars": []
+        "director": "Andrew Davis",
+        "stars": [
+            "Shia LaBeouf",
+            "Sigourney Weaver",
+            "Jon Voight",
+            "Tim Blake Nelson"
+        ],
+        "votes": "69,640",
+        "gross": "$67.41M"
     },
     "22": {
         "name": "Old School",
@@ -194,8 +343,15 @@
         "runtime": "88 min",
         "genre": "Comedy",
         "description": "Three friends attempt to recapture their glory days by opening up a fraternity near their alma mater.",
-        "director": "",
-        "stars": []
+        "director": "Todd Phillips",
+        "stars": [
+            "Luke Wilson",
+            "Vince Vaughn",
+            "Will Ferrell",
+            "Jeremy Piven"
+        ],
+        "votes": "202,949",
+        "gross": "$75.59M"
     },
     "23": {
         "name": "The Last Samurai",
@@ -203,8 +359,15 @@
         "runtime": "154 min",
         "genre": "Action, Drama, War",
         "description": "An American military advisor embraces the Samurai culture he was hired to destroy after he is captured in battle.",
-        "director": "",
-        "stars": []
+        "director": "Edward Zwick",
+        "stars": [
+            "Tom Cruise",
+            "Ken Watanabe",
+            "Billy Connolly",
+            "William Atherton"
+        ],
+        "votes": "367,729",
+        "gross": "$111.11M"
     },
     "24": {
         "name": "X2: X-Men United",
@@ -212,8 +375,15 @@
         "runtime": "134 min",
         "genre": "Action, Adventure, Sci-Fi",
         "description": "When anti-mutant Colonel William Stryker kidnaps Professor X and attacks his school, the X-Men must ally with their archenemy Magneto to stop him.",
-        "director": "",
-        "stars": []
+        "director": "Bryan Singer",
+        "stars": [
+            "Patrick Stewart",
+            "Hugh Jackman",
+            "Halle Berry",
+            "Ian McKellen"
+        ],
+        "votes": "476,477",
+        "gross": "$214.95M"
     },
     "25": {
         "name": "Dogville",
@@ -221,8 +391,15 @@
         "runtime": "178 min",
         "genre": "Crime, Drama",
         "description": "A woman on the run from the mob is reluctantly accepted in a small Colorado town. In exchange, she agrees to work for them. As a search visits the town, she finds out that their support has a price. Yet her dangerous secret is never far away.",
-        "director": "",
-        "stars": []
+        "director": "Lars von Trier",
+        "stars": [
+            "Nicole Kidman",
+            "Paul Bettany",
+            "Lauren Bacall",
+            "Harriet Andersson"
+        ],
+        "votes": "125,497",
+        "gross": "$1.53M"
     },
     "26": {
         "name": "Open Range",
@@ -230,8 +407,15 @@
         "runtime": "139 min",
         "genre": "Action, Drama, Romance",
         "description": "A former gunslinger is forced to take up arms again when he and his cattle crew are threatened by a corrupt lawman.",
-        "director": "",
-        "stars": []
+        "director": "Kevin Costner",
+        "stars": [
+            "Kevin Costner",
+            "Robert Duvall",
+            "Diego Luna",
+            "Abraham Benrubi"
+        ],
+        "votes": "61,665",
+        "gross": "$58.33M"
     },
     "27": {
         "name": "The Matrix Revolutions",
@@ -239,8 +423,16 @@
         "runtime": "129 min",
         "genre": "Action, Sci-Fi",
         "description": "The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith.",
-        "director": "",
-        "stars": []
+        "director": "Lana Wachowski",
+        "stars": [
+            "Lilly Wachowski",
+            "Keanu Reeves",
+            "Laurence Fishburne",
+            "Carrie-Anne Moss",
+            "Hugo Weaving"
+        ],
+        "votes": "412,230",
+        "gross": "$139.31M"
     },
     "28": {
         "name": "The League of Extraordinary Gentlemen",
@@ -248,8 +440,15 @@
         "runtime": "110 min",
         "genre": "Action, Adventure, Fantasy",
         "description": "In an alternate Victorian Age world, a group of famous contemporary fantasy, science fiction, and adventure characters team up on a secret mission.",
-        "director": "",
-        "stars": []
+        "director": "Stephen Norrington",
+        "stars": [
+            "Sean Connery",
+            "Stuart Townsend",
+            "Peta Wilson",
+            "Jason Flemyng"
+        ],
+        "votes": "156,589",
+        "gross": "$66.47M"
     },
     "29": {
         "name": "Once Upon a Time in Mexico",
@@ -257,8 +456,15 @@
         "runtime": "102 min",
         "genre": "Action, Thriller",
         "description": "Hitman \"El Mariachi\" becomes involved in international espionage involving a psychotic CIA agent and a corrupt Mexican general.",
-        "director": "",
-        "stars": []
+        "director": "Robert Rodriguez",
+        "stars": [
+            "Antonio Banderas",
+            "Salma Hayek",
+            "Johnny Depp",
+            "Willem Dafoe"
+        ],
+        "votes": "144,645",
+        "gross": "$56.36M"
     },
     "30": {
         "name": "House of 1000 Corpses",
@@ -266,8 +472,15 @@
         "runtime": "89 min",
         "genre": "Horror",
         "description": "Two young couples traveling across the backwoods of Texas searching for urban legends of murder end up as prisoners of a bizarre and sadistic backwater family of serial killers.",
-        "director": "",
-        "stars": []
+        "director": "Rob Zombie",
+        "stars": [
+            "Sid Haig",
+            "Karen Black",
+            "Bill Moseley",
+            "Sheri Moon Zombie"
+        ],
+        "votes": "68,860",
+        "gross": "$12.63M"
     },
     "31": {
         "name": "Identity",
@@ -275,8 +488,15 @@
         "runtime": "90 min",
         "genre": "Mystery, Thriller",
         "description": "Stranded at a desolate Nevada motel during a nasty rain-storm, ten strangers become acquainted with each other when they realize that they're being killed off one by one.",
-        "director": "",
-        "stars": []
+        "director": "James Mangold",
+        "stars": [
+            "John Cusack",
+            "Ray Liotta",
+            "Amanda Peet",
+            "John Hawkes"
+        ],
+        "votes": "208,095",
+        "gross": "$52.16M"
     },
     "32": {
         "name": "Cheaper by the Dozen",
@@ -284,8 +504,15 @@
         "runtime": "98 min",
         "genre": "Comedy, Family",
         "description": "With his wife doing a book tour, a father of twelve must handle a new job and his unstable brood.",
-        "director": "",
-        "stars": []
+        "director": "Shawn Levy",
+        "stars": [
+            "Steve Martin",
+            "Bonnie Hunt",
+            "Hilary Duff",
+            "Piper Perabo"
+        ],
+        "votes": "86,482",
+        "gross": "$138.61M"
     },
     "33": {
         "name": "Wrong Turn",
@@ -293,8 +520,15 @@
         "runtime": "84 min",
         "genre": "Horror",
         "description": "Six people find themselves trapped in the woods of West Virginia, hunted down by \"cannibalistic mountain men grossly disfigured through generations of in-breeding.\"",
-        "director": "",
-        "stars": []
+        "director": "Rob Schmidt",
+        "stars": [
+            "Eliza Dushku",
+            "Jeremy Sisto",
+            "Emmanuelle Chriqui",
+            "Desmond Harrington"
+        ],
+        "votes": "100,482",
+        "gross": "$15.42M"
     },
     "34": {
         "name": "Peter Pan",
@@ -302,8 +536,15 @@
         "runtime": "113 min",
         "genre": "Adventure, Family, Fantasy",
         "description": "The Darling family children receive a visit from Peter Pan, who takes them to Never Never Land where an ongoing war with the evil Pirate Captain Hook is taking place.",
-        "director": "",
-        "stars": []
+        "director": "P.J. Hogan",
+        "stars": [
+            "Jeremy Sumpter",
+            "Jason Isaacs",
+            "Olivia Williams",
+            "Lynn Redgrave"
+        ],
+        "votes": "61,185",
+        "gross": "$48.46M"
     },
     "35": {
         "name": "Daredevil",
@@ -311,8 +552,15 @@
         "runtime": "103 min",
         "genre": "Action, Adventure, Crime",
         "description": "A man blinded by toxic waste which also enhanced his remaining senses fights crime as an acrobatic martial arts superhero.",
-        "director": "",
-        "stars": []
+        "director": "Mark Steven Johnson",
+        "stars": [
+            "Ben Affleck",
+            "Jennifer Garner",
+            "Colin Farrell",
+            "Michael Clarke Duncan"
+        ],
+        "votes": "196,625",
+        "gross": "$102.54M"
     },
     "36": {
         "name": "Thirteen",
@@ -320,8 +568,15 @@
         "runtime": "100 min",
         "genre": "Drama",
         "description": "A thirteen-year-old girl's relationship with her mother is put to the test as she discovers drugs, sex, and petty crime in the company of her cool but troubled best friend.",
-        "director": "",
-        "stars": []
+        "director": "Catherine Hardwicke",
+        "stars": [
+            "Evan Rachel Wood",
+            "Holly Hunter",
+            "Nikki Reed",
+            "Vanessa Hudgens"
+        ],
+        "votes": "75,535",
+        "gross": "$4.60M"
     },
     "37": {
         "name": "The Core",
@@ -329,8 +584,15 @@
         "runtime": "135 min",
         "genre": "Action, Adventure, Sci-Fi",
         "description": "The only way to save Earth from catastrophe is to drill down to the core and set it spinning again.",
-        "director": "",
-        "stars": []
+        "director": "Jon Amiel",
+        "stars": [
+            "Aaron Eckhart",
+            "Hilary Swank",
+            "Delroy Lindo",
+            "Bruce Greenwood"
+        ],
+        "votes": "85,660",
+        "gross": "$31.19M"
     },
     "38": {
         "name": "2 Fast 2 Furious",
@@ -338,8 +600,15 @@
         "runtime": "107 min",
         "genre": "Action, Crime, Thriller",
         "description": "Former cop Brian O'Conner is called upon to bust a dangerous criminal and he recruits the help of a former childhood friend and street racer who has a chance to redeem himself.",
-        "director": "",
-        "stars": []
+        "director": "John Singleton",
+        "stars": [
+            "Paul Walker",
+            "Tyrese Gibson",
+            "Cole Hauser",
+            "Eva Mendes"
+        ],
+        "votes": "229,242",
+        "gross": "$127.15M"
     },
     "39": {
         "name": "Bad Boys II",
@@ -347,8 +616,15 @@
         "runtime": "147 min",
         "genre": "Action, Comedy, Crime",
         "description": "Two loose-cannon narcotics cops investigate the flow of Ecstasy into Florida from a Cuban drug cartel.",
-        "director": "",
-        "stars": []
+        "director": "Michael Bay",
+        "stars": [
+            "Will Smith",
+            "Martin Lawrence",
+            "Gabrielle Union",
+            "Jordi Moll\u00e0"
+        ],
+        "votes": "205,254",
+        "gross": "$138.61M"
     },
     "40": {
         "name": "The Italian Job",
@@ -356,8 +632,15 @@
         "runtime": "111 min",
         "genre": "Action, Crime, Thriller",
         "description": "After being betrayed and left for dead in Italy, Charlie Croker and his team plan an elaborate gold heist against their former ally.",
-        "director": "",
-        "stars": []
+        "director": "F. Gary Gray",
+        "stars": [
+            "Donald Sutherland",
+            "Mark Wahlberg",
+            "Edward Norton",
+            "Charlize Theron"
+        ],
+        "votes": "320,602",
+        "gross": "$106.13M"
     },
     "41": {
         "name": "Shanghai Knights",
@@ -365,8 +648,15 @@
         "runtime": "114 min",
         "genre": "Action, Adventure, Comedy",
         "description": "When a Chinese rebel murders Chon's estranged father and escapes to England, Chon and Roy make their way to London with revenge on their minds.",
-        "director": "",
-        "stars": []
+        "director": "David Dobkin",
+        "stars": [
+            "Jackie Chan",
+            "Owen Wilson",
+            "Fann Wong",
+            "Aaron Taylor-Johnson"
+        ],
+        "votes": "93,544",
+        "gross": "$60.48M"
     },
     "42": {
         "name": "Memories of Murder",
@@ -374,8 +664,15 @@
         "runtime": "132 min",
         "genre": "Action, Crime, Drama",
         "description": "In a small Korean province in 1986, three detectives struggle with the case of multiple young women being found raped and murdered by an unknown culprit.",
-        "director": "",
-        "stars": []
+        "director": "Joon-ho Bong",
+        "stars": [
+            "Kang-ho Song",
+            "Sang-kyung Kim",
+            "Roe-ha Kim",
+            "Jae-ho Song"
+        ],
+        "votes": "99,029",
+        "gross": "$0.01M"
     },
     "43": {
         "name": "Daddy Day Care",
@@ -383,8 +680,15 @@
         "runtime": "92 min",
         "genre": "Comedy, Family",
         "description": "Two men get laid off and have to become stay-at-home dads when they can't find jobs. This inspires them to open their own day-care center.",
-        "director": "",
-        "stars": []
+        "director": "Steve Carr",
+        "stars": [
+            "Eddie Murphy",
+            "Jeff Garlin",
+            "Anjelica Huston",
+            "Steve Zahn"
+        ],
+        "votes": "58,069",
+        "gross": "$104.30M"
     },
     "44": {
         "name": "Dreamcatcher",
@@ -392,8 +696,15 @@
         "runtime": "134 min",
         "genre": "Drama, Horror, Sci-Fi",
         "description": "Friends on a camping trip discover that the town they're vacationing in is being plagued in an unusual fashion by parasitic aliens from outer space.",
-        "director": "",
-        "stars": []
+        "director": "Lawrence Kasdan",
+        "stars": [
+            "Morgan Freeman",
+            "Thomas Jane",
+            "Jason Lee",
+            "Damian Lewis"
+        ],
+        "votes": "84,342",
+        "gross": "$33.72M"
     },
     "45": {
         "name": "Bruce Almighty",
@@ -401,8 +712,15 @@
         "runtime": "101 min",
         "genre": "Comedy, Drama, Fantasy",
         "description": "A guy who complains about God too often is given almighty powers to teach him how difficult it is to run the world.",
-        "director": "",
-        "stars": []
+        "director": "Tom Shadyac",
+        "stars": [
+            "Jim Carrey",
+            "Jennifer Aniston",
+            "Morgan Freeman",
+            "Philip Baker Hall"
+        ],
+        "votes": "344,040",
+        "gross": "$242.83M"
     },
     "46": {
         "name": "How to Lose a Guy in 10 Days",
@@ -410,8 +728,15 @@
         "runtime": "116 min",
         "genre": "Comedy, Romance",
         "description": "Benjamin Barry is an advertising executive and ladies' man who, to win a big campaign, bets that he can make a woman fall in love with him in 10 days. Andie Anderson covers the \"How To\" beat for \"Composure\" magazine and is assigned to write an article on \"How to Lose a Guy in 10 days.\" They meet in a bar shortly after the bet is made.",
-        "director": "",
-        "stars": []
+        "director": "Donald Petrie",
+        "stars": [
+            "Kate Hudson",
+            "Matthew McConaughey",
+            "Adam Goldberg",
+            "Kathryn Hahn"
+        ],
+        "votes": "189,548",
+        "gross": "$105.81M"
     },
     "47": {
         "name": "Cold Mountain",
@@ -419,8 +744,15 @@
         "runtime": "154 min",
         "genre": "Adventure, Drama, History",
         "description": "In the waning days of the American Civil War, a wounded soldier embarks on a perilous journey back home to Cold Mountain, North Carolina to reunite with his sweetheart.",
-        "director": "",
-        "stars": []
+        "director": "Anthony Minghella",
+        "stars": [
+            "Jude Law",
+            "Nicole Kidman",
+            "Ren\u00e9e Zellweger",
+            "Eileen Atkins"
+        ],
+        "votes": "131,562",
+        "gross": "$95.64M"
     },
     "48": {
         "name": "21 Grams",
@@ -428,8 +760,15 @@
         "runtime": "124 min",
         "genre": "Crime, Drama, Thriller",
         "description": "A freak accident brings together a critically ill mathematician, a grieving mother, and a born-again ex-con.",
-        "director": "",
-        "stars": []
+        "director": "Alejandro G. I\u00f1\u00e1rritu",
+        "stars": [
+            "Sean Penn",
+            "Benicio Del Toro",
+            "Naomi Watts",
+            "Danny Huston"
+        ],
+        "votes": "211,918",
+        "gross": "$16.25M"
     },
     "49": {
         "name": "Master and Commander: The Far Side of the World",
@@ -437,8 +776,15 @@
         "runtime": "138 min",
         "genre": "Action, Adventure, Drama",
         "description": "During the Napoleonic Wars, a brash British captain pushes his ship and crew to their limits in pursuit of a formidable French war vessel around South America.",
-        "director": "",
-        "stars": []
+        "director": "Peter Weir",
+        "stars": [
+            "Russell Crowe",
+            "Paul Bettany",
+            "Billy Boyd",
+            "James D'Arcy"
+        ],
+        "votes": "188,509",
+        "gross": "$93.93M"
     },
     "50": {
         "name": "Johnny English",
@@ -446,7 +792,14 @@
         "runtime": "87 min",
         "genre": "Action, Adventure, Comedy",
         "description": "After a sudden attack on the MI5, Johnny English, Britain's most confident yet unintelligent spy, becomes Britain's only spy.",
-        "director": "",
-        "stars": []
+        "director": "Peter Howitt",
+        "stars": [
+            "Rowan Atkinson",
+            "John Malkovich",
+            "Natalie Imbruglia",
+            "Tasha de Vasconcelos"
+        ],
+        "votes": "135,990",
+        "gross": "$28.08M"
     }
 }

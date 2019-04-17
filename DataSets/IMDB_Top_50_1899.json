@@ -5,8 +5,10 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Harishchandra Sakharam Bhatavdekar",
+        "stars": [],
+        "votes": 22,
+        "gross": ""
     },
     "2": {
         "name": "Reproduction of the Corbett and Jeffries Fight",
@@ -15,7 +17,9 @@
         "genre": "News, Sport",
         "description": "Add a Plot",
         "director": "",
-        "stars": []
+        "stars": [],
+        "votes": 30,
+        "gross": ""
     },
     "3": {
         "name": "Around the Big Curves on the Manhattan Elevated R.R.",
@@ -24,7 +28,9 @@
         "genre": "",
         "description": "Add a Plot",
         "director": "",
-        "stars": []
+        "stars": [],
+        "votes": 26,
+        "gross": ""
     },
     "4": {
         "name": "Lady Contortionist",
@@ -32,7 +38,9 @@
         "runtime": "",
         "genre": "",
         "description": "\"Here is shown Mlle. De La Roy, the well-known dancer who has a national reputation. The lady seems to be double jointed, as she twists herself in every conceivable shape. This film shows ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Mlle. De La Roy",
+        "stars": [],
+        "votes": 15,
+        "gross": ""
     }
 }

@@ -6,7 +6,9 @@
         "genre": "",
         "description": "Add a Plot",
         "director": "",
-        "stars": []
+        "stars": [],
+        "votes": 13,
+        "gross": ""
     },
     "2": {
         "name": "Eine Fliegenjagd oder Die Rache der Frau Schultze",
@@ -14,8 +16,14 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Eugen Skladanowsky",
+        "stars": [
+            "Max Skladanowsky",
+            "Frida Cotrelli",
+            "Eugen Skladanowsky"
+        ],
+        "votes": 15,
+        "gross": ""
     },
     "3": {
         "name": "Bohemios",
@@ -23,8 +31,13 @@
         "runtime": "100 min",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Ricardo de Ba\u00f1os",
+        "stars": [
+            "Antonio del Pozo",
+            "El Mochuelo"
+        ],
+        "votes": "",
+        "gross": ""
     },
     "4": {
         "name": "Valsons",
@@ -32,8 +45,12 @@
         "runtime": "",
         "genre": "Music",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Alice Guy",
+        "stars": [
+            "Dranem"
+        ],
+        "votes": 15,
+        "gross": ""
     },
     "5": {
         "name": "Ensalada criolla",
@@ -41,8 +58,10 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Eugene Py",
+        "stars": [],
+        "votes": 14,
+        "gross": ""
     },
     "6": {
         "name": "La course aux tonneaux",
@@ -50,8 +69,10 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Ferdinand Zecca",
+        "stars": [],
+        "votes": 11,
+        "gross": ""
     },
     "7": {
         "name": "La malia dell'oro",
@@ -59,8 +80,10 @@
         "runtime": "",
         "genre": "Fantasy",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Filoteo Alberini",
+        "stars": [],
+        "votes": 15,
+        "gross": ""
     },
     "8": {
         "name": "Valtiop\u00e4iv\u00e4kuvia",
@@ -68,8 +91,10 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Frans Engstr\u00f6m",
+        "stars": [],
+        "votes": 7,
+        "gross": ""
     },
     "9": {
         "name": "Ked\u00e9lyes boh\u00e9mek",
@@ -78,6 +103,8 @@
         "genre": "",
         "description": "Add a Plot",
         "director": "",
-        "stars": []
+        "stars": [],
+        "votes": 10,
+        "gross": ""
     }
 }

@@ -5,8 +5,16 @@
         "runtime": "103 min",
         "genre": "Comedy, Musical, Romance",
         "description": "A silent film production company and cast make a difficult transition to sound.",
-        "director": "",
-        "stars": []
+        "director": "Stanley Donen",
+        "stars": [
+            "Gene Kelly",
+            "Gene Kelly",
+            "Donald O'Connor",
+            "Debbie Reynolds",
+            "Jean Hagen"
+        ],
+        "votes": "194,077",
+        "gross": "$8.82M"
     },
     "2": {
         "name": "High Noon",
@@ -14,8 +22,15 @@
         "runtime": "85 min",
         "genre": "Action, Drama, Thriller",
         "description": "A town Marshal, despite the disagreements of his newlywed bride and the townspeople around him, must face a gang of deadly killers alone at high noon when the gang leader, an outlaw he sent up years ago, arrives on the noon train.",
-        "director": "",
-        "stars": []
+        "director": "Fred Zinnemann",
+        "stars": [
+            "Gary Cooper",
+            "Grace Kelly",
+            "Thomas Mitchell",
+            "Lloyd Bridges"
+        ],
+        "votes": "90,004",
+        "gross": "$9.45M"
     },
     "3": {
         "name": "The Quiet Man",
@@ -23,8 +38,15 @@
         "runtime": "129 min",
         "genre": "Comedy, Drama, Romance",
         "description": "A retired American boxer returns to the village of his birth in Ireland, where he finds love.",
-        "director": "",
-        "stars": []
+        "director": "John Ford",
+        "stars": [
+            "John Wayne",
+            "Maureen O'Hara",
+            "Barry Fitzgerald",
+            "Ward Bond"
+        ],
+        "votes": "31,590",
+        "gross": "$10.55M"
     },
     "4": {
         "name": "Invitation",
@@ -32,8 +54,15 @@
         "runtime": "84 min",
         "genre": "Drama, Romance",
         "description": "Always believing she had a happy marriage, a young wife's trust in her husband is shaken when she discovers that her father had paid him to marry her.",
-        "director": "",
-        "stars": []
+        "director": "Gottfried Reinhardt",
+        "stars": [
+            "Van Johnson",
+            "Dorothy McGuire",
+            "Ruth Roman",
+            "Louis Calhern"
+        ],
+        "votes": "447",
+        "gross": ""
     },
     "5": {
         "name": "Viva Zapata!",
@@ -41,8 +70,15 @@
         "runtime": "113 min",
         "genre": "Biography, Drama, History",
         "description": "The story of Mexican revolutionary Emiliano Zapata, who led a rebellion against the corrupt, oppressive dictatorship of president Porfirio Diaz in the early 20th century.",
-        "director": "",
-        "stars": []
+        "director": "Elia Kazan",
+        "stars": [
+            "Marlon Brando",
+            "Jean Peters",
+            "Anthony Quinn",
+            "Joseph Wiseman"
+        ],
+        "votes": "9,210",
+        "gross": ""
     },
     "6": {
         "name": "Ikiru",
@@ -50,8 +86,15 @@
         "runtime": "143 min",
         "genre": "Drama",
         "description": "A bureaucrat tries to find a meaning in his life after he discovers he has terminal cancer.",
-        "director": "",
-        "stars": []
+        "director": "Akira Kurosawa",
+        "stars": [
+            "Takashi Shimura",
+            "Nobuo Kaneko",
+            "Shin'ichi Himori",
+            "Haruo Tanaka"
+        ],
+        "votes": "58,005",
+        "gross": "$0.06M"
     },
     "7": {
         "name": "Lovely to Look At",
@@ -59,8 +102,15 @@
         "runtime": "103 min",
         "genre": "Comedy, Musical, Romance",
         "description": "Three Broadway producers struggling to get backing for their show hope one's sudden inheritance of a half interest in a Parisian fashion house is the answer. They travel to Paris only to learn the salon is in debt and requires their help.",
-        "director": "",
-        "stars": []
+        "director": "Mervyn LeRoy",
+        "stars": [
+            "Kathryn Grayson",
+            "Red Skelton",
+            "Howard Keel",
+            "Marge Champion"
+        ],
+        "votes": "552",
+        "gross": ""
     },
     "8": {
         "name": "Bend of the River",
@@ -68,8 +118,15 @@
         "runtime": "91 min",
         "genre": "Action, Adventure, Romance",
         "description": "When a town boss confiscates homesteader's supplies after gold is discovered nearby, a tough cowboy risks his life to try and get it to them.",
-        "director": "",
-        "stars": []
+        "director": "Anthony Mann",
+        "stars": [
+            "James Stewart",
+            "Rock Hudson",
+            "Arthur Kennedy",
+            "Julie Adams"
+        ],
+        "votes": "6,947",
+        "gross": ""
     },
     "9": {
         "name": "Sudden Fear",
@@ -77,8 +134,15 @@
         "runtime": "110 min",
         "genre": "Film-Noir, Thriller",
         "description": "After an ambitious actor insinuates himself into the life of a wealthy middle-aged playwright and marries her, he plots with his mistress to murder her.",
-        "director": "",
-        "stars": []
+        "director": "David Miller",
+        "stars": [
+            "Joan Crawford",
+            "Jack Palance",
+            "Gloria Grahame",
+            "Bruce Bennett"
+        ],
+        "votes": "4,246",
+        "gross": ""
     },
     "10": {
         "name": "Limelight",
@@ -86,8 +150,15 @@
         "runtime": "137 min",
         "genre": "Drama, Music, Romance",
         "description": "A fading comedian and a suicidally despondent ballet dancer must look to each other to find meaning and hope in their lives.",
-        "director": "",
-        "stars": []
+        "director": "Charles Chaplin",
+        "stars": [
+            "Charles Chaplin",
+            "Claire Bloom",
+            "Nigel Bruce",
+            "Buster Keaton"
+        ],
+        "votes": "16,029",
+        "gross": "$1.00M"
     },
     "11": {
         "name": "The Greatest Show on Earth",
@@ -95,8 +166,15 @@
         "runtime": "152 min",
         "genre": "Drama, Family, Romance",
         "description": "The dramatic lives of trapeze artists, a clown, and an elephant trainer are told against a background of circus spectacle.",
-        "director": "",
-        "stars": []
+        "director": "Cecil B. DeMille",
+        "stars": [
+            "James Stewart",
+            "Charlton Heston",
+            "Betty Hutton",
+            "Cornel Wilde"
+        ],
+        "votes": "11,505",
+        "gross": "$36.00M"
     },
     "12": {
         "name": "The Duel at Silver Creek",
@@ -104,8 +182,15 @@
         "runtime": "77 min",
         "genre": "Action, Adventure, Drama",
         "description": "Marshal Tyrone and the Silver Kid form an uneasy alliance against a gang of claim jumpers.",
-        "director": "",
-        "stars": []
+        "director": "Don Siegel",
+        "stars": [
+            "Audie Murphy",
+            "Faith Domergue",
+            "Stephen McNally",
+            "Susan Cabot"
+        ],
+        "votes": "1,126",
+        "gross": ""
     },
     "13": {
         "name": "My Cousin Rachel",
@@ -113,8 +198,15 @@
         "runtime": "98 min",
         "genre": "Drama, Mystery, Romance",
         "description": "A young man plots revenge against the woman he believes murdered his cousin, but his plans are shaken when he comes face to face with the enigmatic beauty.",
-        "director": "",
-        "stars": []
+        "director": "Henry Koster",
+        "stars": [
+            "Olivia de Havilland",
+            "Richard Burton",
+            "Audrey Dalton",
+            "Ronald Squire"
+        ],
+        "votes": "2,094",
+        "gross": ""
     },
     "14": {
         "name": "The Bad and the Beautiful",
@@ -122,8 +214,15 @@
         "runtime": "118 min",
         "genre": "Drama, Romance",
         "description": "An unscrupulous movie producer uses an actress, a director and a writer to achieve success.",
-        "director": "",
-        "stars": []
+        "director": "Vincente Minnelli",
+        "stars": [
+            "Lana Turner",
+            "Kirk Douglas",
+            "Walter Pidgeon",
+            "Dick Powell"
+        ],
+        "votes": "11,615",
+        "gross": ""
     },
     "15": {
         "name": "Moulin Rouge",
@@ -131,8 +230,15 @@
         "runtime": "119 min",
         "genre": "Biography, Drama, Music",
         "description": "Fictional account of French artist Henri de Toulouse-Lautrec.",
-        "director": "",
-        "stars": []
+        "director": "John Huston",
+        "stars": [
+            "Jos\u00e9 Ferrer",
+            "Zsa Zsa Gabor",
+            "Suzanne Flon",
+            "Claude Nollier"
+        ],
+        "votes": "4,490",
+        "gross": "$11.81M"
     },
     "16": {
         "name": "The Importance of Being Earnest",
@@ -140,8 +246,15 @@
         "runtime": "95 min",
         "genre": "Comedy, Drama",
         "description": "When Algernon discovers that his friend, Ernest, has created a fictional brother for whenever he needs a reason to escape dull country life, Algernon poses as the brother, resulting in ever increasing confusion.",
-        "director": "",
-        "stars": []
+        "director": "Anthony Asquith",
+        "stars": [
+            "Michael Redgrave",
+            "Richard Wattis",
+            "Michael Denison",
+            "Walter Hudd"
+        ],
+        "votes": "4,714",
+        "gross": ""
     },
     "17": {
         "name": "Hangman's Knot",
@@ -149,8 +262,15 @@
         "runtime": "81 min",
         "genre": "Romance, Western",
         "description": "A Confederate Major and his troops are falsely led to believe the Civil War is not over, and become wanted men after they attack a Union Army wagon train in Nevada.",
-        "director": "",
-        "stars": []
+        "director": "Roy Huggins",
+        "stars": [
+            "Randolph Scott",
+            "Donna Reed",
+            "Claude Jarman Jr.",
+            "Frank Faylen"
+        ],
+        "votes": "1,125",
+        "gross": ""
     },
     "18": {
         "name": "The Crimson Pirate",
@@ -158,8 +278,15 @@
         "runtime": "105 min",
         "genre": "Adventure, Comedy",
         "description": "During the 1700s, pirate Captain Vallo seizes a British warship and gets involved in various money-making schemes involving Caribbean rebels led by El Libre, British envoy Baron Jose Gruda, and a beautiful courtesan named Consuelo.",
-        "director": "",
-        "stars": []
+        "director": "Robert Siodmak",
+        "stars": [
+            "Burt Lancaster",
+            "Nick Cravat",
+            "Eva Bartok",
+            "Torin Thatcher"
+        ],
+        "votes": "5,159",
+        "gross": ""
     },
     "19": {
         "name": "Miss Robin Hood",
@@ -167,8 +294,15 @@
         "runtime": "76 min",
         "genre": "Comedy, Crime",
         "description": "Henry Wrigley is happy writing stories for a children's' comic. Then he meets Miss Honey, who encourages him to go into minor crime.",
-        "director": "",
-        "stars": []
+        "director": "John Guillermin",
+        "stars": [
+            "Margaret Rutherford",
+            "Richard Hearne",
+            "Edward Lexy",
+            "Fanny Rowe"
+        ],
+        "votes": "184",
+        "gross": ""
     },
     "20": {
         "name": "Pat and Mike",
@@ -176,8 +310,15 @@
         "runtime": "95 min",
         "genre": "Comedy, Romance, Sport",
         "description": "Pat is a women's sports sensation unless her fianc\u00e9 is around. Her new shady manager Mike keeps them apart and develops feelings for her.",
-        "director": "",
-        "stars": []
+        "director": "George Cukor",
+        "stars": [
+            "Spencer Tracy",
+            "Katharine Hepburn",
+            "Aldo Ray",
+            "William Ching"
+        ],
+        "votes": "4,683",
+        "gross": ""
     },
     "21": {
         "name": "Umberto D.",
@@ -185,8 +326,15 @@
         "runtime": "89 min",
         "genre": "Drama",
         "description": "An elderly man and his dog struggle to survive on his government pension in Rome.",
-        "director": "",
-        "stars": []
+        "director": "Vittorio De Sica",
+        "stars": [
+            "Carlo Battisti",
+            "Maria Pia Casilio",
+            "Lina Gennari",
+            "Ileana Simova"
+        ],
+        "votes": "20,040",
+        "gross": "$0.07M"
     },
     "22": {
         "name": "Monkey Business",
@@ -194,8 +342,15 @@
         "runtime": "97 min",
         "genre": "Comedy, Sci-Fi",
         "description": "A chemist finds his personal and professional life turned upside down when one of his chimpanzees finds the fountain of youth.",
-        "director": "",
-        "stars": []
+        "director": "Howard Hawks",
+        "stars": [
+            "Cary Grant",
+            "Ginger Rogers",
+            "Marilyn Monroe",
+            "Charles Coburn"
+        ],
+        "votes": "11,710",
+        "gross": ""
     },
     "23": {
         "name": "Ivanhoe",
@@ -203,8 +358,15 @@
         "runtime": "106 min",
         "genre": "Adventure, Drama, History",
         "description": "A knight seeks to free the captive King Richard and put him back on the throne.",
-        "director": "",
-        "stars": []
+        "director": "Richard Thorpe",
+        "stars": [
+            "Robert Taylor",
+            "Elizabeth Taylor",
+            "Joan Fontaine",
+            "George Sanders"
+        ],
+        "votes": "7,454",
+        "gross": ""
     },
     "24": {
         "name": "Private Information",
@@ -212,8 +374,15 @@
         "runtime": "65 min",
         "genre": "Drama",
         "description": "Charlotte suspects that the local council is corrupt and building defective drains that could cause public health issues.",
-        "director": "",
-        "stars": []
+        "director": "Fergus McDonell",
+        "stars": [
+            "Jill Esmond",
+            "Jack Watling",
+            "Carol Marsh",
+            "Gerard Heinz"
+        ],
+        "votes": "48",
+        "gross": ""
     },
     "25": {
         "name": "The Narrow Margin",
@@ -221,8 +390,15 @@
         "runtime": "71 min",
         "genre": "Film-Noir, Thriller",
         "description": "A woman planning to testify against the mob must be protected against their assassins on the train trip from Chicago to Los Angeles.",
-        "director": "",
-        "stars": []
+        "director": "Richard Fleischer",
+        "stars": [
+            "Charles McGraw",
+            "Marie Windsor",
+            "Jacqueline White",
+            "Gordon Gebert"
+        ],
+        "votes": "6,264",
+        "gross": ""
     },
     "26": {
         "name": "The Snows of Kilimanjaro",
@@ -230,8 +406,16 @@
         "runtime": "114 min",
         "genre": "Adventure, Drama, Romance",
         "description": "Writer Harry Street reflects on his life as he lies dying from an infection while on safari in the shadow of Mount Kilamanjaro.",
-        "director": "",
-        "stars": []
+        "director": "Henry King",
+        "stars": [
+            "Roy Ward Baker",
+            "Gregory Peck",
+            "Susan Hayward",
+            "Ava Gardner",
+            "Hildegard Knef"
+        ],
+        "votes": "4,246",
+        "gross": "$18.05M"
     },
     "27": {
         "name": "Kansas City Confidential",
@@ -239,8 +423,15 @@
         "runtime": "99 min",
         "genre": "Crime, Drama, Film-Noir",
         "description": "An ex-con trying to go straight is framed for a million dollar armored car robbery and must go to Mexico in order to unmask the real culprits.",
-        "director": "",
-        "stars": []
+        "director": "Phil Karlson",
+        "stars": [
+            "John Payne",
+            "Coleen Gray",
+            "Preston Foster",
+            "Neville Brand"
+        ],
+        "votes": "5,086",
+        "gross": ""
     },
     "28": {
         "name": "Don't Bother to Knock",
@@ -248,8 +439,15 @@
         "runtime": "76 min",
         "genre": "Drama, Film-Noir, Mystery",
         "description": "After being dumped by his girlfriend, an airline pilot pursues a babysitter in his hotel and gradually realizes she's dangerous.",
-        "director": "",
-        "stars": []
+        "director": "Roy Ward Baker",
+        "stars": [
+            "Richard Widmark",
+            "Marilyn Monroe",
+            "Anne Bancroft",
+            "Donna Corcoran"
+        ],
+        "votes": "5,206",
+        "gross": ""
     },
     "29": {
         "name": "Forbidden Games",
@@ -257,8 +455,15 @@
         "runtime": "86 min",
         "genre": "Drama, War",
         "description": "A young French girl orphaned in a Nazi air attack is befriended by the son of a poor farmer, and together they try to come to terms with the realities of death.",
-        "director": "",
-        "stars": []
+        "director": "Ren\u00e9 Cl\u00e9ment",
+        "stars": [
+            "Georges Poujouly",
+            "Brigitte Fossey",
+            "Am\u00e9d\u00e9e",
+            "Laurence Badie"
+        ],
+        "votes": "9,916",
+        "gross": "$0.01M"
     },
     "30": {
         "name": "Scaramouche",
@@ -266,8 +471,15 @@
         "runtime": "115 min",
         "genre": "Action, Adventure, Comedy",
         "description": "In France during the late 18th Century, a man sets out to avenge the death of his friend at the hands of a master swordsman.",
-        "director": "",
-        "stars": []
+        "director": "George Sidney",
+        "stars": [
+            "Stewart Granger",
+            "Janet Leigh",
+            "Eleanor Parker",
+            "Mel Ferrer"
+        ],
+        "votes": "5,109",
+        "gross": ""
     },
     "31": {
         "name": "Clash by Night",
@@ -275,8 +487,15 @@
         "runtime": "105 min",
         "genre": "Drama, Film-Noir, Romance",
         "description": "Mae Doyle comes back to her hometown a cynical woman. Her brother Joe fears that his love, fish cannery worker Peggy, may wind up like Mae. Mae marries Jerry and has a baby; she is happy but restless, drawn to Jerry's friend Earl.",
-        "director": "",
-        "stars": []
+        "director": "Fritz Lang",
+        "stars": [
+            "Barbara Stanwyck",
+            "Robert Ryan",
+            "Paul Douglas",
+            "Marilyn Monroe"
+        ],
+        "votes": "4,934",
+        "gross": ""
     },
     "32": {
         "name": "Come Back, Little Sheba",
@@ -284,8 +503,15 @@
         "runtime": "99 min",
         "genre": "Drama, Romance",
         "description": "An emotionally remote recovering alcoholic and his dowdy, unambitious wife face a personal crisis when they take in an attractive lodger.",
-        "director": "",
-        "stars": []
+        "director": "Daniel Mann",
+        "stars": [
+            "Burt Lancaster",
+            "Shirley Booth",
+            "Terry Moore",
+            "Richard Jaeckel"
+        ],
+        "votes": "4,014",
+        "gross": ""
     },
     "33": {
         "name": "The White Reindeer",
@@ -293,8 +519,15 @@
         "runtime": "74 min",
         "genre": "Drama, Fantasy, Horror",
         "description": "A newly wed woman goes to the local shaman to get some help with her lovelife, but instead gets turned into a white reindeer vampire.",
-        "director": "",
-        "stars": []
+        "director": "Erik Blomberg",
+        "stars": [
+            "Mirjami Kuosmanen",
+            "Kalervo Nissil\u00e4",
+            "\u00c5ke Lindman",
+            "Jouni Tapiola"
+        ],
+        "votes": "1,124",
+        "gross": ""
     },
     "34": {
         "name": "The Sound Barrier",
@@ -302,8 +535,15 @@
         "runtime": "109 min",
         "genre": "Drama, Romance, War",
         "description": "Fictionalized story of British aerospace engineers solving the problem of supersonic flight.",
-        "director": "",
-        "stars": []
+        "director": "David Lean",
+        "stars": [
+            "Ralph Richardson",
+            "Ann Todd",
+            "Nigel Patrick",
+            "John Justin"
+        ],
+        "votes": "1,468",
+        "gross": ""
     },
     "35": {
         "name": "Kvinnors v\u00e4ntan",
@@ -311,8 +551,15 @@
         "runtime": "107 min",
         "genre": "Comedy, Drama",
         "description": "The four wives of four brothers share stories of their marriages as they each wait for their husbands in a small, secluded cottage.",
-        "director": "",
-        "stars": []
+        "director": "Ingmar Bergman",
+        "stars": [
+            "Anita Bj\u00f6rk",
+            "Eva Dahlbeck",
+            "Maj-Britt Nilsson",
+            "Birger Malmsten"
+        ],
+        "votes": "1,837",
+        "gross": ""
     },
     "36": {
         "name": "The Big Sky",
@@ -320,8 +567,15 @@
         "runtime": "140 min",
         "genre": "Drama, Western",
         "description": "The success of the journey focuses on keeping the Indian girl alive as well as themselves to complete trade with the Blackfeet.",
-        "director": "",
-        "stars": []
+        "director": "Howard Hawks",
+        "stars": [
+            "Kirk Douglas",
+            "Dewey Martin",
+            "Elizabeth Threatt",
+            "Arthur Hunnicutt"
+        ],
+        "votes": "3,495",
+        "gross": ""
     },
     "37": {
         "name": "O. Henry's Full House",
@@ -329,8 +583,19 @@
         "runtime": "117 min",
         "genre": "Drama",
         "description": "John Steinbeck introduces a quintet of five of O. Henry's most celebrated stories from his New York Period (1902-1910) in this anthology film.",
-        "director": "",
-        "stars": []
+        "director": "Henry Hathaway",
+        "stars": [
+            "Howard Hawks",
+            "Henry King",
+            "Henry Koster",
+            "Jean Negulesco",
+            "Fred Allen",
+            "Anne Baxter",
+            "Jeanne Crain",
+            "Farley Granger"
+        ],
+        "votes": "1,923",
+        "gross": ""
     },
     "38": {
         "name": "Hans Christian Andersen",
@@ -338,8 +603,15 @@
         "runtime": "112 min",
         "genre": "Biography, Family, Musical",
         "description": "The opening scene of the movie describes it best: \"Once upon a time there lived in Denmark a great storyteller named Hans Christian Andersen. This is not the story of his life, but a fairy tale about the great spinner of fairy tales.\"",
-        "director": "",
-        "stars": []
+        "director": "Charles Vidor",
+        "stars": [
+            "Danny Kaye",
+            "Farley Granger",
+            "Zizi Jeanmaire",
+            "Joseph Walsh"
+        ],
+        "votes": "3,077",
+        "gross": ""
     },
     "39": {
         "name": "Blackbeard, the Pirate",
@@ -347,8 +619,15 @@
         "runtime": "99 min",
         "genre": "Adventure, Romance",
         "description": "Honest Edward Maynard finds himself serving as ship's surgeon under the infamous pirate Blackbeard.",
-        "director": "",
-        "stars": []
+        "director": "Raoul Walsh",
+        "stars": [
+            "Robert Newton",
+            "Linda Darnell",
+            "William Bendix",
+            "Keith Andes"
+        ],
+        "votes": "1,159",
+        "gross": ""
     },
     "40": {
         "name": "The Story of Robin Hood and His Merrie Men",
@@ -356,8 +635,15 @@
         "runtime": "84 min",
         "genre": "Action, Adventure, Family",
         "description": "With King Richard away at the crusades, Prince John rules England with an iron fist and tasks the Sheriff of Nottingham with the collection of high taxes and the capture of outlaw Robin Hood.",
-        "director": "",
-        "stars": []
+        "director": "Ken Annakin",
+        "stars": [
+            "Richard Todd",
+            "Joan Rice",
+            "Peter Finch",
+            "James Hayter"
+        ],
+        "votes": "1,115",
+        "gross": "$4.58M"
     },
     "41": {
         "name": "The Life of Oharu",
@@ -365,8 +651,15 @@
         "runtime": "133 min",
         "genre": "Drama",
         "description": "Follows a woman's fight and survival amid the vicissitudes of life and the cruelty of the society.",
-        "director": "",
-        "stars": []
+        "director": "Kenji Mizoguchi",
+        "stars": [
+            "Kinuyo Tanaka",
+            "Tsukie Matsuura",
+            "Ichir\u00f4 Sugai",
+            "Toshir\u00f4 Mifune"
+        ],
+        "votes": "5,214",
+        "gross": ""
     },
     "42": {
         "name": "The Prisoner of Zenda",
@@ -374,8 +667,15 @@
         "runtime": "96 min",
         "genre": "Adventure",
         "description": "An Englishman vacationing in a Ruritarian kingdom is recruited to impersonate his cousin, the soon-to-be-crowned king when the monarch is drugged and kidnapped.",
-        "director": "",
-        "stars": []
+        "director": "Richard Thorpe",
+        "stars": [
+            "Stewart Granger",
+            "Deborah Kerr",
+            "Louis Calhern",
+            "Jane Greer"
+        ],
+        "votes": "2,979",
+        "gross": ""
     },
     "43": {
         "name": "Road to Bali",
@@ -383,8 +683,15 @@
         "runtime": "91 min",
         "genre": "Adventure, Comedy, Fantasy",
         "description": "Two unemployed show-biz pals accept treasure-diving work in Bali for a local princess and they find treasure, love and trouble.",
-        "director": "",
-        "stars": []
+        "director": "Hal Walker",
+        "stars": [
+            "Bing Crosby",
+            "Bob Hope",
+            "Dorothy Lamour",
+            "Murvyn Vye"
+        ],
+        "votes": "4,115",
+        "gross": ""
     },
     "44": {
         "name": "Denver and Rio Grande",
@@ -392,8 +699,15 @@
         "runtime": "89 min",
         "genre": "Adventure, Western",
         "description": "A romanticized history of the building of the Denver & Rio Grande Railroad in the Colorado mountains.",
-        "director": "",
-        "stars": []
+        "director": "Byron Haskin",
+        "stars": [
+            "Edmond O'Brien",
+            "Sterling Hayden",
+            "Dean Jagger",
+            "Kasey Rogers"
+        ],
+        "votes": "349",
+        "gross": ""
     },
     "45": {
         "name": "Deadline - U.S.A.",
@@ -401,8 +715,15 @@
         "runtime": "87 min",
         "genre": "Crime, Drama, Film-Noir",
         "description": "With his newspaper about to be sold, crusading editor Ed Hutcheson tries to complete an expos\u00e9 on gangster Rienzi.",
-        "director": "",
-        "stars": []
+        "director": "Richard Brooks",
+        "stars": [
+            "Humphrey Bogart",
+            "Ethel Barrymore",
+            "Kim Hunter",
+            "Ed Begley"
+        ],
+        "votes": "2,619",
+        "gross": ""
     },
     "46": {
         "name": "Macao",
@@ -410,8 +731,16 @@
         "runtime": "81 min",
         "genre": "Adventure, Crime, Drama",
         "description": "Nick Cochran, an American in exile in Macao, has a chance to restore his name by helping capture an international crime lord. Undercover, can he mislead the bad guys and still woo the handsome singer/petty crook, Julie Benson?",
-        "director": "",
-        "stars": []
+        "director": "Josef von Sternberg",
+        "stars": [
+            "Nicholas Ray",
+            "Robert Mitchum",
+            "Jane Russell",
+            "William Bendix",
+            "Thomas Gomez"
+        ],
+        "votes": "2,479",
+        "gross": ""
     },
     "47": {
         "name": "The Member of the Wedding",
@@ -419,8 +748,15 @@
         "runtime": "93 min",
         "genre": "Drama",
         "description": "A young tomboy named Frankie is forced to face her own immaturity as a result her older brother's wedding.",
-        "director": "",
-        "stars": []
+        "director": "Fred Zinnemann",
+        "stars": [
+            "Ethel Waters",
+            "Julie Harris",
+            "Brandon De Wilde",
+            "Arthur Franz"
+        ],
+        "votes": "1,140",
+        "gross": ""
     },
     "48": {
         "name": "Europe '51",
@@ -428,8 +764,15 @@
         "runtime": "118 min",
         "genre": "Drama",
         "description": "A wealthy woman becomes obsessed with humanitarianism when her young son dies after committing suicide.",
-        "director": "",
-        "stars": []
+        "director": "Roberto Rossellini",
+        "stars": [
+            "Ingrid Bergman",
+            "Alexander Knox",
+            "Ettore Giannini",
+            "Giulietta Masina"
+        ],
+        "votes": "2,690",
+        "gross": ""
     },
     "49": {
         "name": "Invasion, U.S.A.",
@@ -437,8 +780,15 @@
         "runtime": "73 min",
         "genre": "Drama, Sci-Fi, War",
         "description": "A group of people at a bar witness the unfolding events of a Soviet invasion of the USA.",
-        "director": "",
-        "stars": []
+        "director": "Alfred E. Green",
+        "stars": [
+            "Gerald Mohr",
+            "Peggie Castle",
+            "Dan O'Herlihy",
+            "Robert Bice"
+        ],
+        "votes": "1,058",
+        "gross": "$1.20M"
     },
     "50": {
         "name": "Phone Call from a Stranger",
@@ -446,7 +796,14 @@
         "runtime": "105 min",
         "genre": "Drama, Film-Noir",
         "description": "While waiting on a delayed flight, David Trask, who has left his unfaithful wife, meets three of his fellow passengers. When the aircraft crashes, he is one of few survivors, and sets out to resolve their unfinished business.",
-        "director": "",
-        "stars": []
+        "director": "Jean Negulesco",
+        "stars": [
+            "Bette Davis",
+            "Shelley Winters",
+            "Gary Merrill",
+            "Michael Rennie"
+        ],
+        "votes": "1,917",
+        "gross": ""
     }
 }

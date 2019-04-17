@@ -5,8 +5,15 @@
         "runtime": "147 min",
         "genre": "Drama, War",
         "description": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.",
-        "director": "",
-        "stars": []
+        "director": "Francis Ford Coppola",
+        "stars": [
+            "Martin Sheen",
+            "Marlon Brando",
+            "Robert Duvall",
+            "Frederic Forrest"
+        ],
+        "votes": "542,633",
+        "gross": "$83.47M"
     },
     "2": {
         "name": "Alien",
@@ -14,8 +21,15 @@
         "runtime": "116 min",
         "genre": "Horror, Sci-Fi",
         "description": "After a space merchant vessel perceives an unknown transmission as a distress call, its landing on the source moon finds one of the crew attacked by a mysterious lifeform, and they soon realize that its life cycle has merely begun.",
-        "director": "",
-        "stars": []
+        "director": "Ridley Scott",
+        "stars": [
+            "Sigourney Weaver",
+            "Tom Skerritt",
+            "John Hurt",
+            "Veronica Cartwright"
+        ],
+        "votes": "705,992",
+        "gross": "$78.90M"
     },
     "3": {
         "name": "Caligula",
@@ -23,8 +37,17 @@
         "runtime": "156 min",
         "genre": "Drama, History",
         "description": "Details the graphic and shocking, yet undeniably tragic story of Rome's most infamous Caesar, Gaius Germanicus Caligula.",
-        "director": "",
-        "stars": []
+        "director": "Tinto Brass",
+        "stars": [
+            "Bob Guccione",
+            "Giancarlo Lui",
+            "Malcolm McDowell",
+            "Peter O'Toole",
+            "Helen Mirren",
+            "Teresa Ann Savoy"
+        ],
+        "votes": "31,070",
+        "gross": "$23.44M"
     },
     "4": {
         "name": "All That Jazz",
@@ -32,8 +55,15 @@
         "runtime": "123 min",
         "genre": "Comedy, Drama, Music",
         "description": "Director/choreographer Bob Fosse tells his own life story as he details the sordid life of Joe Gideon, a womanizing, drug-using dancer.",
-        "director": "",
-        "stars": []
+        "director": "Bob Fosse",
+        "stars": [
+            "Roy Scheider",
+            "Jessica Lange",
+            "Leland Palmer",
+            "Ann Reinking"
+        ],
+        "votes": "23,863",
+        "gross": "$37.82M"
     },
     "5": {
         "name": "The Black Hole",
@@ -41,8 +71,15 @@
         "runtime": "98 min",
         "genre": "Action, Sci-Fi",
         "description": "A research vessel finds a missing ship, commanded by a mysterious scientist, on the edge of a black hole.",
-        "director": "",
-        "stars": []
+        "director": "Gary Nelson",
+        "stars": [
+            "Maximilian Schell",
+            "Anthony Perkins",
+            "Robert Forster",
+            "Joseph Bottoms"
+        ],
+        "votes": "20,964",
+        "gross": ""
     },
     "6": {
         "name": "Mad Max",
@@ -50,8 +87,15 @@
         "runtime": "88 min",
         "genre": "Action, Adventure, Sci-Fi",
         "description": "In a self-destructing world, a vengeful Australian policeman sets out to stop a violent motorcycle gang.",
-        "director": "",
-        "stars": []
+        "director": "George Miller",
+        "stars": [
+            "Mel Gibson",
+            "Joanne Samuel",
+            "Hugh Keays-Byrne",
+            "Steve Bisley"
+        ],
+        "votes": "175,699",
+        "gross": "$8.75M"
     },
     "7": {
         "name": "Being There",
@@ -59,8 +103,15 @@
         "runtime": "130 min",
         "genre": "Comedy, Drama",
         "description": "A simple, sheltered gardener becomes an unlikely trusted advisor to a powerful businessman and an insider in Washington politics.",
-        "director": "",
-        "stars": []
+        "director": "Hal Ashby",
+        "stars": [
+            "Peter Sellers",
+            "Shirley MacLaine",
+            "Melvyn Douglas",
+            "Jack Warden"
+        ],
+        "votes": "60,090",
+        "gross": "$30.18M"
     },
     "8": {
         "name": "The Warriors",
@@ -68,8 +119,15 @@
         "runtime": "92 min",
         "genre": "Action, Crime, Thriller",
         "description": "In the near future, a charismatic leader summons the street gangs of New York City in a bid to take it over. When he is killed, The Warriors are falsely blamed and now must fight their way home while every other gang is hunting them down.",
-        "director": "",
-        "stars": []
+        "director": "Walter Hill",
+        "stars": [
+            "Michael Beck",
+            "James Remar",
+            "Dorsey Wright",
+            "Brian Tyler"
+        ],
+        "votes": "84,919",
+        "gross": "$22.49M"
     },
     "9": {
         "name": "Stalker",
@@ -77,8 +135,15 @@
         "runtime": "162 min",
         "genre": "Drama, Sci-Fi",
         "description": "A guide leads two men through an area known as the Zone to find a room that grants wishes.",
-        "director": "",
-        "stars": []
+        "director": "Andrei Tarkovsky",
+        "stars": [
+            "Alisa Freyndlikh",
+            "Aleksandr Kaydanovskiy",
+            "Anatoliy Solonitsyn",
+            "Nikolay Grinko"
+        ],
+        "votes": "96,614",
+        "gross": "$0.23M"
     },
     "10": {
         "name": "Life of Brian",
@@ -86,8 +151,15 @@
         "runtime": "94 min",
         "genre": "Comedy",
         "description": "Born on the original Christmas in the stable next door to Jesus, Brian of Nazareth spends his life being mistaken for a messiah.",
-        "director": "",
-        "stars": []
+        "director": "Terry Jones",
+        "stars": [
+            "Graham Chapman",
+            "John Cleese",
+            "Michael Palin",
+            "Terry Gilliam"
+        ],
+        "votes": "331,704",
+        "gross": "$20.05M"
     },
     "11": {
         "name": "Kramer vs. Kramer",
@@ -95,8 +167,15 @@
         "runtime": "105 min",
         "genre": "Drama",
         "description": "Ted Kramer's wife leaves him, allowing for a lost bond to be rediscovered between Ted and his son, Billy. But a heated custody battle ensues over the divorced couple's son, deepening the wounds left by the separation.",
-        "director": "",
-        "stars": []
+        "director": "Robert Benton",
+        "stars": [
+            "Dustin Hoffman",
+            "Meryl Streep",
+            "Jane Alexander",
+            "Justin Henry"
+        ],
+        "votes": "117,489",
+        "gross": "$106.26M"
     },
     "12": {
         "name": "The Jerk",
@@ -104,8 +183,15 @@
         "runtime": "94 min",
         "genre": "Comedy",
         "description": "An idiotic man struggles to make it through life on his own in St. Louis.",
-        "director": "",
-        "stars": []
+        "director": "Carl Reiner",
+        "stars": [
+            "Steve Martin",
+            "Bernadette Peters",
+            "Catlin Adams",
+            "Mabel King"
+        ],
+        "votes": "48,886",
+        "gross": "$73.69M"
     },
     "13": {
         "name": "Star Trek: The Motion Picture",
@@ -113,8 +199,15 @@
         "runtime": "132 min",
         "genre": "Adventure, Mystery, Sci-Fi",
         "description": "When an alien spacecraft of enormous power is spotted approaching Earth, Admiral James T. Kirk resumes command of the overhauled USS Enterprise in order to intercept it.",
-        "director": "",
-        "stars": []
+        "director": "Robert Wise",
+        "stars": [
+            "William Shatner",
+            "Leonard Nimoy",
+            "DeForest Kelley",
+            "James Doohan"
+        ],
+        "votes": "74,268",
+        "gross": "$82.26M"
     },
     "14": {
         "name": "Rocky II",
@@ -122,8 +215,15 @@
         "runtime": "119 min",
         "genre": "Drama, Sport",
         "description": "Rocky struggles in family life after his bout with Apollo Creed, while the embarrassed champ insistently goads him to accept a challenge for a rematch.",
-        "director": "",
-        "stars": []
+        "director": "Sylvester Stallone",
+        "stars": [
+            "Sylvester Stallone",
+            "Talia Shire",
+            "Burt Young",
+            "Carl Weathers"
+        ],
+        "votes": "171,216",
+        "gross": "$6.39M"
     },
     "15": {
         "name": "Meatballs",
@@ -131,8 +231,15 @@
         "runtime": "94 min",
         "genre": "Comedy",
         "description": "Wacky hijinks of counselors and campers at a less-than-average summer camp.",
-        "director": "",
-        "stars": []
+        "director": "Ivan Reitman",
+        "stars": [
+            "Bill Murray",
+            "Harvey Atkin",
+            "Kate Lynch",
+            "Russ Banham"
+        ],
+        "votes": "17,249",
+        "gross": "$43.05M"
     },
     "16": {
         "name": "Moonraker",
@@ -140,8 +247,15 @@
         "runtime": "126 min",
         "genre": "Action, Adventure, Sci-Fi",
         "description": "James Bond investigates the mid-air theft of a space shuttle, and discovers a plot to commit global genocide.",
-        "director": "",
-        "stars": []
+        "director": "Lewis Gilbert",
+        "stars": [
+            "Roger Moore",
+            "Lois Chiles",
+            "Michael Lonsdale",
+            "Richard Kiel"
+        ],
+        "votes": "81,494",
+        "gross": "$70.31M"
     },
     "17": {
         "name": "Escape from Alcatraz",
@@ -149,8 +263,15 @@
         "runtime": "112 min",
         "genre": "Biography, Crime, Drama",
         "description": "Alcatraz is the most secure prison of its time. It is believed that no one can ever escape from it, until three daring men make a possible successful attempt at escaping from one of the most infamous prisons in the world.",
-        "director": "",
-        "stars": []
+        "director": "Don Siegel",
+        "stars": [
+            "Clint Eastwood",
+            "Patrick McGoohan",
+            "Roberts Blossom",
+            "Jack Thibeau"
+        ],
+        "votes": "104,098",
+        "gross": "$43.00M"
     },
     "18": {
         "name": "1941",
@@ -158,8 +279,15 @@
         "runtime": "118 min",
         "genre": "Action, Comedy, War",
         "description": "Hysterical Californians prepare for a Japanese invasion in the days after Pearl Harbor.",
-        "director": "",
-        "stars": []
+        "director": "Steven Spielberg",
+        "stars": [
+            "John Belushi",
+            "Dan Aykroyd",
+            "Treat Williams",
+            "Nancy Allen"
+        ],
+        "votes": "29,103",
+        "gross": "$31.76M"
     },
     "19": {
         "name": "10",
@@ -167,8 +295,15 @@
         "runtime": "122 min",
         "genre": "Comedy, Romance",
         "description": "A Hollywood composer goes through a mid-life crisis and becomes infatuated with a sexy, newly married woman.",
-        "director": "",
-        "stars": []
+        "director": "Blake Edwards",
+        "stars": [
+            "Dudley Moore",
+            "Bo Derek",
+            "Julie Andrews",
+            "Robert Webber"
+        ],
+        "votes": "13,960",
+        "gross": "$74.87M"
     },
     "20": {
         "name": "Breaking Away",
@@ -176,8 +311,15 @@
         "runtime": "101 min",
         "genre": "Comedy, Drama, Romance",
         "description": "A small-town boy obsessed with the Italian cycling team vies for the affections of a college girl.",
-        "director": "",
-        "stars": []
+        "director": "Peter Yates",
+        "stars": [
+            "Dennis Christopher",
+            "Dennis Quaid",
+            "Daniel Stern",
+            "Jackie Earle Haley"
+        ],
+        "votes": "19,935",
+        "gross": "$16.42M"
     },
     "21": {
         "name": "Hair",
@@ -185,8 +327,15 @@
         "runtime": "121 min",
         "genre": "Comedy, Drama, Musical",
         "description": "Claude Bukowski leaves the family ranch in Oklahoma for New York where he is rapidly embraced into the hippie group of youngsters led by Berger, yet he's already been drafted. He soon falls in love with Sheila Franklin, a rich girl but still a rebel inside.",
-        "director": "",
-        "stars": []
+        "director": "Milos Forman",
+        "stars": [
+            "John Savage",
+            "Treat Williams",
+            "Beverly D'Angelo",
+            "Annie Golden"
+        ],
+        "votes": "32,001",
+        "gross": "$15.28M"
     },
     "22": {
         "name": "Manhattan",
@@ -194,8 +343,15 @@
         "runtime": "96 min",
         "genre": "Comedy, Drama, Romance",
         "description": "The life of a divorced television writer dating a teenage girl is further complicated when he falls in love with his best friend's mistress.",
-        "director": "",
-        "stars": []
+        "director": "Woody Allen",
+        "stars": [
+            "Woody Allen",
+            "Diane Keaton",
+            "Mariel Hemingway",
+            "Michael Murphy"
+        ],
+        "votes": "121,012",
+        "gross": "$45.70M"
     },
     "23": {
         "name": "...and justice for all.",
@@ -203,8 +359,15 @@
         "runtime": "119 min",
         "genre": "Crime, Drama, Thriller",
         "description": "A lawyer is forced to defend a guilty judge, while defending other innocent clients, and trying to find punishment for the guilty and provide justice for the innocent.",
-        "director": "",
-        "stars": []
+        "director": "Norman Jewison",
+        "stars": [
+            "Al Pacino",
+            "Jack Warden",
+            "John Forsythe",
+            "Lee Strasberg"
+        ],
+        "votes": "27,366",
+        "gross": ""
     },
     "24": {
         "name": "Tess",
@@ -212,8 +375,15 @@
         "runtime": "170 min",
         "genre": "Drama, Romance",
         "description": "A strong-willed young peasant girl attracts the affection of two men.",
-        "director": "",
-        "stars": []
+        "director": "Roman Polanski",
+        "stars": [
+            "Nastassja Kinski",
+            "Peter Firth",
+            "Leigh Lawson",
+            "John Collin"
+        ],
+        "votes": "13,417",
+        "gross": ""
     },
     "25": {
         "name": "Nosferatu the Vampyre",
@@ -221,8 +391,15 @@
         "runtime": "107 min",
         "genre": "Horror",
         "description": "Count Dracula moves from Transylvania to Wismar, spreading the Black Plague across the land. Only a woman pure of heart can bring an end to his reign of horror.",
-        "director": "",
-        "stars": []
+        "director": "Werner Herzog",
+        "stars": [
+            "Klaus Kinski",
+            "Isabelle Adjani",
+            "Bruno Ganz",
+            "Roland Topor"
+        ],
+        "votes": "28,552",
+        "gross": ""
     },
     "26": {
         "name": "The Amityville Horror",
@@ -230,8 +407,15 @@
         "runtime": "117 min",
         "genre": "Horror",
         "description": "Newlyweds move into a large house where a mass murder was committed, and experience strange manifestations which drive them away.",
-        "director": "",
-        "stars": []
+        "director": "Stuart Rosenberg",
+        "stars": [
+            "James Brolin",
+            "Margot Kidder",
+            "Rod Steiger",
+            "Don Stroud"
+        ],
+        "votes": "32,142",
+        "gross": "$86.43M"
     },
     "27": {
         "name": "Phantasm",
@@ -239,8 +423,15 @@
         "runtime": "88 min",
         "genre": "Horror, Sci-Fi",
         "description": "A teenage boy and his friends face off against a mysterious grave robber known only as the Tall Man, who keeps a lethal arsenal of terrible weapons with him.",
-        "director": "",
-        "stars": []
+        "director": "Don Coscarelli",
+        "stars": [
+            "A. Michael Baldwin",
+            "Bill Thornbury",
+            "Reggie Bannister",
+            "Kathy Lester"
+        ],
+        "votes": "28,250",
+        "gross": "$11.99M"
     },
     "28": {
         "name": "The China Syndrome",
@@ -248,8 +439,15 @@
         "runtime": "122 min",
         "genre": "Drama, Thriller",
         "description": "A reporter finds what appears to be a cover-up of safety hazards at a nuclear power plant.",
-        "director": "",
-        "stars": []
+        "director": "James Bridges",
+        "stars": [
+            "Jane Fonda",
+            "Jack Lemmon",
+            "Michael Douglas",
+            "Scott Brady"
+        ],
+        "votes": "24,113",
+        "gross": "$51.72M"
     },
     "29": {
         "name": "Quadrophenia",
@@ -257,8 +455,15 @@
         "runtime": "120 min",
         "genre": "Drama, Music",
         "description": "Jimmy loathes his job and parents. He seeks solace with his mod clique, scooter riding and drugs, only to be disappointed.",
-        "director": "",
-        "stars": []
+        "director": "Franc Roddam",
+        "stars": [
+            "Phil Daniels",
+            "Leslie Ash",
+            "Phil Davis",
+            "Mark Wingett"
+        ],
+        "votes": "15,362",
+        "gross": ""
     },
     "30": {
         "name": "Zombie",
@@ -266,8 +471,15 @@
         "runtime": "91 min",
         "genre": "Horror",
         "description": "Strangers searching for a young woman's missing father arrive at a tropical island where a doctor desperately seeks the cause and cure of a recent epidemic of the undead.",
-        "director": "",
-        "stars": []
+        "director": "Lucio Fulci",
+        "stars": [
+            "Tisa Farrow",
+            "Ian McCulloch",
+            "Richard Johnson",
+            "Al Cliver"
+        ],
+        "votes": "23,032",
+        "gross": ""
     },
     "31": {
         "name": "Rock 'n' Roll High School",
@@ -275,8 +487,16 @@
         "runtime": "93 min",
         "genre": "Comedy, Music",
         "description": "A group of rock-music-loving students, with the help of the Ramones, take over their school to combat its newly installed oppressive administration.",
-        "director": "",
-        "stars": []
+        "director": "Allan Arkush",
+        "stars": [
+            "Joe Dante",
+            "P.J. Soles",
+            "Vincent Van Patten",
+            "Clint Howard",
+            "Dey Young"
+        ],
+        "votes": "8,025",
+        "gross": ""
     },
     "32": {
         "name": "The Brood",
@@ -284,8 +504,15 @@
         "runtime": "92 min",
         "genre": "Horror, Sci-Fi",
         "description": "A man tries to uncover an unconventional psychologist's therapy techniques on his institutionalized wife, amidst a series of brutal murders.",
-        "director": "",
-        "stars": []
+        "director": "David Cronenberg",
+        "stars": [
+            "Oliver Reed",
+            "Samantha Eggar",
+            "Art Hindle",
+            "Henry Beckman"
+        ],
+        "votes": "22,317",
+        "gross": ""
     },
     "33": {
         "name": "The Muppet Movie",
@@ -293,8 +520,15 @@
         "runtime": "95 min",
         "genre": "Adventure, Comedy, Family",
         "description": "Kermit and his newfound friends trek across America to find success in Hollywood, but a frog legs merchant is after Kermit.",
-        "director": "",
-        "stars": []
+        "director": "James Frawley",
+        "stars": [
+            "Jim Henson",
+            "Frank Oz",
+            "Jerry Nelson",
+            "Richard Hunt"
+        ],
+        "votes": "29,227",
+        "gross": "$76.66M"
     },
     "34": {
         "name": "The Wanderers",
@@ -302,8 +536,15 @@
         "runtime": "112 min",
         "genre": "Drama",
         "description": "Set against the urban jungle of 1963 New York's gangland subculture, this coming of age teenage movie is set around the Italian gang the Wanderers. Slight comedy, slight High School angst ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Philip Kaufman",
+        "stars": [
+            "Ken Wahl",
+            "Karen Allen",
+            "John Friedrich",
+            "Toni Kalem"
+        ],
+        "votes": "9,027",
+        "gross": "$0.01M"
     },
     "35": {
         "name": "Beneath the Valley of the Ultra-Vixens",
@@ -311,8 +552,15 @@
         "runtime": "93 min",
         "genre": "Comedy",
         "description": "Believe it or not even in Smalltown USA there are still people who are unfulfilled and unrelieved in the midst of plenty. Levonna & Lamar could have the perfect relationship if it were not ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Russ Meyer",
+        "stars": [
+            "Kitten Natividad",
+            "Ann Marie",
+            "Ken Kerr",
+            "June Mack"
+        ],
+        "votes": "2,649",
+        "gross": ""
     },
     "36": {
         "name": "Tourist Trap",
@@ -320,8 +568,15 @@
         "runtime": "90 min",
         "genre": "Horror",
         "description": "A group of young friends stranded at a secluded roadside museum are stalked by a masked assailant who uses his telekenetic powers to control the attraction's mannequins.",
-        "director": "",
-        "stars": []
+        "director": "David Schmoeller",
+        "stars": [
+            "Chuck Connors",
+            "Jocelyn Jones",
+            "Jon Van Ness",
+            "Robin Sherwood"
+        ],
+        "votes": "6,681",
+        "gross": ""
     },
     "37": {
         "name": "Time After Time",
@@ -329,8 +584,15 @@
         "runtime": "112 min",
         "genre": "Adventure, Drama, Sci-Fi",
         "description": "H.G. Wells pursues Jack the Ripper to the 20th Century when the serial murderer uses the future writer's time machine to escape his time period.",
-        "director": "",
-        "stars": []
+        "director": "Nicholas Meyer",
+        "stars": [
+            "Malcolm McDowell",
+            "Mary Steenburgen",
+            "David Warner",
+            "Charles Cioffi"
+        ],
+        "votes": "14,006",
+        "gross": ""
     },
     "38": {
         "name": "Scum",
@@ -338,8 +600,15 @@
         "runtime": "98 min",
         "genre": "Crime, Drama",
         "description": "An uncompromising story of life in a British juvenile offender institution in the 70's.",
-        "director": "",
-        "stars": []
+        "director": "Alan Clarke",
+        "stars": [
+            "Ray Winstone",
+            "Mick Ford",
+            "Julian Firth",
+            "John Blundell"
+        ],
+        "votes": "8,922",
+        "gross": ""
     },
     "39": {
         "name": "The Black Stallion",
@@ -347,8 +616,15 @@
         "runtime": "118 min",
         "genre": "Adventure, Family, Sport",
         "description": "While traveling with his father, young Alec becomes fascinated by a mysterious Arabian stallion who is brought on board and stabled in the ship he is sailing on. When it tragically sinks ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Carroll Ballard",
+        "stars": [
+            "Kelly Reno",
+            "Mickey Rooney",
+            "Teri Garr",
+            "Clarence Muse"
+        ],
+        "votes": "10,537",
+        "gross": ""
     },
     "40": {
         "name": "The Villain",
@@ -356,8 +632,15 @@
         "runtime": "89 min",
         "genre": "Comedy, Western",
         "description": "Facing hanging, a bank robber makes a deal with the corrupt banker to avoid execution in exchange for a dirty assignment.",
-        "director": "",
-        "stars": []
+        "director": "Hal Needham",
+        "stars": [
+            "Kirk Douglas",
+            "Arnold Schwarzenegger",
+            "Ann-Margret",
+            "Paul Lynde"
+        ],
+        "votes": "5,882",
+        "gross": ""
     },
     "41": {
         "name": "Hardcore",
@@ -365,8 +648,15 @@
         "runtime": "108 min",
         "genre": "Crime, Drama",
         "description": "A conservative Midwest businessman ventures into the sordid underworld of pornography in California to look for his runaway teenage daughter who is making porno films in California's porno pits.",
-        "director": "",
-        "stars": []
+        "director": "Paul Schrader",
+        "stars": [
+            "George C. Scott",
+            "Peter Boyle",
+            "Season Hubley",
+            "Dick Sargent"
+        ],
+        "votes": "7,255",
+        "gross": ""
     },
     "42": {
         "name": "The Tin Drum",
@@ -374,8 +664,15 @@
         "runtime": "142 min",
         "genre": "Drama, War",
         "description": "In 1924, Oskar Matzerath is born in the Free City of Danzig. At age three, he falls down a flight of stairs and stops growing. In 1939, World War II breaks out.",
-        "director": "",
-        "stars": []
+        "director": "Volker Schl\u00f6ndorff",
+        "stars": [
+            "David Bennent",
+            "Mario Adorf",
+            "Angela Winkler",
+            "Katharina Thalbach"
+        ],
+        "votes": "20,345",
+        "gross": ""
     },
     "43": {
         "name": "Norma Rae",
@@ -383,8 +680,15 @@
         "runtime": "114 min",
         "genre": "Drama",
         "description": "A young single mother and textile worker agrees to help unionize her mill despite the problems and dangers involved.",
-        "director": "",
-        "stars": []
+        "director": "Martin Ritt",
+        "stars": [
+            "Sally Field",
+            "Beau Bridges",
+            "Ron Leibman",
+            "Pat Hingle"
+        ],
+        "votes": "9,294",
+        "gross": "$22.23M"
     },
     "44": {
         "name": "California Dreaming",
@@ -392,8 +696,15 @@
         "runtime": "92 min",
         "genre": "Comedy, Drama, Romance",
         "description": "Young T.T. comes from Chicago to spend the summer in California. He slowly becomes \"California-ized,\" while learning about love and life in the Golden State.",
-        "director": "",
-        "stars": []
+        "director": "John D. Hancock",
+        "stars": [
+            "Glynnis O'Connor",
+            "Seymour Cassel",
+            "Dorothy Tristan",
+            "Dennis Christopher"
+        ],
+        "votes": "523",
+        "gross": ""
     },
     "45": {
         "name": "The Rose",
@@ -401,8 +712,15 @@
         "runtime": "125 min",
         "genre": "Drama, Music, Romance",
         "description": "The tragic life of a self-destructive female rock star who struggles to deal with the constant pressures of her career and the demands of her ruthless business manager.",
-        "director": "",
-        "stars": []
+        "director": "Mark Rydell",
+        "stars": [
+            "Bette Midler",
+            "Alan Bates",
+            "Frederic Forrest",
+            "Harry Dean Stanton"
+        ],
+        "votes": "7,209",
+        "gross": "$29.20M"
     },
     "46": {
         "name": "Rupan sansei: Kariosutoro no shiro",
@@ -410,8 +728,15 @@
         "runtime": "102 min",
         "genre": "Animation, Adventure, Family",
         "description": "A dashing thief, his gang of desperadoes and an intrepid policeman struggle to free a princess from an evil count's clutches, and learn the hidden secret to a fabulous treasure that she holds part of a key to.",
-        "director": "",
-        "stars": []
+        "director": "Hayao Miyazaki",
+        "stars": [
+            "Yasuo Yamada",
+            "Eiko Masuyama",
+            "Kiyoshi Kobayashi",
+            "Makio Inoue"
+        ],
+        "votes": "21,655",
+        "gross": ""
     },
     "47": {
         "name": "Dracula",
@@ -419,8 +744,15 @@
         "runtime": "109 min",
         "genre": "Horror, Romance",
         "description": "In 1913, the charming, seductive and sinister vampire Count Dracula travels to England in search of an immortal bride.",
-        "director": "",
-        "stars": []
+        "director": "John Badham",
+        "stars": [
+            "Frank Langella",
+            "Laurence Olivier",
+            "Donald Pleasence",
+            "Kate Nelligan"
+        ],
+        "votes": "8,101",
+        "gross": "$20.16M"
     },
     "48": {
         "name": "Laura, les ombres de l'\u00e9t\u00e9",
@@ -428,8 +760,15 @@
         "runtime": "95 min",
         "genre": "Drama, Romance",
         "description": "Sculptor Paul meets a former great love again after a long time -- but is much more impressed by her 15-year-old daughter, Laura, who looks like her mother when Paul was in love with her. ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "David Hamilton",
+        "stars": [
+            "Maud Adams",
+            "Dawn Dunlap",
+            "James Mitchell",
+            "Maureen Kerwin"
+        ],
+        "votes": "916",
+        "gross": ""
     },
     "49": {
         "name": "Over the Edge",
@@ -437,8 +776,15 @@
         "runtime": "95 min",
         "genre": "Crime, Drama",
         "description": "A group of bored teenagers rebel against authority in the community of New Granada after the death of one of their own.",
-        "director": "",
-        "stars": []
+        "director": "Jonathan Kaplan",
+        "stars": [
+            "Matt Dillon",
+            "Michael Eric Kramer",
+            "Pamela Ludwig",
+            "Vincent Spano"
+        ],
+        "votes": "5,502",
+        "gross": ""
     },
     "50": {
         "name": "More American Graffiti",
@@ -446,7 +792,14 @@
         "runtime": "110 min",
         "genre": "Comedy, Drama, War",
         "description": "College graduates deal with Vietnam and other issues of the late 1960s.",
-        "director": "",
-        "stars": []
+        "director": "Bill Norton",
+        "stars": [
+            "Candy Clark",
+            "Bo Hopkins",
+            "Ron Howard",
+            "Paul Le Mat"
+        ],
+        "votes": "3,697",
+        "gross": "$15.01M"
     }
 }

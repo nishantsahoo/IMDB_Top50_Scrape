@@ -5,8 +5,15 @@
         "runtime": "121 min",
         "genre": "Action, Adventure, Fantasy",
         "description": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
-        "director": "",
-        "stars": []
+        "director": "George Lucas",
+        "stars": [
+            "Mark Hamill",
+            "Harrison Ford",
+            "Carrie Fisher",
+            "Alec Guinness"
+        ],
+        "votes": "1,110,395",
+        "gross": "$322.74M"
     },
     "2": {
         "name": "Suspiria",
@@ -14,8 +21,15 @@
         "runtime": "92 min",
         "genre": "Horror",
         "description": "An American newcomer to a prestigious German ballet academy comes to realize that the school is a front for something sinister amid a series of grisly murders.",
-        "director": "",
-        "stars": []
+        "director": "Dario Argento",
+        "stars": [
+            "Jessica Harper",
+            "Stefania Casini",
+            "Flavio Bucci",
+            "Miguel Bos\u00e9"
+        ],
+        "votes": "66,993",
+        "gross": ""
     },
     "3": {
         "name": "Saturday Night Fever",
@@ -23,8 +37,15 @@
         "runtime": "118 min",
         "genre": "Drama, Music",
         "description": "Anxious about his future after high school, a 19 year old Italian American from Brooklyn tries to escape the harsh reality of his bleak family life by dominating the dance floor at the local disco.",
-        "director": "",
-        "stars": []
+        "director": "John Badham",
+        "stars": [
+            "John Travolta",
+            "Karen Lynn Gorney",
+            "Barry Miller",
+            "Joseph Cali"
+        ],
+        "votes": "63,847",
+        "gross": "$94.21M"
     },
     "4": {
         "name": "Close Encounters of the Third Kind",
@@ -32,8 +53,15 @@
         "runtime": "138 min",
         "genre": "Drama, Sci-Fi",
         "description": "Roy Neary, an electric lineman, watches how his quiet and ordinary daily life turns upside down after a close encounter with a UFO.",
-        "director": "",
-        "stars": []
+        "director": "Steven Spielberg",
+        "stars": [
+            "Richard Dreyfuss",
+            "Fran\u00e7ois Truffaut",
+            "Teri Garr",
+            "Melinda Dillon"
+        ],
+        "votes": "166,157",
+        "gross": "$132.09M"
     },
     "5": {
         "name": "Eraserhead",
@@ -41,8 +69,15 @@
         "runtime": "89 min",
         "genre": "Horror",
         "description": "Henry Spencer tries to survive his industrial environment, his angry girlfriend, and the unbearable screams of his newly born mutant child.",
-        "director": "",
-        "stars": []
+        "director": "David Lynch",
+        "stars": [
+            "Jack Nance",
+            "Charlotte Stewart",
+            "Allen Joseph",
+            "Jeanne Bates"
+        ],
+        "votes": "89,549",
+        "gross": "$7.00M"
     },
     "6": {
         "name": "The Spy Who Loved Me",
@@ -50,8 +85,15 @@
         "runtime": "125 min",
         "genre": "Action, Adventure, Thriller",
         "description": "James Bond investigates the hijacking of British and Russian submarines carrying nuclear warheads, with the help of a K.G.B. Agent, whose lover he killed.",
-        "director": "",
-        "stars": []
+        "director": "Lewis Gilbert",
+        "stars": [
+            "Roger Moore",
+            "Barbara Bach",
+            "Curd J\u00fcrgens",
+            "Richard Kiel"
+        ],
+        "votes": "88,798",
+        "gross": "$46.80M"
     },
     "7": {
         "name": "Smokey and the Bandit",
@@ -59,8 +101,15 @@
         "runtime": "96 min",
         "genre": "Action, Comedy",
         "description": "The Bandit is hired on to run a tractor trailer full of beer over state lines, in hot pursuit by a pesky sheriff.",
-        "director": "",
-        "stars": []
+        "director": "Hal Needham",
+        "stars": [
+            "Burt Reynolds",
+            "Sally Field",
+            "Jerry Reed",
+            "Mike Henry"
+        ],
+        "votes": "40,724",
+        "gross": "$126.74M"
     },
     "8": {
         "name": "Annie Hall",
@@ -68,8 +117,15 @@
         "runtime": "93 min",
         "genre": "Comedy, Romance",
         "description": "Neurotic New York comedian Alvy Singer falls in love with the ditzy Annie Hall.",
-        "director": "",
-        "stars": []
+        "director": "Woody Allen",
+        "stars": [
+            "Woody Allen",
+            "Diane Keaton",
+            "Tony Roberts",
+            "Carol Kane"
+        ],
+        "votes": "235,315",
+        "gross": "$39.20M"
     },
     "9": {
         "name": "A Bridge Too Far",
@@ -77,8 +133,15 @@
         "runtime": "175 min",
         "genre": "Drama, History, War",
         "description": "Operation Market Garden, September 1944: The Allies attempt to capture several strategically important bridges in the Netherlands in the hope of breaking the German lines. However, mismanagement and poor planning result in its failure.",
-        "director": "",
-        "stars": []
+        "director": "Richard Attenborough",
+        "stars": [
+            "Sean Connery",
+            "Ryan O'Neal",
+            "Michael Caine",
+            "Laurence Olivier"
+        ],
+        "votes": "46,892",
+        "gross": "$50.80M"
     },
     "10": {
         "name": "Sorcerer",
@@ -86,8 +149,15 @@
         "runtime": "121 min",
         "genre": "Adventure, Drama, Thriller",
         "description": "Four unfortunate men from different parts of the globe agree to risk their lives transporting gallons of nitroglycerin across dangerous South American jungle.",
-        "director": "",
-        "stars": []
+        "director": "William Friedkin",
+        "stars": [
+            "Roy Scheider",
+            "Bruno Cremer",
+            "Francisco Rabal",
+            "Amidou"
+        ],
+        "votes": "14,601",
+        "gross": ""
     },
     "11": {
         "name": "The Kentucky Fried Movie",
@@ -95,8 +165,15 @@
         "runtime": "83 min",
         "genre": "Comedy",
         "description": "A series of short, highly irreverent, and often tasteless skits.",
-        "director": "",
-        "stars": []
+        "director": "John Landis",
+        "stars": [
+            "Evan C. Kim",
+            "Bong Soo Han",
+            "Bill Bixby",
+            "George Lazenby"
+        ],
+        "votes": "15,767",
+        "gross": ""
     },
     "12": {
         "name": "The Car",
@@ -104,8 +181,15 @@
         "runtime": "96 min",
         "genre": "Action, Horror, Mystery",
         "description": "A small desert town is terrorized by a powerful, seemingly possessed car, and the local sheriff may be the only one who can stop it.",
-        "director": "",
-        "stars": []
+        "director": "Elliot Silverstein",
+        "stars": [
+            "James Brolin",
+            "Kathleen Lloyd",
+            "John Marley",
+            "R.G. Armstrong"
+        ],
+        "votes": "7,756",
+        "gross": ""
     },
     "13": {
         "name": "Slap Shot",
@@ -113,8 +197,15 @@
         "runtime": "123 min",
         "genre": "Comedy, Drama, Sport",
         "description": "A failing ice hockey team finds success with outrageously violent hockey goonery.",
-        "director": "",
-        "stars": []
+        "director": "George Roy Hill",
+        "stars": [
+            "Paul Newman",
+            "Michael Ontkean",
+            "Strother Martin",
+            "Jennifer Warren"
+        ],
+        "votes": "31,864",
+        "gross": "$28.00M"
     },
     "14": {
         "name": "The Deep",
@@ -122,8 +213,15 @@
         "runtime": "123 min",
         "genre": "Adventure, Mystery, Thriller",
         "description": "In Bermuda, two amateur treasure-hunting divers have a run-in with local criminals when they inadvertently discover the secret cargo of a World War II shipwreck.",
-        "director": "",
-        "stars": []
+        "director": "Peter Yates",
+        "stars": [
+            "Jacqueline Bisset",
+            "Nick Nolte",
+            "Dick Anthony Williams",
+            "Robert Shaw"
+        ],
+        "votes": "9,952",
+        "gross": "$6.84M"
     },
     "15": {
         "name": "The Many Adventures of Winnie the Pooh",
@@ -131,8 +229,16 @@
         "runtime": "74 min",
         "genre": "Animation, Comedy, Family",
         "description": "A collection of animated shorts based on the stories and characters by A. A. Milne.",
-        "director": "",
-        "stars": []
+        "director": "John Lounsbery",
+        "stars": [
+            "Wolfgang Reitherman",
+            "Sebastian Cabot",
+            "Junius Matthews",
+            "Barbara Luddy",
+            "Howard Morris"
+        ],
+        "votes": "29,425",
+        "gross": ""
     },
     "16": {
         "name": "The Hills Have Eyes",
@@ -140,8 +246,15 @@
         "runtime": "90 min",
         "genre": "Horror, Thriller",
         "description": "On the way to California, a family has the misfortune to have their car break down in an area closed to the public, and inhabited by violent savages ready to attack.",
-        "director": "",
-        "stars": []
+        "director": "Wes Craven",
+        "stars": [
+            "Suze Lanier-Bramlett",
+            "Robert Houston",
+            "Martin Speer",
+            "Dee Wallace"
+        ],
+        "votes": "26,582",
+        "gross": "$25.00M"
     },
     "17": {
         "name": "The Rescuers",
@@ -149,8 +262,17 @@
         "runtime": "78 min",
         "genre": "Animation, Adventure, Comedy",
         "description": "Two mice of the Rescue Aid Society search for a little girl kidnapped by unscrupulous treasure hunters.",
-        "director": "",
-        "stars": []
+        "director": "John Lounsbery",
+        "stars": [
+            "Wolfgang Reitherman",
+            "Art Stevens",
+            "Bob Newhart",
+            "Eva Gabor",
+            "Geraldine Page",
+            "Joe Flynn"
+        ],
+        "votes": "51,882",
+        "gross": "$71.22M"
     },
     "18": {
         "name": "Orca",
@@ -158,8 +280,15 @@
         "runtime": "92 min",
         "genre": "Adventure, Drama, Horror",
         "description": "A hunter squares off against a killer whale seeking vengeance for the death of its mate.",
-        "director": "",
-        "stars": []
+        "director": "Michael Anderson",
+        "stars": [
+            "Richard Harris",
+            "Charlotte Rampling",
+            "Will Sampson",
+            "Bo Derek"
+        ],
+        "votes": "9,413",
+        "gross": "$14.72M"
     },
     "19": {
         "name": "New York, New York",
@@ -167,8 +296,15 @@
         "runtime": "155 min",
         "genre": "Drama, Music, Musical",
         "description": "An egotistical saxophonist and a young singer meet on V-J Day and embark upon a strained and rocky romance, even as their careers begin a long, up-hill climb.",
-        "director": "",
-        "stars": []
+        "director": "Martin Scorsese",
+        "stars": [
+            "Liza Minnelli",
+            "Robert De Niro",
+            "Lionel Stander",
+            "Barry Primus"
+        ],
+        "votes": "16,066",
+        "gross": "$13.80M"
     },
     "20": {
         "name": "Rabid",
@@ -176,8 +312,15 @@
         "runtime": "91 min",
         "genre": "Horror, Sci-Fi",
         "description": "A young woman develops a taste for human blood after undergoing experimental plastic surgery, and her victims turn into rabid, blood-thirsty zombies who proceed to infect others, which turns into a city-wide epidemic.",
-        "director": "",
-        "stars": []
+        "director": "David Cronenberg",
+        "stars": [
+            "Marilyn Chambers",
+            "Frank Moore",
+            "Joe Silver",
+            "Howard Ryshpan"
+        ],
+        "votes": "13,394",
+        "gross": ""
     },
     "21": {
         "name": "3 Women",
@@ -185,8 +328,15 @@
         "runtime": "124 min",
         "genre": "Drama, Mystery, Thriller",
         "description": "Two roommates/physical therapists, one a vain woman and the other a mysterious teenager, share a bizarre relationship.",
-        "director": "",
-        "stars": []
+        "director": "Robert Altman",
+        "stars": [
+            "Shelley Duvall",
+            "Sissy Spacek",
+            "Janice Rule",
+            "Robert Fortier"
+        ],
+        "votes": "12,019",
+        "gross": ""
     },
     "22": {
         "name": "Capricorn One",
@@ -194,8 +344,15 @@
         "runtime": "123 min",
         "genre": "Action, Thriller",
         "description": "A NASA Mars mission won't work, and its funding is endangered, so they decide to fake it just this once. But then they have to keep the secret.",
-        "director": "",
-        "stars": []
+        "director": "Peter Hyams",
+        "stars": [
+            "Elliott Gould",
+            "James Brolin",
+            "Brenda Vaccaro",
+            "Sam Waterston"
+        ],
+        "votes": "18,376",
+        "gross": ""
     },
     "23": {
         "name": "Hausu",
@@ -203,8 +360,15 @@
         "runtime": "88 min",
         "genre": "Comedy, Horror",
         "description": "A schoolgirl and six of her classmates travel to her aunt's country home, which turns out to be haunted.",
-        "director": "",
-        "stars": []
+        "director": "Nobuhiko \u00d4bayashi",
+        "stars": [
+            "Kimiko Ikegami",
+            "Miki Jinbo",
+            "Kumiko Ohba",
+            "Ai Matsubara"
+        ],
+        "votes": "16,367",
+        "gross": ""
     },
     "24": {
         "name": "Bilitis",
@@ -212,8 +376,15 @@
         "runtime": "95 min",
         "genre": "Drama, Romance",
         "description": "A coming of age story centering on the exploits of a young girl during summer vacation.",
-        "director": "",
-        "stars": []
+        "director": "David Hamilton",
+        "stars": [
+            "Patti D'Arbanville",
+            "Mona Kristensen",
+            "Bernard Giraudeau",
+            "Mathieu Carri\u00e8re"
+        ],
+        "votes": "1,521",
+        "gross": ""
     },
     "25": {
         "name": "The Gauntlet",
@@ -221,8 +392,15 @@
         "runtime": "109 min",
         "genre": "Action, Crime, Thriller",
         "description": "A hard but mediocre cop is assigned to escort a prostitute into custody from Las Vegas to Phoenix, so that she can testify in a mob trial. But a lot of people are literally betting that they won't make it into town alive.",
-        "director": "",
-        "stars": []
+        "director": "Clint Eastwood",
+        "stars": [
+            "Clint Eastwood",
+            "Sondra Locke",
+            "Pat Hingle",
+            "William Prince"
+        ],
+        "votes": "19,001",
+        "gross": "$35.40M"
     },
     "26": {
         "name": "Pete's Dragon",
@@ -230,8 +408,15 @@
         "runtime": "128 min",
         "genre": "Animation, Adventure, Comedy",
         "description": "An orphan boy and his magical dragon come to town with his abusive adoptive parents in pursuit.",
-        "director": "",
-        "stars": []
+        "director": "Don Chaffey",
+        "stars": [
+            "Sean Marshall",
+            "Helen Reddy",
+            "Jim Dale",
+            "Mickey Rooney"
+        ],
+        "votes": "20,399",
+        "gross": "$40.10M"
     },
     "27": {
         "name": "Exorcist II: The Heretic",
@@ -239,8 +424,15 @@
         "runtime": "117 min",
         "genre": "Horror",
         "description": "A teenage girl once possessed by a demon finds that it still lurks within her. Meanwhile, a priest investigates the death of the girl's exorcist.",
-        "director": "",
-        "stars": []
+        "director": "John Boorman",
+        "stars": [
+            "Richard Burton",
+            "Linda Blair",
+            "Louise Fletcher",
+            "Max von Sydow"
+        ],
+        "votes": "19,530",
+        "gross": "$30.75M"
     },
     "28": {
         "name": "The Island of Dr. Moreau",
@@ -248,8 +440,15 @@
         "runtime": "99 min",
         "genre": "Adventure, Fantasy, Horror",
         "description": "A shipwrecked survivor discovers a remote island owned by a crazed scientist who is carrying out sinister experiments on the island's inhabitants.",
-        "director": "",
-        "stars": []
+        "director": "Don Taylor",
+        "stars": [
+            "Burt Lancaster",
+            "Michael York",
+            "Nigel Davenport",
+            "Barbara Carrera"
+        ],
+        "votes": "5,026",
+        "gross": "$8.00M"
     },
     "29": {
         "name": "Cross of Iron",
@@ -257,8 +456,15 @@
         "runtime": "119 min",
         "genre": "Drama, War",
         "description": "A German commander places a squad in extreme danger after its Sergeant refuses to lie for him.",
-        "director": "",
-        "stars": []
+        "director": "Sam Peckinpah",
+        "stars": [
+            "James Coburn",
+            "Maximilian Schell",
+            "James Mason",
+            "David Warner"
+        ],
+        "votes": "23,299",
+        "gross": ""
     },
     "30": {
         "name": "Looking for Mr. Goodbar",
@@ -266,8 +472,15 @@
         "runtime": "136 min",
         "genre": "Drama",
         "description": "A dedicated schoolteacher spends her nights cruising bars, looking for abusive men with whom she can engage in progressively violent sexual encounters.",
-        "director": "",
-        "stars": []
+        "director": "Richard Brooks",
+        "stars": [
+            "Diane Keaton",
+            "Richard Gere",
+            "Tuesday Weld",
+            "William Atherton"
+        ],
+        "votes": "6,109",
+        "gross": "$16.90M"
     },
     "31": {
         "name": "That Obscure Object of Desire",
@@ -275,8 +488,15 @@
         "runtime": "103 min",
         "genre": "Comedy, Drama",
         "description": "Recounted in flashback are the romantic perils of Mathieu, a middle-aged French sophisticate as he falls for his nineteen year-old former chambermaid Conchita.",
-        "director": "",
-        "stars": []
+        "director": "Luis Bu\u00f1uel",
+        "stars": [
+            "Fernando Rey",
+            "Carole Bouquet",
+            "\u00c1ngela Molina",
+            "Julien Bertheau"
+        ],
+        "votes": "18,127",
+        "gross": "$0.06M"
     },
     "32": {
         "name": "The Sentinel",
@@ -284,8 +504,15 @@
         "runtime": "92 min",
         "genre": "Horror",
         "description": "Not ready for marriage, a fashion model moves into an unbelievably cheap Brooklyn Heights apartment, where weird occurrences turn into a much more frightening turn of events.",
-        "director": "",
-        "stars": []
+        "director": "Michael Winner",
+        "stars": [
+            "Cristina Raines",
+            "Ava Gardner",
+            "Chris Sarandon",
+            "Martin Balsam"
+        ],
+        "votes": "8,053",
+        "gross": ""
     },
     "33": {
         "name": "Jabberwocky",
@@ -293,8 +520,15 @@
         "runtime": "105 min",
         "genre": "Adventure, Comedy, Fantasy",
         "description": "A young peasant, with no interest in adventure or fortune, is mistaken as the kingdom's only hope when a horrible monster threatens the countryside.",
-        "director": "",
-        "stars": []
+        "director": "Terry Gilliam",
+        "stars": [
+            "Michael Palin",
+            "Harry H. Corbett",
+            "John Le Mesurier",
+            "Warren Mitchell"
+        ],
+        "votes": "11,871",
+        "gross": ""
     },
     "34": {
         "name": "Julia",
@@ -302,8 +536,15 @@
         "runtime": "117 min",
         "genre": "Drama",
         "description": "At the behest of an old and dear friend, playwright Lillian Hellman undertakes a dangerous mission to smuggle funds into Nazi Germany.",
-        "director": "",
-        "stars": []
+        "director": "Fred Zinnemann",
+        "stars": [
+            "Jane Fonda",
+            "Vanessa Redgrave",
+            "Jason Robards",
+            "Maximilian Schell"
+        ],
+        "votes": "8,023",
+        "gross": ""
     },
     "35": {
         "name": "Wizards",
@@ -311,8 +552,15 @@
         "runtime": "80 min",
         "genre": "Animation, Adventure, Fantasy",
         "description": "On a post-apocalyptic Earth, a wizard and his faire folk comrades fight an evil wizard who's using technology in his bid for conquest.",
-        "director": "",
-        "stars": []
+        "director": "Ralph Bakshi",
+        "stars": [
+            "Bob Holt",
+            "Jesse Welles",
+            "Richard Romanus",
+            "David Proval"
+        ],
+        "votes": "9,097",
+        "gross": "$9.00M"
     },
     "36": {
         "name": "Damnation Alley",
@@ -320,8 +568,15 @@
         "runtime": "91 min",
         "genre": "Sci-Fi",
         "description": "In a post-apocalyptic world, a group of survivors travel and find other settlements in huge custom designed all terrain vehicles.",
-        "director": "",
-        "stars": []
+        "director": "Jack Smight",
+        "stars": [
+            "Jan-Michael Vincent",
+            "George Peppard",
+            "Dominique Sanda",
+            "Paul Winfield"
+        ],
+        "votes": "4,461",
+        "gross": "$8.72M"
     },
     "37": {
         "name": "The Goodbye Girl",
@@ -329,8 +584,15 @@
         "runtime": "111 min",
         "genre": "Comedy, Drama, Romance",
         "description": "After being dumped by her live-in boyfriend, an unemployed dancer and her 10-year-old daughter are reluctantly forced to live with a struggling off-Broadway actor.",
-        "director": "",
-        "stars": []
+        "director": "Herbert Ross",
+        "stars": [
+            "Richard Dreyfuss",
+            "Marsha Mason",
+            "Quinn Cummings",
+            "Paul Benedict"
+        ],
+        "votes": "11,318",
+        "gross": "$102.00M"
     },
     "38": {
         "name": "The White Buffalo",
@@ -338,8 +600,15 @@
         "runtime": "97 min",
         "genre": "Action, Adventure, Western",
         "description": "At the closing of 1874 a haunted, dying Wild Bill Hickcock teams up with a grieving Crazy Horse to hunt a murderous albino buffalo.",
-        "director": "",
-        "stars": []
+        "director": "J. Lee Thompson",
+        "stars": [
+            "Charles Bronson",
+            "Jack Warden",
+            "Will Sampson",
+            "Kim Novak"
+        ],
+        "votes": "3,451",
+        "gross": ""
     },
     "39": {
         "name": "The Duellists",
@@ -347,8 +616,15 @@
         "runtime": "100 min",
         "genre": "Drama, War",
         "description": "A small feud between two Napoleonic officers evolves into a decades-long series of duels.",
-        "director": "",
-        "stars": []
+        "director": "Ridley Scott",
+        "stars": [
+            "Keith Carradine",
+            "Harvey Keitel",
+            "Albert Finney",
+            "Edward Fox"
+        ],
+        "votes": "17,513",
+        "gross": ""
     },
     "40": {
         "name": "Emanuelle and the Last Cannibals",
@@ -356,8 +632,15 @@
         "runtime": "85 min",
         "genre": "Adventure, Horror",
         "description": "A hedonistic photojournalist and an anthropologist traverse the Amazon Jungle to unearth the origins behind a mysterious woman, reputed to have been raised by a cannibal tribe.",
-        "director": "",
-        "stars": []
+        "director": "Joe D'Amato",
+        "stars": [
+            "Laura Gemser",
+            "Gabriele Tinti",
+            "Nieves Navarro",
+            "Donald O'Brien"
+        ],
+        "votes": "2,278",
+        "gross": ""
     },
     "41": {
         "name": "Valentino",
@@ -365,8 +648,15 @@
         "runtime": "128 min",
         "genre": "Biography, Drama",
         "description": "In 1926 the tragic and untimely death of a silent screen actor caused female moviegoers to riot in the streets and in some cases to commit suicide - that actor was Rudolph Valentino. ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Ken Russell",
+        "stars": [
+            "Rudolf Nureyev",
+            "Leslie Caron",
+            "Michelle Phillips",
+            "Carol Kane"
+        ],
+        "votes": "1,482",
+        "gross": ""
     },
     "42": {
         "name": "Jungle Holocaust",
@@ -374,8 +664,15 @@
         "runtime": "88 min",
         "genre": "Adventure, Horror",
         "description": "An oil prospector escapes from capture by a primitive cannibal tribe in the Philippine rain forest and heads out to locate his missing companion and their plane to return home.",
-        "director": "",
-        "stars": []
+        "director": "Ruggero Deodato",
+        "stars": [
+            "Massimo Foschi",
+            "Me Me Lai",
+            "Ivan Rassimov",
+            "Sheik Razak Shikur"
+        ],
+        "votes": "2,921",
+        "gross": ""
     },
     "43": {
         "name": "Demon Seed",
@@ -383,8 +680,15 @@
         "runtime": "94 min",
         "genre": "Horror, Sci-Fi",
         "description": "A scientist creates Proteus--an organic super computer with artificial intelligence which becomes obsessed with human beings, and in particular the creators wife.",
-        "director": "",
-        "stars": []
+        "director": "Donald Cammell",
+        "stars": [
+            "Julie Christie",
+            "Fritz Weaver",
+            "Gerrit Graham",
+            "Berry Kroeger"
+        ],
+        "votes": "7,244",
+        "gross": ""
     },
     "44": {
         "name": "The American Friend",
@@ -392,8 +696,15 @@
         "runtime": "125 min",
         "genre": "Crime, Drama, Mystery",
         "description": "Tom Ripley, who deals in forged art, suggests a picture framer he knows would make a good hit man.",
-        "director": "",
-        "stars": []
+        "director": "Wim Wenders",
+        "stars": [
+            "Dennis Hopper",
+            "Bruno Ganz",
+            "Lisa Kreuzer",
+            "G\u00e9rard Blain"
+        ],
+        "votes": "11,724",
+        "gross": ""
     },
     "45": {
         "name": "Maladolescenza",
@@ -401,8 +712,14 @@
         "runtime": "93 min",
         "genre": "Drama, Romance",
         "description": "A teen boy grows from playing and fighting with his German-shepherd dog, to playing kids and adult games with two equally young girls, in a dream-like forest which eventually turns eerie, and somber.",
-        "director": "",
-        "stars": []
+        "director": "Pier Giuseppe Murgia",
+        "stars": [
+            "Lara Wendel",
+            "Eva Ionesco",
+            "Martin Loeb"
+        ],
+        "votes": "1,607",
+        "gross": ""
     },
     "46": {
         "name": "High Anxiety",
@@ -410,8 +727,15 @@
         "runtime": "94 min",
         "genre": "Comedy, Mystery",
         "description": "Mel Brooks' parody of Alfred Hitchcock films.",
-        "director": "",
-        "stars": []
+        "director": "Mel Brooks",
+        "stars": [
+            "Mel Brooks",
+            "Madeline Kahn",
+            "Cloris Leachman",
+            "Harvey Korman"
+        ],
+        "votes": "18,102",
+        "gross": "$31.06M"
     },
     "47": {
         "name": "Airport '77",
@@ -419,8 +743,15 @@
         "runtime": "114 min",
         "genre": "Action, Drama, Thriller",
         "description": "Art thieves hijack a 747, hit fog and crash into the ocean, trapping them and the passengers under one hundred feet of water.",
-        "director": "",
-        "stars": []
+        "director": "Jerry Jameson",
+        "stars": [
+            "Jack Lemmon",
+            "Lee Grant",
+            "Joseph Cotten",
+            "Olivia de Havilland"
+        ],
+        "votes": "8,591",
+        "gross": "$30.00M"
     },
     "48": {
         "name": "Voodoo Passion",
@@ -428,8 +759,15 @@
         "runtime": "89 min",
         "genre": "Crime, Drama",
         "description": "Susan arrives in Haiti to live with her husband Jack, who lives with a lesbian housekeeper and Olga, a nymphomaniac platinum blonde, introduced to her as Jack's sister. Susan begins to have...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Jes\u00fas Franco",
+        "stars": [
+            "Vicky Adams",
+            "Muriel Montoss\u00e9",
+            "Ada Tauler",
+            "Karine Gambier"
+        ],
+        "votes": "493",
+        "gross": ""
     },
     "49": {
         "name": "Sinbad and the Eye of the Tiger",
@@ -437,8 +775,15 @@
         "runtime": "113 min",
         "genre": "Action, Adventure, Family",
         "description": "Sinbad The Sailor sails to deliver a cursed prince to a dangerous island in the face of deadly opposition from a powerful witch.",
-        "director": "",
-        "stars": []
+        "director": "Sam Wanamaker",
+        "stars": [
+            "Patrick Wayne",
+            "Jane Seymour",
+            "Taryn Power",
+            "Margaret Whiting"
+        ],
+        "votes": "6,047",
+        "gross": ""
     },
     "50": {
         "name": "Rolling Thunder",
@@ -446,7 +791,14 @@
         "runtime": "95 min",
         "genre": "Crime, Drama, Thriller",
         "description": "A returning war veteran loses his family to a violent home invasion and decides to seek and retaliate against those responsible.",
-        "director": "",
-        "stars": []
+        "director": "John Flynn",
+        "stars": [
+            "William Devane",
+            "Tommy Lee Jones",
+            "Linda Haynes",
+            "James Best"
+        ],
+        "votes": "6,586",
+        "gross": ""
     }
 }

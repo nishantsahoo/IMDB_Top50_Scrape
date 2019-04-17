@@ -5,8 +5,15 @@
         "runtime": "101 min",
         "genre": "Crime, Film-Noir, Thriller",
         "description": "A psychopath forces a tennis star to comply with his theory that two strangers can get away with murder.",
-        "director": "",
-        "stars": []
+        "director": "Alfred Hitchcock",
+        "stars": [
+            "Farley Granger",
+            "Robert Walker",
+            "Ruth Roman",
+            "Leo G. Carroll"
+        ],
+        "votes": "113,481",
+        "gross": "$7.63M"
     },
     "2": {
         "name": "A Streetcar Named Desire",
@@ -14,8 +21,15 @@
         "runtime": "122 min",
         "genre": "Drama",
         "description": "Disturbed Blanche DuBois moves in with her sister in New Orleans and is tormented by her brutish brother-in-law while her reality crumbles around her.",
-        "director": "",
-        "stars": []
+        "director": "Elia Kazan",
+        "stars": [
+            "Vivien Leigh",
+            "Marlon Brando",
+            "Kim Hunter",
+            "Karl Malden"
+        ],
+        "votes": "90,982",
+        "gross": "$8.00M"
     },
     "3": {
         "name": "Payment on Demand",
@@ -23,8 +37,15 @@
         "runtime": "90 min",
         "genre": "Drama",
         "description": "The film is about divorce but with flashbacks as to why divorce occurs.",
-        "director": "",
-        "stars": []
+        "director": "Curtis Bernhardt",
+        "stars": [
+            "Bette Davis",
+            "Barry Sullivan",
+            "Jane Cowl",
+            "Kent Taylor"
+        ],
+        "votes": "1,213",
+        "gross": ""
     },
     "4": {
         "name": "Alice in Wonderland",
@@ -32,8 +53,17 @@
         "runtime": "75 min",
         "genre": "Animation, Adventure, Family",
         "description": "Alice stumbles into the world of Wonderland. Will she get home? Not if the Queen of Hearts has her way.",
-        "director": "",
-        "stars": []
+        "director": "Clyde Geronimi",
+        "stars": [
+            "Wilfred Jackson",
+            "Hamilton Luske",
+            "Kathryn Beaumont",
+            "Ed Wynn",
+            "Richard Haydn",
+            "Sterling Holloway"
+        ],
+        "votes": "115,353",
+        "gross": ""
     },
     "5": {
         "name": "The Thing from Another World",
@@ -41,8 +71,16 @@
         "runtime": "87 min",
         "genre": "Horror, Sci-Fi",
         "description": "Scientists and American Air Force officials fend off a bloodthirsty alien organism while at a remote arctic outpost.",
-        "director": "",
-        "stars": []
+        "director": "Christian Nyby",
+        "stars": [
+            "Howard Hawks",
+            "Kenneth Tobey",
+            "Margaret Sheridan",
+            "James Arness",
+            "Robert Cornthwaite"
+        ],
+        "votes": "22,744",
+        "gross": ""
     },
     "6": {
         "name": "The Day the Earth Stood Still",
@@ -50,8 +88,15 @@
         "runtime": "92 min",
         "genre": "Drama, Sci-Fi",
         "description": "An alien lands and tells the people of Earth that they must live peacefully or be destroyed as a danger to other planets.",
-        "director": "",
-        "stars": []
+        "director": "Robert Wise",
+        "stars": [
+            "Michael Rennie",
+            "Patricia Neal",
+            "Hugh Marlowe",
+            "Sam Jaffe"
+        ],
+        "votes": "71,843",
+        "gross": ""
     },
     "7": {
         "name": "Westward the Women",
@@ -59,8 +104,15 @@
         "runtime": "118 min",
         "genre": "Drama, Western",
         "description": "A trail guide escorts a group of women from Chicago to California to marry men that have recently began settling there.",
-        "director": "",
-        "stars": []
+        "director": "William A. Wellman",
+        "stars": [
+            "Robert Taylor",
+            "Denise Darcel",
+            "Hope Emerson",
+            "John McIntire"
+        ],
+        "votes": "2,437",
+        "gross": ""
     },
     "8": {
         "name": "Quo Vadis",
@@ -68,8 +120,16 @@
         "runtime": "171 min",
         "genre": "Biography, Drama, History",
         "description": "Fierce Roman commander Marcus Vinicius becomes infatuated with beautiful Christian hostage Lygia and begins questioning the tyrannical leadership of the despot Emperor Nero.",
-        "director": "",
-        "stars": []
+        "director": "Mervyn LeRoy",
+        "stars": [
+            "Anthony Mann",
+            "Robert Taylor",
+            "Deborah Kerr",
+            "Leo Genn",
+            "Peter Ustinov"
+        ],
+        "votes": "12,107",
+        "gross": "$24.29M"
     },
     "9": {
         "name": "The African Queen",
@@ -77,8 +137,15 @@
         "runtime": "105 min",
         "genre": "Adventure, Drama, Romance",
         "description": "In Africa during World War I, a gin-swilling riverboat captain is persuaded by a strait-laced missionary to use his boat to attack an enemy warship.",
-        "director": "",
-        "stars": []
+        "director": "John Huston",
+        "stars": [
+            "Humphrey Bogart",
+            "Katharine Hepburn",
+            "Robert Morley",
+            "Peter Bull"
+        ],
+        "votes": "66,088",
+        "gross": "$0.54M"
     },
     "10": {
         "name": "David and Bathsheba",
@@ -86,8 +153,15 @@
         "runtime": "116 min",
         "genre": "Drama, History, Romance",
         "description": "After King David sees the beautiful Bathsheba bathing from the palace roof, he enters into an adulterous affair which has tragic consequences for his family and Israel.",
-        "director": "",
-        "stars": []
+        "director": "Henry King",
+        "stars": [
+            "Gregory Peck",
+            "Susan Hayward",
+            "Raymond Massey",
+            "Kieron Moore"
+        ],
+        "votes": "1,817",
+        "gross": ""
     },
     "11": {
         "name": "Ace in the Hole",
@@ -95,8 +169,15 @@
         "runtime": "111 min",
         "genre": "Drama, Film-Noir",
         "description": "A frustrated former big-city journalist now stuck working for an Albuquerque newspaper exploits a story about a man trapped in a cave to re-jump start his career, but the situation quickly escalates into an out-of-control circus.",
-        "director": "",
-        "stars": []
+        "director": "Billy Wilder",
+        "stars": [
+            "Kirk Douglas",
+            "Jan Sterling",
+            "Robert Arthur",
+            "Porter Hall"
+        ],
+        "votes": "24,161",
+        "gross": "$3.97M"
     },
     "12": {
         "name": "Goodbye, My Fancy",
@@ -104,8 +185,15 @@
         "runtime": "107 min",
         "genre": "Comedy, Romance",
         "description": "Congresswoman Agatha Reed returns to her alma mater for homecoming, although she's more interested in renewing her romance with an old flame who's now the college president. Their attempts ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Vincent Sherman",
+        "stars": [
+            "Joan Crawford",
+            "Robert Young",
+            "Frank Lovejoy",
+            "Eve Arden"
+        ],
+        "votes": "562",
+        "gross": "$1.13M"
     },
     "13": {
         "name": "Native Son",
@@ -113,8 +201,15 @@
         "runtime": "91 min",
         "genre": "Drama",
         "description": "In 1940s Chicago, a young black man takes a job as a chauffeur to a white family, which takes a turn for the worse when he accidentally kills the teenage daughter of the couple and then tries to cover it up.",
-        "director": "",
-        "stars": []
+        "director": "Pierre Chenal",
+        "stars": [
+            "Richard Wright",
+            "Jean Wallace",
+            "Nicholas Joy",
+            "Gloria Madison"
+        ],
+        "votes": "87",
+        "gross": ""
     },
     "14": {
         "name": "An American in Paris",
@@ -122,8 +217,15 @@
         "runtime": "114 min",
         "genre": "Drama, Musical, Romance",
         "description": "Three friends struggle to find work in Paris. Things become more complicated when two of them fall in love with the same woman.",
-        "director": "",
-        "stars": []
+        "director": "Vincente Minnelli",
+        "stars": [
+            "Gene Kelly",
+            "Leslie Caron",
+            "Oscar Levant",
+            "Georges Gu\u00e9tary"
+        ],
+        "votes": "27,189",
+        "gross": "$4.50M"
     },
     "15": {
         "name": "A Place in the Sun",
@@ -131,8 +233,15 @@
         "runtime": "122 min",
         "genre": "Drama, Romance",
         "description": "A poor boy gets a job working for his rich uncle and ends up falling in love with two women.",
-        "director": "",
-        "stars": []
+        "director": "George Stevens",
+        "stars": [
+            "Montgomery Clift",
+            "Elizabeth Taylor",
+            "Shelley Winters",
+            "Anne Revere"
+        ],
+        "votes": "17,928",
+        "gross": ""
     },
     "16": {
         "name": "The Son of Dr. Jekyll",
@@ -140,8 +249,15 @@
         "runtime": "78 min",
         "genre": "Crime, Horror, Romance",
         "description": "Edward Jekyll, ignorant of how his father had brought forth death and destruction with his experiments, is pursuing a chemist career despite the fact that he has been discharged from school...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Seymour Friedman",
+        "stars": [
+            "Louis Hayward",
+            "Jody Lawrance",
+            "Alexander Knox",
+            "Lester Matthews"
+        ],
+        "votes": "207",
+        "gross": ""
     },
     "17": {
         "name": "Utopia",
@@ -149,8 +265,18 @@
         "runtime": "82 min",
         "genre": "Comedy",
         "description": "Stan inherits a yacht and a South Pacific island. Ollie and Stan sail there with 2 other men. They shipwreck on a new atoll and settle there. An ex-fiancee joins them. They declare an independent nation and problems arise.",
-        "director": "",
-        "stars": []
+        "director": "L\u00e9o Joannon",
+        "stars": [
+            "John Berry",
+            "Alfred J. Goulding",
+            "Tim Whelan",
+            "Stan Laurel",
+            "Oliver Hardy",
+            "Suzy Delair",
+            "Max Elloy"
+        ],
+        "votes": "1,551",
+        "gross": ""
     },
     "18": {
         "name": "On Dangerous Ground",
@@ -158,8 +284,16 @@
         "runtime": "82 min",
         "genre": "Drama, Film-Noir",
         "description": "Rough city cop Jim Wilson is disciplined by his captain and is sent upstate, to a snowy mountain town, to help the local sheriff solve a murder case.",
-        "director": "",
-        "stars": []
+        "director": "Nicholas Ray",
+        "stars": [
+            "Ida Lupino",
+            "Ida Lupino",
+            "Robert Ryan",
+            "Ward Bond",
+            "Charles Kemper"
+        ],
+        "votes": "5,346",
+        "gross": ""
     },
     "19": {
         "name": "Sirocco",
@@ -167,8 +301,15 @@
         "runtime": "98 min",
         "genre": "Action, Drama, Film-Noir",
         "description": "A cynical American expatriate gets involved in smuggling and gun-running for the rebels during the 1925 Syrian insurgency against French occupation.",
-        "director": "",
-        "stars": []
+        "director": "Curtis Bernhardt",
+        "stars": [
+            "Humphrey Bogart",
+            "Lee J. Cobb",
+            "M\u00e4rta Tor\u00e9n",
+            "Everett Sloane"
+        ],
+        "votes": "1,671",
+        "gross": ""
     },
     "20": {
         "name": "Man in the Saddle",
@@ -176,8 +317,15 @@
         "runtime": "87 min",
         "genre": "Romance, Western",
         "description": "A private deadly feud ensues when ruthless wealthy rancher Will Isham attempts a takeover of small rancher Owen Merritt's land and marries Owen's old flame, Laure Bidwell.",
-        "director": "",
-        "stars": []
+        "director": "Andr\u00e9 De Toth",
+        "stars": [
+            "Randolph Scott",
+            "Joan Leslie",
+            "Ellen Drew",
+            "Alexander Knox"
+        ],
+        "votes": "905",
+        "gross": ""
     },
     "21": {
         "name": "Show Boat",
@@ -185,8 +333,15 @@
         "runtime": "108 min",
         "genre": "Drama, Family, Musical",
         "description": "The daughter of a riverboat captain falls in love with a charming gambler, but their fairytale romance is threatened when his luck turns sour.",
-        "director": "",
-        "stars": []
+        "director": "George Sidney",
+        "stars": [
+            "Kathryn Grayson",
+            "Ava Gardner",
+            "Howard Keel",
+            "Joe E. Brown"
+        ],
+        "votes": "4,109",
+        "gross": ""
     },
     "22": {
         "name": "Red Mountain",
@@ -194,8 +349,16 @@
         "runtime": "84 min",
         "genre": "Drama, Western",
         "description": "In 1865 Confederate Capt. Sherwood is heading to Colorado where Confederate Gen. Quantrill is stirring up rebellion using various Indian Nations.",
-        "director": "",
-        "stars": []
+        "director": "William Dieterle",
+        "stars": [
+            "John Farrow",
+            "Alan Ladd",
+            "Lizabeth Scott",
+            "Arthur Kennedy",
+            "John Ireland"
+        ],
+        "votes": "307",
+        "gross": ""
     },
     "23": {
         "name": "A Christmas Carol",
@@ -203,8 +366,15 @@
         "runtime": "86 min",
         "genre": "Drama, Fantasy",
         "description": "An old bitter miser is given a chance for redemption when he is haunted by three ghosts on Christmas Eve...",
-        "director": "",
-        "stars": []
+        "director": "Brian Desmond Hurst",
+        "stars": [
+            "Alastair Sim",
+            "Jack Warner",
+            "Kathleen Harrison",
+            "Mervyn Johns"
+        ],
+        "votes": "18,028",
+        "gross": ""
     },
     "24": {
         "name": "Another Man's Poison",
@@ -212,8 +382,15 @@
         "runtime": "90 min",
         "genre": "Crime, Drama, Film-Noir",
         "description": "In an isolated house, mystery writer Janet Frobisher is involved in potentially murderous relationships.",
-        "director": "",
-        "stars": []
+        "director": "Irving Rapper",
+        "stars": [
+            "Bette Davis",
+            "Gary Merrill",
+            "Emlyn Williams",
+            "Anthony Steel"
+        ],
+        "votes": "1,875",
+        "gross": ""
     },
     "25": {
         "name": "When Worlds Collide",
@@ -221,8 +398,15 @@
         "runtime": "83 min",
         "genre": "Action, Sci-Fi, Thriller",
         "description": "As a new star and planet hurtle toward a doomed Earth, a small group of survivalists frantically work to complete the rocket which will take them to their new home.",
-        "director": "",
-        "stars": []
+        "director": "Rudolph Mat\u00e9",
+        "stars": [
+            "Richard Derr",
+            "Barbara Rush",
+            "Peter Hansen",
+            "John Hoyt"
+        ],
+        "votes": "6,253",
+        "gross": ""
     },
     "26": {
         "name": "Texas Carnival",
@@ -230,8 +414,15 @@
         "runtime": "77 min",
         "genre": "Comedy, Music, Romance",
         "description": "A showmen team is mistaken for a cattle baron and his sister.",
-        "director": "",
-        "stars": []
+        "director": "Charles Walters",
+        "stars": [
+            "Esther Williams",
+            "Red Skelton",
+            "Howard Keel",
+            "Ann Miller"
+        ],
+        "votes": "381",
+        "gross": ""
     },
     "27": {
         "name": "The Prowler",
@@ -239,8 +430,15 @@
         "runtime": "92 min",
         "genre": "Drama, Film-Noir, Thriller",
         "description": "When Susan Gilvray reports a prowler outside her house police officer Webb Garwood investigates and sparks fly. If only her husband wasn't in the way.",
-        "director": "",
-        "stars": []
+        "director": "Joseph Losey",
+        "stars": [
+            "Van Heflin",
+            "Evelyn Keyes",
+            "John Maxwell",
+            "Katherine Warren"
+        ],
+        "votes": "2,507",
+        "gross": ""
     },
     "28": {
         "name": "Along the Great Divide",
@@ -248,8 +446,15 @@
         "runtime": "88 min",
         "genre": "Adventure, Romance, Western",
         "description": "A U.S. Marshall and two deputies rescue a cattle rustler from a lynch mob led by a local cattle baron convinced that the rustler also killed his son.",
-        "director": "",
-        "stars": []
+        "director": "Raoul Walsh",
+        "stars": [
+            "Kirk Douglas",
+            "Virginia Mayo",
+            "John Agar",
+            "Walter Brennan"
+        ],
+        "votes": "1,429",
+        "gross": ""
     },
     "29": {
         "name": "Captain Horatio Hornblower R.N.",
@@ -257,8 +462,15 @@
         "runtime": "117 min",
         "genre": "Action, Adventure, Drama",
         "description": "During the Napoleonic wars, a British Navy Captain has adventures in Central American waters.",
-        "director": "",
-        "stars": []
+        "director": "Raoul Walsh",
+        "stars": [
+            "Gregory Peck",
+            "Virginia Mayo",
+            "Robert Beatty",
+            "Moultrie Kelsall"
+        ],
+        "votes": "5,586",
+        "gross": ""
     },
     "30": {
         "name": "The Lavender Hill Mob",
@@ -266,8 +478,15 @@
         "runtime": "78 min",
         "genre": "Comedy, Crime",
         "description": "A meek bank clerk who oversees the shipment of bullion joins with an eccentric neighbor to steal gold bars and smuggle them out of the country as miniature Eiffel Towers.",
-        "director": "",
-        "stars": []
+        "director": "Charles Crichton",
+        "stars": [
+            "Alec Guinness",
+            "Stanley Holloway",
+            "Sidney James",
+            "Alfie Bass"
+        ],
+        "votes": "11,318",
+        "gross": ""
     },
     "31": {
         "name": "Vengeance Valley",
@@ -275,8 +494,15 @@
         "runtime": "83 min",
         "genre": "Western",
         "description": "The sons of a Colorado cattle baron, one biological and the other adopted, resent one another and fight for control of their father's cattle empire.",
-        "director": "",
-        "stars": []
+        "director": "Richard Thorpe",
+        "stars": [
+            "Burt Lancaster",
+            "Robert Walker",
+            "Joanne Dru",
+            "Sally Forrest"
+        ],
+        "votes": "1,693",
+        "gross": ""
     },
     "32": {
         "name": "Royal Wedding",
@@ -284,8 +510,15 @@
         "runtime": "93 min",
         "genre": "Comedy, Musical, Romance",
         "description": "A brother and sister dance act encounter challenges and romance when booked in London during the Royal Wedding.",
-        "director": "",
-        "stars": []
+        "director": "Stanley Donen",
+        "stars": [
+            "Fred Astaire",
+            "Jane Powell",
+            "Peter Lawford",
+            "Sarah Churchill"
+        ],
+        "votes": "4,251",
+        "gross": ""
     },
     "33": {
         "name": "M",
@@ -293,8 +526,15 @@
         "runtime": "88 min",
         "genre": "Drama, Film-Noir, Thriller",
         "description": "In this Americanization of the 1931 German thriller, both the police and the criminal underworld stalk a mysterious killer who preys on small children.",
-        "director": "",
-        "stars": []
+        "director": "Joseph Losey",
+        "stars": [
+            "David Wayne",
+            "Howard Da Silva",
+            "Martin Gabel",
+            "Luther Adler"
+        ],
+        "votes": "1,246",
+        "gross": ""
     },
     "34": {
         "name": "Diary of a Country Priest",
@@ -302,8 +542,15 @@
         "runtime": "95 min",
         "genre": "Drama",
         "description": "A young priest taking over the parish at Ambricourt tries to fulfill his duties even as he fights a mysterious stomach ailment.",
-        "director": "",
-        "stars": []
+        "director": "Robert Bresson",
+        "stars": [
+            "Claude Laydu",
+            "Nicole Ladmiral",
+            "Jean Riveyre",
+            "Adrien Borel"
+        ],
+        "votes": "8,317",
+        "gross": ""
     },
     "35": {
         "name": "Othello",
@@ -311,8 +558,15 @@
         "runtime": "90 min",
         "genre": "Drama, History, Romance",
         "description": "The Moorish General Othello is manipulated into thinking that his new wife Desdemona has been carrying on an affair with his Lieutenant Michael Cassio when in reality, it is all part of the scheme of a bitter Ensign named Iago.",
-        "director": "",
-        "stars": []
+        "director": "Orson Welles",
+        "stars": [
+            "Orson Welles",
+            "Miche\u00e1l MacLiamm\u00f3ir",
+            "Robert Coote",
+            "Suzanne Cloutier"
+        ],
+        "votes": "6,694",
+        "gross": ""
     },
     "36": {
         "name": "Best of the Badmen",
@@ -320,8 +574,15 @@
         "runtime": "84 min",
         "genre": "Western",
         "description": "The outlaws of the Clanton and Younger gangs are the heroes of this fictionalized biography.",
-        "director": "",
-        "stars": []
+        "director": "William D. Russell",
+        "stars": [
+            "Robert Ryan",
+            "Claire Trevor",
+            "Jack Buetel",
+            "Robert Preston"
+        ],
+        "votes": "475",
+        "gross": ""
     },
     "37": {
         "name": "The Man in the White Suit",
@@ -329,8 +590,15 @@
         "runtime": "85 min",
         "genre": "Comedy, Drama, Sci-Fi",
         "description": "An altruistic chemist invents a fabric which resists wear and stain as a boon to humanity, but big business and labor realize it must be suppressed for economic reasons.",
-        "director": "",
-        "stars": []
+        "director": "Alexander Mackendrick",
+        "stars": [
+            "Alec Guinness",
+            "Joan Greenwood",
+            "Cecil Parker",
+            "Michael Gough"
+        ],
+        "votes": "7,850",
+        "gross": "$0.01M"
     },
     "38": {
         "name": "His Kind of Woman",
@@ -338,8 +606,16 @@
         "runtime": "120 min",
         "genre": "Action, Crime, Film-Noir",
         "description": "A deported gangster's plan to re-enter the USA involves skulduggery at a Mexican resort, and gambler Dan Milner is caught in the middle.",
-        "director": "",
-        "stars": []
+        "director": "John Farrow",
+        "stars": [
+            "Richard Fleischer",
+            "Robert Mitchum",
+            "Jane Russell",
+            "Vincent Price",
+            "Tim Holt"
+        ],
+        "votes": "3,470",
+        "gross": ""
     },
     "39": {
         "name": "Early Summer",
@@ -347,8 +623,15 @@
         "runtime": "125 min",
         "genre": "Drama",
         "description": "A family chooses a match for their daughter Noriko, but she, surprisingly, has her own plans.",
-        "director": "",
-        "stars": []
+        "director": "Yasujir\u00f4 Ozu",
+        "stars": [
+            "Setsuko Hara",
+            "Chish\u00fb Ry\u00fb",
+            "Chikage Awashima",
+            "Kuniko Miyake"
+        ],
+        "votes": "6,088",
+        "gross": ""
     },
     "40": {
         "name": "The River",
@@ -356,8 +639,15 @@
         "runtime": "99 min",
         "genre": "Drama, Romance",
         "description": "Three adolescent girls growing up in Bengal, India, learn their lessons in life after falling for an older American soldier.",
-        "director": "",
-        "stars": []
+        "director": "Jean Renoir",
+        "stars": [
+            "Patricia Walters",
+            "Nora Swinburne",
+            "Esmond Knight",
+            "Arthur Shields"
+        ],
+        "votes": "4,992",
+        "gross": ""
     },
     "41": {
         "name": "Pandora and the Flying Dutchman",
@@ -365,8 +655,15 @@
         "runtime": "122 min",
         "genre": "Drama, Fantasy, Mystery",
         "description": "A seductive woman falls in love with a mysterious ship's captain.",
-        "director": "",
-        "stars": []
+        "director": "Albert Lewin",
+        "stars": [
+            "James Mason",
+            "Ava Gardner",
+            "Nigel Patrick",
+            "Sheila Sim"
+        ],
+        "votes": "2,732",
+        "gross": ""
     },
     "42": {
         "name": "No Highway in the Sky",
@@ -374,8 +671,15 @@
         "runtime": "98 min",
         "genre": "Drama, Thriller",
         "description": "An aeronautical engineer predicts that a new model of plane will fail catastrophically and in a novel manner after a specific number flying hours.",
-        "director": "",
-        "stars": []
+        "director": "Henry Koster",
+        "stars": [
+            "James Stewart",
+            "Marlene Dietrich",
+            "Glynis Johns",
+            "Jack Hawkins"
+        ],
+        "votes": "2,936",
+        "gross": ""
     },
     "43": {
         "name": "Detective Story",
@@ -383,8 +687,15 @@
         "runtime": "103 min",
         "genre": "Crime, Drama, Film-Noir",
         "description": "On one day in the 21st Precinct squad room, assorted characters form a backdrop for the troubles of hard-nosed Detective Jim McLeod.",
-        "director": "",
-        "stars": []
+        "director": "William Wyler",
+        "stars": [
+            "Kirk Douglas",
+            "Eleanor Parker",
+            "William Bendix",
+            "Cathy O'Donnell"
+        ],
+        "votes": "6,233",
+        "gross": ""
     },
     "44": {
         "name": "Valley of the Eagles",
@@ -392,8 +703,15 @@
         "runtime": "82 min",
         "genre": "Adventure, Drama",
         "description": "A Norwegian scientist builds a device that can convert sound waves into electrical energy. However, the machine is stolen by the scientist's wife and assistant, who head across the frozen ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Terence Young",
+        "stars": [
+            "Jack Warner",
+            "Nadia Gray",
+            "John McCallum",
+            "Anthony Dawson"
+        ],
+        "votes": "181",
+        "gross": ""
     },
     "45": {
         "name": "The Great Missouri Raid",
@@ -401,8 +719,15 @@
         "runtime": "84 min",
         "genre": "Western",
         "description": "In this Western, the James and Younger boys ride the outlaw trail again all because of a mean Union Army Major.",
-        "director": "",
-        "stars": []
+        "director": "Gordon Douglas",
+        "stars": [
+            "Wendell Corey",
+            "Macdonald Carey",
+            "Ellen Drew",
+            "Ward Bond"
+        ],
+        "votes": "175",
+        "gross": ""
     },
     "46": {
         "name": "Summer Interlude",
@@ -410,8 +735,15 @@
         "runtime": "96 min",
         "genre": "Drama, Romance",
         "description": "A lonely woman recalls her first love thirteen years prior during a brief summer vacation.",
-        "director": "",
-        "stars": []
+        "director": "Ingmar Bergman",
+        "stars": [
+            "Maj-Britt Nilsson",
+            "Birger Malmsten",
+            "Alf Kjellin",
+            "Annalisa Ericson"
+        ],
+        "votes": "4,345",
+        "gross": ""
     },
     "47": {
         "name": "People Will Talk",
@@ -419,8 +751,15 @@
         "runtime": "110 min",
         "genre": "Comedy, Drama, Romance",
         "description": "Dr. Noah Praetorius falls in love with Debra, a student who finds out that she is pregnant by her old boyfriend.",
-        "director": "",
-        "stars": []
+        "director": "Joseph L. Mankiewicz",
+        "stars": [
+            "Cary Grant",
+            "Jeanne Crain",
+            "Finlay Currie",
+            "Hume Cronyn"
+        ],
+        "votes": "5,103",
+        "gross": ""
     },
     "48": {
         "name": "Miracle in Milan",
@@ -428,8 +767,15 @@
         "runtime": "100 min",
         "genre": "Comedy, Drama, Fantasy",
         "description": "An open hearted and unrelentingly energetic orphan struggles to make the best out of his life on the streets of Milan.",
-        "director": "",
-        "stars": []
+        "director": "Vittorio De Sica",
+        "stars": [
+            "Emma Gramatica",
+            "Francesco Golisano",
+            "Paolo Stoppa",
+            "Guglielmo Barnab\u00f2"
+        ],
+        "votes": "5,341",
+        "gross": ""
     },
     "49": {
         "name": "Let's Make It Legal",
@@ -437,8 +783,15 @@
         "runtime": "77 min",
         "genre": "Comedy, Drama, Romance",
         "description": "The nearly-final divorce of the Halsworths suddenly gets complicated when Miriam's old flame comes to town.",
-        "director": "",
-        "stars": []
+        "director": "Richard Sale",
+        "stars": [
+            "Claudette Colbert",
+            "Macdonald Carey",
+            "Zachary Scott",
+            "Barbara Bates"
+        ],
+        "votes": "956",
+        "gross": ""
     },
     "50": {
         "name": "Distant Drums",
@@ -446,7 +799,14 @@
         "runtime": "101 min",
         "genre": "Action, Drama, Western",
         "description": "After destroying a Seminole fort, American soldiers and their rescued companions must face the dangerous Everglades and hostile Indians in order to reach safety.",
-        "director": "",
-        "stars": []
+        "director": "Raoul Walsh",
+        "stars": [
+            "Gary Cooper",
+            "Mari Aldon",
+            "Richard Webb",
+            "Ray Teal"
+        ],
+        "votes": "1,526",
+        "gross": ""
     }
 }

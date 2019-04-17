@@ -5,8 +5,15 @@
         "runtime": "136 min",
         "genre": "Drama",
         "description": "A promising lawyer tries to handle his social and professional problems while climbing the ranks in Philadelphia.",
-        "director": "",
-        "stars": []
+        "director": "Vincent Sherman",
+        "stars": [
+            "Paul Newman",
+            "Barbara Rush",
+            "Alexis Smith",
+            "Brian Keith"
+        ],
+        "votes": "2,820",
+        "gross": ""
     },
     "2": {
         "name": "Ben-Hur",
@@ -14,8 +21,15 @@
         "runtime": "212 min",
         "genre": "Adventure, Drama, History",
         "description": "When a Jewish prince is betrayed and sent into slavery by a Roman friend, he regains his freedom and comes back for revenge.",
-        "director": "",
-        "stars": []
+        "director": "William Wyler",
+        "stars": [
+            "Charlton Heston",
+            "Jack Hawkins",
+            "Stephen Boyd",
+            "Haya Harareet"
+        ],
+        "votes": "199,899",
+        "gross": "$74.70M"
     },
     "3": {
         "name": "Some Like It Hot",
@@ -23,8 +37,15 @@
         "runtime": "121 min",
         "genre": "Comedy, Romance",
         "description": "When two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.",
-        "director": "",
-        "stars": []
+        "director": "Billy Wilder",
+        "stars": [
+            "Marilyn Monroe",
+            "Tony Curtis",
+            "Jack Lemmon",
+            "George Raft"
+        ],
+        "votes": "217,757",
+        "gross": "$25.00M"
     },
     "4": {
         "name": "North by Northwest",
@@ -32,8 +53,15 @@
         "runtime": "136 min",
         "genre": "Adventure, Mystery, Thriller",
         "description": "A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies.",
-        "director": "",
-        "stars": []
+        "director": "Alfred Hitchcock",
+        "stars": [
+            "Cary Grant",
+            "Eva Marie Saint",
+            "James Mason",
+            "Jessie Royce Landis"
+        ],
+        "votes": "268,828",
+        "gross": "$13.28M"
     },
     "5": {
         "name": "Warlock",
@@ -41,8 +69,15 @@
         "runtime": "122 min",
         "genre": "Western",
         "description": "A famous gunman becomes the marshal of Warlock to end a gang's rampages, but is met with some opposition by a former gang member turned deputy sheriff who wants to follow only legal methods.",
-        "director": "",
-        "stars": []
+        "director": "Edward Dmytryk",
+        "stars": [
+            "Richard Widmark",
+            "Henry Fonda",
+            "Anthony Quinn",
+            "Dorothy Malone"
+        ],
+        "votes": "4,724",
+        "gross": "$3.71M"
     },
     "6": {
         "name": "Rio Bravo",
@@ -50,8 +85,15 @@
         "runtime": "141 min",
         "genre": "Action, Drama, Western",
         "description": "A small-town sheriff in the American West enlists the help of a cripple, a drunk, and a young gunfighter in his efforts to hold in jail the brother of the local bad guy.",
-        "director": "",
-        "stars": []
+        "director": "Howard Hawks",
+        "stars": [
+            "John Wayne",
+            "Dean Martin",
+            "Ricky Nelson",
+            "Angie Dickinson"
+        ],
+        "votes": "50,509",
+        "gross": "$12.54M"
     },
     "7": {
         "name": "The Horse Soldiers",
@@ -59,8 +101,15 @@
         "runtime": "120 min",
         "genre": "Adventure, Romance, War",
         "description": "In 1863, a Union outfit is sent behind Confederate lines in Mississippi to destroy enemy railroads but a captive southern belle and the unit's doctor cause frictions within ranks.",
-        "director": "",
-        "stars": []
+        "director": "John Ford",
+        "stars": [
+            "John Wayne",
+            "William Holden",
+            "Constance Towers",
+            "Judson Pratt"
+        ],
+        "votes": "8,366",
+        "gross": ""
     },
     "8": {
         "name": "Sleeping Beauty",
@@ -68,8 +117,15 @@
         "runtime": "75 min",
         "genre": "Animation, Family, Fantasy",
         "description": "After being snubbed by the royal family, a malevolent fairy places a curse on a princess which only a prince can break, along with the help of three good fairies.",
-        "director": "",
-        "stars": []
+        "director": "Clyde Geronimi",
+        "stars": [
+            "Mary Costa",
+            "Bill Shirley",
+            "Eleanor Audley",
+            "Verna Felton"
+        ],
+        "votes": "121,426",
+        "gross": "$51.60M"
     },
     "9": {
         "name": "The 400 Blows",
@@ -77,8 +133,15 @@
         "runtime": "99 min",
         "genre": "Crime, Drama",
         "description": "A young boy, left without attention, delves into a life of petty crime.",
-        "director": "",
-        "stars": []
+        "director": "Fran\u00e7ois Truffaut",
+        "stars": [
+            "Jean-Pierre L\u00e9aud",
+            "Albert R\u00e9my",
+            "Claire Maurier",
+            "Guy Decomble"
+        ],
+        "votes": "91,420",
+        "gross": ""
     },
     "10": {
         "name": "Journey to the Center of the Earth",
@@ -86,8 +149,15 @@
         "runtime": "132 min",
         "genre": "Adventure, Family, Fantasy",
         "description": "An Edinburgh professor and assorted colleagues follow an explorer's trail down an extinct Icelandic volcano to the earth's center.",
-        "director": "",
-        "stars": []
+        "director": "Henry Levin",
+        "stars": [
+            "James Mason",
+            "Pat Boone",
+            "Arlene Dahl",
+            "Diane Baker"
+        ],
+        "votes": "13,868",
+        "gross": "$10.00M"
     },
     "11": {
         "name": "Anatomy of a Murder",
@@ -95,8 +165,15 @@
         "runtime": "160 min",
         "genre": "Crime, Drama, Mystery",
         "description": "In a murder trial, the defendant says he suffered temporary insanity after the victim raped his wife. What is the truth, and will he win his case?",
-        "director": "",
-        "stars": []
+        "director": "Otto Preminger",
+        "stars": [
+            "James Stewart",
+            "Lee Remick",
+            "Ben Gazzara",
+            "Arthur O'Connell"
+        ],
+        "votes": "53,603",
+        "gross": "$11.90M"
     },
     "12": {
         "name": "Plan 9 from Outer Space",
@@ -104,8 +181,15 @@
         "runtime": "79 min",
         "genre": "Horror, Sci-Fi",
         "description": "Evil aliens attack Earth and set their terrible \"Plan 9\" in action. As the aliens resurrect the dead of the Earth to destroy the living, our lives are in danger.",
-        "director": "",
-        "stars": []
+        "director": "Edward D. Wood Jr.",
+        "stars": [
+            "Gregory Walcott",
+            "Tom Keene",
+            "Mona McKinnon",
+            "Duke Moore"
+        ],
+        "votes": "33,560",
+        "gross": ""
     },
     "13": {
         "name": "House on Haunted Hill",
@@ -113,8 +197,16 @@
         "runtime": "75 min",
         "genre": "Horror, Mystery",
         "description": "A millionaire offers $10,000 to five people who agree to be locked in a large, spooky, rented house overnight with him and his wife.",
-        "director": "",
-        "stars": []
+        "director": "William Castle",
+        "stars": [
+            "Rosemary Horvath",
+            "Vincent Price",
+            "Carol Ohmart",
+            "Richard Long",
+            "Alan Marshal"
+        ],
+        "votes": "20,114",
+        "gross": ""
     },
     "14": {
         "name": "Ride Lonesome",
@@ -122,8 +214,15 @@
         "runtime": "73 min",
         "genre": "Drama, Western",
         "description": "A bounty hunter escorts a killer to be tried for murder, but allows the man's outlaw brother to catch up with them to have a showdown over a previous shocking murder.",
-        "director": "",
-        "stars": []
+        "director": "Budd Boetticher",
+        "stars": [
+            "Randolph Scott",
+            "Karen Steele",
+            "Pernell Roberts",
+            "James Best"
+        ],
+        "votes": "3,859",
+        "gross": ""
     },
     "15": {
         "name": "Imitation of Life",
@@ -131,8 +230,15 @@
         "runtime": "125 min",
         "genre": "Drama",
         "description": "An aspiring actress befriends a black widow, but trouble arises when the latter is rejected by her daughter, who tries to pass for white.",
-        "director": "",
-        "stars": []
+        "director": "Douglas Sirk",
+        "stars": [
+            "Lana Turner",
+            "John Gavin",
+            "Sandra Dee",
+            "Susan Kohner"
+        ],
+        "votes": "13,218",
+        "gross": "$13.99M"
     },
     "16": {
         "name": "Four Desperate Men",
@@ -140,8 +246,15 @@
         "runtime": "100 min",
         "genre": "Action, Crime, Drama",
         "description": "An escaped prisoner is trying to clear his name.",
-        "director": "",
-        "stars": []
+        "director": "Harry Watt",
+        "stars": [
+            "Aldo Ray",
+            "Heather Sears",
+            "Neil McCallum",
+            "Victor Maddern"
+        ],
+        "votes": "141",
+        "gross": ""
     },
     "17": {
         "name": "The Diary of Anne Frank",
@@ -149,8 +262,15 @@
         "runtime": "180 min",
         "genre": "Biography, Drama, Family",
         "description": "During World War II, a teenage Jewish girl named Anne Frank and her family are forced into hiding in the Nazi-occupied Netherlands.",
-        "director": "",
-        "stars": []
+        "director": "George Stevens",
+        "stars": [
+            "Millie Perkins",
+            "Shelley Winters",
+            "Joseph Schildkraut",
+            "Richard Beymer"
+        ],
+        "votes": "10,965",
+        "gross": "$5.01M"
     },
     "18": {
         "name": "Suddenly, Last Summer",
@@ -158,8 +278,15 @@
         "runtime": "114 min",
         "genre": "Drama, Mystery, Thriller",
         "description": "The only son of wealthy widow Violet Venable dies while on vacation with his cousin Catherine. What the girl saw was so horrible that she went insane; now Mrs. Venable wants Catherine lobotomized to cover up the truth.",
-        "director": "",
-        "stars": []
+        "director": "Joseph L. Mankiewicz",
+        "stars": [
+            "Elizabeth Taylor",
+            "Katharine Hepburn",
+            "Montgomery Clift",
+            "Albert Dekker"
+        ],
+        "votes": "12,492",
+        "gross": "$13.90M"
     },
     "19": {
         "name": "On the Beach",
@@ -167,8 +294,15 @@
         "runtime": "134 min",
         "genre": "Drama, Romance, Sci-Fi",
         "description": "After a global nuclear war, the residents of Australia must come to terms with the fact that all life will be destroyed in a matter of months.",
-        "director": "",
-        "stars": []
+        "director": "Stanley Kramer",
+        "stars": [
+            "Gregory Peck",
+            "Ava Gardner",
+            "Fred Astaire",
+            "Anthony Perkins"
+        ],
+        "votes": "10,845",
+        "gross": "$11.00M"
     },
     "20": {
         "name": "Pillow Talk",
@@ -176,8 +310,15 @@
         "runtime": "102 min",
         "genre": "Comedy, Romance",
         "description": "A man and a woman who share a party line cannot stand each other, but he has fun romancing her with his voice disguised.",
-        "director": "",
-        "stars": []
+        "director": "Michael Gordon",
+        "stars": [
+            "Rock Hudson",
+            "Doris Day",
+            "Tony Randall",
+            "Thelma Ritter"
+        ],
+        "votes": "13,661",
+        "gross": "$18.75M"
     },
     "21": {
         "name": "Darby O'Gill and the Little People",
@@ -185,8 +326,15 @@
         "runtime": "93 min",
         "genre": "Adventure, Family, Fantasy",
         "description": "A wily old codger matches wits with the King of the Leprechauns and helps play matchmaker for his daughter and the strapping lad who has replaced him as caretaker.",
-        "director": "",
-        "stars": []
+        "director": "Robert Stevenson",
+        "stars": [
+            "Albert Sharpe",
+            "Janet Munro",
+            "Sean Connery",
+            "Jimmy O'Dea"
+        ],
+        "votes": "6,176",
+        "gross": ""
     },
     "22": {
         "name": "Hiroshima Mon Amour",
@@ -194,8 +342,15 @@
         "runtime": "90 min",
         "genre": "Drama, Romance",
         "description": "A French actress filming an anti-war film in Hiroshima has an affair with a married Japanese architect as they share their differing perspectives on war.",
-        "director": "",
-        "stars": []
+        "director": "Alain Resnais",
+        "stars": [
+            "Emmanuelle Riva",
+            "Eiji Okada",
+            "Stella Dassas",
+            "Pierre Barbaud"
+        ],
+        "votes": "24,561",
+        "gross": "$0.09M"
     },
     "23": {
         "name": "Operation Petticoat",
@@ -203,8 +358,15 @@
         "runtime": "124 min",
         "genre": "Comedy, Romance, War",
         "description": "During World War II, a commander finds himself stuck with a decrepit (and pink) submarine, a con man executive officer, and a group of army nurses.",
-        "director": "",
-        "stars": []
+        "director": "Blake Edwards",
+        "stars": [
+            "Cary Grant",
+            "Tony Curtis",
+            "Joan O'Brien",
+            "Dina Merrill"
+        ],
+        "votes": "11,133",
+        "gross": "$23.30M"
     },
     "24": {
         "name": "The Angry Red Planet",
@@ -212,8 +374,15 @@
         "runtime": "83 min",
         "genre": "Adventure, Sci-Fi",
         "description": "One of only two survivors from a Martian expedition is so traumatized she doesn't remember the circumstances of the trip.",
-        "director": "",
-        "stars": []
+        "director": "Ib Melchior",
+        "stars": [
+            "Gerald Mohr",
+            "Nora Hayden",
+            "Les Tremayne",
+            "Jack Kruschen"
+        ],
+        "votes": "2,544",
+        "gross": ""
     },
     "25": {
         "name": "Gidget",
@@ -221,8 +390,15 @@
         "runtime": "95 min",
         "genre": "Comedy",
         "description": "A young girl discovers surfing and love (in that order) during one transitive summer.",
-        "director": "",
-        "stars": []
+        "director": "Paul Wendkos",
+        "stars": [
+            "Sandra Dee",
+            "James Darren",
+            "Cliff Robertson",
+            "Arthur O'Connell"
+        ],
+        "votes": "2,749",
+        "gross": ""
     },
     "26": {
         "name": "The Nun's Story",
@@ -230,8 +406,15 @@
         "runtime": "149 min",
         "genre": "Drama",
         "description": "After leaving a wealthy Belgian family to become a nun, Sister Luke struggles with her devotion to her vows during crisis, disappointment, and World War II.",
-        "director": "",
-        "stars": []
+        "director": "Fred Zinnemann",
+        "stars": [
+            "Audrey Hepburn",
+            "Peter Finch",
+            "Edith Evans",
+            "Peggy Ashcroft"
+        ],
+        "votes": "8,437",
+        "gross": "$12.80M"
     },
     "27": {
         "name": "Look Back in Anger",
@@ -239,8 +422,15 @@
         "runtime": "98 min",
         "genre": "Drama",
         "description": "A disillusioned, angry university graduate comes to terms with his grudge against middle-class life and values.",
-        "director": "",
-        "stars": []
+        "director": "Tony Richardson",
+        "stars": [
+            "Richard Burton",
+            "Claire Bloom",
+            "Mary Ure",
+            "Edith Evans"
+        ],
+        "votes": "2,916",
+        "gross": ""
     },
     "28": {
         "name": "A Summer Place",
@@ -248,8 +438,15 @@
         "runtime": "130 min",
         "genre": "Drama, Romance",
         "description": "A self-made businessman rekindles a romance with a former flame while their two teenage children begin a romance of their own with drastic consequences for both couples.",
-        "director": "",
-        "stars": []
+        "director": "Delmer Daves",
+        "stars": [
+            "Richard Egan",
+            "Dorothy McGuire",
+            "Sandra Dee",
+            "Arthur Kennedy"
+        ],
+        "votes": "2,533",
+        "gross": ""
     },
     "29": {
         "name": "North West Frontier",
@@ -257,8 +454,15 @@
         "runtime": "129 min",
         "genre": "Adventure, Drama",
         "description": "In British India, a young prince must be taken to safey across rebel-held territory, and an old train is the only way to do it.",
-        "director": "",
-        "stars": []
+        "director": "J. Lee Thompson",
+        "stars": [
+            "Kenneth More",
+            "Lauren Bacall",
+            "Herbert Lom",
+            "Wilfrid Hyde-White"
+        ],
+        "votes": "1,931",
+        "gross": ""
     },
     "30": {
         "name": "Black Orpheus",
@@ -266,8 +470,15 @@
         "runtime": "100 min",
         "genre": "Drama, Fantasy, Music",
         "description": "A retelling of the Orpheus and Eurydice myth, set during the time of the Carnaval in Rio de Janeiro.",
-        "director": "",
-        "stars": []
+        "director": "Marcel Camus",
+        "stars": [
+            "Breno Mello",
+            "Marpessa Dawn",
+            "Lourdes de Oliveira",
+            "L\u00e9a Garcia"
+        ],
+        "votes": "8,599",
+        "gross": ""
     },
     "31": {
         "name": "Pork Chop Hill",
@@ -275,8 +486,15 @@
         "runtime": "97 min",
         "genre": "Action, Drama, War",
         "description": "During the Korean War peace talks, U.S. troops fight to retake a hill from the Communist Chinese forces.",
-        "director": "",
-        "stars": []
+        "director": "Lewis Milestone",
+        "stars": [
+            "Gregory Peck",
+            "Harry Guardino",
+            "Rip Torn",
+            "George Peppard"
+        ],
+        "votes": "3,848",
+        "gross": "$4.02M"
     },
     "32": {
         "name": "Li'l Abner",
@@ -284,8 +502,15 @@
         "runtime": "114 min",
         "genre": "Comedy, Musical, Family",
         "description": "As Sadie Hawkins Day approaches, Daisy Mae hopes to win the hand of Li'l Abner by catching him in the traditional race. A senator comes to visit to tell the residents of Dogpatch that their...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Melvin Frank",
+        "stars": [
+            "Leslie Parrish",
+            "Stubby Kaye",
+            "Peter Palmer",
+            "Howard St. John"
+        ],
+        "votes": "1,172",
+        "gross": ""
     },
     "33": {
         "name": "The Human Condition I: No Greater Love",
@@ -293,8 +518,15 @@
         "runtime": "208 min",
         "genre": "Drama, War",
         "description": "A Japanese pacifist, unable to face the dire consequences of conscientious objection, is transformed by his attempts to compromise with the demands of war-time Japan.",
-        "director": "",
-        "stars": []
+        "director": "Masaki Kobayashi",
+        "stars": [
+            "Tatsuya Nakadai",
+            "Michiyo Aratama",
+            "Chikage Awashima",
+            "Ineko Arima"
+        ],
+        "votes": "5,022",
+        "gross": ""
     },
     "34": {
         "name": "It Happened to Jane",
@@ -302,8 +534,15 @@
         "runtime": "97 min",
         "genre": "Comedy",
         "description": "Jane Osgood runs a lobster business, which supports her two young children. Railroad staff inattention ruins her shipment, so with her lawyer George, Jane sues Harry Foster Malone, director of the line and the \"meanest man in the world\".",
-        "director": "",
-        "stars": []
+        "director": "Richard Quine",
+        "stars": [
+            "Doris Day",
+            "Jack Lemmon",
+            "Ernie Kovacs",
+            "Steve Forrest"
+        ],
+        "votes": "2,076",
+        "gross": ""
     },
     "35": {
         "name": "Idol on Parade",
@@ -311,8 +550,15 @@
         "runtime": "88 min",
         "genre": "Comedy",
         "description": "A rock'n'roll idol is drafted into the wrong regiment.",
-        "director": "",
-        "stars": []
+        "director": "John Gilling",
+        "stars": [
+            "William Bendix",
+            "Anthony Newley",
+            "Anne Aubrey",
+            "Lionel Jeffries"
+        ],
+        "votes": "119",
+        "gross": ""
     },
     "36": {
         "name": "Please Turn Over",
@@ -320,8 +566,15 @@
         "runtime": "87 min",
         "genre": "Comedy",
         "description": "The orderly suburban life of a 1950's English town is turned on its head when the teenaged daughter of one of the residents writes a steamy bestseller featuring characters obviously based ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Gerald Thomas",
+        "stars": [
+            "Ted Ray",
+            "Jean Kent",
+            "Leslie Phillips",
+            "Joan Sims"
+        ],
+        "votes": "160",
+        "gross": ""
     },
     "37": {
         "name": "Pickpocket",
@@ -329,8 +582,15 @@
         "runtime": "76 min",
         "genre": "Crime, Drama",
         "description": "Michel is released from jail after serving a sentence for thievery. His mother dies and he resorts to pickpocketing as a means of survival.",
-        "director": "",
-        "stars": []
+        "director": "Robert Bresson",
+        "stars": [
+            "Martin LaSalle",
+            "Marika Green",
+            "Jean P\u00e9l\u00e9gri",
+            "Dolly Scal"
+        ],
+        "votes": "16,857",
+        "gross": ""
     },
     "38": {
         "name": "Porgy and Bess",
@@ -338,8 +598,16 @@
         "runtime": "138 min",
         "genre": "Drama, Musical, Romance",
         "description": "A woman whose past is scorned by nearly everyone around her meets a man who'd love her regardlessly- if only everyone else would allow them to.",
-        "director": "",
-        "stars": []
+        "director": "Otto Preminger",
+        "stars": [
+            "Rouben Mamoulian",
+            "Sidney Poitier",
+            "Dorothy Dandridge",
+            "Sammy Davis Jr.",
+            "Pearl Bailey"
+        ],
+        "votes": "1,366",
+        "gross": ""
     },
     "39": {
         "name": "The Shaggy Dog",
@@ -347,8 +615,15 @@
         "runtime": "104 min",
         "genre": "Family, Comedy, Fantasy",
         "description": "A teenage boy is cursed with periodically turning into an sheepdog.",
-        "director": "",
-        "stars": []
+        "director": "Charles Barton",
+        "stars": [
+            "Fred MacMurray",
+            "Jean Hagen",
+            "Tommy Kirk",
+            "Annette Funicello"
+        ],
+        "votes": "3,790",
+        "gross": ""
     },
     "40": {
         "name": "Room at the Top",
@@ -356,8 +631,15 @@
         "runtime": "115 min",
         "genre": "Drama, Romance",
         "description": "An ambitious young accountant plots to wed a wealthy factory owner's daughter, despite falling in love with a married older woman.",
-        "director": "",
-        "stars": []
+        "director": "Jack Clayton",
+        "stars": [
+            "Laurence Harvey",
+            "Simone Signoret",
+            "Heather Sears",
+            "Donald Wolfit"
+        ],
+        "votes": "4,444",
+        "gross": ""
     },
     "41": {
         "name": "The Headless Ghost",
@@ -365,8 +647,15 @@
         "runtime": "62 min",
         "genre": "Comedy, Horror",
         "description": "Three teenagers encounter a ghost who is in limbo until he retrieves his lost head. They do their bit to help him find it.",
-        "director": "",
-        "stars": []
+        "director": "Peter Graham Scott",
+        "stars": [
+            "Richard Lyon",
+            "Liliane Sottane",
+            "David Rose",
+            "Jack Allen"
+        ],
+        "votes": "189",
+        "gross": ""
     },
     "42": {
         "name": "The Hound of the Baskervilles",
@@ -374,8 +663,15 @@
         "runtime": "87 min",
         "genre": "Horror, Mystery",
         "description": "When a nobleman is threatened by a family curse on his newly inherited estate, detective Sherlock Holmes is hired to investigate.",
-        "director": "",
-        "stars": []
+        "director": "Terence Fisher",
+        "stars": [
+            "Peter Cushing",
+            "Andr\u00e9 Morell",
+            "Christopher Lee",
+            "Marla Landi"
+        ],
+        "votes": "8,196",
+        "gross": ""
     },
     "43": {
         "name": "The Indian Tomb",
@@ -383,8 +679,15 @@
         "runtime": "102 min",
         "genre": "Adventure, Romance",
         "description": "A German architect runs away with the maharajah of Eschnapur's fiancee but is caught and thrown in the dungeon, while his relatives arrive from Europe looking for him and the maharajah's brother is scheming to usurp the throne.",
-        "director": "",
-        "stars": []
+        "director": "Fritz Lang",
+        "stars": [
+            "Debra Paget",
+            "Paul Hubschmid",
+            "Walther Reyer",
+            "Claus Holm"
+        ],
+        "votes": "1,900",
+        "gross": ""
     },
     "44": {
         "name": "Last Train from Gun Hill",
@@ -392,8 +695,15 @@
         "runtime": "95 min",
         "genre": "Romance, Western",
         "description": "A marshal tries to bring the son of an old friend, an autocratic cattle baron, to justice for his role in the rape and murder of the marshal's Native American wife.",
-        "director": "",
-        "stars": []
+        "director": "John Sturges",
+        "stars": [
+            "Kirk Douglas",
+            "Anthony Quinn",
+            "Carolyn Jones",
+            "Earl Holliman"
+        ],
+        "votes": "5,721",
+        "gross": ""
     },
     "45": {
         "name": "The Mummy",
@@ -401,8 +711,15 @@
         "runtime": "88 min",
         "genre": "Adventure, Horror",
         "description": "In 1895, British archaeologists find and open the tomb of Egyptian Princess Ananka with nefarious consequences.",
-        "director": "",
-        "stars": []
+        "director": "Terence Fisher",
+        "stars": [
+            "Peter Cushing",
+            "Christopher Lee",
+            "Yvonne Furneaux",
+            "Eddie Byrne"
+        ],
+        "votes": "6,972",
+        "gross": ""
     },
     "46": {
         "name": "A Hole in the Head",
@@ -410,8 +727,15 @@
         "runtime": "120 min",
         "genre": "Comedy, Drama",
         "description": "Widower Tony is trying to keep a small Miami hotel afloat while raising a 12-year-old son. He's forced to ask his harried brother Mario for help, but he'll only bail Tony out if he quits his bohemian lifestyle and marries a sensible woman.",
-        "director": "",
-        "stars": []
+        "director": "Frank Capra",
+        "stars": [
+            "Frank Sinatra",
+            "Edward G. Robinson",
+            "Eleanor Parker",
+            "Carolyn Jones"
+        ],
+        "votes": "2,120",
+        "gross": "$11.00M"
     },
     "47": {
         "name": "Good Morning",
@@ -419,8 +743,15 @@
         "runtime": "94 min",
         "genre": "Comedy, Drama, Family",
         "description": "Two boys begin a silence strike to press their parents into buying them a television set.",
-        "director": "",
-        "stars": []
+        "director": "Yasujir\u00f4 Ozu",
+        "stars": [
+            "Keiji Sada",
+            "Yoshiko Kuga",
+            "Chish\u00fb Ry\u00fb",
+            "Kuniko Miyake"
+        ],
+        "votes": "6,301",
+        "gross": ""
     },
     "48": {
         "name": "The World of Apu",
@@ -428,8 +759,15 @@
         "runtime": "105 min",
         "genre": "Drama",
         "description": "This final installment in Satyajit Ray's Apu Trilogy follows Apu's life as an orphaned adult aspiring to be a writer.",
-        "director": "",
-        "stars": []
+        "director": "Satyajit Ray",
+        "stars": [
+            "Soumitra Chatterjee",
+            "Sharmila Tagore",
+            "Alok Chakravarty",
+            "Swapan Mukherjee"
+        ],
+        "votes": "9,696",
+        "gross": "$0.02M"
     },
     "49": {
         "name": "The Giant Gila Monster",
@@ -437,8 +775,15 @@
         "runtime": "74 min",
         "genre": "Horror, Sci-Fi",
         "description": "A giant lizard terrorizes a rural Texas community and a a heroic teenager attempts to destroy the creature.",
-        "director": "",
-        "stars": []
+        "director": "Ray Kellogg",
+        "stars": [
+            "Don Sullivan",
+            "Fred Graham",
+            "Lisa Simone",
+            "Shug Fisher"
+        ],
+        "votes": "3,149",
+        "gross": ""
     },
     "50": {
         "name": "Green Mansions",
@@ -446,7 +791,14 @@
         "runtime": "104 min",
         "genre": "Adventure, Drama, Romance",
         "description": "A young man in the jungles of Venezuela meets a strange girl of the forest and falls in love with her.",
-        "director": "",
-        "stars": []
+        "director": "Mel Ferrer",
+        "stars": [
+            "Audrey Hepburn",
+            "Anthony Perkins",
+            "Lee J. Cobb",
+            "Sessue Hayakawa"
+        ],
+        "votes": "1,881",
+        "gross": ""
     }
 }

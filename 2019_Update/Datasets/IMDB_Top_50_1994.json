@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "The Shawshank Redemption",
+        "certificate": "A",
+        "runtime": "142 min",
+        "genre": "Drama",
+        "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "Pulp Fiction",
+        "certificate": "A",
+        "runtime": "154 min",
+        "genre": "Crime, Drama",
+        "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "Forrest Gump",
+        "certificate": "PG-13",
+        "runtime": "142 min",
+        "genre": "Drama, Romance",
+        "description": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "L\u00e9on",
+        "certificate": "A",
+        "runtime": "110 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "Mathilda, a 12-year-old girl, is reluctantly taken in by L\u00e9on, a professional assassin, after her family is murdered. L\u00e9on and Mathilda form an unusual relationship, as she becomes his prot\u00e9g\u00e9e and learns the assassin's trade.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "The Lion King",
+        "certificate": "U",
+        "runtime": "88 min",
+        "genre": "Animation, Adventure, Drama",
+        "description": "A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "Stargate",
+        "certificate": "PG-13",
+        "runtime": "116 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "An interstellar teleportation device, found in Egypt, leads to a planet with humans resembling ancient Egyptians who worship the god Ra.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "Dumb and Dumber",
+        "certificate": "",
+        "runtime": "107 min",
+        "genre": "Comedy",
+        "description": "The cross-country adventures of 2 good-hearted but incredibly stupid friends.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "Natural Born Killers",
+        "certificate": "R",
+        "runtime": "118 min",
+        "genre": "Crime, Drama",
+        "description": "Two victims of traumatized childhoods become lovers and psychopathic serial murderers irresponsibly glorified by the mass media.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "Ace Ventura: Pet Detective",
+        "certificate": "PG-13",
+        "runtime": "86 min",
+        "genre": "Comedy",
+        "description": "A goofy detective specializing in animals goes in search of the missing mascot of the Miami Dolphins.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "The Mask",
+        "certificate": "PG-13",
+        "runtime": "101 min",
+        "genre": "Comedy, Fantasy",
+        "description": "Bank clerk Stanley Ipkiss is transformed into a manic superhero when he wears a mysterious mask.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "D2: The Mighty Ducks",
+        "certificate": "PG",
+        "runtime": "106 min",
+        "genre": "Comedy, Drama, Family",
+        "description": "Gordon Bombay is forced to withdraw from the minor hockey league with a knee injury. Much to his surprise, he is given the job of coach of Team USA Hockey for the Junior Goodwill Games in ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "The Crow",
+        "certificate": "R",
+        "runtime": "102 min",
+        "genre": "Action, Drama, Fantasy",
+        "description": "A man brutally murdered comes back to life as an undead avenger of his and his fianc\u00e9e's murder.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "Legends of the Fall",
+        "certificate": "R",
+        "runtime": "133 min",
+        "genre": "Drama, Romance, War",
+        "description": "In the early 1900s, three brothers and their father living in the remote wilderness of Montana are affected by betrayal, history, love, nature, and war.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "The Little Rascals",
+        "certificate": "PG",
+        "runtime": "82 min",
+        "genre": "Comedy, Family, Romance",
+        "description": "Alfalfa is wooing Darla and his \"He-Man-Woman-Hating\" friends attempt to sabotage the relationship.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "True Lies",
+        "certificate": "R",
+        "runtime": "141 min",
+        "genre": "Action, Comedy, Thriller",
+        "description": "A fearless, globe-trotting, terrorist-battling secret agent has his life turned upside down when he discovers his wife might be having an affair with a used car salesman while terrorists smuggle nuclear war heads into the United States.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "Interview with the Vampire: The Vampire Chronicles",
+        "certificate": "R",
+        "runtime": "123 min",
+        "genre": "Drama, Horror",
+        "description": "A vampire tells his epic life story: love, betrayal, loneliness, and hunger.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "Speed",
+        "certificate": "R",
+        "runtime": "116 min",
+        "genre": "Action, Adventure, Crime",
+        "description": "A young police officer must prevent a bomb exploding aboard a city bus by keeping its speed above 50 mph.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Four Weddings and a Funeral",
+        "certificate": "R",
+        "runtime": "117 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Over the course of five social occasions, a committed bachelor must consider the notion that he may have discovered love.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "Clerks",
+        "certificate": "R",
+        "runtime": "92 min",
+        "genre": "Comedy",
+        "description": "A day in the lives of two convenience clerks named Dante and Randal as they annoy customers, discuss movies, and play hockey on the store roof.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "Clear and Present Danger",
+        "certificate": "PG-13",
+        "runtime": "141 min",
+        "genre": "Action, Crime, Drama",
+        "description": "CIA Analyst Jack Ryan is drawn into an illegal war fought by the US government against a Colombian drug cartel.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "Little Women",
+        "certificate": "PG",
+        "runtime": "115 min",
+        "genre": "Drama, Family, Romance",
+        "description": "The March sisters live and grow in post-Civil War America.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "The Flintstones",
+        "certificate": "PG",
+        "runtime": "91 min",
+        "genre": "Comedy, Family, Fantasy",
+        "description": "In this live-action feature of the cartoon show, Fred Flintstone finally gets the job he's always wanted, but it may just come at a price.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "Street Fighter",
+        "certificate": "PG-13",
+        "runtime": "102 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "Col. Guile and various other martial arts heroes fight against the tyranny of Dictator M. Bison and his cohorts.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "Heavenly Creatures",
+        "certificate": "R",
+        "runtime": "99 min",
+        "genre": "Biography, Crime, Drama",
+        "description": "Two teenage girls share a unique bond; their parents, concerned that the friendship is too intense, separate them, and the girls take revenge.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "Shallow Grave",
+        "certificate": "R",
+        "runtime": "89 min",
+        "genre": "Crime, Thriller",
+        "description": "Three friends discover their new flatmate dead but loaded with cash.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "The Client",
+        "certificate": "PG-13",
+        "runtime": "119 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "A young boy who witnessed the suicide of a mafia lawyer hires an attorney to protect him when the District Attorney tries to use him to take down a mob family.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "Color of Night",
+        "certificate": "R",
+        "runtime": "121 min",
+        "genre": "Mystery, Romance, Thriller",
+        "description": "A color-blind psychiatrist Bill Capa is stalked by an unknown killer after taking over his murdered friend's therapy group, all of whom have a connection to a mysterious young woman that Capa begins having intense sexual encounters with.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "Star Trek: Generations",
+        "certificate": "PG",
+        "runtime": "118 min",
+        "genre": "Action, Adventure, Mystery",
+        "description": "With the help of long presumed dead Captain Kirk, Captain Picard must stop a renegade scientist willing to murder on a planetary scale in order to enter a space matrix.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "Ed Wood",
+        "certificate": "R",
+        "runtime": "127 min",
+        "genre": "Biography, Comedy, Drama",
+        "description": "Ambitious but troubled movie director Edward D. Wood Jr. tries his best to fulfill his dreams, despite his lack of talent.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "The Adventures of Priscilla, Queen of the Desert",
+        "certificate": "R",
+        "runtime": "104 min",
+        "genre": "Comedy, Music",
+        "description": "Two drag performers and a transgender woman travel across the desert to perform their unique style of cabaret.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "Disclosure",
+        "certificate": "R",
+        "runtime": "128 min",
+        "genre": "Drama, Thriller",
+        "description": "A computer specialist is sued for sexual harassment by a former lover turned boss who initiated the act forcefully, which threatens both his career and his personal life.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "In the Mouth of Madness",
+        "certificate": "R",
+        "runtime": "95 min",
+        "genre": "Drama, Horror, Mystery",
+        "description": "An insurance investigator begins discovering that the impact a horror writer's books have on his fans is more than inspirational.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "Chung Hing sam lam",
+        "certificate": "PG-13",
+        "runtime": "102 min",
+        "genre": "Comedy, Crime, Drama",
+        "description": "Two melancholy Hong Kong policemen fall in love: one with a mysterious female underworld figure, the other with a beautiful and ethereal server at a late-night restaurant he frequents.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "The Jungle Book",
+        "certificate": "PG",
+        "runtime": "111 min",
+        "genre": "Adventure, Family, Romance",
+        "description": "Rudyard Kipling's classic tale of Mowgli, the orphaned jungle boy raised by wolves, and how he becomes king of the jungle.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "Frankenstein",
+        "certificate": "R",
+        "runtime": "123 min",
+        "genre": "Drama, Horror, Romance",
+        "description": "When the brilliant but unorthodox scientist Dr. Victor Frankenstein rejects the artificial man that he has created, the Creature escapes and later swears revenge.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "Muriel's Wedding",
+        "certificate": "R",
+        "runtime": "106 min",
+        "genre": "Comedy, Drama",
+        "description": "A young social outcast in Australia steals money from her parents to finance a vacation where she hopes to find happiness, and perhaps love.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "Once Were Warriors",
+        "certificate": "R",
+        "runtime": "102 min",
+        "genre": "Crime, Drama",
+        "description": "A family descended from Maori warriors is bedeviled by a violent father and the societal problems of being treated as outcasts.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "Wyatt Earp",
+        "certificate": "PG-13",
+        "runtime": "191 min",
+        "genre": "Adventure, Biography, Crime",
+        "description": "The story of Wyatt Earp as he interacts and battles other famous figures of the Wild West era.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "Little Giants",
+        "certificate": "PG",
+        "runtime": "107 min",
+        "genre": "Comedy, Family, Sport",
+        "description": "Misfits form their own opposing team to an elite peewee football team, coached by the elite team coach's brother.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Naked Gun 33 1/3: The Final Insult",
+        "certificate": "PG-13",
+        "runtime": "83 min",
+        "genre": "Comedy, Crime",
+        "description": "Frank Drebin comes out of retirement to help Police Squad infiltrate a gang of terrorists planning to detonate a bomb at the Academy Awards.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Angels in the Outfield",
+        "certificate": "PG",
+        "runtime": "102 min",
+        "genre": "Comedy, Family, Fantasy",
+        "description": "When a boy prays for a chance to have a family if the California Angels win the pennant, angels are assigned to make that possible.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "Maverick",
+        "certificate": "PG",
+        "runtime": "127 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "Bret Maverick, needing money for a poker tournament, faces various comic mishaps and challenges, including a charming woman thief.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Sirens",
+        "certificate": "R",
+        "runtime": "98 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "When a painting is termed blasphemous, a young minister and his wife visit the artist... and the three sexually playful models living with him.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "Trois couleurs: Rouge",
+        "certificate": "R",
+        "runtime": "99 min",
+        "genre": "Drama, Mystery, Romance",
+        "description": "A model discovers her neighbor is keen on invading people's privacy.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "The War",
+        "certificate": "PG-13",
+        "runtime": "126 min",
+        "genre": "Drama",
+        "description": "Vietnam War vet Stephen Simmons must deal with a war of a different sort between his son and their friends, and a rival group of children. He also must deal with his own personal and ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Reality Bites",
+        "certificate": "PG-13",
+        "runtime": "99 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A documentary filmmaker and her fellow Gen X graduates face life after college, looking for work and love in Houston.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "The Return of the Texas Chainsaw Massacre",
+        "certificate": "R",
+        "runtime": "87 min",
+        "genre": "Comedy, Horror, Thriller",
+        "description": "A group of teenagers get into a car crash in the Texas woods on prom night, and then wander into an old farmhouse that is home to Leatherface and his insane family of cannibalistic psychopaths.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "Ri\u00a2hie Ri\u00a2h",
+        "certificate": "PG",
+        "runtime": "95 min",
+        "genre": "Comedy, Family",
+        "description": "A rich young boy finds his family targeted in an inside job and must use his cunning to save them.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "Quiz Show",
+        "certificate": "PG-13",
+        "runtime": "133 min",
+        "genre": "Biography, Drama, History",
+        "description": "A young lawyer, Richard Goodwin, investigates a potentially fixed game show. Charles Van Doren, a big time show winner, is under Goodwin's investigation.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "The Shadow",
+        "certificate": "PG-13",
+        "runtime": "108 min",
+        "genre": "Action, Adventure, Crime",
+        "description": "In 1930s New York City, the Shadow battles his nemesis, Shiwan Khan, who is building an atomic bomb.",
+        "director": "",
+        "stars": []
+    }
+}

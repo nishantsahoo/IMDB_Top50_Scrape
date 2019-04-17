@@ -5,8 +5,15 @@
         "runtime": "87 min",
         "genre": "Comedy, Drama, Family",
         "description": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
-        "director": "",
-        "stars": []
+        "director": "Charles Chaplin",
+        "stars": [
+            "Charles Chaplin",
+            "Paulette Goddard",
+            "Henry Bergman",
+            "Tiny Sandford"
+        ],
+        "votes": "187,459",
+        "gross": "$0.16M"
     },
     "2": {
         "name": "After the Thin Man",
@@ -14,8 +21,15 @@
         "runtime": "112 min",
         "genre": "Comedy, Crime, Mystery",
         "description": "Nick investigates the case of a missing man and later a murder that is connected to Nora's family.",
-        "director": "",
-        "stars": []
+        "director": "W.S. Van Dyke",
+        "stars": [
+            "William Powell",
+            "Myrna Loy",
+            "James Stewart",
+            "Elissa Landi"
+        ],
+        "votes": "8,531",
+        "gross": ""
     },
     "3": {
         "name": "The Ex-Mrs. Bradford",
@@ -23,8 +37,15 @@
         "runtime": "82 min",
         "genre": "Comedy, Mystery, Romance",
         "description": "A wealthy mystery writer uses her doctor ex-husband's non-payment of alimony to coerce him into a reconciliation.",
-        "director": "",
-        "stars": []
+        "director": "Stephen Roberts",
+        "stars": [
+            "William Powell",
+            "Jean Arthur",
+            "James Gleason",
+            "Eric Blore"
+        ],
+        "votes": "1,382",
+        "gross": ""
     },
     "4": {
         "name": "Flash Gordon",
@@ -32,8 +53,16 @@
         "runtime": "245 min",
         "genre": "Action, Adventure, Sci-Fi",
         "description": "Flash Gordon, Dale Arden and Dr. Alexis Zarkov visit the planet Mongo to thwart the evil schemes of Emperor Ming the Merciless, who has set his planet on a collision course with Earth.",
-        "director": "",
-        "stars": []
+        "director": "Frederick Stephani",
+        "stars": [
+            "Ray Taylor",
+            "Buster Crabbe",
+            "Jean Rogers",
+            "Charles Middleton",
+            "Priscilla Lawson"
+        ],
+        "votes": "1,928",
+        "gross": ""
     },
     "5": {
         "name": "Camille",
@@ -41,8 +70,15 @@
         "runtime": "109 min",
         "genre": "Drama, Romance",
         "description": "A Parisian courtesan must choose between the young man who loves her and the callous baron who wants her, even as her own health begins to fail.",
-        "director": "",
-        "stars": []
+        "director": "George Cukor",
+        "stars": [
+            "Greta Garbo",
+            "Robert Taylor",
+            "Lionel Barrymore",
+            "Elizabeth Allan"
+        ],
+        "votes": "6,595",
+        "gross": "$1.15M"
     },
     "6": {
         "name": "My Man Godfrey",
@@ -50,8 +86,15 @@
         "runtime": "94 min",
         "genre": "Comedy, Drama, Romance",
         "description": "A scatterbrained socialite hires a vagrant as a family butler...but there's more to Godfrey than meets the eye.",
-        "director": "",
-        "stars": []
+        "director": "Gregory La Cava",
+        "stars": [
+            "William Powell",
+            "Carole Lombard",
+            "Alice Brady",
+            "Gail Patrick"
+        ],
+        "votes": "18,552",
+        "gross": ""
     },
     "7": {
         "name": "Mr. Deeds Goes to Town",
@@ -59,8 +102,15 @@
         "runtime": "115 min",
         "genre": "Comedy, Drama, Romance",
         "description": "A simple, small town man inherits a massive fortune, making him the target for scammers and publicity-seekers. Overwhelmed by the turn his life has taken, and awoken to another use for his new-found fortune, he makes a momentous decision.",
-        "director": "",
-        "stars": []
+        "director": "Frank Capra",
+        "stars": [
+            "Gary Cooper",
+            "Jean Arthur",
+            "George Bancroft",
+            "Lionel Stander"
+        ],
+        "votes": "18,037",
+        "gross": ""
     },
     "8": {
         "name": "The Plainsman",
@@ -68,8 +118,15 @@
         "runtime": "113 min",
         "genre": "Biography, History, Romance",
         "description": "Wild Bill Hickok attempts to stop an Indian uprising that was started by white gun-runners.",
-        "director": "",
-        "stars": []
+        "director": "Cecil B. DeMille",
+        "stars": [
+            "Gary Cooper",
+            "Jean Arthur",
+            "James Ellison",
+            "Charles Bickford"
+        ],
+        "votes": "1,800",
+        "gross": ""
     },
     "9": {
         "name": "Things to Come",
@@ -77,8 +134,15 @@
         "runtime": "100 min",
         "genre": "Drama, Sci-Fi, War",
         "description": "The story of a century: a decades-long second World War leaves plague and anarchy, then a rational state rebuilds civilization and attempts space travel.",
-        "director": "",
-        "stars": []
+        "director": "William Cameron Menzies",
+        "stars": [
+            "Raymond Massey",
+            "Edward Chapman",
+            "Ralph Richardson",
+            "Margaretta Scott"
+        ],
+        "votes": "6,238",
+        "gross": ""
     },
     "10": {
         "name": "Reefer Madness",
@@ -86,8 +150,15 @@
         "runtime": "66 min",
         "genre": "Crime, Drama",
         "description": "Cautionary tale features a fictionalized take on the use of marijuana. A trio of drug dealers lead innocent teenagers to become addicted to \"reefer\" cigarettes by holding wild parties with jazz music.",
-        "director": "",
-        "stars": []
+        "director": "Louis J. Gasnier",
+        "stars": [
+            "Dorothy Short",
+            "Kenneth Craig",
+            "Lillian Miles",
+            "Dave O'Brien"
+        ],
+        "votes": "7,227",
+        "gross": ""
     },
     "11": {
         "name": "Swing Time",
@@ -95,8 +166,15 @@
         "runtime": "103 min",
         "genre": "Comedy, Musical, Romance",
         "description": "A performer and gambler travels to New York City to raise the $25,000 he needs to marry his fianc\u00e9e, only to become entangled with a beautiful aspiring dancer.",
-        "director": "",
-        "stars": []
+        "director": "George Stevens",
+        "stars": [
+            "Fred Astaire",
+            "Ginger Rogers",
+            "Victor Moore",
+            "Helen Broderick"
+        ],
+        "votes": "10,891",
+        "gross": ""
     },
     "12": {
         "name": "Sabotage",
@@ -104,8 +182,15 @@
         "runtime": "76 min",
         "genre": "Thriller",
         "description": "A Scotland Yard undercover detective is on the trail of a saboteur who is part of a plot to set off a bomb in London. But when the detective's cover is blown, the plot begins to unravel.",
-        "director": "",
-        "stars": []
+        "director": "Alfred Hitchcock",
+        "stars": [
+            "Sylvia Sidney",
+            "Oskar Homolka",
+            "Desmond Tester",
+            "John Loder"
+        ],
+        "votes": "13,109",
+        "gross": ""
     },
     "13": {
         "name": "The Petrified Forest",
@@ -113,8 +198,15 @@
         "runtime": "82 min",
         "genre": "Drama, Film-Noir, Romance",
         "description": "A waitress, a hobo and a bank robber get mixed up at a lonely diner in the desert.",
-        "director": "",
-        "stars": []
+        "director": "Archie Mayo",
+        "stars": [
+            "Leslie Howard",
+            "Humphrey Bogart",
+            "Bette Davis",
+            "Genevieve Tobin"
+        ],
+        "votes": "11,186",
+        "gross": ""
     },
     "14": {
         "name": "Secret Agent",
@@ -122,8 +214,15 @@
         "runtime": "86 min",
         "genre": "Mystery, Thriller",
         "description": "After three British Agents are assigned to assassinate a mysterious German spy during World War I, two of them become ambivalent when their duty to the mission conflicts with their consciences.",
-        "director": "",
-        "stars": []
+        "director": "Alfred Hitchcock",
+        "stars": [
+            "John Gielgud",
+            "Madeleine Carroll",
+            "Robert Young",
+            "Peter Lorre"
+        ],
+        "votes": "7,111",
+        "gross": ""
     },
     "15": {
         "name": "Tarzan Escapes",
@@ -131,8 +230,19 @@
         "runtime": "89 min",
         "genre": "Action, Adventure",
         "description": "An expedition seeking to bring Jane back to civilization, and Tarzan into captivity, gets more than it's bargained for.",
-        "director": "",
-        "stars": []
+        "director": "Richard Thorpe",
+        "stars": [
+            "John Farrow",
+            "James C. McKay",
+            "George B. Seitz",
+            "William A. Wellman",
+            "Johnny Weissmuller",
+            "Maureen O'Sullivan",
+            "John Buckler",
+            "Benita Hume"
+        ],
+        "votes": "2,940",
+        "gross": ""
     },
     "16": {
         "name": "Fury",
@@ -140,8 +250,15 @@
         "runtime": "92 min",
         "genre": "Crime, Drama, Film-Noir",
         "description": "When a wrongly accused prisoner barely survives a lynch mob attack and is presumed dead, he vindictively decides to fake his death and frame the mob for his supposed murder.",
-        "director": "",
-        "stars": []
+        "director": "Fritz Lang",
+        "stars": [
+            "Sylvia Sidney",
+            "Spencer Tracy",
+            "Walter Abel",
+            "Bruce Cabot"
+        ],
+        "votes": "10,214",
+        "gross": ""
     },
     "17": {
         "name": "The Great Ziegfeld",
@@ -149,8 +266,15 @@
         "runtime": "176 min",
         "genre": "Biography, Drama, Musical",
         "description": "The ups and downs of Florenz Ziegfeld Jr., famed producer of extravagant stage revues, are portrayed.",
-        "director": "",
-        "stars": []
+        "director": "Robert Z. Leonard",
+        "stars": [
+            "William Powell",
+            "Myrna Loy",
+            "Luise Rainer",
+            "Frank Morgan"
+        ],
+        "votes": "6,344",
+        "gross": ""
     },
     "18": {
         "name": "The Charge of the Light Brigade",
@@ -158,8 +282,15 @@
         "runtime": "115 min",
         "genre": "Action, Adventure, Romance",
         "description": "A major countermands orders and attacks to avenge a previous massacre of men, women, and children.",
-        "director": "",
-        "stars": []
+        "director": "Michael Curtiz",
+        "stars": [
+            "Errol Flynn",
+            "Olivia de Havilland",
+            "Patric Knowles",
+            "Henry Stephenson"
+        ],
+        "votes": "4,057",
+        "gross": ""
     },
     "19": {
         "name": "Dracula's Daughter",
@@ -167,8 +298,15 @@
         "runtime": "71 min",
         "genre": "Drama, Fantasy, Horror",
         "description": "Hungarian countess Marya Zaleska seeks the aid of a noted psychiatrist, hoping to free herself of a mysterious evil influence.",
-        "director": "",
-        "stars": []
+        "director": "Lambert Hillyer",
+        "stars": [
+            "Otto Kruger",
+            "Gloria Holden",
+            "Marguerite Churchill",
+            "Edward Van Sloan"
+        ],
+        "votes": "4,974",
+        "gross": ""
     },
     "20": {
         "name": "Follow the Fleet",
@@ -176,8 +314,15 @@
         "runtime": "110 min",
         "genre": "Comedy, Musical, Romance",
         "description": "A Navy sailor tries to rekindle a romance with the woman he loves while on liberty in San Francisco.",
-        "director": "",
-        "stars": []
+        "director": "Mark Sandrich",
+        "stars": [
+            "Fred Astaire",
+            "Ginger Rogers",
+            "Randolph Scott",
+            "Harriet Nelson"
+        ],
+        "votes": "3,624",
+        "gross": ""
     },
     "21": {
         "name": "Poor Little Rich Girl",
@@ -185,8 +330,15 @@
         "runtime": "79 min",
         "genre": "Adventure, Comedy, Family",
         "description": "The daughter of a wealthy businessman becomes lost in the city while traveling to a new school, and is taken in by a pair of down-on-their-luck performers.",
-        "director": "",
-        "stars": []
+        "director": "Irving Cummings",
+        "stars": [
+            "Shirley Temple",
+            "Alice Faye",
+            "Gloria Stuart",
+            "Jack Haley"
+        ],
+        "votes": "1,119",
+        "gross": ""
     },
     "22": {
         "name": "San Francisco",
@@ -194,8 +346,15 @@
         "runtime": "115 min",
         "genre": "Drama, Musical, Romance",
         "description": "A Barbary Coast saloonkeeper and a Nob Hill impresario are rivals for the affections of a beautiful singer, both personally and professionally in 1906 San Francisco.",
-        "director": "",
-        "stars": []
+        "director": "W.S. Van Dyke",
+        "stars": [
+            "Clark Gable",
+            "Jeanette MacDonald",
+            "Spencer Tracy",
+            "Jack Holt"
+        ],
+        "votes": "4,489",
+        "gross": ""
     },
     "23": {
         "name": "Libeled Lady",
@@ -203,8 +362,15 @@
         "runtime": "98 min",
         "genre": "Comedy, Romance",
         "description": "A newspaper man, his ignored fianc\u00e9e, and his former employee, a down on his luck reporter, hatch an elaborate scheme to turn a false news story into the truth in order to prevent a high-society woman from suing for libel.",
-        "director": "",
-        "stars": []
+        "director": "Jack Conway",
+        "stars": [
+            "Jean Harlow",
+            "William Powell",
+            "Myrna Loy",
+            "Spencer Tracy"
+        ],
+        "votes": "6,367",
+        "gross": ""
     },
     "24": {
         "name": "The Devil-Doll",
@@ -212,8 +378,15 @@
         "runtime": "78 min",
         "genre": "Drama, Horror, Sci-Fi",
         "description": "An escaped convict uses miniaturized humans to wreak vengeance on those that framed him.",
-        "director": "",
-        "stars": []
+        "director": "Tod Browning",
+        "stars": [
+            "Lionel Barrymore",
+            "Maureen O'Sullivan",
+            "Frank Lawton",
+            "Rafaela Ottiano"
+        ],
+        "votes": "3,275",
+        "gross": ""
     },
     "25": {
         "name": "Heart of the West",
@@ -221,8 +394,15 @@
         "runtime": "63 min",
         "genre": "Western",
         "description": "Ranch owner Sally Jordan is engaged in a fence war with rancher Big John Trumbull. Hoppy and Johnny, along with trusty sidekick Windy, side with Sally Jordan. They control a huge cattle stampede by using dynamite.",
-        "director": "",
-        "stars": []
+        "director": "Howard Bretherton",
+        "stars": [
+            "William Boyd",
+            "James Ellison",
+            "George 'Gabby' Hayes",
+            "Sidney Blackmer"
+        ],
+        "votes": "98",
+        "gross": ""
     },
     "26": {
         "name": "Anthony Adverse",
@@ -230,8 +410,16 @@
         "runtime": "141 min",
         "genre": "Adventure, Drama, Romance",
         "description": "In 18th-century Italy, an orphan's debt to the man who raised him threatens to separate him forever from the woman he loves.",
-        "director": "",
-        "stars": []
+        "director": "Mervyn LeRoy",
+        "stars": [
+            "Michael Curtiz",
+            "Fredric March",
+            "Olivia de Havilland",
+            "Donald Woods",
+            "Anita Louise"
+        ],
+        "votes": "1,449",
+        "gross": ""
     },
     "27": {
         "name": "Pennies from Heaven",
@@ -239,8 +427,15 @@
         "runtime": "81 min",
         "genre": "Comedy, Drama, Music",
         "description": "Larry Poole, in prison on a false charge, promise an inmate that when he gets out he will look up and help out a family. The family turns out to be a young girl, Patsy Smith, and her ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Norman Z. McLeod",
+        "stars": [
+            "Bing Crosby",
+            "Madge Evans",
+            "Edith Fellows",
+            "Louis Armstrong"
+        ],
+        "votes": "558",
+        "gross": ""
     },
     "28": {
         "name": "Romeo and Juliet",
@@ -248,8 +443,15 @@
         "runtime": "125 min",
         "genre": "Drama, Romance",
         "description": "Young love is poisoned by a generations long feud between two noble families.",
-        "director": "",
-        "stars": []
+        "director": "George Cukor",
+        "stars": [
+            "Norma Shearer",
+            "Leslie Howard",
+            "John Barrymore",
+            "Edna May Oliver"
+        ],
+        "votes": "1,535",
+        "gross": ""
     },
     "29": {
         "name": "The Crime of Monsieur Lange",
@@ -257,8 +459,15 @@
         "runtime": "77 min",
         "genre": "Comedy, Crime, Drama",
         "description": "A man and a woman arrive in a cafe-hotel near the Belgian frontier. The customers recognize the man from the police description. His name is Amedee Lange, and he murdered Batala in Paris. ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Jean Renoir",
+        "stars": [
+            "Ren\u00e9 Lef\u00e8vre",
+            "Florelle",
+            "Jules Berry",
+            "Marcel L\u00e9vesque"
+        ],
+        "votes": "2,512",
+        "gross": "$0.04M"
     },
     "30": {
         "name": "The Texas Rangers",
@@ -266,8 +475,15 @@
         "runtime": "98 min",
         "genre": "Action, Adventure, Drama",
         "description": "Two down-on-their-luck former outlaws volunteer to be Texas Rangers and find themselves assigned to bring in an old friend, now a notorious outlaw.",
-        "director": "",
-        "stars": []
+        "director": "King Vidor",
+        "stars": [
+            "Fred MacMurray",
+            "Jack Oakie",
+            "Jean Parker",
+            "Lloyd Nolan"
+        ],
+        "votes": "589",
+        "gross": ""
     },
     "31": {
         "name": "Show Boat",
@@ -275,8 +491,15 @@
         "runtime": "113 min",
         "genre": "Comedy, Drama, Musical",
         "description": "Despite her mother's objections, the naive young daughter of a show boat captain is thrust into the limelight as the company's new leading lady.",
-        "director": "",
-        "stars": []
+        "director": "James Whale",
+        "stars": [
+            "Irene Dunne",
+            "Allan Jones",
+            "Charles Winninger",
+            "Paul Robeson"
+        ],
+        "votes": "2,552",
+        "gross": ""
     },
     "32": {
         "name": "The Case of the Black Cat",
@@ -284,8 +507,16 @@
         "runtime": "66 min",
         "genre": "Crime, Mystery, Drama",
         "description": "An bedridden eccentric millionaire, anticipating his own murder, hires Mason to help him rewrite his will, and the lawyer ends up defending the caretaker's cat.",
-        "director": "",
-        "stars": []
+        "director": "William C. McGann",
+        "stars": [
+            "Alan Crosland",
+            "Ricardo Cortez",
+            "June Travis",
+            "Jane Bryan",
+            "Craig Reynolds"
+        ],
+        "votes": "458",
+        "gross": ""
     },
     "33": {
         "name": "Crown v. Stevens",
@@ -293,8 +524,15 @@
         "runtime": "66 min",
         "genre": "Crime, Drama, Thriller",
         "description": "When an ex-dancer marries a man for his money she is suprised find he is a real skinflint. She owes a lot of money to a loan-shark who is after her. However, her husband does carry a lot of...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Michael Powell",
+        "stars": [
+            "Beatrix Thomson",
+            "Patric Knowles",
+            "Glennis Lorimer",
+            "Reginald Purdell"
+        ],
+        "votes": "216",
+        "gross": ""
     },
     "34": {
         "name": "Anything Goes",
@@ -302,8 +540,15 @@
         "runtime": "92 min",
         "genre": "Comedy, Musical",
         "description": "A young man falls in love with a beautiful blonde. When he sees her being forced onto a luxury liner, he decides to follow and rescue her. However, he discovers that she is an English ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Lewis Milestone",
+        "stars": [
+            "Bing Crosby",
+            "Ethel Merman",
+            "Charles Ruggles",
+            "Ida Lupino"
+        ],
+        "votes": "266",
+        "gross": ""
     },
     "35": {
         "name": "The Garden of Allah",
@@ -311,8 +556,15 @@
         "runtime": "79 min",
         "genre": "Adventure, Drama, Romance",
         "description": "The star-crossed desert romance of a cloistered woman and a renegade monk.",
-        "director": "",
-        "stars": []
+        "director": "Richard Boleslawski",
+        "stars": [
+            "Marlene Dietrich",
+            "Charles Boyer",
+            "Tilly Losch",
+            "Basil Rathbone"
+        ],
+        "votes": "1,213",
+        "gross": ""
     },
     "36": {
         "name": "Wife vs. Secretary",
@@ -320,8 +572,15 @@
         "runtime": "88 min",
         "genre": "Comedy, Drama, Romance",
         "description": "The wife of a publishing executive mistakenly believes that her husband's relationship with his attractive secretary is more than professional.",
-        "director": "",
-        "stars": []
+        "director": "Clarence Brown",
+        "stars": [
+            "Clark Gable",
+            "Jean Harlow",
+            "Myrna Loy",
+            "May Robson"
+        ],
+        "votes": "2,787",
+        "gross": ""
     },
     "37": {
         "name": "Mary of Scotland",
@@ -329,8 +588,16 @@
         "runtime": "123 min",
         "genre": "Biography, Drama, History",
         "description": "The recently widowed Mary Stuart returns to Scotland to reclaim her throne but is opposed by her half-brother and her own Scottish lords.",
-        "director": "",
-        "stars": []
+        "director": "John Ford",
+        "stars": [
+            "Leslie Goodwins",
+            "Katharine Hepburn",
+            "Fredric March",
+            "Florence Eldridge",
+            "Douglas Walton"
+        ],
+        "votes": "2,064",
+        "gross": ""
     },
     "38": {
         "name": "Small Town Girl",
@@ -338,8 +605,16 @@
         "runtime": "106 min",
         "genre": "Comedy, Romance",
         "description": "Kay is a girl living in a small rural town whose life is just too dull and repetitious to bear. One night, she meets young, handsome, and rich Bob Dakin, who asks her for directions while ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "William A. Wellman",
+        "stars": [
+            "Robert Z. Leonard",
+            "Janet Gaynor",
+            "Robert Taylor",
+            "Binnie Barnes",
+            "Andy Devine"
+        ],
+        "votes": "684",
+        "gross": ""
     },
     "39": {
         "name": "The Walking Dead",
@@ -347,8 +622,15 @@
         "runtime": "66 min",
         "genre": "Crime, Horror, Sci-Fi",
         "description": "After hapless pianist and ex-con John Elman is framed for murder, he is resurrected by a scientist after his execution.",
-        "director": "",
-        "stars": []
+        "director": "Michael Curtiz",
+        "stars": [
+            "Boris Karloff",
+            "Ricardo Cortez",
+            "Edmund Gwenn",
+            "Marguerite Churchill"
+        ],
+        "votes": "2,071",
+        "gross": ""
     },
     "40": {
         "name": "Born to Dance",
@@ -356,8 +638,15 @@
         "runtime": "106 min",
         "genre": "Musical, Comedy",
         "description": "Sailor Ted meets at the Lonely Hearts Club of his friend Gunny's wife, Jenny, a girl, Nora Paige, and falls in love. Nora wants to become a dancer on Broadway. Ted rescues the Pekinese of ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Roy Del Ruth",
+        "stars": [
+            "Eleanor Powell",
+            "James Stewart",
+            "Virginia Bruce",
+            "Una Merkel"
+        ],
+        "votes": "1,256",
+        "gross": ""
     },
     "41": {
         "name": "These Three",
@@ -365,8 +654,15 @@
         "runtime": "93 min",
         "genre": "Drama, Romance",
         "description": "Two school teachers and the man they both love face ruin when a malicious student cooks up a lie.",
-        "director": "",
-        "stars": []
+        "director": "William Wyler",
+        "stars": [
+            "Miriam Hopkins",
+            "Merle Oberon",
+            "Joel McCrea",
+            "Catherine Doucet"
+        ],
+        "votes": "2,025",
+        "gross": ""
     },
     "42": {
         "name": "Dodsworth",
@@ -374,8 +670,15 @@
         "runtime": "101 min",
         "genre": "Drama, Romance",
         "description": "A retired auto manufacturer and his wife take a long-planned European vacation only to find that they want very different things from life.",
-        "director": "",
-        "stars": []
+        "director": "William Wyler",
+        "stars": [
+            "Walter Huston",
+            "Ruth Chatterton",
+            "Paul Lukas",
+            "Mary Astor"
+        ],
+        "votes": "7,195",
+        "gross": ""
     },
     "43": {
         "name": "The Invisible Ray",
@@ -383,8 +686,15 @@
         "runtime": "80 min",
         "genre": "Horror, Sci-Fi, Thriller",
         "description": "A scientist becomes murderous after discovering, and being exposed to the radiation of, a powerful new element called Radium X.",
-        "director": "",
-        "stars": []
+        "director": "Lambert Hillyer",
+        "stars": [
+            "Boris Karloff",
+            "Bela Lugosi",
+            "Frances Drake",
+            "Frank Lawton"
+        ],
+        "votes": "1,922",
+        "gross": ""
     },
     "44": {
         "name": "Our Relations",
@@ -392,8 +702,15 @@
         "runtime": "73 min",
         "genre": "Comedy",
         "description": "Two pairs of long-lost twin brothers experience high jinks involving a valuable ring, cases of mistaken identity, and gangsters.",
-        "director": "",
-        "stars": []
+        "director": "Harry Lachman",
+        "stars": [
+            "Stan Laurel",
+            "Oliver Hardy",
+            "Alan Hale",
+            "Sidney Toler"
+        ],
+        "votes": "2,445",
+        "gross": ""
     },
     "45": {
         "name": "Rose-Marie",
@@ -401,8 +718,15 @@
         "runtime": "113 min",
         "genre": "Musical, Romance, Adventure",
         "description": "An incognito opera singer falls for a policeman who has been assigned to track down her fugitive brother.",
-        "director": "",
-        "stars": []
+        "director": "W.S. Van Dyke",
+        "stars": [
+            "Jeanette MacDonald",
+            "Nelson Eddy",
+            "Reginald Owen",
+            "Allan Jones"
+        ],
+        "votes": "1,065",
+        "gross": ""
     },
     "46": {
         "name": "Desire",
@@ -410,8 +734,15 @@
         "runtime": "95 min",
         "genre": "Comedy, Crime, Romance",
         "description": "An automotive engineer bound for a holiday in Spain meets a sultry jewel thief.",
-        "director": "",
-        "stars": []
+        "director": "Frank Borzage",
+        "stars": [
+            "Marlene Dietrich",
+            "Gary Cooper",
+            "John Halliday",
+            "William Frawley"
+        ],
+        "votes": "1,853",
+        "gross": ""
     },
     "47": {
         "name": "Intermezzo",
@@ -419,8 +750,15 @@
         "runtime": "86 min",
         "genre": "Drama, Romance",
         "description": "The world famous violinist Holger Brandt comes back to his family after a tour. He and his wife have been married for many years, but their love has gone. Their young daughter gets a new ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Gustaf Molander",
+        "stars": [
+            "Ingrid Bergman",
+            "G\u00f6sta Ekman",
+            "Inga Tidblad",
+            "Erik 'Bullen' Berglund"
+        ],
+        "votes": "892",
+        "gross": ""
     },
     "48": {
         "name": "The Story of Louis Pasteur",
@@ -428,8 +766,15 @@
         "runtime": "86 min",
         "genre": "Biography, Drama, History",
         "description": "The biography of the pioneering French microbiologist who helped revolutionize agriculture and medicine.",
-        "director": "",
-        "stars": []
+        "director": "William Dieterle",
+        "stars": [
+            "Paul Muni",
+            "Josephine Hutchinson",
+            "Anita Louise",
+            "Donald Woods"
+        ],
+        "votes": "1,967",
+        "gross": ""
     },
     "49": {
         "name": "Hopalong Cassidy Returns",
@@ -437,8 +782,15 @@
         "runtime": "74 min",
         "genre": "Adventure, Drama, Romance",
         "description": "A crusading newspaper editor recruits his old friend Hoppy to take the job of marshal in a town rife with vice and murder directed at helpless miners.",
-        "director": "",
-        "stars": []
+        "director": "Nate Watt",
+        "stars": [
+            "William Boyd",
+            "George 'Gabby' Hayes",
+            "Gail Sheridan",
+            "Evelyn Brent"
+        ],
+        "votes": "162",
+        "gross": ""
     },
     "50": {
         "name": "Theodora Goes Wild",
@@ -446,7 +798,14 @@
         "runtime": "94 min",
         "genre": "Comedy, Romance",
         "description": "The author of a controversially racy best-selling book tries to hide her celebrity status from her provincial small-town neighbors, who'd be scandalized if they knew.",
-        "director": "",
-        "stars": []
+        "director": "Richard Boleslawski",
+        "stars": [
+            "Irene Dunne",
+            "Melvyn Douglas",
+            "Thomas Mitchell",
+            "Thurston Hall"
+        ],
+        "votes": "1,945",
+        "gross": ""
     }
 }

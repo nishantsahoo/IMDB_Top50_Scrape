@@ -5,8 +5,10 @@
         "runtime": "",
         "genre": "",
         "description": "\"Masqueraders dressed in most grotesque costumes are passing one side of the grandstand, while a procession of bicyclists wheel by on the other side.\"",
-        "director": "",
-        "stars": []
+        "director": "James H. White",
+        "stars": [],
+        "votes": 19,
+        "gross": ""
     },
     "2": {
         "name": "Cake Walk",
@@ -15,7 +17,9 @@
         "genre": "",
         "description": "\"Here is a film, one of the finest of its kind, portraying a number of colored professionals in their favorite pastime, a cake walk. This is a winner and is bound to win applause. Be sure ...                See full summary\u00a0\u00bb",
         "director": "",
-        "stars": []
+        "stars": [],
+        "votes": 43,
+        "gross": ""
     },
     "3": {
         "name": "Can Can",
@@ -23,8 +27,10 @@
         "runtime": "",
         "genre": "",
         "description": "\"You are not often afforded the privilege of viewing a real French can-can and this film is therefore bound to score a success. Mlle. Fraidora the celebrated French can-can dancer is shown ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Mlle. Fraidora",
+        "stars": [],
+        "votes": 20,
+        "gross": ""
     },
     "4": {
         "name": "The Telephone",
@@ -33,7 +39,9 @@
         "genre": "",
         "description": "Add a Plot",
         "director": "",
-        "stars": []
+        "stars": [],
+        "votes": 16,
+        "gross": ""
     },
     "5": {
         "name": "Tub Race",
@@ -42,7 +50,9 @@
         "genre": "",
         "description": "\"This turns out to be as much of a bathing scene as it is a race. Every one who has participated or witnessed a tub race will enjoy the picture.\"",
         "director": "",
-        "stars": []
+        "stars": [],
+        "votes": 15,
+        "gross": ""
     },
     "6": {
         "name": "The Highland Fling",
@@ -51,7 +61,9 @@
         "genre": "",
         "description": "Add a Plot",
         "director": "",
-        "stars": []
+        "stars": [],
+        "votes": 8,
+        "gross": ""
     },
     "7": {
         "name": "The Startled Lover",
@@ -60,7 +72,9 @@
         "genre": "Romance",
         "description": "Add a Plot",
         "director": "",
-        "stars": []
+        "stars": [],
+        "votes": 14,
+        "gross": ""
     },
     "8": {
         "name": "Pea-Hulling Machine",
@@ -69,7 +83,9 @@
         "genre": "",
         "description": "\"Taken for use in patent litigation.\"",
         "director": "",
-        "stars": []
+        "stars": [],
+        "votes": 13,
+        "gross": ""
     },
     "9": {
         "name": "S.S. 'Coptic'",
@@ -78,7 +94,9 @@
         "genre": "",
         "description": "\"Continuation of the above picture [S.S. COPTIC LYING TO]. Sun bursts forth, silver tipping the foam on the wave crests. The billows surge grandly.\"",
         "director": "",
-        "stars": []
+        "stars": [],
+        "votes": 30,
+        "gross": ""
     },
     "10": {
         "name": "Highland Fling",
@@ -87,7 +105,9 @@
         "genre": "",
         "description": "Add a Plot",
         "director": "",
-        "stars": []
+        "stars": [],
+        "votes": 5,
+        "gross": ""
     },
     "11": {
         "name": "A Very Laughable Mixup",
@@ -96,7 +116,9 @@
         "genre": "",
         "description": "Add a Plot",
         "director": "",
-        "stars": []
+        "stars": [],
+        "votes": 13,
+        "gross": ""
     },
     "12": {
         "name": "Firing Broadside at Cabanas",
@@ -105,7 +127,9 @@
         "genre": "",
         "description": "Reenactment of a Spanish-American War battle.",
         "director": "",
-        "stars": []
+        "stars": [],
+        "votes": 6,
+        "gross": ""
     },
     "13": {
         "name": "Bombardment of Matanzas",
@@ -113,8 +137,10 @@
         "runtime": "",
         "genre": "",
         "description": "Reenactment of a Spanish-American War naval bombardment, done with miniatures.",
-        "director": "",
-        "stars": []
+        "director": "Edward Amet",
+        "stars": [],
+        "votes": 13,
+        "gross": ""
     },
     "14": {
         "name": "Highland Cross Sword Dance",
@@ -123,7 +149,9 @@
         "genre": "",
         "description": "Add a Plot",
         "director": "",
-        "stars": []
+        "stars": [],
+        "votes": 5,
+        "gross": ""
     },
     "15": {
         "name": "Freedom of Cuba",
@@ -131,8 +159,10 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Edward Amet",
+        "stars": [],
+        "votes": 9,
+        "gross": ""
     },
     "16": {
         "name": "Thrilling War Scene",
@@ -141,7 +171,9 @@
         "genre": "",
         "description": "Add a Plot",
         "director": "",
-        "stars": []
+        "stars": [],
+        "votes": "",
+        "gross": ""
     },
     "17": {
         "name": "Josephina Ruiz",
@@ -150,7 +182,9 @@
         "genre": "",
         "description": "Add a Plot",
         "director": "",
-        "stars": []
+        "stars": [],
+        "votes": "",
+        "gross": ""
     },
     "18": {
         "name": "Torpedo Boat, 'Dupont'",
@@ -159,6 +193,8 @@
         "genre": "",
         "description": "\"A stunning view of one of the fastest boats in Uncle Sam's torpedo fleet. She is running under forced draught at full headway, and comes like a race horse directly toward the camera, ...                See full summary\u00a0\u00bb",
         "director": "",
-        "stars": []
+        "stars": [],
+        "votes": 22,
+        "gross": ""
     }
 }

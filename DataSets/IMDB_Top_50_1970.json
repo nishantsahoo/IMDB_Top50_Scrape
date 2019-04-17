@@ -5,8 +5,15 @@
         "runtime": "122 min",
         "genre": "Comedy, Drama, War",
         "description": "A man is trying desperately to be certified insane during World War II, so he can stop flying missions.",
-        "director": "",
-        "stars": []
+        "director": "Mike Nichols",
+        "stars": [
+            "Alan Arkin",
+            "Martin Balsam",
+            "Richard Benjamin",
+            "Art Garfunkel"
+        ],
+        "votes": "19,496",
+        "gross": "$24.91M"
     },
     "2": {
         "name": "The AristoCats",
@@ -14,8 +21,15 @@
         "runtime": "78 min",
         "genre": "Animation, Adventure, Comedy",
         "description": "With the help of a smooth talking tomcat, a family of Parisian felines set to inherit a fortune from their owner try to make it back home after a jealous butler kidnaps them and leaves them in the country.",
-        "director": "",
-        "stars": []
+        "director": "Wolfgang Reitherman",
+        "stars": [
+            "Phil Harris",
+            "Eva Gabor",
+            "Sterling Holloway",
+            "Scatman Crothers"
+        ],
+        "votes": "81,814",
+        "gross": "$37.68M"
     },
     "3": {
         "name": "MASH",
@@ -23,8 +37,15 @@
         "runtime": "116 min",
         "genre": "Comedy, Drama, War",
         "description": "The staff of a Korean War field hospital use humor and high jinks to keep their sanity in the face of the horror of war.",
-        "director": "",
-        "stars": []
+        "director": "Robert Altman",
+        "stars": [
+            "Donald Sutherland",
+            "Elliott Gould",
+            "Tom Skerritt",
+            "Sally Kellerman"
+        ],
+        "votes": "62,987",
+        "gross": "$81.60M"
     },
     "4": {
         "name": "Patton",
@@ -32,8 +53,15 @@
         "runtime": "172 min",
         "genre": "Biography, Drama, War",
         "description": "The World War II phase of the career of the controversial American general, George S. Patton.",
-        "director": "",
-        "stars": []
+        "director": "Franklin J. Schaffner",
+        "stars": [
+            "George C. Scott",
+            "Karl Malden",
+            "Stephen Young",
+            "Michael Strong"
+        ],
+        "votes": "87,529",
+        "gross": "$61.70M"
     },
     "5": {
         "name": "El Topo",
@@ -41,8 +69,15 @@
         "runtime": "125 min",
         "genre": "Drama, Western",
         "description": "A mysterious black-clad gunfighter wanders a mystical Western landscape encountering multiple bizarre characters.",
-        "director": "",
-        "stars": []
+        "director": "Alejandro Jodorowsky",
+        "stars": [
+            "Alejandro Jodorowsky",
+            "Brontis Jodorowsky",
+            "Jos\u00e9 Legarreta",
+            "Alfonso Arau"
+        ],
+        "votes": "22,660",
+        "gross": ""
     },
     "6": {
         "name": "Love Story",
@@ -50,8 +85,15 @@
         "runtime": "100 min",
         "genre": "Drama, Romance",
         "description": "A boy and a girl from different backgrounds fall in love regardless of their upbringing - and then tragedy strikes.",
-        "director": "",
-        "stars": []
+        "director": "Arthur Hiller",
+        "stars": [
+            "Ali MacGraw",
+            "Ryan O'Neal",
+            "John Marley",
+            "Ray Milland"
+        ],
+        "votes": "26,904",
+        "gross": "$106.40M"
     },
     "7": {
         "name": "Kelly's Heroes",
@@ -59,8 +101,15 @@
         "runtime": "144 min",
         "genre": "Adventure, Comedy, War",
         "description": "A group of U.S. soldiers sneaks across enemy lines to get their hands on a secret stash of Nazi treasure.",
-        "director": "",
-        "stars": []
+        "director": "Brian G. Hutton",
+        "stars": [
+            "Clint Eastwood",
+            "Telly Savalas",
+            "Don Rickles",
+            "Carroll O'Connor"
+        ],
+        "votes": "41,129",
+        "gross": ""
     },
     "8": {
         "name": "Two Mules for Sister Sara",
@@ -68,8 +117,15 @@
         "runtime": "116 min",
         "genre": "Adventure, Romance, War",
         "description": "Nun Sara is on the run in Mexico and is saved from cowboys by Hogan, who is preparing for a future mission to capture a French fort. The pair become good friends, but Sara never does tell him the true reason behind her being outlawed.",
-        "director": "",
-        "stars": []
+        "director": "Don Siegel",
+        "stars": [
+            "Clint Eastwood",
+            "Shirley MacLaine",
+            "Manolo F\u00e1bregas",
+            "Alberto Morin"
+        ],
+        "votes": "21,163",
+        "gross": ""
     },
     "9": {
         "name": "Beyond the Valley of the Dolls",
@@ -77,8 +133,15 @@
         "runtime": "109 min",
         "genre": "Comedy, Drama, Music",
         "description": "Three girls come to Hollywood to make it big, but find only sex, drugs and sleaze.",
-        "director": "",
-        "stars": []
+        "director": "Russ Meyer",
+        "stars": [
+            "Dolly Read",
+            "Cynthia Myers",
+            "Marcia McBroom",
+            "John Lazar"
+        ],
+        "votes": "9,010",
+        "gross": "$9.00M"
     },
     "10": {
         "name": "Little Big Man",
@@ -86,8 +149,15 @@
         "runtime": "139 min",
         "genre": "Adventure, Comedy, Drama",
         "description": "Jack Crabb, looking back from extreme old age, tells of his life being raised by Native Americans and fighting with General Custer.",
-        "director": "",
-        "stars": []
+        "director": "Arthur Penn",
+        "stars": [
+            "Dustin Hoffman",
+            "Faye Dunaway",
+            "Chief Dan George",
+            "Martin Balsam"
+        ],
+        "votes": "30,343",
+        "gross": "$31.56M"
     },
     "11": {
         "name": "Gas! -Or- It Became Necessary to Destroy the World in Order to Save It.",
@@ -95,8 +165,15 @@
         "runtime": "78 min",
         "genre": "Comedy, Drama, Sci-Fi",
         "description": "A gas is let loose upon the world that kills anyone over 25 years old.",
-        "director": "",
-        "stars": []
+        "director": "Roger Corman",
+        "stars": [
+            "Bob Corff",
+            "Elaine Giftos",
+            "Bud Cort",
+            "Talia Shire"
+        ],
+        "votes": "1,107",
+        "gross": ""
     },
     "12": {
         "name": "There Was a Crooked Man...",
@@ -104,8 +181,15 @@
         "runtime": "126 min",
         "genre": "Comedy, Western",
         "description": "A charming but totally ruthless criminal is sent to a remote Arizona prison. He enlists the help of his cellmates in an escape attempt with the promise of sharing his hidden loot.",
-        "director": "",
-        "stars": []
+        "director": "Joseph L. Mankiewicz",
+        "stars": [
+            "Kirk Douglas",
+            "Henry Fonda",
+            "Hume Cronyn",
+            "Warren Oates"
+        ],
+        "votes": "3,470",
+        "gross": ""
     },
     "13": {
         "name": "The Conformist",
@@ -113,8 +197,15 @@
         "runtime": "113 min",
         "genre": "Drama",
         "description": "A weak-willed Italian man becomes a fascist flunky who goes abroad to arrange the assassination of his old teacher, now a political dissident.",
-        "director": "",
-        "stars": []
+        "director": "Bernardo Bertolucci",
+        "stars": [
+            "Jean-Louis Trintignant",
+            "Stefania Sandrelli",
+            "Gastone Moschin",
+            "Enzo Tarascio"
+        ],
+        "votes": "23,078",
+        "gross": ""
     },
     "14": {
         "name": "Five Easy Pieces",
@@ -122,8 +213,15 @@
         "runtime": "98 min",
         "genre": "Drama",
         "description": "A dropout from upper-class America picks up work along the way on oil rigs when his life isn't spent in a squalid succession of bars, motels, and other points of interest.",
-        "director": "",
-        "stars": []
+        "director": "Bob Rafelson",
+        "stars": [
+            "Jack Nicholson",
+            "Karen Black",
+            "Billy Green Bush",
+            "Fannie Flagg"
+        ],
+        "votes": "29,870",
+        "gross": ""
     },
     "15": {
         "name": "Hercules in New York",
@@ -131,8 +229,15 @@
         "runtime": "75 min",
         "genre": "Adventure, Family, Fantasy",
         "description": "Hercules (Schwarzenegger) is sent to Earth where he finds true love and starts a promising career in the bodybuilder business.",
-        "director": "",
-        "stars": []
+        "director": "Arthur Allan Seidelman",
+        "stars": [
+            "Arnold Stang",
+            "Arnold Schwarzenegger",
+            "Deborah Loomis",
+            "James Karen"
+        ],
+        "votes": "15,778",
+        "gross": ""
     },
     "16": {
         "name": "They Call Me Trinity",
@@ -140,8 +245,15 @@
         "runtime": "113 min",
         "genre": "Comedy, Western",
         "description": "A lazy, unorthodox gunfighter and his portly, horse-thieving brother defend a Mormon settlement from a land-grabbing Major, a Mexican bandit, and their henchmen.",
-        "director": "",
-        "stars": []
+        "director": "Enzo Barboni",
+        "stars": [
+            "Terence Hill",
+            "Bud Spencer",
+            "Steffen Zacharias",
+            "Dan Sturkie"
+        ],
+        "votes": "17,114",
+        "gross": ""
     },
     "17": {
         "name": "Waterloo",
@@ -149,8 +261,15 @@
         "runtime": "123 min",
         "genre": "Action, Biography, Drama",
         "description": "Facing the decline of everything he has worked to obtain, conqueror Napoleon Bonaparte and his army confront the British at the Battle of Waterloo.",
-        "director": "",
-        "stars": []
+        "director": "Sergey Bondarchuk",
+        "stars": [
+            "Rod Steiger",
+            "Christopher Plummer",
+            "Orson Welles",
+            "Jack Hawkins"
+        ],
+        "votes": "7,363",
+        "gross": "$3.05M"
     },
     "18": {
         "name": "Zabriskie Point",
@@ -158,8 +277,15 @@
         "runtime": "113 min",
         "genre": "Drama",
         "description": "At Zabriskie Point, United States' lowest point, two perfect strangers meet; an undergraduate dreamer and a young hippie student who start off an unrestrained romance, making love on the dusty terrain.",
-        "director": "",
-        "stars": []
+        "director": "Michelangelo Antonioni",
+        "stars": [
+            "Mark Frechette",
+            "Daria Halprin",
+            "Paul Fix",
+            "G.D. Spradlin"
+        ],
+        "votes": "13,220",
+        "gross": ""
     },
     "19": {
         "name": "Wanda",
@@ -167,8 +293,15 @@
         "runtime": "102 min",
         "genre": "Crime, Drama",
         "description": "Wanda, a lonely housewife, drifts through mining country until she meets a petty thief who takes her in.",
-        "director": "",
-        "stars": []
+        "director": "Barbara Loden",
+        "stars": [
+            "Barbara Loden",
+            "Michael Higgins",
+            "Dorothy Shupenes",
+            "Peter Shupenes"
+        ],
+        "votes": "2,325",
+        "gross": "$0.05M"
     },
     "20": {
         "name": "Rio Lobo",
@@ -176,8 +309,15 @@
         "runtime": "114 min",
         "genre": "Adventure, Romance, War",
         "description": "After the Civil War, Cord McNally searches for the traitor whose treachery caused the defeat of McNally's unit and the loss of a close friend.",
-        "director": "",
-        "stars": []
+        "director": "Howard Hawks",
+        "stars": [
+            "John Wayne",
+            "Jorge Rivero",
+            "Jennifer O'Neill",
+            "Jack Elam"
+        ],
+        "votes": "9,281",
+        "gross": "$9.27M"
     },
     "21": {
         "name": "Airport",
@@ -185,8 +325,16 @@
         "runtime": "137 min",
         "genre": "Action, Drama, Thriller",
         "description": "A bomber on board an airplane, an airport almost closed by snow, and various personal problems of the people involved.",
-        "director": "",
-        "stars": []
+        "director": "George Seaton",
+        "stars": [
+            "Henry Hathaway",
+            "Burt Lancaster",
+            "Dean Martin",
+            "George Kennedy",
+            "Jean Seberg"
+        ],
+        "votes": "15,802",
+        "gross": "$100.49M"
     },
     "22": {
         "name": "The Railway Children",
@@ -194,8 +342,15 @@
         "runtime": "109 min",
         "genre": "Family, Drama",
         "description": "After the enforced absence of their father, three children move with their mother to Yorkshire, where during their adventures they attempt to discover the reason for his disappearance.",
-        "director": "",
-        "stars": []
+        "director": "Lionel Jeffries",
+        "stars": [
+            "Dinah Sheridan",
+            "Bernard Cribbins",
+            "William Mervyn",
+            "Iain Cuthbertson"
+        ],
+        "votes": "3,552",
+        "gross": ""
     },
     "23": {
         "name": "Tora! Tora! Tora!",
@@ -203,8 +358,17 @@
         "runtime": "144 min",
         "genre": "Action, Drama, History",
         "description": "In 1941, following months of economic embargo, Japan prepares to open its war against the United States with a preventive strike on the US naval base at Pearl Harbor.",
-        "director": "",
-        "stars": []
+        "director": "Richard Fleischer",
+        "stars": [
+            "Kinji Fukasaku",
+            "Toshio Masuda",
+            "Martin Balsam",
+            "S\u00f4 Yamamura",
+            "Jason Robards",
+            "Joseph Cotten"
+        ],
+        "votes": "29,015",
+        "gross": "$29.55M"
     },
     "24": {
         "name": "Performance",
@@ -212,8 +376,16 @@
         "runtime": "105 min",
         "genre": "Crime, Drama",
         "description": "A violent gangster seeks refuge from the mob in the Bohemian home of a former rock star.",
-        "director": "",
-        "stars": []
+        "director": "Donald Cammell",
+        "stars": [
+            "Nicolas Roeg",
+            "James Fox",
+            "Mick Jagger",
+            "Anita Pallenberg",
+            "Mich\u00e8le Breton"
+        ],
+        "votes": "8,200",
+        "gross": ""
     },
     "25": {
         "name": "Ryan's Daughter",
@@ -221,8 +393,15 @@
         "runtime": "206 min",
         "genre": "Drama, Romance",
         "description": "Set in the wake of the 1916 Easter Rising, a married woman in a small Irish village has an affair with a troubled British officer.",
-        "director": "",
-        "stars": []
+        "director": "David Lean",
+        "stars": [
+            "Robert Mitchum",
+            "Trevor Howard",
+            "John Mills",
+            "Christopher Jones"
+        ],
+        "votes": "7,791",
+        "gross": "$30.85M"
     },
     "26": {
         "name": "Soldier Blue",
@@ -230,8 +409,15 @@
         "runtime": "112 min",
         "genre": "Western",
         "description": "After a cavalry patrol is ambushed by the Cheyenne, the two survivors, a soldier and a woman, must reach the safety of the nearest fort.",
-        "director": "",
-        "stars": []
+        "director": "Ralph Nelson",
+        "stars": [
+            "Candice Bergen",
+            "Peter Strauss",
+            "Donald Pleasence",
+            "John Anderson"
+        ],
+        "votes": "4,460",
+        "gross": ""
     },
     "27": {
         "name": "The Bird with the Crystal Plumage",
@@ -239,8 +425,15 @@
         "runtime": "96 min",
         "genre": "Horror, Mystery, Thriller",
         "description": "An American writer and his English girlfriend are stalked by a serial killer terrorizing Rome after the former witnesses a murder attempt on a woman's life.",
-        "director": "",
-        "stars": []
+        "director": "Dario Argento",
+        "stars": [
+            "Tony Musante",
+            "Suzy Kendall",
+            "Enrico Maria Salerno",
+            "Eva Renzi"
+        ],
+        "votes": "15,353",
+        "gross": ""
     },
     "28": {
         "name": "When Dinosaurs Ruled the Earth",
@@ -248,8 +441,15 @@
         "runtime": "96 min",
         "genre": "Adventure, Fantasy, Romance",
         "description": "Set in the ancient past when humans and dinosaurs lived together, a small tribe is struggling to survive by giving a sacrifice of a blond woman to their god, the sun, in return for ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Val Guest",
+        "stars": [
+            "Victoria Vetri",
+            "Robin Hawdon",
+            "Patrick Allen",
+            "Drewe Henley"
+        ],
+        "votes": "1,990",
+        "gross": ""
     },
     "29": {
         "name": "Beneath the Planet of the Apes",
@@ -257,8 +457,15 @@
         "runtime": "95 min",
         "genre": "Action, Adventure, Sci-Fi",
         "description": "The sole survivor of an interplanetary rescue mission searches for the only survivor of the previous expedition. He discovers a planet ruled by apes and an underground city run by telepathic humans.",
-        "director": "",
-        "stars": []
+        "director": "Ted Post",
+        "stars": [
+            "James Franciscus",
+            "Kim Hunter",
+            "Maurice Evans",
+            "Linda Harrison"
+        ],
+        "votes": "38,629",
+        "gross": "$19.00M"
     },
     "30": {
         "name": "Valerie a t\u00fdden divu",
@@ -266,8 +473,15 @@
         "runtime": "77 min",
         "genre": "Adventure, Drama, Fantasy",
         "description": "Inspired by fairy-tales such as Alice in Wonderland and Little Red-Riding Hood, \"Valerie and her Week of Wonders\" is a surreal tale in which love, fear, sex and religion merge into one fantastic world.",
-        "director": "",
-        "stars": []
+        "director": "Jaromil Jires",
+        "stars": [
+            "Jaroslava Schallerov\u00e1",
+            "Helena An\u00fdzov\u00e1",
+            "Petr Kopriva",
+            "Jir\u00ed Pr\u00fdmek"
+        ],
+        "votes": "6,670",
+        "gross": ""
     },
     "31": {
         "name": "Le Cercle Rouge",
@@ -275,8 +489,15 @@
         "runtime": "140 min",
         "genre": "Crime, Drama, Thriller",
         "description": "After leaving prison, master thief Corey crosses paths with a notorious escapee and an alcoholic former policeman. The trio proceed to plot an elaborate heist.",
-        "director": "",
-        "stars": []
+        "director": "Jean-Pierre Melville",
+        "stars": [
+            "Alain Delon",
+            "Bourvil",
+            "Gian Maria Volont\u00e8",
+            "Yves Montand"
+        ],
+        "votes": "19,048",
+        "gross": "$0.37M"
     },
     "32": {
         "name": "The Cheyenne Social Club",
@@ -284,8 +505,15 @@
         "runtime": "103 min",
         "genre": "Comedy, Romance, Western",
         "description": "An aging cowboy finds to his embarrassment that the successful business he has inherited from his brother is actually a house of prostitution.",
-        "director": "",
-        "stars": []
+        "director": "Gene Kelly",
+        "stars": [
+            "James Stewart",
+            "Henry Fonda",
+            "Shirley Jones",
+            "Sue Ane Langdon"
+        ],
+        "votes": "3,731",
+        "gross": ""
     },
     "33": {
         "name": "The Vampire Lovers",
@@ -293,8 +521,15 @@
         "runtime": "91 min",
         "genre": "Horror",
         "description": "Seductive vampire Carmilla Karnstein and her family target the beautiful and the rich in a remote area of late eighteenth-century Gemany.",
-        "director": "",
-        "stars": []
+        "director": "Roy Ward Baker",
+        "stars": [
+            "Ingrid Pitt",
+            "Pippa Steel",
+            "Madeline Smith",
+            "Peter Cushing"
+        ],
+        "votes": "4,648",
+        "gross": ""
     },
     "34": {
         "name": "Colossus: The Forbin Project",
@@ -302,8 +537,15 @@
         "runtime": "100 min",
         "genre": "Sci-Fi, Thriller",
         "description": "Thinking this will prevent war, the US government gives an impenetrable supercomputer total control over launching nuclear missiles. But what the computer does with the power is unimaginable to its creators.",
-        "director": "",
-        "stars": []
+        "director": "Joseph Sargent",
+        "stars": [
+            "Eric Braeden",
+            "Susan Clark",
+            "Gordon Pinsent",
+            "William Schallert"
+        ],
+        "votes": "7,341",
+        "gross": ""
     },
     "35": {
         "name": "Chisum",
@@ -311,8 +553,15 @@
         "runtime": "111 min",
         "genre": "Biography, Western",
         "description": "Cattle baron John Chisum joins forces with Billy the Kid and Pat Garrett to fight the Lincoln County land war.",
-        "director": "",
-        "stars": []
+        "director": "Andrew V. McLaglen",
+        "stars": [
+            "John Wayne",
+            "Forrest Tucker",
+            "Christopher George",
+            "Ben Johnson"
+        ],
+        "votes": "8,067",
+        "gross": "$6.00M"
     },
     "36": {
         "name": "Myra Breckinridge",
@@ -320,8 +569,15 @@
         "runtime": "94 min",
         "genre": "Comedy",
         "description": "After undergoing gender reassignment surgery, an aspiring actress travels to Hollywood, where she also wants to make a claim on her wealthy uncle's estate.",
-        "director": "",
-        "stars": []
+        "director": "Michael Sarne",
+        "stars": [
+            "Mae West",
+            "John Huston",
+            "Raquel Welch",
+            "Rex Reed"
+        ],
+        "votes": "2,532",
+        "gross": "$3.00M"
     },
     "37": {
         "name": "The Private Life of Sherlock Holmes",
@@ -329,8 +585,15 @@
         "runtime": "125 min",
         "genre": "Adventure, Comedy, Crime",
         "description": "When a bored Holmes eagerly takes the case of Gabrielle Valladon after an attempt on her life, the search for her missing husband leads to Loch Ness and the legendary monster.",
-        "director": "",
-        "stars": []
+        "director": "Billy Wilder",
+        "stars": [
+            "Robert Stephens",
+            "Christopher Lee",
+            "Colin Blakely",
+            "Genevi\u00e8ve Page"
+        ],
+        "votes": "9,429",
+        "gross": "$3.30M"
     },
     "38": {
         "name": "Deep End",
@@ -338,8 +601,15 @@
         "runtime": "88 min",
         "genre": "Drama, Romance",
         "description": "15-year-old dropout Mike takes a job at Newford Baths, where inappropriate sexual behaviour abounds, and becomes obsessed with his coworker Susan.",
-        "director": "",
-        "stars": []
+        "director": "Jerzy Skolimowski",
+        "stars": [
+            "Jane Asher",
+            "John Moulder-Brown",
+            "Karl Michael Vogler",
+            "Christopher Sandford"
+        ],
+        "votes": "4,533",
+        "gross": ""
     },
     "39": {
         "name": "Mark of the Devil",
@@ -347,8 +617,16 @@
         "runtime": "90 min",
         "genre": "Drama, History, Horror",
         "description": "In 1700s Austria, a witch-hunter's apprentice has doubts about the righteousness of witch-hunting when he witnesses the brutality, the injustice, the falsehood, the torture and the arbitrary killing that go with the job.",
-        "director": "",
-        "stars": []
+        "director": "Michael Armstrong",
+        "stars": [
+            "Adrian Hoven",
+            "Herbert Lom",
+            "Udo Kier",
+            "Olivera Katarina",
+            "Reggie Nalder"
+        ],
+        "votes": "2,628",
+        "gross": ""
     },
     "40": {
         "name": "Trog",
@@ -356,8 +634,15 @@
         "runtime": "93 min",
         "genre": "Horror, Sci-Fi",
         "description": "A sympathetic anthropologist uses drugs and surgery to try to communicate with a primitive troglodyte who is found living in a local cave.",
-        "director": "",
-        "stars": []
+        "director": "Freddie Francis",
+        "stars": [
+            "Joan Crawford",
+            "Michael Gough",
+            "Bernard Kay",
+            "Kim Braden"
+        ],
+        "votes": "1,922",
+        "gross": ""
     },
     "41": {
         "name": "A Man Called Horse",
@@ -365,8 +650,15 @@
         "runtime": "114 min",
         "genre": "Adventure, Drama, Western",
         "description": "In 1825, an English aristocrat is captured by Native Americans. He lives with them and begins to understand their way of life. Eventually, he is accepted as part of the tribe and aspires to become their leader.",
-        "director": "",
-        "stars": []
+        "director": "Elliot Silverstein",
+        "stars": [
+            "Richard Harris",
+            "Judith Anderson",
+            "Jean Gascon",
+            "Manu Tupou"
+        ],
+        "votes": "7,511",
+        "gross": ""
     },
     "42": {
         "name": "Joe",
@@ -374,8 +666,15 @@
         "runtime": "107 min",
         "genre": "Drama, Thriller",
         "description": "Two men, Bill, a wealthy conservative, and Joe, a far-right factory worker, form a dangerous bond after Bill confesses to murdering his daughter's drug dealer boyfriend to Joe.",
-        "director": "",
-        "stars": []
+        "director": "John G. Avildsen",
+        "stars": [
+            "Peter Boyle",
+            "Dennis Patrick",
+            "Susan Sarandon",
+            "Patrick McDermott"
+        ],
+        "votes": "2,483",
+        "gross": "$19.32M"
     },
     "43": {
         "name": "The Ballad of Cable Hogue",
@@ -383,8 +682,15 @@
         "runtime": "121 min",
         "genre": "Comedy, Drama, Romance",
         "description": "A hobo accidentally stumbles onto a water spring, and creates a profitable way station in the middle of the desert.",
-        "director": "",
-        "stars": []
+        "director": "Sam Peckinpah",
+        "stars": [
+            "Jason Robards",
+            "Stella Stevens",
+            "David Warner",
+            "Strother Martin"
+        ],
+        "votes": "7,678",
+        "gross": "$3.50M"
     },
     "44": {
         "name": "Claire's Knee",
@@ -392,8 +698,15 @@
         "runtime": "105 min",
         "genre": "Drama, Romance",
         "description": "On lakeside summer holiday, a conflicted older man is dared to have a flirt with two beautiful teenage stepsisters despite his betrothal to a diplomat's daughter and the fact that the girls have boyfriends.",
-        "director": "",
-        "stars": []
+        "director": "\u00c9ric Rohmer",
+        "stars": [
+            "Jean-Claude Brialy",
+            "Aurora Cornu",
+            "B\u00e9atrice Romand",
+            "Laurence de Monaghan"
+        ],
+        "votes": "7,405",
+        "gross": ""
     },
     "45": {
         "name": "Bigfoot",
@@ -401,8 +714,15 @@
         "runtime": "84 min",
         "genre": "Horror, Sci-Fi, Thriller",
         "description": "Bigfoot kidnaps some women and some bikers decide to go on a rescue mission to save them.",
-        "director": "",
-        "stars": []
+        "director": "Robert F. Slatzer",
+        "stars": [
+            "John Carradine",
+            "Joi Lansing",
+            "Judith Jordan",
+            "John Mitchum"
+        ],
+        "votes": "653",
+        "gross": ""
     },
     "46": {
         "name": "Brewster McCloud",
@@ -410,8 +730,15 @@
         "runtime": "105 min",
         "genre": "Comedy, Fantasy",
         "description": "An introverted loner living in the bowels of the Astrodome plots to develop - with the aid of a mysterious guardian angel - a pair of wings that will help him fly.",
-        "director": "",
-        "stars": []
+        "director": "Robert Altman",
+        "stars": [
+            "Bud Cort",
+            "Shelley Duvall",
+            "Sally Kellerman",
+            "Michael Murphy"
+        ],
+        "votes": "3,743",
+        "gross": ""
     },
     "47": {
         "name": "Husbands",
@@ -419,8 +746,15 @@
         "runtime": "131 min",
         "genre": "Comedy, Drama",
         "description": "After the death of a common friend, three married men leave their lives together, seeking pleasure and freedom and ultimately leaving for London.",
-        "director": "",
-        "stars": []
+        "director": "John Cassavetes",
+        "stars": [
+            "Ben Gazzara",
+            "Peter Falk",
+            "John Cassavetes",
+            "Jenny Runacre"
+        ],
+        "votes": "4,418",
+        "gross": ""
     },
     "48": {
         "name": "Hi, Mom!",
@@ -428,8 +762,15 @@
         "runtime": "87 min",
         "genre": "Comedy, Drama",
         "description": "A Vietnam vet moves into an apartment and views in other people's windows across the street, meets one of the women, and discovers black theater.",
-        "director": "",
-        "stars": []
+        "director": "Brian De Palma",
+        "stars": [
+            "Robert De Niro",
+            "Allen Garfield",
+            "Lara Parker",
+            "Charles Durning"
+        ],
+        "votes": "3,805",
+        "gross": ""
     },
     "49": {
         "name": "Ned Kelly",
@@ -437,8 +778,15 @@
         "runtime": "100 min",
         "genre": "Biography, Crime, Drama",
         "description": "Based on a true story, Ned Kelly is unable to support his family in the Australian outback, he turns to stealing horses in order to make money. He gets more deeply drawn into the outlaw ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Tony Richardson",
+        "stars": [
+            "Mick Jagger",
+            "Clarissa Kaye-Mason",
+            "Mark McManus",
+            "Ken Goodlet"
+        ],
+        "votes": "999",
+        "gross": ""
     },
     "50": {
         "name": "The Games",
@@ -446,7 +794,14 @@
         "runtime": "100 min",
         "genre": "Drama, Sport",
         "description": "Four marathon runners (one from England, one from the U.S., a Czechoslovakian, and an Australian Aborigine) prepare to run in the Olympic games. The film follows each one and shows what their motivations are for running in the games.",
-        "director": "",
-        "stars": []
+        "director": "Michael Winner",
+        "stars": [
+            "Michael Crawford",
+            "Ryan O'Neal",
+            "Charles Aznavour",
+            "Jeremy Kemp"
+        ],
+        "votes": "366",
+        "gross": ""
     }
 }

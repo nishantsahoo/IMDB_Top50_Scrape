@@ -5,8 +5,15 @@
         "runtime": "115 min",
         "genre": "Action, Adventure",
         "description": "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before Adolf Hitler's Nazis can obtain its awesome powers.",
-        "director": "",
-        "stars": []
+        "director": "Steven Spielberg",
+        "stars": [
+            "Harrison Ford",
+            "Karen Allen",
+            "Paul Freeman",
+            "John Rhys-Davies"
+        ],
+        "votes": "803,474",
+        "gross": "$248.16M"
     },
     "2": {
         "name": "Clash of the Titans",
@@ -14,8 +21,15 @@
         "runtime": "118 min",
         "genre": "Action, Adventure, Family",
         "description": "Perseus must battle Medusa and the Kraken to save the Princess Andromeda.",
-        "director": "",
-        "stars": []
+        "director": "Desmond Davis",
+        "stars": [
+            "Laurence Olivier",
+            "Harry Hamlin",
+            "Claire Bloom",
+            "Maggie Smith"
+        ],
+        "votes": "37,391",
+        "gross": "$41.09M"
     },
     "3": {
         "name": "The Evil Dead",
@@ -23,8 +37,15 @@
         "runtime": "85 min",
         "genre": "Horror",
         "description": "Five friends travel to a cabin in the woods, where they unknowingly release flesh-possessing demons.",
-        "director": "",
-        "stars": []
+        "director": "Sam Raimi",
+        "stars": [
+            "Bruce Campbell",
+            "Ellen Sandweiss",
+            "Richard DeManincor",
+            "Betsy Baker"
+        ],
+        "votes": "168,429",
+        "gross": "$2.40M"
     },
     "4": {
         "name": "Stripes",
@@ -32,8 +53,15 @@
         "runtime": "106 min",
         "genre": "Comedy, War",
         "description": "Two friends who are dissatisfied with their jobs decide to join the army for a bit of fun.",
-        "director": "",
-        "stars": []
+        "director": "Ivan Reitman",
+        "stars": [
+            "Bill Murray",
+            "John Candy",
+            "Harold Ramis",
+            "Warren Oates"
+        ],
+        "votes": "58,442",
+        "gross": "$85.30M"
     },
     "5": {
         "name": "Body Heat",
@@ -41,8 +69,15 @@
         "runtime": "113 min",
         "genre": "Crime, Drama, Romance",
         "description": "In the midst of a searing Florida heat wave, a woman persuades her lover, a small-town lawyer, to murder her rich husband.",
-        "director": "",
-        "stars": []
+        "director": "Lawrence Kasdan",
+        "stars": [
+            "William Hurt",
+            "Kathleen Turner",
+            "Richard Crenna",
+            "Ted Danson"
+        ],
+        "votes": "27,661",
+        "gross": "$24.06M"
     },
     "6": {
         "name": "The Road Warrior",
@@ -50,8 +85,15 @@
         "runtime": "94 min",
         "genre": "Action, Adventure, Sci-Fi",
         "description": "In the post-apocalyptic Australian wasteland, a cynical drifter agrees to help a small, gasoline rich community escape a horde of bandits.",
-        "director": "",
-        "stars": []
+        "director": "George Miller",
+        "stars": [
+            "Mel Gibson",
+            "Bruce Spence",
+            "Michael Preston",
+            "Max Phipps"
+        ],
+        "votes": "153,863",
+        "gross": "$12.47M"
     },
     "7": {
         "name": "Excalibur",
@@ -59,8 +101,15 @@
         "runtime": "140 min",
         "genre": "Adventure, Drama, Fantasy",
         "description": "Merlin the magician helps Arthur Pendragon unite the Britons around the Round Table of Camelot, even as dark forces conspire to tear it apart.",
-        "director": "",
-        "stars": []
+        "director": "John Boorman",
+        "stars": [
+            "Nigel Terry",
+            "Helen Mirren",
+            "Nicholas Clay",
+            "Cherie Lunghi"
+        ],
+        "votes": "53,260",
+        "gross": "$34.97M"
     },
     "8": {
         "name": "Das Boot",
@@ -68,8 +117,15 @@
         "runtime": "149 min",
         "genre": "Adventure, Drama, Thriller",
         "description": "The claustrophobic world of a WWII German U-boat; boredom, filth and sheer terror.",
-        "director": "",
-        "stars": []
+        "director": "Wolfgang Petersen",
+        "stars": [
+            "J\u00fcrgen Prochnow",
+            "Herbert Gr\u00f6nemeyer",
+            "Klaus Wennemann",
+            "Hubertus Bengsch"
+        ],
+        "votes": "207,126",
+        "gross": "$11.49M"
     },
     "9": {
         "name": "An American Werewolf in London",
@@ -77,8 +133,15 @@
         "runtime": "97 min",
         "genre": "Comedy, Horror",
         "description": "Two American college students on a walking tour of Britain are attacked by a werewolf that none of the locals will admit exists.",
-        "director": "",
-        "stars": []
+        "director": "John Landis",
+        "stars": [
+            "David Naughton",
+            "Jenny Agutter",
+            "Joe Belcher",
+            "Griffin Dunne"
+        ],
+        "votes": "80,968",
+        "gross": "$30.57M"
     },
     "10": {
         "name": "Galaxy of Terror",
@@ -86,8 +149,15 @@
         "runtime": "81 min",
         "genre": "Action, Adventure, Horror",
         "description": "Science fiction suspense thriller, in which a rescue space ship crew meets up with horrors projected by their own imaginations.",
-        "director": "",
-        "stars": []
+        "director": "Bruce D. Clark",
+        "stars": [
+            "Edward Albert",
+            "Erin Moran",
+            "Ray Walston",
+            "Bernard Behrens"
+        ],
+        "votes": "5,562",
+        "gross": ""
     },
     "11": {
         "name": "Nighthawks",
@@ -95,8 +165,16 @@
         "runtime": "99 min",
         "genre": "Action, Crime, Thriller",
         "description": "Conservative street cop DaSilva reluctantly agrees to terminate an international terrorist who has demanded media attention. But DaSilva's \"at-home\" tactics are very much put to the challenge.",
-        "director": "",
-        "stars": []
+        "director": "Bruce Malmuth",
+        "stars": [
+            "Gary Nelson",
+            "Sylvester Stallone",
+            "Rutger Hauer",
+            "Billy Dee Williams",
+            "Lindsay Wagner"
+        ],
+        "votes": "15,044",
+        "gross": "$14.91M"
     },
     "12": {
         "name": "Possession",
@@ -104,8 +182,15 @@
         "runtime": "124 min",
         "genre": "Drama, Horror",
         "description": "A woman starts exhibiting increasingly disturbing behavior after asking her husband for a divorce. Suspicions of infidelity soon give way to something much more sinister.",
-        "director": "",
-        "stars": []
+        "director": "Andrzej Zulawski",
+        "stars": [
+            "Isabelle Adjani",
+            "Sam Neill",
+            "Margit Carstensen",
+            "Heinz Bennent"
+        ],
+        "votes": "19,971",
+        "gross": "$1.11M"
     },
     "13": {
         "name": "Dragonslayer",
@@ -113,8 +198,15 @@
         "runtime": "109 min",
         "genre": "Action, Adventure, Fantasy",
         "description": "A young wizarding apprentice is sent to kill a dragon which has been devouring girls from a nearby kingdom.",
-        "director": "",
-        "stars": []
+        "director": "Matthew Robbins",
+        "stars": [
+            "Peter MacNicol",
+            "Caitlin Clarke",
+            "Ralph Richardson",
+            "John Hallam"
+        ],
+        "votes": "13,204",
+        "gross": "$14.11M"
     },
     "14": {
         "name": "Escape from New York",
@@ -122,8 +214,15 @@
         "runtime": "99 min",
         "genre": "Action, Adventure, Sci-Fi",
         "description": "In 1997, when the U.S. president crashes into Manhattan, now a giant maximum security prison, a convicted bank robber is sent in to rescue him.",
-        "director": "",
-        "stars": []
+        "director": "John Carpenter",
+        "stars": [
+            "Kurt Russell",
+            "Lee Van Cleef",
+            "Ernest Borgnine",
+            "Donald Pleasence"
+        ],
+        "votes": "111,311",
+        "gross": "$25.24M"
     },
     "15": {
         "name": "Victory",
@@ -131,8 +230,15 @@
         "runtime": "116 min",
         "genre": "Drama, Sport, War",
         "description": "As allied P.O.W.s prepare for a soccer game against the German National Team to be played in Nazi-occupied Paris, the French Resistance and British officers are making plans for the team's escape.",
-        "director": "",
-        "stars": []
+        "director": "John Huston",
+        "stars": [
+            "Michael Caine",
+            "Sylvester Stallone",
+            "Pel\u00e9",
+            "Bobby Moore"
+        ],
+        "votes": "24,940",
+        "gross": "$10.85M"
     },
     "16": {
         "name": "Porky's",
@@ -140,8 +246,15 @@
         "runtime": "94 min",
         "genre": "Comedy",
         "description": "In 1954, a group of Florida high school students try to help their buddy lose his virginity, which leads them to seeking revenge on a sleazy nightclub owner and his redneck sheriff brother for harassing them.",
-        "director": "",
-        "stars": []
+        "director": "Bob Clark",
+        "stars": [
+            "Dan Monahan",
+            "Mark Herrier",
+            "Wyatt Knight",
+            "Roger Wilson"
+        ],
+        "votes": "35,051",
+        "gross": "$111.29M"
     },
     "17": {
         "name": "For Your Eyes Only",
@@ -149,8 +262,15 @@
         "runtime": "127 min",
         "genre": "Action, Adventure, Thriller",
         "description": "Agent 007 is assigned to hunt for a lost British encryption device and prevent it from falling into enemy hands.",
-        "director": "",
-        "stars": []
+        "director": "John Glen",
+        "stars": [
+            "Roger Moore",
+            "Carole Bouquet",
+            "Topol",
+            "Lynn-Holly Johnson"
+        ],
+        "votes": "83,198",
+        "gross": "$62.30M"
     },
     "18": {
         "name": "Friday the 13th Part 2",
@@ -158,8 +278,15 @@
         "runtime": "87 min",
         "genre": "Horror, Mystery, Thriller",
         "description": "Mrs. Voorhees is dead, and Camp Crystal Lake is shut down, but a camp next to the infamous place is stalked by an unknown assailant.",
-        "director": "",
-        "stars": []
+        "director": "Steve Miner",
+        "stars": [
+            "Betsy Palmer",
+            "Amy Steel",
+            "John Furey",
+            "Adrienne King"
+        ],
+        "votes": "50,864",
+        "gross": "$21.72M"
     },
     "19": {
         "name": "Heavy Metal",
@@ -167,8 +294,24 @@
         "runtime": "86 min",
         "genre": "Animation, Adventure, Fantasy",
         "description": "A glowing green orb - which embodies ultimate evil - terrorizes a young girl with an anthology of bizarre and fantastic stories of dark fantasy, eroticism and horror.",
-        "director": "",
-        "stars": []
+        "director": "Gerald Potterton",
+        "stars": [
+            "John Bruno",
+            "John Halas",
+            "Julian Harris",
+            "Jimmy T. Murakami",
+            "Barrie Nelson",
+            "Paul Sabella",
+            "Jack Stokes",
+            "Pino Van Lamsweerde",
+            "Harold Whitaker",
+            "Richard Romanus",
+            "John Candy",
+            "Joe Flaherty",
+            "Don Francks"
+        ],
+        "votes": "28,060",
+        "gross": ""
     },
     "20": {
         "name": "Time Bandits",
@@ -176,8 +319,15 @@
         "runtime": "110 min",
         "genre": "Adventure, Comedy, Fantasy",
         "description": "A young boy accidentally joins a band of time travelling dwarves, as they jump from era to era looking for treasure to steal.",
-        "director": "",
-        "stars": []
+        "director": "Terry Gilliam",
+        "stars": [
+            "Sean Connery",
+            "Shelley Duvall",
+            "John Cleese",
+            "Katherine Helmond"
+        ],
+        "votes": "53,048",
+        "gross": "$42.37M"
     },
     "21": {
         "name": "Arthur",
@@ -185,8 +335,15 @@
         "runtime": "97 min",
         "genre": "Comedy, Romance",
         "description": "Arthur is a happy drunk with no pretensions at any ambition. He is also the heir to a vast fortune which he is told will only be his if he marries Susan. He does not love Susan, but she ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Steve Gordon",
+        "stars": [
+            "Dudley Moore",
+            "Liza Minnelli",
+            "John Gielgud",
+            "Geraldine Fitzgerald"
+        ],
+        "votes": "23,876",
+        "gross": "$95.46M"
     },
     "22": {
         "name": "The Cannonball Run",
@@ -194,8 +351,15 @@
         "runtime": "95 min",
         "genre": "Action, Comedy, Sport",
         "description": "A wide variety of eccentric competitors participate in a wild and illegal cross-country road race. However, the eccentric entrants will do anything to win the road race, including low-down, dirty tricks.",
-        "director": "",
-        "stars": []
+        "director": "Hal Needham",
+        "stars": [
+            "Burt Reynolds",
+            "Roger Moore",
+            "Farrah Fawcett",
+            "Dom DeLuise"
+        ],
+        "votes": "30,371",
+        "gross": "$72.18M"
     },
     "23": {
         "name": "Endless Love",
@@ -203,8 +367,15 @@
         "runtime": "116 min",
         "genre": "Drama, Romance",
         "description": "A high school student's love for a 15-year-old girl is thwarted by parental disapproval, circumstance and accident.",
-        "director": "",
-        "stars": []
+        "director": "Franco Zeffirelli",
+        "stars": [
+            "Brooke Shields",
+            "Martin Hewitt",
+            "Shirley Knight",
+            "Don Murray"
+        ],
+        "votes": "6,371",
+        "gross": "$31.18M"
     },
     "24": {
         "name": "Ragtime",
@@ -212,8 +383,15 @@
         "runtime": "155 min",
         "genre": "Drama",
         "description": "A young black pianist becomes embroiled in the lives of an upper-class white family set among the racial tensions, infidelity, violence, and other nostalgic events in early 1900s New York City.",
-        "director": "",
-        "stars": []
+        "director": "Milos Forman",
+        "stars": [
+            "James Cagney",
+            "Elizabeth McGovern",
+            "Howard E. Rollins Jr.",
+            "Brad Dourif"
+        ],
+        "votes": "7,887",
+        "gross": "$21.02M"
     },
     "25": {
         "name": "Pennies from Heaven",
@@ -221,8 +399,15 @@
         "runtime": "108 min",
         "genre": "Drama, Musical, Romance",
         "description": "During the Great Depression, a sheet music salesman seeks to escape his dreary life through popular music and a love affair with an innocent school teacher.",
-        "director": "",
-        "stars": []
+        "director": "Herbert Ross",
+        "stars": [
+            "Steve Martin",
+            "Bernadette Peters",
+            "Jessica Harper",
+            "Vernel Bagneris"
+        ],
+        "votes": "4,789",
+        "gross": "$9.18M"
     },
     "26": {
         "name": "Mommie Dearest",
@@ -230,8 +415,15 @@
         "runtime": "129 min",
         "genre": "Biography, Drama",
         "description": "The abusive and traumatic adoptive upbringing of Christina Crawford at the hands of her mother, screen queen Joan Crawford, is depicted.",
-        "director": "",
-        "stars": []
+        "director": "Frank Perry",
+        "stars": [
+            "Faye Dunaway",
+            "Diana Scarwid",
+            "Steve Forrest",
+            "Howard Da Silva"
+        ],
+        "votes": "12,888",
+        "gross": "$19.03M"
     },
     "27": {
         "name": "Halloween II",
@@ -239,8 +431,15 @@
         "runtime": "92 min",
         "genre": "Horror",
         "description": "While Sheriff Brackett and Dr. Loomis hunt for Michael Myers, a traumatized Laurie is rushed to hospital, and the serial killer is not far behind her.",
-        "director": "",
-        "stars": []
+        "director": "Rick Rosenthal",
+        "stars": [
+            "Jamie Lee Curtis",
+            "Donald Pleasence",
+            "Charles Cyphers",
+            "Jeffrey Kramer"
+        ],
+        "votes": "65,882",
+        "gross": "$25.53M"
     },
     "28": {
         "name": "Scanners",
@@ -248,8 +447,15 @@
         "runtime": "103 min",
         "genre": "Horror, Sci-Fi, Thriller",
         "description": "A scientist sends a man with extraordinary psychic powers to hunt others like him.",
-        "director": "",
-        "stars": []
+        "director": "David Cronenberg",
+        "stars": [
+            "Jennifer O'Neill",
+            "Stephen Lack",
+            "Patrick McGoohan",
+            "Lawrence Dane"
+        ],
+        "votes": "42,670",
+        "gross": "$14.23M"
     },
     "29": {
         "name": "Blow Out",
@@ -257,8 +463,15 @@
         "runtime": "108 min",
         "genre": "Mystery, Thriller",
         "description": "A movie sound recordist accidentally records the evidence that proves that a car accident was actually murder and consequently finds himself in danger.",
-        "director": "",
-        "stars": []
+        "director": "Brian De Palma",
+        "stars": [
+            "John Travolta",
+            "Nancy Allen",
+            "John Lithgow",
+            "Dennis Franz"
+        ],
+        "votes": "36,892",
+        "gross": "$13.75M"
     },
     "30": {
         "name": "The Howling",
@@ -266,8 +479,15 @@
         "runtime": "91 min",
         "genre": "Horror",
         "description": "After a bizarre and near deadly encounter with a serial killer, a television newswoman is sent to a remote mountain resort whose residents may not be what they seem.",
-        "director": "",
-        "stars": []
+        "director": "Joe Dante",
+        "stars": [
+            "Dee Wallace",
+            "Patrick Macnee",
+            "Dennis Dugan",
+            "Christopher Stone"
+        ],
+        "votes": "27,658",
+        "gross": "$17.99M"
     },
     "31": {
         "name": "Dead & Buried",
@@ -275,8 +495,15 @@
         "runtime": "94 min",
         "genre": "Horror, Mystery",
         "description": "A suspense horror film set in a small coastal town where, after a series of gory murders commited by mobs of townspeople against visiting tourists, the corpses begin to come back to life.",
-        "director": "",
-        "stars": []
+        "director": "Gary Sherman",
+        "stars": [
+            "James Farentino",
+            "Melody Anderson",
+            "Jack Albertson",
+            "Dennis Redfield"
+        ],
+        "votes": "8,659",
+        "gross": "$0.22M"
     },
     "32": {
         "name": "Chariots of Fire",
@@ -284,8 +511,15 @@
         "runtime": "125 min",
         "genre": "Biography, Drama, Sport",
         "description": "Two British track athletes, one a determined Jew, and the other a devout Christian, compete in the 1924 Olympics.",
-        "director": "",
-        "stars": []
+        "director": "Hugh Hudson",
+        "stars": [
+            "Ben Cross",
+            "Ian Charleson",
+            "Nicholas Farrell",
+            "Nigel Havers"
+        ],
+        "votes": "48,959",
+        "gross": "$58.97M"
     },
     "33": {
         "name": "History of the World: Part I",
@@ -293,8 +527,15 @@
         "runtime": "92 min",
         "genre": "Comedy, History",
         "description": "Mel Brooks brings his one-of-a-kind comic touch to the history of mankind covering events from the Old Testament to the French Revolution in a series of episodic comedy vignettes.",
-        "director": "",
-        "stars": []
+        "director": "Mel Brooks",
+        "stars": [
+            "Mel Brooks",
+            "Gregory Hines",
+            "Dom DeLuise",
+            "Madeline Kahn"
+        ],
+        "votes": "42,425",
+        "gross": "$31.67M"
     },
     "34": {
         "name": "Quest for Fire",
@@ -302,8 +543,15 @@
         "runtime": "100 min",
         "genre": "Adventure, Drama, History",
         "description": "This story takes place in prehistoric time when three tribesmen search for a new fire source.",
-        "director": "",
-        "stars": []
+        "director": "Jean-Jacques Annaud",
+        "stars": [
+            "Everett McGill",
+            "Ron Perlman",
+            "Nicholas Kadi",
+            "Rae Dawn Chong"
+        ],
+        "votes": "18,990",
+        "gross": "$20.96M"
     },
     "35": {
         "name": "The Fox and the Hound",
@@ -311,8 +559,17 @@
         "runtime": "83 min",
         "genre": "Animation, Adventure, Drama",
         "description": "Two childhood friends find themselves forced to become enemies.",
-        "director": "",
-        "stars": []
+        "director": "Ted Berman",
+        "stars": [
+            "Richard Rich",
+            "Art Stevens",
+            "Mickey Rooney",
+            "Kurt Russell",
+            "Pearl Bailey",
+            "Jack Albertson"
+        ],
+        "votes": "76,249",
+        "gross": "$63.46M"
     },
     "36": {
         "name": "Private Lessons",
@@ -320,8 +577,15 @@
         "runtime": "87 min",
         "genre": "Comedy",
         "description": "An immigrant housemaid seduces a 15-year-old boy and later fakes her own death as part of his chauffeur's blackmail plot. Troubles arise when the two start to fall in love.",
-        "director": "",
-        "stars": []
+        "director": "Alan Myerson",
+        "stars": [
+            "Sylvia Kristel",
+            "Howard Hesseman",
+            "Eric Brown",
+            "Patrick Piccininni"
+        ],
+        "votes": "2,922",
+        "gross": "$26.28M"
     },
     "37": {
         "name": "Taps",
@@ -329,8 +593,15 @@
         "runtime": "126 min",
         "genre": "Drama",
         "description": "Military cadets take extreme measures to insure the future of their academy when its existence is threatened by local condo developers.",
-        "director": "",
-        "stars": []
+        "director": "Harold Becker",
+        "stars": [
+            "George C. Scott",
+            "Timothy Hutton",
+            "Ronny Cox",
+            "Sean Penn"
+        ],
+        "votes": "15,293",
+        "gross": "$35.86M"
     },
     "38": {
         "name": "Tarzan the Ape Man",
@@ -338,8 +609,15 @@
         "runtime": "115 min",
         "genre": "Adventure, Drama",
         "description": "While on an African expedition with her father, Jane Parker meets Tarzan, and the two become fascinated by each other.",
-        "director": "",
-        "stars": []
+        "director": "John Derek",
+        "stars": [
+            "Bo Derek",
+            "Richard Harris",
+            "Miles O'Keeffe",
+            "John Phillip Law"
+        ],
+        "votes": "4,808",
+        "gross": "$36.57M"
     },
     "39": {
         "name": "The Postman Always Rings Twice",
@@ -347,8 +625,15 @@
         "runtime": "122 min",
         "genre": "Crime, Drama, Romance",
         "description": "The sensuous wife of a lunch wagon proprietor and a rootless drifter begin a sordidly steamy affair and conspire to murder her Greek husband.",
-        "director": "",
-        "stars": []
+        "director": "Bob Rafelson",
+        "stars": [
+            "Jack Nicholson",
+            "Jessica Lange",
+            "John Colicos",
+            "Michael Lerner"
+        ],
+        "votes": "19,747",
+        "gross": "$12.38M"
     },
     "40": {
         "name": "On Golden Pond",
@@ -356,8 +641,15 @@
         "runtime": "109 min",
         "genre": "Drama",
         "description": "Norman is a curmudgeon with an estranged relationship with his daughter Chelsea. At Golden Pond, he and his wife nevertheless agree to care for Billy, the son of Chelsea's new boyfriend, and a most unexpected relationship blooms.",
-        "director": "",
-        "stars": []
+        "director": "Mark Rydell",
+        "stars": [
+            "Katharine Hepburn",
+            "Henry Fonda",
+            "Jane Fonda",
+            "Doug McKeon"
+        ],
+        "votes": "25,255",
+        "gross": "$119.29M"
     },
     "41": {
         "name": "Thief",
@@ -365,8 +657,15 @@
         "runtime": "123 min",
         "genre": "Action, Crime, Drama",
         "description": "Coming closer to his dream of leading a normal life, a professional safecracker agrees to do a job for the Mafia, who has other plans for him.",
-        "director": "",
-        "stars": []
+        "director": "Michael Mann",
+        "stars": [
+            "James Caan",
+            "Tuesday Weld",
+            "Willie Nelson",
+            "Jim Belushi"
+        ],
+        "votes": "21,284",
+        "gross": "$11.49M"
     },
     "42": {
         "name": "Cannibal Ferox",
@@ -374,8 +673,15 @@
         "runtime": "93 min",
         "genre": "Adventure, Horror",
         "description": "Three friends out to disprove cannibalism meet two men on the run who tortured and enslaved a cannibal tribe to find emeralds, and now the tribe is out for revenge.",
-        "director": "",
-        "stars": []
+        "director": "Umberto Lenzi",
+        "stars": [
+            "Giovanni Lombardo Radice",
+            "Lorraine De Selle",
+            "Danilo Mattei",
+            "Zora Kerova"
+        ],
+        "votes": "8,165",
+        "gross": ""
     },
     "43": {
         "name": "Piranha II: The Spawning",
@@ -383,8 +689,17 @@
         "runtime": "94 min",
         "genre": "Drama, Horror, Romance",
         "description": "A scuba diving instructor, her biochemist boyfriend, and her police chief ex-husband try to link a series of bizarre deaths to a mutant strain of piranha fish whose lair is a sunken freighter ship off a Caribbean island resort.",
-        "director": "",
-        "stars": []
+        "director": "James Cameron",
+        "stars": [
+            "Ovidio G. Assonitis",
+            "Miller Drake",
+            "Tricia O'Neil",
+            "Steve Marachuk",
+            "Lance Henriksen",
+            "Ricky Paull Goldin"
+        ],
+        "votes": "6,890",
+        "gross": ""
     },
     "44": {
         "name": "Roar",
@@ -392,8 +707,15 @@
         "runtime": "102 min",
         "genre": "Adventure, Thriller",
         "description": "A family goes to Africa to meet their father who lives with wild lions.",
-        "director": "",
-        "stars": []
+        "director": "Noel Marshall",
+        "stars": [
+            "Tippi Hedren",
+            "Noel Marshall",
+            "Melanie Griffith",
+            "John Marshall"
+        ],
+        "votes": "2,304",
+        "gross": "$2.00M"
     },
     "45": {
         "name": "Southern Comfort",
@@ -401,8 +723,15 @@
         "runtime": "106 min",
         "genre": "Action, Thriller",
         "description": "During a routine exercise, a team of National Guards are threatened by angry and violent locals.",
-        "director": "",
-        "stars": []
+        "director": "Walter Hill",
+        "stars": [
+            "Keith Carradine",
+            "Powers Boothe",
+            "Fred Ward",
+            "Franklyn Seales"
+        ],
+        "votes": "14,325",
+        "gross": "$5.00M"
     },
     "46": {
         "name": "Reds",
@@ -410,8 +739,15 @@
         "runtime": "195 min",
         "genre": "Biography, Drama, History",
         "description": "A radical American journalist becomes involved with the Communist revolution in Russia, and hopes to bring its spirit and idealism to the United States.",
-        "director": "",
-        "stars": []
+        "director": "Warren Beatty",
+        "stars": [
+            "Warren Beatty",
+            "Diane Keaton",
+            "Edward Herrmann",
+            "Jerzy Kosinski"
+        ],
+        "votes": "19,010",
+        "gross": "$40.38M"
     },
     "47": {
         "name": "Lady Chatterley's Lover",
@@ -419,8 +755,15 @@
         "runtime": "104 min",
         "genre": "Drama, Romance",
         "description": "A film adaptation of D.H. Lawrence's novel. After a crippling injury leaves her husband impotent, Lady Chatterly is torn between her love for her husband and her physical desires. With her ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Just Jaeckin",
+        "stars": [
+            "Sylvia Kristel",
+            "Shane Briant",
+            "Nicholas Clay",
+            "Ann Mitchell"
+        ],
+        "votes": "2,193",
+        "gross": ""
     },
     "48": {
         "name": "Christiane F.",
@@ -428,8 +771,15 @@
         "runtime": "138 min",
         "genre": "Biography, Drama",
         "description": "This movie portrays the drug scene in Berlin in the 1970s, following tape recordings of Christiane F. 14-year-old Christiane lives with her mother and little sister in a typical multi-story...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Uli Edel",
+        "stars": [
+            "Natja Brunckhorst",
+            "Eberhard Auriga",
+            "Peggy Bussieck",
+            "Lothar Chamski"
+        ],
+        "votes": "19,380",
+        "gross": ""
     },
     "49": {
         "name": "The Burning",
@@ -437,8 +787,15 @@
         "runtime": "91 min",
         "genre": "Horror",
         "description": "A former summer camp caretaker, horribly burned from a prank gone wrong, lurks around an upstate New York summer camp bent on killing the teenagers responsible for his disfigurement.",
-        "director": "",
-        "stars": []
+        "director": "Tony Maylam",
+        "stars": [
+            "Brian Matthews",
+            "Leah Ayres",
+            "Brian Backer",
+            "Larry Joshua"
+        ],
+        "votes": "13,412",
+        "gross": ""
     },
     "50": {
         "name": "Ghost Story",
@@ -446,7 +803,14 @@
         "runtime": "110 min",
         "genre": "Drama, Horror, Thriller",
         "description": "Two generations of men find themselves haunted by the presence of a spectral woman. When the son of one of the elderly men returns to his hometown after his brother's mysterious death, they attempt to unravel her story.",
-        "director": "",
-        "stars": []
+        "director": "John Irvin",
+        "stars": [
+            "Craig Wasson",
+            "Alice Krige",
+            "Fred Astaire",
+            "John Houseman"
+        ],
+        "votes": "6,772",
+        "gross": "$23.37M"
     }
 }

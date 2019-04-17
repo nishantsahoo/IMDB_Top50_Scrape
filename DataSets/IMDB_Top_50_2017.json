@@ -5,8 +5,15 @@
         "runtime": "92 min",
         "genre": "Comedy, Drama, Fantasy",
         "description": "A woman named Kit receives a mysterious invitation that would fulfill her childhood dreams.",
-        "director": "",
-        "stars": []
+        "director": "Brie Larson",
+        "stars": [
+            "Brie Larson",
+            "Samuel L. Jackson",
+            "Joan Cusack",
+            "Bradley Whitford"
+        ],
+        "votes": "7,835",
+        "gross": ""
     },
     "2": {
         "name": "Get Out",
@@ -14,8 +21,15 @@
         "runtime": "104 min",
         "genre": "Horror, Mystery, Thriller",
         "description": "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.",
-        "director": "",
-        "stars": []
+        "director": "Jordan Peele",
+        "stars": [
+            "Daniel Kaluuya",
+            "Allison Williams",
+            "Bradley Whitford",
+            "Catherine Keener"
+        ],
+        "votes": "387,532",
+        "gross": "$176.04M"
     },
     "3": {
         "name": "The Upside",
@@ -23,8 +37,15 @@
         "runtime": "126 min",
         "genre": "Comedy, Drama",
         "description": "A comedic look at the relationship between a wealthy man with quadriplegia and an unemployed man with a criminal record who's hired to help him.",
-        "director": "",
-        "stars": []
+        "director": "Neil Burger",
+        "stars": [
+            "Kevin Hart",
+            "Bryan Cranston",
+            "Nicole Kidman",
+            "Aja Naomi King"
+        ],
+        "votes": "15,548",
+        "gross": "$108.03M"
     },
     "4": {
         "name": "Thor: Ragnarok",
@@ -32,8 +53,15 @@
         "runtime": "130 min",
         "genre": "Action, Adventure, Comedy",
         "description": "Thor is imprisoned on the planet Sakaar, and must race against time to return to Asgard and stop Ragnar\u00f6k, the destruction of his world, at the hands of the powerful and ruthless villain Hela.",
-        "director": "",
-        "stars": []
+        "director": "Taika Waititi",
+        "stars": [
+            "Chris Hemsworth",
+            "Tom Hiddleston",
+            "Cate Blanchett",
+            "Mark Ruffalo"
+        ],
+        "votes": "453,941",
+        "gross": "$315.06M"
     },
     "5": {
         "name": "The Greatest Showman",
@@ -41,8 +69,15 @@
         "runtime": "105 min",
         "genre": "Biography, Drama, Musical",
         "description": "Celebrates the birth of show business and tells of a visionary who rose from nothing to create a spectacle that became a worldwide sensation.",
-        "director": "",
-        "stars": []
+        "director": "Michael Gracey",
+        "stars": [
+            "Hugh Jackman",
+            "Michelle Williams",
+            "Zac Efron",
+            "Zendaya"
+        ],
+        "votes": "195,335",
+        "gross": "$174.34M"
     },
     "6": {
         "name": "Spider-Man: Homecoming",
@@ -50,8 +85,15 @@
         "runtime": "133 min",
         "genre": "Action, Adventure, Sci-Fi",
         "description": "Peter Parker balances his life as an ordinary high school student in Queens with his superhero alter-ego Spider-Man, and finds himself on the trail of a new menace prowling the skies of New York City.",
-        "director": "",
-        "stars": []
+        "director": "Jon Watts",
+        "stars": [
+            "Tom Holland",
+            "Michael Keaton",
+            "Robert Downey Jr.",
+            "Marisa Tomei"
+        ],
+        "votes": "406,236",
+        "gross": "$334.20M"
     },
     "7": {
         "name": "It",
@@ -59,8 +101,15 @@
         "runtime": "135 min",
         "genre": "Horror, Thriller",
         "description": "In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town.",
-        "director": "",
-        "stars": []
+        "director": "Andy Muschietti",
+        "stars": [
+            "Bill Skarsg\u00e5rd",
+            "Jaeden Martell",
+            "Finn Wolfhard",
+            "Sophia Lillis"
+        ],
+        "votes": "347,579",
+        "gross": "$327.48M"
     },
     "8": {
         "name": "Guardians of the Galaxy Vol. 2",
@@ -68,8 +117,15 @@
         "runtime": "136 min",
         "genre": "Action, Adventure, Comedy",
         "description": "The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father the ambitious celestial being Ego.",
-        "director": "",
-        "stars": []
+        "director": "James Gunn",
+        "stars": [
+            "Chris Pratt",
+            "Zoe Saldana",
+            "Dave Bautista",
+            "Vin Diesel"
+        ],
+        "votes": "462,329",
+        "gross": "$389.81M"
     },
     "9": {
         "name": "Justice League",
@@ -77,8 +133,15 @@
         "runtime": "120 min",
         "genre": "Action, Adventure, Fantasy",
         "description": "Fueled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne enlists the help of his new-found ally, Diana Prince, to face an even greater enemy.",
-        "director": "",
-        "stars": []
+        "director": "Zack Snyder",
+        "stars": [
+            "Ben Affleck",
+            "Gal Gadot",
+            "Jason Momoa",
+            "Ezra Miller"
+        ],
+        "votes": "321,902",
+        "gross": "$229.02M"
     },
     "10": {
         "name": "Star Wars: Episode VIII - The Last Jedi",
@@ -86,8 +149,15 @@
         "runtime": "152 min",
         "genre": "Action, Adventure, Fantasy",
         "description": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares for battle with the First Order.",
-        "director": "",
-        "stars": []
+        "director": "Rian Johnson",
+        "stars": [
+            "Daisy Ridley",
+            "John Boyega",
+            "Mark Hamill",
+            "Carrie Fisher"
+        ],
+        "votes": "453,756",
+        "gross": "$620.18M"
     },
     "11": {
         "name": "Baywatch",
@@ -95,8 +165,15 @@
         "runtime": "116 min",
         "genre": "Action, Comedy, Crime",
         "description": "Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit, as they uncover a criminal plot that threatens the future of the bay.",
-        "director": "",
-        "stars": []
+        "director": "Seth Gordon",
+        "stars": [
+            "Dwayne Johnson",
+            "Zac Efron",
+            "Alexandra Daddario",
+            "Priyanka Chopra"
+        ],
+        "votes": "132,550",
+        "gross": "$58.06M"
     },
     "12": {
         "name": "Wonder Woman",
@@ -104,8 +181,15 @@
         "runtime": "141 min",
         "genre": "Action, Adventure, Fantasy",
         "description": "When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny.",
-        "director": "",
-        "stars": []
+        "director": "Patty Jenkins",
+        "stars": [
+            "Gal Gadot",
+            "Chris Pine",
+            "Robin Wright",
+            "Lucy Davis"
+        ],
+        "votes": "477,071",
+        "gross": "$412.56M"
     },
     "13": {
         "name": "Blade Runner 2049",
@@ -113,8 +197,15 @@
         "runtime": "164 min",
         "genre": "Drama, Mystery, Sci-Fi",
         "description": "A young blade runner's discovery of a long-buried secret leads him to track down former blade runner Rick Deckard, who's been missing for thirty years.",
-        "director": "",
-        "stars": []
+        "director": "Denis Villeneuve",
+        "stars": [
+            "Harrison Ford",
+            "Ryan Gosling",
+            "Ana de Armas",
+            "Dave Bautista"
+        ],
+        "votes": "369,802",
+        "gross": "$92.05M"
     },
     "14": {
         "name": "The Dark Tower",
@@ -122,8 +213,15 @@
         "runtime": "95 min",
         "genre": "Action, Adventure, Fantasy",
         "description": "The last Gunslinger: Roland Deschain, has been locked in an eternal battle with Walter O'Dim, also known as the Man in Black, and determined to prevent him from toppling the Dark Tower that holds the universe together. With the fate of the world at stake, good and evil will collide in the ultimate battle, as only Roland can defend the Tower from the Man in Black.",
-        "director": "",
-        "stars": []
+        "director": "Nikolaj Arcel",
+        "stars": [
+            "Idris Elba",
+            "Matthew McConaughey",
+            "Tom Taylor",
+            "Dennis Haysbert"
+        ],
+        "votes": "104,905",
+        "gross": "$50.70M"
     },
     "15": {
         "name": "Baby Driver",
@@ -131,8 +229,15 @@
         "runtime": "112 min",
         "genre": "Action, Crime, Drama",
         "description": "After being coerced into working for a crime boss, a young getaway driver finds himself taking part in a heist doomed to fail.",
-        "director": "",
-        "stars": []
+        "director": "Edgar Wright",
+        "stars": [
+            "Ansel Elgort",
+            "Jon Bernthal",
+            "Jon Hamm",
+            "Eiza Gonz\u00e1lez"
+        ],
+        "votes": "354,468",
+        "gross": "$107.83M"
     },
     "16": {
         "name": "The Shape of Water",
@@ -140,8 +245,15 @@
         "runtime": "123 min",
         "genre": "Adventure, Drama, Fantasy",
         "description": "At a top secret research facility in the 1960s, a lonely janitor forms a unique relationship with an amphibious creature that is being held in captivity.",
-        "director": "",
-        "stars": []
+        "director": "Guillermo del Toro",
+        "stars": [
+            "Sally Hawkins",
+            "Octavia Spencer",
+            "Michael Shannon",
+            "Doug Jones"
+        ],
+        "votes": "300,527",
+        "gross": "$63.86M"
     },
     "17": {
         "name": "Call Me by Your Name",
@@ -149,8 +261,15 @@
         "runtime": "132 min",
         "genre": "Drama, Romance",
         "description": "In 1980s Italy, a romance blossoms between a seventeen year-old student and the older man hired as his father's research assistant.",
-        "director": "",
-        "stars": []
+        "director": "Luca Guadagnino",
+        "stars": [
+            "Armie Hammer",
+            "Timoth\u00e9e Chalamet",
+            "Michael Stuhlbarg",
+            "Amira Casar"
+        ],
+        "votes": "149,719",
+        "gross": "$18.10M"
     },
     "18": {
         "name": "Three Billboards Outside Ebbing, Missouri",
@@ -158,8 +277,15 @@
         "runtime": "115 min",
         "genre": "Crime, Drama",
         "description": "A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.",
-        "director": "",
-        "stars": []
+        "director": "Martin McDonagh",
+        "stars": [
+            "Frances McDormand",
+            "Woody Harrelson",
+            "Sam Rockwell",
+            "Caleb Landry Jones"
+        ],
+        "votes": "334,353",
+        "gross": "$54.51M"
     },
     "19": {
         "name": "Jumanji: Welcome to the Jungle",
@@ -167,8 +293,15 @@
         "runtime": "119 min",
         "genre": "Action, Adventure, Comedy",
         "description": "Four teenagers are sucked into a magical video game, and the only way they can escape is to work together to finish the game.",
-        "director": "",
-        "stars": []
+        "director": "Jake Kasdan",
+        "stars": [
+            "Dwayne Johnson",
+            "Karen Gillan",
+            "Kevin Hart",
+            "Jack Black"
+        ],
+        "votes": "236,789",
+        "gross": "$404.52M"
     },
     "20": {
         "name": "Transformers: The Last Knight",
@@ -176,8 +309,15 @@
         "runtime": "154 min",
         "genre": "Action, Adventure, Sci-Fi",
         "description": "A deadly threat from Earth's history reappears, and a hunt for a lost artifact takes place between Autobots and Decepticons, while Optimus Prime encounters his creator in space.",
-        "director": "",
-        "stars": []
+        "director": "Michael Bay",
+        "stars": [
+            "Mark Wahlberg",
+            "Anthony Hopkins",
+            "Josh Duhamel",
+            "Laura Haddock"
+        ],
+        "votes": "116,537",
+        "gross": "$130.17M"
     },
     "21": {
         "name": "The Mummy",
@@ -185,8 +325,15 @@
         "runtime": "110 min",
         "genre": "Action, Adventure, Fantasy",
         "description": "An ancient Egyptian princess is awakened from her crypt beneath the desert, bringing with her malevolence grown over millennia, and terrors that defy human comprehension.",
-        "director": "",
-        "stars": []
+        "director": "Alex Kurtzman",
+        "stars": [
+            "Tom Cruise",
+            "Sofia Boutella",
+            "Annabelle Wallis",
+            "Russell Crowe"
+        ],
+        "votes": "151,414",
+        "gross": "$80.10M"
     },
     "22": {
         "name": "The Ritual",
@@ -194,8 +341,15 @@
         "runtime": "94 min",
         "genre": "Horror, Mystery, Thriller",
         "description": "A group of college friends reunite for a trip to the forest, but encounter a menacing presence in the woods that's stalking them.",
-        "director": "",
-        "stars": []
+        "director": "David Bruckner",
+        "stars": [
+            "Rafe Spall",
+            "Arsher Ali",
+            "Robert James-Collier",
+            "Sam Troughton"
+        ],
+        "votes": "53,061",
+        "gross": ""
     },
     "23": {
         "name": "Life",
@@ -203,8 +357,15 @@
         "runtime": "104 min",
         "genre": "Horror, Sci-Fi, Thriller",
         "description": "A team of scientists aboard the International Space Station discover a rapidly evolving life form that caused extinction on Mars and now threatens all life on Earth.",
-        "director": "",
-        "stars": []
+        "director": "Daniel Espinosa",
+        "stars": [
+            "Jake Gyllenhaal",
+            "Rebecca Ferguson",
+            "Ryan Reynolds",
+            "Hiroyuki Sanada"
+        ],
+        "votes": "180,184",
+        "gross": "$30.23M"
     },
     "24": {
         "name": "Wonder",
@@ -212,8 +373,15 @@
         "runtime": "113 min",
         "genre": "Drama, Family",
         "description": "Based on the New York Times bestseller, this movie tells the incredibly inspiring and heartwarming story of August Pullman, a boy with facial differences who enters the fifth grade, attending a mainstream elementary school for the first time.",
-        "director": "",
-        "stars": []
+        "director": "Stephen Chbosky",
+        "stars": [
+            "Jacob Tremblay",
+            "Owen Wilson",
+            "Izabela Vidovic",
+            "Julia Roberts"
+        ],
+        "votes": "109,032",
+        "gross": "$132.42M"
     },
     "25": {
         "name": "Dunkirk",
@@ -221,8 +389,15 @@
         "runtime": "106 min",
         "genre": "Action, Drama, History",
         "description": "Allied soldiers from Belgium, the British Empire, and France are surrounded by the German Army, and evacuated during a fierce battle in World War II.",
-        "director": "",
-        "stars": []
+        "director": "Christopher Nolan",
+        "stars": [
+            "Fionn Whitehead",
+            "Barry Keoghan",
+            "Mark Rylance",
+            "Tom Hardy"
+        ],
+        "votes": "457,802",
+        "gross": "$188.37M"
     },
     "26": {
         "name": "Beauty and the Beast",
@@ -230,8 +405,15 @@
         "runtime": "129 min",
         "genre": "Family, Fantasy, Musical",
         "description": "A selfish prince is cursed to become a monster for the rest of his life, unless he learns to fall in love with a beautiful young woman he keeps prisoner.",
-        "director": "",
-        "stars": []
+        "director": "Bill Condon",
+        "stars": [
+            "Emma Watson",
+            "Dan Stevens",
+            "Luke Evans",
+            "Josh Gad"
+        ],
+        "votes": "234,016",
+        "gross": "$504.01M"
     },
     "27": {
         "name": "You Were Never Really Here",
@@ -239,8 +421,15 @@
         "runtime": "89 min",
         "genre": "Crime, Drama, Mystery",
         "description": "A traumatized veteran, unafraid of violence, tracks down missing girls for a living. When a job spins out of control, Joe's nightmares overtake him as a conspiracy is uncovered leading to what may be his death trip or his awakening.",
-        "director": "",
-        "stars": []
+        "director": "Lynne Ramsay",
+        "stars": [
+            "Joaquin Phoenix",
+            "Judith Roberts",
+            "Ekaterina Samsonov",
+            "John Doman"
+        ],
+        "votes": "68,589",
+        "gross": "$2.52M"
     },
     "28": {
         "name": "King Arthur: Legend of the Sword",
@@ -248,8 +437,15 @@
         "runtime": "126 min",
         "genre": "Action, Adventure, Drama",
         "description": "Robbed of his birthright, Arthur comes up the hard way in the back alleys of the city. But once he pulls the sword from the stone, he is forced to acknowledge his true legacy - whether he likes it or not.",
-        "director": "",
-        "stars": []
+        "director": "Guy Ritchie",
+        "stars": [
+            "Charlie Hunnam",
+            "Astrid Berg\u00e8s-Frisbey",
+            "Jude Law",
+            "Djimon Hounsou"
+        ],
+        "votes": "166,170",
+        "gross": "$39.18M"
     },
     "29": {
         "name": "Alien: Covenant",
@@ -257,8 +453,15 @@
         "runtime": "122 min",
         "genre": "Horror, Sci-Fi, Thriller",
         "description": "The crew of a colony ship, bound for a remote planet, discover an uncharted paradise with a threat beyond their imagination, and must attempt a harrowing escape.",
-        "director": "",
-        "stars": []
+        "director": "Ridley Scott",
+        "stars": [
+            "Michael Fassbender",
+            "Katherine Waterston",
+            "Billy Crudup",
+            "Danny McBride"
+        ],
+        "votes": "223,354",
+        "gross": "$74.26M"
     },
     "30": {
         "name": "Logan",
@@ -266,8 +469,15 @@
         "runtime": "137 min",
         "genre": "Action, Drama, Sci-Fi",
         "description": "In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety.",
-        "director": "",
-        "stars": []
+        "director": "James Mangold",
+        "stars": [
+            "Hugh Jackman",
+            "Patrick Stewart",
+            "Dafne Keen",
+            "Boyd Holbrook"
+        ],
+        "votes": "547,016",
+        "gross": "$226.28M"
     },
     "31": {
         "name": "John Wick: Chapter 2",
@@ -275,8 +485,15 @@
         "runtime": "122 min",
         "genre": "Action, Crime, Thriller",
         "description": "After returning to the criminal underworld to repay a debt, John Wick discovers that a large bounty has been put on his life.",
-        "director": "",
-        "stars": []
+        "director": "Chad Stahelski",
+        "stars": [
+            "Keanu Reeves",
+            "Riccardo Scamarcio",
+            "Ian McShane",
+            "Ruby Rose"
+        ],
+        "votes": "267,885",
+        "gross": "$92.03M"
     },
     "32": {
         "name": "My Friend Dahmer",
@@ -284,8 +501,15 @@
         "runtime": "107 min",
         "genre": "Biography, Drama, Horror",
         "description": "A young Jeffrey Dahmer struggles to belong in high school.",
-        "director": "",
-        "stars": []
+        "director": "Marc Meyers",
+        "stars": [
+            "Ross Lynch",
+            "Alex Wolff",
+            "Anne Heche",
+            "Zachary Davis Brown"
+        ],
+        "votes": "10,907",
+        "gross": "$1.36M"
     },
     "33": {
         "name": "Kong: Skull Island",
@@ -293,8 +517,15 @@
         "runtime": "118 min",
         "genre": "Action, Adventure, Fantasy",
         "description": "After the Vietnam war, a team of scientists explore an uncharted island in the Pacific, venturing into the domain of the mighty Kong, and must fight to escape a primal Eden.",
-        "director": "",
-        "stars": []
+        "director": "Jordan Vogt-Roberts",
+        "stars": [
+            "Tom Hiddleston",
+            "Samuel L. Jackson",
+            "Brie Larson",
+            "John C. Reilly"
+        ],
+        "votes": "232,071",
+        "gross": "$168.05M"
     },
     "34": {
         "name": "Mother!",
@@ -302,8 +533,15 @@
         "runtime": "121 min",
         "genre": "Drama, Horror, Mystery",
         "description": "A couple's relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.",
-        "director": "",
-        "stars": []
+        "director": "Darren Aronofsky",
+        "stars": [
+            "Jennifer Lawrence",
+            "Javier Bardem",
+            "Ed Harris",
+            "Michelle Pfeiffer"
+        ],
+        "votes": "152,734",
+        "gross": "$17.80M"
     },
     "35": {
         "name": "Coco",
@@ -311,8 +549,16 @@
         "runtime": "105 min",
         "genre": "Animation, Adventure, Comedy",
         "description": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
-        "director": "",
-        "stars": []
+        "director": "Lee Unkrich",
+        "stars": [
+            "Adrian Molina",
+            "Anthony Gonzalez",
+            "Gael Garc\u00eda Bernal",
+            "Benjamin Bratt",
+            "Alanna Ubach"
+        ],
+        "votes": "266,599",
+        "gross": "$209.73M"
     },
     "36": {
         "name": "Lady Bird",
@@ -320,8 +566,15 @@
         "runtime": "94 min",
         "genre": "Comedy, Drama",
         "description": "In 2002, an artistically inclined seventeen-year-old girl comes of age in Sacramento, California.",
-        "director": "",
-        "stars": []
+        "director": "Greta Gerwig",
+        "stars": [
+            "Saoirse Ronan",
+            "Laurie Metcalf",
+            "Tracy Letts",
+            "Lucas Hedges"
+        ],
+        "votes": "173,380",
+        "gross": "$48.96M"
     },
     "37": {
         "name": "Division 19",
@@ -329,8 +582,15 @@
         "runtime": "93 min",
         "genre": "Action, Sci-Fi, Thriller",
         "description": "2039. Jails have been turned into online portals where the public gets to choose what prisoners eat, wear, watch and who they fight. So successful is Panopticon TV, it is about to be rolled...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "S.A. Halewood",
+        "stars": [
+            "Lotte Verbeek",
+            "Alison Doody",
+            "Linus Roache",
+            "Clarke Peters"
+        ],
+        "votes": "166",
+        "gross": ""
     },
     "38": {
         "name": "Kingsman: The Golden Circle",
@@ -338,8 +598,15 @@
         "runtime": "141 min",
         "genre": "Action, Adventure, Comedy",
         "description": "When their headquarters are destroyed and the world is held hostage, the Kingsman's journey leads them to the discovery of an allied spy organization in the United States. These two elite secret organizations must band together to defeat a common enemy.",
-        "director": "",
-        "stars": []
+        "director": "Matthew Vaughn",
+        "stars": [
+            "Taron Egerton",
+            "Colin Firth",
+            "Mark Strong",
+            "Channing Tatum"
+        ],
+        "votes": "225,325",
+        "gross": "$100.23M"
     },
     "39": {
         "name": "The Hitman's Bodyguard",
@@ -347,8 +614,15 @@
         "runtime": "118 min",
         "genre": "Action, Comedy, Thriller",
         "description": "The world's top bodyguard gets a new client, a hitman who must testify at the International Criminal Court. They must put their differences aside and work together to make it to the trial on time.",
-        "director": "",
-        "stars": []
+        "director": "Patrick Hughes",
+        "stars": [
+            "Ryan Reynolds",
+            "Samuel L. Jackson",
+            "Gary Oldman",
+            "Elodie Yung"
+        ],
+        "votes": "158,773",
+        "gross": "$75.47M"
     },
     "40": {
         "name": "Murder on the Orient Express",
@@ -356,8 +630,15 @@
         "runtime": "114 min",
         "genre": "Crime, Drama, Mystery",
         "description": "When a murder occurs on the train on which he's travelling, celebrated detective Hercule Poirot is recruited to solve the case.",
-        "director": "",
-        "stars": []
+        "director": "Kenneth Branagh",
+        "stars": [
+            "Kenneth Branagh",
+            "Pen\u00e9lope Cruz",
+            "Willem Dafoe",
+            "Judi Dench"
+        ],
+        "votes": "175,627",
+        "gross": "$102.83M"
     },
     "41": {
         "name": "The Disaster Artist",
@@ -365,8 +646,15 @@
         "runtime": "104 min",
         "genre": "Biography, Comedy, Drama",
         "description": "When Greg Sestero, an aspiring film actor, meets the weird and mysterious Tommy Wiseau in an acting class, they form a unique friendship and travel to Hollywood to make their dreams come true.",
-        "director": "",
-        "stars": []
+        "director": "James Franco",
+        "stars": [
+            "James Franco",
+            "Dave Franco",
+            "Ari Graynor",
+            "Seth Rogen"
+        ],
+        "votes": "109,402",
+        "gross": "$21.12M"
     },
     "42": {
         "name": "Annabelle: Creation",
@@ -374,8 +662,15 @@
         "runtime": "109 min",
         "genre": "Horror, Mystery, Thriller",
         "description": "Twelve years after the tragic death of their little girl, a doll-maker and his wife welcome a nun and several girls from a shuttered orphanage into their home, where they become the target of the doll-maker's possessed creation, Annabelle.",
-        "director": "",
-        "stars": []
+        "director": "David F. Sandberg",
+        "stars": [
+            "Anthony LaPaglia",
+            "Samara Lee",
+            "Miranda Otto",
+            "Brad Greenquist"
+        ],
+        "votes": "87,850",
+        "gross": "$102.09M"
     },
     "43": {
         "name": "Gerald's Game",
@@ -383,8 +678,15 @@
         "runtime": "103 min",
         "genre": "Drama, Horror, Thriller",
         "description": "While trying to spice up their marriage in their remote lake house, Jessie must fight to survive when her husband dies unexpectedly, leaving her handcuffed to their bed frame.",
-        "director": "",
-        "stars": []
+        "director": "Mike Flanagan",
+        "stars": [
+            "Carla Gugino",
+            "Bruce Greenwood",
+            "Chiara Aurelia",
+            "Carel Struycken"
+        ],
+        "votes": "63,684",
+        "gross": ""
     },
     "44": {
         "name": "The Bye Bye Man",
@@ -392,8 +694,15 @@
         "runtime": "96 min",
         "genre": "Drama, Fantasy, Horror",
         "description": "Three friends stumble upon the horrific origins of a mysterious figure they discover is the root cause of the evil behind unspeakable acts.",
-        "director": "",
-        "stars": []
+        "director": "Stacy Title",
+        "stars": [
+            "Douglas Smith",
+            "Lucien Laviscount",
+            "Cressida Bonas",
+            "Michael Trucco"
+        ],
+        "votes": "17,202",
+        "gross": "$22.38M"
     },
     "45": {
         "name": "Fifty Shades Darker",
@@ -401,8 +710,15 @@
         "runtime": "118 min",
         "genre": "Drama, Romance",
         "description": "While Christian wrestles with his inner demons, Anastasia must confront the anger and envy of the women who came before her.",
-        "director": "",
-        "stars": []
+        "director": "James Foley",
+        "stars": [
+            "Dakota Johnson",
+            "Jamie Dornan",
+            "Eric Johnson",
+            "Eloise Mumford"
+        ],
+        "votes": "80,509",
+        "gross": "$114.38M"
     },
     "46": {
         "name": "Pirates of the Caribbean: Dead Men Tell No Tales",
@@ -410,8 +726,16 @@
         "runtime": "129 min",
         "genre": "Action, Adventure, Fantasy",
         "description": "Captain Jack Sparrow searches for the trident of Poseidon while being pursued by an undead sea captain and his crew.",
-        "director": "",
-        "stars": []
+        "director": "Joachim R\u00f8nning",
+        "stars": [
+            "Espen Sandberg",
+            "Johnny Depp",
+            "Geoffrey Rush",
+            "Javier Bardem",
+            "Orlando Bloom"
+        ],
+        "votes": "224,092",
+        "gross": "$172.56M"
     },
     "47": {
         "name": "Papillon",
@@ -419,8 +743,15 @@
         "runtime": "133 min",
         "genre": "Adventure, Biography, Crime",
         "description": "Wrongfully convicted for murder, Henri Charriere forms an unlikely relationship with fellow inmate and quirky convicted counterfeiter Louis Dega, in an attempt to escape from the notorious penal colony on Devil's Island.",
-        "director": "",
-        "stars": []
+        "director": "Michael Noer",
+        "stars": [
+            "Charlie Hunnam",
+            "Damijan Oklopdzic",
+            "Christopher Fairbank",
+            "Jason Ryan"
+        ],
+        "votes": "30,328",
+        "gross": "$2.34M"
     },
     "48": {
         "name": "Molly's Game",
@@ -428,8 +759,15 @@
         "runtime": "140 min",
         "genre": "Biography, Crime, Drama",
         "description": "The true story of Molly Bloom, an Olympic-class skier who ran the world's most exclusive high-stakes poker game and became an FBI target.",
-        "director": "",
-        "stars": []
+        "director": "Aaron Sorkin",
+        "stars": [
+            "Jessica Chastain",
+            "Idris Elba",
+            "Kevin Costner",
+            "Michael Cera"
+        ],
+        "votes": "101,595",
+        "gross": "$28.78M"
     },
     "49": {
         "name": "Ghost in the Shell",
@@ -437,8 +775,15 @@
         "runtime": "107 min",
         "genre": "Action, Drama, Sci-Fi",
         "description": "In the near future, Major Mira Killian is the first of her kind: A human saved from a terrible crash, who is cyber-enhanced to be a perfect soldier devoted to stopping the world's most dangerous criminals.",
-        "director": "",
-        "stars": []
+        "director": "Rupert Sanders",
+        "stars": [
+            "Scarlett Johansson",
+            "Pilou Asb\u00e6k",
+            "Takeshi Kitano",
+            "Juliette Binoche"
+        ],
+        "votes": "173,689",
+        "gross": "$40.53M"
     },
     "50": {
         "name": "Wind River",
@@ -446,7 +791,14 @@
         "runtime": "107 min",
         "genre": "Crime, Drama, Mystery",
         "description": "A veteran hunter helps an FBI agent investigate the murder of a young woman on a Wyoming Native American reservation.",
-        "director": "",
-        "stars": []
+        "director": "Taylor Sheridan",
+        "stars": [
+            "Kelsey Asbille",
+            "Jeremy Renner",
+            "Julia Jones",
+            "Teo Briones"
+        ],
+        "votes": "165,351",
+        "gross": "$33.80M"
     }
 }

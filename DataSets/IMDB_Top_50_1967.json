@@ -5,8 +5,15 @@
         "runtime": "111 min",
         "genre": "Action, Biography, Crime",
         "description": "Bonnie Parker, a bored waitress falls in love with an ex-con named Clyde Barrow and together they start a violent crime spree through the country, stealing cars and robbing banks.",
-        "director": "",
-        "stars": []
+        "director": "Arthur Penn",
+        "stars": [
+            "Warren Beatty",
+            "Faye Dunaway",
+            "Michael J. Pollard",
+            "Gene Hackman"
+        ],
+        "votes": "93,275",
+        "gross": ""
     },
     "2": {
         "name": "Cool Hand Luke",
@@ -14,8 +21,15 @@
         "runtime": "126 min",
         "genre": "Crime, Drama",
         "description": "A laid back Southern man is sentenced to two years in a rural prison, but refuses to conform.",
-        "director": "",
-        "stars": []
+        "director": "Stuart Rosenberg",
+        "stars": [
+            "Paul Newman",
+            "George Kennedy",
+            "Strother Martin",
+            "J.D. Cannon"
+        ],
+        "votes": "147,355",
+        "gross": ""
     },
     "3": {
         "name": "The Graduate",
@@ -23,8 +37,15 @@
         "runtime": "106 min",
         "genre": "Comedy, Drama, Romance",
         "description": "A disillusioned college graduate finds himself torn between his older lover and her daughter.",
-        "director": "",
-        "stars": []
+        "director": "Mike Nichols",
+        "stars": [
+            "Dustin Hoffman",
+            "Anne Bancroft",
+            "Katharine Ross",
+            "William Daniels"
+        ],
+        "votes": "236,541",
+        "gross": "$104.95M"
     },
     "4": {
         "name": "El Dorado",
@@ -32,8 +53,15 @@
         "runtime": "126 min",
         "genre": "Drama, Romance, Western",
         "description": "Cole Thornton, a gunfighter for hire, joins forces with an old friend, Sheriff J.P. Hara. Together with an old Indian fighter and a gambler, they help a rancher and his family fight a rival rancher that is trying to steal their water.",
-        "director": "",
-        "stars": []
+        "director": "Howard Hawks",
+        "stars": [
+            "John Wayne",
+            "Robert Mitchum",
+            "James Caan",
+            "Charlene Holt"
+        ],
+        "votes": "21,461",
+        "gross": "$12.97M"
     },
     "5": {
         "name": "Poor Cow",
@@ -41,8 +69,15 @@
         "runtime": "101 min",
         "genre": "Drama",
         "description": "A young woman lives a life filled with bad choices. She marries and has a child with an abusive thief at a young age who quickly ends up in prison. Left alone she takes up with his mate (...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Ken Loach",
+        "stars": [
+            "Terence Stamp",
+            "Carol White",
+            "John Bindon",
+            "Queenie Watts"
+        ],
+        "votes": "1,116",
+        "gross": ""
     },
     "6": {
         "name": "The Dirty Dozen",
@@ -50,8 +85,15 @@
         "runtime": "150 min",
         "genre": "Action, Adventure, War",
         "description": "During World War II, a rebellious U.S. Army Major is assigned a dozen convicted murderers to train and lead them into a mass assassination mission of German officers.",
-        "director": "",
-        "stars": []
+        "director": "Robert Aldrich",
+        "stars": [
+            "Lee Marvin",
+            "Ernest Borgnine",
+            "Charles Bronson",
+            "John Cassavetes"
+        ],
+        "votes": "61,325",
+        "gross": "$45.30M"
     },
     "7": {
         "name": "The Jungle Book",
@@ -59,8 +101,15 @@
         "runtime": "78 min",
         "genre": "Animation, Adventure, Family",
         "description": "Bagheera the Panther and Baloo the Bear have a difficult time trying to convince a boy to leave the jungle for human civilization.",
-        "director": "",
-        "stars": []
+        "director": "Wolfgang Reitherman",
+        "stars": [
+            "Phil Harris",
+            "Sebastian Cabot",
+            "Louis Prima",
+            "Bruce Reitherman"
+        ],
+        "votes": "149,532",
+        "gross": "$141.84M"
     },
     "8": {
         "name": "You Only Live Twice",
@@ -68,8 +117,15 @@
         "runtime": "117 min",
         "genre": "Action, Adventure, Thriller",
         "description": "Agent 007 and the Japanese Secret Service ninja force must find and stop the true culprit of a series of spacejackings before nuclear war is provoked.",
-        "director": "",
-        "stars": []
+        "director": "Lewis Gilbert",
+        "stars": [
+            "Sean Connery",
+            "Akiko Wakabayashi",
+            "Mie Hama",
+            "Tetsur\u00f4 Tanba"
+        ],
+        "votes": "87,626",
+        "gross": "$43.08M"
     },
     "9": {
         "name": "The War Wagon",
@@ -77,8 +133,15 @@
         "runtime": "101 min",
         "genre": "Western",
         "description": "The story of a man who was shot, robbed and imprisoned who returns to steal a large gold shipment from the man who wronged him. The gold is transported in an armored stage coach, the War Wagon.",
-        "director": "",
-        "stars": []
+        "director": "Burt Kennedy",
+        "stars": [
+            "John Wayne",
+            "Kirk Douglas",
+            "Howard Keel",
+            "Robert Walker Jr."
+        ],
+        "votes": "7,872",
+        "gross": "$6.00M"
     },
     "10": {
         "name": "In the Heat of the Night",
@@ -86,8 +149,15 @@
         "runtime": "110 min",
         "genre": "Crime, Drama, Mystery",
         "description": "An African-American police detective is asked to investigate a murder in a racially hostile southern town.",
-        "director": "",
-        "stars": []
+        "director": "Norman Jewison",
+        "stars": [
+            "Sidney Poitier",
+            "Rod Steiger",
+            "Warren Oates",
+            "Lee Grant"
+        ],
+        "votes": "59,837",
+        "gross": "$24.38M"
     },
     "11": {
         "name": "Belle de Jour",
@@ -95,8 +165,15 @@
         "runtime": "100 min",
         "genre": "Drama",
         "description": "A frigid young housewife decides to spend her midweek afternoons as a prostitute.",
-        "director": "",
-        "stars": []
+        "director": "Luis Bu\u00f1uel",
+        "stars": [
+            "Catherine Deneuve",
+            "Jean Sorel",
+            "Michel Piccoli",
+            "Genevi\u00e8ve Page"
+        ],
+        "votes": "35,484",
+        "gross": "$0.03M"
     },
     "12": {
         "name": "Casino Royale",
@@ -104,8 +181,20 @@
         "runtime": "131 min",
         "genre": "Comedy",
         "description": "In an early spy spoof, aging Sir James Bond comes out of retirement to take on SMERSH.",
-        "director": "",
-        "stars": []
+        "director": "Val Guest",
+        "stars": [
+            "Ken Hughes",
+            "John Huston",
+            "Joseph McGrath",
+            "Robert Parrish",
+            "Richard Talmadge",
+            "David Niven",
+            "Peter Sellers",
+            "Ursula Andress",
+            "Orson Welles"
+        ],
+        "votes": "24,910",
+        "gross": ""
     },
     "13": {
         "name": "Valley of the Dolls",
@@ -113,8 +202,15 @@
         "runtime": "123 min",
         "genre": "Drama, Music, Romance",
         "description": "Film version of Jacqueline Susann's best-selling novel chronicling the rise and fall of three young women in show business.",
-        "director": "",
-        "stars": []
+        "director": "Mark Robson",
+        "stars": [
+            "Barbara Parkins",
+            "Patty Duke",
+            "Paul Burke",
+            "Sharon Tate"
+        ],
+        "votes": "6,555",
+        "gross": "$44.43M"
     },
     "14": {
         "name": "Doctor Dolittle",
@@ -122,8 +218,15 @@
         "runtime": "152 min",
         "genre": "Adventure, Comedy, Family",
         "description": "After the animal communicating veterinarian goes too far for his client\u00e8le, he and his friends escape their hometown to the sea in search of the Great Pink Sea Snail.",
-        "director": "",
-        "stars": []
+        "director": "Richard Fleischer",
+        "stars": [
+            "Rex Harrison",
+            "Samantha Eggar",
+            "Anthony Newley",
+            "Richard Attenborough"
+        ],
+        "votes": "7,542",
+        "gross": "$9.00M"
     },
     "15": {
         "name": "Guess Who's Coming to Dinner",
@@ -131,8 +234,15 @@
         "runtime": "108 min",
         "genre": "Comedy, Drama",
         "description": "A couple's attitudes are challenged when their daughter introduces them to her African-American fianc\u00e9.",
-        "director": "",
-        "stars": []
+        "director": "Stanley Kramer",
+        "stars": [
+            "Spencer Tracy",
+            "Sidney Poitier",
+            "Katharine Hepburn",
+            "Katharine Houghton"
+        ],
+        "votes": "34,872",
+        "gross": "$56.70M"
     },
     "16": {
         "name": "Dance of the Vampires",
@@ -140,8 +250,15 @@
         "runtime": "91 min",
         "genre": "Comedy, Horror",
         "description": "A noted professor and his dim-witted apprentice fall prey to their inquiring vampires, while on the trail of the ominous damsel in distress.",
-        "director": "",
-        "stars": []
+        "director": "Roman Polanski",
+        "stars": [
+            "Jack MacGowran",
+            "Roman Polanski",
+            "Alfie Bass",
+            "Jessie Robins"
+        ],
+        "votes": "26,703",
+        "gross": ""
     },
     "17": {
         "name": "The Producers",
@@ -149,8 +266,15 @@
         "runtime": "88 min",
         "genre": "Comedy, Music",
         "description": "Producers Max Bialystock and Leo Bloom make money by producing a sure-fire flop.",
-        "director": "",
-        "stars": []
+        "director": "Mel Brooks",
+        "stars": [
+            "Zero Mostel",
+            "Gene Wilder",
+            "Estelle Winwood",
+            "Ren\u00e9e Taylor"
+        ],
+        "votes": "46,058",
+        "gross": "$0.11M"
     },
     "18": {
         "name": "In Cold Blood",
@@ -158,8 +282,15 @@
         "runtime": "134 min",
         "genre": "Biography, Crime, Drama",
         "description": "After a botched robbery results in the brutal murder of a rural family, two drifters elude police, in the end coming to terms with their own mortality and the repercussions of their vile atrocity.",
-        "director": "",
-        "stars": []
+        "director": "Richard Brooks",
+        "stars": [
+            "Robert Blake",
+            "Scott Wilson",
+            "John Forsythe",
+            "Paul Stewart"
+        ],
+        "votes": "21,981",
+        "gross": ""
     },
     "19": {
         "name": "Le Samoura\u00ef",
@@ -167,8 +298,15 @@
         "runtime": "101 min",
         "genre": "Crime, Drama, Mystery",
         "description": "After professional hitman Jef Costello is seen by witnesses his efforts to provide himself an alibi drive him further into a corner.",
-        "director": "",
-        "stars": []
+        "director": "Jean-Pierre Melville",
+        "stars": [
+            "Alain Delon",
+            "Fran\u00e7ois P\u00e9rier",
+            "Nathalie Delon",
+            "Cathy Rosier"
+        ],
+        "votes": "38,795",
+        "gross": "$0.04M"
     },
     "20": {
         "name": "Bedazzled",
@@ -176,8 +314,15 @@
         "runtime": "103 min",
         "genre": "Comedy, Fantasy, Romance",
         "description": "A hapless loser sells his soul to the Devil in exchange for seven wishes, but has trouble winning over the girl of his dreams.",
-        "director": "",
-        "stars": []
+        "director": "Stanley Donen",
+        "stars": [
+            "Peter Cook",
+            "Dudley Moore",
+            "Eleanor Bron",
+            "Raquel Welch"
+        ],
+        "votes": "7,740",
+        "gross": ""
     },
     "21": {
         "name": "To Sir, with Love",
@@ -185,8 +330,15 @@
         "runtime": "105 min",
         "genre": "Drama",
         "description": "Idealistic engineer-trainee and his experiences in teaching a group of rambunctious white high school students from the slums of London's East End.",
-        "director": "",
-        "stars": []
+        "director": "James Clavell",
+        "stars": [
+            "Sidney Poitier",
+            "Judy Geeson",
+            "Christian Roberts",
+            "Suzy Kendall"
+        ],
+        "votes": "14,135",
+        "gross": "$42.43M"
     },
     "22": {
         "name": "Wait Until Dark",
@@ -194,8 +346,15 @@
         "runtime": "108 min",
         "genre": "Horror, Thriller",
         "description": "A recently blinded woman is terrorized by a trio of thugs while they search for a heroin-stuffed doll they believe is in her apartment.",
-        "director": "",
-        "stars": []
+        "director": "Terence Young",
+        "stars": [
+            "Audrey Hepburn",
+            "Alan Arkin",
+            "Richard Crenna",
+            "Efrem Zimbalist Jr."
+        ],
+        "votes": "24,913",
+        "gross": "$17.55M"
     },
     "23": {
         "name": "The Last Challenge",
@@ -203,8 +362,15 @@
         "runtime": "105 min",
         "genre": "Western",
         "description": "A deadly gunslinger travels to a town to shoot it out with a famed gunslinger turned lawman in a small town.",
-        "director": "",
-        "stars": []
+        "director": "Richard Thorpe",
+        "stars": [
+            "Glenn Ford",
+            "Angie Dickinson",
+            "Chad Everett",
+            "Gary Merrill"
+        ],
+        "votes": "802",
+        "gross": ""
     },
     "24": {
         "name": "Thoroughly Modern Millie",
@@ -212,8 +378,15 @@
         "runtime": "138 min",
         "genre": "Comedy, Musical, Romance",
         "description": "Millie comes to town in the roaring twenties to encounter flappers, sexuality and white slavers.",
-        "director": "",
-        "stars": []
+        "director": "George Roy Hill",
+        "stars": [
+            "Julie Andrews",
+            "James Fox",
+            "Mary Tyler Moore",
+            "Carol Channing"
+        ],
+        "votes": "5,385",
+        "gross": "$34.34M"
     },
     "25": {
         "name": "Welcome to Hard Times",
@@ -221,8 +394,15 @@
         "runtime": "103 min",
         "genre": "Drama, Western",
         "description": "A sociopathic stranger all but destroys a small hardscrabble town but the 'mayor' convinces its survivors to stay and rebuild.",
-        "director": "",
-        "stars": []
+        "director": "Burt Kennedy",
+        "stars": [
+            "Henry Fonda",
+            "Janice Rule",
+            "Keenan Wynn",
+            "Janis Paige"
+        ],
+        "votes": "1,266",
+        "gross": ""
     },
     "26": {
         "name": "Point Blank",
@@ -230,8 +410,15 @@
         "runtime": "92 min",
         "genre": "Crime, Drama, Thriller",
         "description": "After being double-crossed and left for dead, a mysterious man named Walker single-mindedly tries to retrieve the money that was stolen from him.",
-        "director": "",
-        "stars": []
+        "director": "John Boorman",
+        "stars": [
+            "Lee Marvin",
+            "Angie Dickinson",
+            "Keenan Wynn",
+            "Carroll O'Connor"
+        ],
+        "votes": "16,476",
+        "gross": ""
     },
     "27": {
         "name": "Barefoot in the Park",
@@ -239,8 +426,15 @@
         "runtime": "106 min",
         "genre": "Comedy, Romance",
         "description": "Paul, a conservative young lawyer, marries the vivacious Corie. Their highly passionate relationship descends into comical discord in a five-flight New York City walk-up apartment.",
-        "director": "",
-        "stars": []
+        "director": "Gene Saks",
+        "stars": [
+            "Robert Redford",
+            "Jane Fonda",
+            "Charles Boyer",
+            "Mildred Natwick"
+        ],
+        "votes": "14,815",
+        "gross": "$19.99M"
     },
     "28": {
         "name": "Playtime",
@@ -248,8 +442,15 @@
         "runtime": "115 min",
         "genre": "Comedy",
         "description": "Monsieur Hulot curiously wanders around a high-tech Paris, paralleling a trip with a group of American tourists. Meanwhile, a nightclub/restaurant prepares its opening night, but it's still under construction.",
-        "director": "",
-        "stars": []
+        "director": "Jacques Tati",
+        "stars": [
+            "Jacques Tati",
+            "Barbara Dennek",
+            "Rita Maiden",
+            "France Rumilly"
+        ],
+        "votes": "16,551",
+        "gross": ""
     },
     "29": {
         "name": "Hour of the Gun",
@@ -257,8 +458,15 @@
         "runtime": "100 min",
         "genre": "Western",
         "description": "Marshal Wyatt Earp kills a couple of men of the Clanton gang in a fight. In revenge, Clanton's thugs kill the Marshal's brother. Thus, Wyatt starts to chase the killers together with his friend Doc Holliday.",
-        "director": "",
-        "stars": []
+        "director": "John Sturges",
+        "stars": [
+            "James Garner",
+            "Jason Robards",
+            "Robert Ryan",
+            "Albert Salmi"
+        ],
+        "votes": "3,052",
+        "gross": ""
     },
     "30": {
         "name": "Camelot",
@@ -266,8 +474,15 @@
         "runtime": "179 min",
         "genre": "Adventure, Fantasy, Musical",
         "description": "The story of the marriage of England's King Arthur to Guinevere. The plot of illegitimate Mordred to gain the throne and Guinevere's growing attachment to Sir Lancelot, threaten to topple Arthur and destroy his \"round table\" of knights.",
-        "director": "",
-        "stars": []
+        "director": "Joshua Logan",
+        "stars": [
+            "Richard Harris",
+            "Vanessa Redgrave",
+            "Franco Nero",
+            "David Hemmings"
+        ],
+        "votes": "5,486",
+        "gross": "$31.10M"
     },
     "31": {
         "name": "How to Succeed in Business Without Really Trying",
@@ -275,8 +490,15 @@
         "runtime": "121 min",
         "genre": "Comedy, Musical",
         "description": "Armed with the titular manual, an ambitious window washer seeks to climb the corporate ladder.",
-        "director": "",
-        "stars": []
+        "director": "David Swift",
+        "stars": [
+            "Robert Morse",
+            "Michele Lee",
+            "Rudy Vallee",
+            "Anthony 'Scooter' Teague"
+        ],
+        "votes": "3,923",
+        "gross": ""
     },
     "32": {
         "name": "I Am Curious (Yellow)",
@@ -284,8 +506,15 @@
         "runtime": "121 min",
         "genre": "Drama",
         "description": "Lena, aged twenty, wants to know all she can about life and reality. She collects information on everyone and everything, storing her findings in an enormous archive. She experiments with ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Vilgot Sj\u00f6man",
+        "stars": [
+            "Lena Nyman",
+            "Vilgot Sj\u00f6man",
+            "B\u00f6rje Ahlstedt",
+            "Peter Lindgren"
+        ],
+        "votes": "3,233",
+        "gross": "$20.24M"
     },
     "33": {
         "name": "The Young Girls of Rochefort",
@@ -293,8 +522,15 @@
         "runtime": "125 min",
         "genre": "Comedy, Drama, Musical",
         "description": "Two sisters leave their small seaside town of Rochefort in search of romance. Hired as carnival singers, one falls for an American musician, while the other must search for her ideal partner.",
-        "director": "",
-        "stars": []
+        "director": "Jacques Demy",
+        "stars": [
+            "Catherine Deneuve",
+            "George Chakiris",
+            "Fran\u00e7oise Dorl\u00e9ac",
+            "Jacques Perrin"
+        ],
+        "votes": "6,924",
+        "gross": "$0.09M"
     },
     "34": {
         "name": "Deadlier Than the Male",
@@ -302,8 +538,15 @@
         "runtime": "98 min",
         "genre": "Adventure, Crime, Drama",
         "description": "British agent Bulldog Drummond is assigned to stop a master criminal who uses beautiful women to do his killings.",
-        "director": "",
-        "stars": []
+        "director": "Ralph Thomas",
+        "stars": [
+            "Richard Johnson",
+            "Elke Sommer",
+            "Sylva Koscina",
+            "Nigel Green"
+        ],
+        "votes": "1,149",
+        "gross": ""
     },
     "35": {
         "name": "In Like Flint",
@@ -311,8 +554,15 @@
         "runtime": "114 min",
         "genre": "Action, Adventure, Comedy",
         "description": "Super-spy Flint takes on a cabal of women plotting to rule the world.",
-        "director": "",
-        "stars": []
+        "director": "Gordon Douglas",
+        "stars": [
+            "James Coburn",
+            "Lee J. Cobb",
+            "Jean Hale",
+            "Andrew Duggan"
+        ],
+        "votes": "4,707",
+        "gross": "$11.00M"
     },
     "36": {
         "name": "Two for the Road",
@@ -320,8 +570,15 @@
         "runtime": "111 min",
         "genre": "Comedy, Drama, Romance",
         "description": "A couple in the south of France non-sequentially spin down the highways of infidelity in their troubled ten-year marriage.",
-        "director": "",
-        "stars": []
+        "director": "Stanley Donen",
+        "stars": [
+            "Audrey Hepburn",
+            "Albert Finney",
+            "Eleanor Bron",
+            "William Daniels"
+        ],
+        "votes": "10,888",
+        "gross": ""
     },
     "37": {
         "name": "Fathom",
@@ -329,8 +586,15 @@
         "runtime": "99 min",
         "genre": "Adventure, Comedy",
         "description": "In Spain, an American skydiver is recruited by Western intelligence agents to recover a lost H-bomb detonator from hostile foreign agents.",
-        "director": "",
-        "stars": []
+        "director": "Leslie H. Martinson",
+        "stars": [
+            "Anthony Franciosa",
+            "Raquel Welch",
+            "Ronald Fraser",
+            "Richard Briers"
+        ],
+        "votes": "1,165",
+        "gross": ""
     },
     "38": {
         "name": "A Countess from Hong Kong",
@@ -338,8 +602,15 @@
         "runtime": "120 min",
         "genre": "Comedy, Romance",
         "description": "In Hong Kong, the ambassador returning to America meets the Russian countess, a refugee without a passport, who decides to hide in his cabin.",
-        "director": "",
-        "stars": []
+        "director": "Charles Chaplin",
+        "stars": [
+            "Marlon Brando",
+            "Sophia Loren",
+            "Sydney Chaplin",
+            "Tippi Hedren"
+        ],
+        "votes": "4,751",
+        "gross": ""
     },
     "39": {
         "name": "Far from the Madding Crowd",
@@ -347,8 +618,15 @@
         "runtime": "168 min",
         "genre": "Drama, History, Romance",
         "description": "Bathsheba Everdene, a willful, flirtatious, young woman, unexpectedly inherits a large farm and is romantically pursued by three very different men.",
-        "director": "",
-        "stars": []
+        "director": "John Schlesinger",
+        "stars": [
+            "Julie Christie",
+            "Peter Finch",
+            "Alan Bates",
+            "Terence Stamp"
+        ],
+        "votes": "4,737",
+        "gross": ""
     },
     "40": {
         "name": "The Night of the Generals",
@@ -356,8 +634,15 @@
         "runtime": "148 min",
         "genre": "Crime, Drama, Mystery",
         "description": "In 1942, a Polish prostitute and German agent, is murdered in Warsaw. Suspicion falls on three generals, and Major Grau of German Intelligence seeks justice which ends up taking decades.",
-        "director": "",
-        "stars": []
+        "director": "Anatole Litvak",
+        "stars": [
+            "Peter O'Toole",
+            "Omar Sharif",
+            "Tom Courtenay",
+            "Donald Pleasence"
+        ],
+        "votes": "6,420",
+        "gross": ""
     },
     "41": {
         "name": "The Taming of the Shrew",
@@ -365,8 +650,15 @@
         "runtime": "122 min",
         "genre": "Comedy, Drama, Romance",
         "description": "Brutish, fortune-hunting scoundrel Petruchio tames his wealthy, shrewish wife, Katharina.",
-        "director": "",
-        "stars": []
+        "director": "Franco Zeffirelli",
+        "stars": [
+            "Elizabeth Taylor",
+            "Richard Burton",
+            "Cyril Cusack",
+            "Michael Hordern"
+        ],
+        "votes": "6,607",
+        "gross": "$8.00M"
     },
     "42": {
         "name": "I Call First",
@@ -374,8 +666,15 @@
         "runtime": "90 min",
         "genre": "Drama, Romance",
         "description": "A young man struggles with the fact that his girlfriend was once raped.",
-        "director": "",
-        "stars": []
+        "director": "Martin Scorsese",
+        "stars": [
+            "Harvey Keitel",
+            "Zina Bethune",
+            "Anne Collette",
+            "Lennard Kuras"
+        ],
+        "votes": "6,966",
+        "gross": ""
     },
     "43": {
         "name": "Quatermass and the Pit",
@@ -383,8 +682,15 @@
         "runtime": "97 min",
         "genre": "Horror, Mystery, Sci-Fi",
         "description": "A mysterious artifact is unearthed in London, and famous scientist Bernard Quatermass is called into to divine its origins and explain its strange effects on people.",
-        "director": "",
-        "stars": []
+        "director": "Roy Ward Baker",
+        "stars": [
+            "James Donald",
+            "Andrew Keir",
+            "Barbara Shelley",
+            "Julian Glover"
+        ],
+        "votes": "8,445",
+        "gross": ""
     },
     "44": {
         "name": "Death Rides a Horse",
@@ -392,8 +698,15 @@
         "runtime": "114 min",
         "genre": "Western",
         "description": "A young gunfighter plans to track down and eliminate the bandits who killed his family, and forms a tenuous alliance with an aging ex-outlaw, till the surprising end.",
-        "director": "",
-        "stars": []
+        "director": "Giulio Petroni",
+        "stars": [
+            "Lee Van Cleef",
+            "John Phillip Law",
+            "Mario Brega",
+            "Luigi Pistilli"
+        ],
+        "votes": "6,055",
+        "gross": ""
     },
     "45": {
         "name": "Weekend",
@@ -401,8 +714,15 @@
         "runtime": "105 min",
         "genre": "Adventure, Comedy, Drama",
         "description": "A surreal tale of a married couple going on a road trip to visit the wife's parents with the intention of killing them for the inheritance.",
-        "director": "",
-        "stars": []
+        "director": "Jean-Luc Godard",
+        "stars": [
+            "Mireille Darc",
+            "Jean Yanne",
+            "Jean-Pierre Kalfon",
+            "Karl Marx"
+        ],
+        "votes": "11,825",
+        "gross": ""
     },
     "46": {
         "name": "Ultraman",
@@ -410,8 +730,15 @@
         "runtime": "79 min",
         "genre": "Action, Sci-Fi, Thriller",
         "description": "A feature-length compilation of episodes of the famous Japanese sci-fi TV series about a futuristic policeman who secretly transforms into a giant extraterrestrial savior.",
-        "director": "",
-        "stars": []
+        "director": "Hajime Tsuburaya",
+        "stars": [
+            "Akiji Kobayashi",
+            "Susumu Kurobe",
+            "Hiroko Sakurai",
+            "Akihiko Hirata"
+        ],
+        "votes": "198",
+        "gross": ""
     },
     "47": {
         "name": "The Gnome-Mobile",
@@ -419,8 +746,15 @@
         "runtime": "84 min",
         "genre": "Adventure, Family, Fantasy",
         "description": "An eccentric millionaire and his grandchildren are embroiled in the plights of some forest gnomes who are searching for the rest of their tribe. While helping them, the millionaire is ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Robert Stevenson",
+        "stars": [
+            "Walter Brennan",
+            "Matthew Garber",
+            "Karen Dotrice",
+            "Richard Deacon"
+        ],
+        "votes": "1,770",
+        "gross": ""
     },
     "48": {
         "name": "The Trip",
@@ -428,8 +762,15 @@
         "runtime": "82 min",
         "genre": "Drama",
         "description": "After his wife leaves him, a disillusioned director dives into the drug scene, trying anything his friend suggests.",
-        "director": "",
-        "stars": []
+        "director": "Roger Corman",
+        "stars": [
+            "Peter Fonda",
+            "Susan Strasberg",
+            "Bruce Dern",
+            "Dennis Hopper"
+        ],
+        "votes": "3,925",
+        "gross": ""
     },
     "49": {
         "name": "The Way West",
@@ -437,8 +778,15 @@
         "runtime": "122 min",
         "genre": "Adventure, Western",
         "description": "In 1843, a former U.S. Senator leads a wagon train of settlers to Oregon, but his megalomania leads to growing dissatisfaction with his leadership.",
-        "director": "",
-        "stars": []
+        "director": "Andrew V. McLaglen",
+        "stars": [
+            "Kirk Douglas",
+            "Robert Mitchum",
+            "Richard Widmark",
+            "Lola Albright"
+        ],
+        "votes": "2,108",
+        "gross": ""
     },
     "50": {
         "name": "Hombre",
@@ -446,7 +794,14 @@
         "runtime": "111 min",
         "genre": "Western",
         "description": "John Russell, disdained by his \"respectable\" fellow stagecoach passengers because he was raised by Indians, becomes their only hope for survival when they are set upon by outlaws.",
-        "director": "",
-        "stars": []
+        "director": "Martin Ritt",
+        "stars": [
+            "Paul Newman",
+            "Fredric March",
+            "Richard Boone",
+            "Diane Cilento"
+        ],
+        "votes": "10,084",
+        "gross": ""
     }
 }

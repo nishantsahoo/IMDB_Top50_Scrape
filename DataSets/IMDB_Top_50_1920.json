@@ -5,8 +5,15 @@
         "runtime": "67 min",
         "genre": "Fantasy, Horror, Mystery",
         "description": "Hypnotist Dr. Caligari uses a somnambulist, Cesare, to commit murders.",
-        "director": "",
-        "stars": []
+        "director": "Robert Wiene",
+        "stars": [
+            "Werner Krauss",
+            "Conrad Veidt",
+            "Friedrich Feher",
+            "Lil Dagover"
+        ],
+        "votes": "49,345",
+        "gross": ""
     },
     "2": {
         "name": "The Golem",
@@ -14,8 +21,16 @@
         "runtime": "91 min",
         "genre": "Fantasy, Horror",
         "description": "In 16th-century Prague, a rabbi creates the Golem - a giant creature made of clay. Using sorcery, he brings the creature to life in order to protect the Jews of Prague from persecution.",
-        "director": "",
-        "stars": []
+        "director": "Carl Boese",
+        "stars": [
+            "Paul Wegener",
+            "Paul Wegener",
+            "Albert Steinr\u00fcck",
+            "Ernst Deutsch",
+            "Lyda Salmonova"
+        ],
+        "votes": "5,692",
+        "gross": ""
     },
     "3": {
         "name": "Way Down East",
@@ -23,8 +38,15 @@
         "runtime": "145 min",
         "genre": "Drama, Romance",
         "description": "A naive country girl is tricked into a sham marriage by a wealthy womanizer, then must rebuild her life despite the taint of having borne a child out of wedlock.",
-        "director": "",
-        "stars": []
+        "director": "D.W. Griffith",
+        "stars": [
+            "Lillian Gish",
+            "Richard Barthelmess",
+            "Mrs. David Landau",
+            "Lowell Sherman"
+        ],
+        "votes": "4,568",
+        "gross": "$4.50M"
     },
     "4": {
         "name": "Dr. Jekyll and Mr. Hyde",
@@ -32,8 +54,15 @@
         "runtime": "82 min",
         "genre": "Drama, Horror, Sci-Fi",
         "description": "Dr. Henry Jekyll experiments with scientific means of revealing the hidden, dark side of man and releases a murderer from within himself.",
-        "director": "",
-        "stars": []
+        "director": "John S. Robertson",
+        "stars": [
+            "John Barrymore",
+            "Martha Mansfield",
+            "Brandon Hurst",
+            "Charles Lane"
+        ],
+        "votes": "4,293",
+        "gross": ""
     },
     "5": {
         "name": "Sex",
@@ -41,8 +70,15 @@
         "runtime": "87 min",
         "genre": "Drama",
         "description": "A broadway actress uses her sex appeal to ruin a marriage only to dump her lover for a richer prospect.",
-        "director": "",
-        "stars": []
+        "director": "Fred Niblo",
+        "stars": [
+            "Louise Glaum",
+            "Irving Cummings",
+            "Peggy Pearce",
+            "Myrtle Stedman"
+        ],
+        "votes": "245",
+        "gross": ""
     },
     "6": {
         "name": "The Mark of Zorro",
@@ -50,8 +86,15 @@
         "runtime": "107 min",
         "genre": "Adventure, Romance, Western",
         "description": "A seemingly idiotic fop is really the courageous vigilante Zorro, who seeks to protect the oppressed.",
-        "director": "",
-        "stars": []
+        "director": "Fred Niblo",
+        "stars": [
+            "Douglas Fairbanks",
+            "Marguerite De La Motte",
+            "Robert McKim",
+            "Noah Beery"
+        ],
+        "votes": "1,968",
+        "gross": ""
     },
     "7": {
         "name": "Within Our Gates",
@@ -59,8 +102,15 @@
         "runtime": "79 min",
         "genre": "Drama, Romance",
         "description": "Abandoned by her fianc\u00e9, an educated black woman with a shocking past dedicates herself to helping a near bankrupt school for impoverished black youths.",
-        "director": "",
-        "stars": []
+        "director": "Oscar Micheaux",
+        "stars": [
+            "Evelyn Preer",
+            "Flo Clements",
+            "James D. Ruffin",
+            "Jack Chenault"
+        ],
+        "votes": "1,928",
+        "gross": ""
     },
     "8": {
         "name": "The Penalty",
@@ -68,8 +118,15 @@
         "runtime": "90 min",
         "genre": "Crime, Drama, Horror",
         "description": "A deformed criminal mastermind plans to loot the city of San Francisco as well as revenge himself on the doctor who mistakenly amputated his legs.",
-        "director": "",
-        "stars": []
+        "director": "Wallace Worsley",
+        "stars": [
+            "Charles Clary",
+            "Doris Pawn",
+            "Jim Mason",
+            "Lon Chaney"
+        ],
+        "votes": "1,818",
+        "gross": ""
     },
     "9": {
         "name": "The Son of Tarzan",
@@ -77,8 +134,16 @@
         "runtime": "248 min",
         "genre": "Action, Adventure",
         "description": "The scenario follows the book closely. Tarzan's son Jack (Korak to the apes) is kidnapped from England by Tarzan's old enemy Paulovich. He escapes into the African jungle with the help of ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Arthur J. Flaven",
+        "stars": [
+            "Harry Revier",
+            "Kamuela C. Searle",
+            "P. Dempsey Tabler",
+            "Nita Martan",
+            "Karla Schramm"
+        ],
+        "votes": "67",
+        "gross": ""
     },
     "10": {
         "name": "The Last of the Mohicans",
@@ -86,8 +151,16 @@
         "runtime": "73 min",
         "genre": "Action, Adventure, Drama",
         "description": "As Alice and Cora Munro attempt to find their father, a British officer in the French and Indian War, they are set upon by French soldiers and their cohorts, Huron tribesmen led by the evil...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Clarence Brown",
+        "stars": [
+            "Maurice Tourneur",
+            "Wallace Beery",
+            "Barbara Bedford",
+            "Alan Roscoe",
+            "Lillian Hall"
+        ],
+        "votes": "1,008",
+        "gross": ""
     },
     "11": {
         "name": "Billions",
@@ -95,8 +168,15 @@
         "runtime": "",
         "genre": "Comedy",
         "description": "Billions is a lost 1920 American silent comedy film produced by and starring Alla Nazimova and distributed by Metro Pictures. Ray Smallwood directed. It is based on a French play, L'Homme riche, by Jean Jose Frappa and Henry Dupuy-Mazuel.",
-        "director": "",
-        "stars": []
+        "director": "Ray C. Smallwood",
+        "stars": [
+            "Alla Nazimova",
+            "Charles Bryant",
+            "William Irving",
+            "Victor Potel"
+        ],
+        "votes": "7",
+        "gross": ""
     },
     "12": {
         "name": "Erotikon",
@@ -104,8 +184,15 @@
         "runtime": "106 min",
         "genre": "Comedy, Romance",
         "description": "EROTIKON surely pushed the boundaries of what was acceptable on the screen in 1920: Irene, the bored wife of a distracted entomologist, pursues a womanizing aviator, but she may actually be...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Mauritz Stiller",
+        "stars": [
+            "Anders de Wahl",
+            "Tora Teje",
+            "Karin Molander",
+            "Elin Lagergren"
+        ],
+        "votes": "638",
+        "gross": ""
     },
     "13": {
         "name": "Genuine",
@@ -113,8 +200,15 @@
         "runtime": "88 min",
         "genre": "Horror",
         "description": "Extremely rare work of Robert Wiene. From the director and year of excellent \"The Cabinet of Dr. Caligari\" this work was eventually overshadowed by the success of Caligari. It has a dreamy atmosphere, like another world or something.",
-        "director": "",
-        "stars": []
+        "director": "Robert Wiene",
+        "stars": [
+            "Fern Andra",
+            "Hans Heinrich von Twardowski",
+            "Ernst Gronau",
+            "Harald Paulsen"
+        ],
+        "votes": "754",
+        "gross": ""
     },
     "14": {
         "name": "Why Change Your Wife?",
@@ -122,8 +216,15 @@
         "runtime": "90 min",
         "genre": "Comedy, Drama",
         "description": "Robert and Beth Gordon are married but share little. He runs into Sally at a cabaret and the Gordons are soon divorced. Just as he gets bored with Sally's superficiality, Beth strives to ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Cecil B. DeMille",
+        "stars": [
+            "Thomas Meighan",
+            "Gloria Swanson",
+            "Bebe Daniels",
+            "Theodore Kosloff"
+        ],
+        "votes": "1,275",
+        "gross": ""
     },
     "15": {
         "name": "Shakuntala",
@@ -131,8 +232,15 @@
         "runtime": "",
         "genre": "Drama",
         "description": "Raja Dushyanta is out hunting in a nearby forest happens upon an attractive maiden, named Shakuntala, and instantly falls in love with her. He gives Shakuntala his ring as a symbol of his ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Suchet Singh",
+        "stars": [
+            "Dorothy Kingdon",
+            "Goharjaan",
+            "Samson",
+            "Sutria"
+        ],
+        "votes": "",
+        "gross": ""
     },
     "16": {
         "name": "The Saphead",
@@ -140,8 +248,16 @@
         "runtime": "77 min",
         "genre": "Comedy",
         "description": "The simple-minded son of a rich financier must find his own way in the world.",
-        "director": "",
-        "stars": []
+        "director": "Herbert Blach\u00e9",
+        "stars": [
+            "Winchell Smith",
+            "Edward Jobson",
+            "Beulah Booker",
+            "Edward Connelly",
+            "Edward Alexander"
+        ],
+        "votes": "1,294",
+        "gross": ""
     },
     "17": {
         "name": "The Head of Janus",
@@ -149,8 +265,15 @@
         "runtime": "107 min",
         "genre": "Horror",
         "description": "See everything in the book \"Conrad Veidt on Screen\" by John T. Soister (McFarland 2002), pages 109-113.",
-        "director": "",
-        "stars": []
+        "director": "F.W. Murnau",
+        "stars": [
+            "Conrad Veidt",
+            "Magnus Stifter",
+            "Margarete Schlegel",
+            "Willy Kaiser-Heyl"
+        ],
+        "votes": "80",
+        "gross": ""
     },
     "18": {
         "name": "Pollyanna",
@@ -158,8 +281,15 @@
         "runtime": "58 min",
         "genre": "Family, Comedy, Drama",
         "description": "An orphan's optimistic outlook brings a change to the ill-tempered town in which she resides to her aunt.",
-        "director": "",
-        "stars": []
+        "director": "Paul Powell",
+        "stars": [
+            "Mary Pickford",
+            "Wharton James",
+            "Katherine Griffith",
+            "Helen Jerome Eddy"
+        ],
+        "votes": "306",
+        "gross": ""
     },
     "19": {
         "name": "Outside the Law",
@@ -167,8 +297,15 @@
         "runtime": "75 min",
         "genre": "Crime, Romance, Thriller",
         "description": "In this early collaboration with director Tod Browning (Dracula, Freaks), Chaney delivers a dual performance of dramatic intensity, starring as Ah Wing, a kind-hearted student of Confucian ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Tod Browning",
+        "stars": [
+            "Priscilla Dean",
+            "Wheeler Oakman",
+            "Lon Chaney",
+            "Ralph Lewis"
+        ],
+        "votes": "426",
+        "gross": ""
     },
     "20": {
         "name": "Leaves From Satan's Book",
@@ -176,8 +313,15 @@
         "runtime": "167 min",
         "genre": "Drama",
         "description": "In 4 episodic tales of human suffering; the temptation of Jesus, the Spanish Inquisition, the French Revolution and the Russo-Finnish war of 1918, Satan attempts to win God's favor.",
-        "director": "",
-        "stars": []
+        "director": "Carl Theodor Dreyer",
+        "stars": [
+            "Helge Nissen",
+            "Halvard Hoff",
+            "Jacob Texiere",
+            "Hallander Helleman"
+        ],
+        "votes": "1,004",
+        "gross": ""
     },
     "21": {
         "name": "The Parson's Widow",
@@ -185,8 +329,15 @@
         "runtime": "71 min",
         "genre": "Comedy, Drama, Horror",
         "description": "A young man is elected by a small village to be its parson. As part of his duties, he is required to marry the widow of the parson before him. This poses two problems--first, the widow is ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Carl Theodor Dreyer",
+        "stars": [
+            "Hildur Carlberg",
+            "Einar R\u00f6d",
+            "Greta Almroth",
+            "Olav Aukrust"
+        ],
+        "votes": "927",
+        "gross": ""
     },
     "22": {
         "name": "Das wandernde Bild",
@@ -194,8 +345,15 @@
         "runtime": "67 min",
         "genre": "Romance",
         "description": "Mia May has surrendered herself to a disciple of free love, and, having given birth to a child, marries the twin brother and Doppelg\u00e4nger of her chosen lover.",
-        "director": "",
-        "stars": []
+        "director": "Fritz Lang",
+        "stars": [
+            "Mia May",
+            "Hans Marr",
+            "Rudolf Klein-Rogge",
+            "Loni Nest"
+        ],
+        "votes": "311",
+        "gross": ""
     },
     "23": {
         "name": "The Flapper",
@@ -203,8 +361,15 @@
         "runtime": "88 min",
         "genre": "Comedy",
         "description": "Ginger grows up in a slow town. Because of her wild attitude, her father decides to send her to a strict boarding school. Despite the strictness, the girls have fun getting into flapper lifestyle trouble including flirting.",
-        "director": "",
-        "stars": []
+        "director": "Alan Crosland",
+        "stars": [
+            "Olive Thomas",
+            "Theodore Westman Jr.",
+            "William P. Carleton",
+            "Warren Cook"
+        ],
+        "votes": "255",
+        "gross": ""
     },
     "24": {
         "name": "The Revenge of Tarzan",
@@ -212,8 +377,16 @@
         "runtime": "90 min",
         "genre": "Action, Adventure",
         "description": "Tarzan and Jane are sailing for France in answer to a call for help from Countess de Coude who is being persecuted by her brother Rokoff. After a duel with the Countess' jealous husband, ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Harry Revier",
+        "stars": [
+            "George M. Merrick",
+            "Gene Pollar",
+            "Karla Schramm",
+            "Estelle Taylor",
+            "Armand Cortes"
+        ],
+        "votes": "31",
+        "gross": ""
     },
     "25": {
         "name": "Gyurkovicsarna",
@@ -221,8 +394,15 @@
         "runtime": "81 min",
         "genre": "Comedy",
         "description": "Film adaptation of the novel \"A Gyurkovics-fi\u00fak' by author Ferenc Herczeg, starring G\u00f6sta Ekman in the lead role, and featuring opera singer Emile Stiebel.",
-        "director": "",
-        "stars": []
+        "director": "John W. Brunius",
+        "stars": [
+            "G\u00f6sta Ekman",
+            "Nils Asther",
+            "Violet Molitor",
+            "Emile Stiebel"
+        ],
+        "votes": "16",
+        "gross": ""
     },
     "26": {
         "name": "On with the Dance",
@@ -230,8 +410,15 @@
         "runtime": "70 min",
         "genre": "Drama",
         "description": "Sonia, a Russian dancer, comes to New York seeking her fortune. She marries Peter Derwynt, a young architect, but their marriage is not a good one. Sonia falls under the spell of a rich ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "George Fitzmaurice",
+        "stars": [
+            "Mae Murray",
+            "David Powell",
+            "Alma Tell",
+            "John Miltern"
+        ],
+        "votes": "",
+        "gross": ""
     },
     "27": {
         "name": "Opium",
@@ -239,8 +426,15 @@
         "runtime": "112 min",
         "genre": "Drama",
         "description": "A Chinese opium dealer takes revenge on Westerners who have corrupted his wife.",
-        "director": "",
-        "stars": []
+        "director": "Robert Reinert",
+        "stars": [
+            "Eduard von Winterstein",
+            "Sybill Morel",
+            "Werner Krauss",
+            "Friedrich K\u00fchne"
+        ],
+        "votes": "63",
+        "gross": ""
     },
     "28": {
         "name": "The Daughter of Dawn",
@@ -248,8 +442,15 @@
         "runtime": "80 min",
         "genre": "Western",
         "description": "This restored silent film features a love triangle involving a Kiowa chief's daughter and ensuing conflict between Kiowa and Comanche villages.",
-        "director": "",
-        "stars": []
+        "director": "Norbert A. Myles",
+        "stars": [
+            "Belo Cozad",
+            "Em-koy-e-tie",
+            "Hunting Horse",
+            "Esther LeBarre"
+        ],
+        "votes": "321",
+        "gross": ""
     },
     "29": {
         "name": "Sumurun",
@@ -257,8 +458,15 @@
         "runtime": "85 min",
         "genre": "Adventure, Drama, Romance",
         "description": "The favorite slave girl of a tyrannical sheik falls in love with a cloth merchant. Meanwhile, a hunchback clown suffers unrequited love for a traveling dancer who wants to join the harem.",
-        "director": "",
-        "stars": []
+        "director": "Ernst Lubitsch",
+        "stars": [
+            "Ernst Lubitsch",
+            "Pola Negri",
+            "Paul Wegener",
+            "Jenny Hasselqvist"
+        ],
+        "votes": "557",
+        "gross": ""
     },
     "30": {
         "name": "Anna Boleyn",
@@ -266,8 +474,15 @@
         "runtime": "133 min",
         "genre": "Drama",
         "description": "The story of the ill-fated second wife of the English king Henry VIII, whose marriage to the Henry led to momentous political and religious turmoil in England.",
-        "director": "",
-        "stars": []
+        "director": "Ernst Lubitsch",
+        "stars": [
+            "Henny Porten",
+            "Emil Jannings",
+            "Paul Hartmann",
+            "Ludwig Hartau"
+        ],
+        "votes": "509",
+        "gross": ""
     },
     "31": {
         "name": "Go and Get It",
@@ -275,8 +490,16 @@
         "runtime": "70 min",
         "genre": "Comedy, Drama, Horror",
         "description": "An intrepid newspaper reporter attempts to solve a series of murders committed by a gorilla carrying the transplanted brain of a human.",
-        "director": "",
-        "stars": []
+        "director": "Marshall Neilan",
+        "stars": [
+            "Henry Roberts Symonds",
+            "Pat O'Malley",
+            "Wesley Barry",
+            "Agnes Ayres",
+            "J. Barney Sherry"
+        ],
+        "votes": "10",
+        "gross": ""
     },
     "32": {
         "name": "Die Spinnen, 2. Teil - Das Brillantenschiff",
@@ -284,8 +507,15 @@
         "runtime": "104 min",
         "genre": "Adventure",
         "description": "Kay Hoog wants to stop the organisation \"Die Spinnen\" to get a certain diamond, that will give the owning woman the crown of Asia, but the man, who should be the owner of that diamond, ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Fritz Lang",
+        "stars": [
+            "Carl de Vogt",
+            "Ressel Orla",
+            "Georg John",
+            "Rudolf Lettinger"
+        ],
+        "votes": "684",
+        "gross": ""
     },
     "33": {
         "name": "The Mollycoddle",
@@ -293,8 +523,15 @@
         "runtime": "86 min",
         "genre": "Adventure, Comedy, Romance",
         "description": "An American who has lived much of his life outside the country returns to Arizona for the first time in years and encounters villainy.",
-        "director": "",
-        "stars": []
+        "director": "Victor Fleming",
+        "stars": [
+            "Douglas Fairbanks",
+            "Ruth Renick",
+            "Wallace Beery",
+            "Paul Burns"
+        ],
+        "votes": "99",
+        "gross": ""
     },
     "34": {
         "name": "Treasure Island",
@@ -302,8 +539,15 @@
         "runtime": "76 min",
         "genre": "Adventure",
         "description": "Young Jim Hawkins is caught up with the pirate Long John Silver in search of the buried treasure of the buccaneer Captain Flint, in this adaptation of the classic novel by Robert Louis ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Maurice Tourneur",
+        "stars": [
+            "Shirley Mason",
+            "Josie Melville",
+            "Al W. Filson",
+            "Wilton Taylor"
+        ],
+        "votes": "23",
+        "gross": ""
     },
     "35": {
         "name": "Headin' Home",
@@ -311,8 +555,15 @@
         "runtime": "71 min",
         "genre": "Biography, Comedy, Drama",
         "description": "The \"true story\" of baseball great Babe Ruth; Ruth plays himself.",
-        "director": "",
-        "stars": []
+        "director": "Lawrence C. Windom",
+        "stars": [
+            "Babe Ruth",
+            "Ruth Taylor",
+            "William Sheer",
+            "Margaret Seddon"
+        ],
+        "votes": "233",
+        "gross": ""
     },
     "36": {
         "name": "From Morn to Midnight",
@@ -320,8 +571,15 @@
         "runtime": "65 min",
         "genre": "Drama, Thriller",
         "description": "A Cashier in a bank in a small German town is alerted to the power of money by the visit of a rich Italian lady. He embezzles 60, 000 Marks and leaves for the capital city, where he ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Karl Heinz Martin",
+        "stars": [
+            "Ernst Deutsch",
+            "Erna Morena",
+            "Roma Bahn",
+            "Adolf E. Licho"
+        ],
+        "votes": "355",
+        "gross": ""
     },
     "37": {
         "name": "Just Pals",
@@ -329,8 +587,15 @@
         "runtime": "50 min",
         "genre": "Comedy, Drama, Western",
         "description": "Small-town tramp befriends runaway boy.",
-        "director": "",
-        "stars": []
+        "director": "John Ford",
+        "stars": [
+            "Buck Jones",
+            "Helen Ferguson",
+            "Georgie Stone",
+            "Duke R. Lee"
+        ],
+        "votes": "295",
+        "gross": ""
     },
     "38": {
         "name": "The Restless Sex",
@@ -338,8 +603,16 @@
         "runtime": "",
         "genre": "Drama",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Leon D'Usseau",
+        "stars": [
+            "Robert Z. Leonard",
+            "Marion Davies",
+            "Ralph Kellard",
+            "Carlyle Blackwell",
+            "Charles Lane"
+        ],
+        "votes": "81",
+        "gross": ""
     },
     "39": {
         "name": "The Round-Up",
@@ -347,8 +620,15 @@
         "runtime": "70 min",
         "genre": "Comedy, Western",
         "description": "An overweight sheriff does his best to assist a man accused of theft.",
-        "director": "",
-        "stars": []
+        "director": "George Melford",
+        "stars": [
+            "Roscoe 'Fatty' Arbuckle",
+            "Mabel Julienne Scott",
+            "Irving Cummings",
+            "Tom Forman"
+        ],
+        "votes": "114",
+        "gross": ""
     },
     "40": {
         "name": "The Man from Snowy River",
@@ -356,8 +636,16 @@
         "runtime": "61 min",
         "genre": "Action, Adventure, Drama",
         "description": "A country boy, Jim Conroy, is living a dissolute life in the city, running around with vamp Helen Ross. When his father cuts him off, he is dumped by Helen and returns to the bush.",
-        "director": "",
-        "stars": []
+        "director": "Beaumont Smith",
+        "stars": [
+            "John Wells",
+            "Cyril Mackay",
+            "Stella Southern",
+            "Tal Ordell",
+            "Hedda Barr"
+        ],
+        "votes": "14",
+        "gross": ""
     },
     "41": {
         "name": "The Woman in the Suitcase",
@@ -365,8 +653,15 @@
         "runtime": "60 min",
         "genre": "Drama",
         "description": "Mary Moreland discovers the photograph of a woman not her mother in her father's suitcase and sets out to find her in hopes of returning her father to his rightful place in the family.",
-        "director": "",
-        "stars": []
+        "director": "Fred Niblo",
+        "stars": [
+            "Enid Bennett",
+            "William Conklin",
+            "Dorcas Matthews",
+            "Rowland V. Lee"
+        ],
+        "votes": "11",
+        "gross": ""
     },
     "42": {
         "name": "The Twelve Pound Look",
@@ -374,8 +669,15 @@
         "runtime": "",
         "genre": "Drama",
         "description": "A self-made man divorces his wife who becomes a typist and warns him his second wife may leave him too.",
-        "director": "",
-        "stars": []
+        "director": "Jack Denton",
+        "stars": [
+            "Milton Rosmer",
+            "Jessie Winter",
+            "Ann Elliott",
+            "Nelson Ramsey"
+        ],
+        "votes": "5",
+        "gross": ""
     },
     "43": {
         "name": "Over the Hill to the Poorhouse",
@@ -383,8 +685,15 @@
         "runtime": "110 min",
         "genre": "Drama, Crime",
         "description": "The mother of a large family is abandoned by her children and faces consignment to the poorhouse. But one of her offspring, the one no one had faith in, returns to rescue her.",
-        "director": "",
-        "stars": []
+        "director": "Harry F. Millarde",
+        "stars": [
+            "Mary Carr",
+            "James Sheridan",
+            "Noel Tearle",
+            "William Welsh"
+        ],
+        "votes": "6",
+        "gross": "$3.00M"
     },
     "44": {
         "name": "The Symbol of the Unconquered",
@@ -392,8 +701,15 @@
         "runtime": "54 min",
         "genre": "Drama",
         "description": "Racists learn that the land a negro owns lies over a vast oil field, and threaten his life when he refuses to sell.",
-        "director": "",
-        "stars": []
+        "director": "Oscar Micheaux",
+        "stars": [
+            "Iris Hall",
+            "Walker Thompson",
+            "Lawrence Chenault",
+            "Mattie Wilkes"
+        ],
+        "votes": "246",
+        "gross": ""
     },
     "45": {
         "name": "The Hunchback and the Dancer",
@@ -401,8 +717,15 @@
         "runtime": "50 min",
         "genre": "Horror",
         "description": "Wilton, a hunchback, who was always scorned and ridiculed by women, returns from Java a rich man after having discovered a diamond mine. He romances Gina, who is on the rebound from a ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "F.W. Murnau",
+        "stars": [
+            "Sascha Gura",
+            "John Gottowt",
+            "Paul Biensfeldt",
+            "Anna von Palen"
+        ],
+        "votes": "42",
+        "gross": ""
     },
     "46": {
         "name": "Satanas",
@@ -410,8 +733,15 @@
         "runtime": "60 min",
         "genre": "Drama, Horror, Mystery",
         "description": "A three-part historical film, with episode one taking place in ancient Egypt, the second is based on the Hugo novel, and the third episode takes place during the 1917 Russian revolution.",
-        "director": "",
-        "stars": []
+        "director": "F.W. Murnau",
+        "stars": [
+            "Fritz Kortner",
+            "Sadjah Gezza",
+            "Ernst Hofmann",
+            "Margit Barnay"
+        ],
+        "votes": "44",
+        "gross": ""
     },
     "47": {
         "name": "The Virgin of Stamboul",
@@ -419,8 +749,15 @@
         "runtime": "70 min",
         "genre": "Drama",
         "description": "Achmet Bey, a Turkish chieftain, catches one of his many wives in adultery and murders her lover. Throwing aside the cuckolding wife, he abducts his harem an innocent girl. However, a brave...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Tod Browning",
+        "stars": [
+            "Priscilla Dean",
+            "Wheeler Oakman",
+            "Wallace Beery",
+            "Clyde Benson"
+        ],
+        "votes": "24",
+        "gross": ""
     },
     "48": {
         "name": "Der Richter von Zalamea",
@@ -428,8 +765,15 @@
         "runtime": "87 min",
         "genre": "Adventure, Drama",
         "description": "Spain at the beginning of the 1580s, at the time of Philip II. The troops of the king entered the village of Zalamea. Captain Don Alvaro is quartered in the house of Pedro Crespo and his ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Ludwig Berger",
+        "stars": [
+            "Lil Dagover",
+            "Albert Steinr\u00fcck",
+            "Agnes Straub",
+            "Elisabeth Horn"
+        ],
+        "votes": "7",
+        "gross": ""
     },
     "49": {
         "name": "Wuthering Heights",
@@ -437,8 +781,15 @@
         "runtime": "90 min",
         "genre": "Drama",
         "description": "The first screen adaptation of Emily Bronte's book about star cross'd lovers who demolish themselves and everyone around them with their self-destructive love.",
-        "director": "",
-        "stars": []
+        "director": "A.V. Bramble",
+        "stars": [
+            "Milton Rosmer",
+            "Colette Brettel",
+            "Warwick Ward",
+            "Ann Trevor"
+        ],
+        "votes": "15",
+        "gross": ""
     },
     "50": {
         "name": "Down on the Farm",
@@ -446,7 +797,16 @@
         "runtime": "50 min",
         "genre": "Comedy",
         "description": "The day starts off as any normal day on Roach's farm, where Teddy, the farmhouse dog, is doing more productive work than everyone else combined. But the day changes when Roach's farmhand ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Ray Grey",
+        "stars": [
+            "F. Richard Jones",
+            "Erle C. Kenton",
+            "Louise Fazenda",
+            "Harry Gribbon",
+            "Bert Roach",
+            "James Finlayson"
+        ],
+        "votes": "82",
+        "gross": ""
     }
 }

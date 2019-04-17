@@ -5,8 +5,16 @@
         "runtime": "",
         "genre": "Biography, Drama",
         "description": "The plot outlined the story of the early Christian martyrs with a compendium of horrors guaranteed to jolt audiences into an awareness of terrible suffering for the sake of Christianity. ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Herbert Booth",
+        "stars": [
+            "Joseph Perry",
+            "Beatrice Day",
+            "Harold Graham",
+            "Mr. Graham",
+            "John Jones"
+        ],
+        "votes": 39,
+        "gross": ""
     },
     "2": {
         "name": "Phono-Cin\u00e9ma-Th\u00e9\u00e2tre",
@@ -15,7 +23,9 @@
         "genre": "",
         "description": "Current stars of theatre and variety captured on film, some with synchronized sound and hand tinted color.",
         "director": "",
-        "stars": []
+        "stars": [],
+        "votes": 13,
+        "gross": ""
     },
     "3": {
         "name": "Buffalo Bill's Wild West Parade",
@@ -24,7 +34,9 @@
         "genre": "",
         "description": "Add a Plot",
         "director": "",
-        "stars": []
+        "stars": [],
+        "votes": 37,
+        "gross": ""
     },
     "4": {
         "name": "May Day Parade",
@@ -33,7 +45,9 @@
         "genre": "News",
         "description": "Add a Plot",
         "director": "",
-        "stars": []
+        "stars": [],
+        "votes": "",
+        "gross": ""
     },
     "5": {
         "name": "Trouble in Hogan's Alley",
@@ -42,7 +56,9 @@
         "genre": "Comedy",
         "description": "Add a Plot",
         "director": "",
-        "stars": []
+        "stars": [],
+        "votes": 15,
+        "gross": ""
     },
     "6": {
         "name": "Caught",
@@ -51,7 +67,9 @@
         "genre": "",
         "description": "Add a Plot",
         "director": "",
-        "stars": []
+        "stars": [],
+        "votes": 16,
+        "gross": ""
     },
     "7": {
         "name": "The Tribulations of an Amateur Photographer",
@@ -60,7 +78,9 @@
         "genre": "",
         "description": "Add a Plot",
         "director": "",
-        "stars": []
+        "stars": [],
+        "votes": 15,
+        "gross": ""
     },
     "8": {
         "name": "Pierrot's Problem, or How to Make a Fat Wife Out of Two Lean Ones",
@@ -69,7 +89,9 @@
         "genre": "Comedy, Fantasy",
         "description": "Add a Plot",
         "director": "",
-        "stars": []
+        "stars": [],
+        "votes": 20,
+        "gross": ""
     },
     "9": {
         "name": "Family Troubles",
@@ -78,7 +100,9 @@
         "genre": "Comedy",
         "description": "Mrs. Smith can't make the stove burn. Bad draught. Crooked stovepipe. Little Lucy toasts her fingers, shivering and unhappy. Papa Smith comes in. Of course he can fix it! Tries. Tries again...                See full summary\u00a0\u00bb",
         "director": "",
-        "stars": []
+        "stars": [],
+        "votes": 20,
+        "gross": ""
     },
     "10": {
         "name": "Boarding School Girls' Pajama Parade",
@@ -87,6 +111,8 @@
         "genre": "",
         "description": "Add a Plot",
         "director": "",
-        "stars": []
+        "stars": [],
+        "votes": 17,
+        "gross": ""
     }
 }

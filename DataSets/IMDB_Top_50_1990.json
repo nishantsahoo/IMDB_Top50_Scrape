@@ -5,8 +5,15 @@
         "runtime": "146 min",
         "genre": "Biography, Crime, Drama",
         "description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
-        "director": "",
-        "stars": []
+        "director": "Martin Scorsese",
+        "stars": [
+            "Robert De Niro",
+            "Ray Liotta",
+            "Joe Pesci",
+            "Lorraine Bracco"
+        ],
+        "votes": "895,607",
+        "gross": "$46.84M"
     },
     "2": {
         "name": "The Godfather: Part III",
@@ -14,8 +21,15 @@
         "runtime": "162 min",
         "genre": "Crime, Drama",
         "description": "In the midst of trying to legitimize his business dealings in New York City and Italy in 1979, aging Mafia Don Michael Corleone seeks to avow for his sins, while taking his nephew Vincent Mancini under his wing.",
-        "director": "",
-        "stars": []
+        "director": "Francis Ford Coppola",
+        "stars": [
+            "Al Pacino",
+            "Diane Keaton",
+            "Andy Garcia",
+            "Talia Shire"
+        ],
+        "votes": "323,848",
+        "gross": "$66.67M"
     },
     "3": {
         "name": "Dances with Wolves",
@@ -23,8 +37,15 @@
         "runtime": "181 min",
         "genre": "Adventure, Drama, Western",
         "description": "Lieutenant John Dunbar, assigned to a remote western Civil War outpost, befriends wolves and Indians, making him an intolerable aberration in the military.",
-        "director": "",
-        "stars": []
+        "director": "Kevin Costner",
+        "stars": [
+            "Kevin Costner",
+            "Mary McDonnell",
+            "Graham Greene",
+            "Rodney A. Grant"
+        ],
+        "votes": "219,124",
+        "gross": "$184.21M"
     },
     "4": {
         "name": "Edward Scissorhands",
@@ -32,8 +53,15 @@
         "runtime": "105 min",
         "genre": "Drama, Fantasy, Romance",
         "description": "An artificial man, who was incompletely constructed and has scissors for hands, leads a solitary life. Then one day, a suburban lady meets him and introduces him to her world.",
-        "director": "",
-        "stars": []
+        "director": "Tim Burton",
+        "stars": [
+            "Johnny Depp",
+            "Winona Ryder",
+            "Dianne Wiest",
+            "Anthony Michael Hall"
+        ],
+        "votes": "412,392",
+        "gross": "$56.36M"
     },
     "5": {
         "name": "Pretty Woman",
@@ -41,8 +69,15 @@
         "runtime": "119 min",
         "genre": "Comedy, Romance",
         "description": "A man in a legal but hurtful business needs an escort for some social events, and hires a beautiful prostitute he meets... only to fall in love.",
-        "director": "",
-        "stars": []
+        "director": "Garry Marshall",
+        "stars": [
+            "Richard Gere",
+            "Julia Roberts",
+            "Jason Alexander",
+            "Laura San Giacomo"
+        ],
+        "votes": "258,170",
+        "gross": "$178.41M"
     },
     "6": {
         "name": "Misery",
@@ -50,8 +85,15 @@
         "runtime": "107 min",
         "genre": "Drama, Thriller",
         "description": "After a famous author is rescued from a car crash by a fan of his novels, he comes to realize that the care he is receiving is only the beginning of a nightmare of captivity and abuse.",
-        "director": "",
-        "stars": []
+        "director": "Rob Reiner",
+        "stars": [
+            "James Caan",
+            "Kathy Bates",
+            "Richard Farnsworth",
+            "Frances Sternhagen"
+        ],
+        "votes": "162,845",
+        "gross": "$61.28M"
     },
     "7": {
         "name": "Cry-Baby",
@@ -59,8 +101,15 @@
         "runtime": "85 min",
         "genre": "Comedy, Musical",
         "description": "In 1950s Baltimore, a bad boy with a heart of gold wins the love of a good girl, whose boyfriend sets out for revenge.",
-        "director": "",
-        "stars": []
+        "director": "John Waters",
+        "stars": [
+            "Johnny Depp",
+            "Ricki Lake",
+            "Amy Locane",
+            "Susan Tyrrell"
+        ],
+        "votes": "50,338",
+        "gross": "$8.27M"
     },
     "8": {
         "name": "Dick Tracy",
@@ -68,8 +117,15 @@
         "runtime": "105 min",
         "genre": "Action, Comedy, Crime",
         "description": "The comic strip detective finds his life vastly complicated when Breathless Mahoney makes advances towards him while he is trying to battle Big Boy Caprice's united mob.",
-        "director": "",
-        "stars": []
+        "director": "Warren Beatty",
+        "stars": [
+            "Warren Beatty",
+            "Madonna",
+            "Al Pacino",
+            "Charlie Korsmo"
+        ],
+        "votes": "53,282",
+        "gross": "$103.74M"
     },
     "9": {
         "name": "Home Alone",
@@ -77,8 +133,15 @@
         "runtime": "103 min",
         "genre": "Comedy, Family",
         "description": "An eight-year-old troublemaker must protect his house from a pair of burglars when he is accidentally left home alone by his family during Christmas vacation.",
-        "director": "",
-        "stars": []
+        "director": "Chris Columbus",
+        "stars": [
+            "Macaulay Culkin",
+            "Joe Pesci",
+            "Daniel Stern",
+            "John Heard"
+        ],
+        "votes": "403,625",
+        "gross": "$285.76M"
     },
     "10": {
         "name": "Total Recall",
@@ -86,8 +149,15 @@
         "runtime": "113 min",
         "genre": "Action, Sci-Fi, Thriller",
         "description": "When a man goes for virtual vacation memories of the planet Mars, an unexpected and harrowing series of events forces him to go to the planet for real - or does he?",
-        "director": "",
-        "stars": []
+        "director": "Paul Verhoeven",
+        "stars": [
+            "Arnold Schwarzenegger",
+            "Sharon Stone",
+            "Michael Ironside",
+            "Rachel Ticotin"
+        ],
+        "votes": "276,413",
+        "gross": "$119.39M"
     },
     "11": {
         "name": "Kindergarten Cop",
@@ -95,8 +165,15 @@
         "runtime": "111 min",
         "genre": "Comedy, Crime",
         "description": "A tough cop must pose as a kindergarten teacher in order to locate a dangerous criminal's ex-wife, who may hold the key to putting him behind bars.",
-        "director": "",
-        "stars": []
+        "director": "Ivan Reitman",
+        "stars": [
+            "Arnold Schwarzenegger",
+            "Penelope Ann Miller",
+            "Pamela Reed",
+            "Linda Hunt"
+        ],
+        "votes": "124,330",
+        "gross": "$91.46M"
     },
     "12": {
         "name": "Rocky V",
@@ -104,8 +181,15 @@
         "runtime": "104 min",
         "genre": "Drama, Sport",
         "description": "Reluctantly retired from boxing, and back from riches to rags, Rocky takes on a new protege who betrays him, as the champ's son must adjust to his family's new life after bankruptcy.",
-        "director": "",
-        "stars": []
+        "director": "John G. Avildsen",
+        "stars": [
+            "Sylvester Stallone",
+            "Talia Shire",
+            "Burt Young",
+            "Sage Stallone"
+        ],
+        "votes": "114,910",
+        "gross": "$40.95M"
     },
     "13": {
         "name": "Ghost",
@@ -113,8 +197,15 @@
         "runtime": "127 min",
         "genre": "Drama, Fantasy, Romance",
         "description": "After a young man is murdered, his spirit stays behind to warn his lover of impending danger, with the help of a reluctant psychic.",
-        "director": "",
-        "stars": []
+        "director": "Jerry Zucker",
+        "stars": [
+            "Patrick Swayze",
+            "Demi Moore",
+            "Whoopi Goldberg",
+            "Tony Goldwyn"
+        ],
+        "votes": "177,738",
+        "gross": "$217.63M"
     },
     "14": {
         "name": "Tremors",
@@ -122,8 +213,15 @@
         "runtime": "96 min",
         "genre": "Comedy, Horror",
         "description": "Natives of a small isolated town defend themselves against strange underground creatures which are killing them one by one.",
-        "director": "",
-        "stars": []
+        "director": "Ron Underwood",
+        "stars": [
+            "Kevin Bacon",
+            "Fred Ward",
+            "Finn Carter",
+            "Michael Gross"
+        ],
+        "votes": "107,422",
+        "gross": "$16.67M"
     },
     "15": {
         "name": "Teenage Mutant Ninja Turtles",
@@ -131,8 +229,15 @@
         "runtime": "93 min",
         "genre": "Action, Adventure, Comedy",
         "description": "Four teenage mutant ninja turtles emerge from the shadows to protect New York City from a gang of criminal ninjas.",
-        "director": "",
-        "stars": []
+        "director": "Steve Barron",
+        "stars": [
+            "Judith Hoag",
+            "Elias Koteas",
+            "Josh Pais",
+            "David Forman"
+        ],
+        "votes": "77,920",
+        "gross": "$135.27M"
     },
     "16": {
         "name": "The Handmaid's Tale",
@@ -140,8 +245,15 @@
         "runtime": "108 min",
         "genre": "Drama, Romance, Sci-Fi",
         "description": "In a dystopian, polluted right wing religious tyranny, a young woman is put in sexual slavery on account of her now rare fertility.",
-        "director": "",
-        "stars": []
+        "director": "Volker Schl\u00f6ndorff",
+        "stars": [
+            "Natasha Richardson",
+            "Faye Dunaway",
+            "Aidan Quinn",
+            "Elizabeth McGovern"
+        ],
+        "votes": "7,476",
+        "gross": "$4.96M"
     },
     "17": {
         "name": "The Hunt for Red October",
@@ -149,8 +261,15 @@
         "runtime": "135 min",
         "genre": "Action, Adventure, Thriller",
         "description": "In November 1984, the Soviet Union's best submarine Captain in their newest sub violates orders and heads for the U.S. Is he trying to defect or to start a war?",
-        "director": "",
-        "stars": []
+        "director": "John McTiernan",
+        "stars": [
+            "Sean Connery",
+            "Alec Baldwin",
+            "Scott Glenn",
+            "Sam Neill"
+        ],
+        "votes": "163,575",
+        "gross": "$122.01M"
     },
     "18": {
         "name": "Back to the Future Part III",
@@ -158,8 +277,15 @@
         "runtime": "118 min",
         "genre": "Adventure, Comedy, Sci-Fi",
         "description": "Enjoying a peaceable existence in 1885, Doctor Emmet Brown is about to be killed by Buford \"Mad Dog\" Tannen. Marty McFly travels back in time to save his friend.",
-        "director": "",
-        "stars": []
+        "director": "Robert Zemeckis",
+        "stars": [
+            "Michael J. Fox",
+            "Christopher Lloyd",
+            "Mary Steenburgen",
+            "Thomas F. Wilson"
+        ],
+        "votes": "355,023",
+        "gross": "$87.73M"
     },
     "19": {
         "name": "Wild at Heart",
@@ -167,8 +293,15 @@
         "runtime": "125 min",
         "genre": "Comedy, Crime, Drama",
         "description": "Young lovers Sailor and Lula run from the variety of weirdos that Lula's mom has hired to kill Sailor.",
-        "director": "",
-        "stars": []
+        "director": "David Lynch",
+        "stars": [
+            "Nicolas Cage",
+            "Laura Dern",
+            "Willem Dafoe",
+            "J.E. Freeman"
+        ],
+        "votes": "74,314",
+        "gross": "$14.56M"
     },
     "20": {
         "name": "Jacob's Ladder",
@@ -176,8 +309,15 @@
         "runtime": "113 min",
         "genre": "Drama, Horror, Mystery",
         "description": "Mourning his dead child, a haunted Vietnam War veteran attempts to uncover his past while suffering from a severe case of dissociation. To do so, he must decipher reality and life from his own dreams, delusions, and perceptions of death.",
-        "director": "",
-        "stars": []
+        "director": "Adrian Lyne",
+        "stars": [
+            "Tim Robbins",
+            "Elizabeth Pe\u00f1a",
+            "Danny Aiello",
+            "Matt Craven"
+        ],
+        "votes": "89,694",
+        "gross": "$26.12M"
     },
     "21": {
         "name": "Days of Thunder",
@@ -185,8 +325,15 @@
         "runtime": "107 min",
         "genre": "Action, Drama, Sport",
         "description": "A young hot-shot stock car driver gets his chance to compete at the top level.",
-        "director": "",
-        "stars": []
+        "director": "Tony Scott",
+        "stars": [
+            "Tom Cruise",
+            "Nicole Kidman",
+            "Robert Duvall",
+            "Randy Quaid"
+        ],
+        "votes": "71,653",
+        "gross": "$82.67M"
     },
     "22": {
         "name": "Awakenings",
@@ -194,8 +341,15 @@
         "runtime": "121 min",
         "genre": "Biography, Drama",
         "description": "The victims of an encephalitis epidemic many years ago have been catatonic ever since, but now a new drug offers the prospect of reviving them.",
-        "director": "",
-        "stars": []
+        "director": "Penny Marshall",
+        "stars": [
+            "Robert De Niro",
+            "Robin Williams",
+            "Julie Kavner",
+            "Ruth Nelson"
+        ],
+        "votes": "111,281",
+        "gross": "$52.10M"
     },
     "23": {
         "name": "The Witches",
@@ -203,8 +357,15 @@
         "runtime": "91 min",
         "genre": "Adventure, Comedy, Family",
         "description": "A young boy stumbles onto a witch convention and must stop them, even after he has been turned into a mouse.",
-        "director": "",
-        "stars": []
+        "director": "Nicolas Roeg",
+        "stars": [
+            "Anjelica Huston",
+            "Mai Zetterling",
+            "Jasen Fisher",
+            "Rowan Atkinson"
+        ],
+        "votes": "31,231",
+        "gross": "$10.36M"
     },
     "24": {
         "name": "Die Hard 2",
@@ -212,8 +373,15 @@
         "runtime": "124 min",
         "genre": "Action, Thriller",
         "description": "John McClane attempts to avert disaster as rogue military operatives seize control of Dulles International Airport in Washington, D.C.",
-        "director": "",
-        "stars": []
+        "director": "Renny Harlin",
+        "stars": [
+            "Bruce Willis",
+            "William Atherton",
+            "Bonnie Bedelia",
+            "Reginald VelJohnson"
+        ],
+        "votes": "311,095",
+        "gross": "$117.54M"
     },
     "25": {
         "name": "Predator 2",
@@ -221,8 +389,15 @@
         "runtime": "108 min",
         "genre": "Action, Horror, Sci-Fi",
         "description": "Amidst a territorial gang war in 1997, a sophisticated alien hunter stalks the citizens of Los Angeles and the only man between him and his prey is veteran L.A.P.D. officer, Lieutenant Mike Harrigan.",
-        "director": "",
-        "stars": []
+        "director": "Stephen Hopkins",
+        "stars": [
+            "Danny Glover",
+            "Gary Busey",
+            "Kevin Peter Hall",
+            "Rub\u00e9n Blades"
+        ],
+        "votes": "132,543",
+        "gross": "$30.67M"
     },
     "26": {
         "name": "RoboCop 2",
@@ -230,8 +405,15 @@
         "runtime": "117 min",
         "genre": "Action, Crime, Sci-Fi",
         "description": "Cyborg law enforcer RoboCop returns to protect the citizens of old Detroit but faces a deadly challenge when a rogue OCP member secretly creates a new, evil RoboCop 2.",
-        "director": "",
-        "stars": []
+        "director": "Irvin Kershner",
+        "stars": [
+            "Peter Weller",
+            "John Glover",
+            "Mario Machado",
+            "Leeza Gibbons"
+        ],
+        "votes": "75,075",
+        "gross": "$45.68M"
     },
     "27": {
         "name": "Lord of the Flies",
@@ -239,8 +421,15 @@
         "runtime": "90 min",
         "genre": "Adventure, Drama, Thriller",
         "description": "Stranded on an island, a group of schoolboys degenerate into savagery.",
-        "director": "",
-        "stars": []
+        "director": "Harry Hook",
+        "stars": [
+            "Balthazar Getty",
+            "Chris Furrh",
+            "Danuel Pipoly",
+            "James Badge Dale"
+        ],
+        "votes": "25,701",
+        "gross": "$13.99M"
     },
     "28": {
         "name": "Flatliners",
@@ -248,8 +437,15 @@
         "runtime": "115 min",
         "genre": "Drama, Horror, Sci-Fi",
         "description": "Five medical students experiment with \"near death\" experiences, until the dark consequences of past tragedies begin to jeopardize their lives.",
-        "director": "",
-        "stars": []
+        "director": "Joel Schumacher",
+        "stars": [
+            "Kiefer Sutherland",
+            "Kevin Bacon",
+            "Julia Roberts",
+            "William Baldwin"
+        ],
+        "votes": "74,521",
+        "gross": "$61.49M"
     },
     "29": {
         "name": "Miller's Crossing",
@@ -257,8 +453,16 @@
         "runtime": "115 min",
         "genre": "Crime, Drama, Thriller",
         "description": "Tom Regan, an advisor to a Prohibition-era crime boss, tries to keep the peace between warring mobs but gets caught in divided loyalties.",
-        "director": "",
-        "stars": []
+        "director": "Joel Coen",
+        "stars": [
+            "Ethan Coen",
+            "Gabriel Byrne",
+            "Albert Finney",
+            "John Turturro",
+            "Marcia Gay Harden"
+        ],
+        "votes": "117,596",
+        "gross": "$5.08M"
     },
     "30": {
         "name": "La Femme Nikita",
@@ -266,8 +470,15 @@
         "runtime": "117 min",
         "genre": "Action, Thriller",
         "description": "Convicted felon Nikita, instead of going to jail, is given a new identity and trained, stylishly, as a top secret spy/assassin.",
-        "director": "",
-        "stars": []
+        "director": "Luc Besson",
+        "stars": [
+            "Anne Parillaud",
+            "Marc Duret",
+            "Patrick Fontana",
+            "Alain Lathi\u00e8re"
+        ],
+        "votes": "62,412",
+        "gross": "$5.02M"
     },
     "31": {
         "name": "Captain America",
@@ -275,8 +486,15 @@
         "runtime": "97 min",
         "genre": "Action, Adventure, Sci-Fi",
         "description": "Frozen in the ice for decades, Captain America is freed to battle against arch-criminal, The Red Skull.",
-        "director": "",
-        "stars": []
+        "director": "Albert Pyun",
+        "stars": [
+            "Matt Salinger",
+            "Ronny Cox",
+            "Ned Beatty",
+            "Darren McGavin"
+        ],
+        "votes": "9,941",
+        "gross": ""
     },
     "32": {
         "name": "Gremlins 2: The New Batch",
@@ -284,8 +502,15 @@
         "runtime": "106 min",
         "genre": "Comedy, Fantasy, Horror",
         "description": "The Gremlins are back, and this time, they've taken control of a New York City media mogul's high-tech skyscraper.",
-        "director": "",
-        "stars": []
+        "director": "Joe Dante",
+        "stars": [
+            "Zach Galligan",
+            "Phoebe Cates",
+            "John Glover",
+            "Robert Prosky"
+        ],
+        "votes": "83,467",
+        "gross": "$41.48M"
     },
     "33": {
         "name": "Pump Up the Volume",
@@ -293,8 +518,15 @@
         "runtime": "102 min",
         "genre": "Comedy, Drama, Music",
         "description": "Mark runs a pirate radio station and causes an uproar when he speaks his mind and enthralls fellow teens.",
-        "director": "",
-        "stars": []
+        "director": "Allan Moyle",
+        "stars": [
+            "Christian Slater",
+            "Samantha Mathis",
+            "Anthony Lucero",
+            "Andy Romano"
+        ],
+        "votes": "24,258",
+        "gross": "$11.54M"
     },
     "34": {
         "name": "Internal Affairs",
@@ -302,8 +534,15 @@
         "runtime": "115 min",
         "genre": "Crime, Drama, Thriller",
         "description": "An Internal Affairs agent becomes obsessed with bringing down a cop who has managed to maintain a spotless reputation despite being involved in a web of corruption.",
-        "director": "",
-        "stars": []
+        "director": "Mike Figgis",
+        "stars": [
+            "Richard Gere",
+            "Andy Garcia",
+            "Nancy Travis",
+            "Laurie Metcalf"
+        ],
+        "votes": "15,523",
+        "gross": "$27.73M"
     },
     "35": {
         "name": "Troll 2",
@@ -311,8 +550,15 @@
         "runtime": "95 min",
         "genre": "Comedy, Fantasy, Horror",
         "description": "A family vacationing in a small town discovers the entire town is inhabited by goblins in disguise as humans, who plan to eat them.",
-        "director": "",
-        "stars": []
+        "director": "Claudio Fragasso",
+        "stars": [
+            "Michael Paul Stephenson",
+            "George Hardy",
+            "Margo Prey",
+            "Connie Young"
+        ],
+        "votes": "28,627",
+        "gross": ""
     },
     "36": {
         "name": "Darkman",
@@ -320,8 +566,15 @@
         "runtime": "96 min",
         "genre": "Action, Crime, Sci-Fi",
         "description": "A brilliant scientist left for dead returns to exact revenge on the people who burned him alive.",
-        "director": "",
-        "stars": []
+        "director": "Sam Raimi",
+        "stars": [
+            "Liam Neeson",
+            "Frances McDormand",
+            "Colin Friels",
+            "Larry Drake"
+        ],
+        "votes": "53,910",
+        "gross": "$33.88M"
     },
     "37": {
         "name": "Nightbreed",
@@ -329,8 +582,15 @@
         "runtime": "102 min",
         "genre": "Action, Fantasy, Horror",
         "description": "A troubled young man is drawn to a mythical place called Midian where a variety of friendly monsters are hiding from humanity. Meanwhile, a sadistic serial killer is looking for a patsy.",
-        "director": "",
-        "stars": []
+        "director": "Clive Barker",
+        "stars": [
+            "Craig Sheffer",
+            "David Cronenberg",
+            "Anne Bobby",
+            "Charles Haid"
+        ],
+        "votes": "17,383",
+        "gross": "$8.86M"
     },
     "38": {
         "name": "Child's Play 2",
@@ -338,8 +598,15 @@
         "runtime": "84 min",
         "genre": "Horror, Thriller",
         "description": "While Andy's mother is admitted to a psychiatric hospital, the young boy is placed in foster care, and Chucky, determined to claim Andy's soul, is not far behind.",
-        "director": "",
-        "stars": []
+        "director": "John Lafia",
+        "stars": [
+            "Alex Vincent",
+            "Jenny Agutter",
+            "Gerrit Graham",
+            "Christine Elise"
+        ],
+        "votes": "39,281",
+        "gross": "$28.50M"
     },
     "39": {
         "name": "Arachnophobia",
@@ -347,8 +614,15 @@
         "runtime": "109 min",
         "genre": "Comedy, Fantasy, Horror",
         "description": "A species of South American killer spider hitches a lift to the U.S. in a coffin and starts to breed and kill.",
-        "director": "",
-        "stars": []
+        "director": "Frank Marshall",
+        "stars": [
+            "Jeff Daniels",
+            "Julian Sands",
+            "John Goodman",
+            "Harley Jane Kozak"
+        ],
+        "votes": "57,775",
+        "gross": "$53.21M"
     },
     "40": {
         "name": "Quigley Down Under",
@@ -356,8 +630,15 @@
         "runtime": "119 min",
         "genre": "Action, Adventure, Drama",
         "description": "Sharpshooter Matt Quigley is hired from Wyoming by an Australian rancher paying a very high price. But when Quigley arrives Down Under, all is not as it seems.",
-        "director": "",
-        "stars": []
+        "director": "Simon Wincer",
+        "stars": [
+            "Tom Selleck",
+            "Laura San Giacomo",
+            "Alan Rickman",
+            "Chris Haywood"
+        ],
+        "votes": "17,747",
+        "gross": "$21.41M"
     },
     "41": {
         "name": "The Hot Spot",
@@ -365,8 +646,15 @@
         "runtime": "130 min",
         "genre": "Crime, Drama, Romance",
         "description": "Upon arriving to a small town, a drifter quickly gets into trouble with the local authorities- and the local women- after he robs a bank.",
-        "director": "",
-        "stars": []
+        "director": "Dennis Hopper",
+        "stars": [
+            "Don Johnson",
+            "Virginia Madsen",
+            "Jennifer Connelly",
+            "Charles Martin Smith"
+        ],
+        "votes": "9,430",
+        "gross": "$1.29M"
     },
     "42": {
         "name": "Lionheart",
@@ -374,8 +662,15 @@
         "runtime": "108 min",
         "genre": "Action, Crime, Drama",
         "description": "An Ex-French Soldier begins participating in underground street fights in order to make money for his brother's family.",
-        "director": "",
-        "stars": []
+        "director": "Sheldon Lettich",
+        "stars": [
+            "Jean-Claude Van Damme",
+            "Harrison Page",
+            "Deborah Rennard",
+            "Lisa Pelikan"
+        ],
+        "votes": "29,682",
+        "gross": "$24.08M"
     },
     "43": {
         "name": "The Grifters",
@@ -383,8 +678,15 @@
         "runtime": "110 min",
         "genre": "Crime, Drama, Thriller",
         "description": "A small-time conman has torn loyalties between his estranged mother and new girlfriend--both of whom are high-stakes grifters with their own angles to play.",
-        "director": "",
-        "stars": []
+        "director": "Stephen Frears",
+        "stars": [
+            "Anjelica Huston",
+            "John Cusack",
+            "Annette Bening",
+            "Jan Munroe"
+        ],
+        "votes": "23,472",
+        "gross": "$13.45M"
     },
     "44": {
         "name": "Another 48 Hrs.",
@@ -392,8 +694,15 @@
         "runtime": "93 min",
         "genre": "Action, Comedy, Crime",
         "description": "Jack Cates once again enlists the aid of ex-con Reggie Hammond--this time, to take down The Iceman, a ruthless drug lord operating in the San Francisco bay area.",
-        "director": "",
-        "stars": []
+        "director": "Walter Hill",
+        "stars": [
+            "Eddie Murphy",
+            "Nick Nolte",
+            "Brion James",
+            "Kevin Tighe"
+        ],
+        "votes": "35,206",
+        "gross": "$80.82M"
     },
     "45": {
         "name": "Young Guns II",
@@ -401,8 +710,15 @@
         "runtime": "104 min",
         "genre": "Action, Western",
         "description": "In 1881, cattle baron John Chisum pays a bounty to Patrick Floyd Garrett to kill outlaw Billy the Kid.",
-        "director": "",
-        "stars": []
+        "director": "Geoff Murphy",
+        "stars": [
+            "Emilio Estevez",
+            "Kiefer Sutherland",
+            "Lou Diamond Phillips",
+            "Christian Slater"
+        ],
+        "votes": "28,184",
+        "gross": "$44.14M"
     },
     "46": {
         "name": "The NeverEnding Story II: The Next Chapter",
@@ -410,8 +726,15 @@
         "runtime": "89 min",
         "genre": "Adventure, Drama, Family",
         "description": "A young boy with a distant father enters a world of make-believe and magic through a portal within an antique book.",
-        "director": "",
-        "stars": []
+        "director": "George Miller",
+        "stars": [
+            "Jonathan Brandis",
+            "Kenny Morrison",
+            "Clarissa Burt",
+            "John Wesley Shipp"
+        ],
+        "votes": "21,785",
+        "gross": "$17.37M"
     },
     "47": {
         "name": "Mermaids",
@@ -419,8 +742,15 @@
         "runtime": "110 min",
         "genre": "Comedy, Drama, Romance",
         "description": "An unconventional single mother relocates with her two daughters to a small Massachusetts town in 1963, where a number of events and relationships both challenge and strengthen their familial bonds.",
-        "director": "",
-        "stars": []
+        "director": "Richard Benjamin",
+        "stars": [
+            "Cher",
+            "Bob Hoskins",
+            "Winona Ryder",
+            "Michael Schoeffling"
+        ],
+        "votes": "25,997",
+        "gross": "$35.42M"
     },
     "48": {
         "name": "Henry & June",
@@ -428,8 +758,15 @@
         "runtime": "136 min",
         "genre": "Biography, Drama",
         "description": "In 1931 Paris, Anais Nin meets Henry Miller and his wife June. Intrigued by them both, she begins expanding her sexual horizons with her husband Hugo as well as with Henry and others. June ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Philip Kaufman",
+        "stars": [
+            "Fred Ward",
+            "Uma Thurman",
+            "Maria de Medeiros",
+            "Richard E. Grant"
+        ],
+        "votes": "11,516",
+        "gross": "$11.57M"
     },
     "49": {
         "name": "King of New York",
@@ -437,8 +774,15 @@
         "runtime": "103 min",
         "genre": "Crime, Thriller",
         "description": "A drug kingpin is released from prison and seeks to take total control of the criminal underworld in order to give back to the community.",
-        "director": "",
-        "stars": []
+        "director": "Abel Ferrara",
+        "stars": [
+            "Christopher Walken",
+            "David Caruso",
+            "Laurence Fishburne",
+            "Victor Argo"
+        ],
+        "votes": "27,475",
+        "gross": "$2.55M"
     },
     "50": {
         "name": "The Exorcist III",
@@ -446,7 +790,14 @@
         "runtime": "110 min",
         "genre": "Drama, Horror, Mystery",
         "description": "A police Lieutenant uncovers more than he bargained for as his investigation of a series of murders, which have all the hallmarks of the deceased Gemini serial killer, leads him to question the patients of a psychiatric ward.",
-        "director": "",
-        "stars": []
+        "director": "William Peter Blatty",
+        "stars": [
+            "George C. Scott",
+            "Ed Flanders",
+            "Brad Dourif",
+            "Jason Miller"
+        ],
+        "votes": "21,780",
+        "gross": "$26.10M"
     }
 }

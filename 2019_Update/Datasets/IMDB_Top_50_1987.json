@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "The Princess Bride",
+        "certificate": "",
+        "runtime": "98 min",
+        "genre": "Adventure, Family, Fantasy",
+        "description": "While home sick in bed, a young boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and allies in his quest to be reunited with his true love.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "Full Metal Jacket",
+        "certificate": "",
+        "runtime": "116 min",
+        "genre": "Drama, War",
+        "description": "A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "Predator",
+        "certificate": "A",
+        "runtime": "107 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "A team of commandos on a mission in a Central American jungle find themselves hunted by an extraterrestrial warrior.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "Dirty Dancing",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Drama, Music, Romance",
+        "description": "Spending the summer at a Catskills resort with her family, Frances \"Baby\" Houseman falls in love with the camp's dance instructor, Johnny Castle.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "The Untouchables",
+        "certificate": "",
+        "runtime": "119 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "During the era of Prohibition in the United States, federal agent Eliot Ness sets out to stop ruthless Chicago gangster Al Capone, and because of rampant corruption, assembles a small, hand-picked team to help him.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "Empire of the Sun",
+        "certificate": "",
+        "runtime": "153 min",
+        "genre": "Drama, History, War",
+        "description": "A young English boy struggles to survive under Japanese occupation during World War II.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "Masters of the Universe",
+        "certificate": "",
+        "runtime": "106 min",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "The heroic warrior He-Man battles against the evil lord Skeletor and his armies of darkness for control of Castle Grayskull.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "RoboCop",
+        "certificate": "A",
+        "runtime": "102 min",
+        "genre": "Action, Crime, Sci-Fi",
+        "description": "In a dystopic and crime-ridden Detroit, a terminally wounded cop returns to the force as a powerful cyborg haunted by submerged memories.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "The Lost Boys",
+        "certificate": "",
+        "runtime": "97 min",
+        "genre": "Comedy, Horror",
+        "description": "After moving to a new town, two brothers discover that the area is a haven for vampires.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "Fatal Attraction",
+        "certificate": "",
+        "runtime": "119 min",
+        "genre": "Drama, Thriller",
+        "description": "A married man's one-night stand comes back to haunt him when that lover begins to stalk him and his family.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "Wall Street",
+        "certificate": "",
+        "runtime": "126 min",
+        "genre": "Crime, Drama",
+        "description": "A young and impatient stockbroker is willing to do anything to get to the top, including trading on illegal inside information taken through a ruthless and greedy corporate raider who takes the youth under his wing.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "Spaceballs",
+        "certificate": "",
+        "runtime": "96 min",
+        "genre": "Adventure, Comedy, Sci-Fi",
+        "description": "A rogue star pilot and his trusty sidekick must come to the rescue of a Princess and save the galaxy from a ruthless race of beings known as Spaceballs.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "Overboard",
+        "certificate": "",
+        "runtime": "106 min",
+        "genre": "Comedy, Romance",
+        "description": "A cruel but beautiful heiress mocks and cheats over a hired carpenter. When she gets amnesia after an accident, he decides to introduce her to regular life by convincing her they're husband and wife.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "The Running Man",
+        "certificate": "",
+        "runtime": "101 min",
+        "genre": "Action, Sci-Fi, Thriller",
+        "description": "A wrongly convicted man must try to survive a public execution gauntlet staged as a game show.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "Lethal Weapon",
+        "certificate": "",
+        "runtime": "109 min",
+        "genre": "Action, Crime, Thriller",
+        "description": "Two newly paired cops who are complete opposites must put aside their differences in order to catch a gang of drug smugglers.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "Jaws: The Revenge",
+        "certificate": "",
+        "runtime": "89 min",
+        "genre": "Adventure, Horror, Thriller",
+        "description": "Chief Brody's widow believes that her family is deliberately being targeted by another shark in search of revenge.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "Hellraiser",
+        "certificate": "",
+        "runtime": "94 min",
+        "genre": "Horror, Thriller",
+        "description": "An unfaithful wife encounters the zombie of her dead lover; the demonic cenobites are pursuing him after he escaped their sadomasochistic underworld.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Angel Heart",
+        "certificate": "",
+        "runtime": "113 min",
+        "genre": "Horror, Mystery, Thriller",
+        "description": "A private investigator is hired by a man who calls himself Louis Cyphre to track down a singer named Johnny Favorite. But the investigation takes an unexpected and somber turn.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "Planes, Trains & Automobiles",
+        "certificate": "",
+        "runtime": "93 min",
+        "genre": "Comedy",
+        "description": "A man must struggle to travel home for Thanksgiving with an obnoxious slob of a shower curtain ring salesman as his only companion.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "Moonstruck",
+        "certificate": "",
+        "runtime": "102 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Loretta Castorini, a bookkeeper from Brooklyn, New York, finds herself in a difficult situation when she falls for the brother of the man she has agreed to marry.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "Adventures in Babysitting",
+        "certificate": "",
+        "runtime": "102 min",
+        "genre": "Adventure, Comedy, Crime",
+        "description": "A babysitter must battle her way through the big city after being stranded there with the kids she's looking after.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "Raising Arizona",
+        "certificate": "",
+        "runtime": "94 min",
+        "genre": "Comedy, Crime",
+        "description": "When a childless couple of an ex-con and an ex-cop decide to help themselves to one of another family's quintuplets, their lives become more complicated than they anticipated.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "Withnail & I",
+        "certificate": "",
+        "runtime": "107 min",
+        "genre": "Comedy, Drama",
+        "description": "In 1969, two substance-abusing, unemployed actors retreat to the countryside for a holiday that proves disastrous.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "Summer School",
+        "certificate": "",
+        "runtime": "97 min",
+        "genre": "Comedy, Romance",
+        "description": "A high-school gym teacher has big plans for the summer, but is forced to cancel them to teach a \"bonehead\" English class for misfit goof-off students. Fortunately, his unconventional brand ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "Nightflyers",
+        "certificate": "",
+        "runtime": "89 min",
+        "genre": "Horror, Sci-Fi, Thriller",
+        "description": "Professor hires a spaceship to get to the source of weird signals from deep space. The trip is cut short however when the ship's computer gets jealous because the captain is in love with one of the female passengers and it gets homicidal.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "Can't Buy Me Love",
+        "certificate": "",
+        "runtime": "94 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A nerdy outcast secretly pays the most popular girl in school one thousand dollars to be his girlfriend.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "The Barbarians",
+        "certificate": "",
+        "runtime": "87 min",
+        "genre": "Fantasy, Adventure",
+        "description": "Two twin barbarians seek revenge from the warlord who massacred their tribe and captured them when they were small children.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "No Way Out",
+        "certificate": "",
+        "runtime": "114 min",
+        "genre": "Action, Crime, Drama",
+        "description": "A coverup and witchhunt occur after a politician accidentally kills his mistress.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "Mannequin",
+        "certificate": "PG",
+        "runtime": "90 min",
+        "genre": "Comedy, Fantasy, Romance",
+        "description": "A young artist, searching for his vocation, makes a mannequin so perfect he falls in love with it. Finding the mannequin in a store window, he gets a job there and his creation comes to life.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "The Living Daylights",
+        "certificate": "",
+        "runtime": "130 min",
+        "genre": "Action, Adventure, Thriller",
+        "description": "James Bond is living on the edge to stop an evil arms dealer from starting another world war. Bond crosses all seven continents in order to stop the evil Whitaker and General Koskov.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "The Last Emperor",
+        "certificate": "",
+        "runtime": "163 min",
+        "genre": "Biography, Drama, History",
+        "description": "The story of the final Emperor of China.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "3 Men and a Baby",
+        "certificate": "",
+        "runtime": "102 min",
+        "genre": "Comedy, Drama, Family",
+        "description": "Three bachelors find themselves forced to take care of a baby left by one of the guys' girlfriends.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "Harry and the Hendersons",
+        "certificate": "",
+        "runtime": "110 min",
+        "genre": "Comedy, Family, Fantasy",
+        "description": "The Henderson family adopt a friendly Sasquatch but have a hard time trying to keep the legend of 'Bigfoot' a secret.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "Evil Dead II",
+        "certificate": "R",
+        "runtime": "84 min",
+        "genre": "Comedy, Horror",
+        "description": "The lone survivor of an onslaught of flesh-possessing spirits holes up in a cabin with a group of strangers while the demons continue their attack.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "Bad Taste",
+        "certificate": "",
+        "runtime": "91 min",
+        "genre": "Comedy, Horror, Sci-Fi",
+        "description": "The population of a small town disappears and is replaced by aliens that chase human flesh for their intergalactic fast-food chain.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "Der Himmel \u00fcber Berlin",
+        "certificate": "",
+        "runtime": "128 min",
+        "genre": "Drama, Fantasy, Romance",
+        "description": "An angel tires of overseeing human activity and wishes to become human when he falls in love with a mortal.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "A Nightmare on Elm Street 3: Dream Warriors",
+        "certificate": "",
+        "runtime": "96 min",
+        "genre": "Action, Fantasy, Horror",
+        "description": "A psychiatrist familiar with knife-wielding dream demon Freddy Krueger helps teens at a mental hospital battle the killer who is invading their dreams.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "Innerspace",
+        "certificate": "",
+        "runtime": "120 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "A hapless store clerk must foil criminals to save the life of the man who, miniaturized in a secret experiment, was accidentally injected into him.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "Some Kind of Wonderful",
+        "certificate": "",
+        "runtime": "95 min",
+        "genre": "Drama, Romance",
+        "description": "When Keith goes out with Amanda, the girl of his dreams, Amanda's ex-boyfriend plans to get back at Keith. Meanwhile, Keith's best friend, tomboy Watts, realizes she has feelings for Keith.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Good Morning, Vietnam",
+        "certificate": "",
+        "runtime": "121 min",
+        "genre": "Biography, Comedy, Drama",
+        "description": "In 1965, an unorthodox and irreverent DJ named Adrian Cronauer begins to shake up things when he is assigned to the U.S. Armed Services radio station in Vietnam.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Near Dark",
+        "certificate": "",
+        "runtime": "94 min",
+        "genre": "Action, Crime, Drama",
+        "description": "A small-town farmer's son reluctantly joins a traveling group of vampires after he is bitten by a beautiful drifter.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "La Bamba",
+        "certificate": "",
+        "runtime": "108 min",
+        "genre": "Biography, Drama, Music",
+        "description": "Biographical story of the rise from nowhere of early rock and roll singer Ritchie Valens who died at age 17 in a plane crash with Buddy Holly and the Big Bopper.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Police Academy 4: Citizens on Patrol",
+        "certificate": "",
+        "runtime": "88 min",
+        "genre": "Comedy, Crime",
+        "description": "The misfit Police Academy (1984) graduates now are assigned to train a group of civilian volunteers to fight crime once again plaguing the streets.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "Baby Boom",
+        "certificate": "",
+        "runtime": "110 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "The life of super-yuppie J.C. is thrown into turmoil when she inherits a baby from a distant relative.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "Broadcast News",
+        "certificate": "",
+        "runtime": "133 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Take two rival television reporters: one handsome, one talented, both male. Add one Producer, female. Mix well, and watch the sparks fly.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Flowers in the Attic",
+        "certificate": "",
+        "runtime": "93 min",
+        "genre": "Drama, Mystery, Thriller",
+        "description": "Children are hidden away in the attic by their conspiring mother and grandmother.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "Prince of Darkness",
+        "certificate": "",
+        "runtime": "102 min",
+        "genre": "Horror",
+        "description": "A research team finds a mysterious cylinder in a deserted church. If opened, it could mean the end of the world.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "Beverly Hills Cop II",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Action, Comedy, Crime",
+        "description": "Axel Foley returns to Beverly Hills to help Taggart and Rosewood investigate Chief Bogomil's near-fatal shooting and the series of \"alphabet crimes\" associated with it.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "Over the Top",
+        "certificate": "",
+        "runtime": "93 min",
+        "genre": "Action, Drama, Sport",
+        "description": "Tough trucker Lincoln Hawk is determined to win back his son and triumph at the world arm wrestling championships.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "The Witches of Eastwick",
+        "certificate": "",
+        "runtime": "118 min",
+        "genre": "Comedy, Fantasy, Horror",
+        "description": "Three single women in a picturesque village have their wishes granted, at a cost, when a mysterious and flamboyant man arrives in their lives.",
+        "director": "",
+        "stars": []
+    }
+}

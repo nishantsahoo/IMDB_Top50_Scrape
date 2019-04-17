@@ -5,8 +5,10 @@
         "runtime": "",
         "genre": "Music",
         "description": "Twenty-two songs from the opera Faust, presented in twenty-two reels, each about three minutes in duration. Images were synchronized with a recorded soundtracks using the Chronophone sound-on-disc system.",
-        "director": "",
-        "stars": []
+        "director": "Arthur Gilbert",
+        "stars": [],
+        "votes": 14,
+        "gross": ""
     },
     "2": {
         "name": "The Lady Athlete; or, Jiu Jitsu Downs the Footpads",
@@ -14,8 +16,12 @@
         "runtime": "57 min",
         "genre": "Comedy",
         "description": "Women pursue pickpockets from Piccadilly to Hampstead and wrestle them.",
-        "director": "",
-        "stars": []
+        "director": "Alf Collins",
+        "stars": [
+            "Madame Garrud"
+        ],
+        "votes": "",
+        "gross": ""
     },
     "3": {
         "name": "Tom Sawyer",
@@ -24,7 +30,9 @@
         "genre": "",
         "description": "Add a Plot",
         "director": "",
-        "stars": []
+        "stars": [],
+        "votes": 24,
+        "gross": ""
     },
     "4": {
         "name": "Why Girls Leave Home",
@@ -33,7 +41,9 @@
         "genre": "",
         "description": "Add a Plot",
         "director": "",
-        "stars": []
+        "stars": [],
+        "votes": 13,
+        "gross": ""
     },
     "5": {
         "name": "Robbery Under Arms",
@@ -41,8 +51,15 @@
         "runtime": "",
         "genre": "Drama",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Charles MacMahon",
+        "stars": [
+            "Jim Gerald",
+            "George Merriman",
+            "Lance Vane",
+            "William Duff"
+        ],
+        "votes": 14,
+        "gross": ""
     },
     "6": {
         "name": "Dej\u00e1 \u00e9 jugar, ch\u00e9, ch\u00e9",
@@ -50,8 +67,10 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Eugene Py",
+        "stars": [],
+        "votes": 8,
+        "gross": ""
     },
     "7": {
         "name": "Balett ur op. Mignon/J\u00f6sseh\u00e4radspolska",
@@ -59,8 +78,13 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Robert K\u00f6ller",
+        "stars": [
+            "Victoria Strandin",
+            "Oscar Tropp"
+        ],
+        "votes": 11,
+        "gross": ""
     },
     "8": {
         "name": "El grito de Dolores o La independencia de M\u00e9xico",
@@ -68,8 +92,12 @@
         "runtime": "",
         "genre": "Drama",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Felipe de Jes\u00fas Haro",
+        "stars": [
+            "Felipe de Jes\u00fas Haro"
+        ],
+        "votes": 16,
+        "gross": ""
     },
     "9": {
         "name": "Violante",
@@ -77,8 +105,14 @@
         "runtime": "",
         "genre": "Drama",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Narciso Cuy\u00e0s",
+        "stars": [
+            "Enrique Jim\u00e9nez",
+            "Enrique Jim\u00e9nez",
+            "Margarita Xirgu"
+        ],
+        "votes": 5,
+        "gross": ""
     },
     "10": {
         "name": "Mister Wiskey",
@@ -86,8 +120,10 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Eugene Py",
+        "stars": [],
+        "votes": 13,
+        "gross": ""
     },
     "11": {
         "name": "Komm du kleines Kohlenm\u00e4dchen",
@@ -95,8 +131,12 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Joseph Giampietro",
+        "stars": [
+            "Fritzi Massary"
+        ],
+        "votes": 9,
+        "gross": ""
     },
     "12": {
         "name": "Los tocayos",
@@ -104,8 +144,10 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Eugene Py",
+        "stars": [],
+        "votes": 5,
+        "gross": ""
     },
     "13": {
         "name": "Belles of Killarney",
@@ -113,7 +155,11 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Arthur Melbourne Cooper",
+        "stars": [
+            "Kate O'Connor"
+        ],
+        "votes": 5,
+        "gross": ""
     }
 }

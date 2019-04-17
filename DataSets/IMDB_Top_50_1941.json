@@ -5,8 +5,21 @@
         "runtime": "64 min",
         "genre": "Animation, Drama, Family",
         "description": "Ridiculed because of his enormous ears, a young circus elephant is assisted by a mouse to achieve his full potential.",
-        "director": "",
-        "stars": []
+        "director": "Samuel Armstrong",
+        "stars": [
+            "Norman Ferguson",
+            "Wilfred Jackson",
+            "Jack Kinney",
+            "Bill Roberts",
+            "Ben Sharpsteen",
+            "John Elliotte",
+            "Sterling Holloway",
+            "Edward Brophy",
+            "James Baskett",
+            "Herman Bing"
+        ],
+        "votes": "106,805",
+        "gross": "$1.60M"
     },
     "2": {
         "name": "Adventures of Captain Marvel",
@@ -14,8 +27,16 @@
         "runtime": "216 min",
         "genre": "Action, Adventure, Fantasy",
         "description": "To protect a magic talisman from being used for evil, a teenage boy named Billy Batson is given the power to become an adult superhero, Captain Marvel, with a single magic word: \"Shazam!\"",
-        "director": "",
-        "stars": []
+        "director": "John English",
+        "stars": [
+            "William Witney",
+            "Tom Tyler",
+            "Frank Coghlan Jr.",
+            "William 'Billy' Benedict",
+            "Louise Currie"
+        ],
+        "votes": "937",
+        "gross": ""
     },
     "3": {
         "name": "Citizen Kane",
@@ -23,8 +44,15 @@
         "runtime": "119 min",
         "genre": "Drama, Mystery",
         "description": "Following the death of a publishing tycoon, news reporters scramble to discover the meaning of his final utterance.",
-        "director": "",
-        "stars": []
+        "director": "Orson Welles",
+        "stars": [
+            "Orson Welles",
+            "Joseph Cotten",
+            "Dorothy Comingore",
+            "Agnes Moorehead"
+        ],
+        "votes": "360,040",
+        "gross": "$1.59M"
     },
     "4": {
         "name": "The Maltese Falcon",
@@ -32,8 +60,15 @@
         "runtime": "100 min",
         "genre": "Film-Noir, Mystery",
         "description": "A private detective takes on a case that involves him with three eccentric criminals, a gorgeous liar, and their quest for a priceless statuette.",
-        "director": "",
-        "stars": []
+        "director": "John Huston",
+        "stars": [
+            "Humphrey Bogart",
+            "Mary Astor",
+            "Gladys George",
+            "Peter Lorre"
+        ],
+        "votes": "139,450",
+        "gross": ""
     },
     "5": {
         "name": "The Gay Falcon",
@@ -41,8 +76,15 @@
         "runtime": "67 min",
         "genre": "Crime, Drama, Mystery",
         "description": "The Falcon investigates jewel thieves who are working with hard up socialites to defraud insurance companies. First of the Falcon series.",
-        "director": "",
-        "stars": []
+        "director": "Irving Reis",
+        "stars": [
+            "George Sanders",
+            "Wendy Barrie",
+            "Allen Jenkins",
+            "Nina Vale"
+        ],
+        "votes": "866",
+        "gross": ""
     },
     "6": {
         "name": "Penny Serenade",
@@ -50,8 +92,15 @@
         "runtime": "119 min",
         "genre": "Drama, Romance",
         "description": "A couple's big dreams give way to a life full of unexpected sadness and unexpected joy.",
-        "director": "",
-        "stars": []
+        "director": "George Stevens",
+        "stars": [
+            "Cary Grant",
+            "Irene Dunne",
+            "Beulah Bondi",
+            "Edgar Buchanan"
+        ],
+        "votes": "5,573",
+        "gross": ""
     },
     "7": {
         "name": "Come Live with Me",
@@ -59,8 +108,15 @@
         "runtime": "86 min",
         "genre": "Comedy, Romance",
         "description": "Seeking US citizenship, a Viennese refugee arranges a marriage of convenience with a struggling writer.",
-        "director": "",
-        "stars": []
+        "director": "Clarence Brown",
+        "stars": [
+            "James Stewart",
+            "Hedy Lamarr",
+            "Ian Hunter",
+            "Verree Teasdale"
+        ],
+        "votes": "1,535",
+        "gross": ""
     },
     "8": {
         "name": "Footsteps in the Dark",
@@ -68,8 +124,15 @@
         "runtime": "96 min",
         "genre": "Comedy, Mystery, Crime",
         "description": "A respected investment advisor has a double life as a mystery writer and becomes involved in the real murder of a shady client.",
-        "director": "",
-        "stars": []
+        "director": "Lloyd Bacon",
+        "stars": [
+            "Errol Flynn",
+            "Brenda Marshall",
+            "Ralph Bellamy",
+            "Alan Hale"
+        ],
+        "votes": "879",
+        "gross": ""
     },
     "9": {
         "name": "How Green Was My Valley",
@@ -77,8 +140,15 @@
         "runtime": "118 min",
         "genre": "Drama, Family",
         "description": "At the turn of the century in a Welsh mining village, the Morgans, he stern, she gentle, raise coal-mining sons and hope their youngest will find a better life.",
-        "director": "",
-        "stars": []
+        "director": "John Ford",
+        "stars": [
+            "Walter Pidgeon",
+            "Maureen O'Hara",
+            "Anna Lee",
+            "Donald Crisp"
+        ],
+        "votes": "18,934",
+        "gross": ""
     },
     "10": {
         "name": "Two-Faced Woman",
@@ -86,8 +156,15 @@
         "runtime": "90 min",
         "genre": "Comedy, Romance",
         "description": "After a ski instructor catches her husband flirting with an old flame, she decides to pose as her (fictitious) twin sister in an attempt to keep him faithful.",
-        "director": "",
-        "stars": []
+        "director": "George Cukor",
+        "stars": [
+            "Greta Garbo",
+            "Melvyn Douglas",
+            "Constance Bennett",
+            "Roland Young"
+        ],
+        "votes": "1,325",
+        "gross": "$0.88M"
     },
     "11": {
         "name": "Meet Boston Blackie",
@@ -95,8 +172,15 @@
         "runtime": "60 min",
         "genre": "Comedy, Crime, Drama",
         "description": "When a murder occurs on an ocean liner docked in New York, the trail leads to Coney Island and a spy ring.",
-        "director": "",
-        "stars": []
+        "director": "Robert Florey",
+        "stars": [
+            "Chester Morris",
+            "Rochelle Hudson",
+            "Richard Lane",
+            "Charles Wagenheim"
+        ],
+        "votes": "526",
+        "gross": ""
     },
     "12": {
         "name": "The Wolf Man",
@@ -104,8 +188,15 @@
         "runtime": "70 min",
         "genre": "Horror",
         "description": "A practical man returns to his homeland, is attacked by a creature of folklore, and infected with a horrific disease his disciplined mind tells him can not possibly exist.",
-        "director": "",
-        "stars": []
+        "director": "George Waggner",
+        "stars": [
+            "Claude Rains",
+            "Warren William",
+            "Lon Chaney Jr.",
+            "Ralph Bellamy"
+        ],
+        "votes": "20,719",
+        "gross": ""
     },
     "13": {
         "name": "Suspicion",
@@ -113,8 +204,15 @@
         "runtime": "99 min",
         "genre": "Mystery, Thriller",
         "description": "A shy young heiress marries a charming gentleman, and soon begins to suspect he is planning to murder her.",
-        "director": "",
-        "stars": []
+        "director": "Alfred Hitchcock",
+        "stars": [
+            "Cary Grant",
+            "Joan Fontaine",
+            "Cedric Hardwicke",
+            "Nigel Bruce"
+        ],
+        "votes": "28,765",
+        "gross": "$4.50M"
     },
     "14": {
         "name": "Sergeant York",
@@ -122,8 +220,15 @@
         "runtime": "134 min",
         "genre": "Biography, Drama, History",
         "description": "A marksman is drafted in World War I and ends up becoming one of the most celebrated war heroes.",
-        "director": "",
-        "stars": []
+        "director": "Howard Hawks",
+        "stars": [
+            "Gary Cooper",
+            "Walter Brennan",
+            "Joan Leslie",
+            "George Tobias"
+        ],
+        "votes": "14,064",
+        "gross": "$16.40M"
     },
     "15": {
         "name": "High Sierra",
@@ -131,8 +236,15 @@
         "runtime": "100 min",
         "genre": "Action, Adventure, Crime",
         "description": "After being released from prison, notorious thief Roy Earle is hired by his old boss to help a group of inexperienced criminals plan and carry out the robbery of a California resort.",
-        "director": "",
-        "stars": []
+        "director": "Raoul Walsh",
+        "stars": [
+            "Ida Lupino",
+            "Humphrey Bogart",
+            "Alan Curtis",
+            "Arthur Kennedy"
+        ],
+        "votes": "13,511",
+        "gross": ""
     },
     "16": {
         "name": "Sullivan's Travels",
@@ -140,8 +252,15 @@
         "runtime": "90 min",
         "genre": "Adventure, Comedy, Drama",
         "description": "A director of escapist films goes on the road as a hobo to learn about life, which gives him a rude awakening.",
-        "director": "",
-        "stars": []
+        "director": "Preston Sturges",
+        "stars": [
+            "Joel McCrea",
+            "Veronica Lake",
+            "Robert Warwick",
+            "William Demarest"
+        ],
+        "votes": "21,545",
+        "gross": ""
     },
     "17": {
         "name": "Men of Boys Town",
@@ -149,8 +268,15 @@
         "runtime": "106 min",
         "genre": "Drama",
         "description": "Mickey Rooney and Spencer Tracy return in this sequel to the original Boys Town. This time the school faces financial trouble as Father Flannigan tries to help every little boy he meets. ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Norman Taurog",
+        "stars": [
+            "Spencer Tracy",
+            "Mickey Rooney",
+            "Bobs Watson",
+            "Larry Nunn"
+        ],
+        "votes": "961",
+        "gross": ""
     },
     "18": {
         "name": "Ball of Fire",
@@ -158,8 +284,15 @@
         "runtime": "111 min",
         "genre": "Comedy, Romance",
         "description": "A group of professors working on a new encyclopedia encounter a mouthy nightclub singer who is wanted by the police to help bring down her mob boss lover.",
-        "director": "",
-        "stars": []
+        "director": "Howard Hawks",
+        "stars": [
+            "Gary Cooper",
+            "Barbara Stanwyck",
+            "Oskar Homolka",
+            "Henry Travers"
+        ],
+        "votes": "9,580",
+        "gross": ""
     },
     "19": {
         "name": "The Lady Eve",
@@ -167,8 +300,15 @@
         "runtime": "94 min",
         "genre": "Comedy, Romance",
         "description": "A trio of classy card sharks targets the socially awkward heir to brewery millions for his money, until one of them falls in love with him.",
-        "director": "",
-        "stars": []
+        "director": "Preston Sturges",
+        "stars": [
+            "Barbara Stanwyck",
+            "Henry Fonda",
+            "Charles Coburn",
+            "Eugene Pallette"
+        ],
+        "votes": "17,214",
+        "gross": ""
     },
     "20": {
         "name": "Ziegfeld Girl",
@@ -176,8 +316,16 @@
         "runtime": "132 min",
         "genre": "Drama, Musical, Romance",
         "description": "Discovery by Flo Ziegfeld changes a girl's life but not necessarily for the better, as three beautiful women find out when they join the spectacle on Broadway: Susan, the singer who must ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Robert Z. Leonard",
+        "stars": [
+            "Busby Berkeley",
+            "James Stewart",
+            "Judy Garland",
+            "Hedy Lamarr",
+            "Lana Turner"
+        ],
+        "votes": "2,243",
+        "gross": ""
     },
     "21": {
         "name": "The Little Foxes",
@@ -185,8 +333,15 @@
         "runtime": "116 min",
         "genre": "Drama, Romance",
         "description": "The ruthless, moneyed Hubbard clan lives in, and poisons, their part of the deep South at the turn of the twentieth century.",
-        "director": "",
-        "stars": []
+        "director": "William Wyler",
+        "stars": [
+            "Bette Davis",
+            "Herbert Marshall",
+            "Teresa Wright",
+            "Richard Carlson"
+        ],
+        "votes": "9,128",
+        "gross": ""
     },
     "22": {
         "name": "Tom, Dick and Harry",
@@ -194,8 +349,15 @@
         "runtime": "87 min",
         "genre": "Comedy, Fantasy, Romance",
         "description": "Working girl Janie is proposed to by a conservative car salesman, a bohemian auto mechanic, and a millionaire playboy and must make a choice.",
-        "director": "",
-        "stars": []
+        "director": "Garson Kanin",
+        "stars": [
+            "Ginger Rogers",
+            "George Murphy",
+            "Alan Marshal",
+            "Burgess Meredith"
+        ],
+        "votes": "931",
+        "gross": ""
     },
     "23": {
         "name": "49th Parallel",
@@ -203,8 +365,15 @@
         "runtime": "104 min",
         "genre": "Drama, War, Thriller",
         "description": "A World War II U-boat crew are stranded in northern Canada. To avoid internment, they must make their way to the border and get into the still-neutral U.S.",
-        "director": "",
-        "stars": []
+        "director": "Michael Powell",
+        "stars": [
+            "Leslie Howard",
+            "Laurence Olivier",
+            "Raymond Massey",
+            "Anton Walbrook"
+        ],
+        "votes": "5,167",
+        "gross": ""
     },
     "24": {
         "name": "You'll Never Get Rich",
@@ -212,8 +381,15 @@
         "runtime": "88 min",
         "genre": "Comedy, Musical, Romance",
         "description": "In order to cover up his philandering ways, a married Broadway producer sets one of his dancers up on a date with a chorus girl for whom he had bought a gift, but the two dancers fall in love for real.",
-        "director": "",
-        "stars": []
+        "director": "Sidney Lanfield",
+        "stars": [
+            "Fred Astaire",
+            "Rita Hayworth",
+            "Robert Benchley",
+            "John Hubbard"
+        ],
+        "votes": "1,921",
+        "gross": ""
     },
     "25": {
         "name": "Meet John Doe",
@@ -221,8 +397,15 @@
         "runtime": "122 min",
         "genre": "Comedy, Drama, Romance",
         "description": "A man needing money agrees to impersonate a nonexistent person who said he'd be committing suicide as a protest, and a political movement begins.",
-        "director": "",
-        "stars": []
+        "director": "Frank Capra",
+        "stars": [
+            "Gary Cooper",
+            "Barbara Stanwyck",
+            "Edward Arnold",
+            "Walter Brennan"
+        ],
+        "votes": "10,910",
+        "gross": ""
     },
     "26": {
         "name": "Dr. Jekyll and Mr. Hyde",
@@ -230,8 +413,15 @@
         "runtime": "113 min",
         "genre": "Drama, Horror, Sci-Fi",
         "description": "Dr. Jekyll allows his dark side to run wild when he drinks a potion that turns him into the evil Mr. Hyde.",
-        "director": "",
-        "stars": []
+        "director": "Victor Fleming",
+        "stars": [
+            "Spencer Tracy",
+            "Ingrid Bergman",
+            "Lana Turner",
+            "Donald Crisp"
+        ],
+        "votes": "7,563",
+        "gross": ""
     },
     "27": {
         "name": "Mr. & Mrs. Smith",
@@ -239,8 +429,15 @@
         "runtime": "95 min",
         "genre": "Comedy, Romance",
         "description": "A couple who have been married for three years are shocked to learn that their marriage is not legally valid.",
-        "director": "",
-        "stars": []
+        "director": "Alfred Hitchcock",
+        "stars": [
+            "Carole Lombard",
+            "Robert Montgomery",
+            "Gene Raymond",
+            "Jack Carson"
+        ],
+        "votes": "8,408",
+        "gross": ""
     },
     "28": {
         "name": "They Died with Their Boots On",
@@ -248,8 +445,15 @@
         "runtime": "140 min",
         "genre": "Biography, Drama, Romance",
         "description": "A highly fictionalized account of the life of George Armstrong Custer from his arrival at West Point in 1857 to his death at the battle of the Little Big Horn in 1876.",
-        "director": "",
-        "stars": []
+        "director": "Raoul Walsh",
+        "stars": [
+            "Errol Flynn",
+            "Olivia de Havilland",
+            "Arthur Kennedy",
+            "Charley Grapewin"
+        ],
+        "votes": "5,275",
+        "gross": ""
     },
     "29": {
         "name": "I Wake Up Screaming",
@@ -257,8 +461,15 @@
         "runtime": "82 min",
         "genre": "Crime, Drama, Film-Noir",
         "description": "Why is Inspector Ed Cornell trying to railroad Frankie Christopher for the murder of model Vicky Lynn?",
-        "director": "",
-        "stars": []
+        "director": "H. Bruce Humberstone",
+        "stars": [
+            "Betty Grable",
+            "Victor Mature",
+            "Carole Landis",
+            "Laird Cregar"
+        ],
+        "votes": "3,247",
+        "gross": ""
     },
     "30": {
         "name": "Here Comes Mr. Jordan",
@@ -266,8 +477,15 @@
         "runtime": "94 min",
         "genre": "Comedy, Fantasy, Romance",
         "description": "Boxer Joe Pendleton dies 50 years too soon due to a heavenly mistake, and is given a new life as a millionaire playboy.",
-        "director": "",
-        "stars": []
+        "director": "Alexander Hall",
+        "stars": [
+            "Robert Montgomery",
+            "Claude Rains",
+            "Evelyn Keyes",
+            "Rita Johnson"
+        ],
+        "votes": "5,313",
+        "gross": ""
     },
     "31": {
         "name": "Blood and Sand",
@@ -275,8 +493,15 @@
         "runtime": "125 min",
         "genre": "Drama, Sport",
         "description": "Illiterate peasant Juan Gallardo rises meteorically to fame and fortune in the bullfight arena only to sow the seeds of his own fall.",
-        "director": "",
-        "stars": []
+        "director": "Rouben Mamoulian",
+        "stars": [
+            "Tyrone Power",
+            "Linda Darnell",
+            "Rita Hayworth",
+            "Alla Nazimova"
+        ],
+        "votes": "2,074",
+        "gross": ""
     },
     "32": {
         "name": "The Devil and Daniel Webster",
@@ -284,8 +509,15 @@
         "runtime": "107 min",
         "genre": "Comedy, Drama, Fantasy",
         "description": "A nineteenth-century New Hampshire farmer who makes a pact with Satan for economic success enlists Daniel Webster to extract him from his contract.",
-        "director": "",
-        "stars": []
+        "director": "William Dieterle",
+        "stars": [
+            "Edward Arnold",
+            "Walter Huston",
+            "Jane Darwell",
+            "Simone Simon"
+        ],
+        "votes": "4,056",
+        "gross": ""
     },
     "33": {
         "name": "Sun Valley Serenade",
@@ -293,8 +525,15 @@
         "runtime": "86 min",
         "genre": "Comedy, Musical, Romance",
         "description": "When Phil Corey's band arrives at the Idaho ski resort its pianist Ted Scott is smitten with a Norwegian refugee he has sponsored, Karen Benson. When soloist Vivian Dawn quits, Karen stages an ice show as a substitute.",
-        "director": "",
-        "stars": []
+        "director": "H. Bruce Humberstone",
+        "stars": [
+            "Sonja Henie",
+            "John Payne",
+            "Glenn Miller",
+            "Milton Berle"
+        ],
+        "votes": "1,220",
+        "gross": ""
     },
     "34": {
         "name": "Hellzapoppin'",
@@ -302,8 +541,15 @@
         "runtime": "84 min",
         "genre": "Comedy, Musical",
         "description": "Olsen and Johnson, a pair of stage comedians, try to turn their play into a movie and bring together a young couple in love, while breaking the fourth wall every step of the way.",
-        "director": "",
-        "stars": []
+        "director": "H.C. Potter",
+        "stars": [
+            "Ole Olsen",
+            "Chic Johnson",
+            "Martha Raye",
+            "Hugh Herbert"
+        ],
+        "votes": "2,471",
+        "gross": ""
     },
     "35": {
         "name": "The Devil and Miss Jones",
@@ -311,8 +557,15 @@
         "runtime": "92 min",
         "genre": "Comedy, Romance",
         "description": "A tycoon goes undercover to ferret out agitators at a department store, but gets involved in their lives instead.",
-        "director": "",
-        "stars": []
+        "director": "Sam Wood",
+        "stars": [
+            "Jean Arthur",
+            "Robert Cummings",
+            "Charles Coburn",
+            "Edmund Gwenn"
+        ],
+        "votes": "3,179",
+        "gross": ""
     },
     "36": {
         "name": "Hold Back the Dawn",
@@ -320,8 +573,15 @@
         "runtime": "116 min",
         "genre": "Drama, Romance",
         "description": "Stopped in Mexico by U.S. Immigration, Georges Iscovescu hopes to get into the country by marrying a citizen.",
-        "director": "",
-        "stars": []
+        "director": "Mitchell Leisen",
+        "stars": [
+            "Charles Boyer",
+            "Olivia de Havilland",
+            "Paulette Goddard",
+            "Victor Francen"
+        ],
+        "votes": "1,573",
+        "gross": ""
     },
     "37": {
         "name": "Tarzan's Secret Treasure",
@@ -329,8 +589,15 @@
         "runtime": "81 min",
         "genre": "Action, Adventure, Romance",
         "description": "Tarzan's jungle home, and his family, Jane and Boy, are threatened by men greedy for gold.",
-        "director": "",
-        "stars": []
+        "director": "Richard Thorpe",
+        "stars": [
+            "Johnny Weissmuller",
+            "Maureen O'Sullivan",
+            "Johnny Sheffield",
+            "Reginald Owen"
+        ],
+        "votes": "2,593",
+        "gross": ""
     },
     "38": {
         "name": "The Shanghai Gesture",
@@ -338,8 +605,15 @@
         "runtime": "95 min",
         "genre": "Crime, Drama, Film-Noir",
         "description": "In Shanghai, dragon-lady 'Mother' Gin Sling operates a gambling house for wealthy patrons but she clashes with influential land developer Sir Guy Charteris who wants to put her out-of-business.",
-        "director": "",
-        "stars": []
+        "director": "Josef von Sternberg",
+        "stars": [
+            "Gene Tierney",
+            "Walter Huston",
+            "Victor Mature",
+            "Ona Munson"
+        ],
+        "votes": "2,309",
+        "gross": ""
     },
     "39": {
         "name": "Shadow of the Thin Man",
@@ -347,8 +621,15 @@
         "runtime": "97 min",
         "genre": "Comedy, Crime, Mystery",
         "description": "Nick and Nora are at their wisecracking best as they investigate murder and racketeering at a local race track.",
-        "director": "",
-        "stars": []
+        "director": "W.S. Van Dyke",
+        "stars": [
+            "William Powell",
+            "Myrna Loy",
+            "Barry Nelson",
+            "Donna Reed"
+        ],
+        "votes": "4,807",
+        "gross": ""
     },
     "40": {
         "name": "Ladies in Retirement",
@@ -356,8 +637,15 @@
         "runtime": "91 min",
         "genre": "Crime, Drama, Film-Noir",
         "description": "The housekeeper to a retired actress tries at the same time to look after her own two emotionally disturbed sisters, with dramatic results.",
-        "director": "",
-        "stars": []
+        "director": "Charles Vidor",
+        "stars": [
+            "Ida Lupino",
+            "Louis Hayward",
+            "Evelyn Keyes",
+            "Elsa Lanchester"
+        ],
+        "votes": "856",
+        "gross": ""
     },
     "41": {
         "name": "Topper Returns",
@@ -365,8 +653,15 @@
         "runtime": "88 min",
         "genre": "Comedy, Fantasy, Mystery",
         "description": "A fun-loving young woman finds herself murdered after trading bedrooms with her wealthy friend. Her ghost seeks aid from a banker to find out why and by whom.",
-        "director": "",
-        "stars": []
+        "director": "Roy Del Ruth",
+        "stars": [
+            "Joan Blondell",
+            "Roland Young",
+            "Carole Landis",
+            "Billie Burke"
+        ],
+        "votes": "2,232",
+        "gross": ""
     },
     "42": {
         "name": "The Reluctant Dragon",
@@ -374,8 +669,19 @@
         "runtime": "74 min",
         "genre": "Animation, Comedy, Family",
         "description": "Humorist Robert Benchley learns about the animation process at Walt Disney Studios while trying to find the great man himself to pitch him the idea of making a cartoon about a shy dragon.",
-        "director": "",
-        "stars": []
+        "director": "Alfred L. Werker",
+        "stars": [
+            "Hamilton Luske",
+            "Jack Cutting",
+            "Ub Iwerks",
+            "Jack Kinney",
+            "Robert Benchley",
+            "Frances Gifford",
+            "Buddy Pepper",
+            "Nana Bryant"
+        ],
+        "votes": "2,094",
+        "gross": "$0.87M"
     },
     "43": {
         "name": "I Wanted Wings",
@@ -383,8 +689,15 @@
         "runtime": "135 min",
         "genre": "Drama, War",
         "description": "Story follows the training and personal lives of three recruits in the Army Air Corps --- a wealthy playboy, a college jock and an auto mechanic. Love interest is supplied by a female ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Mitchell Leisen",
+        "stars": [
+            "Ray Milland",
+            "William Holden",
+            "Wayne Morris",
+            "Brian Donlevy"
+        ],
+        "votes": "287",
+        "gross": ""
     },
     "44": {
         "name": "The Great Lie",
@@ -392,8 +705,15 @@
         "runtime": "108 min",
         "genre": "Drama",
         "description": "After a newlywed's husband apparently dies in a plane crash, she discovers that her rival for his affections is now pregnant with his child.",
-        "director": "",
-        "stars": []
+        "director": "Edmund Goulding",
+        "stars": [
+            "Bette Davis",
+            "George Brent",
+            "Mary Astor",
+            "Lucile Watson"
+        ],
+        "votes": "3,053",
+        "gross": ""
     },
     "45": {
         "name": "The 47 Ronin",
@@ -401,8 +721,15 @@
         "runtime": "241 min",
         "genre": "Action, Drama, History",
         "description": "In 1701, Lord Takuminokami Asano has a feud with Lord Kira and he tries to kill Kira in the corridors of the Shogun's palace. The Shogun sentences Lord Asano to commit suppuku and deprives ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Kenji Mizoguchi",
+        "stars": [
+            "Ch\u00f4j\u00fbr\u00f4 Kawarasaki",
+            "Yoshizaburo Arashi",
+            "Utaemon Ichikawa",
+            "Kan'emon Nakamura"
+        ],
+        "votes": "1,693",
+        "gross": ""
     },
     "46": {
         "name": "The Sea Wolf",
@@ -410,8 +737,15 @@
         "runtime": "100 min",
         "genre": "Adventure, Drama",
         "description": "After being fished out of the sea by a sealer, three fugitives find themselves prisoners of the ship's brutal skipper who refuses to put them ashore and they hatch an escape plan during a crew mutiny.",
-        "director": "",
-        "stars": []
+        "director": "Michael Curtiz",
+        "stars": [
+            "Edward G. Robinson",
+            "Ida Lupino",
+            "John Garfield",
+            "Alexander Knox"
+        ],
+        "votes": "2,796",
+        "gross": ""
     },
     "47": {
         "name": "Man Hunt",
@@ -419,8 +753,15 @@
         "runtime": "105 min",
         "genre": "Drama, Thriller, War",
         "description": "British hunter Thorndike vacationing in Bavaria has Hitler in his gun sight. He is captured, beaten, left for dead, and escapes back to London where he is hounded by German agents and aided by a young woman.",
-        "director": "",
-        "stars": []
+        "director": "Fritz Lang",
+        "stars": [
+            "Walter Pidgeon",
+            "Joan Bennett",
+            "George Sanders",
+            "John Carradine"
+        ],
+        "votes": "4,391",
+        "gross": ""
     },
     "48": {
         "name": "Sundown",
@@ -428,8 +769,15 @@
         "runtime": "90 min",
         "genre": "Drama, War",
         "description": "In 1941, a mysterious Somaliland native woman helps the British against the Nazis.",
-        "director": "",
-        "stars": []
+        "director": "Henry Hathaway",
+        "stars": [
+            "Gene Tierney",
+            "Bruce Cabot",
+            "George Sanders",
+            "Harry Carey"
+        ],
+        "votes": "631",
+        "gross": ""
     },
     "49": {
         "name": "Hold That Ghost",
@@ -437,8 +785,15 @@
         "runtime": "86 min",
         "genre": "Adventure, Comedy, Music",
         "description": "After inheriting a fortune from a gangster, two dim-witted service station attendants find themselves stranded in a haunted house.",
-        "director": "",
-        "stars": []
+        "director": "Arthur Lubin",
+        "stars": [
+            "Bud Abbott",
+            "Lou Costello",
+            "Richard Carlson",
+            "Joan Davis"
+        ],
+        "votes": "3,091",
+        "gross": ""
     },
     "50": {
         "name": "Honky Tonk",
@@ -446,7 +801,14 @@
         "runtime": "105 min",
         "genre": "Comedy, Crime, Drama",
         "description": "Fast-talking con-man and grifter Candy Johnson rises to be the corrupt boss of Yellow Creek, but his wife's alcoholic father tries to set things right.",
-        "director": "",
-        "stars": []
+        "director": "Jack Conway",
+        "stars": [
+            "Clark Gable",
+            "Lana Turner",
+            "Frank Morgan",
+            "Claire Trevor"
+        ],
+        "votes": "880",
+        "gross": "$6.31M"
     }
 }

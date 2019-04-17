@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "Road House",
+        "certificate": "",
+        "runtime": "114 min",
+        "genre": "Action, Thriller",
+        "description": "A tough bouncer is hired to tame a dirty bar.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "Indiana Jones and the Last Crusade",
+        "certificate": "U",
+        "runtime": "127 min",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "In 1938, after his father Professor Henry Jones, Sr. goes missing while pursuing the Holy Grail, Indiana Jones finds himself up against Adolf Hitler's Nazis again to stop them obtaining its powers.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "Batman",
+        "certificate": "U",
+        "runtime": "126 min",
+        "genre": "Action, Adventure",
+        "description": "The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "The Punisher",
+        "certificate": "",
+        "runtime": "89 min",
+        "genre": "Action, Crime, Drama",
+        "description": "When Frank Castle's family is murdered by criminals, he wages war on crime as a vigilante assassin known only as The Punisher.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "Pet Sematary",
+        "certificate": "",
+        "runtime": "103 min",
+        "genre": "Horror, Thriller",
+        "description": "After tragedy strikes, a grieving father discovers an ancient burial ground behind his home with the power to raise the dead.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "Dead Poets Society",
+        "certificate": "",
+        "runtime": "128 min",
+        "genre": "Comedy, Drama",
+        "description": "English teacher John Keating inspires his students to look at poetry with a different perspective of authentic knowledge and feelings.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "Uncle Buck",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Comedy",
+        "description": "Bachelor and all round slob, Buck, babysits his brother's rebellious teenage daughter and her cute younger brother and sister.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "Major League",
+        "certificate": "",
+        "runtime": "107 min",
+        "genre": "Comedy, Sport",
+        "description": "The new owner of the Cleveland Indians puts together a purposely horrible team so they'll lose and she can move the team. But when the plot is uncovered, they start winning just to spite her.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "The Little Mermaid",
+        "certificate": "",
+        "runtime": "83 min",
+        "genre": "Animation, Family, Fantasy",
+        "description": "A mermaid princess makes a Faustian bargain with an unscrupulous sea-witch in order to meet a human prince on land.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "Do the Right Thing",
+        "certificate": "",
+        "runtime": "120 min",
+        "genre": "Comedy, Drama",
+        "description": "On the hottest day of the year on a street in the Bedford-Stuyvesant section of Brooklyn, everyone's hate and bigotry smolders and builds until it explodes into violence.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "Bill & Ted's Excellent Adventure",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Adventure, Comedy, Music",
+        "description": "Two seemingly dumb teens set off on a quest to prepare the ultimate historical presentation with the help of a time machine.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "Ghostbusters II",
+        "certificate": "",
+        "runtime": "108 min",
+        "genre": "Action, Comedy, Fantasy",
+        "description": "The discovery of a massive river of ectoplasm and a resurgence of spectral activity allows the staff of Ghostbusters to revive the business.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "Back to the Future Part II",
+        "certificate": "U",
+        "runtime": "108 min",
+        "genre": "Adventure, Comedy, Sci-Fi",
+        "description": "After visiting 2015, Marty McFly must repeat his visit to 1955 to prevent disastrous changes to 1985...without interfering with his first trip.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "When Harry Met Sally...",
+        "certificate": "",
+        "runtime": "95 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Harry and Sally have known each other for years, and are very good friends, but they fear sex would ruin the friendship.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "Field of Dreams",
+        "certificate": "",
+        "runtime": "107 min",
+        "genre": "Drama, Family, Fantasy",
+        "description": "An Iowa corn farmer, hearing voices, interprets them as a command to build a baseball diamond in his fields; he does, and the 1919 Chicago White Sox come.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "National Lampoon's Christmas Vacation",
+        "certificate": "",
+        "runtime": "97 min",
+        "genre": "Comedy",
+        "description": "The Griswold family's plans for a big family Christmas predictably turn into a big disaster.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "Sex, Lies, and Videotape",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Drama",
+        "description": "A sexually repressed woman's husband is having an affair with her sister. The arrival of a visitor with a rather unusual fetish changes everything.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "The 'Burbs",
+        "certificate": "",
+        "runtime": "101 min",
+        "genre": "Comedy, Mystery, Thriller",
+        "description": "An overstressed suburbanite and his fellow neighbors are convinced that the new family on the block are part of a murderous Satanic cult.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "Leviathan",
+        "certificate": "",
+        "runtime": "98 min",
+        "genre": "Adventure, Horror, Mystery",
+        "description": "An American deep-sea mining colony stumbles upon a sunken Soviet vessel hiding a horrific secret.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "Steel Magnolias",
+        "certificate": "",
+        "runtime": "117 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A young beautician, newly arrived in a small Louisiana town, finds work at the local salon, where a small group of women share a close bond of friendship, and welcome her into the fold.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "The Abyss",
+        "certificate": "PG-13",
+        "runtime": "145 min",
+        "genre": "Adventure, Drama, Sci-Fi",
+        "description": "A civilian diving team is enlisted to search for a lost nuclear submarine and face danger while encountering an alien aquatic species.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "Glory",
+        "certificate": "",
+        "runtime": "122 min",
+        "genre": "Biography, Drama, History",
+        "description": "Robert Gould Shaw leads the U.S. Civil War's first all-black volunteer company, fighting prejudices from both his own Union Army, and the Confederates.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "My Left Foot: The Story of Christy Brown",
+        "certificate": "",
+        "runtime": "103 min",
+        "genre": "Biography, Drama",
+        "description": "Christy Brown, born with cerebral palsy, learns to paint and write with his only controllable limb - his left foot.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "Honey, I Shrunk the Kids",
+        "certificate": "",
+        "runtime": "93 min",
+        "genre": "Adventure, Comedy, Family",
+        "description": "The scientist father of a teenage girl and boy accidentally shrinks his and two other neighborhood teens to the size of insects. Now the teens must fight diminutive dangers as the father searches for them.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "Little Monsters",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Adventure, Comedy, Family",
+        "description": "A boy discovers an incredible and gruesome world of monsters under his bed.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "Say Anything...",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A noble underachiever and a beautiful valedictorian fall in love the summer before she goes off to college.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "Licence to Kill",
+        "certificate": "PG-13",
+        "runtime": "133 min",
+        "genre": "Action, Adventure, Thriller",
+        "description": "James Bond goes rogue and sets off to unleash vengeance on a drug lord who tortured his best friend, a C.I.A. Agent, and left him for dead and murdered his bride after he helped capture him.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "Turner & Hooch",
+        "certificate": "",
+        "runtime": "97 min",
+        "genre": "Comedy, Crime, Drama",
+        "description": "A detective must adopt the dog of a dead man to help him find the murderer.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "The Cook, the Thief, His Wife & Her Lover",
+        "certificate": "A",
+        "runtime": "124 min",
+        "genre": "Crime, Drama",
+        "description": "The wife of an abusive criminal finds solace in the arms of a kind regular guest in her husband's restaurant.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "Kickboxer",
+        "certificate": "",
+        "runtime": "97 min",
+        "genre": "Action, Sport, Thriller",
+        "description": "Kurt Sloane must learn the ancient kick boxing art of Muay Thai in order to avenge his brother.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "Weekend at Bernie's",
+        "certificate": "",
+        "runtime": "97 min",
+        "genre": "Adventure, Comedy, Crime",
+        "description": "Two losers try to pretend that their murdered employer is really alive, leading the hitman to attempt to track him down to finish him off.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "Society",
+        "certificate": "R",
+        "runtime": "99 min",
+        "genre": "Comedy, Horror",
+        "description": "An ordinary teenage boy discovers his family is part of a gruesome orgy cult for the social elite.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "Drugstore Cowboy",
+        "certificate": "",
+        "runtime": "101 min",
+        "genre": "Crime, Drama",
+        "description": "A pharmacy-robbing dope fiend and his crew pop pills and evade the law.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "Driving Miss Daisy",
+        "certificate": "",
+        "runtime": "99 min",
+        "genre": "Drama",
+        "description": "An old Jewish woman and her African-American chauffeur in the American South have a relationship that grows and improves over the years.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "K-9",
+        "certificate": "",
+        "runtime": "101 min",
+        "genre": "Action, Comedy, Crime",
+        "description": "To stop an elusive criminal, a maverick detective enlists the aid of a police dog who's an unusually intelligent smart alec.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "Parenthood",
+        "certificate": "",
+        "runtime": "124 min",
+        "genre": "Comedy, Drama",
+        "description": "The Buckmans are a midwestern family all dealing with their lives: estranged relatives, raising children, pressures of the job, and learning to be a good parent and spouse.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "Born on the Fourth of July",
+        "certificate": "",
+        "runtime": "145 min",
+        "genre": "Biography, Drama, War",
+        "description": "The biography of Ron Kovic. Paralyzed in the Vietnam war, he becomes an anti-war and pro-human rights political activist after feeling betrayed by the country he fought for.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "Lethal Weapon 2",
+        "certificate": "R",
+        "runtime": "114 min",
+        "genre": "Action, Crime, Thriller",
+        "description": "Riggs and Murtaugh are on the trail of South African diplomats who are using their immunity to engage in criminal activities.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "Tango & Cash",
+        "certificate": "",
+        "runtime": "104 min",
+        "genre": "Action, Comedy, Crime",
+        "description": "Framed by their ruthless arch-nemesis, a mismatched LAPD crime-fighting duo has to put its differences aside to even the score with the evil kingpin who put them behind bars once and for all.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Majo no takky\u00fbbin",
+        "certificate": "",
+        "runtime": "103 min",
+        "genre": "Animation, Adventure, Drama",
+        "description": "A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "All Dogs Go to Heaven",
+        "certificate": "",
+        "runtime": "84 min",
+        "genre": "Animation, Comedy, Drama",
+        "description": "A canine angel, Charlie, sneaks back to earth from heaven but ends up befriending an orphan girl who can speak to animals. In the process, Charlie learns that friendship is the most heavenly gift of all.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "UHF",
+        "certificate": "",
+        "runtime": "97 min",
+        "genre": "Comedy, Drama",
+        "description": "An unemployed visionary becomes the manager of a local public station. The station becomes a success, with all sorts of hilarious sight gags and wacky humor.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Crimes and Misdemeanors",
+        "certificate": "",
+        "runtime": "104 min",
+        "genre": "Comedy, Drama",
+        "description": "An ophthalmologist's mistress threatens to reveal their affair to his wife while a married documentary filmmaker is infatuated with another woman.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "\u00a1\u00c1tame!",
+        "certificate": "NC-17",
+        "runtime": "101 min",
+        "genre": "Comedy, Crime, Drama",
+        "description": "An unbalanced but alluring former mental patient takes a porn star prisoner in the hopes of convincing her to marry him.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "Lean on Me",
+        "certificate": "",
+        "runtime": "108 min",
+        "genre": "Drama",
+        "description": "The dedicated but tyrannical Joe Clark is appointed the principal of a decaying inner-city school and he is determined to improve by any and all means.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Dead Calm",
+        "certificate": "",
+        "runtime": "96 min",
+        "genre": "Horror, Thriller",
+        "description": "After a tragedy, John Ingram and his wife Rae are spending some time isolated at sea, when they come across a stranger who has abandoned a sinking ship.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "Always",
+        "certificate": "",
+        "runtime": "122 min",
+        "genre": "Fantasy, Romance",
+        "description": "The spirit of a recently deceased expert pilot mentors a newer pilot while watching him fall in love with the girlfriend that he left behind.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "The Wizard",
+        "certificate": "",
+        "runtime": "96 min",
+        "genre": "Adventure, Comedy, Drama",
+        "description": "A boy and his brother run away from home and hitch cross country with the help of a girl they meet to compete in the ultimate video game championship.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "The Karate Kid Part III",
+        "certificate": "",
+        "runtime": "112 min",
+        "genre": "Action, Drama, Family",
+        "description": "Ostracised villain John Kreese attempts to gain revenge on Daniel and Miyagi, with the help of a Vietnam War comrade, the wealthy owner of a toxic waste disposal business.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "Look Who's Talking",
+        "certificate": "",
+        "runtime": "93 min",
+        "genre": "Comedy",
+        "description": "After a single, career-minded woman is left on her own to give birth to the child of a married man, she finds a new romantic chance in a cab driver. Meanwhile, the point-of-view of the newborn boy is narrated through voice-over.",
+        "director": "",
+        "stars": []
+    }
+}

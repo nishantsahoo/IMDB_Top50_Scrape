@@ -5,8 +5,15 @@
         "runtime": "70 min",
         "genre": "Biography, Crime, Drama",
         "description": "True story of notorious Australian outlaw Ned Kelly (1855-80).",
-        "director": "",
-        "stars": []
+        "director": "Charles Tait",
+        "stars": [
+            "Elizabeth Tait",
+            "John Tait",
+            "Norman Campbell",
+            "Bella Cola"
+        ],
+        "votes": 506,
+        "gross": ""
     },
     "2": {
         "name": "Lika mot lika",
@@ -14,8 +21,14 @@
         "runtime": "",
         "genre": "Comedy",
         "description": "A charity soar\u00e9 in the social lounge. The Swedish King Oscar II attends. A very early Swedish film.",
-        "director": "",
-        "stars": []
+        "director": "Knut Lambert",
+        "stars": [
+            "Knut Lambert",
+            "Helfrid Lambert",
+            "Tollie Zellman"
+        ],
+        "votes": 16,
+        "gross": ""
     },
     "3": {
         "name": "Holger Drachmann",
@@ -23,8 +36,14 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Holger Drachmann",
+        "stars": [
+            "Sophie Drachmann",
+            "Jacob Hegel",
+            "Julie Hegel"
+        ],
+        "votes": 16,
+        "gross": ""
     },
     "4": {
         "name": "Primi calori",
@@ -32,8 +51,10 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Arturo Ambrosio",
+        "stars": [],
+        "votes": 6,
+        "gross": ""
     },
     "5": {
         "name": "Highlights from The Mikado",
@@ -41,8 +62,15 @@
         "runtime": "",
         "genre": "Musical",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Arthur Gilbert",
+        "stars": [
+            "Albert Gater",
+            "Marie Grey",
+            "James Rouse",
+            "George Russell"
+        ],
+        "votes": 10,
+        "gross": ""
     },
     "6": {
         "name": "Krybskytten",
@@ -51,7 +79,9 @@
         "genre": "",
         "description": "Add a Plot",
         "director": "",
-        "stars": []
+        "stars": [],
+        "votes": 10,
+        "gross": ""
     },
     "7": {
         "name": "El pechador",
@@ -59,8 +89,10 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Eugene Py",
+        "stars": [],
+        "votes": 14,
+        "gross": ""
     },
     "8": {
         "name": "El soldado de la Independencia",
@@ -68,8 +100,10 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Eugene Py",
+        "stars": [],
+        "votes": 8,
+        "gross": ""
     },
     "9": {
         "name": "R\u00e9actions de Suzanne",
@@ -77,8 +111,10 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Ovide Decroly",
+        "stars": [],
+        "votes": 7,
+        "gross": ""
     },
     "10": {
         "name": "En jernbaneulykke",
@@ -87,7 +123,9 @@
         "genre": "",
         "description": "Add a Plot",
         "director": "",
-        "stars": []
+        "stars": [],
+        "votes": "",
+        "gross": ""
     },
     "11": {
         "name": "Un soulier pour un jambon",
@@ -95,8 +133,10 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Alice Guy",
+        "stars": [],
+        "votes": 8,
+        "gross": ""
     },
     "12": {
         "name": "Impersonation of Nelson-McGovern Fight",
@@ -105,7 +145,9 @@
         "genre": "Drama, Sport",
         "description": "Reenactment of the actual fight.",
         "director": "",
-        "stars": []
+        "stars": [],
+        "votes": 9,
+        "gross": ""
     },
     "13": {
         "name": "The Joe Gans-Battling Nelson Fight",
@@ -113,8 +155,12 @@
         "runtime": "",
         "genre": "News, Sport",
         "description": "A championship fight that took place in the Nevada goldfields between boxers Joe Gans and Battling Nelson.",
-        "director": "",
-        "stars": []
+        "director": "Joe Gans",
+        "stars": [
+            "Battling Nelson"
+        ],
+        "votes": 29,
+        "gross": ""
     },
     "14": {
         "name": "Vappu Helsingiss\u00e4",
@@ -122,8 +168,10 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Oscar Lindel\u00f6f",
+        "stars": [],
+        "votes": 7,
+        "gross": ""
     },
     "15": {
         "name": "Cavalleria infernale",
@@ -131,8 +179,10 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Arturo Ambrosio",
+        "stars": [],
+        "votes": 9,
+        "gross": ""
     },
     "16": {
         "name": "S\u00f8nnens h\u00e6vn",
@@ -140,7 +190,9 @@
         "runtime": "",
         "genre": "",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Viggo Larsen",
+        "stars": [],
+        "votes": 6,
+        "gross": ""
     }
 }

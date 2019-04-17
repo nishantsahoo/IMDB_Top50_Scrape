@@ -5,8 +5,16 @@
         "runtime": "97 min",
         "genre": "Comedy, Drama",
         "description": "The father of three grown daughters tries to keep his sanity, even after his free-spirited middle daughter rebelliously marries a poor plumber.",
-        "director": "",
-        "stars": []
+        "director": "E. Mason Hopper",
+        "stars": [
+            "Elliott Nugent",
+            "Elliott Nugent",
+            "Norma Lee",
+            "Roland Young",
+            "J.C. Nugent"
+        ],
+        "votes": "57",
+        "gross": ""
     },
     "2": {
         "name": "Pandora's Box",
@@ -14,8 +22,15 @@
         "runtime": "109 min",
         "genre": "Crime, Drama, Romance",
         "description": "The rise and inevitable fall of an amoral but naive young woman whose insouciant eroticism inspires lust and violence in those around her.",
-        "director": "",
-        "stars": []
+        "director": "Georg Wilhelm Pabst",
+        "stars": [
+            "Louise Brooks",
+            "Fritz Kortner",
+            "Francis Lederer",
+            "Carl Goetz"
+        ],
+        "votes": "8,783",
+        "gross": "$0.01M"
     },
     "3": {
         "name": "The Broadway Melody",
@@ -23,8 +38,15 @@
         "runtime": "100 min",
         "genre": "Drama, Musical, Romance",
         "description": "A pair of sisters from the vaudeville circuit try to make it big time on Broadway, but matters of the heart complicate the attempt.",
-        "director": "",
-        "stars": []
+        "director": "Harry Beaumont",
+        "stars": [
+            "Bessie Love",
+            "Anita Page",
+            "Charles King",
+            "The Angeles Twins"
+        ],
+        "votes": "5,698",
+        "gross": "$2.81M"
     },
     "4": {
         "name": "Blackmail",
@@ -32,8 +54,15 @@
         "runtime": "85 min",
         "genre": "Crime, Thriller",
         "description": "After killing a man in self-defense, a young woman is blackmailed by a witness to the killing.",
-        "director": "",
-        "stars": []
+        "director": "Alfred Hitchcock",
+        "stars": [
+            "Anny Ondra",
+            "John Longden",
+            "Sara Allgood",
+            "Charles Paton"
+        ],
+        "votes": "8,558",
+        "gross": ""
     },
     "5": {
         "name": "The Cocoanuts",
@@ -41,8 +70,16 @@
         "runtime": "96 min",
         "genre": "Comedy, Musical",
         "description": "During the Florida land boom, The Marx Brothers run a hotel, auction off some land, thwart a jewel robbery, and generally act like themselves.",
-        "director": "",
-        "stars": []
+        "director": "Robert Florey",
+        "stars": [
+            "Joseph Santley",
+            "Groucho Marx",
+            "Harpo Marx",
+            "Chico Marx",
+            "Zeppo Marx"
+        ],
+        "votes": "6,399",
+        "gross": ""
     },
     "6": {
         "name": "The Single Standard",
@@ -50,8 +87,15 @@
         "runtime": "73 min",
         "genre": "Drama, Romance",
         "description": "The wealthy Arden Stuart is bored in a party; after refusing the wedding proposal of Tommy Hewlett, she drives her car with her driver to a lonely place. She has one night stand with him ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "John S. Robertson",
+        "stars": [
+            "Greta Garbo",
+            "Nils Asther",
+            "Johnny Mack Brown",
+            "Dorothy Sebastian"
+        ],
+        "votes": "435",
+        "gross": "$0.66M"
     },
     "7": {
         "name": "Wild Orchids",
@@ -59,8 +103,15 @@
         "runtime": "100 min",
         "genre": "Romance, Drama",
         "description": "A prince in Java tries to seduce his visitor's wife, but he's discovered.",
-        "director": "",
-        "stars": []
+        "director": "Sidney Franklin",
+        "stars": [
+            "Greta Garbo",
+            "Lewis Stone",
+            "Nils Asther",
+            "Dick Sutherland"
+        ],
+        "votes": "518",
+        "gross": "$0.62M"
     },
     "8": {
         "name": "Coquette",
@@ -68,8 +119,15 @@
         "runtime": "76 min",
         "genre": "Drama, Romance",
         "description": "A flirtatious Southern belle is compromised with one of her suitors.",
-        "director": "",
-        "stars": []
+        "director": "Sam Taylor",
+        "stars": [
+            "Mary Pickford",
+            "Johnny Mack Brown",
+            "Matt Moore",
+            "John St. Polis"
+        ],
+        "votes": "1,852",
+        "gross": ""
     },
     "9": {
         "name": "The Kiss",
@@ -77,8 +135,15 @@
         "runtime": "62 min",
         "genre": "Romance, Drama",
         "description": "An unhappily married woman is caught up in scandal and murder when her affection toward a young man is misinterpreted.",
-        "director": "",
-        "stars": []
+        "director": "Jacques Feyder",
+        "stars": [
+            "Greta Garbo",
+            "Conrad Nagel",
+            "Anders Randolf",
+            "Holmes Herbert"
+        ],
+        "votes": "866",
+        "gross": "$0.52M"
     },
     "10": {
         "name": "The Canary Murder Case",
@@ -86,8 +151,16 @@
         "runtime": "82 min",
         "genre": "Crime, Drama, Mystery",
         "description": "A beautiful showgirl, nicknamed 'the Canary', is a scheming nightclub singer. Blackmailing is her game and soon ends up dead. But who killed 'the Canary'. All the suspects who knew her had ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Malcolm St. Clair",
+        "stars": [
+            "Frank Tuttle",
+            "William Powell",
+            "Jean Arthur",
+            "James Hall",
+            "Louise Brooks"
+        ],
+        "votes": "458",
+        "gross": ""
     },
     "11": {
         "name": "Diary of a Lost Girl",
@@ -95,8 +168,15 @@
         "runtime": "79 min",
         "genre": "Drama",
         "description": "After falling pregnant to a pharmacist and refusing to marry, a young woman is thrown from her home and sent to a scrict girls' reform school.",
-        "director": "",
-        "stars": []
+        "director": "Georg Wilhelm Pabst",
+        "stars": [
+            "Louise Brooks",
+            "Josef Rovensk\u00fd",
+            "Fritz Rasp",
+            "Andr\u00e9 Roanne"
+        ],
+        "votes": "3,596",
+        "gross": ""
     },
     "12": {
         "name": "Woman in the Moon",
@@ -104,8 +184,15 @@
         "runtime": "95 min",
         "genre": "Comedy, Drama, Romance",
         "description": "A tenacious scientist blasts off for the moon in hopes of riches that may be found there.",
-        "director": "",
-        "stars": []
+        "director": "Fritz Lang",
+        "stars": [
+            "Klaus Pohl",
+            "Willy Fritsch",
+            "Gustav von Wangenheim",
+            "Gerda Maurus"
+        ],
+        "votes": "2,539",
+        "gross": ""
     },
     "13": {
         "name": "The Love Parade",
@@ -113,8 +200,15 @@
         "runtime": "107 min",
         "genre": "Comedy, Musical, Romance",
         "description": "The queen of mythical Sylvania marries a courtier, who finds his new life unsatisfying.",
-        "director": "",
-        "stars": []
+        "director": "Ernst Lubitsch",
+        "stars": [
+            "Maurice Chevalier",
+            "Jeanette MacDonald",
+            "Lupino Lane",
+            "Lillian Roth"
+        ],
+        "votes": "1,752",
+        "gross": ""
     },
     "14": {
         "name": "Piccadilly",
@@ -122,8 +216,15 @@
         "runtime": "92 min",
         "genre": "Drama, Crime",
         "description": "A young Chinese woman, working in the kitchen at a London dance club, is given the chance to become the club's main act which soon leads to a plot of betrayal, forbidden love and murder.",
-        "director": "",
-        "stars": []
+        "director": "Ewald Andr\u00e9 Dupont",
+        "stars": [
+            "Gilda Gray",
+            "Anna May Wong",
+            "Jameson Thomas",
+            "Cyril Ritchard"
+        ],
+        "votes": "1,205",
+        "gross": ""
     },
     "15": {
         "name": "The Wolf of Wall Street",
@@ -131,8 +232,15 @@
         "runtime": "",
         "genre": "Drama",
         "description": "A ruthless stockbroker sells short in the copper business and ruins the life of his friends by ruining their finances.",
-        "director": "",
-        "stars": []
+        "director": "Rowland V. Lee",
+        "stars": [
+            "George Bancroft",
+            "Olga Baclanova",
+            "Nancy Carroll",
+            "Paul Lukas"
+        ],
+        "votes": "27",
+        "gross": ""
     },
     "16": {
         "name": "The Wild Party",
@@ -140,8 +248,15 @@
         "runtime": "77 min",
         "genre": "Comedy, Drama",
         "description": "Wild girls at a college pay more attention to parties than their classes. But when one party girl, Stella Ames, goes too far at a local bar and gets in trouble, her professor has to rescue ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Dorothy Arzner",
+        "stars": [
+            "Clara Bow",
+            "Fredric March",
+            "Marceline Day",
+            "Shirley O'Hara"
+        ],
+        "votes": "367",
+        "gross": ""
     },
     "17": {
         "name": "Hallelujah",
@@ -149,8 +264,15 @@
         "runtime": "109 min",
         "genre": "Drama, Musical",
         "description": "In a juke joint, sharecropper Zeke falls for a beautiful dancer, Chick, but she's only setting him up for a rigged craps game. He loses $100, the money he got for the sale of his family's ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "King Vidor",
+        "stars": [
+            "Daniel L. Haynes",
+            "Nina Mae McKinney",
+            "William Fountaine",
+            "Harry Gray"
+        ],
+        "votes": "1,412",
+        "gross": ""
     },
     "18": {
         "name": "The Hollywood Revue of 1929",
@@ -158,8 +280,17 @@
         "runtime": "130 min",
         "genre": "Musical",
         "description": "An all-star revue featuring MGM contract players.",
-        "director": "",
-        "stars": []
+        "director": "Charles Reisner",
+        "stars": [
+            "Christy Cabanne",
+            "Norman Houston",
+            "Conrad Nagel",
+            "Jack Benny",
+            "John Gilbert",
+            "Norma Shearer"
+        ],
+        "votes": "1,673",
+        "gross": ""
     },
     "19": {
         "name": "The Mysterious Island",
@@ -167,8 +298,17 @@
         "runtime": "95 min",
         "genre": "Adventure, Romance, Sci-Fi",
         "description": "On a volcanic island near the kingdom of Hetvia rules Count Dakkar, a benevolent leader and scientist who has eliminated class distinction among the island's inhabitants. Dakkar, his ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Lucien Hubbard",
+        "stars": [
+            "Benjamin Christensen",
+            "Maurice Tourneur",
+            "Lionel Barrymore",
+            "Jacqueline Gadsdon",
+            "Lloyd Hughes",
+            "Montagu Love"
+        ],
+        "votes": "525",
+        "gross": "$0.06M"
     },
     "20": {
         "name": "The Virginian",
@@ -176,8 +316,15 @@
         "runtime": "91 min",
         "genre": "Western",
         "description": "A good-natured cowboy who is romancing the new schoolmarm has a crisis of conscience when he discovers his best friend is engaged in cattle rustling.",
-        "director": "",
-        "stars": []
+        "director": "Victor Fleming",
+        "stars": [
+            "Gary Cooper",
+            "Walter Huston",
+            "Mary Brian",
+            "Richard Arlen"
+        ],
+        "votes": "565",
+        "gross": ""
     },
     "21": {
         "name": "The Greene Murder Case",
@@ -185,8 +332,15 @@
         "runtime": "69 min",
         "genre": "Drama, Mystery",
         "description": "At the end of each year, the extremely wealthy but odious Greene family gets together at the spooky old family castle to establish terms of a will, though they despise each other. This year...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Frank Tuttle",
+        "stars": [
+            "William Powell",
+            "Florence Eldridge",
+            "Ullrich Haupt",
+            "Jean Arthur"
+        ],
+        "votes": "238",
+        "gross": ""
     },
     "22": {
         "name": "The Taming of the Shrew",
@@ -194,8 +348,15 @@
         "runtime": "63 min",
         "genre": "Comedy, Romance",
         "description": "In sixteenth century Padua, Hortensio loves Bianca, the youngest daughter of Baptista. But Baptista will not allow the two to get married until his eldest daughter, the extremely headstrong...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Sam Taylor",
+        "stars": [
+            "Mary Pickford",
+            "Douglas Fairbanks",
+            "Edwin Maxwell",
+            "Joseph Cawthorn"
+        ],
+        "votes": "463",
+        "gross": "$1.10M"
     },
     "23": {
         "name": "White Hell of Pitz Palu",
@@ -203,8 +364,16 @@
         "runtime": "75 min",
         "genre": "Action, Adventure, Drama",
         "description": "A man climbs a 12,000-foot mountain to search for his wife, who was lost on their honeymoon. Another couple makes the dangerous climb with him.",
-        "director": "",
-        "stars": []
+        "director": "Arnold Fanck",
+        "stars": [
+            "Georg Wilhelm Pabst",
+            "Gustav Diessl",
+            "Leni Riefenstahl",
+            "Ernst Petersen",
+            "Ernst Udet"
+        ],
+        "votes": "792",
+        "gross": ""
     },
     "24": {
         "name": "The Trespasser",
@@ -212,8 +381,15 @@
         "runtime": "90 min",
         "genre": "Drama",
         "description": "The trial and tribulations of a strong-willed woman who elopes and gives birth out of wedlock without telling her ex-husband.",
-        "director": "",
-        "stars": []
+        "director": "Edmund Goulding",
+        "stars": [
+            "Gloria Swanson",
+            "Robert Ames",
+            "Purnell Pratt",
+            "Henry B. Walthall"
+        ],
+        "votes": "1,159",
+        "gross": ""
     },
     "25": {
         "name": "Where East Is East",
@@ -221,8 +397,15 @@
         "runtime": "65 min",
         "genre": "Drama, Romance",
         "description": "When an animal trapper in Indo-China finds that his daughter's fianc\u00e9 is being successfully seduced by her estranged mother, he takes appropriate action.",
-        "director": "",
-        "stars": []
+        "director": "Tod Browning",
+        "stars": [
+            "Lon Chaney",
+            "Lupe Velez",
+            "Estelle Taylor",
+            "Lloyd Hughes"
+        ],
+        "votes": "435",
+        "gross": ""
     },
     "26": {
         "name": "On with the Show!",
@@ -230,8 +413,15 @@
         "runtime": "104 min",
         "genre": "Musical, Romance",
         "description": "A musical advertised as the first 100% natural color, all-singing production. The plot concerns a wide-eyed former hatcheck girl who takes the place of a rebellious star.",
-        "director": "",
-        "stars": []
+        "director": "Alan Crosland",
+        "stars": [
+            "Arthur Lake",
+            "Betty Compson",
+            "Joe E. Brown",
+            "Sally O'Neil"
+        ],
+        "votes": "205",
+        "gross": ""
     },
     "27": {
         "name": "Glorifying the American Girl",
@@ -239,8 +429,15 @@
         "runtime": "95 min",
         "genre": "Comedy, Drama, Musical",
         "description": "The rise of a showgirl, Gloria Hughes, culminating in a Ziegfeld extravaganza \"Glorifying the American Girl\".",
-        "director": "",
-        "stars": []
+        "director": "Millard Webb",
+        "stars": [
+            "Mary Eaton",
+            "Eddie Cantor",
+            "Helen Morgan",
+            "Rudy Vallee"
+        ],
+        "votes": "563",
+        "gross": ""
     },
     "28": {
         "name": "The Manxman",
@@ -248,8 +445,15 @@
         "runtime": "110 min",
         "genre": "Drama, Romance",
         "description": "A fisherman and a rising young lawyer, who grew up as brothers, fall in love with the same girl.",
-        "director": "",
-        "stars": []
+        "director": "Alfred Hitchcock",
+        "stars": [
+            "Anny Ondra",
+            "Carl Brisson",
+            "Malcolm Keen",
+            "Randle Ayrton"
+        ],
+        "votes": "2,329",
+        "gross": ""
     },
     "29": {
         "name": "Words and Music",
@@ -257,8 +461,15 @@
         "runtime": "81 min",
         "genre": "Comedy, Music",
         "description": "Phil and Pete compete for Mary's love and also in a contest for best song written by a college student.",
-        "director": "",
-        "stars": []
+        "director": "James Tinling",
+        "stars": [
+            "Lois Moran",
+            "Tom Patricola",
+            "David Percy",
+            "Helen Twelvetrees"
+        ],
+        "votes": "50",
+        "gross": ""
     },
     "30": {
         "name": "Alibi",
@@ -266,8 +477,15 @@
         "runtime": "91 min",
         "genre": "Crime",
         "description": "Chick Williams, a prohibition gangster, rejoins his mob soon after being released from prison. When a policeman is murdered during a robbery, he falls under suspicion. The gangster took ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Roland West",
+        "stars": [
+            "Chester Morris",
+            "Harry Stubbs",
+            "Mae Busch",
+            "Eleanor Griffith"
+        ],
+        "votes": "571",
+        "gross": ""
     },
     "31": {
         "name": "The Black Watch",
@@ -275,8 +493,15 @@
         "runtime": "93 min",
         "genre": "Adventure, Drama",
         "description": "Captain Donald King of the British Army goes to India just as World War I breaks out, convincing his comrades that he is a coward. In reality, he is on a secret mission to rescue British ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "John Ford",
+        "stars": [
+            "Victor McLaglen",
+            "Myrna Loy",
+            "David Torrence",
+            "David Rollins"
+        ],
+        "votes": "236",
+        "gross": ""
     },
     "32": {
         "name": "Show Boat",
@@ -284,8 +509,16 @@
         "runtime": "147 min",
         "genre": "Drama, Musical, Romance",
         "description": "A mostly silent version of Edna Ferber's original novel, with some songs from the musical as a last-minute addition",
-        "director": "",
-        "stars": []
+        "director": "Harry A. Pollard",
+        "stars": [
+            "Arch Heath",
+            "Laura La Plante",
+            "Joseph Schildkraut",
+            "Emily Fitzroy",
+            "Otis Harlan"
+        ],
+        "votes": "206",
+        "gross": ""
     },
     "33": {
         "name": "Bulldog Drummond",
@@ -293,8 +526,15 @@
         "runtime": "90 min",
         "genre": "Drama, Mystery, Thriller",
         "description": "A bored WWI veteran helps out a young woman, whose uncle is being held hostage by embezzlers.",
-        "director": "",
-        "stars": []
+        "director": "F. Richard Jones",
+        "stars": [
+            "Ronald Colman",
+            "Claud Allister",
+            "Lawrence Grant",
+            "Montagu Love"
+        ],
+        "votes": "756",
+        "gross": ""
     },
     "34": {
         "name": "The Four Feathers",
@@ -302,8 +542,17 @@
         "runtime": "81 min",
         "genre": "Adventure, Drama, Romance",
         "description": "When British officer Harry resigns from his regiment, he is labeled a coward by his family and friends. Harry receives four white feathers as a mark of a coward. In order to redeem himself ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Merian C. Cooper",
+        "stars": [
+            "Lothar Mendes",
+            "Ernest B. Schoedsack",
+            "Richard Arlen",
+            "Fay Wray",
+            "Clive Brook",
+            "William Powell"
+        ],
+        "votes": "244",
+        "gross": ""
     },
     "35": {
         "name": "The Divine Lady",
@@ -311,8 +560,15 @@
         "runtime": "99 min",
         "genre": "Drama, History, Romance",
         "description": "The story of the romance between Emma, Lady Hamilton, and British war hero Admiral Horatio Nelson.",
-        "director": "",
-        "stars": []
+        "director": "Frank Lloyd",
+        "stars": [
+            "Corinne Griffith",
+            "Victor Varconi",
+            "H.B. Warner",
+            "Ian Keith"
+        ],
+        "votes": "590",
+        "gross": ""
     },
     "36": {
         "name": "Sally",
@@ -320,8 +576,15 @@
         "runtime": "103 min",
         "genre": "Musical",
         "description": "Sally was an orphan who got her name from the telephone exchange where she was abandoned as a baby. In the orphanage, she discovered the joy of dancing and has been practicing since. ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "John Francis Dillon",
+        "stars": [
+            "Marilyn Miller",
+            "Alexander Gray",
+            "Joe E. Brown",
+            "T. Roy Barnes"
+        ],
+        "votes": "268",
+        "gross": ""
     },
     "37": {
         "name": "Disraeli",
@@ -329,8 +592,15 @@
         "runtime": "90 min",
         "genre": "Biography, Drama, History",
         "description": "Prime Minister of Great Britain Benjamin Disraeli outwits the subterfuge of the Russians and chicanery at home in order to secure the purchase of the Suez Canal.",
-        "director": "",
-        "stars": []
+        "director": "Alfred E. Green",
+        "stars": [
+            "George Arliss",
+            "Doris Lloyd",
+            "David Torrence",
+            "Joan Bennett"
+        ],
+        "votes": "890",
+        "gross": ""
     },
     "38": {
         "name": "Welcome Danger",
@@ -338,8 +608,16 @@
         "runtime": "113 min",
         "genre": "Comedy",
         "description": "Harold Bledsoe, a botany student, is called back home to San Francisco, where his late father had been police chief, to help investigate a crime wave in Chinatown.",
-        "director": "",
-        "stars": []
+        "director": "Clyde Bruckman",
+        "stars": [
+            "Malcolm St. Clair",
+            "Harold Lloyd",
+            "Barbara Kent",
+            "Noah Young",
+            "Charles Middleton"
+        ],
+        "votes": "643",
+        "gross": "$3.10M"
     },
     "39": {
         "name": "The Locked Door",
@@ -347,8 +625,15 @@
         "runtime": "74 min",
         "genre": "Drama, Mystery, Thriller",
         "description": "On her first anniversary Ann Reagan finds that her sister-in-law is involved with a shady character from her own past, and determines to intervene.",
-        "director": "",
-        "stars": []
+        "director": "George Fitzmaurice",
+        "stars": [
+            "Rod La Rocque",
+            "Barbara Stanwyck",
+            "William 'Stage' Boyd",
+            "Betty Bronson"
+        ],
+        "votes": "397",
+        "gross": ""
     },
     "40": {
         "name": "Rio Rita",
@@ -356,8 +641,15 @@
         "runtime": "140 min",
         "genre": "Adventure, Music, Romance",
         "description": "Capt. James Stewart pursues the bandit \"The Kinkajou\" over the Mexican border and falls in love with Rita. He suspects, that her brother is the bandit.",
-        "director": "",
-        "stars": []
+        "director": "Luther Reed",
+        "stars": [
+            "Bebe Daniels",
+            "John Boles",
+            "Bert Wheeler",
+            "Robert Woolsey"
+        ],
+        "votes": "607",
+        "gross": ""
     },
     "41": {
         "name": "Sunnyside Up",
@@ -365,8 +657,15 @@
         "runtime": "121 min",
         "genre": "Comedy, Musical",
         "description": "Molly and Bee, sweet young 'working girls,' live in a cheap room over a New York grocery store. Molly's idol, wealthy Jack Cromwell, lives in a Long Island mansion but is markedly less ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "David Butler",
+        "stars": [
+            "Janet Gaynor",
+            "Charles Farrell",
+            "Marjorie White",
+            "El Brendel"
+        ],
+        "votes": "333",
+        "gross": ""
     },
     "42": {
         "name": "The Great Gabbo",
@@ -374,8 +673,16 @@
         "runtime": "92 min",
         "genre": "Drama, Musical, Romance",
         "description": "An insanely, egocentric ventriloquist, even though he is possessed by his wooden dummy, is in love with a dancer who is in love with another. The dummy gives advice to the ventriloquist.",
-        "director": "",
-        "stars": []
+        "director": "James Cruze",
+        "stars": [
+            "Erich von Stroheim",
+            "Erich von Stroheim",
+            "Donald Douglas",
+            "Betty Compson",
+            "Marjorie Kane"
+        ],
+        "votes": "621",
+        "gross": ""
     },
     "43": {
         "name": "Show of Shows",
@@ -383,8 +690,15 @@
         "runtime": "128 min",
         "genre": "Musical",
         "description": "It's 1929. The studio gave the cinema its voice gave offered the audiences a chance to see their favorite actors and actresses from the silent screen era to see and for the first time can ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "John G. Adolfi",
+        "stars": [
+            "Frank Fay",
+            "William Courtenay",
+            "H.B. Warner",
+            "Hobart Bosworth"
+        ],
+        "votes": "316",
+        "gross": ""
     },
     "44": {
         "name": "Weary River",
@@ -392,8 +706,15 @@
         "runtime": "86 min",
         "genre": "Drama, Romance",
         "description": "A gangster is put in prison, but finds salvation through music while serving his time. Again on the outside, he finds success elusive and temptations abound.",
-        "director": "",
-        "stars": []
+        "director": "Frank Lloyd",
+        "stars": [
+            "Richard Barthelmess",
+            "Betty Compson",
+            "William Holden",
+            "Louis Natheaux"
+        ],
+        "votes": "353",
+        "gross": ""
     },
     "45": {
         "name": "The Letter",
@@ -401,8 +722,15 @@
         "runtime": "65 min",
         "genre": "Drama",
         "description": "Jeanne Eagels plays the bored and restless Leslie Crosbie who turns to another man, Geoffrey Hammond (Herbert Marshall) for attention when neglected by her husband Robert (Reginald Owen). ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Jean de Limur",
+        "stars": [
+            "Jeanne Eagels",
+            "Reginald Owen",
+            "Herbert Marshall",
+            "Irene Browne"
+        ],
+        "votes": "516",
+        "gross": ""
     },
     "46": {
         "name": "Lucky Star",
@@ -410,8 +738,15 @@
         "runtime": "100 min",
         "genre": "Drama, Romance",
         "description": "Mary, a poor farm girl, meets Tim just as word comes that war has been declared. Tim enlists in the army and goes to the battlefields of Europe, where he is wounded and loses the use of his...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
+        "director": "Frank Borzage",
+        "stars": [
+            "Janet Gaynor",
+            "Charles Farrell",
+            "Guinn 'Big Boy' Williams",
+            "Paul Fix"
+        ],
+        "votes": "1,030",
+        "gross": ""
     },
     "47": {
         "name": "The Saturday Night Kid",
@@ -419,8 +754,15 @@
         "runtime": "63 min",
         "genre": "Comedy, Romance",
         "description": "Mayme and sister Janie are salesgirls in Ginsberg's Department Store. Mayme is in love with store clerk Bill, but Janie tries to steal him from her. Hazel, another salesgirl, is Jean Harlow's first credited role.",
-        "director": "",
-        "stars": []
+        "director": "A. Edward Sutherland",
+        "stars": [
+            "Clara Bow",
+            "Jean Arthur",
+            "James Hall",
+            "Edna May Oliver"
+        ],
+        "votes": "163",
+        "gross": ""
     },
     "48": {
         "name": "Jealousy",
@@ -428,8 +770,15 @@
         "runtime": "66 min",
         "genre": "Drama",
         "description": "Add a Plot",
-        "director": "",
-        "stars": []
+        "director": "Jean de Limur",
+        "stars": [
+            "Jeanne Eagels",
+            "Fredric March",
+            "Halliwell Hobbes",
+            "Blanche Le Clair"
+        ],
+        "votes": "",
+        "gross": ""
     },
     "49": {
         "name": "Spite Marriage",
@@ -437,8 +786,16 @@
         "runtime": "76 min",
         "genre": "Comedy",
         "description": "An unimpressive but well intending man is given the chance to marry a popular actress, of whom he has been a hopeless fan. But what he doesn't realize is that he is being used to make the actress' old flame jealous.",
-        "director": "",
-        "stars": []
+        "director": "Edward Sedgwick",
+        "stars": [
+            "Buster Keaton",
+            "Buster Keaton",
+            "Dorothy Sebastian",
+            "Edward Earle",
+            "Leila Hyams"
+        ],
+        "votes": "1,615",
+        "gross": ""
     },
     "50": {
         "name": "Salute",
@@ -446,7 +803,15 @@
         "runtime": "84 min",
         "genre": "Drama, Romance, Sport",
         "description": "West Point Cadet John and Annapolis Midshipman Frank focus their fraternal rivalry on the big Army-Navy football game.",
-        "director": "",
-        "stars": []
+        "director": "David Butler",
+        "stars": [
+            "John Ford",
+            "George O'Brien",
+            "Helen Chandler",
+            "William Janney",
+            "Stepin Fetchit"
+        ],
+        "votes": "143",
+        "gross": ""
     }
 }
