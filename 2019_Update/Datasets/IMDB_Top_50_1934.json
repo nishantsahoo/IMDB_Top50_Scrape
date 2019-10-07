@@ -9,15 +9,33 @@
         "stars": []
     },
     "2": {
-        "name": "The Merry Widow",
+        "name": "Side Streets",
         "certificate": "",
-        "runtime": "99 min",
-        "genre": "Comedy, Musical, Romance",
-        "description": "When a small kingdom's main tax payer leaves for Paris, its king dispatches a dashing count to win back her allegiance.",
+        "runtime": "63 min",
+        "genre": "Drama, Romance",
+        "description": "A destitute sailor secures a job with a spinster who runs a small fur trimming shop. They marry, and soon have a child, but he cheats on her with serious consequences.",
         "director": "",
         "stars": []
     },
     "3": {
+        "name": "Desirable",
+        "certificate": "",
+        "runtime": "68 min",
+        "genre": "Drama, Romance",
+        "description": "A man meets the daughter of his lover and they begin to fall in love.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "The Girl from Missouri",
+        "certificate": "",
+        "runtime": "75 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Chorus girl Eadie is determined to marry a millionaire without sacrificing her virtue.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
         "name": "The Thin Man",
         "certificate": "",
         "runtime": "91 min",
@@ -26,25 +44,16 @@
         "director": "",
         "stars": []
     },
-    "4": {
-        "name": "Babes in Toyland",
-        "certificate": "",
-        "runtime": "77 min",
-        "genre": "Comedy, Family, Fantasy",
-        "description": "Opposing the evil Barnaby, Ollie Dee and Stanley Dum try and fail to pay-off Mother Peep's mortgage and mislead his attempts to marry Little Bo. Enraged, Barnaby's boogeymen are set on Toyland.",
-        "director": "",
-        "stars": []
-    },
-    "5": {
-        "name": "Blue Steel",
-        "certificate": "",
-        "runtime": "54 min",
-        "genre": "Action, Adventure, Drama",
-        "description": "U.S. marshal John Carruthers observes a robbery and Sheriff Jake thinks he may be the culprit. Meanwhile the town's leading citizen is planning to rob everybody blind.",
-        "director": "",
-        "stars": []
-    },
     "6": {
+        "name": "The Black Cat",
+        "certificate": "",
+        "runtime": "65 min",
+        "genre": "Adventure, Crime, Horror",
+        "description": "American honeymooners in Hungary become trapped in the home of a Satan-worshiping priest when the bride is taken there for medical help following a road accident.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
         "name": "The Man Who Knew Too Much",
         "certificate": "",
         "runtime": "75 min",
@@ -53,21 +62,12 @@
         "director": "",
         "stars": []
     },
-    "7": {
-        "name": "Tarzan and His Mate",
-        "certificate": "",
-        "runtime": "104 min",
-        "genre": "Action, Adventure",
-        "description": "The idyllic life of Tarzan and Jane is challenged by men on safari who come seeking ivory, and come seeking Jane as well.",
-        "director": "",
-        "stars": []
-    },
     "8": {
-        "name": "'Neath the Arizona Skies",
+        "name": "Zouzou",
         "certificate": "",
-        "runtime": "52 min",
-        "genre": "Western",
-        "description": "Chris Morrell, the guardian of half-Indian girl Nina, is helping her find her missing white father. so she can cash in on her late mother's oil lease. Outlaw Sam Black is after the girl and...                See full summary\u00a0\u00bb",
+        "runtime": "92 min",
+        "genre": "Crime, Musical, Romance",
+        "description": "Zou Zou tries to help her childhood friend prove his innocence after he's accused of murder.",
         "director": "",
         "stars": []
     },
@@ -81,42 +81,15 @@
         "stars": []
     },
     "10": {
-        "name": "The Man from Utah",
+        "name": "Tarzan and His Mate",
         "certificate": "",
-        "runtime": "55 min",
-        "genre": "Adventure, Crime, Romance",
-        "description": "In a horse-riding rodeo contest bad guys want John Weston to lose. When he doesn't go along they add some insurance: a poisoned needle just under his saddle.",
+        "runtime": "104 min",
+        "genre": "Action, Adventure",
+        "description": "The idyllic life of Tarzan and Jane is challenged by men on safari who come seeking ivory, and come seeking Jane as well.",
         "director": "",
         "stars": []
     },
     "11": {
-        "name": "The Black Cat",
-        "certificate": "",
-        "runtime": "65 min",
-        "genre": "Adventure, Crime, Horror",
-        "description": "American honeymooners in Hungary become trapped in the home of a Satan-worshiping priest when the bride is taken there for medical help following a road accident.",
-        "director": "",
-        "stars": []
-    },
-    "12": {
-        "name": "L'Atalante",
-        "certificate": "",
-        "runtime": "89 min",
-        "genre": "Comedy, Drama, Romance",
-        "description": "Newly married couple Juliette and a ship captain Jean struggle through marriage as they travel on the L'atalante along with the captain's first mate Le p\u00e8re Jules and a cabin boy.",
-        "director": "",
-        "stars": []
-    },
-    "13": {
-        "name": "Imitation of Life",
-        "certificate": "",
-        "runtime": "111 min",
-        "genre": "Drama, Romance",
-        "description": "A struggling widow and her daughter take in a black housekeeper and her fair-skinned daughter; the two women start a successful business, but face familial, identity, and racial issues along the way.",
-        "director": "",
-        "stars": []
-    },
-    "14": {
         "name": "Cleopatra",
         "certificate": "",
         "runtime": "100 min",
@@ -125,16 +98,16 @@
         "director": "",
         "stars": []
     },
-    "15": {
-        "name": "Twentieth Century",
+    "12": {
+        "name": "Imitation of Life",
         "certificate": "",
-        "runtime": "91 min",
-        "genre": "Comedy, Romance",
-        "description": "A flamboyant Broadway impresario who has fallen on hard times tries to get his former lover, now a Hollywood diva, to return and resurrect his failing career.",
+        "runtime": "111 min",
+        "genre": "Drama, Romance",
+        "description": "A struggling widow and her daughter take in a black housekeeper and her fair-skinned daughter; the two women start a successful business, but face familial, identity, and racial issues along the way.",
         "director": "",
         "stars": []
     },
-    "16": {
+    "13": {
         "name": "The Scarlet Empress",
         "certificate": "",
         "runtime": "104 min",
@@ -143,12 +116,39 @@
         "director": "",
         "stars": []
     },
-    "17": {
-        "name": "The Scarlet Pimpernel",
+    "14": {
+        "name": "L'Atalante",
         "certificate": "",
-        "runtime": "97 min",
-        "genre": "Adventure, Drama",
-        "description": "A noblewoman discovers her husband is The Scarlet Pimpernel, a vigilante who rescues aristocrats from the blade of the guillotine.",
+        "runtime": "89 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Newly married couple Juliette and a ship captain Jean struggle through marriage as they travel on the L'atalante along with the captain's first mate Le p\u00e8re Jules and a cabin boy.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "Babes in Toyland",
+        "certificate": "",
+        "runtime": "77 min",
+        "genre": "Comedy, Family, Fantasy",
+        "description": "Opposing the evil Barnaby, Ollie Dee and Stanley Dum try and fail to pay-off Mother Peep's mortgage and mislead his attempts to marry Little Bo. Enraged, Barnaby's Bogeymen are set on Toyland.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "Stand Up and Cheer!",
+        "certificate": "",
+        "runtime": "68 min",
+        "genre": "Comedy, Musical",
+        "description": "President Franklin Roosevelt appoints a theatrical producer as the new Secretary of Amusement in order to cheer up an American public still suffering through the Depression. The new ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "The Gay Divorcee",
+        "certificate": "",
+        "runtime": "107 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "An American woman travels to England to seek a divorce from her absentee husband, where she meets - and falls for - a dashing performer.",
         "director": "",
         "stars": []
     },
@@ -162,29 +162,29 @@
         "stars": []
     },
     "19": {
-        "name": "The Gay Divorcee",
+        "name": "Treasure Island",
         "certificate": "",
-        "runtime": "107 min",
-        "genre": "Comedy, Musical, Romance",
-        "description": "An American woman travels to England to seek a divorce from her absentee husband, where she meets - and falls for - a dashing performer.",
+        "runtime": "110 min",
+        "genre": "Adventure, Family",
+        "description": "Young Jim Hawkins is torn between his loyalty to his benefactors and his affection for lovable rogue Long John Silver in their struggle to recover a buried pirate treasure.",
         "director": "",
         "stars": []
     },
     "20": {
-        "name": "The Lucky Texan",
+        "name": "Anne of Green Gables",
         "certificate": "",
-        "runtime": "55 min",
-        "genre": "Romance, Western",
-        "description": "Jerry Mason, a young Texan, and Jake Benson, an old rancher, become partners and strike it rich with a gold mine. They then find their lives complicated by bad guys and a woman.",
+        "runtime": "78 min",
+        "genre": "Comedy, Drama, Family",
+        "description": "A romantic teenage girl is adopted by a pair of elderly siblings in turn-of-the-century Canada.",
         "director": "",
         "stars": []
     },
     "21": {
-        "name": "The Trail Beyond",
+        "name": "The Lost Patrol",
         "certificate": "",
-        "runtime": "55 min",
-        "genre": "Action, Adventure, Drama",
-        "description": "Rod Drew hunts for a missing girl and finds himself in a fight over a goldmine as well.",
+        "runtime": "73 min",
+        "genre": "Adventure, War",
+        "description": "A dozen British soldiers, lost in a Mesopotamian desert during World War I, are menaced by unseen Arab enemies.",
         "director": "",
         "stars": []
     },
@@ -198,51 +198,33 @@
         "stars": []
     },
     "23": {
-        "name": "Anne of Green Gables",
+        "name": "The Scarlet Pimpernel",
         "certificate": "",
-        "runtime": "78 min",
-        "genre": "Comedy, Drama, Family",
-        "description": "A romantic teenage girl is adopted by a pair of elderly siblings in turn-of-the-century Canada.",
+        "runtime": "97 min",
+        "genre": "Adventure, Drama",
+        "description": "A noblewoman discovers her husband is The Scarlet Pimpernel, a vigilante who rescues aristocrats from the blade of the guillotine.",
         "director": "",
         "stars": []
     },
     "24": {
-        "name": "Judge Priest",
+        "name": "Death Takes a Holiday",
         "certificate": "",
-        "runtime": "80 min",
-        "genre": "Comedy, Drama, Romance",
-        "description": "Judge Priest, a proud Confederate veteran, uses common sense and considerable humanity to dispense justice in a small town in the Post-Bellum Kentucky.",
+        "runtime": "79 min",
+        "genre": "Drama, Fantasy, Romance",
+        "description": "The Grim Reaper (Frederic March) takes the form of a Prince in an attempt to relate to humans and, along the way, also learns what it is to love.",
         "director": "",
         "stars": []
     },
     "25": {
-        "name": "The Case of the Howling Dog",
+        "name": "Little Man, What Now?",
         "certificate": "",
-        "runtime": "74 min",
-        "genre": "Crime, Mystery, Drama",
-        "description": "An agitated and desperate man spares no expense in insisting that Mason represent him against a neighbor's howling dog and act as executor of his will.",
+        "runtime": "98 min",
+        "genre": "Drama",
+        "description": "A young couple struggling against poverty must keep their marriage a secret in order for the husband to keep his job, as his boss doesn't like to hire married men.",
         "director": "",
         "stars": []
     },
     "26": {
-        "name": "Treasure Island",
-        "certificate": "",
-        "runtime": "110 min",
-        "genre": "Adventure, Family",
-        "description": "Young Jim Hawkins is torn between his loyalty to his benefactors and his affection for lovable rogue Long John Silver in their struggle to recover a buried pirate treasure.",
-        "director": "",
-        "stars": []
-    },
-    "27": {
-        "name": "The Tell-Tale Heart",
-        "certificate": "",
-        "runtime": "55 min",
-        "genre": "Horror",
-        "description": "A young man is driven mad by his obsession with the repulsive diseased eye of the old man who cares for him.",
-        "director": "",
-        "stars": []
-    },
-    "28": {
         "name": "It's a Gift",
         "certificate": "",
         "runtime": "68 min",
@@ -251,124 +233,7 @@
         "director": "",
         "stars": []
     },
-    "29": {
-        "name": "The Lost Patrol",
-        "certificate": "",
-        "runtime": "73 min",
-        "genre": "Adventure, War",
-        "description": "A dozen British soldiers, lost in a Mesopotamian desert during World War I, are menaced by unseen Arab enemies.",
-        "director": "",
-        "stars": []
-    },
-    "30": {
-        "name": "Fog Over Frisco",
-        "certificate": "",
-        "runtime": "68 min",
-        "genre": "Crime, Mystery, Thriller",
-        "description": "The lifestyles of Arlene and Valkyr Bradford, half-sisters from a respected San Francisco family, diverge markedly as Arlene takes up with criminals.",
-        "director": "",
-        "stars": []
-    },
-    "31": {
-        "name": "Randy Rides Alone",
-        "certificate": "",
-        "runtime": "52 min",
-        "genre": "Western",
-        "description": "Jailed for murders he didn't commit, Randy escapes only to stumble into the den of the real murderers.",
-        "director": "",
-        "stars": []
-    },
-    "32": {
-        "name": "Bright Eyes",
-        "certificate": "",
-        "runtime": "85 min",
-        "genre": "Comedy, Drama, Family",
-        "description": "An orphaned girl is taken in by a snobbish family at the insistence of their rich, crotchety uncle, even as her devoted aviator godfather fights for custody.",
-        "director": "",
-        "stars": []
-    },
-    "33": {
-        "name": "Death Takes a Holiday",
-        "certificate": "",
-        "runtime": "79 min",
-        "genre": "Drama, Fantasy, Romance",
-        "description": "The Grim Reaper takes the form of a prince in an attempt to relate to humans and, along the way, also learns what it is to love.",
-        "director": "",
-        "stars": []
-    },
-    "34": {
-        "name": "Maniac",
-        "certificate": "",
-        "runtime": "51 min",
-        "genre": "Horror",
-        "description": "A former vaudevillian gifted at impersonation assists a mad scientist in reanimating corpses and soon goes mad himself.",
-        "director": "",
-        "stars": []
-    },
-    "35": {
-        "name": "The Painted Veil",
-        "certificate": "",
-        "runtime": "85 min",
-        "genre": "Drama, Romance",
-        "description": "A wife neglected by her husband, a medical researcher in China, falls in love with a dashing diplomatic attach\u00e9.",
-        "director": "",
-        "stars": []
-    },
-    "36": {
-        "name": "The Star Packer",
-        "certificate": "",
-        "runtime": "53 min",
-        "genre": "Romance, Western",
-        "description": "A gang working for The Shadow is terrorizing the town. John Travers decides to take on the job of sheriff and do something about it.",
-        "director": "",
-        "stars": []
-    },
-    "37": {
-        "name": "The House of Rothschild",
-        "certificate": "",
-        "runtime": "88 min",
-        "genre": "Biography, Drama, History",
-        "description": "The wealthy Rothschild family undergoes prejudice from the anti-Semitic society they live within.",
-        "director": "",
-        "stars": []
-    },
-    "38": {
-        "name": "Hollywood Party",
-        "certificate": "",
-        "runtime": "68 min",
-        "genre": "Animation, Comedy, Musical",
-        "description": "Jimmy Durante is jungle star Schnarzan the Conqueror, but the public is tiring of his fake lions. So when Baron Munchausen comes to town with real man-eating lions, Durante throws a big ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "39": {
-        "name": "Viva Villa!",
-        "certificate": "",
-        "runtime": "115 min",
-        "genre": "Biography, Western",
-        "description": "After enacting revenge on the overseer who murdered his father, Pancho Villa becomes a bandit, earning the respect of the poor by brutally attacking the wealthy.",
-        "director": "",
-        "stars": []
-    },
-    "40": {
-        "name": "The Gay Bride",
-        "certificate": "",
-        "runtime": "80 min",
-        "genre": "Comedy, Crime",
-        "description": "After the adversary of a bootlegger has him killed, he takes up with his widow, a gold-digging chorus girl, but a handsome bodyguard is also determined to win her over.",
-        "director": "",
-        "stars": []
-    },
-    "41": {
-        "name": "Liliom",
-        "certificate": "",
-        "runtime": "118 min",
-        "genre": "Drama, Fantasy",
-        "description": "Two women love the same man in a world of few prospects. In Budapest, Liliom is a \"public figure,\" a rascal who's a carousel barker, loved by the experienced merry-go-round owner and by a ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "42": {
+    "27": {
         "name": "Dames",
         "certificate": "",
         "runtime": "91 min",
@@ -377,34 +242,178 @@
         "director": "",
         "stars": []
     },
-    "43": {
-        "name": "Waltzes from Vienna",
+    "28": {
+        "name": "No Greater Glory",
         "certificate": "",
-        "runtime": "81 min",
-        "genre": "Biography, Music, Romance",
-        "description": "The story of Johann Strauss the elder and younger.",
+        "runtime": "74 min",
+        "genre": "Drama",
+        "description": "Adapted from The Paul Street Boys, an autobiographical novel by Ferenc Molnar, GLORY is an unusually sensitive evocation of the pain of youth and the senselessness of war. Frail Nemecsek, a...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "The Painted Veil",
+        "certificate": "",
+        "runtime": "85 min",
+        "genre": "Drama, Romance",
+        "description": "A wife neglected by her husband, a medical researcher in China, falls in love with a dashing diplomatic attach\u00e9.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "The Merry Widow",
+        "certificate": "",
+        "runtime": "99 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "When a small kingdom's main tax payer leaves for Paris, its king dispatches a dashing count to win back her allegiance.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "Maniac",
+        "certificate": "",
+        "runtime": "51 min",
+        "genre": "Horror",
+        "description": "A former vaudevillian gifted at impersonation assists a mad scientist in reanimating corpses and soon goes mad himself.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "The Lawless Frontier",
+        "certificate": "",
+        "runtime": "59 min",
+        "genre": "Action, Adventure, Romance",
+        "description": "Mexican outlaw Zanti killed John Tobin's parents. John teams up with Dusty, also hurt by Zanti, to get the bad guy.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "Twentieth Century",
+        "certificate": "",
+        "runtime": "91 min",
+        "genre": "Comedy, Romance",
+        "description": "A flamboyant Broadway impresario who has fallen on hard times tries to get his former lover, now a Hollywood diva, to return and resurrect his failing career.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "Kiss and Make-Up",
+        "certificate": "",
+        "runtime": "78 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "Dr. Maurice Lamar is a noted plastic-surgeon who makes his rich clients beautiful, and also makes them. He makes Eve Caron, the wife of Marcel Caron, so satisfied with his skilled hands ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "Judge Priest",
+        "certificate": "",
+        "runtime": "80 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Judge Priest, a proud Confederate veteran, uses common sense and considerable humanity to dispense justice in a small town in the Post-Bellum Kentucky.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "One More River",
+        "certificate": "",
+        "runtime": "88 min",
+        "genre": "Drama, Romance",
+        "description": "A young lady leaves her brutal husband and meets another man aboard a ship.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "'Neath the Arizona Skies",
+        "certificate": "",
+        "runtime": "52 min",
+        "genre": "Action, Adventure, Romance",
+        "description": "A little Indian girl, heiress to a fortune in oil, is kidnapped.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "Bright Eyes",
+        "certificate": "",
+        "runtime": "85 min",
+        "genre": "Comedy, Drama, Family",
+        "description": "An orphaned girl is taken in by a snobbish family at the insistence of their rich, crotchety uncle, even as her devoted aviator godfather fights for custody.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "Nell Gwyn",
+        "certificate": "",
+        "runtime": "85 min",
+        "genre": "History",
+        "description": "King Charles II first meets Nell Gwyn after seeing her do a turn at Drury Lane. They soon become close, the King preferring her feisty irreverent company to that of the aristocratic French ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "The Star Packer",
+        "certificate": "",
+        "runtime": "53 min",
+        "genre": "Action, Mystery, Romance",
+        "description": "A gang working for The Shadow is terrorizing the town. John Travers decides to take on the job of sheriff and do something about it.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Blue Steel",
+        "certificate": "",
+        "runtime": "54 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "U.S. marshal John Carruthers observes a robbery and Sheriff Jake thinks he may be the culprit. Meanwhile the town's leading citizen is planning to rob everybody blind.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "Les mis\u00e9rables",
+        "certificate": "",
+        "runtime": "281 min",
+        "genre": "Drama",
+        "description": "The lives of numerous people over the course of 20 years in 19th century France, weaved together by the story of an ex-convict named Jean Valjean on the run from an obsessive police inspector, who pursues him for only a minor offense.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Evergreen",
+        "certificate": "",
+        "runtime": "94 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "Harriet Green, a beloved and radiant music hall star of the Edwardian era, has a guilty secret: She has a baby daughter, born out of wedlock. Harriet leaves her public and flees to South ...                See full summary\u00a0\u00bb",
         "director": "",
         "stars": []
     },
     "44": {
-        "name": "Little Miss Marker",
+        "name": "Evelyn Prentice",
         "certificate": "",
-        "runtime": "80 min",
-        "genre": "Comedy, Drama, Family",
-        "description": "Little Martha Jane, aka Little Miss Marker (Temple) is left with the bookmaker Sorrowful Jones by her dad as part of a bet on a horserace. Sorrowful (Menjou) and his group of fellow bookies...                See full summary\u00a0\u00bb",
+        "runtime": "79 min",
+        "genre": "Drama, Mystery, Romance",
+        "description": "The neglected wife of a high profile attorney dallies with a unscrupulous womanizer and finds herself involved in blackmail and murder.",
         "director": "",
         "stars": []
     },
     "45": {
-        "name": "Our Daily Bread",
+        "name": "The Lucky Texan",
         "certificate": "",
-        "runtime": "80 min",
-        "genre": "Drama, Romance",
-        "description": "A group of down-on-their-luck workers combine their abilities to make a Gallafentian-style commune... and bread!",
+        "runtime": "55 min",
+        "genre": "Action, Adventure, Romance",
+        "description": "Jerry Mason, a young Texan, and Jake Benson, an old rancher, become partners and strike it rich with a gold mine. They then find their lives complicated by bad guys and a woman.",
         "director": "",
         "stars": []
     },
     "46": {
+        "name": "Gambling Lady",
+        "certificate": "",
+        "runtime": "66 min",
+        "genre": "Drama, Mystery",
+        "description": "Lady Lee, gambler's daughter, plies her trade while pondering the proposal of a social-register suitor.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
         "name": "Moulin Rouge",
         "certificate": "",
         "runtime": "70 min",
@@ -413,39 +422,30 @@
         "director": "",
         "stars": []
     },
-    "47": {
-        "name": "Baby, Take a Bow",
-        "certificate": "PG",
-        "runtime": "76 min",
-        "genre": "Comedy, Drama, Family",
-        "description": "Eddie Ellison is an ex-con who spent time in Sing-Sing prison. Kay marries him as soon as he serves his time. Five years later, Eddie and his ex-convict buddy Larry, have both gone straight...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
     "48": {
-        "name": "Born to Be Bad",
+        "name": "Wonder Bar",
         "certificate": "",
-        "runtime": "62 min",
-        "genre": "Drama, Romance",
-        "description": "Letty, a young woman who ended up pregnant, unmarried and on the streets at fifteen is bitter and determined that her child will not grow up to be taken advantage of. Letty teaches her ...                See full summary\u00a0\u00bb",
+        "runtime": "84 min",
+        "genre": "Crime, Drama, Musical",
+        "description": "Harry and Inez are a dance team at the Wonder Bar. Inez loves Harry, but he is in love with Liane, the wife of a wealthy business man. Al Wonder and the conductor/singer Tommy are in love ...                See full summary\u00a0\u00bb",
         "director": "",
         "stars": []
     },
     "49": {
-        "name": "Operator 13",
+        "name": "Waltzes from Vienna",
         "certificate": "",
-        "runtime": "85 min",
-        "genre": "Drama, History, Romance",
-        "description": "Union spy Gail Loveless impersonates a black maid in the early days of the Civil War, but complications arise when she falls in love with a Confederate officer.",
+        "runtime": "81 min",
+        "genre": "Biography, Music, Romance",
+        "description": "The story of Johann Strauss the elder and younger.",
         "director": "",
         "stars": []
     },
     "50": {
-        "name": "Midnight",
+        "name": "Fashions of 1934",
         "certificate": "",
-        "runtime": "76 min",
-        "genre": "Crime, Drama, Film-Noir",
-        "description": "The foreman of a jury asks questions that send a woman to the electric chair for a murder committed in the heat of passion. On the night of the execution, his actions come back to haunt him.",
+        "runtime": "78 min",
+        "genre": "Comedy, Drama, Musical",
+        "description": "When the Manhattan investment firm of Sherwood Nash goes broke, he joins forces with his partner Snap and fashion designer Lynn Mason to provide discount shops with cheap copies of Paris couture dresses.",
         "director": "",
         "stars": []
     }

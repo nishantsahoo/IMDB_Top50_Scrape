@@ -1,59 +1,5 @@
 {
     "1": {
-        "name": "Vertigo",
-        "certificate": "PG",
-        "runtime": "128 min",
-        "genre": "Mystery, Romance, Thriller",
-        "description": "A former police detective juggles wrestling with his personal demons and becoming obsessed with a hauntingly beautiful woman.",
-        "director": "",
-        "stars": []
-    },
-    "2": {
-        "name": "Touch of Evil",
-        "certificate": "PG-13",
-        "runtime": "95 min",
-        "genre": "Crime, Drama, Film-Noir",
-        "description": "A stark, perverse story of murder, kidnapping, and police corruption in a Mexican border town.",
-        "director": "",
-        "stars": []
-    },
-    "3": {
-        "name": "The Badlanders",
-        "certificate": "",
-        "runtime": "85 min",
-        "genre": "Romance, Western",
-        "description": "Released from the Yuma Prison in 1898, ex-killer John McBain wants to go straight while ex-robber Peter Van Hoek seeks revenge but their destinies eventually converge in the mining town of Prescott.",
-        "director": "",
-        "stars": []
-    },
-    "4": {
-        "name": "Cat on a Hot Tin Roof",
-        "certificate": "",
-        "runtime": "108 min",
-        "genre": "Drama",
-        "description": "Brick, an alcoholic ex-football player, drinks his days away and resists the affections of his wife, Maggie. His reunion with his father, Big Daddy, who is dying of cancer, jogs a host of memories and revelations for both father and son.",
-        "director": "",
-        "stars": []
-    },
-    "5": {
-        "name": "The Old Man and the Sea",
-        "certificate": "",
-        "runtime": "86 min",
-        "genre": "Adventure, Drama",
-        "description": "An old Cuban fisherman's dry spell is broken when he hooks a gigantic fish that drags him out to sea. Based on Ernest Hemingway's story.",
-        "director": "",
-        "stars": []
-    },
-    "6": {
-        "name": "The Big Country",
-        "certificate": "",
-        "runtime": "166 min",
-        "genre": "Romance, Western",
-        "description": "A New Englander arrives in the Old West, where he becomes embroiled in a feud between two families over a valuable patch of land.",
-        "director": "",
-        "stars": []
-    },
-    "7": {
         "name": "Bell Book and Candle",
         "certificate": "",
         "runtime": "106 min",
@@ -62,79 +8,16 @@
         "director": "",
         "stars": []
     },
-    "8": {
-        "name": "The Vikings",
-        "certificate": "",
-        "runtime": "116 min",
-        "genre": "Action, Adventure",
-        "description": "A slave and a Viking prince fight for the love of a captive princess.",
+    "2": {
+        "name": "Vertigo",
+        "certificate": "PG",
+        "runtime": "128 min",
+        "genre": "Mystery, Romance, Thriller",
+        "description": "A former police detective juggles wrestling with his personal demons and becoming obsessed with a hauntingly beautiful woman.",
         "director": "",
         "stars": []
     },
-    "9": {
-        "name": "South Pacific",
-        "certificate": "",
-        "runtime": "157 min",
-        "genre": "Musical, Romance, War",
-        "description": "On a South Pacific island during World War II, love blooms between a young nurse and a secretive Frenchman who's being courted for a dangerous military mission.",
-        "director": "",
-        "stars": []
-    },
-    "10": {
-        "name": "Mon oncle",
-        "certificate": "",
-        "runtime": "116 min",
-        "genre": "Comedy",
-        "description": "Monsieur Hulot visits the technology-driven world of his sister, brother-in-law, and nephew, but he can't quite fit into the surroundings.",
-        "director": "",
-        "stars": []
-    },
-    "11": {
-        "name": "Houseboat",
-        "certificate": "",
-        "runtime": "110 min",
-        "genre": "Comedy, Drama, Family",
-        "description": "A widower, his three young children, and a bombshell nanny get to know each other better when circumstances have them living together aboard a badly neglected houseboat.",
-        "director": "",
-        "stars": []
-    },
-    "12": {
-        "name": "Cowboy",
-        "certificate": "",
-        "runtime": "92 min",
-        "genre": "Western",
-        "description": "An idealistic tenderfoot Chicago hotel clerk is taken on a cattle-drive to Mexico by famous trail boss Tom Reece but discovers that cowboy life isn't what he expected.",
-        "director": "",
-        "stars": []
-    },
-    "13": {
-        "name": "Gigi",
-        "certificate": "G",
-        "runtime": "115 min",
-        "genre": "Comedy, Musical, Romance",
-        "description": "Weary of the conventions of Parisian society, a rich playboy and a youthful courtesan-in-training enjoy a platonic friendship, but it may not stay platonic for long.",
-        "director": "",
-        "stars": []
-    },
-    "14": {
-        "name": "The 7th Voyage of Sinbad",
-        "certificate": "",
-        "runtime": "88 min",
-        "genre": "Action, Adventure, Family",
-        "description": "When a princess is shrunken by an evil wizard, Sinbad must undertake a quest to an island of monsters to cure her and prevent a war.",
-        "director": "",
-        "stars": []
-    },
-    "15": {
-        "name": "The Fly",
-        "certificate": "",
-        "runtime": "94 min",
-        "genre": "Drama, Horror, Sci-Fi",
-        "description": "A scientist has a horrific accident when he tries to use his newly invented teleportation device.",
-        "director": "",
-        "stars": []
-    },
-    "16": {
+    "3": {
         "name": "The Blob",
         "certificate": "",
         "runtime": "86 min",
@@ -143,34 +26,88 @@
         "director": "",
         "stars": []
     },
-    "17": {
-        "name": "The Long, Hot Summer",
+    "4": {
+        "name": "Dracula",
         "certificate": "",
-        "runtime": "115 min",
+        "runtime": "82 min",
+        "genre": "Horror",
+        "description": "Jonathan Harker begets the ire of Count Dracula after he accepts a job at the vampire's castle under false pretenses, forcing his colleague Dr. Van Helsing to destroy the predatory villain when he targets Harker's loved ones.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "Cat on a Hot Tin Roof",
+        "certificate": "",
+        "runtime": "108 min",
         "genre": "Drama",
-        "description": "Accused barn burner and con man Ben Quick arrives in a small Mississippi town and quickly ingratiates himself with its richest family, the Varners.",
+        "description": "Brick, an alcoholic ex-football player, drinks his days away and resists the affections of his wife, Maggie. His reunion with his father, Big Daddy, who is dying of cancer, jogs a host of memories and revelations for both father and son.",
         "director": "",
         "stars": []
     },
-    "18": {
-        "name": "The Defiant Ones",
-        "certificate": "",
-        "runtime": "96 min",
-        "genre": "Crime, Drama",
-        "description": "Two escaped convicts chained together, white and black, must learn to get along in order to elude capture.",
+    "6": {
+        "name": "Touch of Evil",
+        "certificate": "PG-13",
+        "runtime": "95 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "A stark, perverse story of murder, kidnapping, and police corruption in a Mexican border town.",
         "director": "",
         "stars": []
     },
-    "19": {
-        "name": "Saddle the Wind",
+    "7": {
+        "name": "The Fly",
         "certificate": "",
-        "runtime": "84 min",
+        "runtime": "94 min",
+        "genre": "Drama, Horror, Sci-Fi",
+        "description": "A scientist has a horrific accident when he tries to use his newly invented teleportation device.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "South Pacific",
+        "certificate": "",
+        "runtime": "157 min",
+        "genre": "Musical, Romance, War",
+        "description": "On a South Pacific island during World War II, love blooms between a young nurse and a secretive Frenchman who's being courted for a dangerous military mission.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "Ride a Crooked Trail",
+        "certificate": "",
+        "runtime": "88 min",
+        "genre": "Romance, Western",
+        "description": "Fugitive bank robber Joe Maybe steals the identity of a marshal and rides into a town whose judge asks Joe to act as town marshal but an old flame almost betrays his real identity forcing Joe to claim she's his wife.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "The Big Country",
+        "certificate": "",
+        "runtime": "166 min",
+        "genre": "Romance, Western",
+        "description": "A New Englander arrives in the Old West, where he becomes embroiled in a feud between two families over a valuable patch of land.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "Cole Younger, Gunfighter",
+        "certificate": "",
+        "runtime": "78 min",
         "genre": "Western",
-        "description": "Steve Sinclair is a world-weary former gunslinger, now living as a peaceful rancher. Things go wrong when his wild younger brother Tony arrives on the scene with his new gun and pending bride and former saloon girl Joan Blake.",
+        "description": "Notorious outlaw Cole Younger is the only witness who can clear Kit Caswell of false murder charges leveled against him by jealous rival Jan Merlin who covets Caswell's girl, Abby Dalton.",
         "director": "",
         "stars": []
     },
-    "20": {
+    "12": {
+        "name": "The Vikings",
+        "certificate": "",
+        "runtime": "116 min",
+        "genre": "Action, Adventure, History",
+        "description": "A slave and a Viking prince fight for the love of a captive princess.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
         "name": "Kakushi-toride no san-akunin",
         "certificate": "",
         "runtime": "139 min",
@@ -179,169 +116,7 @@
         "director": "",
         "stars": []
     },
-    "21": {
-        "name": "Dracula",
-        "certificate": "",
-        "runtime": "82 min",
-        "genre": "Horror",
-        "description": "Jonathan Harker begets the ire of Count Dracula after he accepts a job at the vampire's castle under false pretenses.",
-        "director": "",
-        "stars": []
-    },
-    "22": {
-        "name": "Ascenseur pour l'\u00e9chafaud",
-        "certificate": "",
-        "runtime": "91 min",
-        "genre": "Crime, Drama, Thriller",
-        "description": "A self-assured businessman murders his employer, the husband of his mistress, which unintentionally provokes an ill-fated chain of events.",
-        "director": "",
-        "stars": []
-    },
-    "23": {
-        "name": "A Night to Remember",
-        "certificate": "",
-        "runtime": "123 min",
-        "genre": "Biography, Drama, History",
-        "description": "On its maiden voyage in April 1912, the supposedly unsinkable RMS Titanic hits an iceberg in the Atlantic Ocean.",
-        "director": "",
-        "stars": []
-    },
-    "24": {
-        "name": "The Sheriff of Fractured Jaw",
-        "certificate": "",
-        "runtime": "103 min",
-        "genre": "Comedy, Romance, Western",
-        "description": "After inadvertently stopping an Indian attack on his stagecoach while traveling in the American West, an English gentleman finds himself appointed sheriff of a nearby town.",
-        "director": "",
-        "stars": []
-    },
-    "25": {
-        "name": "The Young Lions",
-        "certificate": "",
-        "runtime": "167 min",
-        "genre": "Action, Drama, War",
-        "description": "WW2 drama that follows the lives of three young men, one German and two Americans, during wartime.",
-        "director": "",
-        "stars": []
-    },
-    "26": {
-        "name": "Auntie Mame",
-        "certificate": "",
-        "runtime": "143 min",
-        "genre": "Comedy, Drama, Romance",
-        "description": "An orphan goes to live with his free-spirited aunt. Conflict ensues when the executor of his father's estate objects to the aunt's lifestyle.",
-        "director": "",
-        "stars": []
-    },
-    "27": {
-        "name": "Separate Tables",
-        "certificate": "",
-        "runtime": "100 min",
-        "genre": "Drama, Romance",
-        "description": "The stories of several people are told as they stay at a seaside hotel in Bournemouth which features dining at \"Separate Tables.\"",
-        "director": "",
-        "stars": []
-    },
-    "28": {
-        "name": "Indiscreet",
-        "certificate": "",
-        "runtime": "100 min",
-        "genre": "Comedy, Romance",
-        "description": "An actress who has given up on love meets a suave banker and begins a flirtation with him...even though he's already married.",
-        "director": "",
-        "stars": []
-    },
-    "29": {
-        "name": "The Last Hurrah",
-        "certificate": "",
-        "runtime": "121 min",
-        "genre": "Comedy, Drama",
-        "description": "Frank Skeffington is an old Irish-American political boss, running for re-election as mayor of a U.S. town for the last time.",
-        "director": "",
-        "stars": []
-    },
-    "30": {
-        "name": "The Law and Jake Wade",
-        "certificate": "",
-        "runtime": "86 min",
-        "genre": "Drama, Romance, Western",
-        "description": "Marshal Jake Wade aids outlaw Clint Hollister escape jail but Clint wants to know where Wade hid an old hold-up loot taken while both men were outlaws in the same gang.",
-        "director": "",
-        "stars": []
-    },
-    "31": {
-        "name": "Shadows",
-        "certificate": "",
-        "runtime": "81 min",
-        "genre": "Drama, Romance",
-        "description": "Cassavetes' jazz-scored improvisational film explores interracial friendships and relationships in Beat-Era (1950s) New York City.",
-        "director": "",
-        "stars": []
-    },
-    "32": {
-        "name": "The Barbarian and the Geisha",
-        "certificate": "",
-        "runtime": "105 min",
-        "genre": "Adventure, Drama, History",
-        "description": "In 1856, the first U.S. Consul General to Japan encounters the hostility of the local authorities and the love of a young geisha.",
-        "director": "",
-        "stars": []
-    },
-    "33": {
-        "name": "The Brothers Karamazov",
-        "certificate": "",
-        "runtime": "145 min",
-        "genre": "Drama, Romance",
-        "description": "Drama based on Russian writer Fyodor Dostoevsky's homonymous novel about the proud Karamazov family in 1870s Russia.",
-        "director": "",
-        "stars": []
-    },
-    "34": {
-        "name": "Run Silent Run Deep",
-        "certificate": "",
-        "runtime": "93 min",
-        "genre": "Action, Drama, War",
-        "description": "A U.S. sub commander, obsessed with sinking a certain Japanese ship, butts heads with his first officer and crew.",
-        "director": "",
-        "stars": []
-    },
-    "35": {
-        "name": "King Creole",
-        "certificate": "PG",
-        "runtime": "116 min",
-        "genre": "Crime, Drama, Musical",
-        "description": "A rebellious young man takes a job as a nightclub singer to make ends meet, attracting the attention of a local crime boss.",
-        "director": "",
-        "stars": []
-    },
-    "36": {
-        "name": "Cattle Empire",
-        "certificate": "",
-        "runtime": "83 min",
-        "genre": "Action, Adventure, Drama",
-        "description": "Released from prison, a trail boss is solicited by rival cattle barons to drive their respective cattle herds to Fort Clemson.",
-        "director": "",
-        "stars": []
-    },
-    "37": {
-        "name": "Bonjour tristesse",
-        "certificate": "",
-        "runtime": "94 min",
-        "genre": "Drama, Romance",
-        "description": "Cecile, decadent young girl who lives with her rich playboy father Raymond. When Anne, Raymond's old love interest, comes to Raymond's villa, Cecile is afraid for her way of life.",
-        "director": "",
-        "stars": []
-    },
-    "38": {
-        "name": "Thunder Road",
-        "certificate": "",
-        "runtime": "92 min",
-        "genre": "Crime, Drama, Film-Noir",
-        "description": "A veteran comes home from the Korean War to the mountains and takes over the family moonshining business. He has to battle big-city gangsters who are trying to take over the business and the police who are trying to put him in prison.",
-        "director": "",
-        "stars": []
-    },
-    "39": {
+    "14": {
         "name": "Damn Yankees",
         "certificate": "",
         "runtime": "111 min",
@@ -350,16 +125,124 @@
         "director": "",
         "stars": []
     },
-    "40": {
-        "name": "Party Girl",
-        "certificate": "",
-        "runtime": "99 min",
-        "genre": "Crime, Drama, Film-Noir",
-        "description": "Lawyer Tommy Farrell is a defender of crooks. Vicki Gaye encourages him to go straight, but mob king Rico Angelo insists otherwise.",
+    "15": {
+        "name": "Gigi",
+        "certificate": "G",
+        "runtime": "115 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "Weary of the conventions of Parisian society, a rich playboy and a youthful courtesan-in-training enjoy a platonic friendship, but it may not stay platonic for long.",
         "director": "",
         "stars": []
     },
-    "41": {
+    "16": {
+        "name": "The Bravados",
+        "certificate": "",
+        "runtime": "98 min",
+        "genre": "Drama, Western",
+        "description": "A man is chasing four outlaws who killed his wife and finds them in a small town's jail but they escape to Mexico.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "A Night to Remember",
+        "certificate": "",
+        "runtime": "123 min",
+        "genre": "Biography, Drama, History",
+        "description": "On its maiden voyage in April 1912, the supposedly unsinkable RMS Titanic hits an iceberg in the Atlantic Ocean.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "The Whole Truth",
+        "certificate": "",
+        "runtime": "84 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "A movie executive is framed for the murder of his beautiful promiscuous leading lady by her jealous, estranged husband.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "The 7th Voyage of Sinbad",
+        "certificate": "",
+        "runtime": "88 min",
+        "genre": "Action, Adventure, Family",
+        "description": "When a princess is shrunken by an evil wizard, Sinbad must undertake a quest to an island of monsters to cure her and prevent a war.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "The Defiant Ones",
+        "certificate": "",
+        "runtime": "96 min",
+        "genre": "Crime, Drama",
+        "description": "Two escaped convicts chained together, white and black, must learn to get along in order to elude capture.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "Mon oncle",
+        "certificate": "",
+        "runtime": "116 min",
+        "genre": "Comedy",
+        "description": "Monsieur Hulot visits the technology-driven world of his sister, brother-in-law, and nephew, but he can't quite fit into the surroundings.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "The Long, Hot Summer",
+        "certificate": "",
+        "runtime": "115 min",
+        "genre": "Drama",
+        "description": "Accused barn burner and con man Ben Quick arrives in a small Mississippi town and quickly ingratiates himself with its richest family, the Varners.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "Ascenseur pour l'\u00e9chafaud",
+        "certificate": "",
+        "runtime": "91 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "A self-assured businessman murders his employer, the husband of his mistress, which unintentionally provokes an ill-fated chain of events.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "Six-Five Special",
+        "certificate": "",
+        "runtime": "85 min",
+        "genre": "Musical",
+        "description": "A young singer on a train bound for London finds herself among a group of famous musicians and performers.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "Auntie Mame",
+        "certificate": "",
+        "runtime": "143 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "An orphan goes to live with his free-spirited aunt. Conflict ensues when the executor of his father's estate objects to the aunt's lifestyle.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "The Young Lions",
+        "certificate": "",
+        "runtime": "167 min",
+        "genre": "Action, Drama, War",
+        "description": "WW2 drama that follows the lives of three young men, one German and two Americans, during wartime.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "King Creole",
+        "certificate": "PG",
+        "runtime": "116 min",
+        "genre": "Crime, Drama, Musical",
+        "description": "A rebellious young man takes a job as a nightclub singer to make ends meet, attracting the attention of a local crime boss.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
         "name": "Attack of the 50 Foot Woman",
         "certificate": "",
         "runtime": "65 min",
@@ -368,61 +251,16 @@
         "director": "",
         "stars": []
     },
-    "42": {
-        "name": "Man of the West",
+    "29": {
+        "name": "Houseboat",
         "certificate": "",
-        "runtime": "100 min",
-        "genre": "Drama, Romance, Western",
-        "description": "A reformed outlaw becomes stranded after an aborted train robbery with two other passengers and is forced to rejoin his old outlaw band.",
+        "runtime": "110 min",
+        "genre": "Comedy, Drama, Family",
+        "description": "A widower, his three young children, and a bombshell nanny get to know each other better when circumstances have them living together aboard a badly neglected houseboat.",
         "director": "",
         "stars": []
     },
-    "43": {
-        "name": "It! The Terror from Beyond Space",
-        "certificate": "",
-        "runtime": "69 min",
-        "genre": "Horror, Sci-Fi",
-        "description": "The first manned expedition to Mars is decimated by an unknown life form which stows away on the rescue ship.",
-        "director": "",
-        "stars": []
-    },
-    "44": {
-        "name": "I Want to Live!",
-        "certificate": "",
-        "runtime": "120 min",
-        "genre": "Biography, Crime, Drama",
-        "description": "A prostitute, sentenced to death for murder, pleads her innocence.",
-        "director": "",
-        "stars": []
-    },
-    "45": {
-        "name": "Popi\u00f3l i diament",
-        "certificate": "",
-        "runtime": "103 min",
-        "genre": "Drama, Romance, War",
-        "description": "As WWII and the German occupation ends, the Polish resistance and the Russian forces turn on each other in an attempt to take over leadership in Communist Poland.",
-        "director": "",
-        "stars": []
-    },
-    "46": {
-        "name": "Some Came Running",
-        "certificate": "",
-        "runtime": "137 min",
-        "genre": "Drama, Romance",
-        "description": "Dave Hirsch, a writer and an army veteran winds up in his small Indiana hometown, to the dismay of his respectable older brother. He meets and befriends various different characters and tries to figure out what to do with his life.",
-        "director": "",
-        "stars": []
-    },
-    "47": {
-        "name": "Tom Thumb",
-        "certificate": "",
-        "runtime": "98 min",
-        "genre": "Family, Fantasy, Musical",
-        "description": "Follows a boy, no bigger than a thumb, who manages to outwit two thieves determined to make a fortune from him.",
-        "director": "",
-        "stars": []
-    },
-    "48": {
+    "30": {
         "name": "Teacher's Pet",
         "certificate": "",
         "runtime": "120 min",
@@ -431,21 +269,183 @@
         "director": "",
         "stars": []
     },
-    "49": {
-        "name": "Dunkirk",
+    "31": {
+        "name": "Some Came Running",
         "certificate": "",
-        "runtime": "135 min",
-        "genre": "Action, Drama, History",
-        "description": "A dramatization of the British Expeditionary Force's 1940 retreat to the beaches of France and the extraordinary seaborne evacuation that saved it from utter destruction by Nazi Germany.",
+        "runtime": "137 min",
+        "genre": "Drama, Romance",
+        "description": "Dave Hirsch, a writer and an army veteran winds up in his small Indiana hometown, to the dismay of his respectable older brother. He meets and befriends various different characters and tries to figure out what to do with his life.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "Indiscreet",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Comedy, Romance",
+        "description": "An actress who has given up on love meets a suave banker and begins a flirtation with him...even though he's already married.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "Separate Tables",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Drama, Romance",
+        "description": "The stories of several people are told as they stay at a seaside hotel in Bournemouth which features dining at \"Separate Tables.\"",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "It! The Terror from Beyond Space",
+        "certificate": "",
+        "runtime": "69 min",
+        "genre": "Horror, Sci-Fi, Thriller",
+        "description": "The first manned expedition to Mars is decimated by an unknown life form which stows away on the rescue ship.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "Shadows",
+        "certificate": "",
+        "runtime": "81 min",
+        "genre": "Drama, Romance",
+        "description": "Cassavetes' jazz-scored improvisational film explores interracial friendships and relationships in Beat-Era (1950s) New York City.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "Bonjour tristesse",
+        "certificate": "",
+        "runtime": "94 min",
+        "genre": "Drama, Romance",
+        "description": "Cecile, decadent young girl who lives with her rich playboy father Raymond. When Anne, Raymond's old love interest, comes to Raymond's villa, Cecile is afraid for her way of life.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "I soliti ignoti",
+        "certificate": "",
+        "runtime": "106 min",
+        "genre": "Comedy, Crime",
+        "description": "A motley quintet of inept small-time thieves attempt the burglary of a local pawnshop in this Italian farce.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "Queen of Outer Space",
+        "certificate": "",
+        "runtime": "80 min",
+        "genre": "Adventure, Fantasy, Sci-Fi",
+        "description": "American astronauts are drawn by a mysterious force to the planet Venus, which they find to be inhabited only by beautiful women and their despotic queen.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "Run Silent Run Deep",
+        "certificate": "",
+        "runtime": "93 min",
+        "genre": "Action, Drama, War",
+        "description": "A U.S. sub commander, obsessed with sinking a certain Japanese ship, butts heads with his first officer and crew.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Popi\u00f3l i diament",
+        "certificate": "",
+        "runtime": "103 min",
+        "genre": "Drama, Romance, War",
+        "description": "As WWII and the German occupation ends, the Polish resistance and the Russian forces turn on each other in an attempt to take over leadership in Communist Poland.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "The Old Man and the Sea",
+        "certificate": "",
+        "runtime": "86 min",
+        "genre": "Adventure, Drama",
+        "description": "An old Cuban fisherman's dry spell is broken when he hooks a gigantic fish that drags him out to sea. Based on Ernest Hemingway's story.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "Rally 'Round the Flag, Boys!",
+        "certificate": "",
+        "runtime": "106 min",
+        "genre": "Comedy",
+        "description": "All about the citizens of Putnam's Landing and their reactions to an army missile base in their back yard.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Thunder Road",
+        "certificate": "",
+        "runtime": "92 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "A veteran comes home from the Korean War to the mountains and takes over the family moonshining business. He has to battle big-city gangsters who are trying to take over the business and the police who are trying to put him in prison.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "Soldaterkammerater",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Comedy",
+        "description": "Every year, thousands of young men are summoned to undergo an education where completely different demands are made than in civilian life. The soldiers must be in perfect physical form and they must learn to deal with modern weapons.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "The Trollenberg Terror",
+        "certificate": "",
+        "runtime": "84 min",
+        "genre": "Horror, Sci-Fi",
+        "description": "A series of decapitations on a Swiss mountainside appear to be connected to a mysterious radioactive cloud.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "The Brothers Karamazov",
+        "certificate": "",
+        "runtime": "145 min",
+        "genre": "Drama, Romance",
+        "description": "Drama based on Russian writer Fyodor Dostoevsky's homonymous novel about the proud Karamazov family in 1870s Russia.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "The Revenge of Frankenstein",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Horror, Sci-Fi",
+        "description": "Baron Frankenstein escapes from the guillotine and goes to Germany. There, he names himself Dr. Stein and plans to restart his experiments by using parts of dead bodies.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "The Inn of the Sixth Happiness",
+        "certificate": "",
+        "runtime": "158 min",
+        "genre": "Biography, Drama, War",
+        "description": "All her life Englishwoman Gladys Aylward knew that China was the place where she belonged. Not qualified to be sent there as a missionary, Gladys works as a domestic to earn the money to ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "Man of the West",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Drama, Romance, Western",
+        "description": "A reformed outlaw becomes stranded after an aborted train robbery with two other passengers and is forced to rejoin his old outlaw band.",
         "director": "",
         "stars": []
     },
     "50": {
-        "name": "Ansiktet",
+        "name": "Violent Playground",
         "certificate": "",
-        "runtime": "101 min",
-        "genre": "Comedy, Drama",
-        "description": "A traveling magician and his assistants are persecuted by authorities in Sweden of XIX century. Their captures, however, didn't bring victory to those in power.",
+        "runtime": "108 min",
+        "genre": "Drama, Crime",
+        "description": "Struggle between a Liverpool Juvenile Liaison officer and a young and dangerous pyromaniac.",
         "director": "",
         "stars": []
     }

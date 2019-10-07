@@ -1,32 +1,5 @@
 {
     "1": {
-        "name": "Raiders of the Lost Ark",
-        "certificate": "PG",
-        "runtime": "115 min",
-        "genre": "Action, Adventure",
-        "description": "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before Adolf Hitler's Nazis can obtain its awesome powers.",
-        "director": "",
-        "stars": []
-    },
-    "2": {
-        "name": "Excalibur",
-        "certificate": "PG",
-        "runtime": "140 min",
-        "genre": "Adventure, Drama, Fantasy",
-        "description": "Merlin the magician helps Arthur Pendragon unite the Britons around the Round Table of Camelot, even as dark forces conspire to tear it apart.",
-        "director": "",
-        "stars": []
-    },
-    "3": {
-        "name": "Escape from New York",
-        "certificate": "",
-        "runtime": "99 min",
-        "genre": "Action, Sci-Fi",
-        "description": "In 1997, when the U.S. president crashes into Manhattan, now a giant maximum security prison, a convicted bank robber is sent in to rescue him.",
-        "director": "",
-        "stars": []
-    },
-    "4": {
         "name": "The Evil Dead",
         "certificate": "NC-17",
         "runtime": "85 min",
@@ -35,25 +8,16 @@
         "director": "",
         "stars": []
     },
-    "5": {
-        "name": "Das Boot",
-        "certificate": "R",
-        "runtime": "149 min",
-        "genre": "Adventure, Drama, Thriller",
-        "description": "The claustrophobic world of a WWII German U-boat; boredom, filth and sheer terror.",
+    "2": {
+        "name": "Raiders of the Lost Ark",
+        "certificate": "PG",
+        "runtime": "115 min",
+        "genre": "Action, Adventure",
+        "description": "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before Adolf Hitler's Nazis can obtain its awesome powers.",
         "director": "",
         "stars": []
     },
-    "6": {
-        "name": "On Golden Pond",
-        "certificate": "",
-        "runtime": "109 min",
-        "genre": "Drama",
-        "description": "Norman is a curmudgeon with an estranged relationship with his daughter Chelsea. At Golden Pond, he and his wife nevertheless agree to care for Billy, the son of Chelsea's new boyfriend, and a most unexpected relationship blooms.",
-        "director": "",
-        "stars": []
-    },
-    "7": {
+    "3": {
         "name": "An American Werewolf in London",
         "certificate": "",
         "runtime": "97 min",
@@ -62,25 +26,52 @@
         "director": "",
         "stars": []
     },
+    "4": {
+        "name": "Absence of Malice",
+        "certificate": "",
+        "runtime": "116 min",
+        "genre": "Drama, Romance, Thriller",
+        "description": "When a prosecutor leaks a false story that a liquor warehouse owner is involved in the murder of a union head, the man's life begins to unravel.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "Excalibur",
+        "certificate": "PG",
+        "runtime": "140 min",
+        "genre": "Adventure, Drama, Fantasy",
+        "description": "Merlin the magician helps Arthur Pendragon unite the Britons around the Round Table of Camelot, even as dark forces conspire to tear it apart.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "Halloween II",
+        "certificate": "",
+        "runtime": "92 min",
+        "genre": "Horror",
+        "description": "While Sheriff Brackett and Dr. Loomis hunt for Michael Myers, a traumatized Laurie is rushed to hospital, and the serial killer is not far behind her.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "Stripes",
+        "certificate": "R",
+        "runtime": "106 min",
+        "genre": "Comedy, War",
+        "description": "Two friends who are dissatisfied with their jobs decide to join the army for a bit of fun.",
+        "director": "",
+        "stars": []
+    },
     "8": {
         "name": "Mad Max 2",
         "certificate": "",
-        "runtime": "95 min",
+        "runtime": "96 min",
         "genre": "Action, Adventure, Sci-Fi",
         "description": "In the post-apocalyptic Australian wasteland, a cynical drifter agrees to help a small, gasoline rich community escape a horde of bandits.",
         "director": "",
         "stars": []
     },
     "9": {
-        "name": "Porky's",
-        "certificate": "",
-        "runtime": "94 min",
-        "genre": "Comedy",
-        "description": "In 1954, a group of Florida high school students try to help their buddy lose his virginity, which leads them to seeking revenge on a sleazy nightclub owner and his redneck sheriff brother for harassing them.",
-        "director": "",
-        "stars": []
-    },
-    "10": {
         "name": "Friday the 13th Part 2",
         "certificate": "",
         "runtime": "87 min",
@@ -89,21 +80,30 @@
         "director": "",
         "stars": []
     },
-    "11": {
-        "name": "Clash of the Titans",
+    "10": {
+        "name": "Porky's",
         "certificate": "",
-        "runtime": "118 min",
-        "genre": "Action, Adventure, Family",
-        "description": "Perseus must battle Medusa and the Kraken to save the Princess Andromeda.",
+        "runtime": "94 min",
+        "genre": "Comedy",
+        "description": "In 1954, a group of Florida high school students try to help their buddy lose his virginity, which leads them to seeking revenge on a sleazy nightclub owner and his redneck sheriff brother for harassing them.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "Das Boot",
+        "certificate": "R",
+        "runtime": "149 min",
+        "genre": "Adventure, Drama, Thriller",
+        "description": "The claustrophobic world of a WWII German U-boat; boredom, filth and sheer terror.",
         "director": "",
         "stars": []
     },
     "12": {
-        "name": "Stripes",
-        "certificate": "R",
-        "runtime": "106 min",
-        "genre": "Comedy, War",
-        "description": "Two friends who are dissatisfied with their jobs decide to join the army for a bit of fun.",
+        "name": "Escape from New York",
+        "certificate": "",
+        "runtime": "99 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "In 1997, when the U.S. president crashes into Manhattan, now a giant maximum security prison, a convicted bank robber is sent in to rescue him.",
         "director": "",
         "stars": []
     },
@@ -117,15 +117,6 @@
         "stars": []
     },
     "14": {
-        "name": "Body Heat",
-        "certificate": "",
-        "runtime": "113 min",
-        "genre": "Crime, Drama, Romance",
-        "description": "In the midst of a searing Florida heat wave, a woman persuades her lover, a small-town lawyer, to murder her rich husband.",
-        "director": "",
-        "stars": []
-    },
-    "15": {
         "name": "The Cannonball Run",
         "certificate": "",
         "runtime": "95 min",
@@ -134,16 +125,34 @@
         "director": "",
         "stars": []
     },
-    "16": {
-        "name": "Halloween II",
+    "15": {
+        "name": "Body Heat",
         "certificate": "",
-        "runtime": "92 min",
-        "genre": "Horror",
-        "description": "While Sheriff Brackett and Dr. Loomis hunt for Michael Myers, a traumatized Laurie is rushed to hospital, and the serial killer is not far behind her.",
+        "runtime": "113 min",
+        "genre": "Crime, Drama, Romance",
+        "description": "In the midst of a searing Florida heat wave, a woman persuades her lover, a small-town lawyer, to murder her rich husband.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "Mommie Dearest",
+        "certificate": "R",
+        "runtime": "129 min",
+        "genre": "Biography, Drama",
+        "description": "The abusive and traumatic adoptive upbringing of Christina Crawford at the hands of her mother, screen queen Joan Crawford, is depicted.",
         "director": "",
         "stars": []
     },
     "17": {
+        "name": "The Howling",
+        "certificate": "",
+        "runtime": "91 min",
+        "genre": "Horror",
+        "description": "After a bizarre and near deadly encounter with a serial killer, a television newswoman is sent to a remote mountain resort whose residents may not be what they seem.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
         "name": "For Your Eyes Only",
         "certificate": "",
         "runtime": "127 min",
@@ -152,21 +161,12 @@
         "director": "",
         "stars": []
     },
-    "18": {
-        "name": "Endless Love",
-        "certificate": "",
-        "runtime": "116 min",
-        "genre": "Drama, Romance",
-        "description": "A high school student's love for a 15-year-old girl is thwarted by parental disapproval, circumstance and accident.",
-        "director": "",
-        "stars": []
-    },
     "19": {
-        "name": "The Howling",
+        "name": "Clash of the Titans",
         "certificate": "",
-        "runtime": "91 min",
-        "genre": "Horror",
-        "description": "After a bizarre and near deadly encounter with a serial killer, a television newswoman is sent to a remote mountain resort whose residents may not be what they seem.",
+        "runtime": "118 min",
+        "genre": "Action, Adventure, Family",
+        "description": "Perseus must battle Medusa and the Kraken to save the Princess Andromeda.",
         "director": "",
         "stars": []
     },
@@ -189,6 +189,24 @@
         "stars": []
     },
     "22": {
+        "name": "Nighthawks",
+        "certificate": "",
+        "runtime": "99 min",
+        "genre": "Action, Crime, Thriller",
+        "description": "Conservative street cop DaSilva reluctantly agrees to terminate an international terrorist who has demanded media attention. But DaSilva's \"at-home\" tactics are very much put to the challenge.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "Endless Love",
+        "certificate": "",
+        "runtime": "116 min",
+        "genre": "Drama, Romance",
+        "description": "A high school student's love for a 15-year-old girl is thwarted by parental disapproval, circumstance and accident. He burned down her family's house and was committed in a mental hospital.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
         "name": "Chariots of Fire",
         "certificate": "",
         "runtime": "125 min",
@@ -197,205 +215,7 @@
         "director": "",
         "stars": []
     },
-    "23": {
-        "name": "Scanners",
-        "certificate": "",
-        "runtime": "103 min",
-        "genre": "Horror, Sci-Fi, Thriller",
-        "description": "A scientist sends a man with extraordinary psychic powers to hunt others like him.",
-        "director": "",
-        "stars": []
-    },
-    "24": {
-        "name": "History of the World: Part I",
-        "certificate": "",
-        "runtime": "92 min",
-        "genre": "Comedy, History",
-        "description": "Mel Brooks brings his one-of-a-kind comic touch to the history of mankind covering events from the Old Testament to the French Revolution in a series of episodic comedy vignettes.",
-        "director": "",
-        "stars": []
-    },
     "25": {
-        "name": "The Fox and the Hound",
-        "certificate": "",
-        "runtime": "83 min",
-        "genre": "Animation, Adventure, Drama",
-        "description": "Two childhood friends find themselves forced to become enemies.",
-        "director": "",
-        "stars": []
-    },
-    "26": {
-        "name": "Mommie Dearest",
-        "certificate": "R",
-        "runtime": "129 min",
-        "genre": "Biography, Drama",
-        "description": "The abusive and traumatic adoptive upbringing of Christina Crawford at the hands of her mother, screen queen Joan Crawford, is depicted.",
-        "director": "",
-        "stars": []
-    },
-    "27": {
-        "name": "Eye of the Needle",
-        "certificate": "",
-        "runtime": "112 min",
-        "genre": "Romance, Thriller, War",
-        "description": "A ruthless German spy, trying to get out of Britain with vital information about D-Day, must spend time with a young woman and her crippled husband.",
-        "director": "",
-        "stars": []
-    },
-    "28": {
-        "name": "Taps",
-        "certificate": "",
-        "runtime": "126 min",
-        "genre": "Drama",
-        "description": "Military cadets take extreme measures to insure the future of their academy when its existence is threatened by local condo developers.",
-        "director": "",
-        "stars": []
-    },
-    "29": {
-        "name": "Blow Out",
-        "certificate": "",
-        "runtime": "108 min",
-        "genre": "Mystery, Thriller",
-        "description": "A movie sound recordist accidentally records the evidence that proves that a car accident was actually murder and consequently finds himself in danger.",
-        "director": "",
-        "stars": []
-    },
-    "30": {
-        "name": "La guerre du feu",
-        "certificate": "",
-        "runtime": "100 min",
-        "genre": "Adventure, Drama, History",
-        "description": "This story takes place in prehistoric time when three tribesmen search for a new fire source.",
-        "director": "",
-        "stars": []
-    },
-    "31": {
-        "name": "Christiane F. - Wir Kinder vom Bahnhof Zoo",
-        "certificate": "",
-        "runtime": "138 min",
-        "genre": "Biography, Drama",
-        "description": "This movie portrays the drug scene in Berlin in the 1970s, following tape recordings of Christiane F. 14-year-old Christiane lives with her mother and little sister in a typical multi-story...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "32": {
-        "name": "The Four Seasons",
-        "certificate": "",
-        "runtime": "107 min",
-        "genre": "Comedy, Drama",
-        "description": "Three middle-aged wealthy couples take vacations together in Spring, Summer, Autumn and Winter. Along the way we are treated to mid-life, marital, parental and other crises.",
-        "director": "",
-        "stars": []
-    },
-    "33": {
-        "name": "Outland",
-        "certificate": "",
-        "runtime": "109 min",
-        "genre": "Action, Crime, Sci-Fi",
-        "description": "In the distant future, a police marshal stationed at a remote mining colony on the Jupiter moon of Io uncovers a drug-smuggling conspiracy, and gets no help from the populace when he later finds himself marked for murder.",
-        "director": "",
-        "stars": []
-    },
-    "34": {
-        "name": "Southern Comfort",
-        "certificate": "",
-        "runtime": "106 min",
-        "genre": "Action, Thriller",
-        "description": "During a routine exercise, a team of National Guards are threatened by angry and violent locals.",
-        "director": "",
-        "stars": []
-    },
-    "35": {
-        "name": "The Burning",
-        "certificate": "",
-        "runtime": "91 min",
-        "genre": "Horror",
-        "description": "A former summer camp caretaker, horribly burned from a prank gone wrong, lurks around an upstate New York summer camp bent on killing the teenagers responsible for his disfigurement.",
-        "director": "",
-        "stars": []
-    },
-    "36": {
-        "name": "Arthur",
-        "certificate": "",
-        "runtime": "97 min",
-        "genre": "Comedy, Romance",
-        "description": "Arthur is a happy drunk with no pretensions at any ambition. He is also the heir to a vast fortune which he is told will only be his if he marries Susan. He does not love Susan, but she ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "37": {
-        "name": "Dragonslayer",
-        "certificate": "",
-        "runtime": "108 min",
-        "genre": "Action, Adventure, Fantasy",
-        "description": "A young wizarding apprentice is sent to kill a dragon which has been devouring girls from a nearby kingdom.",
-        "director": "",
-        "stars": []
-    },
-    "38": {
-        "name": "Ragtime",
-        "certificate": "",
-        "runtime": "155 min",
-        "genre": "Drama",
-        "description": "A young black pianist becomes embroiled in the lives of an upper-class white family set among the racial tensions, infidelity, violence, and other nostalgic events in early 1900s New York City.",
-        "director": "",
-        "stars": []
-    },
-    "39": {
-        "name": "Reds",
-        "certificate": "",
-        "runtime": "195 min",
-        "genre": "Biography, Drama, History",
-        "description": "A radical American journalist becomes involved with the Communist revolution in Russia, and hopes to bring its spirit and idealism to the United States.",
-        "director": "",
-        "stars": []
-    },
-    "40": {
-        "name": "Piranha Part Two: The Spawning",
-        "certificate": "",
-        "runtime": "94 min",
-        "genre": "Drama, Horror, Romance",
-        "description": "A scuba diving instructor, her biochemist boyfriend, and her police chief ex-husband try to link a series of bizarre deaths to a mutant strain of piranha fish whose lair is a sunken freighter ship off a Caribbean island resort.",
-        "director": "",
-        "stars": []
-    },
-    "41": {
-        "name": "The Postman Always Rings Twice",
-        "certificate": "",
-        "runtime": "122 min",
-        "genre": "Crime, Drama, Romance",
-        "description": "The sensuous wife of a lunch wagon proprietor and a rootless drifter begin a sordidly steamy affair and conspire to murder her Greek husband.",
-        "director": "",
-        "stars": []
-    },
-    "42": {
-        "name": "Thief",
-        "certificate": "",
-        "runtime": "123 min",
-        "genre": "Action, Crime, Drama",
-        "description": "Coming closer to his dream of leading a normal life, a professional safecracker agrees to do a job for the Mafia, who has other plans for him.",
-        "director": "",
-        "stars": []
-    },
-    "43": {
-        "name": "Roar",
-        "certificate": "",
-        "runtime": "102 min",
-        "genre": "Adventure, Thriller",
-        "description": "A family goes to Africa to meet their father who lives with wild lions.",
-        "director": "",
-        "stars": []
-    },
-    "44": {
-        "name": "True Confessions",
-        "certificate": "",
-        "runtime": "108 min",
-        "genre": "Crime, Drama",
-        "description": "A worldly ambitious monsignor clashes with his older brother, a cynical Los Angeles homicide detective who is investigating the brutal murder of a young prostitute.",
-        "director": "",
-        "stars": []
-    },
-    "45": {
         "name": "...E tu vivrai nel terrore! L'aldil\u00e0",
         "certificate": "",
         "runtime": "87 min",
@@ -404,34 +224,70 @@
         "director": "",
         "stars": []
     },
-    "46": {
-        "name": "Gallipoli",
+    "26": {
+        "name": "The Burning",
         "certificate": "",
-        "runtime": "110 min",
-        "genre": "Adventure, Drama, History",
-        "description": "Two Australian sprinters face the brutal realities of war when they are sent to fight in the Gallipoli campaign in Turkey during World War I.",
+        "runtime": "91 min",
+        "genre": "Horror",
+        "description": "A former summer camp caretaker, horribly burned from a prank gone wrong, lurks around an upstate New York summer camp bent on killing the teenagers responsible for his disfigurement.",
         "director": "",
         "stars": []
     },
-    "47": {
-        "name": "Happy Birthday to Me",
+    "27": {
+        "name": "Scanners",
         "certificate": "",
-        "runtime": "111 min",
-        "genre": "Horror, Mystery, Thriller",
-        "description": "At the snobby Crawford Academy, Virginia's group of friends start to go missing years after horrible events that happened to her as a child around her birthday.",
+        "runtime": "103 min",
+        "genre": "Horror, Sci-Fi, Thriller",
+        "description": "A scientist sends a man with extraordinary psychic powers to hunt others like him.",
         "director": "",
         "stars": []
     },
-    "48": {
-        "name": "Tarzan the Ape Man",
+    "28": {
+        "name": "Dragonslayer",
         "certificate": "",
-        "runtime": "115 min",
-        "genre": "Adventure, Drama",
-        "description": "While on an African expedition with her father, Jane Parker meets Tarzan, and the two become fascinated by each other.",
+        "runtime": "108 min",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "A young wizarding apprentice is sent to kill a dragon which has been devouring girls from a nearby kingdom.",
         "director": "",
         "stars": []
     },
-    "49": {
+    "29": {
+        "name": "Cannibal ferox",
+        "certificate": "",
+        "runtime": "93 min",
+        "genre": "Adventure, Horror",
+        "description": "Three friends out to disprove cannibalism meet two men on the run who tortured and enslaved a cannibal tribe to find emeralds, and now the tribe is out for revenge.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "Caveman",
+        "certificate": "",
+        "runtime": "91 min",
+        "genre": "Comedy, Romance",
+        "description": "A caveman (Sir Ringo Starr) seeks revenge on a much larger competitor (John Matuszak) for the hand of a beautiful cavewoman (Barbara Bach).",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "Blow Out",
+        "certificate": "",
+        "runtime": "108 min",
+        "genre": "Mystery, Thriller",
+        "description": "A movie sound recordist accidentally records the evidence that proves that a car accident was actually murder and consequently finds himself in danger.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "History of the World: Part I",
+        "certificate": "",
+        "runtime": "92 min",
+        "genre": "Comedy, History",
+        "description": "Mel Brooks brings his one-of-a-kind comic touch to the history of mankind covering events from the Old Testament to the French Revolution in a series of episodic comedy vignettes.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
         "name": "My Bloody Valentine",
         "certificate": "",
         "runtime": "90 min",
@@ -440,12 +296,156 @@
         "director": "",
         "stars": []
     },
-    "50": {
+    "34": {
         "name": "Galaxy of Terror",
         "certificate": "",
         "runtime": "81 min",
         "genre": "Action, Adventure, Horror",
         "description": "Science fiction suspense thriller, in which a rescue space ship crew meets up with horrors projected by their own imaginations.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "Diva",
+        "certificate": "",
+        "runtime": "117 min",
+        "genre": "Thriller",
+        "description": "Two tapes, two Parisian mob killers, one corrupt policeman, an opera fan, a teenage thief, and the coolest philosopher ever filmed. All these characters twist their way through an intricate and stylish French language thriller.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "The Fox and the Hound",
+        "certificate": "",
+        "runtime": "83 min",
+        "genre": "Animation, Adventure, Drama",
+        "description": "Two childhood friends find themselves forced to become enemies.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "Lady Chatterley's Lover",
+        "certificate": "",
+        "runtime": "104 min",
+        "genre": "Drama, Romance",
+        "description": "A film adaptation of D.H. Lawrence's novel. After a crippling injury leaves her husband impotent, Lady Chatterly is torn between her love for her husband and her physical desires. With her ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "Inseminoid",
+        "certificate": "",
+        "runtime": "93 min",
+        "genre": "Horror, Sci-Fi",
+        "description": "A crew of interplanetary archaeologists is threatened when an alien creature impregnates one of their members, causing her to turn homicidal and murder them one by one.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "The Postman Always Rings Twice",
+        "certificate": "",
+        "runtime": "122 min",
+        "genre": "Crime, Drama, Romance",
+        "description": "The sensuous wife of a lunch wagon proprietor and a rootless drifter begin a sordidly steamy affair and conspire to murder her Greek husband.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "La guerre du feu",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Adventure, Drama, History",
+        "description": "This story takes place in prehistoric time when three tribesmen search for a new fire source.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "The Funhouse",
+        "certificate": "",
+        "runtime": "96 min",
+        "genre": "Horror",
+        "description": "Four teenage friends spend the night in a carnival funhouse and are stalked by a deformed man in a Frankenstein mask.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "Taps",
+        "certificate": "",
+        "runtime": "126 min",
+        "genre": "Drama",
+        "description": "Military cadets take extreme measures to insure the future of their academy when its existence is threatened by local condo developers.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Gallipoli",
+        "certificate": "",
+        "runtime": "110 min",
+        "genre": "Adventure, Drama, History",
+        "description": "Two Australian sprinters face the brutal realities of war when they are sent to fight in the Gallipoli campaign in Turkey during World War I.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "Thief",
+        "certificate": "",
+        "runtime": "123 min",
+        "genre": "Action, Crime, Drama",
+        "description": "Coming closer to his dream of leading a normal life, a professional safecracker agrees to do a job for the Mafia, who has other plans for him.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "Arthur",
+        "certificate": "",
+        "runtime": "97 min",
+        "genre": "Comedy, Romance",
+        "description": "Arthur spends his time with booze and whores. His dad has a wife lined up for him that he keeps rejecting - until it's her or being cut off from $750,000,000. Then he goes shopping where he falls in love with a shoplifter.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Tarzan the Ape Man",
+        "certificate": "",
+        "runtime": "115 min",
+        "genre": "Adventure, Drama",
+        "description": "While on an African expedition with her father, Jane Parker meets Tarzan, and the two become fascinated by each other.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "On Golden Pond",
+        "certificate": "",
+        "runtime": "109 min",
+        "genre": "Drama",
+        "description": "Norman is a curmudgeon with an estranged relationship with his daughter Chelsea. At Golden Pond, he and his wife nevertheless agree to care for Billy, the son of Chelsea's new boyfriend, and a most unexpected relationship blooms.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "Ghost Story",
+        "certificate": "",
+        "runtime": "110 min",
+        "genre": "Drama, Horror, Thriller",
+        "description": "Two generations of men find themselves haunted by the presence of a spectral woman. When the son of one of the elderly men returns to his hometown after his brother's mysterious death, they attempt to unravel her story.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "Private Lessons",
+        "certificate": "",
+        "runtime": "87 min",
+        "genre": "Comedy",
+        "description": "An immigrant housemaid seduces a 15-year-old boy and later fakes her own death as part of his chauffeur's blackmail plot. Troubles arise when the two start to fall in love.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "Ragtime",
+        "certificate": "",
+        "runtime": "155 min",
+        "genre": "Drama",
+        "description": "A young black pianist becomes embroiled in the lives of an upper-class white family set among the racial tensions, infidelity, violence, and other nostalgic events in early 1900s New York City.",
         "director": "",
         "stars": []
     }

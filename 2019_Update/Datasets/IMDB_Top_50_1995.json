@@ -9,60 +9,6 @@
         "stars": []
     },
     "2": {
-        "name": "Heat",
-        "certificate": "R",
-        "runtime": "170 min",
-        "genre": "Crime, Drama, Thriller",
-        "description": "A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist.",
-        "director": "",
-        "stars": []
-    },
-    "3": {
-        "name": "The Usual Suspects",
-        "certificate": "A",
-        "runtime": "106 min",
-        "genre": "Crime, Mystery, Thriller",
-        "description": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.",
-        "director": "",
-        "stars": []
-    },
-    "4": {
-        "name": "Braveheart",
-        "certificate": "R",
-        "runtime": "178 min",
-        "genre": "Biography, Drama, History",
-        "description": "When his secret bride is executed for assaulting an English soldier who tried to rape her, William Wallace begins a revolt against King Edward I of England.",
-        "director": "",
-        "stars": []
-    },
-    "5": {
-        "name": "Toy Story",
-        "certificate": "",
-        "runtime": "81 min",
-        "genre": "Animation, Adventure, Comedy",
-        "description": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",
-        "director": "",
-        "stars": []
-    },
-    "6": {
-        "name": "Jumanji",
-        "certificate": "PG",
-        "runtime": "104 min",
-        "genre": "Adventure, Family, Fantasy",
-        "description": "When two kids find and play a magical board game, they release a man trapped for decades in it and a host of dangers that can only be stopped by finishing the game.",
-        "director": "",
-        "stars": []
-    },
-    "7": {
-        "name": "Waterworld",
-        "certificate": "PG-13",
-        "runtime": "135 min",
-        "genre": "Action, Adventure, Sci-Fi",
-        "description": "In a future where the polar ice-caps have melted and Earth is almost entirely submerged, a mutated mariner fights starvation and outlaw \"smokers,\" and reluctantly helps a woman and a young girl try to find dry land.",
-        "director": "",
-        "stars": []
-    },
-    "8": {
         "name": "Clueless",
         "certificate": "PG-13",
         "runtime": "97 min",
@@ -71,12 +17,66 @@
         "director": "",
         "stars": []
     },
-    "9": {
-        "name": "Mortal Kombat",
-        "certificate": "PG-13",
-        "runtime": "101 min",
+    "3": {
+        "name": "Casino",
+        "certificate": "A",
+        "runtime": "178 min",
+        "genre": "Crime, Drama",
+        "description": "A tale of greed, deception, money, power, and murder occur between two best friends: a mafia enforcer and a casino executive, compete against each other over a gambling empire, and over a fast living and fast loving socialite.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "Casper",
+        "certificate": "PG",
+        "runtime": "100 min",
+        "genre": "Comedy, Family, Fantasy",
+        "description": "An afterlife therapist and his daughter meet a friendly young ghost when they move into a crumbling mansion in order to rid the premises of wicked spirits.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "Braveheart",
+        "certificate": "R",
+        "runtime": "178 min",
+        "genre": "Biography, Drama, History",
+        "description": "When his secret bride is executed for assaulting an English soldier who tried to rape her, William Wallace begins a revolt against King Edward I of England.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "Heat",
+        "certificate": "R",
+        "runtime": "170 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "Toy Story",
+        "certificate": "",
+        "runtime": "81 min",
+        "genre": "Animation, Adventure, Comedy",
+        "description": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "Batman Forever",
+        "certificate": "UA",
+        "runtime": "121 min",
         "genre": "Action, Adventure, Fantasy",
-        "description": "Three unknowing martial artists are summoned to a mysterious island to compete in a tournament whose outcome will decide the fate of the world.",
+        "description": "Batman must battle former district attorney Harvey Dent, who is now Two-Face and Edward Nygma, The Riddler with help from an amorous psychologist and a young circus acrobat who becomes his sidekick, Robin.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "The Usual Suspects",
+        "certificate": "A",
+        "runtime": "106 min",
+        "genre": "Crime, Mystery, Thriller",
+        "description": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.",
         "director": "",
         "stars": []
     },
@@ -90,15 +90,6 @@
         "stars": []
     },
     "11": {
-        "name": "Batman Forever",
-        "certificate": "PG-13",
-        "runtime": "121 min",
-        "genre": "Action, Adventure, Fantasy",
-        "description": "Batman must battle former district attorney Harvey Dent, who is now Two-Face and Edward Nygma, The Riddler with help from an amorous psychologist and a young circus acrobat who becomes his sidekick, Robin.",
-        "director": "",
-        "stars": []
-    },
-    "12": {
         "name": "Twelve Monkeys",
         "certificate": "A",
         "runtime": "129 min",
@@ -107,52 +98,7 @@
         "director": "",
         "stars": []
     },
-    "13": {
-        "name": "Kids",
-        "certificate": "",
-        "runtime": "91 min",
-        "genre": "Drama",
-        "description": "A day in the life of a group of teens as they travel around New York City skating, drinking, smoking and deflowering virgins.",
-        "director": "",
-        "stars": []
-    },
-    "14": {
-        "name": "Casino",
-        "certificate": "A",
-        "runtime": "178 min",
-        "genre": "Crime, Drama",
-        "description": "A tale of greed, deception, money, power, and murder occur between two best friends: a mafia enforcer and a casino executive, compete against each other over a gambling empire, and over a fast living and fast loving socialite.",
-        "director": "",
-        "stars": []
-    },
-    "15": {
-        "name": "It Takes Two",
-        "certificate": "PG",
-        "runtime": "101 min",
-        "genre": "Comedy, Family, Romance",
-        "description": "Alyssa (a rich girl) and Amanda (an orphan) are two little girls who are identical, but complete strangers, that accidentally meet one day. In an attempt to stop Alyssa's father from ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "16": {
-        "name": "Apollo 13",
-        "certificate": "PG",
-        "runtime": "140 min",
-        "genre": "Adventure, Drama, History",
-        "description": "NASA must devise a strategy to return Apollo 13 to Earth safely after the spacecraft undergoes massive internal damage putting the lives of the three astronauts on board in jeopardy.",
-        "director": "",
-        "stars": []
-    },
-    "17": {
-        "name": "Empire Records",
-        "certificate": "PG-13",
-        "runtime": "90 min",
-        "genre": "Comedy, Drama, Music",
-        "description": "24 hours in the lives of the young employees at Empire Records when they all grow up and become young adults thanks to each other and the manager. They all face the store joining a chain store with strict rules.",
-        "director": "",
-        "stars": []
-    },
-    "18": {
+    "12": {
         "name": "Showgirls",
         "certificate": "A",
         "runtime": "128 min",
@@ -161,79 +107,25 @@
         "director": "",
         "stars": []
     },
-    "19": {
-        "name": "Sense and Sensibility",
-        "certificate": "PG",
-        "runtime": "136 min",
-        "genre": "Drama, Romance",
-        "description": "Rich Mr. Dashwood dies, leaving his second wife and her three daughters poor by the rules of inheritance. The two eldest daughters are the titular opposites.",
+    "13": {
+        "name": "Jumanji",
+        "certificate": "UA",
+        "runtime": "104 min",
+        "genre": "Adventure, Comedy, Family",
+        "description": "When two kids find and play a magical board game, they release a man trapped for decades in it and a host of dangers that can only be stopped by finishing the game.",
         "director": "",
         "stars": []
     },
-    "20": {
-        "name": "Friday",
+    "14": {
+        "name": "To Die For",
         "certificate": "R",
-        "runtime": "91 min",
-        "genre": "Comedy, Drama",
-        "description": "Two homies, Smokey and Craig, smoke a dope dealer's weed and try to figure a way to get the $200 they owe to the dealer by 10 p.m. that same night.",
+        "runtime": "106 min",
+        "genre": "Comedy, Crime, Drama",
+        "description": "A beautiful but na\u00efve aspiring television personality films a documentary on teenagers with a darker ulterior motive.",
         "director": "",
         "stars": []
     },
-    "21": {
-        "name": "GoldenEye",
-        "certificate": "PG-13",
-        "runtime": "130 min",
-        "genre": "Action, Adventure, Thriller",
-        "description": "James Bond teams up with the lone survivor of a destroyed Russian research center to stop the hijacking of a nuclear space weapon by a fellow Agent formerly believed to be dead.",
-        "director": "",
-        "stars": []
-    },
-    "22": {
-        "name": "Billy Madison",
-        "certificate": "PG-13",
-        "runtime": "89 min",
-        "genre": "Comedy",
-        "description": "In order to inherit his fed up father's hotel empire, an immature and lazy man must repeat grades 1-12 all over again.",
-        "director": "",
-        "stars": []
-    },
-    "23": {
-        "name": "Leaving Las Vegas",
-        "certificate": "R",
-        "runtime": "111 min",
-        "genre": "Drama, Romance",
-        "description": "Ben Sanderson, a Hollywood screenwriter who lost everything because of his alcoholism, arrives in Las Vegas to drink himself to death. There, he meets and forms an uneasy friendship and non-interference pact with prostitute Sera.",
-        "director": "",
-        "stars": []
-    },
-    "24": {
-        "name": "Before Sunrise",
-        "certificate": "R",
-        "runtime": "101 min",
-        "genre": "Drama, Romance",
-        "description": "A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.",
-        "director": "",
-        "stars": []
-    },
-    "25": {
-        "name": "Pocahontas",
-        "certificate": "G",
-        "runtime": "81 min",
-        "genre": "Animation, Adventure, Drama",
-        "description": "An English soldier and the daughter of an Algonquin chief share a romance when English colonists invade seventeenth-century Virginia.",
-        "director": "",
-        "stars": []
-    },
-    "26": {
-        "name": "The Indian in the Cupboard",
-        "certificate": "PG",
-        "runtime": "96 min",
-        "genre": "Drama, Family, Fantasy",
-        "description": "Omri (Hal Scardino), a young boy growing up in Brooklyn, receives an odd variety of presents for his birthday: a wooden cabinet from his older brother, a set of antique keys from his mother...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "27": {
+    "15": {
         "name": "Species",
         "certificate": "R",
         "runtime": "108 min",
@@ -242,8 +134,107 @@
         "director": "",
         "stars": []
     },
-    "28": {
-        "name": "Die Hard with a Vengeance",
+    "16": {
+        "name": "GoldenEye",
+        "certificate": "PG-13",
+        "runtime": "130 min",
+        "genre": "Action, Adventure, Thriller",
+        "description": "James Bond teams up with the lone survivor of a destroyed Russian research center to stop the hijacking of a nuclear space weapon by a fellow Agent formerly believed to be dead.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "Now and Then",
+        "certificate": "PG-13",
+        "runtime": "100 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Four 12-year-old girls grow up together during an eventful small-town summer in 1970.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Apollo 13",
+        "certificate": "PG",
+        "runtime": "140 min",
+        "genre": "Adventure, Drama, History",
+        "description": "NASA must devise a strategy to return Apollo 13 to Earth safely after the spacecraft undergoes massive internal damage putting the lives of the three astronauts on board in jeopardy.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "Kids",
+        "certificate": "",
+        "runtime": "91 min",
+        "genre": "Drama",
+        "description": "A day in the life of a group of teens as they travel around New York City skating, drinking, smoking and deflowering virgins.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "Waterworld",
+        "certificate": "PG-13",
+        "runtime": "135 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "In a future where the polar ice-caps have melted and Earth is almost entirely submerged, a mutated mariner fights starvation and outlaw \"smokers,\" and reluctantly helps a woman and a young girl try to find dry land.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "Judge Dredd",
+        "certificate": "R",
+        "runtime": "96 min",
+        "genre": "Action, Crime, Sci-Fi",
+        "description": "In a dystopian future, Joseph Dredd, the most famous Judge (a police officer with instant field judiciary powers), is convicted for a crime he did not commit and must face his murderous counterpart.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "Friday",
+        "certificate": "R",
+        "runtime": "91 min",
+        "genre": "Comedy, Drama",
+        "description": "Two homies, Smokey and Craig, smoke a dope dealer's weed and try to figure a way to get the $200 they owe to the dealer by 10 p.m. that same night.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "Mortal Kombat",
+        "certificate": "PG-13",
+        "runtime": "101 min",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "Three unknowing martial artists are summoned to a mysterious island to compete in a tournament whose outcome will decide the fate of the world.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "The Quick and the Dead",
+        "certificate": "R",
+        "runtime": "107 min",
+        "genre": "Action, Romance, Thriller",
+        "description": "A female gunfighter returns to a frontier town where a dueling tournament is being held, which she enters in an effort to avenge her father's death.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "Empire Records",
+        "certificate": "PG-13",
+        "runtime": "90 min",
+        "genre": "Comedy, Drama, Music",
+        "description": "24 hours in the lives of the young employees at Empire Records when they all grow up and become young adults thanks to each other and the manager. They all face the store joining a chain store with strict rules.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "Before Sunrise",
+        "certificate": "R",
+        "runtime": "101 min",
+        "genre": "Drama, Romance",
+        "description": "A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "Die Hard: With a Vengeance",
         "certificate": "R",
         "runtime": "128 min",
         "genre": "Action, Adventure, Thriller",
@@ -251,34 +242,61 @@
         "director": "",
         "stars": []
     },
+    "28": {
+        "name": "Sense and Sensibility",
+        "certificate": "PG",
+        "runtime": "136 min",
+        "genre": "Drama, Romance",
+        "description": "Rich Mr. Dashwood dies, leaving his second wife and her three daughters poor by the rules of inheritance. The two eldest daughters are the titular opposites.",
+        "director": "",
+        "stars": []
+    },
     "29": {
-        "name": "Outbreak",
-        "certificate": "R",
-        "runtime": "127 min",
-        "genre": "Action, Drama, Thriller",
-        "description": "Army doctors struggle to find a cure for a deadly virus spreading throughout a California town that was brought to America by an African monkey.",
+        "name": "The Brady Bunch Movie",
+        "certificate": "PG-13",
+        "runtime": "90 min",
+        "genre": "Comedy",
+        "description": "The original '70s T.V. family is now placed in the 1990s, where they're even more square and out of place than ever.",
         "director": "",
         "stars": []
     },
     "30": {
-        "name": "The Basketball Diaries",
-        "certificate": "R",
-        "runtime": "102 min",
-        "genre": "Biography, Crime, Drama",
-        "description": "A teenager finds his dreams of becoming a basketball star threatened after he free falls into the harrowing world of drug addiction.",
+        "name": "Pocahontas",
+        "certificate": "G",
+        "runtime": "81 min",
+        "genre": "Animation, Adventure, Drama",
+        "description": "An English soldier and the daughter of an Algonquin chief share a romance when English colonists invade seventeenth-century Virginia.",
         "director": "",
         "stars": []
     },
     "31": {
-        "name": "Casper",
-        "certificate": "PG",
-        "runtime": "100 min",
-        "genre": "Comedy, Family, Fantasy",
-        "description": "A paranormal expert and his daughter bunk in an abandoned house populated by three mischievous ghosts and one friendly one.",
+        "name": "Leaving Las Vegas",
+        "certificate": "R",
+        "runtime": "111 min",
+        "genre": "Drama, Romance",
+        "description": "Ben Sanderson, a Hollywood screenwriter who lost everything because of his alcoholism, arrives in Las Vegas to drink himself to death. There, he meets and forms an uneasy friendship and non-interference pact with prostitute Sera.",
         "director": "",
         "stars": []
     },
     "32": {
+        "name": "Billy Madison",
+        "certificate": "PG-13",
+        "runtime": "89 min",
+        "genre": "Comedy",
+        "description": "In order to inherit his fed up father's hotel empire, an immature and lazy man must repeat grades 1-12 all over again.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "Major Payne",
+        "certificate": "PG-13",
+        "runtime": "95 min",
+        "genre": "Adventure, Comedy, Family",
+        "description": "A recently discharged Major, finds himself commanding a group of mismatched Cadets.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
         "name": "Hackers",
         "certificate": "PG-13",
         "runtime": "107 min",
@@ -287,30 +305,12 @@
         "director": "",
         "stars": []
     },
-    "33": {
-        "name": "A Little Princess",
-        "certificate": "",
-        "runtime": "97 min",
-        "genre": "Drama, Family, Fantasy",
-        "description": "A young girl is relegated to servitude at a boarding school when her father goes missing and is presumed dead.",
-        "director": "",
-        "stars": []
-    },
-    "34": {
-        "name": "Babe",
-        "certificate": "",
-        "runtime": "91 min",
-        "genre": "Comedy, Drama, Family",
-        "description": "Babe, a pig raised by sheepdogs, learns to herd sheep with a little help from Farmer Hoggett.",
-        "director": "",
-        "stars": []
-    },
     "35": {
-        "name": "The American President",
-        "certificate": "PG-13",
-        "runtime": "114 min",
-        "genre": "Comedy, Drama, Romance",
-        "description": "Comedy-drama about a widowed U.S. President and a lobbyist who fall in love. It's all above-board, but \"politics is perception\", and sparks fly anyway.",
+        "name": "Tank Girl",
+        "certificate": "R",
+        "runtime": "104 min",
+        "genre": "Action, Comedy, Sci-Fi",
+        "description": "A girl is among the few survivors of a dystopian Earth. Riding a war tank, she fights against the tyranny of a mega-corporation that dominates the remaining potable water supply of the planet.",
         "director": "",
         "stars": []
     },
@@ -319,7 +319,7 @@
         "certificate": "R",
         "runtime": "104 min",
         "genre": "Action, Thriller",
-        "description": "A gunslinger is embroiled in a war with a local drug runner.",
+        "description": "A gunslinger's embroiled in a war with a local drug runner.",
         "director": "",
         "stars": []
     },
@@ -333,24 +333,15 @@
         "stars": []
     },
     "38": {
-        "name": "The Bridges of Madison County",
+        "name": "Tommy Boy",
         "certificate": "PG-13",
-        "runtime": "135 min",
-        "genre": "Drama, Romance",
-        "description": "Photographer Robert Kincaid wanders into the life of housewife Francesca Johnson, for four days in the 1960s.",
+        "runtime": "97 min",
+        "genre": "Adventure, Comedy",
+        "description": "After his auto-parts tycoon father dies, the overweight, underachieving son teams up with a snide accountant to try and save the family business.",
         "director": "",
         "stars": []
     },
     "39": {
-        "name": "While You Were Sleeping",
-        "certificate": "PG",
-        "runtime": "103 min",
-        "genre": "Comedy, Drama, Romance",
-        "description": "A hopeless romantic Chicago Transit Authority token collector is mistaken for the fianc\u00e9e of a coma patient.",
-        "director": "",
-        "stars": []
-    },
-    "40": {
         "name": "Four Rooms",
         "certificate": "R",
         "runtime": "98 min",
@@ -359,52 +350,7 @@
         "director": "",
         "stars": []
     },
-    "41": {
-        "name": "Lust och f\u00e4gring stor",
-        "certificate": "",
-        "runtime": "130 min",
-        "genre": "Drama, Romance, War",
-        "description": "Malm\u00f6, Sweden during the Second World War. Stig is a 15 year old pupil on the verge of adulthood. Viola is 37 years old and his teacher. He is attracted by her beauty and maturity. She is ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "42": {
-        "name": "Sabrina",
-        "certificate": "PG",
-        "runtime": "127 min",
-        "genre": "Comedy, Drama",
-        "description": "An ugly duckling having undergone a remarkable change, still harbors feelings for her crush: a carefree playboy, but not before his business-focused brother has something to say about it.",
-        "director": "",
-        "stars": []
-    },
-    "43": {
-        "name": "Strange Days",
-        "certificate": "R",
-        "runtime": "145 min",
-        "genre": "Action, Crime, Drama",
-        "description": "A former cop turned street-hustler accidentally uncovers a conspiracy in Los Angeles in 1999.",
-        "director": "",
-        "stars": []
-    },
-    "44": {
-        "name": "Copycat",
-        "certificate": "R",
-        "runtime": "123 min",
-        "genre": "Drama, Mystery, Thriller",
-        "description": "An agoraphobic psychologist and a female detective must work together to take down a serial killer who copies serial killers from the past.",
-        "director": "",
-        "stars": []
-    },
-    "45": {
-        "name": "The Brady Bunch Movie",
-        "certificate": "PG-13",
-        "runtime": "90 min",
-        "genre": "Comedy",
-        "description": "The original '70s T.V. family is now placed in the 1990s, where they're even more square and out of place than ever.",
-        "director": "",
-        "stars": []
-    },
-    "46": {
+    "40": {
         "name": "To Wong Foo Thanks for Everything, Julie Newmar",
         "certificate": "PG-13",
         "runtime": "109 min",
@@ -413,7 +359,79 @@
         "director": "",
         "stars": []
     },
+    "41": {
+        "name": "The American President",
+        "certificate": "PG-13",
+        "runtime": "114 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A widowed U.S. President running for reelection and an environmental lobbyist fall in love. It's all above-board, but \"politics is perception,\" and sparks fly anyway.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "Crimson Tide",
+        "certificate": "R",
+        "runtime": "116 min",
+        "genre": "Action, Drama, Thriller",
+        "description": "On a U.S. nuclear missile sub, a young First Officer stages a mutiny, to prevent his trigger happy Captain from launching his missiles, before confirming his orders to do so.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Halloween: The Curse of Michael Myers",
+        "certificate": "R",
+        "runtime": "87 min",
+        "genre": "Horror, Thriller",
+        "description": "Six years after Michael Myers last terrorized Haddonfield, he returns there in pursuit of his niece, Jamie Lloyd, who has escaped with her newborn child, for which Michael and a mysterious cult have sinister plans.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "La haine",
+        "certificate": "",
+        "runtime": "98 min",
+        "genre": "Crime, Drama",
+        "description": "24 hours in the lives of three young men in the French suburbs the day after a violent riot.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "The Basketball Diaries",
+        "certificate": "R",
+        "runtime": "102 min",
+        "genre": "Biography, Crime, Drama",
+        "description": "A teenager finds his dreams of becoming a basketball star threatened after he free falls into the harrowing world of drug addiction.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "It Takes Two",
+        "certificate": "PG",
+        "runtime": "101 min",
+        "genre": "Comedy, Family, Romance",
+        "description": "Alyssa and Amanda are two little girls who are identical, but complete strangers, that accidentally meet one day.",
+        "director": "",
+        "stars": []
+    },
     "47": {
+        "name": "Babe",
+        "certificate": "",
+        "runtime": "91 min",
+        "genre": "Comedy, Drama, Family",
+        "description": "Babe, a pig raised by sheepdogs, learns to herd sheep with a little help from Farmer Hoggett.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "Strange Days",
+        "certificate": "R",
+        "runtime": "145 min",
+        "genre": "Action, Crime, Drama",
+        "description": "A former cop turned street-hustler accidentally uncovers a conspiracy in Los Angeles in 1999.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
         "name": "Mallrats",
         "certificate": "R",
         "runtime": "94 min",
@@ -422,30 +440,12 @@
         "director": "",
         "stars": []
     },
-    "48": {
-        "name": "To Die For",
-        "certificate": "R",
-        "runtime": "106 min",
-        "genre": "Comedy, Crime, Drama",
-        "description": "A beautiful but na\u00efve aspiring television personality films a documentary on teenagers with a darker ulterior motive.",
-        "director": "",
-        "stars": []
-    },
-    "49": {
-        "name": "Dolores Claiborne",
-        "certificate": "R",
-        "runtime": "132 min",
-        "genre": "Crime, Drama, Mystery",
-        "description": "A big-city reporter travels to the small town where her mother has been arrested for the murder of an elderly woman that she works for as a maid.",
-        "director": "",
-        "stars": []
-    },
     "50": {
-        "name": "Ace Ventura: When Nature Calls",
+        "name": "The Bridges of Madison County",
         "certificate": "PG-13",
-        "runtime": "90 min",
-        "genre": "Adventure, Comedy, Crime",
-        "description": "Ace Ventura, Pet Detective, returns from a spiritual quest to investigate the disappearance of a rare white bat, the sacred animal of a tribe in Africa.",
+        "runtime": "135 min",
+        "genre": "Drama, Romance",
+        "description": "Photographer Robert Kincaid (Clint Eastwood) wanders into the life of housewife Francesca Johnson (Meryl Streep), for four days in the 1960s.",
         "director": "",
         "stars": []
     }

@@ -3,15 +3,15 @@
         "name": "Apocalypse Now",
         "certificate": "R",
         "runtime": "147 min",
-        "genre": "Drama, War",
-        "description": "During the Vietnam War, Captain Willard is sent on a dangerous mission into Cambodia to assassinate a renegade Colonel who has set himself up as a god among a local tribe.",
+        "genre": "Drama, Mystery, War",
+        "description": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.",
         "director": "",
         "stars": []
     },
     "2": {
         "name": "Alien",
         "certificate": "A",
-        "runtime": "116 min",
+        "runtime": "117 min",
         "genre": "Horror, Sci-Fi",
         "description": "After a space merchant vessel perceives an unknown transmission as a distress call, its landing on the source moon finds one of the crew attacked by a mysterious lifeform, and they soon realize that its life cycle has merely begun.",
         "director": "",
@@ -63,123 +63,6 @@
         "stars": []
     },
     "8": {
-        "name": "Kramer vs. Kramer",
-        "certificate": "PG",
-        "runtime": "105 min",
-        "genre": "Drama",
-        "description": "Ted Kramer's wife leaves him, allowing for a lost bond to be rediscovered between Ted and his son, Billy. But a heated custody battle ensues over the divorced couple's son, deepening the wounds left by the separation.",
-        "director": "",
-        "stars": []
-    },
-    "9": {
-        "name": "Moonraker",
-        "certificate": "",
-        "runtime": "126 min",
-        "genre": "Action, Adventure, Sci-Fi",
-        "description": "James Bond investigates the mid-air theft of a space shuttle, and discovers a plot to commit global genocide.",
-        "director": "",
-        "stars": []
-    },
-    "10": {
-        "name": "Rocky II",
-        "certificate": "",
-        "runtime": "119 min",
-        "genre": "Drama, Sport",
-        "description": "Rocky struggles in family life after his bout with Apollo Creed, while the embarrassed champ insistently goads him to accept a challenge for a rematch.",
-        "director": "",
-        "stars": []
-    },
-    "11": {
-        "name": "Escape from Alcatraz",
-        "certificate": "",
-        "runtime": "112 min",
-        "genre": "Biography, Crime, Drama",
-        "description": "Alcatraz is the most secure prison of its time. It is believed that no one can ever escape from it, until three daring men make a possible successful attempt at escaping from one of the most infamous prisons in the world.",
-        "director": "",
-        "stars": []
-    },
-    "12": {
-        "name": "Hair",
-        "certificate": "",
-        "runtime": "121 min",
-        "genre": "Comedy, Drama, Musical",
-        "description": "Claude Bukowski leaves the family ranch in Oklahoma for New York where he is rapidly embraced into the hippie group of youngsters led by Berger, yet he's already been drafted. He soon falls in love with Sheila Franklin, a rich girl but still a rebel inside.",
-        "director": "",
-        "stars": []
-    },
-    "13": {
-        "name": "10",
-        "certificate": "",
-        "runtime": "122 min",
-        "genre": "Comedy, Romance",
-        "description": "A Hollywood composer goes through a mid-life crisis and becomes infatuated with a sexy, newly married woman.",
-        "director": "",
-        "stars": []
-    },
-    "14": {
-        "name": "1941",
-        "certificate": "",
-        "runtime": "118 min",
-        "genre": "Action, Comedy, War",
-        "description": "Hysterical Californians prepare for a Japanese invasion in the days after Pearl Harbor.",
-        "director": "",
-        "stars": []
-    },
-    "15": {
-        "name": "Star Trek: The Motion Picture",
-        "certificate": "G",
-        "runtime": "132 min",
-        "genre": "Adventure, Mystery, Sci-Fi",
-        "description": "When an alien spacecraft of enormous power is spotted approaching Earth, Admiral James T. Kirk resumes command of the overhauled USS Enterprise in order to intercept it.",
-        "director": "",
-        "stars": []
-    },
-    "16": {
-        "name": "Manhattan",
-        "certificate": "",
-        "runtime": "96 min",
-        "genre": "Comedy, Drama, Romance",
-        "description": "The life of a divorced television writer dating a teenage girl is further complicated when he falls in love with his best friend's mistress.",
-        "director": "",
-        "stars": []
-    },
-    "17": {
-        "name": "The Black Hole",
-        "certificate": "",
-        "runtime": "98 min",
-        "genre": "Action, Sci-Fi",
-        "description": "A research vessel finds a missing ship, commanded by a mysterious scientist, on the edge of a black hole.",
-        "director": "",
-        "stars": []
-    },
-    "18": {
-        "name": "Being There",
-        "certificate": "",
-        "runtime": "130 min",
-        "genre": "Comedy, Drama",
-        "description": "A simple, sheltered gardener becomes an unlikely trusted advisor to a powerful businessman and an insider in Washington politics.",
-        "director": "",
-        "stars": []
-    },
-    "19": {
-        "name": "All That Jazz",
-        "certificate": "",
-        "runtime": "123 min",
-        "genre": "Comedy, Drama, Music",
-        "description": "Director/choreographer Bob Fosse tells his own life story as he details the sordid life of Joe Gideon, a womanizing, drug-using dancer.",
-        "director": "",
-        "stars": []
-    },
-    "20": {
-        "name": "The Jerk",
-        "certificate": "",
-        "runtime": "94 min",
-        "genre": "Comedy",
-        "description": "An idiotic man struggles to make it through life on his own in St. Louis.",
-        "director": "",
-        "stars": []
-    },
-    "21": {
         "name": "Quadrophenia",
         "certificate": "",
         "runtime": "120 min",
@@ -188,52 +71,34 @@
         "director": "",
         "stars": []
     },
-    "22": {
-        "name": "Scum",
+    "9": {
+        "name": "All That Jazz",
         "certificate": "",
-        "runtime": "98 min",
-        "genre": "Crime, Drama",
-        "description": "An uncompromising story of life in a British juvenile offender institution in the 70's.",
+        "runtime": "123 min",
+        "genre": "Drama, Music, Musical",
+        "description": "Director/choreographer Bob Fosse tells his own life story as he details the sordid life of Joe Gideon, a womanizing, drug-using dancer.",
         "director": "",
         "stars": []
     },
-    "23": {
-        "name": "Meatballs",
+    "10": {
+        "name": "Hair",
         "certificate": "",
-        "runtime": "94 min",
-        "genre": "Comedy",
-        "description": "Wacky hijinks of counselors and campers at a less-than-average summer camp.",
+        "runtime": "121 min",
+        "genre": "Comedy, Drama, Musical",
+        "description": "Claude Bukowski leaves the family ranch in Oklahoma for New York where he is rapidly embraced into the hippie group of youngsters led by Berger, yet he's already been drafted. He soon falls in love with Sheila Franklin, a rich girl but still a rebel inside.",
         "director": "",
         "stars": []
     },
-    "24": {
-        "name": "Breaking Away",
-        "certificate": "",
-        "runtime": "101 min",
-        "genre": "Comedy, Drama, Romance",
-        "description": "A small-town boy obsessed with the Italian cycling team vies for the affections of a college girl.",
+    "11": {
+        "name": "Kramer vs. Kramer",
+        "certificate": "PG",
+        "runtime": "105 min",
+        "genre": "Drama",
+        "description": "Ted Kramer's wife leaves him, allowing for a lost bond to be rediscovered between Ted and his son, Billy. But a heated custody battle ensues over the divorced couple's son, deepening the wounds left by the separation.",
         "director": "",
         "stars": []
     },
-    "25": {
-        "name": "Hardcore",
-        "certificate": "",
-        "runtime": "108 min",
-        "genre": "Crime, Drama",
-        "description": "A conservative Midwest businessman ventures into the sordid underworld of pornography in California to look for his runaway teenage daughter who is making porno films in California's porno pits.",
-        "director": "",
-        "stars": []
-    },
-    "26": {
-        "name": "Zombi 2",
-        "certificate": "R",
-        "runtime": "91 min",
-        "genre": "Horror",
-        "description": "Strangers searching for a young woman's missing father arrive at a tropical island where a doctor desperately seeks the cause and cure of a recent epidemic of the undead.",
-        "director": "",
-        "stars": []
-    },
-    "27": {
+    "12": {
         "name": "The Amityville Horror",
         "certificate": "",
         "runtime": "117 min",
@@ -242,7 +107,79 @@
         "director": "",
         "stars": []
     },
-    "28": {
+    "13": {
+        "name": "When a Stranger Calls",
+        "certificate": "",
+        "runtime": "97 min",
+        "genre": "Horror, Mystery, Thriller",
+        "description": "A psychopathic killer terrorizes a babysitter, then returns seven years later to menace her again.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "Star Trek: The Motion Picture",
+        "certificate": "G",
+        "runtime": "132 min",
+        "genre": "Adventure, Mystery, Sci-Fi",
+        "description": "When an alien spacecraft of enormous power is spotted approaching Earth, Admiral James T. Kirk resumes command of the overhauled USS Enterprise in order to intercept it.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "Rocky II",
+        "certificate": "",
+        "runtime": "119 min",
+        "genre": "Drama, Sport",
+        "description": "Rocky struggles in family life after his bout with Apollo Creed, while the embarrassed champ insistently goads him to accept a challenge for a rematch.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "Moonraker",
+        "certificate": "",
+        "runtime": "126 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "James Bond investigates the mid-air theft of a space shuttle, and discovers a plot to commit global genocide.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "The Jerk",
+        "certificate": "",
+        "runtime": "94 min",
+        "genre": "Comedy",
+        "description": "A simple minded, sheltered country boy suddenly decides to leave his family home to experience life in the big city, where his naivety is both his best friend, and worst enemy.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Escape from Alcatraz",
+        "certificate": "",
+        "runtime": "112 min",
+        "genre": "Biography, Crime, Drama",
+        "description": "Alcatraz is the most secure prison of its time. It is believed that no one can ever escape from it, until three daring men make a possible successful attempt at escaping from one of the most infamous prisons in the world.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "10",
+        "certificate": "",
+        "runtime": "122 min",
+        "genre": "Comedy, Romance",
+        "description": "A Hollywood composer goes through a mid-life crisis and becomes infatuated with a sexy, newly married woman.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "Manhattan",
+        "certificate": "",
+        "runtime": "96 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "The life of a divorced television writer dating a teenage girl is further complicated when he falls in love with his best friend's mistress.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
         "name": "Phantasm",
         "certificate": "R",
         "runtime": "88 min",
@@ -251,43 +188,88 @@
         "director": "",
         "stars": []
     },
-    "29": {
-        "name": "The Muppet Movie",
+    "22": {
+        "name": "Being There",
         "certificate": "",
-        "runtime": "95 min",
-        "genre": "Adventure, Comedy, Family",
-        "description": "Kermit and his newfound friends trek across America to find success in Hollywood, but a frog legs merchant is after Kermit.",
+        "runtime": "130 min",
+        "genre": "Comedy, Drama",
+        "description": "A simpleminded, sheltered gardener becomes an unlikely trusted advisor to a powerful businessman and an insider in Washington politics.",
         "director": "",
         "stars": []
     },
-    "30": {
+    "23": {
+        "name": "Nosferatu: Phantom der Nacht",
+        "certificate": "",
+        "runtime": "107 min",
+        "genre": "Drama, Horror",
+        "description": "Count Dracula moves from Transylvania to Wismar, spreading the Black Plague across the land. Only a woman pure of heart can bring an end to his reign of horror.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "Meatballs",
+        "certificate": "",
+        "runtime": "94 min",
+        "genre": "Comedy",
+        "description": "Wacky hijinks of counselors and campers at a less-than-average summer camp.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "Breaking Away",
+        "certificate": "",
+        "runtime": "101 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A small-town boy obsessed with the Italian cycling team vies for the affections of a college girl.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "The Black Hole",
+        "certificate": "",
+        "runtime": "98 min",
+        "genre": "Action, Sci-Fi",
+        "description": "A research vessel finds a missing ship, commanded by a mysterious scientist, on the edge of a black hole.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "1941",
+        "certificate": "",
+        "runtime": "118 min",
+        "genre": "Action, Comedy, War",
+        "description": "Hysterical Californians prepare for a Japanese invasion in the days after Pearl Harbor.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "My Brilliant Career",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Biography, Drama, Romance",
+        "description": "A young independent woman who lives with her grandmother and aunt in the countryside rebels against being pressured into marriage and chooses to solely focus on having a career as a writer. Nevertheless, two suitors propose to her.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
         "name": "Tess",
         "certificate": "",
-        "runtime": "186 min",
+        "runtime": "170 min",
         "genre": "Drama, Romance",
         "description": "A strong-willed young peasant girl attracts the affection of two men.",
         "director": "",
         "stars": []
     },
-    "31": {
-        "name": "Nosferatu: Phantom der Nacht",
-        "certificate": "",
-        "runtime": "107 min",
+    "30": {
+        "name": "Zombi 2",
+        "certificate": "R",
+        "runtime": "91 min",
         "genre": "Horror",
-        "description": "Count Dracula moves from Transylvania to Wismar, spreading the Black Plague across the land. Only a woman pure of heart can bring an end to his reign of horror.",
+        "description": "Strangers searching for a young woman's missing father arrive at a tropical island where a doctor desperately seeks the cause and cure of a recent epidemic of the undead.",
         "director": "",
         "stars": []
     },
-    "32": {
-        "name": "Rock 'n' Roll High School",
-        "certificate": "",
-        "runtime": "93 min",
-        "genre": "Comedy, Music",
-        "description": "A group of rock-music-loving students, with the help of the Ramones, take over their school to combat its newly installed oppressive administration.",
-        "director": "",
-        "stars": []
-    },
-    "33": {
+    "31": {
         "name": "The Brood",
         "certificate": "",
         "runtime": "92 min",
@@ -296,7 +278,7 @@
         "director": "",
         "stars": []
     },
-    "34": {
+    "32": {
         "name": "The Wanderers",
         "certificate": "",
         "runtime": "112 min",
@@ -305,52 +287,25 @@
         "director": "",
         "stars": []
     },
+    "33": {
+        "name": "Prophecy",
+        "certificate": "",
+        "runtime": "102 min",
+        "genre": "Horror, Sci-Fi, Thriller",
+        "description": "A log company's waste mutates the environment, creating a giant killer bear-monster.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "Dracula",
+        "certificate": "",
+        "runtime": "109 min",
+        "genre": "Horror, Romance",
+        "description": "In 1913, the charming, seductive and sinister vampire Count Dracula travels to England in search of an immortal bride.",
+        "director": "",
+        "stars": []
+    },
     "35": {
-        "name": "Bear Island",
-        "certificate": "",
-        "runtime": "118 min",
-        "genre": "Action, Adventure, Mystery",
-        "description": "On the remote Norwegian Bear Island, used as a submarine base by the Germans during World War II, U.N. scientist Larsen sends a distress signal using an emergency N.A.T.O. frequency, and is received by scientific vessel Morning Rose.",
-        "director": "",
-        "stars": []
-    },
-    "36": {
-        "name": "The Black Stallion",
-        "certificate": "",
-        "runtime": "118 min",
-        "genre": "Adventure, Family, Sport",
-        "description": "While traveling with his father, young Alec becomes fascinated by a mysterious Arabian stallion who is brought on board and stabled in the ship he is sailing on. When it tragically sinks ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "37": {
-        "name": "The China Syndrome",
-        "certificate": "",
-        "runtime": "122 min",
-        "genre": "Drama, Thriller",
-        "description": "A reporter finds what appears to be a cover-up of safety hazards at a nuclear power plant.",
-        "director": "",
-        "stars": []
-    },
-    "38": {
-        "name": "Time After Time",
-        "certificate": "",
-        "runtime": "112 min",
-        "genre": "Adventure, Drama, Sci-Fi",
-        "description": "H.G. Wells pursues Jack the Ripper to the 20th Century when the serial murderer uses the future writer's time machine to escape his time period.",
-        "director": "",
-        "stars": []
-    },
-    "39": {
-        "name": "Norma Rae",
-        "certificate": "",
-        "runtime": "114 min",
-        "genre": "Drama",
-        "description": "A young single mother and textile worker agrees to help unionize her mill despite the problems and dangers involved.",
-        "director": "",
-        "stars": []
-    },
-    "40": {
         "name": "Die Blechtrommel",
         "certificate": "",
         "runtime": "142 min",
@@ -359,7 +314,7 @@
         "director": "",
         "stars": []
     },
-    "41": {
+    "36": {
         "name": "Beneath the Valley of the Ultra-Vixens",
         "certificate": "",
         "runtime": "93 min",
@@ -368,7 +323,25 @@
         "director": "",
         "stars": []
     },
-    "42": {
+    "37": {
+        "name": "Tourist Trap",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Horror",
+        "description": "A group of young friends stranded at a secluded roadside museum are stalked by a masked assailant who uses his telekenetic powers to control the attraction's mannequins.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "The Muppet Movie",
+        "certificate": "",
+        "runtime": "95 min",
+        "genre": "Adventure, Comedy, Family",
+        "description": "Kermit and his newfound friends trek across America to find success in Hollywood, but a frog legs merchant is after Kermit.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
         "name": "...and justice for all.",
         "certificate": "",
         "runtime": "119 min",
@@ -377,21 +350,48 @@
         "director": "",
         "stars": []
     },
-    "43": {
-        "name": "When a Stranger Calls",
+    "40": {
+        "name": "North Dallas Forty",
         "certificate": "",
-        "runtime": "97 min",
-        "genre": "Crime, Drama, Horror",
-        "description": "A psychopathic killer terrorizes a babysitter, then returns seven years later to menace her again.",
+        "runtime": "119 min",
+        "genre": "Comedy, Drama, Sport",
+        "description": "A semi-fictional account of life as a professional (American-style) football player. Loosely based on the Dallas Cowboys team of the early 1970s.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Time After Time",
+        "certificate": "",
+        "runtime": "112 min",
+        "genre": "Adventure, Drama, Sci-Fi",
+        "description": "H.G. Wells pursues Jack the Ripper to the 20th Century when the serial murderer uses the future writer's time machine to escape his time period.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "Rock 'n' Roll High School",
+        "certificate": "",
+        "runtime": "93 min",
+        "genre": "Comedy, Music",
+        "description": "A group of rock-music-loving students, with the help of the Ramones, take over their school to combat its newly installed oppressive administration.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Hardcore",
+        "certificate": "",
+        "runtime": "108 min",
+        "genre": "Crime, Drama",
+        "description": "A conservative Midwest businessman ventures into the sordid underworld of pornography in California to look for his runaway teenage daughter who is making porno films in California's porno pits.",
         "director": "",
         "stars": []
     },
     "44": {
-        "name": "Skatetown, U.S.A.",
+        "name": "Malibu High",
         "certificate": "",
-        "runtime": "98 min",
-        "genre": "Comedy",
-        "description": "At a roller disco competition, two rivals find themselves becoming good friends while competing for a prize of one thousand dollars in cash.",
+        "runtime": "90 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "When a high school senior is dumped by her boyfriend, her grades fall drastically...to avoid failing, she begins seducing her male teachers. Thus begins her downward spiral into drug ...                See full summary\u00a0\u00bb",
         "director": "",
         "stars": []
     },
@@ -405,24 +405,33 @@
         "stars": []
     },
     "46": {
-        "name": "Dracula",
+        "name": "The Black Stallion",
         "certificate": "",
-        "runtime": "109 min",
-        "genre": "Horror, Romance",
-        "description": "In 1913, the charming, seductive and sinister vampire Count Dracula travels to England in search of an immortal bride.",
+        "runtime": "118 min",
+        "genre": "Adventure, Family, Sport",
+        "description": "While traveling with his father, young Alec becomes fascinated by a mysterious Arabian stallion who is brought on board and stabled in the ship he is sailing on. When it tragically sinks ...                See full summary\u00a0\u00bb",
         "director": "",
         "stars": []
     },
     "47": {
-        "name": "Tourist Trap",
+        "name": "The China Syndrome",
         "certificate": "",
-        "runtime": "90 min",
-        "genre": "Horror",
-        "description": "A group of young friends stranded at a secluded roadside museum are stalked by a masked assailant who uses his telekenetic powers to control the attraction's mannequins.",
+        "runtime": "122 min",
+        "genre": "Drama, Thriller",
+        "description": "A reporter finds what appears to be a cover-up of safety hazards at a nuclear power plant.",
         "director": "",
         "stars": []
     },
     "48": {
+        "name": "Roller Boogie",
+        "certificate": "",
+        "runtime": "103 min",
+        "genre": "Drama, Music",
+        "description": "Skaters band together to keep their roller-disco open.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
         "name": "The Rose",
         "certificate": "",
         "runtime": "125 min",
@@ -431,21 +440,12 @@
         "director": "",
         "stars": []
     },
-    "49": {
-        "name": "The Electric Horseman",
-        "certificate": "",
-        "runtime": "121 min",
-        "genre": "Comedy, Drama, Romance",
-        "description": "A rodeo star past his prime steals his company's horse and rides into the desert, with a feisty reporter accompanying him.",
-        "director": "",
-        "stars": []
-    },
     "50": {
-        "name": "Over the Edge",
+        "name": "Scum",
         "certificate": "",
-        "runtime": "95 min",
+        "runtime": "98 min",
         "genre": "Crime, Drama",
-        "description": "A group of bored teenagers rebel against authority in the community of New Granada after the death of one of their own.",
+        "description": "An uncompromising story of life in a British juvenile offender institution in the 70's.",
         "director": "",
         "stars": []
     }

@@ -1,23 +1,32 @@
 {
     "1": {
-        "name": "Rent",
-        "certificate": "PG-13",
-        "runtime": "135 min",
-        "genre": "Drama, Musical, Romance",
-        "description": "This is the film version of the Pulitzer and Tony Award winning musical about Bohemians in the East Village of New York City struggling with life, love and AIDS, and the impacts they have on America.",
+        "name": "Batman Begins",
+        "certificate": "UA",
+        "runtime": "140 min",
+        "genre": "Action, Adventure",
+        "description": "After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption.",
         "director": "",
         "stars": []
     },
     "2": {
-        "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
-        "certificate": "U",
-        "runtime": "143 min",
-        "genre": "Adventure, Family, Fantasy",
-        "description": "Four kids travel through a wardrobe to the land of Narnia and learn of their destiny to free it with the guidance of a mystical lion.",
+        "name": "Walk the Line",
+        "certificate": "PG-13",
+        "runtime": "136 min",
+        "genre": "Biography, Drama, Music",
+        "description": "A chronicle of country music legend Johnny Cash's life, from his early days on an Arkansas cotton farm to his rise to fame with Sun Records in Memphis, where he recorded alongside Elvis Presley, Jerry Lee Lewis, and Carl Perkins.",
         "director": "",
         "stars": []
     },
     "3": {
+        "name": "The Devil's Rejects",
+        "certificate": "R",
+        "runtime": "107 min",
+        "genre": "Horror",
+        "description": "The murderous, backwoods Firefly family take to the road to escape a vengeful police force which is not afraid of being as ruthless as their target.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
         "name": "Pride & Prejudice",
         "certificate": "PG",
         "runtime": "129 min",
@@ -26,7 +35,16 @@
         "director": "",
         "stars": []
     },
-    "4": {
+    "5": {
+        "name": "War of the Worlds",
+        "certificate": "PG-13",
+        "runtime": "116 min",
+        "genre": "Adventure, Sci-Fi",
+        "description": "As Earth is invaded by alien tripod fighting machines, one family fights for survival in this sci-fi action film.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
         "name": "Charlie and the Chocolate Factory",
         "certificate": "PG",
         "runtime": "115 min",
@@ -35,30 +53,12 @@
         "director": "",
         "stars": []
     },
-    "5": {
+    "7": {
         "name": "Harry Potter and the Goblet of Fire",
         "certificate": "UA",
         "runtime": "157 min",
         "genre": "Adventure, Family, Fantasy",
         "description": "A young wizard finds himself competing in a hazardous tournament between rival schools of magic, but he is distracted by recurring nightmares.",
-        "director": "",
-        "stars": []
-    },
-    "6": {
-        "name": "Serenity",
-        "certificate": "PG-13",
-        "runtime": "119 min",
-        "genre": "Action, Adventure, Sci-Fi",
-        "description": "The crew of the ship Serenity try to evade an assassin sent to recapture one of their members who is telepathic.",
-        "director": "",
-        "stars": []
-    },
-    "7": {
-        "name": "Batman Begins",
-        "certificate": "UA",
-        "runtime": "140 min",
-        "genre": "Action, Adventure, Thriller",
-        "description": "After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption.",
         "director": "",
         "stars": []
     },
@@ -72,6 +72,15 @@
         "stars": []
     },
     "9": {
+        "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+        "certificate": "U",
+        "runtime": "143 min",
+        "genre": "Adventure, Family, Fantasy",
+        "description": "Four kids travel through a wardrobe to the land of Narnia and learn of their destiny to free it with the guidance of a mystical lion.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
         "name": "Brokeback Mountain",
         "certificate": "A",
         "runtime": "134 min",
@@ -80,7 +89,7 @@
         "director": "",
         "stars": []
     },
-    "10": {
+    "11": {
         "name": "V for Vendetta",
         "certificate": "A",
         "runtime": "132 min",
@@ -89,223 +98,7 @@
         "director": "",
         "stars": []
     },
-    "11": {
-        "name": "Constantine",
-        "certificate": "A",
-        "runtime": "121 min",
-        "genre": "Action, Fantasy, Horror",
-        "description": "Supernatural detective John Constantine helps a policewoman prove her sister's death was not a suicide, but something more.",
-        "director": "",
-        "stars": []
-    },
     "12": {
-        "name": "Robots",
-        "certificate": "PG",
-        "runtime": "91 min",
-        "genre": "Animation, Adventure, Comedy",
-        "description": "In a robot world, a young idealistic inventor travels to the big city to join his inspiration's company, only to find himself opposing its sinister new management.",
-        "director": "",
-        "stars": []
-    },
-    "13": {
-        "name": "The 40 Year Old Virgin",
-        "certificate": "R",
-        "runtime": "116 min",
-        "genre": "Comedy, Romance",
-        "description": "Goaded by his buddies, a nerdy guy who's never \"done the deed\" only finds the pressure mounting when he meets a single mother.",
-        "director": "",
-        "stars": []
-    },
-    "14": {
-        "name": "Wedding Crashers",
-        "certificate": "R",
-        "runtime": "119 min",
-        "genre": "Comedy, Romance",
-        "description": "John Beckwith and Jeremy Grey, a pair of committed womanizers who sneak into weddings to take advantage of the romantic tinge in the air, find themselves at odds with one another when John meets and falls for Claire Cleary.",
-        "director": "",
-        "stars": []
-    },
-    "15": {
-        "name": "Star Wars: Episode III - Revenge of the Sith",
-        "certificate": "PG-13",
-        "runtime": "140 min",
-        "genre": "Action, Adventure, Fantasy",
-        "description": "Three years into the Clone Wars, the Jedi rescue Palpatine from Count Dooku. As Obi-wan pursues a new threat, Anakin acts as a double agent between the Jedi Council and Palpatine and is lured into a sinister plan to rule the galaxy.",
-        "director": "",
-        "stars": []
-    },
-    "16": {
-        "name": "Hostel",
-        "certificate": "R",
-        "runtime": "94 min",
-        "genre": "Horror",
-        "description": "Three backpackers head to a Slovak city that promises to meet their hedonistic expectations, with no idea of the hell that awaits them.",
-        "director": "",
-        "stars": []
-    },
-    "17": {
-        "name": "War of the Worlds",
-        "certificate": "PG-13",
-        "runtime": "116 min",
-        "genre": "Adventure, Sci-Fi, Thriller",
-        "description": "As Earth is invaded by alien tripod fighting machines, one family fights for survival.",
-        "director": "",
-        "stars": []
-    },
-    "18": {
-        "name": "Kingdom of Heaven",
-        "certificate": "R",
-        "runtime": "144 min",
-        "genre": "Action, Adventure, Drama",
-        "description": "Balian of Ibelin travels to Jerusalem during the Crusades of the 12th century, and there he finds himself as the defender of the city and its people.",
-        "director": "",
-        "stars": []
-    },
-    "19": {
-        "name": "King Kong",
-        "certificate": "UA",
-        "runtime": "187 min",
-        "genre": "Action, Adventure, Drama",
-        "description": "In 1933 New York, an overly ambitious movie producer coerces his cast and hired ship crew to travel to the mysterious Skull Island, where they encounter Kong, a giant ape who is immediately smitten with leading lady Ann Darrow.",
-        "director": "",
-        "stars": []
-    },
-    "20": {
-        "name": "Walk the Line",
-        "certificate": "PG-13",
-        "runtime": "136 min",
-        "genre": "Biography, Drama, Music",
-        "description": "A chronicle of country music legend Johnny Cash's life, from his early days on an Arkansas cotton farm to his rise to fame with Sun Records in Memphis, where he recorded alongside Elvis Presley, Jerry Lee Lewis, and Carl Perkins.",
-        "director": "",
-        "stars": []
-    },
-    "21": {
-        "name": "The Hitchhiker's Guide to the Galaxy",
-        "certificate": "PG",
-        "runtime": "109 min",
-        "genre": "Adventure, Comedy, Sci-Fi",
-        "description": "Mere seconds before the Earth is to be demolished by an alien construction crew, journeyman Arthur Dent is swept off the planet by his friend Ford Prefect, a researcher penning a new edition of \"The Hitchhiker's Guide to the Galaxy.\"",
-        "director": "",
-        "stars": []
-    },
-    "22": {
-        "name": "Hitch",
-        "certificate": "PG-13",
-        "runtime": "118 min",
-        "genre": "Comedy, Romance",
-        "description": "While helping his latest client woo the fine lady of his dreams, a professional \"date doctor\" finds that his game doesn't quite work on the gossip columnist with whom he's smitten.",
-        "director": "",
-        "stars": []
-    },
-    "23": {
-        "name": "Sky High",
-        "certificate": "PG",
-        "runtime": "100 min",
-        "genre": "Adventure, Comedy, Family",
-        "description": "Set in an era where superheroes are commonly known and accepted, young William Stronghold, the son of the Commander and Jetstream, tries to find a balance between being a normal teenager and an extraordinary being.",
-        "director": "",
-        "stars": []
-    },
-    "24": {
-        "name": "Hard Candy",
-        "certificate": "R",
-        "runtime": "104 min",
-        "genre": "Crime, Drama, Thriller",
-        "description": "A teenage girl raids a man's home in order to expose him under suspicion that he is a pedophile.",
-        "director": "",
-        "stars": []
-    },
-    "25": {
-        "name": "Elektra",
-        "certificate": "PG-13",
-        "runtime": "97 min",
-        "genre": "Action, Adventure, Crime",
-        "description": "Elektra the warrior survives a near-death experience, becomes an assassin-for-hire, and tries to protect her two latest targets, a single father and his young daughter, from a group of supernatural assassins.",
-        "director": "",
-        "stars": []
-    },
-    "26": {
-        "name": "Match Point",
-        "certificate": "R",
-        "runtime": "124 min",
-        "genre": "Drama, Romance, Thriller",
-        "description": "At a turning point in his life, a former tennis pro falls for an actress who happens to be dating his friend and soon-to-be brother-in-law.",
-        "director": "",
-        "stars": []
-    },
-    "27": {
-        "name": "A History of Violence",
-        "certificate": "UA",
-        "runtime": "96 min",
-        "genre": "Drama, Thriller",
-        "description": "A mild-mannered man becomes a local hero through an act of violence, which sets off repercussions that will shake his family to its very core.",
-        "director": "",
-        "stars": []
-    },
-    "28": {
-        "name": "Coach Carter",
-        "certificate": "PG-13",
-        "runtime": "136 min",
-        "genre": "Biography, Drama, Sport",
-        "description": "Controversy surrounds high school basketball coach Ken Carter after he benches his entire team for breaking their academic contract with him.",
-        "director": "",
-        "stars": []
-    },
-    "29": {
-        "name": "Mr. & Mrs. Smith",
-        "certificate": "PG-13",
-        "runtime": "120 min",
-        "genre": "Action, Comedy, Crime",
-        "description": "A bored married couple is surprised to learn that they are both assassins hired by competing agencies to kill each other.",
-        "director": "",
-        "stars": []
-    },
-    "30": {
-        "name": "Four Brothers",
-        "certificate": "R",
-        "runtime": "109 min",
-        "genre": "Action, Crime, Drama",
-        "description": "When their adopted mother is gunned down in a store robbery the 'four brothers' investigated the murder for themselves & look for the killers but not all is what it seems.",
-        "director": "",
-        "stars": []
-    },
-    "31": {
-        "name": "Cheaper by the Dozen 2",
-        "certificate": "PG",
-        "runtime": "94 min",
-        "genre": "Adventure, Comedy, Family",
-        "description": "The Bakers, while on vacation, find themselves competing with a rival family of eight children.",
-        "director": "",
-        "stars": []
-    },
-    "32": {
-        "name": "The Constant Gardener",
-        "certificate": "R",
-        "runtime": "129 min",
-        "genre": "Drama, Mystery, Romance",
-        "description": "A widower is determined to get to the bottom of a potentially explosive secret involving his wife's murder, big business, and corporate corruption.",
-        "director": "",
-        "stars": []
-    },
-    "33": {
-        "name": "Kiss Kiss Bang Bang",
-        "certificate": "R",
-        "runtime": "103 min",
-        "genre": "Action, Comedy, Crime",
-        "description": "A murder mystery brings together a private eye, a struggling actress, and a thief masquerading as an actor.",
-        "director": "",
-        "stars": []
-    },
-    "34": {
-        "name": "Monster-in-Law",
-        "certificate": "PG-13",
-        "runtime": "101 min",
-        "genre": "Comedy, Romance",
-        "description": "The love life of Charlotte is reduced to an endless string of disastrous blind dates, until she meets the perfect man, Kevin. Unfortunately, his merciless mother will do anything to destroy their relationship.",
-        "director": "",
-        "stars": []
-    },
-    "35": {
         "name": "The Descent",
         "certificate": "R",
         "runtime": "99 min",
@@ -314,52 +107,151 @@
         "director": "",
         "stars": []
     },
-    "36": {
-        "name": "Munich",
-        "certificate": "A",
-        "runtime": "164 min",
-        "genre": "Drama, History, Thriller",
-        "description": "Based on the true story of the Black September aftermath, about the five men chosen to eliminate the ones responsible for that fateful day.",
-        "director": "",
-        "stars": []
-    },
-    "37": {
-        "name": "Fantastic Four",
-        "certificate": "PG-13",
-        "runtime": "106 min",
+    "13": {
+        "name": "Doom",
+        "certificate": "R",
+        "runtime": "105 min",
         "genre": "Action, Adventure, Fantasy",
-        "description": "A group of astronauts gain superpowers after a cosmic radiation exposure and must use them to oppose the plans of their enemy, Doctor Victor Von Doom.",
+        "description": "Space Marines are sent to investigate strange events at a research facility on Mars but find themselves at the mercy of genetically enhanced killing machines.",
         "director": "",
         "stars": []
     },
-    "38": {
-        "name": "Into the Blue",
+    "14": {
+        "name": "Serenity",
         "certificate": "PG-13",
-        "runtime": "110 min",
-        "genre": "Action, Adventure, Crime",
-        "description": "A group of divers find themselves in deep trouble with a drug lord after they come upon the illicit cargo of a sunken airplane.",
+        "runtime": "119 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "The crew of the ship Serenity try to evade an assassin sent to recapture one of their members who is telepathic.",
         "director": "",
         "stars": []
     },
-    "39": {
-        "name": "The Wedding Date",
-        "certificate": "PG-13",
-        "runtime": "90 min",
+    "15": {
+        "name": "Wedding Crashers",
+        "certificate": "R",
+        "runtime": "119 min",
         "genre": "Comedy, Romance",
-        "description": "Single-girl anxiety causes Kat Ellis to hire a male escort to pose as her boyfriend at her sister's wedding. Her plan, an attempt to dupe her ex-fianc\u00e9, who dumped her a couple years prior, proves to be her undoing.",
+        "description": "John Beckwith and Jeremy Grey, a pair of committed womanizers who sneak into weddings to take advantage of the romantic tinge in the air, find themselves at odds with one another when John meets and falls for Claire Cleary.",
         "director": "",
         "stars": []
     },
-    "40": {
-        "name": "Zathura: A Space Adventure",
+    "16": {
+        "name": "The 40 Year Old Virgin",
+        "certificate": "R",
+        "runtime": "116 min",
+        "genre": "Comedy, Romance",
+        "description": "Goaded by his buddies, a nerdy guy who's never \"done the deed\" only finds the pressure mounting when he meets a single mother.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "Star Wars: Episode III - Revenge of the Sith",
+        "certificate": "PG-13",
+        "runtime": "140 min",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "Three years into the Clone Wars, the Jedi rescue Palpatine from Count Dooku. As Obi-Wan pursues a new threat, Anakin acts as a double agent between the Jedi Council and Palpatine and is lured into a sinister plan to rule the galaxy.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Constantine",
+        "certificate": "A",
+        "runtime": "121 min",
+        "genre": "Action, Fantasy, Horror",
+        "description": "Supernatural exorcist and demonologist John Constantine helps a policewoman prove her sister's death was not a suicide, but something more.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "Kingdom of Heaven",
+        "certificate": "R",
+        "runtime": "144 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "Balian of Ibelin travels to Jerusalem during the Crusades of the 12th century, and there he finds himself as the defender of the city and its people.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "Sky High",
         "certificate": "PG",
-        "runtime": "101 min",
-        "genre": "Action, Adventure, Comedy",
-        "description": "Two young brothers are drawn into an intergalactic adventure when their house is hurled through the depths of space by the magical board game they are playing.",
+        "runtime": "100 min",
+        "genre": "Adventure, Comedy, Family",
+        "description": "Set in an era where superheroes are commonly known and accepted, young William Stronghold, the son of the Commander and Jetstream, tries to find a balance between being a normal teenager and an extraordinary being.",
         "director": "",
         "stars": []
     },
-    "41": {
+    "21": {
+        "name": "King Kong",
+        "certificate": "UA",
+        "runtime": "187 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "A greedy film producer assembles a team of moviemakers and sets out for the infamous Skull Island, where they find more than just cannibalistic natives.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "Corpse Bride",
+        "certificate": "PG",
+        "runtime": "77 min",
+        "genre": "Animation, Drama, Family",
+        "description": "When a shy groom practices his wedding vows in the inadvertent presence of a deceased young woman, she rises from the grave assuming he has married her.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "Mr. & Mrs. Smith",
+        "certificate": "PG-13",
+        "runtime": "120 min",
+        "genre": "Action, Comedy, Crime",
+        "description": "A bored married couple is surprised to learn that they are both assassins hired by competing agencies to kill each other.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "Hostel",
+        "certificate": "R",
+        "runtime": "94 min",
+        "genre": "Horror",
+        "description": "Three backpackers head to a Slovak city that promises to meet their hedonistic expectations, with no idea of the hell that awaits them.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "The Island",
+        "certificate": "PG-13",
+        "runtime": "136 min",
+        "genre": "Action, Sci-Fi, Thriller",
+        "description": "A man living in a futuristic sterile colony begins to question his circumscribed existence when his friend is chosen to go to the Island, the last uncontaminated place on earth.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "The Amityville Horror",
+        "certificate": "R",
+        "runtime": "90 min",
+        "genre": "Horror",
+        "description": "Newlyweds are terrorized by demonic forces after moving into a large house that was the site of a grisly mass murder a year before.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "House of Wax",
+        "certificate": "R",
+        "runtime": "108 min",
+        "genre": "Horror",
+        "description": "A group of unwitting teens are stranded near a strange wax museum and soon must fight to survive and keep from becoming the next exhibit.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "Match Point",
+        "certificate": "R",
+        "runtime": "124 min",
+        "genre": "Drama, Romance, Thriller",
+        "description": "At a turning point in his life, a former tennis pro falls for an actress who happens to be dating his friend and soon-to-be brother-in-law.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
         "name": "Madagascar",
         "certificate": "PG",
         "runtime": "86 min",
@@ -368,84 +260,192 @@
         "director": "",
         "stars": []
     },
-    "42": {
+    "30": {
+        "name": "Red Eye",
+        "certificate": "PG-13",
+        "runtime": "85 min",
+        "genre": "Action, Mystery, Thriller",
+        "description": "A woman is kidnapped by a stranger on a routine flight. Threatened by the potential murder of her father, she is pulled into a plot to assist her captor in offing a politician.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "Just Friends",
+        "certificate": "PG-13",
+        "runtime": "96 min",
+        "genre": "Comedy, Romance",
+        "description": "While visiting his hometown during Christmas, a man comes face-to-face with his old high school crush whom he was best friends with -- a woman whose rejection of him turned him into a ferocious womanizer.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "Fantastic Four",
+        "certificate": "PG-13",
+        "runtime": "106 min",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "A group of astronauts gain superpowers after a cosmic radiation exposure and must use them to oppose the plans of their enemy, Doctor Victor Von Doom.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "Munich",
+        "certificate": "A",
+        "runtime": "164 min",
+        "genre": "Biography, Crime, Drama",
+        "description": "Based on the true story of the Black September aftermath, about the five men chosen to eliminate the ones responsible for that fateful day.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "The Longest Yard",
+        "certificate": "PG-13",
+        "runtime": "113 min",
+        "genre": "Comedy, Crime, Sport",
+        "description": "Prison inmates form a football team to challenge the prison guards.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "Jarhead",
+        "certificate": "R",
+        "runtime": "125 min",
+        "genre": "Action, Biography, Drama",
+        "description": "A psychological study of operations desert shield and desert storm during the gulf war; through the eyes of a U.S marine sniper who struggles to cope with the possibility his girlfriend may be cheating on him back home.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "The Brothers Grimm",
+        "certificate": "PG-13",
+        "runtime": "118 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "Will and Jake Grimm are traveling con-artists who encounter a genuine fairy-tale curse which requires true courage instead of their usual bogus exorcisms.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
         "name": "The Dukes of Hazzard",
         "certificate": "PG-13",
         "runtime": "104 min",
-        "genre": "Adventure, Comedy",
+        "genre": "Comedy",
         "description": "Cousins Bo, Luke, and Daisy Duke, and their uncle Jesse, egg on the authorities of Hazzard County, Boss Hogg and Sheriff Coltrane.",
         "director": "",
         "stars": []
     },
-    "43": {
-        "name": "Hostage",
+    "38": {
+        "name": "Memoirs of a Geisha",
+        "certificate": "PG-13",
+        "runtime": "145 min",
+        "genre": "Drama, Romance",
+        "description": "Nitta Sayuri reveals how she transcended her fishing-village roots and became one of Japan's most celebrated geisha.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "Rumor Has It...",
+        "certificate": "PG-13",
+        "runtime": "97 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Sarah Huttinger is a woman who learns that her family was the inspiration for the book and film \"The Graduate\" -- and that she just might be the offspring of the well-documented event.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Lord of War",
         "certificate": "R",
-        "runtime": "113 min",
+        "runtime": "122 min",
         "genre": "Action, Crime, Drama",
-        "description": "When a family is held hostage, former hostage negotiator Jeff Talley arrives at the scene. Talley's own family is kidnapped and Talley must decide which is more important: saving a family he doesn't even know or saving his own family.",
+        "description": "An arms dealer confronts the morality of his work as he is being chased by an INTERPOL Agent.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Elizabethtown",
+        "certificate": "PG-13",
+        "runtime": "123 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "During a hometown memorial for his Kentucky-born father, a young man begins an unexpected romance with a too-good-to-be-true stewardess.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "The Hitchhiker's Guide to the Galaxy",
+        "certificate": "PG",
+        "runtime": "109 min",
+        "genre": "Adventure, Comedy, Sci-Fi",
+        "description": "Mere seconds before the Earth is to be demolished by an alien construction crew, journeyman Arthur Dent is swept off the planet by his friend Ford Prefect, a researcher penning a new edition of \"The Hitchhiker's Guide to the Galaxy.\"",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "The Wedding Date",
+        "certificate": "PG-13",
+        "runtime": "90 min",
+        "genre": "Comedy, Romance",
+        "description": "Single-girl anxiety causes Kat Ellis to hire a male escort to pose as her boyfriend at her sister's wedding. Her plan, an attempt to dupe her ex-fianc\u00e9, who dumped her a couple years prior, proves to be her undoing.",
         "director": "",
         "stars": []
     },
     "44": {
-        "name": "Yours, Mine & Ours",
+        "name": "The Pacifier",
         "certificate": "PG",
-        "runtime": "88 min",
-        "genre": "Comedy, Family, Fantasy",
-        "description": "A widowed Coast Guard Admiral and a widow handbag designer fall in love and marry, much to the dismay of her 10 and his 8 children.",
+        "runtime": "95 min",
+        "genre": "Action, Comedy, Drama",
+        "description": "Having recovered from wounds received in a failed rescue operation, Navy SEAL Shane Wolfe is handed a new assignment: Protect the five Plummer kids from enemies of their recently deceased father -- a government scientist whose top-secret experiment remains in the kids' house.",
         "director": "",
         "stars": []
     },
     "45": {
-        "name": "The Legend of Zorro",
-        "certificate": "PG",
-        "runtime": "129 min",
-        "genre": "Action, Adventure, Romance",
-        "description": "Despite trying to keep his swashbuckling to a minimum, a threat to California's pending statehood causes the adventure-loving Alejandro de la Vega (Banderas) -- and his wife, Elena (Zeta-Jones) -- to take action.",
+        "name": "A History of Violence",
+        "certificate": "UA",
+        "runtime": "96 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "A mild-mannered man becomes a local hero through an act of violence, which sets off repercussions that will shake his family to its very core in this action thriller.",
         "director": "",
         "stars": []
     },
     "46": {
-        "name": "The Devil's Rejects",
-        "certificate": "R",
-        "runtime": "107 min",
-        "genre": "Crime, Horror",
-        "description": "The murderous, backwoods Firefly family take to the road to escape a vengeful police force which is not afraid of being as ruthless as their target.",
+        "name": "Hitch",
+        "certificate": "PG-13",
+        "runtime": "118 min",
+        "genre": "Comedy, Romance",
+        "description": "While helping his latest client woo the woman of his dreams, a professional \"date doctor\" finds that his game doesn't quite work on the gossip columnist with whom he's smitten.",
         "director": "",
         "stars": []
     },
     "47": {
-        "name": "Waiting...",
-        "certificate": "R",
-        "runtime": "94 min",
-        "genre": "Comedy",
-        "description": "Young employees at Shenaniganz restaurant collectively stave off boredom and adulthood with their antics.",
+        "name": "Coach Carter",
+        "certificate": "PG-13",
+        "runtime": "136 min",
+        "genre": "Biography, Drama, Sport",
+        "description": "Controversy surrounds high school basketball coach Ken Carter after he benches his entire team for breaking their academic contract with him.",
         "director": "",
         "stars": []
     },
     "48": {
-        "name": "Hooligans",
+        "name": "Brick",
         "certificate": "R",
-        "runtime": "109 min",
-        "genre": "Crime, Drama, Sport",
-        "description": "A wrongfully expelled Harvard undergrad moves to London, where he is introduced to the violent underworld of football hooliganism.",
+        "runtime": "110 min",
+        "genre": "Action, Crime, Drama",
+        "description": "A teenage loner pushes his way into the underworld of a high school crime ring to investigate the disappearance of his ex-girlfriend.",
         "director": "",
         "stars": []
     },
     "49": {
-        "name": "The Island",
-        "certificate": "PG-13",
-        "runtime": "136 min",
-        "genre": "Action, Adventure, Mystery",
-        "description": "A man living in a futuristic sterile colony begins to question his circumscribed existence when his friend is chosen to go to the Island, the last uncontaminated place on earth.",
+        "name": "Robots",
+        "certificate": "PG",
+        "runtime": "91 min",
+        "genre": "Animation, Adventure, Comedy",
+        "description": "In a robot world, a young idealistic inventor travels to the big city to join his inspiration's company, only to find himself opposing its sinister new management.",
         "director": "",
         "stars": []
     },
     "50": {
-        "name": "Lords of Dogtown",
-        "certificate": "PG-13",
-        "runtime": "107 min",
-        "genre": "Biography, Drama, Sport",
-        "description": "The film follows the surf and skateboarding trends that originated in Venice, California during the 1970's.",
+        "name": "Breakfast on Pluto",
+        "certificate": "R",
+        "runtime": "128 min",
+        "genre": "Comedy, Drama",
+        "description": "In the 1970s, a young trans woman, Patrick \"Kitten\" Braden, comes of age by leaving her Irish town for London, in part to look for her mother and in part because her gender identity is beyond the town's understanding.",
         "director": "",
         "stars": []
     }

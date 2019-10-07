@@ -4,74 +4,11 @@
         "certificate": "",
         "runtime": "107 min",
         "genre": "Crime, Drama, Film-Noir",
-        "description": "An insurance representative lets himself be talked into a murder/insurance fraud scheme that arouses the suspicion of an insurance investigator.",
+        "description": "An insurance representative lets himself be talked by a seductive housewife into a murder/insurance fraud scheme that arouses the suspicion of an insurance investigator.",
         "director": "",
         "stars": []
     },
     "2": {
-        "name": "To Have and Have Not",
-        "certificate": "",
-        "runtime": "100 min",
-        "genre": "Adventure, Comedy, Romance",
-        "description": "During World War II, American expatriate Harry Morgan helps transport a French Resistance leader and his beautiful wife to Martinique while romancing a sensuous lounge singer.",
-        "director": "",
-        "stars": []
-    },
-    "3": {
-        "name": "Laura",
-        "certificate": "",
-        "runtime": "88 min",
-        "genre": "Drama, Film-Noir, Mystery",
-        "description": "A police detective falls in love with the woman whose murder he is investigating.",
-        "director": "",
-        "stars": []
-    },
-    "4": {
-        "name": "Tall in the Saddle",
-        "certificate": "",
-        "runtime": "87 min",
-        "genre": "Mystery, Romance, Western",
-        "description": "Ranch hand Rocklin arrives in town to start his new job but his employer has been murdered and the locals don't seem too friendly.",
-        "director": "",
-        "stars": []
-    },
-    "5": {
-        "name": "Arsenic and Old Lace",
-        "certificate": "",
-        "runtime": "118 min",
-        "genre": "Comedy, Crime, Thriller",
-        "description": "A drama critic learns on his wedding day that his beloved maiden aunts are homicidal maniacs, and that insanity runs in his family.",
-        "director": "",
-        "stars": []
-    },
-    "6": {
-        "name": "Gaslight",
-        "certificate": "",
-        "runtime": "114 min",
-        "genre": "Crime, Drama, Mystery",
-        "description": "Years after her aunt was murdered in her home, a young woman moves back into the house with her new husband. However, he has a secret that he will do anything to protect, even if it means driving his wife insane.",
-        "director": "",
-        "stars": []
-    },
-    "7": {
-        "name": "Murder, My Sweet",
-        "certificate": "",
-        "runtime": "95 min",
-        "genre": "Crime, Drama, Film-Noir",
-        "description": "After being hired to find an ex-con's former girlfriend, Philip Marlowe is drawn into a deeply complex web of mystery and deceit.",
-        "director": "",
-        "stars": []
-    },
-    "8": {
-        "name": "Lifeboat",
-        "certificate": "",
-        "runtime": "97 min",
-        "genre": "Drama, War",
-        "description": "Several survivors of a torpedoed ship find themselves in the same boat with one of the men who sunk it.",
-        "director": "",
-        "stars": []
-    },
-    "9": {
         "name": "Meet Me in St. Louis",
         "certificate": "",
         "runtime": "113 min",
@@ -80,61 +17,52 @@
         "director": "",
         "stars": []
     },
-    "10": {
-        "name": "The Woman in the Window",
+    "3": {
+        "name": "Gaslight",
         "certificate": "",
-        "runtime": "107 min",
+        "runtime": "114 min",
         "genre": "Crime, Drama, Film-Noir",
-        "description": "When a conservative middle-aged professor engages in a minor dalliance with a femme fatale, he is plunged into a nightmarish quicksand of blackmail and murder.",
+        "description": "Years after her aunt was murdered in her home, a young woman moves back into the house with her new husband. However, he has a secret that he will do anything to protect, even if it means driving his wife insane.",
         "director": "",
         "stars": []
     },
-    "11": {
-        "name": "National Velvet",
+    "4": {
+        "name": "Arsenic and Old Lace",
         "certificate": "",
-        "runtime": "123 min",
-        "genre": "Drama, Family, Sport",
-        "description": "A jaded former jockey helps a young girl prepare a wild but gifted horse for England's Grand National Sweepstakes.",
+        "runtime": "118 min",
+        "genre": "Comedy, Crime, Thriller",
+        "description": "A drama critic learns on his wedding day that his beloved maiden aunts are homicidal maniacs, and that insanity runs in his family.",
         "director": "",
         "stars": []
     },
-    "12": {
-        "name": "Going My Way",
+    "5": {
+        "name": "To Have and Have Not",
         "certificate": "",
-        "runtime": "126 min",
-        "genre": "Comedy, Drama, Music",
-        "description": "Father Charles O'Mailey, a young priest at a financially failing Church in a tough neighborhood, gains support and inspires his superior.",
+        "runtime": "100 min",
+        "genre": "Adventure, Comedy, Film-Noir",
+        "description": "During World War II, American expatriate Harry Morgan helps transport a French Resistance leader and his beautiful wife to Martinique while romancing a sensuous lounge singer.",
         "director": "",
         "stars": []
     },
-    "13": {
-        "name": "Since You Went Away",
+    "6": {
+        "name": "Laura",
         "certificate": "",
-        "runtime": "177 min",
-        "genre": "Drama, Romance, War",
-        "description": "With her husband away to fight in World War II, a housewife struggles to care for their two daughters - and a pair of lodgers who have moved in - alone.",
+        "runtime": "88 min",
+        "genre": "Drama, Film-Noir, Mystery",
+        "description": "A police detective falls in love with the woman whose murder he is investigating.",
         "director": "",
         "stars": []
     },
-    "14": {
-        "name": "The Three Caballeros",
+    "7": {
+        "name": "Lifeboat",
         "certificate": "",
-        "runtime": "71 min",
-        "genre": "Animation, Comedy, Family",
-        "description": "Donald receives his birthday gifts, which include traditional gifts and information about Brazil (hosted by Z\u00e9 Carioca) and Mexico (by Panchito, a Mexican Charro Rooster).",
+        "runtime": "97 min",
+        "genre": "Drama, War",
+        "description": "Several survivors of a torpedoed merchant ship in World War II find themselves in the same lifeboat with one of the U-boat men who sunk it.",
         "director": "",
         "stars": []
     },
-    "15": {
-        "name": "The Chronicle History of King Henry the Fifth with His Battell Fought at Agincourt in France",
-        "certificate": "",
-        "runtime": "137 min",
-        "genre": "Biography, Drama, History",
-        "description": "In the midst of the Hundred Years' War, the young King Henry V of England embarks on the conquest of France in 1415.",
-        "director": "",
-        "stars": []
-    },
-    "16": {
+    "8": {
         "name": "The Uninvited",
         "certificate": "Not Rated",
         "runtime": "99 min",
@@ -143,43 +71,25 @@
         "director": "",
         "stars": []
     },
-    "17": {
-        "name": "This Happy Breed",
-        "certificate": "",
-        "runtime": "114 min",
-        "genre": "Comedy, Drama",
-        "description": "No\u00ebl Coward's attempt to show how the ordinary people lived between the wars. Just after World War I, the Gibbons family moves to a nice house in the suburbs. An ordinary sort of life is ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "18": {
-        "name": "Phantom Lady",
-        "certificate": "",
-        "runtime": "87 min",
-        "genre": "Crime, Drama, Film-Noir",
-        "description": "A devoted secretary risks her life to try to find the elusive woman who may prove her boss didn't murder his selfish wife.",
-        "director": "",
-        "stars": []
-    },
-    "19": {
-        "name": "Cover Girl",
+    "9": {
+        "name": "The Woman in the Window",
         "certificate": "",
         "runtime": "107 min",
-        "genre": "Comedy, Musical, Romance",
-        "description": "Rusty Parker wins a contest and becomes a celebrated cover girl; this endangers her romance with dancing mentor Danny.",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "When a conservative middle-aged professor engages in a minor dalliance with a femme fatale, he is plunged into a nightmarish quicksand of blackmail and murder.",
         "director": "",
         "stars": []
     },
-    "20": {
-        "name": "Days of Glory",
+    "10": {
+        "name": "Going My Way",
         "certificate": "",
-        "runtime": "86 min",
-        "genre": "Drama, Romance, War",
-        "description": "A heroic guerilla group fights back against impossible odds during the 1941 Nazi invasion of Russia.",
+        "runtime": "126 min",
+        "genre": "Comedy, Drama, Music",
+        "description": "Father Charles O'Mailey, a young priest at a financially failing Church in a tough neighborhood, gains support and inspires his superior.",
         "director": "",
         "stars": []
     },
-    "21": {
+    "11": {
         "name": "House of Frankenstein",
         "certificate": "",
         "runtime": "71 min",
@@ -188,52 +98,7 @@
         "director": "",
         "stars": []
     },
-    "22": {
-        "name": "Thirty Seconds Over Tokyo",
-        "certificate": "",
-        "runtime": "138 min",
-        "genre": "Drama, History, War",
-        "description": "In the wake of Pearl Harbor, a young lieutenant leaves his expectant wife to volunteer for a secret bombing mission which will take the war to the Japanese homeland.",
-        "director": "",
-        "stars": []
-    },
-    "23": {
-        "name": "Mr. Winkle Goes to War",
-        "certificate": "",
-        "runtime": "80 min",
-        "genre": "Comedy, War",
-        "description": "Wilbert Winkle, a henpecked, mild-mannered, middle-aged bank clerk and handyman finds himself in the midst of battle in the South Pacific.",
-        "director": "",
-        "stars": []
-    },
-    "24": {
-        "name": "Passage to Marseille",
-        "certificate": "",
-        "runtime": "109 min",
-        "genre": "Adventure, Drama, War",
-        "description": "Five patriotic convicts are helped to escape imprisonment in Devil's Island so they can fight for occupied Free French forces against the Nazis.",
-        "director": "",
-        "stars": []
-    },
-    "25": {
-        "name": "The Curse of the Cat People",
-        "certificate": "",
-        "runtime": "70 min",
-        "genre": "Drama, Horror, Mystery",
-        "description": "The young, friendless daughter of Oliver and Alice Reed befriends her father's dead first wife and an aging, reclusive actress.",
-        "director": "",
-        "stars": []
-    },
-    "26": {
-        "name": "Die Feuerzangenbowle",
-        "certificate": "",
-        "runtime": "97 min",
-        "genre": "Comedy",
-        "description": "A successful writer, home-schooled in his youth, masquerades as a student at a secondary school to experience all the fun and pranks he missed out on.",
-        "director": "",
-        "stars": []
-    },
-    "27": {
+    "12": {
         "name": "Ivan Groznyy",
         "certificate": "",
         "runtime": "103 min",
@@ -242,43 +107,16 @@
         "director": "",
         "stars": []
     },
-    "28": {
-        "name": "Ministry of Fear",
+    "13": {
+        "name": "National Velvet",
         "certificate": "",
-        "runtime": "86 min",
-        "genre": "Crime, Drama, Film-Noir",
-        "description": "Stephen Neale has just been released from an asylum during World War 2 in England when he stumbles on a deadly Nazi spy plot by accident, and tries to stop it.",
+        "runtime": "123 min",
+        "genre": "Drama, Family, Sport",
+        "description": "A jaded former jockey helps a young girl prepare a wild but gifted horse for England's Grand National Sweepstakes.",
         "director": "",
         "stars": []
     },
-    "29": {
-        "name": "The Lodger",
-        "certificate": "",
-        "runtime": "84 min",
-        "genre": "Crime, Horror, Mystery",
-        "description": "A landlady suspects her new lodger is Jack the Ripper.",
-        "director": "",
-        "stars": []
-    },
-    "30": {
-        "name": "Captain America",
-        "certificate": "",
-        "runtime": "244 min",
-        "genre": "Action, Adventure, Sci-Fi",
-        "description": "Superhero Captain America battles the evil forces of the archvillain called The Scarab, who poisons his enemies and steals a secret device capable of destroying buildings by sound vibrations.",
-        "director": "",
-        "stars": []
-    },
-    "31": {
-        "name": "One Exciting Night",
-        "certificate": "",
-        "runtime": "89 min",
-        "genre": "Comedy, Musical",
-        "description": "A young singer meets a man who is the victim of a kidnap plot, and is assumed by the gang to be his girlfriend.",
-        "director": "",
-        "stars": []
-    },
-    "32": {
+    "14": {
         "name": "The Fighting Seabees",
         "certificate": "",
         "runtime": "100 min",
@@ -287,7 +125,7 @@
         "director": "",
         "stars": []
     },
-    "33": {
+    "15": {
         "name": "Buffalo Bill",
         "certificate": "",
         "runtime": "90 min",
@@ -296,7 +134,124 @@
         "director": "",
         "stars": []
     },
-    "34": {
+    "16": {
+        "name": "The Three Caballeros",
+        "certificate": "",
+        "runtime": "71 min",
+        "genre": "Animation, Comedy, Family",
+        "description": "Donald receives his birthday gifts, which include traditional gifts and information about Brazil (hosted by Z\u00e9 Carioca) and Mexico (by Panchito, a Mexican Charro Rooster).",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "The Curse of the Cat People",
+        "certificate": "",
+        "runtime": "70 min",
+        "genre": "Drama, Horror, Mystery",
+        "description": "The young, friendless daughter of Oliver and Alice Reed befriends her father's dead first wife and an aging, reclusive actress.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Captain America",
+        "certificate": "",
+        "runtime": "244 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Superhero Captain America battles the evil forces of the archvillain called The Scarab, who poisons his enemies and steals a secret device capable of destroying buildings by sound vibrations.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "Since You Went Away",
+        "certificate": "",
+        "runtime": "177 min",
+        "genre": "Drama, Romance, War",
+        "description": "With her husband away to fight in World War II, a housewife struggles to care for their two daughters - and a pair of lodgers who have moved in - alone.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "Murder, My Sweet",
+        "certificate": "",
+        "runtime": "95 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "After being hired to find an ex-con's former girlfriend, Philip Marlowe is drawn into a deeply complex web of mystery and deceit.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "The Mummy's Curse",
+        "certificate": "",
+        "runtime": "60 min",
+        "genre": "Action, Fantasy, Horror",
+        "description": "An irrigation project in the rural bayous of Louisiana unearths living mummy Kharis, who was buried in quicksand twenty-five years earlier.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "The Chronicle History of King Henry the Fifth with His Battell Fought at Agincourt in France",
+        "certificate": "",
+        "runtime": "137 min",
+        "genre": "Biography, Drama, History",
+        "description": "In the midst of the Hundred Years' War, the young King Henry V of England embarks on the conquest of France in 1415.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "Phantom Lady",
+        "certificate": "",
+        "runtime": "87 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "A devoted secretary risks her life to try to find the elusive woman who may prove her boss didn't murder his selfish wife.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "Thirty Seconds Over Tokyo",
+        "certificate": "",
+        "runtime": "138 min",
+        "genre": "Drama, History, War",
+        "description": "In the wake of Pearl Harbor, a young lieutenant leaves his expectant wife to volunteer for a secret bombing mission which will take the war to the Japanese homeland.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "Cover Girl",
+        "certificate": "",
+        "runtime": "107 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "Rusty Parker wins a contest and becomes a celebrated cover girl; this endangers her romance with dancing mentor Danny.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "This Happy Breed",
+        "certificate": "",
+        "runtime": "115 min",
+        "genre": "Comedy, Drama",
+        "description": "No\u00ebl Coward's attempt to show how the ordinary people lived between the wars. Just after World War I, the Gibbons family moves to a nice house in the suburbs. An ordinary sort of life is ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "The Mummy's Ghost",
+        "certificate": "",
+        "runtime": "61 min",
+        "genre": "Fantasy, Horror",
+        "description": "An Egyptian priest travels to America in search of the bodies of an Egyptian princess and her living, mummified guardian, with consequences.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "Die Feuerzangenbowle",
+        "certificate": "",
+        "runtime": "97 min",
+        "genre": "Comedy",
+        "description": "A successful writer, home-schooled in his youth, masquerades as a student at a secondary school to experience all the fun and pranks he missed out on.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
         "name": "Mr. Skeffington",
         "certificate": "",
         "runtime": "146 min",
@@ -305,21 +260,66 @@
         "director": "",
         "stars": []
     },
-    "35": {
-        "name": "The Big Noise",
+    "30": {
+        "name": "The Lodger",
         "certificate": "",
-        "runtime": "74 min",
-        "genre": "Action, Adventure, Comedy",
-        "description": "During World War II Stan and Ollie find themselves as improbable bodyguards to an eccentric inventor and his strategically important new bomb.",
+        "runtime": "84 min",
+        "genre": "Crime, Horror, Mystery",
+        "description": "A landlady suspects her new lodger is Jack the Ripper.",
         "director": "",
         "stars": []
     },
-    "36": {
+    "31": {
+        "name": "The Scarlet Claw",
+        "certificate": "",
+        "runtime": "74 min",
+        "genre": "Crime, Mystery, Thriller",
+        "description": "When a gentlewoman is found dead with her throat torn out, the villagers blame a supernatural monster. But Sherlock Holmes, who gets drawn into the case from nearby Quebec, suspects a human murderer.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "Hollywood Canteen",
+        "certificate": "",
+        "runtime": "124 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "Two soldiers on sick leave spend three nights at the Hollywood Canteen before going back to active duty. With a little friendly help from John Garfield, Slim gets to kiss Joan Leslie, whom ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "Tall in the Saddle",
+        "certificate": "",
+        "runtime": "87 min",
+        "genre": "Mystery, Romance, Western",
+        "description": "Ranch hand Rocklin arrives in town to start his new job but his employer has been murdered and the locals don't seem too friendly.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "Between Two Worlds",
+        "certificate": "",
+        "runtime": "112 min",
+        "genre": "Mystery, Drama, Fantasy",
+        "description": "Passengers on an ocean liner can't recall how they got on board or where they are going yet, oddly enough, it soon becomes apparent that they all have something in common.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
         "name": "A Canterbury Tale",
         "certificate": "",
         "runtime": "124 min",
         "genre": "Comedy, Drama, Mystery",
         "description": "Three modern day pilgrims investigate a bizarre crime in a small town on the way to Canterbury.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "The Pearl of Death",
+        "certificate": "",
+        "runtime": "69 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "When a valuable pearl with a sinister reputation is stolen, Sherlock Holmes must investigate its link to a series of brutal murders.",
         "director": "",
         "stars": []
     },
@@ -333,15 +333,33 @@
         "stars": []
     },
     "38": {
-        "name": "Dark Waters",
+        "name": "Ministry of Fear",
         "certificate": "",
-        "runtime": "90 min",
-        "genre": "Drama, Film-Noir, Mystery",
-        "description": "A woman returns to the USA after a German u-boat sank her ship, and finds out that someone wants to kill her for her inheritance.",
+        "runtime": "86 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "Stephen Neale has just been released from an asylum during World War 2 in England when he stumbles on a deadly Nazi spy plot by accident, and tries to stop it.",
         "director": "",
         "stars": []
     },
     "39": {
+        "name": "The Mask of Dimitrios",
+        "certificate": "",
+        "runtime": "95 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "Mystery writer Cornelius Leyden becomes intrigued when the murdered body of a vicious career criminal washes up in the Bosphorus.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "The Suspect",
+        "certificate": "",
+        "runtime": "85 min",
+        "genre": "Drama, Thriller",
+        "description": "An unhappily married man begins a flirtation with a younger woman. When his wife threatens to ruin her, he decides to take action.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
         "name": "The Thin Man Goes Home",
         "certificate": "",
         "runtime": "100 min",
@@ -350,16 +368,16 @@
         "director": "",
         "stars": []
     },
-    "40": {
-        "name": "I'll Be Seeing You",
+    "42": {
+        "name": "Experiment Perilous",
         "certificate": "",
-        "runtime": "85 min",
-        "genre": "Drama, Family, Romance",
-        "description": "A soldier suffering from combat fatigue meets a young woman on Christmas furlough from prison and their mutual loneliness blossoms into romance.",
+        "runtime": "91 min",
+        "genre": "Film-Noir, Romance, Thriller",
+        "description": "In 1903, a doctor suspects murder in the gothic Bederaux family.",
         "director": "",
         "stars": []
     },
-    "41": {
+    "43": {
         "name": "The Keys of the Kingdom",
         "certificate": "",
         "runtime": "137 min",
@@ -368,43 +386,7 @@
         "director": "",
         "stars": []
     },
-    "42": {
-        "name": "Address Unknown",
-        "certificate": "",
-        "runtime": "75 min",
-        "genre": "Drama",
-        "description": "US art dealer returns to his native Germany for a visit and is attracted by Nazi propaganda.",
-        "director": "",
-        "stars": []
-    },
-    "43": {
-        "name": "The Scarlet Claw",
-        "certificate": "",
-        "runtime": "74 min",
-        "genre": "Crime, Film-Noir, Mystery",
-        "description": "When a gentlewoman is found dead with her throat torn out, the villagers blame a supernatural monster. But Sherlock Holmes, who gets drawn into the case from nearby Quebec, suspects a human murderer.",
-        "director": "",
-        "stars": []
-    },
     "44": {
-        "name": "The Way Ahead",
-        "certificate": "",
-        "runtime": "115 min",
-        "genre": "Drama, War",
-        "description": "World War II drama that follows a group of British draftees, starting with their rigorous basic training, and ending with their deployment in North Africa.",
-        "director": "",
-        "stars": []
-    },
-    "45": {
-        "name": "Guest in the House",
-        "certificate": "",
-        "runtime": "121 min",
-        "genre": "Drama, Film-Noir",
-        "description": "A young manipulative woman moves in with her fianc\u00e9's family and turns a happy household against itself.",
-        "director": "",
-        "stars": []
-    },
-    "46": {
         "name": "The Seventh Cross",
         "certificate": "",
         "runtime": "112 min",
@@ -413,39 +395,57 @@
         "director": "",
         "stars": []
     },
-    "47": {
-        "name": "The Suspect",
+    "45": {
+        "name": "When Strangers Marry",
         "certificate": "",
-        "runtime": "85 min",
-        "genre": "Drama, Thriller",
-        "description": "In 1902 London, unhappily married Philip Marshall meets young Mary Gray, who is unemployed and depressed. Their deepening friendship, though physically innocent, is discovered by Philip's ...                See full summary\u00a0\u00bb",
+        "runtime": "67 min",
+        "genre": "Drama, Film-Noir, Mystery",
+        "description": "A naive small-town girl comes to New York City to meet her husband, and discovers that he may be a murderer.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Lady in the Dark",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Drama, Musical, Romance",
+        "description": "Ginger Rogers, \"Allure\" magazines editor-in-chief, suffers from headaches and continuos daydreams and undergoes psychoanalysis to determine why.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "One Body Too Many",
+        "certificate": "",
+        "runtime": "75 min",
+        "genre": "Comedy, Horror, Mystery",
+        "description": "An insurance investigator arrives at a creepy mansion to protect a millionaire who has had death threats made against him.",
         "director": "",
         "stars": []
     },
     "48": {
-        "name": "Hollywood Canteen",
+        "name": "Cobra Woman",
         "certificate": "",
-        "runtime": "124 min",
-        "genre": "Comedy, Musical, Romance",
-        "description": "Two soldiers on sick leave spend three nights at the Hollywood Canteen before going back to active duty. With a little friendly help from John Garfield, Slim gets to kiss Joan Leslie, whom ...                See full summary\u00a0\u00bb",
+        "runtime": "71 min",
+        "genre": "Adventure, Drama, Romance",
+        "description": "Upon discovering his fianc\u00e9e Tollea has been kidnaped, Ramu and his friend Kado set out for a Pacific isle where all strangers are to be killed on arrival and the inhabitants, who are ...                See full summary\u00a0\u00bb",
         "director": "",
         "stars": []
     },
     "49": {
-        "name": "Dragon Seed",
+        "name": "The Way Ahead",
         "certificate": "",
-        "runtime": "148 min",
-        "genre": "Drama, History, War",
-        "description": "The lives of a small Chinese village are turned Upside down when the Japanese invade it. And heroic young Chinese woman leads her fellow villagers in an uprising against Japanese Invaders.",
+        "runtime": "115 min",
+        "genre": "Drama, War",
+        "description": "World War II drama that follows a group of British draftees, starting with their rigorous basic training, and ending with their deployment in North Africa.",
         "director": "",
         "stars": []
     },
     "50": {
-        "name": "Together Again",
+        "name": "The Sullivans",
         "certificate": "",
-        "runtime": "93 min",
-        "genre": "Comedy, Romance",
-        "description": "A prim and proper widow who has succeeded him as mayor of a provincial Vermont town hires a worldly New York sculptor for her husband's statue.",
+        "runtime": "112 min",
+        "genre": "Biography, Drama, History",
+        "description": "The lives of a close-knit group of brothers growing up in Iowa during the days of the Great Depression and of World War II and their eventual deaths in action in the Pacific theater are ...                See full summary\u00a0\u00bb",
         "director": "",
         "stars": []
     }

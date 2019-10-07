@@ -1,23 +1,5 @@
 {
     "1": {
-        "name": "Westworld",
-        "certificate": "",
-        "runtime": "88 min",
-        "genre": "Action, Sci-Fi, Thriller",
-        "description": "A robot malfunction creates havoc and terror for unsuspecting vacationers at a futuristic, adult-themed amusement park.",
-        "director": "",
-        "stars": []
-    },
-    "2": {
-        "name": "Papillon",
-        "certificate": "R",
-        "runtime": "151 min",
-        "genre": "Biography, Crime, Drama",
-        "description": "A man befriends a fellow criminal as the two of them begin serving their sentence on a dreadful prison island, which inspires the man to plot his escape.",
-        "director": "",
-        "stars": []
-    },
-    "3": {
         "name": "The Exorcist",
         "certificate": "R",
         "runtime": "122 min",
@@ -26,142 +8,7 @@
         "director": "",
         "stars": []
     },
-    "4": {
-        "name": "The Sting",
-        "certificate": "",
-        "runtime": "129 min",
-        "genre": "Comedy, Crime, Drama",
-        "description": "Two grifters team up to pull off the ultimate con.",
-        "director": "",
-        "stars": []
-    },
-    "5": {
-        "name": "American Graffiti",
-        "certificate": "",
-        "runtime": "110 min",
-        "genre": "Comedy, Drama",
-        "description": "A couple of high school grads spend one final night cruising the strip with their buddies before they go off to college.",
-        "director": "",
-        "stars": []
-    },
-    "6": {
-        "name": "La monta\u00f1a sagrada",
-        "certificate": "",
-        "runtime": "114 min",
-        "genre": "Adventure, Drama, Fantasy",
-        "description": "In a corrupt, greed-fueled world, a powerful alchemist leads a Christ-like character and seven materialistic figures to the Holy Mountain, where they hope to achieve enlightenment.",
-        "director": "",
-        "stars": []
-    },
-    "7": {
-        "name": "Enter the Dragon",
-        "certificate": "R",
-        "runtime": "102 min",
-        "genre": "Action, Crime, Drama",
-        "description": "A martial artist agrees to spy on a reclusive crime lord using his invitation to a tournament there as cover.",
-        "director": "",
-        "stars": []
-    },
-    "8": {
-        "name": "High Plains Drifter",
-        "certificate": "",
-        "runtime": "105 min",
-        "genre": "Mystery, Western",
-        "description": "A gunfighting stranger comes to the small settlement of Lago and is hired to bring the townsfolk together in an attempt to hold off three outlaws who are on their way.",
-        "director": "",
-        "stars": []
-    },
-    "9": {
-        "name": "Tom Sawyer",
-        "certificate": "",
-        "runtime": "103 min",
-        "genre": "Adventure, Musical, Family",
-        "description": "Tom Sawyer and his pal Huckleberry Finn have great adventures on the Mississippi River, pretending to be pirates, attending their own funeral, and witnessing a murder.",
-        "director": "",
-        "stars": []
-    },
-    "10": {
-        "name": "The Legend of Hell House",
-        "certificate": "",
-        "runtime": "95 min",
-        "genre": "Horror",
-        "description": "Physicist Lionel Barrett and his wife lead a team of mediums into the Belasco House, which is supposedly haunted by the victims of its late owner, a six-foot-five serial killer.",
-        "director": "",
-        "stars": []
-    },
-    "11": {
-        "name": "Robin Hood",
-        "certificate": "",
-        "runtime": "83 min",
-        "genre": "Animation, Adventure, Comedy",
-        "description": "The story of the legendary outlaw is portrayed with the characters as humanoid animals.",
-        "director": "",
-        "stars": []
-    },
-    "12": {
-        "name": "Soylent Green",
-        "certificate": "",
-        "runtime": "97 min",
-        "genre": "Crime, Mystery, Sci-Fi",
-        "description": "In the world ravaged by the greenhouse effect and overpopulation, an NYPD detective investigates the murder of a big company CEO.",
-        "director": "",
-        "stars": []
-    },
-    "13": {
-        "name": "Don't Look Now",
-        "certificate": "",
-        "runtime": "110 min",
-        "genre": "Drama, Horror, Thriller",
-        "description": "A married couple grieving the recent death of their young daughter are in Venice when they encounter two elderly sisters, one of whom is psychic and brings a warning from beyond.",
-        "director": "",
-        "stars": []
-    },
-    "14": {
-        "name": "Serpico",
-        "certificate": "",
-        "runtime": "130 min",
-        "genre": "Biography, Crime, Drama",
-        "description": "An honest New York cop named Frank Serpico blows the whistle on rampant corruption in the force only to have his comrades turn against him.",
-        "director": "",
-        "stars": []
-    },
-    "15": {
-        "name": "Walking Tall",
-        "certificate": "",
-        "runtime": "125 min",
-        "genre": "Action, Biography, Crime",
-        "description": "Based on the life of Tennessee sheriff Buford Pusser whom almost single-handily cleaned up his small town of crime and corruption, but at a personal cost of his family life and nearly his own life.",
-        "director": "",
-        "stars": []
-    },
-    "16": {
-        "name": "Mean Streets",
-        "certificate": "R",
-        "runtime": "112 min",
-        "genre": "Crime, Drama, Thriller",
-        "description": "A small-time hood aspires to work his way up the ranks of a local mob.",
-        "director": "",
-        "stars": []
-    },
-    "17": {
-        "name": "Live and Let Die",
-        "certificate": "",
-        "runtime": "121 min",
-        "genre": "Action, Adventure, Thriller",
-        "description": "007 is sent to stop a diabolically brilliant heroin magnate armed with a complex organization and a reliable psychic tarot card reader.",
-        "director": "",
-        "stars": []
-    },
-    "18": {
-        "name": "Badlands",
-        "certificate": "",
-        "runtime": "94 min",
-        "genre": "Crime, Drama",
-        "description": "An impressionable teenage girl from a dead-end town and her older greaser boyfriend embark on a killing spree in the South Dakota badlands.",
-        "director": "",
-        "stars": []
-    },
-    "19": {
+    "2": {
         "name": "The Wicker Man",
         "certificate": "",
         "runtime": "88 min",
@@ -170,7 +17,151 @@
         "director": "",
         "stars": []
     },
-    "20": {
+    "3": {
+        "name": "Mean Streets",
+        "certificate": "R",
+        "runtime": "112 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "A small-time hood aspires to work his way up the ranks of a local mob.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "American Graffiti",
+        "certificate": "",
+        "runtime": "110 min",
+        "genre": "Comedy, Drama",
+        "description": "A couple of high school grads spend one final night cruising the strip with their buddies before they go off to college.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "Soylent Green",
+        "certificate": "",
+        "runtime": "97 min",
+        "genre": "Crime, Mystery, Sci-Fi",
+        "description": "In the world ravaged by the greenhouse effect and overpopulation, an NYPD detective investigates the murder of a big company CEO.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "Papillon",
+        "certificate": "R",
+        "runtime": "151 min",
+        "genre": "Biography, Crime, Drama",
+        "description": "A man befriends a fellow criminal as the two of them begin serving their sentence on a dreadful prison island, which inspires the man to plot his escape.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "La monta\u00f1a sagrada",
+        "certificate": "",
+        "runtime": "114 min",
+        "genre": "Adventure, Drama, Fantasy",
+        "description": "In a corrupt, greed-fueled world, a powerful alchemist leads a Christ-like character and seven materialistic figures to the Holy Mountain, where they hope to achieve enlightenment.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "A Warm December",
+        "certificate": "",
+        "runtime": "99 min",
+        "genre": "Drama, Romance",
+        "description": "Dr. Matt Younger and his daughter arrive for a month-long visit to London for dirt-bike racing and unexpectedly, a new romance for the widowed Dr. Younger. His new love interest is the ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "Don't Look Now",
+        "certificate": "",
+        "runtime": "110 min",
+        "genre": "Drama, Horror, Thriller",
+        "description": "A married couple grieving the recent death of their young daughter are in Venice when they encounter two elderly sisters, one of whom is psychic and brings a warning from beyond.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "The Sting",
+        "certificate": "",
+        "runtime": "129 min",
+        "genre": "Comedy, Crime, Drama",
+        "description": "Two grifters team up to pull off the ultimate con.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "Serpico",
+        "certificate": "",
+        "runtime": "130 min",
+        "genre": "Biography, Crime, Drama",
+        "description": "An honest New York cop named Frank Serpico blows the whistle on rampant corruption in the force only to have his comrades turn against him.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "The Long Goodbye",
+        "certificate": "",
+        "runtime": "112 min",
+        "genre": "Comedy, Crime, Drama",
+        "description": "Private investigator Philip Marlowe helps a friend out of a jam then gets implicated in his wife's murder.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "Live and Let Die",
+        "certificate": "",
+        "runtime": "121 min",
+        "genre": "Action, Adventure, Thriller",
+        "description": "007 is sent to stop a diabolically brilliant heroin magnate armed with a complex organization and a reliable psychic tarot card reader.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "Robin Hood",
+        "certificate": "",
+        "runtime": "83 min",
+        "genre": "Animation, Adventure, Comedy",
+        "description": "The story of the legendary outlaw is portrayed with the characters as humanoid animals.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "Enter the Dragon",
+        "certificate": "R",
+        "runtime": "102 min",
+        "genre": "Action, Crime, Drama",
+        "description": "A martial artist agrees to spy on a reclusive crime lord using his invitation to a tournament there as cover.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "Westworld",
+        "certificate": "",
+        "runtime": "88 min",
+        "genre": "Action, Sci-Fi, Thriller",
+        "description": "A robot malfunction creates havoc and terror for unsuspecting vacationers at a futuristic, adult-themed amusement park.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "Badlands",
+        "certificate": "",
+        "runtime": "94 min",
+        "genre": "Crime, Drama",
+        "description": "An impressionable teenage girl from a dead-end town and her older greaser boyfriend embark on a killing spree in the South Dakota badlands.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Malizia",
+        "certificate": "",
+        "runtime": "97 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A widower and two of his sons become infatuated by their beautiful housekeeper, and all three set out to seduce her using their own unique methods.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
         "name": "Contes immoraux",
         "certificate": "",
         "runtime": "103 min",
@@ -179,39 +170,48 @@
         "director": "",
         "stars": []
     },
+    "20": {
+        "name": "High Plains Drifter",
+        "certificate": "",
+        "runtime": "105 min",
+        "genre": "Drama, Mystery, Western",
+        "description": "A gunfighting stranger (Clint Eastwood) comes to the small settlement of Lago and is hired to bring the townsfolk together in an attempt to hold off three outlaws who are on their way.",
+        "director": "",
+        "stars": []
+    },
     "21": {
+        "name": "La plan\u00e8te sauvage",
+        "certificate": "",
+        "runtime": "72 min",
+        "genre": "Animation, Sci-Fi",
+        "description": "On a faraway planet where blue giants rule, oppressed humanoids rebel against their machine-like leaders.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "Kanashimi no beradonna",
+        "certificate": "",
+        "runtime": "86 min",
+        "genre": "Animation, Drama, Fantasy",
+        "description": "An evil feudal lord rapes a village girl on her wedding night and proceeds to ruin her and her husband's lives. After she's eventually banished from her village, the girl makes a pact with the devil to gain magical ability and take revenge.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "The Last Detail",
+        "certificate": "",
+        "runtime": "104 min",
+        "genre": "Comedy, Drama",
+        "description": "Two Navy men are ordered to bring a young offender to prison, but decide to show him one last good time along the way.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
         "name": "Paper Moon",
         "certificate": "",
         "runtime": "102 min",
         "genre": "Comedy, Drama",
         "description": "During the Great Depression, a con man finds himself saddled with a young girl who may or may not be his daughter, and the two forge an unlikely partnership.",
-        "director": "",
-        "stars": []
-    },
-    "22": {
-        "name": "That'll Be the Day",
-        "certificate": "",
-        "runtime": "91 min",
-        "genre": "Drama, Music",
-        "description": "Abandoned by his father at an early age, Jim MacLaine seems to have inherited the old man's restlessness. Despite his apparent intelligence, Jim decides not to take the exams that would ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "23": {
-        "name": "Angst essen Seele auf",
-        "certificate": "",
-        "runtime": "92 min",
-        "genre": "Drama, Romance",
-        "description": "An almost accidental romance is kindled between a German woman in her mid-sixties and a Moroccan migrant worker around twenty-five years younger. They abruptly decide to marry, appalling everyone around them.",
-        "director": "",
-        "stars": []
-    },
-    "24": {
-        "name": "The Way We Were",
-        "certificate": "",
-        "runtime": "118 min",
-        "genre": "Drama, Romance",
-        "description": "Two desperate people have a wonderful romance, but their political views and convictions drive them apart.",
         "director": "",
         "stars": []
     },
@@ -229,56 +229,29 @@
         "certificate": "",
         "runtime": "124 min",
         "genre": "Action, Crime, Mystery",
-        "description": "Dirty Harry is on the trail of vigilante cops who are not above going beyond the law to kill the city's undesirables.",
+        "description": "San Francisco Inspector \"Dirty\" Harry Callahan (Clint Eastwood) is on the trail of vigilante Police Officers who are not above going beyond the law to kill the city's undesirables.",
         "director": "",
         "stars": []
     },
     "27": {
-        "name": "Amarcord",
+        "name": "Walking Tall",
         "certificate": "",
-        "runtime": "123 min",
-        "genre": "Comedy, Drama",
-        "description": "A series of comedic and nostalgic vignettes set in a 1930s Italian coastal town.",
+        "runtime": "125 min",
+        "genre": "Action, Biography, Crime",
+        "description": "Based on the life of Tennessee sheriff Buford Pusser whom almost single-handily cleaned up his small town of crime and corruption, but at a personal cost of his family life and nearly his own life.",
         "director": "",
         "stars": []
     },
     "28": {
-        "name": "La plan\u00e8te sauvage",
+        "name": "The Way We Were",
         "certificate": "",
-        "runtime": "72 min",
-        "genre": "Animation, Sci-Fi",
-        "description": "On a faraway planet where blue giants rule, oppressed humanoids rebel against their machine-like leaders.",
+        "runtime": "118 min",
+        "genre": "Drama, Romance",
+        "description": "Two disparate people have a wonderful romance, but their political views and convictions drive them apart.",
         "director": "",
         "stars": []
     },
     "29": {
-        "name": "The Long Goodbye",
-        "certificate": "",
-        "runtime": "112 min",
-        "genre": "Comedy, Crime, Drama",
-        "description": "Private investigator Philip Marlowe helps a friend out of a jam then gets implicated in his wife's murder.",
-        "director": "",
-        "stars": []
-    },
-    "30": {
-        "name": "Jesus Christ Superstar",
-        "certificate": "",
-        "runtime": "108 min",
-        "genre": "Drama, History, Musical",
-        "description": "Film version of the musical stage play, presenting the last few weeks of Christ's life told in an anachronistic manner.",
-        "director": "",
-        "stars": []
-    },
-    "31": {
-        "name": "The Three Musketeers",
-        "certificate": "",
-        "runtime": "106 min",
-        "genre": "Action, Adventure",
-        "description": "A young swordsman comes to Paris and faces villains, romance, adventure and intrigue with three Musketeer friends.",
-        "director": "",
-        "stars": []
-    },
-    "32": {
         "name": "The Day of the Jackal",
         "certificate": "",
         "runtime": "143 min",
@@ -287,30 +260,57 @@
         "director": "",
         "stars": []
     },
-    "33": {
-        "name": "Sleeper",
+    "30": {
+        "name": "Amarcord",
         "certificate": "",
-        "runtime": "89 min",
-        "genre": "Comedy, Sci-Fi",
-        "description": "A nerdish store owner is revived out of cryostasis into a future world to fight an oppressive government.",
+        "runtime": "123 min",
+        "genre": "Comedy, Drama",
+        "description": "A series of comedic and nostalgic vignettes set in a 1930s Italian coastal town.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "The Last of Sheila",
+        "certificate": "",
+        "runtime": "120 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "A year after Sheila is killed in a hit-and-run, her multi-millionaire husband invites a group of friends to spend a week on his yacht playing a scavenger hunt-style mystery game. The game turns out to be all too real and all too deadly.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "Jesus Christ Superstar",
+        "certificate": "",
+        "runtime": "106 min",
+        "genre": "Drama, History, Musical",
+        "description": "Film version of the musical stage play, presenting the last few weeks of Christ's life told in an anachronistic manner.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "The Legend of Hell House",
+        "certificate": "",
+        "runtime": "95 min",
+        "genre": "Horror",
+        "description": "Physicist Lionel Barrett and his wife lead a team of mediums into the Belasco House, which is supposedly haunted by the victims of its late owner, a six-foot-five serial killer.",
         "director": "",
         "stars": []
     },
     "34": {
-        "name": "Dillinger",
-        "certificate": "",
-        "runtime": "107 min",
-        "genre": "Action, Biography, Crime",
-        "description": "John Dillinger and his gang go on a bank robbing spree across the midwest, but one G-Man is determined to bring him down.",
+        "name": "La grande bouffe",
+        "certificate": "NC-17",
+        "runtime": "130 min",
+        "genre": "Comedy, Drama",
+        "description": "A group of men go to a villa in the French countryside where they resolve to eat themselves to death.",
         "director": "",
         "stars": []
     },
     "35": {
-        "name": "The Golden Voyage of Sinbad",
+        "name": "The Three Musketeers",
         "certificate": "",
-        "runtime": "105 min",
-        "genre": "Action, Adventure, Fantasy",
-        "description": "Sinbad and the vizier of Marabia, followed by evil magician Koura, seek the three golden tablets that can gain them access to the ancient temple of the Oracle of All Knowledge.",
+        "runtime": "106 min",
+        "genre": "Action, Adventure",
+        "description": "A young swordsman comes to Paris and faces villains, romance, adventure and intrigue with three Musketeer friends.",
         "director": "",
         "stars": []
     },
@@ -324,11 +324,11 @@
         "stars": []
     },
     "37": {
-        "name": "The Last Detail",
+        "name": "Scarecrow",
         "certificate": "",
-        "runtime": "104 min",
-        "genre": "Comedy, Drama",
-        "description": "Two Navy men are ordered to bring a young offender to prison, but decide to show him one last good time along the way.",
+        "runtime": "112 min",
+        "genre": "Drama",
+        "description": "Max, an ex-con drifter with a penchant for brawling is amused by Lion, a homeless ex-sailor, and they partner up as they head east together.",
         "director": "",
         "stars": []
     },
@@ -342,33 +342,42 @@
         "stars": []
     },
     "39": {
-        "name": "Scarecrow",
+        "name": "Penny Gold",
         "certificate": "",
-        "runtime": "112 min",
-        "genre": "Drama",
-        "description": "Max, an ex-con drifter with a penchant for brawling is amused by Lion, a homeless ex-sailor, and they partner up as they head east together.",
+        "runtime": "87 min",
+        "genre": "Drama, Thriller",
+        "description": "While investigating a murder case, a detective stumbles upon a rare-stamp swindle involving the victim's twin sister.",
         "director": "",
         "stars": []
     },
     "40": {
-        "name": "Malizia",
+        "name": "Charley Varrick",
         "certificate": "",
-        "runtime": "97 min",
-        "genre": "Comedy, Drama, Romance",
-        "description": "A widower and two of his sons become infatuated by their beautiful housekeeper, and all three set out to seduce her using their own unique methods.",
+        "runtime": "111 min",
+        "genre": "Action, Crime, Drama",
+        "description": "A man, his wife, and their friend, stage a bloody bank robbery, unaware they are stealing money from the Mob.",
         "director": "",
         "stars": []
     },
     "41": {
-        "name": "Breezy",
+        "name": "The Paper Chase",
         "certificate": "",
-        "runtime": "106 min",
-        "genre": "Drama, Romance",
-        "description": "Breezy is a teen-aged hippy with a big heart. After taking a ride with a man who only wants her for sex, Breezy manages to escape. She runs to hide on a secluded property where stands the ...                See full summary\u00a0\u00bb",
+        "runtime": "113 min",
+        "genre": "Comedy, Drama",
+        "description": "A first-year law student at Harvard Law School struggles with balancing his coursework and his relationship with the daughter of his sternest professor.",
         "director": "",
         "stars": []
     },
     "42": {
+        "name": "The Crazies",
+        "certificate": "",
+        "runtime": "103 min",
+        "genre": "Action, Horror, Sci-Fi",
+        "description": "The military attempts to contain a manmade combat virus that causes death and permanent insanity in those infected, as it overtakes a small Pennsylvania town.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
         "name": "Pat Garrett & Billy the Kid",
         "certificate": "R",
         "runtime": "122 min",
@@ -377,25 +386,34 @@
         "director": "",
         "stars": []
     },
-    "43": {
-        "name": "Kanashimi no beradonna",
-        "certificate": "",
-        "runtime": "86 min",
-        "genre": "Animation, Drama, Fantasy",
-        "description": "An evil feudal lord rapes a village girl on her wedding night and proceeds to ruin her and her husband's lives. After she's eventually banished from her village, the girl makes a pact with the devil to gain magical ability and take revenge.",
-        "director": "",
-        "stars": []
-    },
     "44": {
-        "name": "The Seven-Ups",
+        "name": "Theater of Blood",
         "certificate": "",
-        "runtime": "103 min",
-        "genre": "Action, Crime, Drama",
-        "description": "A tough detective who is part of an elite New York City unit is trying to find out who killed his partner, but uncovers a plot to kidnap mobsters for money.",
+        "runtime": "104 min",
+        "genre": "Comedy, Drama, Horror",
+        "description": "A Shakespearean actor takes poetic revenge on the critics who denied him recognition.",
         "director": "",
         "stars": []
     },
     "45": {
+        "name": "The Golden Voyage of Sinbad",
+        "certificate": "",
+        "runtime": "105 min",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "Sinbad and the vizier of Marabia, followed by evil magician Koura, seek the three golden tablets that can gain them access to the ancient temple of the Oracle of All Knowledge.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "The Satanic Rites of Dracula",
+        "certificate": "",
+        "runtime": "87 min",
+        "genre": "Horror",
+        "description": "In London in the 1970s, Scotland Yard police investigators think they have uncovered a case of vampirism. They call in an expert vampire researcher named Professor Lorrimer Van Helsing (a ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "47": {
         "name": "La nuit am\u00e9ricaine",
         "certificate": "",
         "runtime": "116 min",
@@ -404,48 +422,30 @@
         "director": "",
         "stars": []
     },
-    "46": {
-        "name": "The MacKintosh Man",
-        "certificate": "",
-        "runtime": "98 min",
-        "genre": "Thriller",
-        "description": "A member of British Intelligence assumes a fictitious criminal identity and allows himself to be caught, imprisoned, and freed in order to infiltrate a spy organization and expose a traitor.",
-        "director": "",
-        "stars": []
-    },
-    "47": {
-        "name": "The Neptune Factor",
-        "certificate": "",
-        "runtime": "98 min",
-        "genre": "Sci-Fi",
-        "description": "When an underwater ocean lab is lost in a earthquake, an advanced submarine is sent down to find it and encounters terrible danger.",
-        "director": "",
-        "stars": []
-    },
     "48": {
-        "name": "Lost Horizon",
+        "name": "Anita",
         "certificate": "",
-        "runtime": "150 min",
-        "genre": "Adventure, Drama, Fantasy",
-        "description": "While escaping war-torn China, a group of Europeans crash in the Himalayas, where they are rescued and taken to the mysterious Valley of the Blue Moon, Shangri-La. Hidden from the rest of ...                See full summary\u00a0\u00bb",
+        "runtime": "95 min",
+        "genre": "Drama",
+        "description": "Anita is a girl of only teenage years, and while she has developed early physically, to a mature woman, she is emotionally struggling. Her relationship with her parents and her friends is ...                See full summary\u00a0\u00bb",
         "director": "",
         "stars": []
     },
     "49": {
-        "name": "Invasion of the Bee Girls",
+        "name": "Sleeper",
         "certificate": "",
-        "runtime": "86 min",
-        "genre": "Horror, Sci-Fi",
-        "description": "A powerful cosmic force is turning Earth women into queen bees who kill men by wearing them out sexually.",
+        "runtime": "89 min",
+        "genre": "Comedy, Sci-Fi",
+        "description": "A nerdish store owner is revived out of cryostasis into a future world to fight an oppressive government.",
         "director": "",
         "stars": []
     },
     "50": {
-        "name": "The Mack",
+        "name": "I corpi presentano tracce di violenza carnale",
         "certificate": "",
-        "runtime": "110 min",
-        "genre": "Crime, Drama",
-        "description": "Goldie returns from five years at the state pen and winds up King of the pimping game. Trouble comes in the form of two corrupt white cops and a crime lord who wants him to return to the ...                See full summary\u00a0\u00bb",
+        "runtime": "89 min",
+        "genre": "Horror, Mystery, Thriller",
+        "description": "A string of appalling lust murders shocks the University of Perugia as a sadistic serial killer strangles to death beautiful college girls with a red and black scarf.",
         "director": "",
         "stars": []
     }

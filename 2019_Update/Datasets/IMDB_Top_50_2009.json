@@ -9,15 +9,6 @@
         "stars": []
     },
     "2": {
-        "name": "Watchmen",
-        "certificate": "R",
-        "runtime": "162 min",
-        "genre": "Action, Drama, Mystery",
-        "description": "In 1985 where former superheroes exist, the murder of a colleague sends active vigilante Rorschach into his own sprawling investigation, uncovering something that could completely change the course of history as we know it.",
-        "director": "",
-        "stars": []
-    },
-    "3": {
         "name": "Inglourious Basterds",
         "certificate": "A",
         "runtime": "153 min",
@@ -26,21 +17,30 @@
         "director": "",
         "stars": []
     },
+    "3": {
+        "name": "Orphan",
+        "certificate": "R",
+        "runtime": "123 min",
+        "genre": "Horror, Mystery, Thriller",
+        "description": "A husband and wife who recently lost their baby adopt a 9 year-old girl who is not nearly as innocent as she claims to be.",
+        "director": "",
+        "stars": []
+    },
     "4": {
-        "name": "Avatar",
-        "certificate": "PG-13",
+        "name": "Watchmen",
+        "certificate": "R",
         "runtime": "162 min",
-        "genre": "Action, Adventure, Fantasy",
-        "description": "A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+        "genre": "Action, Drama, Mystery",
+        "description": "In 1985 where former superheroes exist, the murder of a colleague sends active vigilante Rorschach into his own sprawling investigation, uncovering something that could completely change the course of history as we know it.",
         "director": "",
         "stars": []
     },
     "5": {
-        "name": "Star Trek",
+        "name": "Avatar",
         "certificate": "PG-13",
-        "runtime": "127 min",
-        "genre": "Action, Adventure, Sci-Fi",
-        "description": "The brash James T. Kirk tries to live up to his father's legacy with Mr. Spock keeping him in check as a vengeful Romulan from the future creates black holes to destroy the Federation one planet at a time.",
+        "runtime": "162 min",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
         "director": "",
         "stars": []
     },
@@ -54,339 +54,6 @@
         "stars": []
     },
     "7": {
-        "name": "Kynodontas",
-        "certificate": "",
-        "runtime": "97 min",
-        "genre": "Drama, Horror, Thriller",
-        "description": "Three teenagers live isolated, without leaving their house, because their over-protective parents say they can only leave when their dogtooth falls out.",
-        "director": "",
-        "stars": []
-    },
-    "8": {
-        "name": "M\u00e4n som hatar kvinnor",
-        "certificate": "R",
-        "runtime": "152 min",
-        "genre": "Crime, Drama, Mystery",
-        "description": "A journalist is aided by a young female hacker in his search for the killer of a woman who has been dead for forty years.",
-        "director": "",
-        "stars": []
-    },
-    "9": {
-        "name": "The Lovely Bones",
-        "certificate": "PG-13",
-        "runtime": "135 min",
-        "genre": "Drama, Fantasy, Thriller",
-        "description": "Centers on a young girl who has been murdered and watches over her family - and her killer - from purgatory. She must weigh her desire for vengeance against her desire for her family to heal.",
-        "director": "",
-        "stars": []
-    },
-    "10": {
-        "name": "X-Men Origins: Wolverine",
-        "certificate": "PG-13",
-        "runtime": "107 min",
-        "genre": "Action, Adventure, Sci-Fi",
-        "description": "The early years of James Logan, featuring his rivalry with his brother Victor Creed, his service in the special forces team Weapon X, and his experimentation into the metal-lined mutant Wolverine.",
-        "director": "",
-        "stars": []
-    },
-    "11": {
-        "name": "Harry Potter and the Half-Blood Prince",
-        "certificate": "PG",
-        "runtime": "153 min",
-        "genre": "Adventure, Family, Fantasy",
-        "description": "As Harry Potter begins his sixth year at Hogwarts, he discovers an old book marked as \"the property of the Half-Blood Prince\" and begins to learn more about Lord Voldemort's dark past.",
-        "director": "",
-        "stars": []
-    },
-    "12": {
-        "name": "Couples Retreat",
-        "certificate": "PG-13",
-        "runtime": "113 min",
-        "genre": "Comedy",
-        "description": "A comedy centered around four couples who settle into a tropical-island resort for a vacation. While one of the couples is there to work on the marriage, the others fail to realize that participation in the resort's therapy sessions is not optional.",
-        "director": "",
-        "stars": []
-    },
-    "13": {
-        "name": "The Proposal",
-        "certificate": "PG-13",
-        "runtime": "108 min",
-        "genre": "Comedy, Drama, Romance",
-        "description": "A pushy boss forces her young assistant to marry her in order to keep her visa status in the U.S. and avoid deportation to Canada.",
-        "director": "",
-        "stars": []
-    },
-    "14": {
-        "name": "The Blind Side",
-        "certificate": "PG-13",
-        "runtime": "129 min",
-        "genre": "Biography, Drama, Sport",
-        "description": "The story of Michael Oher, a homeless and traumatized boy who became an All American football player and first round NFL draft pick with the help of a caring woman and her family.",
-        "director": "",
-        "stars": []
-    },
-    "15": {
-        "name": "2012",
-        "certificate": "UA",
-        "runtime": "158 min",
-        "genre": "Action, Adventure, Sci-Fi",
-        "description": "A frustrated writer struggles to keep his family alive when a series of global catastrophes threatens to annihilate mankind.",
-        "director": "",
-        "stars": []
-    },
-    "16": {
-        "name": "Sherlock Holmes",
-        "certificate": "PG-13",
-        "runtime": "128 min",
-        "genre": "Action, Adventure, Crime",
-        "description": "Detective Sherlock Holmes and his stalwart partner Watson engage in a battle of wits and brawn with a nemesis whose plot is a threat to all of England.",
-        "director": "",
-        "stars": []
-    },
-    "17": {
-        "name": "He's Just Not That Into You",
-        "certificate": "PG-13",
-        "runtime": "129 min",
-        "genre": "Comedy, Drama, Romance",
-        "description": "This Baltimore-set movie of interconnecting story arcs deals with the challenges of reading or misreading human behavior.",
-        "director": "",
-        "stars": []
-    },
-    "18": {
-        "name": "Law Abiding Citizen",
-        "certificate": "R",
-        "runtime": "109 min",
-        "genre": "Crime, Drama, Thriller",
-        "description": "A frustrated man decides to take justice into his own hands after a plea bargain sets one of his family's killers free. He targets not only the killer but also the district attorney and others involved in the deal.",
-        "director": "",
-        "stars": []
-    },
-    "19": {
-        "name": "Up",
-        "certificate": "PG",
-        "runtime": "96 min",
-        "genre": "Animation, Adventure, Comedy",
-        "description": "Seventy-eight year old Carl Fredricksen travels to Paradise Falls in his home equipped with balloons, inadvertently taking a young stowaway.",
-        "director": "",
-        "stars": []
-    },
-    "20": {
-        "name": "The Road",
-        "certificate": "R",
-        "runtime": "111 min",
-        "genre": "Adventure, Drama",
-        "description": "In a dangerous post-apocalyptic world, an ailing father defends his son as they slowly travel to the sea.",
-        "director": "",
-        "stars": []
-    },
-    "21": {
-        "name": "Moon",
-        "certificate": "R",
-        "runtime": "97 min",
-        "genre": "Drama, Mystery, Sci-Fi",
-        "description": "Astronaut Sam Bell has a quintessentially personal encounter toward the end of his three-year stint on the Moon, where he, working alongside his computer, GERTY, sends back to Earth parcels of a resource that has helped diminish our planet's power problems.",
-        "director": "",
-        "stars": []
-    },
-    "22": {
-        "name": "Fast & Furious",
-        "certificate": "PG-13",
-        "runtime": "107 min",
-        "genre": "Action, Crime, Thriller",
-        "description": "Brian O'Conner, back working for the FBI in Los Angeles, teams up with Dominic Toretto to bring down a heroin importer by infiltrating his operation.",
-        "director": "",
-        "stars": []
-    },
-    "23": {
-        "name": "District 9",
-        "certificate": "A",
-        "runtime": "112 min",
-        "genre": "Action, Sci-Fi, Thriller",
-        "description": "An extraterrestrial race forced to live in slum-like conditions on Earth suddenly finds a kindred spirit in a government agent who is exposed to their biotechnology.",
-        "director": "",
-        "stars": []
-    },
-    "24": {
-        "name": "Knowing",
-        "certificate": "PG-13",
-        "runtime": "121 min",
-        "genre": "Action, Drama, Mystery",
-        "description": "M.I.T. professor John Koestler links a mysterious list of numbers from a time capsule to past and future disasters and sets out to prevent the ultimate catastrophe.",
-        "director": "",
-        "stars": []
-    },
-    "25": {
-        "name": "17 Again",
-        "certificate": "PG-13",
-        "runtime": "102 min",
-        "genre": "Comedy, Drama, Fantasy",
-        "description": "Mike O'Donnell is ungrateful for how his life turned out. He gets a chance to rewrite his life when he tried to save a janitor near a bridge and jumped after him into a time vortex.",
-        "director": "",
-        "stars": []
-    },
-    "26": {
-        "name": "Antichrist",
-        "certificate": "",
-        "runtime": "108 min",
-        "genre": "Drama, Horror",
-        "description": "A grieving couple retreat to their cabin in the woods, hoping to repair their broken hearts and troubled marriage, but nature takes its course and things go from bad to worse.",
-        "director": "",
-        "stars": []
-    },
-    "27": {
-        "name": "3 Idiots",
-        "certificate": "UA",
-        "runtime": "170 min",
-        "genre": "Comedy, Drama",
-        "description": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them \"idiots\".",
-        "director": "",
-        "stars": []
-    },
-    "28": {
-        "name": "Mr. Nobody",
-        "certificate": "R",
-        "runtime": "141 min",
-        "genre": "Drama, Fantasy, Romance",
-        "description": "A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.",
-        "director": "",
-        "stars": []
-    },
-    "29": {
-        "name": "Enter the Void",
-        "certificate": "",
-        "runtime": "161 min",
-        "genre": "Drama, Fantasy",
-        "description": "A French drug dealer living in Tokyo is betrayed by his best friend and killed in a drug deal. His soul, observing the repercussions of his death, seeks resurrection.",
-        "director": "",
-        "stars": []
-    },
-    "30": {
-        "name": "Public Enemies",
-        "certificate": "A",
-        "runtime": "140 min",
-        "genre": "Biography, Crime, Drama",
-        "description": "The Feds try to take down notorious American gangsters John Dillinger, Baby Face Nelson and Pretty Boy Floyd during a booming crime wave in the 1930s.",
-        "director": "",
-        "stars": []
-    },
-    "31": {
-        "name": "Valhalla Rising",
-        "certificate": "",
-        "runtime": "93 min",
-        "genre": "Adventure, Drama, Fantasy",
-        "description": "Forced for some time to be a fighting slave, a pagan warrior escapes his captors with a boy and joins a group of Crusaders on their quest to the Holy Land.",
-        "director": "",
-        "stars": []
-    },
-    "32": {
-        "name": "Terminator Salvation",
-        "certificate": "UA",
-        "runtime": "115 min",
-        "genre": "Action, Adventure, Sci-Fi",
-        "description": "In 2018, a mysterious new weapon in the war against the machines, half-human and half-machine, comes to John Connor on the eve of a resistance attack on Skynet. But whose side is he on, and can he be trusted?",
-        "director": "",
-        "stars": []
-    },
-    "33": {
-        "name": "G.I. Joe: The Rise of Cobra",
-        "certificate": "PG-13",
-        "runtime": "118 min",
-        "genre": "Action, Adventure, Sci-Fi",
-        "description": "An elite military unit comprised of special operatives known as G.I. Joe, operating out of The Pit, takes on an evil organization led by a notorious arms dealer.",
-        "director": "",
-        "stars": []
-    },
-    "34": {
-        "name": "Fantastic Mr. Fox",
-        "certificate": "PG",
-        "runtime": "87 min",
-        "genre": "Animation, Adventure, Comedy",
-        "description": "An urbane fox cannot resist returning to his farm raiding ways and then must help his community survive the farmers' retaliation.",
-        "director": "",
-        "stars": []
-    },
-    "35": {
-        "name": "Splice",
-        "certificate": "R",
-        "runtime": "104 min",
-        "genre": "Drama, Horror, Sci-Fi",
-        "description": "Genetic engineers Clive Nicoli and Elsa Kast hope to achieve fame by successfully splicing together the DNA of different animals to create new hybrid animals for medical use.",
-        "director": "",
-        "stars": []
-    },
-    "36": {
-        "name": "Planet 51",
-        "certificate": "PG",
-        "runtime": "91 min",
-        "genre": "Animation, Adventure, Comedy",
-        "description": "An alien civilization is invaded by Astronaut Chuck Baker, who believes that the planet was uninhabited. Wanted by the military, Baker must get back to his ship before it goes into orbit without him.",
-        "director": "",
-        "stars": []
-    },
-    "37": {
-        "name": "(500) Days of Summer",
-        "certificate": "PG-13",
-        "runtime": "95 min",
-        "genre": "Comedy, Drama, Romance",
-        "description": "An offbeat romantic comedy about a woman who doesn't believe true love exists, and the young man who falls for her.",
-        "director": "",
-        "stars": []
-    },
-    "38": {
-        "name": "El secreto de sus ojos",
-        "certificate": "R",
-        "runtime": "129 min",
-        "genre": "Drama, Mystery, Romance",
-        "description": "A retired legal counselor writes a novel hoping to find closure for one of his past unresolved homicide cases and for his unreciprocated love with his superior - both of which still haunt him decades later.",
-        "director": "",
-        "stars": []
-    },
-    "39": {
-        "name": "Friday the 13th",
-        "certificate": "R",
-        "runtime": "97 min",
-        "genre": "Horror",
-        "description": "A group of young adults discover a boarded up Camp Crystal Lake, where they soon encounter Jason Voorhees and his deadly intentions.",
-        "director": "",
-        "stars": []
-    },
-    "40": {
-        "name": "Dragonball Evolution",
-        "certificate": "UA",
-        "runtime": "85 min",
-        "genre": "Action, Adventure, Fantasy",
-        "description": "The young warrior Son Goku sets out on a quest, racing against time and the vengeful King Piccolo, to collect a set of seven magical orbs that will grant their wielder unlimited power.",
-        "director": "",
-        "stars": []
-    },
-    "41": {
-        "name": "The Boat That Rocked",
-        "certificate": "R",
-        "runtime": "135 min",
-        "genre": "Comedy, Drama, Music",
-        "description": "A band of rogue DJs that captivated Britain, playing the music that defined a generation and standing up to a government that wanted classical music, and nothing else, on the airwaves.",
-        "director": "",
-        "stars": []
-    },
-    "42": {
-        "name": "The Human Centipede (First Sequence)",
-        "certificate": "R",
-        "runtime": "92 min",
-        "genre": "Horror",
-        "description": "A mad scientist kidnaps and mutilates a trio of tourists in order to reassemble them into a human centipede, created by stitching their mouths to each others' rectums.",
-        "director": "",
-        "stars": []
-    },
-    "43": {
-        "name": "Orphan",
-        "certificate": "R",
-        "runtime": "123 min",
-        "genre": "Horror, Mystery, Thriller",
-        "description": "A husband and wife who recently lost their baby adopt a 9 year-old girl who is not nearly as innocent as she claims to be.",
-        "director": "",
-        "stars": []
-    },
-    "44": {
         "name": "Jennifer's Body",
         "certificate": "A",
         "runtime": "102 min",
@@ -395,16 +62,34 @@
         "director": "",
         "stars": []
     },
-    "45": {
-        "name": "Up in the Air",
-        "certificate": "R",
-        "runtime": "109 min",
-        "genre": "Drama, Romance",
-        "description": "Ryan Bingham enjoys living out of a suitcase for his job, travelling around the country firing people, but finds that lifestyle threatened by the presence of a potential love interest, and a new hire.",
+    "8": {
+        "name": "2012",
+        "certificate": "UA",
+        "runtime": "158 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "A frustrated writer struggles to keep his family alive when a series of global catastrophes threatens to annihilate mankind.",
         "director": "",
         "stars": []
     },
-    "46": {
+    "9": {
+        "name": "Sherlock Holmes",
+        "certificate": "PG-13",
+        "runtime": "128 min",
+        "genre": "Action, Adventure, Crime",
+        "description": "Detective Sherlock Holmes and his stalwart partner Watson engage in a battle of wits and brawn with a nemesis whose plot is a threat to all of England.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "Harry Potter and the Half-Blood Prince",
+        "certificate": "A",
+        "runtime": "153 min",
+        "genre": "Action, Adventure, Family",
+        "description": "As Harry Potter begins his sixth year at Hogwarts, he discovers an old book marked as \"the property of the Half-Blood Prince\" and begins to learn more about Lord Voldemort's dark past.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
         "name": "Coraline",
         "certificate": "PG",
         "runtime": "100 min",
@@ -413,16 +98,7 @@
         "director": "",
         "stars": []
     },
-    "47": {
-        "name": "Ghosts of Girlfriends Past",
-        "certificate": "PG-13",
-        "runtime": "100 min",
-        "genre": "Comedy, Fantasy, Romance",
-        "description": "While attending his brother's wedding, a serial womanizer is haunted by the ghosts of his past girlfriends.",
-        "director": "",
-        "stars": []
-    },
-    "48": {
+    "12": {
         "name": "The Princess and the Frog",
         "certificate": "",
         "runtime": "97 min",
@@ -431,21 +107,345 @@
         "director": "",
         "stars": []
     },
-    "49": {
-        "name": "Triangle",
+    "13": {
+        "name": "He's Just Not That Into You",
+        "certificate": "PG-13",
+        "runtime": "129 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "This Baltimore-set movie of interconnecting story arcs deals with the challenges of reading or misreading human behavior.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "Star Trek",
+        "certificate": "PG-13",
+        "runtime": "127 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "The brash James T. Kirk tries to live up to his father's legacy with Mr. Spock keeping him in check as a vengeful Romulan from the future creates black holes to destroy the Federation one planet at a time.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "The Lovely Bones",
+        "certificate": "PG-13",
+        "runtime": "135 min",
+        "genre": "Drama, Fantasy, Thriller",
+        "description": "Centers on a young girl who has been murdered and watches over her family - and her killer - from purgatory. She must weigh her desire for vengeance against her desire for her family to heal.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "Friday the 13th",
         "certificate": "R",
+        "runtime": "97 min",
+        "genre": "Horror, Mystery, Thriller",
+        "description": "A group of young adults discover a boarded up Camp Crystal Lake, where they soon encounter Jason Voorhees and his deadly intentions.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "Terminator Salvation",
+        "certificate": "UA",
+        "runtime": "115 min",
+        "genre": "Action, Sci-Fi",
+        "description": "In 2018, a mysterious new weapon in the war against the machines, half-human and half-machine, comes to John Connor on the eve of a resistance attack on Skynet. But whose side is he on, and can he be trusted?",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "3 Idiots",
+        "certificate": "UA",
+        "runtime": "170 min",
+        "genre": "Comedy, Drama",
+        "description": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them \"idiots\".",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "The Blind Side",
+        "certificate": "PG-13",
+        "runtime": "129 min",
+        "genre": "Biography, Drama, Sport",
+        "description": "The story of Michael Oher, a homeless and traumatized boy who became an All American football player and first round NFL draft pick with the help of a caring woman and her family.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "X-Men Origins: Wolverine",
+        "certificate": "PG-13",
+        "runtime": "107 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "The early years of James Logan, featuring his rivalry with his brother Victor Creed, his service in the special forces team Weapon X, and his experimentation into the metal-lined mutant Wolverine.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "Up",
+        "certificate": "PG",
+        "runtime": "96 min",
+        "genre": "Animation, Adventure, Comedy",
+        "description": "Seventy-eight year old Carl Fredricksen travels to Paradise Falls in his home equipped with balloons, inadvertently taking a young stowaway.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "The Imaginarium of Doctor Parnassus",
+        "certificate": "PG-13",
+        "runtime": "123 min",
+        "genre": "Adventure, Comedy, Fantasy",
+        "description": "A traveling theater company gives its audience much more than they were expecting.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "District 9",
+        "certificate": "A",
+        "runtime": "112 min",
+        "genre": "Action, Sci-Fi, Thriller",
+        "description": "An extraterrestrial race, forced to live in slum-like conditions on Earth, suddenly finds a kindred spirit in a government agent who is exposed to their biotechnology.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "The Road",
+        "certificate": "R",
+        "runtime": "111 min",
+        "genre": "Drama",
+        "description": "In a dangerous post-apocalyptic world, an ailing father defends his son as they slowly travel to the sea.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "Moon",
+        "certificate": "R",
+        "runtime": "97 min",
+        "genre": "Drama, Mystery, Sci-Fi",
+        "description": "Astronaut Sam Bell has a quintessentially personal encounter toward the end of his three-year stint on the Moon, where he, working alongside his computer, GERTY, sends back to Earth parcels of a resource that has helped diminish our planet's power problems.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "G.I. Joe: The Rise of Cobra",
+        "certificate": "PG-13",
+        "runtime": "118 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "An elite military unit comprised of special operatives known as G.I. Joe, operating out of The Pit, takes on an evil organization led by a notorious arms dealer.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "The Human Centipede (First Sequence)",
+        "certificate": "R",
+        "runtime": "92 min",
+        "genre": "Horror",
+        "description": "A mad scientist kidnaps and mutilates a trio of tourists in order to reassemble them into a human centipede, created by stitching their mouths to each others' rectums.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "The Boat That Rocked",
+        "certificate": "R",
+        "runtime": "135 min",
+        "genre": "Comedy, Drama, Music",
+        "description": "A band of rogue DJs that captivated Britain, playing the music that defined a generation and standing up to a government that wanted classical music, and nothing else, on the airwaves.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "Case 39",
+        "certificate": "R",
+        "runtime": "109 min",
+        "genre": "Horror, Mystery, Thriller",
+        "description": "A social worker fights to save a girl from her abusive parents, only to discover that the situation is more dangerous than she ever expected.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "Kynodontas",
+        "certificate": "",
+        "runtime": "97 min",
+        "genre": "Drama, Thriller",
+        "description": "Three teenagers live isolated, without leaving their house, because their over-protective parents say they can only leave when their dogtooth falls out.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "Law Abiding Citizen",
+        "certificate": "A",
+        "runtime": "109 min",
+        "genre": "Action, Crime, Drama",
+        "description": "A frustrated man decides to take justice into his own hands after a plea bargain sets one of his family's killers free. He targets not only the killer but also the district attorney and others involved in the deal.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "Antichrist",
+        "certificate": "",
+        "runtime": "108 min",
+        "genre": "Drama, Horror",
+        "description": "A grieving couple retreat to their cabin in the woods, hoping to repair their broken hearts and troubled marriage, but nature takes its course and things go from bad to worse.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "Splice",
+        "certificate": "R",
+        "runtime": "104 min",
+        "genre": "Drama, Horror, Sci-Fi",
+        "description": "Genetic engineers Clive Nicoli and Elsa Kast hope to achieve fame by successfully splicing together the DNA of different animals to create new hybrid animals for medical use.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "Mr. Nobody",
+        "certificate": "R",
+        "runtime": "141 min",
+        "genre": "Drama, Fantasy, Romance",
+        "description": "A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "Drag Me to Hell",
+        "certificate": "PG-13",
         "runtime": "99 min",
-        "genre": "Fantasy, Mystery, Thriller",
-        "description": "A group of friends suffer a yachting accident and take refuge on a cruise drifting on the open sea, but quickly realize they were better off on the upturned yacht",
+        "genre": "Horror, Thriller",
+        "description": "A loan officer who evicts an old woman from her home finds herself the recipient of a supernatural curse. Desperate, she turns to a seer to try and save her soul, while evil forces work to push her to a breaking point.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "(500) Days of Summer",
+        "certificate": "PG-13",
+        "runtime": "95 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "An offbeat romantic comedy about a woman who doesn't believe true love exists, and the young man who falls for her.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "Angels & Demons",
+        "certificate": "PG-13",
+        "runtime": "138 min",
+        "genre": "Mystery, Thriller",
+        "description": "Harvard symbologist Robert Langdon works with a nuclear physicist to solve a murder and prevent a terrorist act against the Vatican during one of the significant events within the church.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "The Proposal",
+        "certificate": "PG-13",
+        "runtime": "108 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A pushy boss forces her young assistant to marry her in order to keep her visa status in the U.S. and avoid deportation to Canada.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "Fast & Furious",
+        "certificate": "PG-13",
+        "runtime": "107 min",
+        "genre": "Action, Adventure, Thriller",
+        "description": "Brian O'Conner, back working for the FBI in Los Angeles, teams up with Dominic Toretto to bring down a heroin importer by infiltrating his operation.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "El secreto de sus ojos",
+        "certificate": "R",
+        "runtime": "129 min",
+        "genre": "Drama, Mystery, Romance",
+        "description": "A retired legal counselor writes a novel hoping to find closure for one of his past unresolved homicide cases and for his unreciprocated love with his superior - both of which still haunt him decades later.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Up in the Air",
+        "certificate": "R",
+        "runtime": "109 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Ryan Bingham enjoys living out of a suitcase for his job, travelling around the country firing people, but finds that lifestyle threatened by the presence of a potential love interest, and a new hire.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "Brothers",
+        "certificate": "R",
+        "runtime": "105 min",
+        "genre": "Action, Drama, Thriller",
+        "description": "A young man comforts his older brother's wife and children after he goes missing in Afghanistan.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Gooby",
+        "certificate": "PG",
+        "runtime": "95 min",
+        "genre": "Family, Fantasy",
+        "description": "Eleven year old Willy's childhood toy, Gooby, comes to life as a real, live, six-foot tall monster who helps Willy through rough times, with hair-raising and hilarious adventures.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "The Last House on the Left",
+        "certificate": "R",
+        "runtime": "110 min",
+        "genre": "Horror, Thriller",
+        "description": "After kidnapping and brutally assaulting two young women, a gang unknowingly finds refuge at a vacation home belonging to the parents of one of the victims: a mother and father who devise an increasingly gruesome series of revenge tactics.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "The Ugly Truth",
+        "certificate": "R",
+        "runtime": "96 min",
+        "genre": "Comedy, Romance",
+        "description": "An uptight television producer takes control of a morning show segment on modern relationships hosted by a misogynistic man.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Monsters vs. Aliens",
+        "certificate": "PG",
+        "runtime": "94 min",
+        "genre": "Animation, Action, Comedy",
+        "description": "A woman transformed into a giant after she is struck by a meteorite on her wedding day becomes part of a team of monsters sent in by the U.S. government to defeat an alien mastermind trying to take over Earth.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "Enter the Void",
+        "certificate": "",
+        "runtime": "161 min",
+        "genre": "Drama, Fantasy",
+        "description": "A French drug dealer living in Tokyo is betrayed by his best friend and killed in a drug deal. His soul, observing the repercussions of his death, seeks resurrection.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "The Twilight Saga: New Moon",
+        "certificate": "PG-13",
+        "runtime": "130 min",
+        "genre": "Adventure, Drama, Fantasy",
+        "description": "Edward leaves Bella after an attack that nearly claimed her life, and in her depression she falls into yet another paranormal relationship - this time with werewolf Jacob Black.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "M\u00e4n som hatar kvinnor",
+        "certificate": "R",
+        "runtime": "152 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "A journalist is aided by a young female hacker in his search for the killer of a woman who has been dead for forty years.",
         "director": "",
         "stars": []
     },
     "50": {
-        "name": "Transformers: Revenge of the Fallen",
+        "name": "The Haunting in Connecticut",
         "certificate": "PG-13",
-        "runtime": "150 min",
-        "genre": "Action, Adventure, Sci-Fi",
-        "description": "Sam Witwicky leaves the Autobots behind for a normal life. But when his mind is filled with cryptic symbols, the Decepticons target him and he is dragged back into the Transformers' war.",
+        "runtime": "92 min",
+        "genre": "Drama, Horror, Mystery",
+        "description": "After a family is forced to relocate for their son's health, they begin experiencing supernatural behavior in their new home, and uncover a sinister history.",
         "director": "",
         "stars": []
     }

@@ -1,19 +1,19 @@
 {
     "1": {
-        "name": "Show Boat",
-        "certificate": "",
-        "runtime": "108 min",
-        "genre": "Drama, Family, Musical",
-        "description": "The daughter of a riverboat captain falls in love with a charming gambler, but their fairytale romance is threatened when his luck turns sour.",
-        "director": "",
-        "stars": []
-    },
-    "2": {
         "name": "A Streetcar Named Desire",
         "certificate": "PG",
         "runtime": "122 min",
         "genre": "Drama",
         "description": "Disturbed Blanche DuBois moves in with her sister in New Orleans and is tormented by her brutish brother-in-law while her reality crumbles around her.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "The Thing from Another World",
+        "certificate": "",
+        "runtime": "87 min",
+        "genre": "Horror, Sci-Fi",
+        "description": "Scientists and American Air Force officials fend off a bloodthirsty alien organism while at a remote arctic outpost.",
         "director": "",
         "stars": []
     },
@@ -27,15 +27,6 @@
         "stars": []
     },
     "4": {
-        "name": "The African Queen",
-        "certificate": "PG",
-        "runtime": "105 min",
-        "genre": "Adventure, Drama, Romance",
-        "description": "In Africa during World War I, a gin-swilling riverboat captain is persuaded by a strait-laced missionary to use his boat to attack an enemy warship.",
-        "director": "",
-        "stars": []
-    },
-    "5": {
         "name": "Alice in Wonderland",
         "certificate": "",
         "runtime": "75 min",
@@ -44,88 +35,52 @@
         "director": "",
         "stars": []
     },
-    "6": {
-        "name": "Along the Great Divide",
-        "certificate": "",
-        "runtime": "88 min",
-        "genre": "Adventure, Romance, Western",
-        "description": "A U.S. Marshall and two deputies rescue a cattle rustler from a lynch mob led by a local cattle baron convinced that the rustler also killed his son.",
+    "5": {
+        "name": "The African Queen",
+        "certificate": "PG",
+        "runtime": "105 min",
+        "genre": "Adventure, Drama, Romance",
+        "description": "In WWI Africa, a gin-swilling riverboat captain is persuaded by a strait-laced missionary to use his boat to attack an enemy warship.",
         "director": "",
         "stars": []
     },
-    "7": {
+    "6": {
         "name": "Strangers on a Train",
         "certificate": "PG",
         "runtime": "101 min",
         "genre": "Crime, Film-Noir, Thriller",
-        "description": "A psychotic socialite attempts to force a professional tennis star to prove a theory that two complete strangers can get away with murder.",
+        "description": "A psychopath forces a tennis star to comply with his theory that two strangers can get away with murder.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "Ace in the Hole",
+        "certificate": "",
+        "runtime": "111 min",
+        "genre": "Drama, Film-Noir",
+        "description": "A frustrated former big-city journalist now stuck working for an Albuquerque newspaper exploits a story about a man trapped in a cave to rekindle his career, but the situation quickly escalates into an out-of-control circus.",
         "director": "",
         "stars": []
     },
     "8": {
-        "name": "The Thing from Another World",
+        "name": "Strictly Dishonorable",
         "certificate": "",
-        "runtime": "87 min",
-        "genre": "Horror, Sci-Fi",
-        "description": "Scientists and American Air Force officials fend off a bloodthirsty alien organism while at a remote arctic outpost.",
+        "runtime": "86 min",
+        "genre": "Comedy, Romance",
+        "description": "An Italian opera singer ( Eliot Pinza) has a marriage of convenience with an innocent fan ( Janet Leigh) from Mississippi",
         "director": "",
         "stars": []
     },
     "9": {
-        "name": "An American in Paris",
+        "name": "Westward the Women",
         "certificate": "",
-        "runtime": "114 min",
-        "genre": "Drama, Musical, Romance",
-        "description": "Three friends struggle to find work in Paris. Things become more complicated when two of them fall in love with the same woman.",
+        "runtime": "118 min",
+        "genre": "Drama, Western",
+        "description": "A trail guide escorts a group of women from Chicago to California to marry men that have recently began settling there.",
         "director": "",
         "stars": []
     },
     "10": {
-        "name": "Captain Horatio Hornblower R.N.",
-        "certificate": "",
-        "runtime": "117 min",
-        "genre": "Action, Adventure, Drama",
-        "description": "During the Napoleonic wars, a British Navy Captain has adventures in Central American waters.",
-        "director": "",
-        "stars": []
-    },
-    "11": {
-        "name": "The Man in the White Suit",
-        "certificate": "",
-        "runtime": "85 min",
-        "genre": "Comedy, Drama, Sci-Fi",
-        "description": "An altruistic chemist invents a fabric which resists wear and stain as a boon to humanity, but big business and labor realize it must be suppressed for economic reasons.",
-        "director": "",
-        "stars": []
-    },
-    "12": {
-        "name": "Atoll K",
-        "certificate": "",
-        "runtime": "100 min",
-        "genre": "Comedy",
-        "description": "Stan inherits a yacht and a South Pacific island. Ollie and Stan sail there with 2 other men. They shipwreck on a new atoll and settle there. An ex-fiancee joins them. They declare an independent nation and problems arise.",
-        "director": "",
-        "stars": []
-    },
-    "13": {
-        "name": "As Young as You Feel",
-        "certificate": "",
-        "runtime": "77 min",
-        "genre": "Comedy",
-        "description": "A 65-year-old printer hatches an elaborate scheme to avoid forced retirement.",
-        "director": "",
-        "stars": []
-    },
-    "14": {
-        "name": "Quo Vadis",
-        "certificate": "",
-        "runtime": "171 min",
-        "genre": "Biography, Drama, History",
-        "description": "Fierce Roman commander Marcus Vinicius becomes infatuated with beautiful Christian hostage Lygia and begins questioning the tyrannical leadership of the despot Emperor Nero.",
-        "director": "",
-        "stars": []
-    },
-    "15": {
         "name": "A Place in the Sun",
         "certificate": "",
         "runtime": "122 min",
@@ -134,52 +89,34 @@
         "director": "",
         "stars": []
     },
-    "16": {
-        "name": "Ace in the Hole",
-        "certificate": "",
-        "runtime": "111 min",
-        "genre": "Drama, Film-Noir",
-        "description": "A frustrated former big-city journalist now stuck working for an Albuquerque newspaper exploits a story about a man trapped in a cave to re-jump start his career, but the situation quickly escalates into an out-of-control circus.",
-        "director": "",
-        "stars": []
-    },
-    "17": {
-        "name": "The Tragedy of Othello: The Moor of Venice",
+    "11": {
+        "name": "Grounds for Marriage",
         "certificate": "",
         "runtime": "90 min",
-        "genre": "Drama, History, Romance",
-        "description": "The Moorish General Othello is manipulated into thinking that his new wife Desdemona has been carrying on an affair with his Lieutenant Michael Cassio when in reality, it is all part of the scheme of a bitter Ensign named Iago.",
+        "genre": "Comedy, Musical",
+        "description": "Opera singer Ina Massine tries to win back former husband Dr. Lincoln I. Bartlett.",
         "director": "",
         "stars": []
     },
-    "18": {
-        "name": "The Secret of Convict Lake",
+    "12": {
+        "name": "An American in Paris",
         "certificate": "",
-        "runtime": "83 min",
-        "genre": "Western",
-        "description": "In 1871 a convict escapes, with other prisoners, to kill the man that framed him, but has second thoughts after meeting the man's beautiful future wife.",
+        "runtime": "114 min",
+        "genre": "Drama, Musical, Romance",
+        "description": "Three friends struggle to find work in Paris. Things become more complicated when two of them fall in love with the same woman.",
         "director": "",
         "stars": []
     },
-    "19": {
-        "name": "The Quiet Woman",
+    "13": {
+        "name": "Quo Vadis",
         "certificate": "",
-        "runtime": "71 min",
-        "genre": "Crime, Drama",
-        "description": "Coastal pub proprietress is inveigled into a smuggling plot.",
+        "runtime": "171 min",
+        "genre": "Biography, Drama, History",
+        "description": "Fierce Roman commander Marcus Vinicius becomes infatuated with beautiful Christian hostage Lygia and begins questioning the tyrannical leadership of the despot Emperor Nero.",
         "director": "",
         "stars": []
     },
-    "20": {
-        "name": "Scrooge",
-        "certificate": "",
-        "runtime": "86 min",
-        "genre": "Drama, Fantasy",
-        "description": "An old bitter miser is given a chance for redemption when he is haunted by three ghosts on Christmas Eve...",
-        "director": "",
-        "stars": []
-    },
-    "21": {
+    "14": {
         "name": "David and Bathsheba",
         "certificate": "",
         "runtime": "116 min",
@@ -188,16 +125,25 @@
         "director": "",
         "stars": []
     },
-    "22": {
-        "name": "No Highway",
+    "15": {
+        "name": "Scrooge",
         "certificate": "",
-        "runtime": "99 min",
-        "genre": "Drama, Thriller",
-        "description": "An aeronautical engineer predicts that a new model of plane will fail catastrophically and in a novel manner after a specific number flying hours.",
+        "runtime": "86 min",
+        "genre": "Drama, Fantasy",
+        "description": "Old bitter miser Ebenezer Scrooge (Alastair Sim) is given a chance for redemption when he is haunted by three ghosts on Christmas Eve.",
         "director": "",
         "stars": []
     },
-    "23": {
+    "16": {
+        "name": "The Son of Dr. Jekyll",
+        "certificate": "",
+        "runtime": "78 min",
+        "genre": "Crime, Horror, Romance",
+        "description": "Edward Jekyll, ignorant of how his father had brought forth death and destruction with his experiments, is pursuing a chemist career despite the fact that he has been discharged from school...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "17": {
         "name": "When Worlds Collide",
         "certificate": "",
         "runtime": "83 min",
@@ -206,7 +152,43 @@
         "director": "",
         "stars": []
     },
-    "24": {
+    "18": {
+        "name": "Atoll K",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Comedy",
+        "description": "Stan inherits a yacht and a South Pacific island. Ollie and Stan sail there with 2 other men. They shipwreck on a new atoll and settle there. An ex-fiancee joins them. They declare an independent nation and problems arise.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "Happy Go Lovely",
+        "certificate": "",
+        "runtime": "97 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "B.G. Bruno, a rich bachelor, the head of a successful greeting-card company in Scotland, is essentially a kind man but respectable to the point of stodginess and extreme stuffiness. An ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "The Secret of Convict Lake",
+        "certificate": "",
+        "runtime": "83 min",
+        "genre": "Western",
+        "description": "In 1871 a convict escapes, with other prisoners, to kill the man that framed him, but has second thoughts after meeting the man's beautiful future wife.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "The Tragedy of Othello: The Moor of Venice",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Drama, History, Romance",
+        "description": "The Moorish General Othello is manipulated into thinking that his new wife Desdemona has been carrying on an affair with his Lieutenant Michael Cassio when in reality, it is all part of the scheme of a bitter Ensign named Iago.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
         "name": "Royal Wedding",
         "certificate": "",
         "runtime": "93 min",
@@ -215,70 +197,7 @@
         "director": "",
         "stars": []
     },
-    "25": {
-        "name": "Detective Story",
-        "certificate": "",
-        "runtime": "103 min",
-        "genre": "Crime, Drama, Film-Noir",
-        "description": "On one day in the 21st Precinct squad room, assorted characters form a backdrop for the troubles of hard-nosed Detective Jim McLeod.",
-        "director": "",
-        "stars": []
-    },
-    "26": {
-        "name": "The Prowler",
-        "certificate": "",
-        "runtime": "92 min",
-        "genre": "Drama, Film-Noir, Thriller",
-        "description": "When Susan Gilvray reports a prowler outside her house police officer Webb Garwood investigates and sparks fly. If only her husband wasn't in the way.",
-        "director": "",
-        "stars": []
-    },
-    "27": {
-        "name": "Pool of London",
-        "certificate": "",
-        "runtime": "85 min",
-        "genre": "Crime, Drama",
-        "description": "When their ship docks the crew disembark as usual to pick up their lives in postwar London. For one of them his petty smuggling turns more serious when he finds himself caught up with a robbery in the City.",
-        "director": "",
-        "stars": []
-    },
-    "28": {
-        "name": "The Lavender Hill Mob",
-        "certificate": "",
-        "runtime": "78 min",
-        "genre": "Comedy, Crime",
-        "description": "A meek bank clerk who oversees the shipment of bullion joins with an eccentric neighbor to steal gold bars and smuggle them out of the country as miniature Eiffel Towers.",
-        "director": "",
-        "stars": []
-    },
-    "29": {
-        "name": "The Red Badge of Courage",
-        "certificate": "",
-        "runtime": "69 min",
-        "genre": "Drama, War",
-        "description": "Truncated adaptation of Stephen Crane's novel about a Civil War Union soldier who stuggles to find the courage to fight in the heat of battle.",
-        "director": "",
-        "stars": []
-    },
-    "30": {
-        "name": "Tomahawk",
-        "certificate": "",
-        "runtime": "82 min",
-        "genre": "History, Romance, Western",
-        "description": "In 1866 Wyoming, a frontier scout tries to prevent a war between the Sioux and the U.S. when the Army builds a road and a fort on territory previously ceded to the Sioux by treaty.",
-        "director": "",
-        "stars": []
-    },
-    "31": {
-        "name": "Journal d'un cur\u00e9 de campagne",
-        "certificate": "",
-        "runtime": "115 min",
-        "genre": "Drama",
-        "description": "A young priest taking over the parish at Ambricourt tries to fulfill his duties even as he fights a mysterious stomach ailment.",
-        "director": "",
-        "stars": []
-    },
-    "32": {
+    "23": {
         "name": "His Kind of Woman",
         "certificate": "",
         "runtime": "120 min",
@@ -287,7 +206,16 @@
         "director": "",
         "stars": []
     },
-    "33": {
+    "24": {
+        "name": "The Man in the White Suit",
+        "certificate": "",
+        "runtime": "85 min",
+        "genre": "Comedy, Drama, Sci-Fi",
+        "description": "An altruistic chemist invents a fabric which resists wear and stain as a boon to humanity, but big business and labor realize it must be suppressed for economic reasons.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
         "name": "On Dangerous Ground",
         "certificate": "",
         "runtime": "82 min",
@@ -296,25 +224,34 @@
         "director": "",
         "stars": []
     },
-    "34": {
-        "name": "Halls of Montezuma",
+    "26": {
+        "name": "Show Boat",
         "certificate": "",
-        "runtime": "113 min",
+        "runtime": "108 min",
+        "genre": "Drama, Family, Musical",
+        "description": "The daughter of a riverboat captain falls in love with a charming gambler, but their fairytale romance is threatened when his luck turns sour.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "No Highway",
+        "certificate": "",
+        "runtime": "99 min",
+        "genre": "Drama, Thriller",
+        "description": "An aeronautical engineer predicts that a new model of plane will fail catastrophically and in a novel manner after a specific number flying hours.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "Captain Horatio Hornblower R.N.",
+        "certificate": "",
+        "runtime": "117 min",
         "genre": "Action, Adventure, Drama",
-        "description": "A company of Marines races against the clock to find a Japanese rocket base.",
+        "description": "During the Napoleonic wars, a British Navy Captain has adventures in Central American waters.",
         "director": "",
         "stars": []
     },
-    "35": {
-        "name": "Sommarlek",
-        "certificate": "",
-        "runtime": "96 min",
-        "genre": "Drama, Romance",
-        "description": "A lonely woman recalls her first love thirteen years prior during a brief summer vacation.",
-        "director": "",
-        "stars": []
-    },
-    "36": {
+    "29": {
         "name": "People Will Talk",
         "certificate": "",
         "runtime": "110 min",
@@ -323,57 +260,120 @@
         "director": "",
         "stars": []
     },
-    "37": {
-        "name": "Force of Arms",
+    "30": {
+        "name": "M",
         "certificate": "",
-        "runtime": "99 min",
-        "genre": "Drama, Romance, War",
-        "description": "During World War II in Italy, an American sergeant and WAC lieutenant take time out for romance.",
+        "runtime": "88 min",
+        "genre": "Drama, Film-Noir, Thriller",
+        "description": "In this Americanization of the 1931 German thriller, both the police and the criminal underworld stalk a mysterious killer who preys on small children.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "Across the Wide Missouri",
+        "certificate": "",
+        "runtime": "78 min",
+        "genre": "Adventure, Romance, Western",
+        "description": "Trapper Flint Mitchell and other mountain men from the Rendezvous join forces to enter virgin trapping territory but must contend with a resentful Blackfoot chief.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "Journal d'un cur\u00e9 de campagne",
+        "certificate": "",
+        "runtime": "115 min",
+        "genre": "Drama",
+        "description": "A young priest taking over the parish at Ambricourt tries to fulfill his duties even as he fights a mysterious stomach ailment.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "On Moonlight Bay",
+        "certificate": "",
+        "runtime": "95 min",
+        "genre": "Comedy, Family, Musical",
+        "description": "During World War I, a teenage girl begins a romance with a college student, but his unconventional attitudes cause friction with her father.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "The Lavender Hill Mob",
+        "certificate": "",
+        "runtime": "78 min",
+        "genre": "Comedy, Crime",
+        "description": "A meek bank clerk who oversees the shipment of bullion joins with an eccentric neighbor to steal gold bars and smuggle them out of the country as miniature Eiffel Towers.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "Vengeance Valley",
+        "certificate": "",
+        "runtime": "83 min",
+        "genre": "Western",
+        "description": "The sons of a Colorado cattle baron, one biological and the other adopted, resent one another and fight for control of their father's cattle empire.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "Jim Thorpe -- All-American",
+        "certificate": "",
+        "runtime": "107 min",
+        "genre": "Biography, Drama, Sport",
+        "description": "The triumph and tragedy of Native American Jim Thorpe, who, after winning both the pentathlon and decathlon in the same Olympics, is stripped of his medals on a technicality.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "The Enforcer",
+        "certificate": "",
+        "runtime": "87 min",
+        "genre": "Crime, Film-Noir, Thriller",
+        "description": "A crusading district attorney finally gets a chance to prosecute the organizer and boss of Murder Inc.",
         "director": "",
         "stars": []
     },
     "38": {
-        "name": "Fourteen Hours",
+        "name": "Early Summer",
         "certificate": "",
-        "runtime": "92 min",
-        "genre": "Drama, Film-Noir, Thriller",
-        "description": "An unhappy man threatens suicide by standing on the ledge of a high-rise building for 14 hours.",
+        "runtime": "125 min",
+        "genre": "Drama",
+        "description": "A family chooses a match for their daughter Noriko, but she, surprisingly, has her own plans.",
         "director": "",
         "stars": []
     },
     "39": {
-        "name": "The Strip",
+        "name": "The Red Badge of Courage",
         "certificate": "",
-        "runtime": "85 min",
-        "genre": "Crime, Drama, Film-Noir",
-        "description": "Drummer Stanley Maxton moves to Los Angeles with dreams of opening his own club, but falls in with a gangster and a nightclub dancer and ends up accused of murder.",
+        "runtime": "69 min",
+        "genre": "Drama, War",
+        "description": "Truncated adaptation of Stephen Crane's novel about a Civil War Union soldier who stuggles to find the courage to fight in the heat of battle.",
         "director": "",
         "stars": []
     },
     "40": {
-        "name": "The River",
+        "name": "The Mob",
         "certificate": "",
-        "runtime": "99 min",
-        "genre": "Drama, Romance",
-        "description": "Three adolescent girls growing up in Bengal, India, learn their lessons in life after falling for an older American soldier.",
+        "runtime": "87 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "Johnny Damico botches a murder case and is suspended from the force. In reality, he is put undercover to identify the mysterious boss of the NY waterfront who has murdered everyone in his way. Will Johnny be next in line?",
         "director": "",
         "stars": []
     },
     "41": {
-        "name": "Cry Danger",
-        "certificate": "",
-        "runtime": "79 min",
-        "genre": "Crime, Drama, Film-Noir",
-        "description": "Ex-con Rocky Mulloy seeks the real culprit in the crime he was framed for, in a night world of deceptive dames and double crosses.",
-        "director": "",
-        "stars": []
-    },
-    "42": {
         "name": "Rawhide",
         "certificate": "",
         "runtime": "89 min",
         "genre": "Drama, Romance, Western",
         "description": "A stagecoach stop employee and a stranded woman traveller find themselves at the mercy of four desperate outlaws intent on robbing the next day's gold shipment.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "The River",
+        "certificate": "",
+        "runtime": "99 min",
+        "genre": "Drama, Romance",
+        "description": "Three adolescent girls growing up in Bengal, India, learn their lessons in life after falling for an older American soldier.",
         "director": "",
         "stars": []
     },
@@ -387,11 +387,11 @@
         "stars": []
     },
     "44": {
-        "name": "Distant Drums",
+        "name": "Miracolo a Milano",
         "certificate": "",
-        "runtime": "101 min",
-        "genre": "Action, Drama, Western",
-        "description": "After destroying a Seminole fort, American soldiers and their rescued companions must face the dangerous Everglades and hostile Indians in order to reach safety.",
+        "runtime": "97 min",
+        "genre": "Comedy, Drama, Fantasy",
+        "description": "An open hearted and unrelentingly energetic orphan struggles to make the best out of his life on the streets of Milan.",
         "director": "",
         "stars": []
     },
@@ -405,47 +405,47 @@
         "stars": []
     },
     "46": {
-        "name": "Death of a Salesman",
+        "name": "Bud Abbott Lou Costello Meet the Invisible Man",
         "certificate": "",
-        "runtime": "115 min",
-        "genre": "Drama",
-        "description": "An over-the-hill salesman faces a personal turning point when he loses his job and attempts to make peace with his family.",
+        "runtime": "82 min",
+        "genre": "Comedy, Horror, Sci-Fi",
+        "description": "Two bumbling private eyes help a man wrongly accused of murder who has become invisible to help clear his name.",
         "director": "",
         "stars": []
     },
     "47": {
-        "name": "Operation Pacific",
+        "name": "Superman and the Mole-Men",
         "certificate": "",
-        "runtime": "111 min",
-        "genre": "Drama, War",
-        "description": "During WWII, a submarine's second in command inherits the problem of torpedoes that don't explode. When on shore, he is eager to win back his ex-wife.",
+        "runtime": "58 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "When underground beings explore the surface world from a deep oil well and inadvertantly cause a panic, only Superman can prevent a tragedy.",
         "director": "",
         "stars": []
     },
     "48": {
-        "name": "Westward the Women",
+        "name": "Fourteen Hours",
         "certificate": "",
-        "runtime": "118 min",
-        "genre": "Drama, Western",
-        "description": "A trail guide escorts a group of women from Chicago to California to marry men that have recently began settling there.",
+        "runtime": "92 min",
+        "genre": "Drama, Film-Noir, Thriller",
+        "description": "An unhappy man threatens suicide by standing on the ledge of a high-rise building for 14 hours.",
         "director": "",
         "stars": []
     },
     "49": {
-        "name": "Let's Make It Legal",
+        "name": "Hakuchi",
         "certificate": "",
-        "runtime": "77 min",
-        "genre": "Comedy, Drama, Romance",
-        "description": "The nearly-final divorce of the Halsworths suddenly gets complicated when Miriam's old flame comes to town.",
+        "runtime": "166 min",
+        "genre": "Drama, Romance",
+        "description": "A Japanese veteran, driven partially mad from the war, travels to the snowy island of Kameda where he soon enters a love triangle with his best friend and a disgraced woman.",
         "director": "",
         "stars": []
     },
     "50": {
-        "name": "Fort Worth",
+        "name": "Detective Story",
         "certificate": "",
-        "runtime": "80 min",
-        "genre": "Western",
-        "description": "Civil War veteran and former newspaper man Ned Britt returns back to Fort Worth after the war is over and finds himself fighting an old friend who's grown ambitious.",
+        "runtime": "103 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "On one day in the 21st Precinct squad room, assorted characters form a backdrop for the troubles of hard-nosed Detective Jim McLeod.",
         "director": "",
         "stars": []
     }

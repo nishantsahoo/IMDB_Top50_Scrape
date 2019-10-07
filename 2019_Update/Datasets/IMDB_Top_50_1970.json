@@ -1,23 +1,5 @@
 {
     "1": {
-        "name": "MASH",
-        "certificate": "R",
-        "runtime": "116 min",
-        "genre": "Comedy, Drama, War",
-        "description": "The staff of a Korean War field hospital use humor and high jinks to keep their sanity in the face of the horror of war.",
-        "director": "",
-        "stars": []
-    },
-    "2": {
-        "name": "Airport",
-        "certificate": "",
-        "runtime": "137 min",
-        "genre": "Action, Drama, Thriller",
-        "description": "A bomber on board an airplane, an airport almost closed by snow, and various personal problems of the people involved.",
-        "director": "",
-        "stars": []
-    },
-    "3": {
         "name": "The AristoCats",
         "certificate": "",
         "runtime": "78 min",
@@ -26,43 +8,25 @@
         "director": "",
         "stars": []
     },
-    "4": {
-        "name": "Love Story",
-        "certificate": "PG",
-        "runtime": "100 min",
-        "genre": "Drama, Romance",
-        "description": "A boy and a girl from different backgrounds fall in love regardless of their upbringing - and then tragedy strikes.",
+    "2": {
+        "name": "MASH",
+        "certificate": "R",
+        "runtime": "116 min",
+        "genre": "Comedy, Drama, War",
+        "description": "The staff of a Korean War field hospital use humor and high jinks to keep their sanity in the face of the horror of war.",
         "director": "",
         "stars": []
     },
-    "5": {
-        "name": "Beyond the Valley of the Dolls",
-        "certificate": "",
-        "runtime": "109 min",
-        "genre": "Comedy, Drama, Music",
-        "description": "Three girls come to Hollywood to make it big, but find only sex, drugs and sleaze.",
-        "director": "",
-        "stars": []
-    },
-    "6": {
-        "name": "Kelly's Heroes",
-        "certificate": "",
-        "runtime": "144 min",
-        "genre": "Adventure, Comedy, War",
-        "description": "A group of U.S. soldiers sneaks across enemy lines to get their hands on a secret stash of Nazi treasure.",
-        "director": "",
-        "stars": []
-    },
-    "7": {
-        "name": "Rio Lobo",
-        "certificate": "",
-        "runtime": "114 min",
+    "3": {
+        "name": "Two Mules for Sister Sara",
+        "certificate": "GP",
+        "runtime": "116 min",
         "genre": "Adventure, Romance, War",
-        "description": "After the Civil War, Cord McNally searches for the traitor whose treachery caused the defeat of McNally's unit and the loss of a close friend.",
+        "description": "Nun Sara (Shirley MacLaine) is on the run in Mexico and is saved from cowboys by Hogan (Clint Eastwood), who is preparing for a future mission to capture a French fort. The pair become good friends, but Sara never does tell him the true reason behind her being outlawed.",
         "director": "",
         "stars": []
     },
-    "8": {
+    "4": {
         "name": "Catch-22",
         "certificate": "",
         "runtime": "122 min",
@@ -71,7 +35,25 @@
         "director": "",
         "stars": []
     },
-    "9": {
+    "5": {
+        "name": "Kelly's Heroes",
+        "certificate": "",
+        "runtime": "144 min",
+        "genre": "Adventure, Comedy, War",
+        "description": "A group of U.S. soldiers sneaks across enemy lines to get their hands on a secret stash of Nazi treasure.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "Love Story",
+        "certificate": "PG",
+        "runtime": "100 min",
+        "genre": "Drama, Romance",
+        "description": "A boy and a girl from different backgrounds fall in love regardless of their upbringing - and then tragedy strikes.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
         "name": "El Topo",
         "certificate": "",
         "runtime": "125 min",
@@ -80,7 +62,7 @@
         "director": "",
         "stars": []
     },
-    "10": {
+    "8": {
         "name": "Patton",
         "certificate": "",
         "runtime": "172 min",
@@ -89,16 +71,16 @@
         "director": "",
         "stars": []
     },
-    "11": {
-        "name": "Hercules in New York",
+    "9": {
+        "name": "Beyond the Valley of the Dolls",
         "certificate": "",
-        "runtime": "75 min",
-        "genre": "Adventure, Family, Fantasy",
-        "description": "Hercules (Schwarzenegger) is sent to Earth where he finds true love and starts a promising career in the bodybuilder business.",
+        "runtime": "109 min",
+        "genre": "Comedy, Drama, Music",
+        "description": "Three girls come to Hollywood to make it big, but find only sex, drugs and sleaze.",
         "director": "",
         "stars": []
     },
-    "12": {
+    "10": {
         "name": "Little Big Man",
         "certificate": "PG-13",
         "runtime": "139 min",
@@ -107,21 +89,39 @@
         "director": "",
         "stars": []
     },
-    "13": {
-        "name": "Zabriskie Point",
+    "11": {
+        "name": "Waterloo",
         "certificate": "",
-        "runtime": "113 min",
-        "genre": "Drama",
-        "description": "At Zabriskie Point, United States' lowest point, two perfect strangers meet; an undergraduate dreamer and a young hippie student who start off an unrestrained romance, making love on the dusty terrain.",
+        "runtime": "134 min",
+        "genre": "Action, Biography, Drama",
+        "description": "Facing the decline of everything he has worked to obtain, conqueror Napoleon Bonaparte and his army confront the British at the Battle of Waterloo.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "Valerie a t\u00fdden divu",
+        "certificate": "",
+        "runtime": "77 min",
+        "genre": "Adventure, Drama, Fantasy",
+        "description": "Inspired by fairy-tales such as Alice in Wonderland and Little Red-Riding Hood, \"Valerie and her Week of Wonders\" is a surreal tale in which love, fear, sex and religion merge into one fantastic world.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "Airport",
+        "certificate": "",
+        "runtime": "137 min",
+        "genre": "Action, Drama, Thriller",
+        "description": "A bomber on board an airplane, an airport almost closed by snow, and various personal problems of the people involved.",
         "director": "",
         "stars": []
     },
     "14": {
-        "name": "Il conformista",
+        "name": "Beneath the Planet of the Apes",
         "certificate": "",
-        "runtime": "113 min",
-        "genre": "Drama",
-        "description": "A weak-willed Italian man becomes a fascist flunky who goes abroad to arrange the assassination of his old teacher, now a political dissident.",
+        "runtime": "95 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "The sole survivor of an interplanetary rescue mission searches for the only survivor of the previous expedition. He discovers a planet ruled by apes and an underground city run by telepathic humans.",
         "director": "",
         "stars": []
     },
@@ -135,87 +135,6 @@
         "stars": []
     },
     "16": {
-        "name": "Two Mules for Sister Sara",
-        "certificate": "GP",
-        "runtime": "116 min",
-        "genre": "Adventure, Romance, War",
-        "description": "Nun Sara is on the run in Mexico and is saved from cowboys by Hogan, who is preparing for a future mission to capture a French fort. The pair become good friends, but Sara never does tell him the true reason behind her being outlawed.",
-        "director": "",
-        "stars": []
-    },
-    "17": {
-        "name": "Lo chiamavano Trinit\u00e0...",
-        "certificate": "",
-        "runtime": "113 min",
-        "genre": "Comedy, Western",
-        "description": "A lazy, unorthodox gunfighter and his portly, horse-thieving brother defend a Mormon settlement from a land-grabbing Major, a Mexican bandit, and their henchmen.",
-        "director": "",
-        "stars": []
-    },
-    "18": {
-        "name": "Tora! Tora! Tora!",
-        "certificate": "",
-        "runtime": "144 min",
-        "genre": "Action, Drama, History",
-        "description": "In 1941, following months of economic embargo, Japan prepares to open its war against the United States with a preventive strike on the US naval base at Pearl Harbor.",
-        "director": "",
-        "stars": []
-    },
-    "19": {
-        "name": "Beneath the Planet of the Apes",
-        "certificate": "",
-        "runtime": "95 min",
-        "genre": "Action, Adventure, Sci-Fi",
-        "description": "The sole survivor of an interplanetary rescue mission searches for the only survivor of the previous expedition. He discovers a planet ruled by apes and an underground city run by telepathic humans.",
-        "director": "",
-        "stars": []
-    },
-    "20": {
-        "name": "Valerie a t\u00fdden divu",
-        "certificate": "",
-        "runtime": "77 min",
-        "genre": "Adventure, Drama, Fantasy",
-        "description": "Inspired by fairy-tales such as Alice in Wonderland and Little Red-Riding Hood, \"Valerie and her Week of Wonders\" is a surreal tale in which love, fear, sex and religion merge into one fantastic world.",
-        "director": "",
-        "stars": []
-    },
-    "21": {
-        "name": "Performance",
-        "certificate": "R",
-        "runtime": "105 min",
-        "genre": "Crime, Drama",
-        "description": "A violent gangster seeks refuge from the mob in the Bohemian home of a former rock star.",
-        "director": "",
-        "stars": []
-    },
-    "22": {
-        "name": "Ryan's Daughter",
-        "certificate": "",
-        "runtime": "206 min",
-        "genre": "Drama, Romance",
-        "description": "Set in the wake of the 1916 Easter Rising, a married woman in a small Irish village has an affair with a troubled British officer.",
-        "director": "",
-        "stars": []
-    },
-    "23": {
-        "name": "L'uccello dalle piume di cristallo",
-        "certificate": "",
-        "runtime": "96 min",
-        "genre": "Horror, Mystery, Thriller",
-        "description": "An American writer and his English girlfriend are stalked by a serial killer terrorizing Rome after the former witnesses a murder attempt on a woman's life.",
-        "director": "",
-        "stars": []
-    },
-    "24": {
-        "name": "The Railway Children",
-        "certificate": "",
-        "runtime": "109 min",
-        "genre": "Family, Drama",
-        "description": "After the enforced absence of their father, three children move with their mother to Yorkshire, where during their adventures they attempt to discover the reason for his disappearance.",
-        "director": "",
-        "stars": []
-    },
-    "25": {
         "name": "The Vampire Lovers",
         "certificate": "",
         "runtime": "91 min",
@@ -224,34 +143,16 @@
         "director": "",
         "stars": []
     },
-    "26": {
-        "name": "The Private Life of Sherlock Holmes",
+    "17": {
+        "name": "Zabriskie Point",
         "certificate": "",
-        "runtime": "125 min",
-        "genre": "Adventure, Comedy, Crime",
-        "description": "When a bored Holmes eagerly takes the case of Gabrielle Valladon after an attempt on her life, the search for her missing husband leads to Loch Ness and the legendary monster.",
+        "runtime": "113 min",
+        "genre": "Drama",
+        "description": "At Zabriskie Point, United States' lowest point, two perfect strangers meet; an undergraduate dreamer and a young hippie student who start off an unrestrained romance, making love on the dusty terrain.",
         "director": "",
         "stars": []
     },
-    "27": {
-        "name": "Waterloo",
-        "certificate": "",
-        "runtime": "134 min",
-        "genre": "Action, Biography, Drama",
-        "description": "Facing the decline of everything he has worked to obtain, conqueror Napoleon Bonaparte and his army confront the British at the Battle of Waterloo.",
-        "director": "",
-        "stars": []
-    },
-    "28": {
-        "name": "Myra Breckinridge",
-        "certificate": "",
-        "runtime": "94 min",
-        "genre": "Comedy",
-        "description": "After undergoing gender reassignment surgery, an aspiring actress travels to Hollywood, where she also wants to make a claim on her wealthy uncle's estate.",
-        "director": "",
-        "stars": []
-    },
-    "29": {
+    "18": {
         "name": "A Man Called Horse",
         "certificate": "",
         "runtime": "114 min",
@@ -260,43 +161,151 @@
         "director": "",
         "stars": []
     },
-    "30": {
-        "name": "On a Clear Day You Can See Forever",
+    "19": {
+        "name": "Hercules in New York",
         "certificate": "",
-        "runtime": "129 min",
-        "genre": "Comedy, Drama, Fantasy",
-        "description": "A troubled young woman who visits a psychotherapist to help her quit smoking undergoes hypnosis and finds herself reliving a tragic Victorian romance from a past life.",
+        "runtime": "91 min",
+        "genre": "Adventure, Family, Fantasy",
+        "description": "Hercules is sent to Earth where he finds true love and starts a promising career in the bodybuilder business.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "The Landlord",
+        "certificate": "",
+        "runtime": "112 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "At the age of twenty-nine, Elgar Enders \"runs away\" from home. This running away consists of buying a building in a black ghetto in the Park Slope section of Brooklyn. Initially his ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "Rio Lobo",
+        "certificate": "G",
+        "runtime": "114 min",
+        "genre": "Adventure, Romance, War",
+        "description": "After the Civil War, Cord McNally searches for the traitor whose treachery caused the defeat of McNally's unit and the loss of a close friend.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "Il conformista",
+        "certificate": "",
+        "runtime": "113 min",
+        "genre": "Drama",
+        "description": "A weak-willed Italian man becomes a fascist flunky who goes abroad to arrange the assassination of his old teacher, now a political dissident.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "Lo chiamavano Trinit\u00e0...",
+        "certificate": "",
+        "runtime": "113 min",
+        "genre": "Comedy, Western",
+        "description": "A lazy, unorthodox gunfighter and his portly, horse-thieving brother defend a Mormon settlement from a land-grabbing Major, a Mexican bandit, and their henchmen.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "The Cheyenne Social Club",
+        "certificate": "GP",
+        "runtime": "103 min",
+        "genre": "Comedy, Romance, Western",
+        "description": "An aging cowboy finds to his embarrassment that the successful business he has inherited from his brother is actually a house of prostitution.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "The Reckoning",
+        "certificate": "",
+        "runtime": "111 min",
+        "genre": "Drama",
+        "description": "Michael Marler, a successful business man in London, is about to make his way to the top. The death of his father brings him - after five years - back to his hometown Liverpool, where he is...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "Tora! Tora! Tora!",
+        "certificate": "",
+        "runtime": "144 min",
+        "genre": "Action, Drama, History",
+        "description": "In 1941, following months of economic embargo, Japan prepares to open its war against the United States with a preventive strike on the US naval base at Pearl Harbor.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "Ryan's Daughter",
+        "certificate": "",
+        "runtime": "206 min",
+        "genre": "Drama, Romance",
+        "description": "Set in the wake of the 1916 Easter Rising, a married woman in a small Irish village has an affair with a troubled British officer.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "When Dinosaurs Ruled the Earth",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Adventure, Fantasy, Romance",
+        "description": "Set in the ancient past when humans and dinosaurs lived together, a small tribe is struggling to survive by giving a sacrifice of a blond woman to their god, the sun, in return for ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "Scream and Scream Again",
+        "certificate": "R",
+        "runtime": "95 min",
+        "genre": "Crime, Drama, Horror",
+        "description": "A serial killer who drains his victims' blood is on the loose in London. The police follow him to a house owned by an eccentric scientist.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "L'uccello dalle piume di cristallo",
+        "certificate": "",
+        "runtime": "96 min",
+        "genre": "Horror, Mystery, Thriller",
+        "description": "An American writer and his English girlfriend are stalked by a serial killer terrorizing Rome after the former witnesses a murder attempt on a woman's life.",
         "director": "",
         "stars": []
     },
     "31": {
-        "name": "The Mind of Mr. Soames",
-        "certificate": "",
-        "runtime": "98 min",
-        "genre": "Drama, Sci-Fi",
-        "description": "A man who has been in a coma since infancy is awakened.",
+        "name": "They Call Me Mister Tibbs!",
+        "certificate": "R",
+        "runtime": "108 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "In San Francisco, a high-priced call girl is murdered and the case is assigned to Police Lieutenant Virgil Tibbs.",
         "director": "",
         "stars": []
     },
     "32": {
-        "name": "Colossus: The Forbin Project",
+        "name": "Deep End",
         "certificate": "",
-        "runtime": "100 min",
-        "genre": "Sci-Fi, Thriller",
-        "description": "Thinking this will prevent war, the US government gives an impenetrable supercomputer total control over launching nuclear missiles. But what the computer does with the power is unimaginable to its creators.",
+        "runtime": "92 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "15-year-old dropout Mike takes a job at Newford Baths, where inappropriate sexual behaviour abounds, and becomes obsessed with his coworker Susan.",
         "director": "",
         "stars": []
     },
     "33": {
-        "name": "Joe",
+        "name": "Taste the Blood of Dracula",
         "certificate": "",
-        "runtime": "107 min",
-        "genre": "Drama, Thriller",
-        "description": "Two men, Bill, a wealthy conservative, and Joe, a far-right bartender, form a dangerous bond after Bill confesses to murdering his daughter's drug dealer boyfriend to Joe.",
+        "runtime": "91 min",
+        "genre": "Drama, Fantasy, Horror",
+        "description": "Three distinguished English gentlemen accidentally resurrect Count Dracula, killing a disciple of his in process. The Count seeks to avenge his dead servant, by making the trio die in the hands of their own children.",
         "director": "",
         "stars": []
     },
     "34": {
+        "name": "Joe",
+        "certificate": "",
+        "runtime": "107 min",
+        "genre": "Drama, Thriller",
+        "description": "Two men, Bill, a wealthy conservative, and Joe, a far-right factory worker, form a dangerous bond after Bill confesses to murdering his daughter's drug dealer boyfriend to Joe.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
         "name": "Le cercle rouge",
         "certificate": "",
         "runtime": "140 min",
@@ -305,88 +314,61 @@
         "director": "",
         "stars": []
     },
-    "35": {
-        "name": "Peau d'\u00e2ne",
-        "certificate": "",
-        "runtime": "91 min",
-        "genre": "Drama, Family, Fantasy",
-        "description": "A fairy godmother helps a princess disguise herself so she won't have to marry a man she doesn't love.",
-        "director": "",
-        "stars": []
-    },
     "36": {
-        "name": "Soldier Blue",
-        "certificate": "R",
-        "runtime": "112 min",
+        "name": "A Man Called Sledge",
+        "certificate": "",
+        "runtime": "93 min",
         "genre": "Western",
-        "description": "After a cavalry patrol is ambushed by the Cheyenne, the two survivors, a soldier and a woman, must reach the safety of the nearest fort.",
+        "description": "In the Old West, a gunfighting outlaw connives his way into a prison in hopes of getting his hands on a large shipment of gold stored there.",
         "director": "",
         "stars": []
     },
     "37": {
-        "name": "Brewster McCloud",
+        "name": "House of Dark Shadows",
         "certificate": "",
-        "runtime": "105 min",
-        "genre": "Comedy, Fantasy",
-        "description": "An introverted loner living in the bowels of the Astrodome plots to develop - with the aid of a mysterious guardian angel - a pair of wings that will help him fly.",
+        "runtime": "97 min",
+        "genre": "Drama, Fantasy, Horror",
+        "description": "Vampire Barnabas Collins is accidentally released from his centuries-long confinement at his family's estate in Maine. He targets his clueless descendants who live there now and pursues Maggie, the incarnation of his lost love.",
         "director": "",
         "stars": []
     },
     "38": {
-        "name": "Chisum",
-        "certificate": "",
-        "runtime": "111 min",
-        "genre": "Biography, Western",
-        "description": "Cattle baron John Chisum joins forces with Billy the Kid and Pat Garrett to fight the Lincoln County land war.",
+        "name": "Performance",
+        "certificate": "R",
+        "runtime": "105 min",
+        "genre": "Crime, Drama",
+        "description": "A violent gangster seeks refuge from the mob in the Bohemian home of a former rock star.",
         "director": "",
         "stars": []
     },
     "39": {
-        "name": "El Condor",
+        "name": "Myra Breckinridge",
         "certificate": "",
-        "runtime": "102 min",
-        "genre": "Action, Adventure, Romance",
-        "description": "The El Condor, the fabled Mexican stronghold rumoured to contain Emperor Maximilian's mythical reserves in gold, will attract two adventurous fortune seekers, who with eyes gleaming with desire, will shortly know that only fools rush in.",
+        "runtime": "94 min",
+        "genre": "Comedy",
+        "description": "After undergoing gender reassignment surgery, an aspiring actress travels to Hollywood, where she also wants to make a claim on her wealthy uncle's estate.",
         "director": "",
         "stars": []
     },
     "40": {
-        "name": "The Owl and the Pussycat",
+        "name": "The Honeymoon Killers",
         "certificate": "",
-        "runtime": "95 min",
-        "genre": "Comedy",
-        "description": "A stuffy author enters into an explosive relationship with his neighbor, a foul-mouthed, freewheeling prostitute.",
+        "runtime": "107 min",
+        "genre": "Crime, Drama, Romance",
+        "description": "An obese, embittered nurse doesn't mind if her toupee-wearing boyfriend romances and fleeces other women, as long as he takes her along on his con jobs.",
         "director": "",
         "stars": []
     },
     "41": {
-        "name": "Claude et Greta",
+        "name": "Hexen bis aufs Blut gequ\u00e4lt",
         "certificate": "",
-        "runtime": "88 min",
-        "genre": "Drama",
-        "description": "Greta, a Swedish student comes to Paris with a view to making it there. But comely and friendly as she is, she soon becomes the prey of all the rutting males around. To run away from their ...                See full summary\u00a0\u00bb",
+        "runtime": "90 min",
+        "genre": "Drama, History, Horror",
+        "description": "In 1700s Austria, a witch-hunter's apprentice has doubts about the righteousness of witch-hunting when he witnesses the brutality, the injustice, the falsehood, the torture and the arbitrary killing that go with the job.",
         "director": "",
         "stars": []
     },
     "42": {
-        "name": "The Phantom Tollbooth",
-        "certificate": "",
-        "runtime": "90 min",
-        "genre": "Family, Adventure, Animation",
-        "description": "Milo is a boy who is bored with life. One day he comes home to find a toll booth in his room. Having nothing better to do, he gets in his toy car and drives through - only to emerge in a world full of adventure.",
-        "director": "",
-        "stars": []
-    },
-    "43": {
-        "name": "The Ballad of Cable Hogue",
-        "certificate": "",
-        "runtime": "121 min",
-        "genre": "Comedy, Drama, Romance",
-        "description": "A hobo accidentally stumbles onto a water spring, and creates a profitable way station in the middle of the desert.",
-        "director": "",
-        "stars": []
-    },
-    "44": {
         "name": "Cromwell",
         "certificate": "",
         "runtime": "139 min",
@@ -395,57 +377,75 @@
         "director": "",
         "stars": []
     },
-    "45": {
-        "name": "Deep End",
+    "43": {
+        "name": "Scars of Dracula",
         "certificate": "",
-        "runtime": "92 min",
-        "genre": "Drama, Romance",
-        "description": "15-year-old dropout Mike takes a job at Newford Baths, where inappropriate sexual behaviour abounds, and becomes obsessed with his coworker Susan.",
+        "runtime": "96 min",
+        "genre": "Horror",
+        "description": "A young man, Paul Carlson, is on a trip and spends the night at Count Dracula's castle. He is murdered. After some time has passed, the young man's brother Simon comes to the small town ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "I Walk the Line",
+        "certificate": "PG-13",
+        "runtime": "97 min",
+        "genre": "Drama",
+        "description": "Henry Tawes is the sheriff in a small town in Tennessee. A man of strong moral fiber, he is always quick to judge others and follows the law zealously. Then he meets Alma, a beautiful young...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "De Sade 70",
+        "certificate": "",
+        "runtime": "87 min",
+        "genre": "Drama, Horror",
+        "description": "An innocent girl goes to spend the weekend on an island with a woman and her brother, but soon she finds herself entangled in a web of dream-like sexual experiments.",
         "director": "",
         "stars": []
     },
     "46": {
-        "name": "La residencia",
+        "name": "The Wizard of Gore",
         "certificate": "",
-        "runtime": "99 min",
-        "genre": "Horror, Mystery, Thriller",
-        "description": "A strict headmistress runs a secluded school for wayward girls in 19th century France, whose students are disappearing under mysterious circumstances.",
+        "runtime": "95 min",
+        "genre": "Horror",
+        "description": "A TV talk-show hostess and her boyfriend investigate a shady magician whom has the ability to hypnotize and control the thoughts of people in order to stage gory on-stage illusions using his powers of mind bending.",
         "director": "",
         "stars": []
     },
     "47": {
-        "name": "Equinox",
+        "name": "Trog",
         "certificate": "",
-        "runtime": "80 min",
-        "genre": "Horror, Adventure, Mystery",
-        "description": "Four friends are attacked by a demon while on a picnic, due to possession of a tome of mystic information. Told in flashbacks by the sole survivor.",
+        "runtime": "93 min",
+        "genre": "Horror, Sci-Fi",
+        "description": "A sympathetic anthropologist uses drugs and surgery to try to communicate with a primitive troglodyte who is found living in a local cave.",
         "director": "",
         "stars": []
     },
     "48": {
-        "name": "Indagine su un cittadino al di sopra di ogni sospetto",
+        "name": "Colossus: The Forbin Project",
         "certificate": "",
-        "runtime": "115 min",
-        "genre": "Crime, Drama",
-        "description": "A chief of detectives, homicide section, kills his mistress and deliberately leaves clues to prove his own responsibility for the crime.",
+        "runtime": "100 min",
+        "genre": "Sci-Fi, Thriller",
+        "description": "Thinking this will prevent war, the US government gives an impenetrable supercomputer total control over launching nuclear missiles. But what the computer does with the power is unimaginable to its creators.",
         "director": "",
         "stars": []
     },
     "49": {
-        "name": "The Boys in the Band",
+        "name": "The Private Life of Sherlock Holmes",
         "certificate": "",
-        "runtime": "118 min",
-        "genre": "Drama",
-        "description": "Tempers fray and true selves are revealed when a heterosexual is accidentally invited to a homosexual party.",
+        "runtime": "125 min",
+        "genre": "Adventure, Comedy, Crime",
+        "description": "When a bored Holmes eagerly takes the case of Gabrielle Valladon after an attempt on her life, the search for her missing husband leads to Loch Ness and the legendary monster.",
         "director": "",
         "stars": []
     },
     "50": {
-        "name": "Cotton Comes to Harlem",
+        "name": "Chisum",
         "certificate": "",
-        "runtime": "97 min",
-        "genre": "Action, Comedy",
-        "description": "Gravedigger Jones and Coffin Ed Johnson are two black cops with a reputation for breaking the odd head. Both are annoyed at the success of the Reverend Deke O'Mailey who is selling trips ...                See full summary\u00a0\u00bb",
+        "runtime": "111 min",
+        "genre": "Biography, Western",
+        "description": "Cattle baron John Chisum joins forces with Billy the Kid and Pat Garrett to fight the Lincoln County land war.",
         "director": "",
         "stars": []
     }

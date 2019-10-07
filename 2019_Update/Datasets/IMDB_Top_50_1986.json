@@ -1,10 +1,10 @@
 {
     "1": {
-        "name": "Pretty in Pink",
-        "certificate": "A",
-        "runtime": "97 min",
-        "genre": "Comedy, Drama, Romance",
-        "description": "A poor girl must choose between the affections of dating her childhood sweetheart or a rich but sensitive playboy.",
+        "name": "Stand by Me",
+        "certificate": "",
+        "runtime": "89 min",
+        "genre": "Adventure, Drama",
+        "description": "After the death of one of his friends, a writer recounts a boyhood journey with his friends to find the body of a missing boy.",
         "director": "",
         "stars": []
     },
@@ -18,15 +18,6 @@
         "stars": []
     },
     "3": {
-        "name": "Stand by Me",
-        "certificate": "",
-        "runtime": "89 min",
-        "genre": "Adventure, Drama",
-        "description": "After the death of a friend, a writer recounts a boyhood journey to find the body of a missing boy.",
-        "director": "",
-        "stars": []
-    },
-    "4": {
         "name": "Aliens",
         "certificate": "A",
         "runtime": "137 min",
@@ -35,12 +26,21 @@
         "director": "",
         "stars": []
     },
-    "5": {
+    "4": {
         "name": "Ferris Bueller's Day Off",
         "certificate": "",
         "runtime": "103 min",
         "genre": "Comedy",
         "description": "A high school wise guy is determined to have a day off from school, despite what the Principal thinks of that.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "Labyrinth",
+        "certificate": "",
+        "runtime": "101 min",
+        "genre": "Adventure, Family, Fantasy",
+        "description": "Sixteen-year-old Sarah (Jennifer Connelly) is given thirteen hours to solve a labyrinth and rescue her baby brother Toby (Toby Froud) when her wish for him to be taken away is granted by the Goblin King Jareth (David Bowie).",
         "director": "",
         "stars": []
     },
@@ -54,20 +54,20 @@
         "stars": []
     },
     "7": {
+        "name": "Pretty in Pink",
+        "certificate": "A",
+        "runtime": "97 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A poor girl must choose between the affections of dating her childhood sweetheart or a rich but sensitive playboy.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
         "name": "Highlander",
         "certificate": "R",
         "runtime": "116 min",
         "genre": "Action, Adventure, Fantasy",
         "description": "An immortal Scottish swordsman must confront the last of his immortal opponent, a murderously brutal barbarian who lusts for the fabled \"Prize\".",
-        "director": "",
-        "stars": []
-    },
-    "8": {
-        "name": "Labyrinth",
-        "certificate": "",
-        "runtime": "101 min",
-        "genre": "Adventure, Family, Fantasy",
-        "description": "A 16-year-old girl is given 13 hours to solve a labyrinth and rescue her baby brother when her wish for him to be taken away is granted by the Goblin King.",
         "director": "",
         "stars": []
     },
@@ -90,29 +90,29 @@
         "stars": []
     },
     "11": {
-        "name": "Critters",
-        "certificate": "",
-        "runtime": "86 min",
-        "genre": "Comedy, Horror, Sci-Fi",
-        "description": "A group of small, furry aliens makes lunch out of the locals in a farming town.",
+        "name": "Little Shop of Horrors",
+        "certificate": "PG-13",
+        "runtime": "94 min",
+        "genre": "Comedy, Horror, Musical",
+        "description": "A nerdy florist finds his chance for success and romance with the help of a giant man-eating plant who demands to be fed.",
         "director": "",
         "stars": []
     },
     "12": {
-        "name": "Flight of the Navigator",
-        "certificate": "",
-        "runtime": "90 min",
-        "genre": "Adventure, Family, Sci-Fi",
-        "description": "In 1978, a boy travels 8 years into the future and has an adventure with an intelligent, wisecracking alien ship.",
-        "director": "",
-        "stars": []
-    },
-    "13": {
         "name": "Manhunter",
         "certificate": "",
         "runtime": "120 min",
         "genre": "Crime, Horror, Mystery",
-        "description": "Former FBI profiler Will Graham returns to service to pursue a deranged serial murderer named \"the Tooth Fairy\" by the media.",
+        "description": "Former F.B.I. profiler Will Graham (William Petersen) returns to service to pursue a deranged serial killer named \"the Tooth Fairy\" (Tom Noonan) by the media.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "The Wraith",
+        "certificate": "PG-13",
+        "runtime": "93 min",
+        "genre": "Action, Horror, Romance",
+        "description": "After a young man is murdered by a road-racing gang of motor-heads, a mysterious fast-driving spirit descends from the sky to take revenge.",
         "director": "",
         "stars": []
     },
@@ -135,96 +135,15 @@
         "stars": []
     },
     "16": {
-        "name": "Crocodile Dundee",
+        "name": "The Texas Chainsaw Massacre 2",
         "certificate": "",
-        "runtime": "97 min",
-        "genre": "Adventure, Comedy",
-        "description": "An American reporter goes to the Australian outback to meet an eccentric crocodile poacher and invites him to New York City.",
+        "runtime": "101 min",
+        "genre": "Comedy, Horror",
+        "description": "A radio host is victimized by the cannibal family as a former Texas Marshall hunts them.",
         "director": "",
         "stars": []
     },
     "17": {
-        "name": "Short Circuit",
-        "certificate": "",
-        "runtime": "98 min",
-        "genre": "Comedy, Family, Sci-Fi",
-        "description": "Number 5 of a group of experimental robots in a lab is electrocuted, suddenly becomes intelligent, and escapes.",
-        "director": "",
-        "stars": []
-    },
-    "18": {
-        "name": "Back to School",
-        "certificate": "",
-        "runtime": "96 min",
-        "genre": "Comedy, Romance, Sport",
-        "description": "To help his discouraged son get through college, a funloving and obnoxious rich businessman decides to enter the school as a student himself.",
-        "director": "",
-        "stars": []
-    },
-    "19": {
-        "name": "Little Shop of Horrors",
-        "certificate": "PG-13",
-        "runtime": "94 min",
-        "genre": "Comedy, Horror, Musical",
-        "description": "A nerdy florist finds his chance for success and romance with the help of a giant man-eating plant who demands to be fed.",
-        "director": "",
-        "stars": []
-    },
-    "20": {
-        "name": "Youngblood",
-        "certificate": "",
-        "runtime": "110 min",
-        "genre": "Drama, Romance, Sport",
-        "description": "A skilled young hockey prospect hoping to attract the attention of professional scouts is pressured to show that he can fight if challenged during his stay in a Canadian minor hockey town. ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "21": {
-        "name": "Hoosiers",
-        "certificate": "",
-        "runtime": "114 min",
-        "genre": "Drama, Sport",
-        "description": "A coach with a checkered past and a local drunk train a small town high school basketball team to become a top contender for the championship.",
-        "director": "",
-        "stars": []
-    },
-    "22": {
-        "name": "An American Tail",
-        "certificate": "",
-        "runtime": "80 min",
-        "genre": "Animation, Adventure, Comedy",
-        "description": "While emigrating to the United States, a young Russian mouse gets separated from his family and must relocate them while trying to survive in a new country.",
-        "director": "",
-        "stars": []
-    },
-    "23": {
-        "name": "Howard the Duck",
-        "certificate": "",
-        "runtime": "110 min",
-        "genre": "Action, Adventure, Comedy",
-        "description": "A sarcastic humanoid duck is pulled from his homeworld to Earth where he must stop a hellish alien invasion with the help of a nerdy scientist and a cute struggling female rock singer who fancies him.",
-        "director": "",
-        "stars": []
-    },
-    "24": {
-        "name": "The Money Pit",
-        "certificate": "",
-        "runtime": "91 min",
-        "genre": "Comedy",
-        "description": "A young couple struggles to repair a hopelessly dilapidated house.",
-        "director": "",
-        "stars": []
-    },
-    "25": {
-        "name": "The Wraith",
-        "certificate": "PG-13",
-        "runtime": "93 min",
-        "genre": "Action, Horror, Romance",
-        "description": "After a young man is murdered by a road-racing gang of motor-heads, a mysterious fast-driving spirit descends from the sky to take revenge.",
-        "director": "",
-        "stars": []
-    },
-    "26": {
         "name": "The Karate Kid Part II",
         "certificate": "",
         "runtime": "113 min",
@@ -233,52 +152,7 @@
         "director": "",
         "stars": []
     },
-    "27": {
-        "name": "The Hitcher",
-        "certificate": "",
-        "runtime": "97 min",
-        "genre": "Thriller",
-        "description": "A young man who escapes the clutches of a murderous hitch-hiker is subsequently stalked by the hitcher and framed for his crimes.",
-        "director": "",
-        "stars": []
-    },
-    "28": {
-        "name": "Children of a Lesser God",
-        "certificate": "",
-        "runtime": "119 min",
-        "genre": "Drama, Romance",
-        "description": "A new speech teacher at a school for the deaf falls in love with the janitor, a deaf woman speechless by choice.",
-        "director": "",
-        "stars": []
-    },
-    "29": {
-        "name": "Cobra",
-        "certificate": "",
-        "runtime": "87 min",
-        "genre": "Action, Crime, Thriller",
-        "description": "A tough-on-crime street cop must protect the only surviving witness to a strange murderous cult with far reaching plans.",
-        "director": "",
-        "stars": []
-    },
-    "30": {
-        "name": "The Color of Money",
-        "certificate": "",
-        "runtime": "119 min",
-        "genre": "Drama, Sport",
-        "description": "Fast Eddie Felson teaches a cocky but immensely talented prot\u00e9g\u00e9 the ropes of pool hustling, which in turn inspires him to make an unlikely comeback.",
-        "director": "",
-        "stars": []
-    },
-    "31": {
-        "name": "Invaders from Mars",
-        "certificate": "",
-        "runtime": "100 min",
-        "genre": "Horror, Sci-Fi",
-        "description": "A boy tries to stop aliens who have taken over his town and are attempting to brainwash its inhabitants.",
-        "director": "",
-        "stars": []
-    },
-    "32": {
+    "18": {
         "name": "Der Name der Rose",
         "certificate": "",
         "runtime": "130 min",
@@ -287,25 +161,106 @@
         "director": "",
         "stars": []
     },
-    "33": {
-        "name": "The Mission",
+    "19": {
+        "name": "Back to School",
         "certificate": "",
-        "runtime": "125 min",
-        "genre": "Adventure, Drama, History",
-        "description": "Eighteenth century Spanish Jesuits try to protect a remote South American tribe in danger of falling under the rule of pro-slavery Portugal.",
+        "runtime": "96 min",
+        "genre": "Comedy, Romance, Sport",
+        "description": "To help his discouraged son get through college, a funloving and obnoxious rich businessman decides to enter the school as a student himself.",
         "director": "",
         "stars": []
     },
-    "34": {
-        "name": "Troll",
+    "20": {
+        "name": "Children of a Lesser God",
         "certificate": "",
-        "runtime": "82 min",
-        "genre": "Comedy, Fantasy, Horror",
-        "description": "A wicked troll king in search of a mystical ring that will transform him to human form invades a San Francisco apartment complex where a powerful witch lives.",
+        "runtime": "119 min",
+        "genre": "Drama, Romance",
+        "description": "A new speech teacher at a school for the deaf falls in love with the janitor, a deaf woman speechless by choice.",
         "director": "",
         "stars": []
     },
-    "35": {
+    "21": {
+        "name": "From Beyond",
+        "certificate": "",
+        "runtime": "85 min",
+        "genre": "Horror, Sci-Fi",
+        "description": "A group of scientists have developed the Resonator, a machine which allows whoever is within range to see beyond normal perceptible reality. But when the experiment succeeds, they are immediately attacked by terrible life forms.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "Short Circuit",
+        "certificate": "",
+        "runtime": "98 min",
+        "genre": "Comedy, Family, Sci-Fi",
+        "description": "Number 5 of a group of experimental robots in a lab is electrocuted, suddenly becomes intelligent, and escapes.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "Cobra",
+        "certificate": "",
+        "runtime": "87 min",
+        "genre": "Action, Crime, Thriller",
+        "description": "A tough-on-crime street cop must protect the only surviving witness to a strange murderous cult with far reaching plans.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "SpaceCamp",
+        "certificate": "",
+        "runtime": "107 min",
+        "genre": "Adventure, Family, Sci-Fi",
+        "description": "The young attendees of a space camp find themselves in space for real when their shuttle is accidentally launched into orbit.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "Crocodile Dundee",
+        "certificate": "",
+        "runtime": "97 min",
+        "genre": "Adventure, Comedy",
+        "description": "An American reporter goes to the Australian outback to meet an eccentric crocodile poacher and invites him to New York City.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "Howard the Duck",
+        "certificate": "",
+        "runtime": "110 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "A sarcastic humanoid duck is pulled from his homeworld to Earth where he must stop a hellish alien invasion with the help of a nerdy scientist and a cute struggling female rock singer who fancies him.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "Critters",
+        "certificate": "",
+        "runtime": "86 min",
+        "genre": "Comedy, Horror, Sci-Fi",
+        "description": "A group of small, furry aliens makes lunch out of the locals in a farming town.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "The Color of Money",
+        "certificate": "",
+        "runtime": "119 min",
+        "genre": "Drama, Sport",
+        "description": "Fast Eddie Felson teaches a cocky but immensely talented prot\u00e9g\u00e9 the ropes of pool hustling, which in turn inspires him to make an unlikely comeback.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "The Golden Child",
+        "certificate": "",
+        "runtime": "94 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "A private detective specializing in missing children is charged with the task of finding a special child whom dark forces want to eliminate.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
         "name": "Iron Eagle",
         "certificate": "",
         "runtime": "117 min",
@@ -314,16 +269,43 @@
         "director": "",
         "stars": []
     },
-    "36": {
-        "name": "Hannah and Her Sisters",
+    "31": {
+        "name": "Soul Man",
         "certificate": "",
-        "runtime": "107 min",
-        "genre": "Comedy, Drama",
-        "description": "Between two Thanksgivings two years apart, Hannah's husband falls in love with her sister Lee, while her hypochondriac ex-husband rekindles his relationship with her sister Holly.",
+        "runtime": "104 min",
+        "genre": "Comedy, Romance",
+        "description": "To achieve his dream of attending Harvard, a pampered teen poses as a young black man to receive a full scholarship.",
         "director": "",
         "stars": []
     },
-    "37": {
+    "32": {
+        "name": "Flight of the Navigator",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Adventure, Family, Sci-Fi",
+        "description": "In 1978, a boy travels 8 years into the future and has an adventure with an intelligent, wisecracking alien ship.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "Friday the 13th Part VI: Jason Lives",
+        "certificate": "",
+        "runtime": "86 min",
+        "genre": "Horror, Thriller",
+        "description": "Tommy Jarvis goes to the graveyard to get rid of Jason Voorhees' body once and for all, but inadvertently brings him back to life instead. The newly revived killer once again seeks revenge, and Tommy may be the only one who can defeat him.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "One Crazy Summer",
+        "certificate": "",
+        "runtime": "93 min",
+        "genre": "Comedy, Romance",
+        "description": "An aspiring teenage cartoonist and his friends come to the aid of a singer trying to save her family property from developers.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
         "name": "Maximum Overdrive",
         "certificate": "",
         "runtime": "98 min",
@@ -332,30 +314,48 @@
         "director": "",
         "stars": []
     },
+    "36": {
+        "name": "The Mission",
+        "certificate": "",
+        "runtime": "125 min",
+        "genre": "Adventure, Drama, History",
+        "description": "Eighteenth century Spanish Jesuits try to protect a remote South American tribe in danger of falling under the rule of pro-slavery Portugal.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "Troll",
+        "certificate": "",
+        "runtime": "82 min",
+        "genre": "Comedy, Fantasy, Horror",
+        "description": "A wicked troll king in search of a mystical ring that will transform him to human form invades a San Francisco apartment complex where a powerful witch lives.",
+        "director": "",
+        "stars": []
+    },
     "38": {
-        "name": "\u00a1Three Amigos!",
-        "certificate": "",
-        "runtime": "104 min",
-        "genre": "Comedy, Western",
-        "description": "Three actors accept an invitation to a Mexican village to perform their onscreen bandit fighter roles, unaware that it is the real thing.",
-        "director": "",
-        "stars": []
-    },
-    "39": {
-        "name": "The Golden Child",
-        "certificate": "",
-        "runtime": "94 min",
-        "genre": "Action, Adventure, Comedy",
-        "description": "A private detective specializing in missing children is charged with the task of finding a special child who dark forces want to eliminate.",
-        "director": "",
-        "stars": []
-    },
-    "40": {
         "name": "Star Trek IV: The Voyage Home",
         "certificate": "PG",
         "runtime": "119 min",
         "genre": "Adventure, Comedy, Sci-Fi",
         "description": "To save Earth from an alien probe, Admiral James T. Kirk and his fugitive crew go back in time to San Francisco in 1986 to retrieve the only beings who can communicate with it: humpback whales.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "About Last Night...",
+        "certificate": "",
+        "runtime": "113 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A man and woman meet and try to have a romantic affair, despite their personal problems and the interference of their disapproving friends.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Chopping Mall",
+        "certificate": "",
+        "runtime": "77 min",
+        "genre": "Comedy, Horror, Sci-Fi",
+        "description": "A group of young shopping mall employees stay behind for a late night party in one of the stores. When the mall goes on lock-down before they can get out, the robot security system malfunctions, and goes on a killing spree.",
         "director": "",
         "stars": []
     },
@@ -369,38 +369,38 @@
         "stars": []
     },
     "42": {
-        "name": "Raw Deal",
-        "certificate": "R",
-        "runtime": "106 min",
-        "genre": "Action, Crime, Thriller",
-        "description": "A former FBI agent turned small-town sheriff agrees to help the FBI chief infiltrate the Chicago mafia when the FBI chief's son is killed by them.",
+        "name": "\u00a1Three Amigos!",
+        "certificate": "",
+        "runtime": "104 min",
+        "genre": "Comedy, Western",
+        "description": "Three actors accept an invitation to a Mexican village to perform their onscreen bandit fighter roles, unaware that it is the real thing.",
         "director": "",
         "stars": []
     },
     "43": {
-        "name": "Chopping Mall",
+        "name": "The Hitcher",
         "certificate": "",
-        "runtime": "77 min",
-        "genre": "Comedy, Horror, Sci-Fi",
-        "description": "Eight teenagers are trapped after hours in a high-tech shopping mall and pursued by three murderous security robots out of control.",
+        "runtime": "97 min",
+        "genre": "Thriller",
+        "description": "A young man who escapes the clutches of a murderous hitch-hiker is subsequently stalked by the hitcher and framed for his crimes.",
         "director": "",
         "stars": []
     },
     "44": {
-        "name": "Sid and Nancy",
+        "name": "Poltergeist II: The Other Side",
         "certificate": "",
-        "runtime": "112 min",
-        "genre": "Biography, Drama, Music",
-        "description": "The relationship between Sid Vicious, bassist for British punk group Sex Pistols, and his girlfriend Nancy Spungen is portrayed.",
+        "runtime": "91 min",
+        "genre": "Horror",
+        "description": "The Freeling family have a new house, but their troubles with supernatural forces don't seem to be over.",
         "director": "",
         "stars": []
     },
     "45": {
-        "name": "Peggy Sue Got Married",
+        "name": "Ruthless People",
         "certificate": "",
-        "runtime": "103 min",
-        "genre": "Comedy, Drama, Fantasy",
-        "description": "Peggy Sue faints at a high school reunion. When she wakes up, she finds herself in her own past, just before she finished school.",
+        "runtime": "93 min",
+        "genre": "Comedy, Crime",
+        "description": "A couple, cheated by a vile businessman, kidnap his wife in retaliation, without knowing that their enemy is delighted they did.",
         "director": "",
         "stars": []
     },
@@ -409,43 +409,43 @@
         "certificate": "",
         "runtime": "100 min",
         "genre": "Comedy, Drama, Romance",
-        "description": "A socially inept fourteen year old experiences heartbreak for the first time when his two best friends -- Cappie, an older-brother figure, and Maggie, the new girl with whom he is in love -- fall for each other.",
+        "description": "A socially inept fourteen-year-old experiences heartbreak for the first time when his two best friends - Cappie, an older-brother figure, and Maggie, the new girl with whom he is in love - fall for each other.",
         "director": "",
         "stars": []
     },
     "47": {
-        "name": "Stewardess School",
-        "certificate": "R",
-        "runtime": "89 min",
-        "genre": "Action, Comedy",
-        "description": "A typical 80's teen pseudo-sex comedy. A group of varied misfits (including a former prostitute/stripper and a bumbler who can't see more than 6 inches in front of his face) enter a school ...                See full summary\u00a0\u00bb",
+        "name": "An American Tail",
+        "certificate": "",
+        "runtime": "80 min",
+        "genre": "Animation, Adventure, Comedy",
+        "description": "While emigrating to the United States, a young Russian mouse gets separated from his family and must relocate them while trying to survive in a new country.",
         "director": "",
         "stars": []
     },
     "48": {
-        "name": "The Clan of the Cave Bear",
+        "name": "Henry: Portrait of a Serial Killer",
         "certificate": "",
-        "runtime": "98 min",
-        "genre": "Adventure, Drama, Fantasy",
-        "description": "A young Cro-Magnon woman is raised by Neanderthals.",
+        "runtime": "83 min",
+        "genre": "Biography, Crime, Drama",
+        "description": "Henry, a drifter, commits a series of brutal murders, supposedly operating with impunity.",
         "director": "",
         "stars": []
     },
     "49": {
-        "name": "SpaceCamp",
+        "name": "Lady Jane",
         "certificate": "",
-        "runtime": "107 min",
-        "genre": "Adventure, Family, Sci-Fi",
-        "description": "The young attendees of a space camp find themselves in space for real when their shuttle is accidentally launched into orbit.",
+        "runtime": "136 min",
+        "genre": "Biography, Drama, History",
+        "description": "The death of King Henry VIII throws his kingdom into chaos because of succession disputes. His weak son King Edward VI (Warren Saire), is on his deathbed. Anxious to keep England true to ...                See full summary\u00a0\u00bb",
         "director": "",
         "stars": []
     },
     "50": {
-        "name": "37\u00b02 le matin",
+        "name": "Night of the Creeps",
         "certificate": "",
-        "runtime": "120 min",
-        "genre": "Drama, Romance",
-        "description": "A lackadaisical handyman and aspiring novelist tries to support his younger girlfriend as she slowly succumbs to madness.",
+        "runtime": "88 min",
+        "genre": "Comedy, Horror, Sci-Fi",
+        "description": "Alien brain parasites, entering humans through the mouth, turn their host into a killing zombie. Some teenagers start to fight against them.",
         "director": "",
         "stars": []
     }

@@ -1,14 +1,5 @@
 {
     "1": {
-        "name": "Sunrise: A Song of Two Humans",
-        "certificate": "",
-        "runtime": "94 min",
-        "genre": "Drama, Romance",
-        "description": "An allegorical tale about a man fighting the good and evil within him. Both sides are made flesh - one a sophisticated woman he is attracted to and the other his wife.",
-        "director": "",
-        "stars": []
-    },
-    "2": {
         "name": "Metropolis",
         "certificate": "",
         "runtime": "153 min",
@@ -17,16 +8,16 @@
         "director": "",
         "stars": []
     },
-    "3": {
-        "name": "The Student Prince in Old Heidelberg",
+    "2": {
+        "name": "Sunrise: A Song of Two Humans",
         "certificate": "",
-        "runtime": "106 min",
+        "runtime": "94 min",
         "genre": "Drama, Romance",
-        "description": "A cloistered, overprotected Austrian prince falls in love with a down-to-earth barmaid in this \"Viennese fairy tale.\"",
+        "description": "An allegorical tale about a man fighting the good and evil within him. Both sides are made flesh - one a sophisticated woman he is attracted to and the other his wife.",
         "director": "",
         "stars": []
     },
-    "4": {
+    "3": {
         "name": "Wings",
         "certificate": "PG-13",
         "runtime": "144 min",
@@ -35,12 +26,21 @@
         "director": "",
         "stars": []
     },
-    "5": {
+    "4": {
         "name": "The Jazz Singer",
         "certificate": "",
         "runtime": "88 min",
         "genre": "Drama, Music, Musical",
         "description": "The son of a Jewish Cantor must defy the traditions of his religious father in order to pursue his dream of becoming a jazz singer.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "London After Midnight",
+        "certificate": "",
+        "runtime": "69 min",
+        "genre": "Horror",
+        "description": "The abandoned home of a wealthy man who supposedly committed suicide five years earlier is taken over by ghoulish figures - could they be vampires?",
         "director": "",
         "stars": []
     },
@@ -54,33 +54,6 @@
         "stars": []
     },
     "7": {
-        "name": "7th Heaven",
-        "certificate": "",
-        "runtime": "110 min",
-        "genre": "Drama, Romance",
-        "description": "A street cleaner saves a young woman's life, and the pair slowly fall in love until war intervenes.",
-        "director": "",
-        "stars": []
-    },
-    "8": {
-        "name": "Napol\u00e9on vu par Abel Gance",
-        "certificate": "",
-        "runtime": "240 min",
-        "genre": "Biography, Drama, History",
-        "description": "A film about the French general's youth and early military career.",
-        "director": "",
-        "stars": []
-    },
-    "9": {
-        "name": "London After Midnight",
-        "certificate": "",
-        "runtime": "69 min",
-        "genre": "Horror",
-        "description": "The abandoned home of a wealthy man who supposedly committed suicide five years earlier is taken over by ghoulish figures - could they be vampires?",
-        "director": "",
-        "stars": []
-    },
-    "10": {
         "name": "It",
         "certificate": "",
         "runtime": "72 min",
@@ -89,30 +62,57 @@
         "director": "",
         "stars": []
     },
-    "11": {
-        "name": "Underworld",
-        "certificate": "",
-        "runtime": "80 min",
-        "genre": "Crime, Drama, Film-Noir",
-        "description": "Boisterous gangster kingpin Bull Weed rehabilitates his former lawyer from his alcoholic haze, but complications arise when he falls for Weed's girlfriend.",
-        "director": "",
-        "stars": []
-    },
-    "12": {
-        "name": "Oktyabr",
-        "certificate": "",
-        "runtime": "142 min",
-        "genre": "Drama, History",
-        "description": "In documentary style, events in Petrograd are re-enacted from the end of the monarchy in February of 1917 to the end of the provisional government and the decrees of peace and of land in ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "13": {
+    "8": {
         "name": "The Unknown",
         "certificate": "",
         "runtime": "63 min",
         "genre": "Drama, Horror, Romance",
         "description": "A criminal on the run hides in a circus and seeks to possess the daughter of the ringmaster at any cost.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "Napol\u00e9on vu par Abel Gance",
+        "certificate": "",
+        "runtime": "240 min",
+        "genre": "Biography, Drama, History",
+        "description": "A film about the French general's youth and early military career.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "7th Heaven",
+        "certificate": "",
+        "runtime": "110 min",
+        "genre": "Drama, Romance",
+        "description": "A street cleaner saves a young woman's life, and the pair slowly fall in love until war intervenes.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "Oktyabr",
+        "certificate": "",
+        "runtime": "142 min",
+        "genre": "Drama, History",
+        "description": "A large-scale view on the events of 1917 in Russia, when the monarchy was overthrown.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "The Cat and the Canary",
+        "certificate": "",
+        "runtime": "108 min",
+        "genre": "Comedy, Horror, Mystery",
+        "description": "Relatives of an eccentric millionaire gather in his spooky mansion on the 20th anniversary of his death for the reading of his will.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "Underworld",
+        "certificate": "",
+        "runtime": "80 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "Boisterous gangster kingpin Bull Weed rehabilitates his former lawyer from his alcoholic haze, but complications arise when he falls for Weed's girlfriend.",
         "director": "",
         "stars": []
     },
@@ -126,33 +126,6 @@
         "stars": []
     },
     "15": {
-        "name": "The Cat and the Canary",
-        "certificate": "",
-        "runtime": "108 min",
-        "genre": "Comedy, Horror, Mystery",
-        "description": "Relatives of an eccentric millionaire gather in his spooky mansion on the 20th anniversary of his death for the reading of his will.",
-        "director": "",
-        "stars": []
-    },
-    "16": {
-        "name": "Downhill",
-        "certificate": "",
-        "runtime": "80 min",
-        "genre": "Adventure, Drama, Thriller",
-        "description": "Public schoolboy Roddy Berwick is expelled from school when he takes the blame for a friend's charge and his life falls apart in a series of misadventures.",
-        "director": "",
-        "stars": []
-    },
-    "17": {
-        "name": "Uncle Tom's Cabin",
-        "certificate": "",
-        "runtime": "144 min",
-        "genre": "Drama, History",
-        "description": "Slavery tears apart a black family in the South before the start of the Civil War.",
-        "director": "",
-        "stars": []
-    },
-    "18": {
         "name": "The King of Kings",
         "certificate": "",
         "runtime": "155 min",
@@ -161,7 +134,25 @@
         "director": "",
         "stars": []
     },
-    "19": {
+    "16": {
+        "name": "Two Arabian Knights",
+        "certificate": "",
+        "runtime": "92 min",
+        "genre": "Adventure, Comedy, Romance",
+        "description": "Two American soldiers are captured by the Germans on the Western Front during World War One and escape a POW camp only to stumble into further life-threatening adventures when they come across an Arabian king's daughter while on the lam.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "Downhill",
+        "certificate": "",
+        "runtime": "80 min",
+        "genre": "Adventure, Drama, Thriller",
+        "description": "Public schoolboy Roddy Berwick is expelled from school when he takes the blame for a friend's charge and his life falls apart in a series of misadventures.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
         "name": "The Kid Brother",
         "certificate": "",
         "runtime": "82 min",
@@ -170,43 +161,7 @@
         "director": "",
         "stars": []
     },
-    "20": {
-        "name": "Love",
-        "certificate": "",
-        "runtime": "82 min",
-        "genre": "Drama, Romance",
-        "description": "A married woman compromises her social standing and family life when she falls for a young officer.",
-        "director": "",
-        "stars": []
-    },
-    "21": {
-        "name": "My Best Girl",
-        "certificate": "",
-        "runtime": "80 min",
-        "genre": "Comedy, Romance",
-        "description": "A department store's stock girl falls in love with a co-worker, the son of the store's manager; the feeling is mutual though he is engaged to a debutante and focusing on becoming successful without the influence of his father.",
-        "director": "",
-        "stars": []
-    },
-    "22": {
-        "name": "College",
-        "certificate": "",
-        "runtime": "66 min",
-        "genre": "Comedy, Drama, Sport",
-        "description": "To reconcile with his girlfriend, a bookish college student tries to become an athlete.",
-        "director": "",
-        "stars": []
-    },
-    "23": {
-        "name": "The Private Life of Helen of Troy",
-        "certificate": "",
-        "runtime": "87 min",
-        "genre": "Action, Adventure, Comedy",
-        "description": "Queen Helen of Troy, in response to her husband Menelaus' lack of interest in her, elopes with Paris to Sparta. Menelaus, egged on by his henchman, starts a war with Paris, finally ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "24": {
+    "19": {
         "name": "Chicago",
         "certificate": "",
         "runtime": "118 min",
@@ -215,12 +170,57 @@
         "director": "",
         "stars": []
     },
-    "25": {
-        "name": "Two Arabian Knights",
+    "20": {
+        "name": "College",
         "certificate": "",
-        "runtime": "92 min",
-        "genre": "Comedy, Romance, Adventure",
-        "description": "Two American soldiers are captured by the Germans on the Western Front during World War One and escape a POW camp only to stumble into further life-threatening adventures when they come across an Arabian king's daughter while on the lam.",
+        "runtime": "66 min",
+        "genre": "Comedy, Drama, Sport",
+        "description": "To reconcile with his girlfriend, a bookish college student tries to become an athlete.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "The Private Life of Helen of Troy",
+        "certificate": "",
+        "runtime": "87 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "Queen Helen of Troy, in response to her husband Menelaus' lack of interest in her, elopes with Paris to Sparta. Menelaus, egged on by his henchman, starts a war with Paris, finally ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "The Gaucho",
+        "certificate": "",
+        "runtime": "115 min",
+        "genre": "Adventure, Romance",
+        "description": "A girl is saved by a miracle after she falls from a cliff in the Argentine Andes, and is blessed with healing powers. A shrine is built on the site, and a whole city grows around it, rich ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "Uncle Tom's Cabin",
+        "certificate": "",
+        "runtime": "144 min",
+        "genre": "Drama, History",
+        "description": "Slavery tears apart a black family in the South before the start of the Civil War.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "Annie Laurie",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Drama, Romance",
+        "description": "The story of the famous battle between the Scots clans of Macdonald and Campbell, and the young woman who comes between them, Annie Laurie.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "The Enemy",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Drama, Romance, War",
+        "description": "Carl Behrend, son of a wealthy businessman, marries Pauli Arndt, daughter of a pacifist professor. When World War I breaks out, Carl is drafted. Pauli and her family and friends are left ...                See full summary\u00a0\u00bb",
         "director": "",
         "stars": []
     },
@@ -243,11 +243,11 @@
         "stars": []
     },
     "28": {
-        "name": "Annie Laurie",
+        "name": "Love",
         "certificate": "",
-        "runtime": "90 min",
+        "runtime": "82 min",
         "genre": "Drama, Romance",
-        "description": "The story of the famous battle between the Scots clans of Macdonald and Campbell, and the young woman who comes between them, Annie Laurie.",
+        "description": "A married woman compromises her social standing and family life when she falls for a young officer.",
         "director": "",
         "stars": []
     },
@@ -261,96 +261,15 @@
         "stars": []
     },
     "30": {
-        "name": "Mother Machree",
+        "name": "My Best Girl",
         "certificate": "",
-        "runtime": "75 min",
-        "genre": "Drama",
-        "description": "Ellen McHugh, a poor Irish immigrant to America, finds work in a carnival and is thus able to send her son Brian to a fine school. But when her position is found out, the school expels ...                See full summary\u00a0\u00bb",
+        "runtime": "80 min",
+        "genre": "Comedy, Romance",
+        "description": "A department store's stock girl falls in love with a co-worker, the son of the store's manager; the feeling is mutual though he is engaged to a debutante and focusing on becoming successful without the influence of his father.",
         "director": "",
         "stars": []
     },
     "31": {
-        "name": "The Red Mill",
-        "certificate": "",
-        "runtime": "74 min",
-        "genre": "Comedy, Romance",
-        "description": "A tavern worker and the daughter of a burgomaster enter into elaborate masquerades in order to win the hearts of the men they love.",
-        "director": "",
-        "stars": []
-    },
-    "32": {
-        "name": "West Point",
-        "certificate": "",
-        "runtime": "95 min",
-        "genre": "Drama, Romance, Sport",
-        "description": "Wealthy Brice Wayne enters West Point and, though he does well on the football field, angers fellow cadets with his arrogance. Disciplined by the coach he yells \"To hell with the Corps!\" ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "33": {
-        "name": "White Gold",
-        "certificate": "",
-        "runtime": "73 min",
-        "genre": "Western",
-        "description": "A beautiful young Mexican girl marries an Arizona sheep rancher and returns with him to his ranch, where he lives with his elderly father. The father, not used to sharing his son's ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "34": {
-        "name": "Resurrection",
-        "certificate": "",
-        "runtime": "100 min",
-        "genre": "Drama, Romance",
-        "description": "Katusha, a country girl, is seduced and abandoned by Prince Nekludov. Nekludov finds himself, years later, on a jury trying the same Katusha for a crime he now realizes his actions drove ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "35": {
-        "name": "Hula",
-        "certificate": "",
-        "runtime": "64 min",
-        "genre": "Drama, Romance",
-        "description": "The daughter of a pineapple plantation owner in Hawaii sets her sights on a married English engineer.",
-        "director": "",
-        "stars": []
-    },
-    "36": {
-        "name": "Devushka s korobkoy",
-        "certificate": "",
-        "runtime": "60 min",
-        "genre": "Comedy, Drama, Romance",
-        "description": "Natasha and her grandfather live in a cottage near Moscow, making hats for Madame Ir\u00e8ne. Madame and her husband have told the housing committee that Natasha rents a room from them; this ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "37": {
-        "name": "Nevada",
-        "certificate": "",
-        "runtime": "",
-        "genre": "Western",
-        "description": "A gunslinger looking for a quiet place to settle down becomes entangled in a romantic triangle and the hunt for a gang of cattle rustlers.",
-        "director": "",
-        "stars": []
-    },
-    "38": {
-        "name": "Arizona Bound",
-        "certificate": "",
-        "runtime": "53 min",
-        "genre": "Action, Western",
-        "description": "Dave Saulter (Gary Cooper), a rambling young cowboy drifts into a small western town the day a big gold shipment is leaving by stagecoach. Two different people plan to rob the stagecoach......                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "39": {
-        "name": "Orchids and Ermine",
-        "certificate": "",
-        "runtime": "70 min",
-        "genre": "Comedy, Romance",
-        "description": "A telephone operator at an opulent hotel falls in love with a young man who turns out to be a rich oil millionaire.",
-        "director": "",
-        "stars": []
-    },
-    "40": {
         "name": "Konets Sankt-Peterburga",
         "certificate": "",
         "runtime": "85 min",
@@ -359,93 +278,174 @@
         "director": "",
         "stars": []
     },
-    "41": {
-        "name": "Pan si dong",
+    "32": {
+        "name": "Ham and Eggs at the Front",
         "certificate": "",
-        "runtime": "59 min",
-        "genre": "Fantasy",
-        "description": "One of the earliest cinematic adaptation of Chinese classic novel Journey to the West. When seeking for food alone, Tang Xuanzang was kept prisoner by seven spider monsters who took the ...                See full summary\u00a0\u00bb",
+        "runtime": "60 min",
+        "genre": "Comedy, War",
+        "description": "Fifi, (Mryna Loy), a dusky, sultry Senegalese spy, uses her wiles to get information out of two American army soldiers, Ham, (Tom Wilson), and Eggs, (Heinie Conklin), in France during World War One.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "La sir\u00e8ne des tropiques",
+        "certificate": "",
+        "runtime": "86 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Marquis S\u00e9v\u00e9ro, a rich, lazy Parisian, wants to divorce his wife so that he can marry his own goddaughter Denise. But Denise herself loves Andr\u00e9 Berval, an engineer employed by the marquis....                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "The Show",
+        "certificate": "",
+        "runtime": "76 min",
+        "genre": "Crime, Drama",
+        "description": "Performers in a Budapest sideshow encounter love, greed, and murder.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "The Student Prince in Old Heidelberg",
+        "certificate": "",
+        "runtime": "106 min",
+        "genre": "Drama, Romance",
+        "description": "A cloistered, overprotected Austrian prince falls in love with a down-to-earth barmaid in this \"Viennese fairy tale.\"",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "The Scar of Shame",
+        "certificate": "",
+        "runtime": "68 min",
+        "genre": "Drama",
+        "description": "An educated, upscale young black musician marries a woman from a lower socioeconomic class to get her out of the clutches of her stepfather, who beats and abuses her. However, once he \"...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "Orchids and Ermine",
+        "certificate": "",
+        "runtime": "70 min",
+        "genre": "Comedy, Romance",
+        "description": "A telephone operator at an opulent hotel falls in love with a young man who turns out to be a rich oil millionaire.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "Mockery",
+        "certificate": "",
+        "runtime": "75 min",
+        "genre": "Drama, Romance",
+        "description": "During the Russian Revolution, a mentally challenged peasant saves then obsesses over a beautiful countess.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "Twelve Miles Out",
+        "certificate": "",
+        "runtime": "85 min",
+        "genre": "Drama",
+        "description": "Jerry always wins in his rivalry with Red over women, gunrunning, and diamond smuggling. While running booze into the U.S. during Prohibition, Jerry seizes Jane's seaside home. When she ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Open Range",
+        "certificate": "",
+        "runtime": "60 min",
+        "genre": "Western",
+        "description": "Add a Plot",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "The Magic Flame",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Drama",
+        "description": "Add a Plot",
         "director": "",
         "stars": []
     },
     "42": {
-        "name": "The Battles of Coronel and Falkland Islands",
+        "name": "Mr. Wu",
         "certificate": "",
-        "runtime": "107 min",
-        "genre": "Drama, War",
-        "description": "Dramatic reconstruction of two 1914 naval battles off Coronel and the Falkland Islands.The first a defeat of the British by Vice Admiral Maximilian von Spee, the second a retaliation by the British under vice Admiral Sturdee.",
+        "runtime": "91 min",
+        "genre": "Drama, Romance",
+        "description": "When Mandarin Wu's unmarried daughter becomes pregnant by a young Englishman, he seeks vengeance.",
         "director": "",
         "stars": []
     },
     "43": {
-        "name": "Broadway Nights",
+        "name": "The Drop Kick",
         "certificate": "",
-        "runtime": "72 min",
-        "genre": "Drama, Romance",
-        "description": "Fannie, a performer in a music hall act, teams up with Johnny, an MC and a gambler, and becomes a success. They marry, and a few years later they have a child. One night while they are ...                See full summary\u00a0\u00bb",
+        "runtime": "62 min",
+        "genre": "Drama, Sport",
+        "description": "College football player Jack Hamill finds his reputation on the line when he pays an innocent visit to a woman whose husband kills himself.",
         "director": "",
         "stars": []
     },
     "44": {
+        "name": "The Beloved Rogue",
+        "certificate": "",
+        "runtime": "99 min",
+        "genre": "Adventure, Drama, History",
+        "description": "Fran\u00e7ois Villon, in his lifetime the most renowned poet in France, is also a prankster, an occasional criminal, and an ardent patriot.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "Sorrell and Son",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Drama",
+        "description": "Stephen Sorrell, a decorated war hero, raises his son Kit alone after Kit's mother deserts husband and child in the boy's infancy. Sorrell loses a promising job offer and is forced to take ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "46": {
         "name": "Tiptoes",
         "certificate": "",
-        "runtime": "",
+        "runtime": "70 min",
         "genre": "Comedy, Romance",
         "description": "A silent film version of the Gershwin stage musical",
         "director": "",
         "stars": []
     },
-    "45": {
-        "name": "Running Wild",
-        "certificate": "",
-        "runtime": "68 min",
-        "genre": "Comedy",
-        "description": "Cowardly Elmer Finch is browbeaten by his wife, daughter, fat son and the family dog. After hypnosis he is domineering. He enters a contract with a fifteen-thousand dollar payoff, so his ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "46": {
-        "name": "Die Liebe der Jeanne Ney",
-        "certificate": "",
-        "runtime": "104 min",
-        "genre": "Drama, Romance",
-        "description": "In the Crimea, the Reds and the Whites aren't done fighting, and Jeanne discovers that the man she loves is a Bolshevik (when he kills her father). Penniless, she returns to Paris where she...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
     "47": {
-        "name": "The Patent Leather Kid",
+        "name": "Eine tolle Nacht",
         "certificate": "",
-        "runtime": "150 min",
-        "genre": "Drama, Romance, Sport",
-        "description": "A boxer has difficulty balancing his sport with a budding romance; both are further jeopardized when the United States enters the first World War.",
+        "runtime": "70 min",
+        "genre": "Comedy",
+        "description": "Add a Plot",
         "director": "",
         "stars": []
     },
     "48": {
-        "name": "Rough House Rosie",
+        "name": "Man, Woman and Sin",
         "certificate": "",
-        "runtime": "66 min",
-        "genre": "Comedy, Romance, Sport",
-        "description": "A poor but ambitious young girl is determined to crash high society, but isn't prepared for the reception she receives.",
+        "runtime": "70 min",
+        "genre": "Drama",
+        "description": "A young man takes a succession of odd jobs in order to save enough money to buy he and his mother a house. He lands a position in a newspaper office and falls in love with the beautiful ...                See full summary\u00a0\u00bb",
         "director": "",
         "stars": []
     },
     "49": {
-        "name": "Tarzan and the Golden Lion",
+        "name": "Hans engelska fru",
         "certificate": "",
-        "runtime": "57 min",
-        "genre": "Action, Adventure",
-        "description": "Flora Hawks is in love with the overseer of Tarzan's African estate. After a search for a legendary city of diamonds, Tarzon races with his pet lion Jad-bal-ja to save Haws from being sacrificed to a lion-god.",
+        "runtime": "150 min",
+        "genre": "Drama",
+        "description": "Two English gentlemen of the upper class, Ivor Willington and Lionel Jessop, play a card game about who will get the young beautiful widow Cathleen Paget and her fortune after her grieving year is over.",
         "director": "",
         "stars": []
     },
     "50": {
-        "name": "The Monkey Talks",
+        "name": "Mother Machree",
         "certificate": "",
-        "runtime": "60 min",
+        "runtime": "75 min",
         "genre": "Drama",
-        "description": "A bankrupt circus act plans to revive its fortunes by disguising a diminutive acrobat as a talking chimpanzee. When the acrobat falls in love with a beautiful tight-rope walker, things go awry.",
+        "description": "Ellen McHugh, a poor Irish immigrant to America, finds work in a carnival and is thus able to send her son Brian to a fine school. But when her position is found out, the school expels ...                See full summary\u00a0\u00bb",
         "director": "",
         "stars": []
     }

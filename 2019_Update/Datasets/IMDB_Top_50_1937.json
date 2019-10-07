@@ -1,19 +1,19 @@
 {
     "1": {
-        "name": "A Star Is Born",
-        "certificate": "",
-        "runtime": "111 min",
-        "genre": "Drama",
-        "description": "A young woman comes to Hollywood with dreams of stardom, but achieves them only with the help of an alcoholic leading man whose best days are behind him.",
-        "director": "",
-        "stars": []
-    },
-    "2": {
         "name": "Snow White and the Seven Dwarfs",
         "certificate": "G",
         "runtime": "83 min",
         "genre": "Animation, Family, Fantasy",
         "description": "Exiled into the dangerous forest by her wicked stepmother, a princess is rescued by seven dwarf miners who make her part of their household.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "A Star Is Born",
+        "certificate": "",
+        "runtime": "111 min",
+        "genre": "Drama, Romance",
+        "description": "A young woman comes to Hollywood with dreams of stardom, but achieves them only with the help of an alcoholic leading man whose best days are behind him.",
         "director": "",
         "stars": []
     },
@@ -27,20 +27,20 @@
         "stars": []
     },
     "4": {
-        "name": "Way Out West",
+        "name": "The Grand Illusion",
         "certificate": "",
-        "runtime": "65 min",
-        "genre": "Comedy, Family, Western",
-        "description": "Stanley and Ollie are enlisted to deliver the deed to a goldmine in a small village, only for it to be stolen.",
+        "runtime": "113 min",
+        "genre": "Drama, War",
+        "description": "During WWI, two French soldiers are captured and imprisoned in a German P.O.W. camp. Several escape attempts follow until they are eventually sent to a seemingly inescapable fortress.",
         "director": "",
         "stars": []
     },
     "5": {
-        "name": "La Grande Illusion",
+        "name": "Nothing Sacred",
         "certificate": "",
-        "runtime": "113 min",
-        "genre": "Drama, War",
-        "description": "During the First World War, two French soldiers are captured and imprisoned in a German P.O.W. camp. Several escape attempts follow until they are sent to a seemingly impenetrable fortress which seems impossible to escape from.",
+        "runtime": "77 min",
+        "genre": "Drama, Fantasy, Romance",
+        "description": "An eccentric woman learns she is not dying of radium poisoning as earlier assumed, but when she meets a reporter looking for a story, she feigns sickness again for her own profit.",
         "director": "",
         "stars": []
     },
@@ -54,204 +54,15 @@
         "stars": []
     },
     "7": {
-        "name": "Stage Door",
+        "name": "Wells Fargo",
         "certificate": "",
-        "runtime": "92 min",
-        "genre": "Comedy, Drama",
-        "description": "A chronicle of the ambitions, dreams, and disappointments of aspiring actresses who all live in the same boarding house.",
+        "runtime": "97 min",
+        "genre": "History, Western",
+        "description": "The life and career of a Wells Fargo official frames this fictionalized account of the express company's formation.",
         "director": "",
         "stars": []
     },
     "8": {
-        "name": "Heidi",
-        "certificate": "",
-        "runtime": "88 min",
-        "genre": "Drama, Family, Musical",
-        "description": "A plucky little orphan girl gets dumped abruptly into her gruff, hermit grandfather's care, then later gets retaken and delivered as a companion for an injured girl.",
-        "director": "",
-        "stars": []
-    },
-    "9": {
-        "name": "Night Must Fall",
-        "certificate": "",
-        "runtime": "116 min",
-        "genre": "Drama, Mystery, Thriller",
-        "description": "When a rich but cantankerous dowager on an isolated estates hires an engaging handyman, her niece/companion becomes suspicious of his motives.",
-        "director": "",
-        "stars": []
-    },
-    "10": {
-        "name": "Topper",
-        "certificate": "",
-        "runtime": "97 min",
-        "genre": "Comedy, Fantasy, Romance",
-        "description": "A fun-loving couple, finding that they died and are now ghosts, decide to shake up the stuffy lifestyle of a friend of theirs.",
-        "director": "",
-        "stars": []
-    },
-    "11": {
-        "name": "Young and Innocent",
-        "certificate": "",
-        "runtime": "80 min",
-        "genre": "Crime, Mystery, Romance",
-        "description": "A man on the run from a murder charge enlists a beautiful stranger who must put herself at risk for his cause.",
-        "director": "",
-        "stars": []
-    },
-    "12": {
-        "name": "Captains Courageous",
-        "certificate": "",
-        "runtime": "117 min",
-        "genre": "Adventure, Drama, Family",
-        "description": "A spoiled brat who falls overboard from a steamship gets picked up by a fishing boat, where he's made to earn his keep by joining the crew in their work.",
-        "director": "",
-        "stars": []
-    },
-    "13": {
-        "name": "The Good Earth",
-        "certificate": "",
-        "runtime": "138 min",
-        "genre": "Drama, Romance",
-        "description": "Although married Chinese farmers Wang and O-Lan initially experience success, their lives are complicated by declining fortunes and lean times, as well as the arrival of the beautiful young Lotus.",
-        "director": "",
-        "stars": []
-    },
-    "14": {
-        "name": "Empty Holsters",
-        "certificate": "",
-        "runtime": "62 min",
-        "genre": "Romance, Western",
-        "description": "Ace owns just about everything around except for the Bank, which is owned by John Ware. Ace also has his eye on Judy, but Judy only has eyes for Clay. Since Ace is a crook, he holds up the ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "15": {
-        "name": "Stella Dallas",
-        "certificate": "",
-        "runtime": "106 min",
-        "genre": "Drama, Romance",
-        "description": "A working-class woman is willing to do whatever it takes to give her daughter a socially promising future.",
-        "director": "",
-        "stars": []
-    },
-    "16": {
-        "name": "A Day at the Races",
-        "certificate": "",
-        "runtime": "111 min",
-        "genre": "Comedy, Musical, Sport",
-        "description": "A veterinarian posing as a doctor and a race-horse owner and his friends struggle to help keep a sanitarium open with the help of a misfit race-horse.",
-        "director": "",
-        "stars": []
-    },
-    "17": {
-        "name": "The Life of Emile Zola",
-        "certificate": "",
-        "runtime": "116 min",
-        "genre": "Biography, Drama",
-        "description": "The biopic of the famous French muckraking writer and his involvement in fighting the injustice of the Dreyfuss Affair.",
-        "director": "",
-        "stars": []
-    },
-    "18": {
-        "name": "You Only Live Once",
-        "certificate": "",
-        "runtime": "86 min",
-        "genre": "Crime, Drama, Film-Noir",
-        "description": "The public defender's secretary and an ex-convict get married and try to make a life together, but a series of disasters sends their lives spiraling out of control.",
-        "director": "",
-        "stars": []
-    },
-    "19": {
-        "name": "Shall We Dance",
-        "certificate": "",
-        "runtime": "109 min",
-        "genre": "Comedy, Musical, Romance",
-        "description": "A budding romance between a ballet master and a tap dancer becomes complicated when rumors surface that they're already married.",
-        "director": "",
-        "stars": []
-    },
-    "20": {
-        "name": "Black Legion",
-        "certificate": "",
-        "runtime": "83 min",
-        "genre": "Crime, Drama, Film-Noir",
-        "description": "When a hard-working machinist loses a promotion to a Polish-born worker, he is seduced into joining the secretive Black Legion, which intimidates foreigners through violence.",
-        "director": "",
-        "stars": []
-    },
-    "21": {
-        "name": "Make Way for Tomorrow",
-        "certificate": "",
-        "runtime": "91 min",
-        "genre": "Comedy, Drama, Romance",
-        "description": "An elderly couple are forced to separate when they lose their house and none of their five children will take both parents in.",
-        "director": "",
-        "stars": []
-    },
-    "22": {
-        "name": "Dead End",
-        "certificate": "",
-        "runtime": "93 min",
-        "genre": "Crime, Drama, Film-Noir",
-        "description": "The lives of a young man and woman, an infamous gangster and a group of street kids converge one day in a volatile New York City slum.",
-        "director": "",
-        "stars": []
-    },
-    "23": {
-        "name": "Nothing Sacred",
-        "certificate": "",
-        "runtime": "77 min",
-        "genre": "Comedy, Drama, Romance",
-        "description": "An eccentric woman learns she is not dying of radium poisoning as earlier assumed, but when she meets a reporter looking for a story, she feigns sickness again for her own profit.",
-        "director": "",
-        "stars": []
-    },
-    "24": {
-        "name": "P\u00e9p\u00e9 le Moko",
-        "certificate": "",
-        "runtime": "94 min",
-        "genre": "Crime, Drama, Romance",
-        "description": "A wanted gangster is both king and prisoner of the Casbah. He is protected from arrest by his friends, but is torn by his desire for freedom outside. A visiting Parisian beauty may just tempt his fate.",
-        "director": "",
-        "stars": []
-    },
-    "25": {
-        "name": "The Hurricane",
-        "certificate": "",
-        "runtime": "110 min",
-        "genre": "Action, Drama, Romance",
-        "description": "A Polynesian sailor -- unjustly imprisoned after defending himself against a colonial bully -- is relentlessly persecuted by his island's martinet French governor.",
-        "director": "",
-        "stars": []
-    },
-    "26": {
-        "name": "The Prisoner of Zenda",
-        "certificate": "",
-        "runtime": "101 min",
-        "genre": "Adventure, Drama, Romance",
-        "description": "An Englishman on a Ruritarian holiday must impersonate the king when the rightful monarch, a distant cousin, is drugged and kidnapped.",
-        "director": "",
-        "stars": []
-    },
-    "27": {
-        "name": "The Prince and the Pauper",
-        "certificate": "",
-        "runtime": "118 min",
-        "genre": "Adventure, Drama, Family",
-        "description": "A poor boy named Tom Canty and the Prince of Wales exchange identities but events force the pair to experience each other's lives as well.",
-        "director": "",
-        "stars": []
-    },
-    "28": {
-        "name": "A Damsel in Distress",
-        "certificate": "",
-        "runtime": "101 min",
-        "genre": "Comedy, Music, Romance",
-        "description": "Lady Alyce Marshmorton must marry soon, and the staff of Tottney Castle have laid bets on who she'll choose, with young Albert wagering on \"Mr. X\". After Alyce goes to London to meet a beau...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "29": {
         "name": "Fire Over England",
         "certificate": "",
         "runtime": "92 min",
@@ -260,160 +71,97 @@
         "director": "",
         "stars": []
     },
-    "30": {
-        "name": "Saratoga",
+    "9": {
+        "name": "Topper",
         "certificate": "",
-        "runtime": "92 min",
-        "genre": "Drama, Comedy, Romance",
-        "description": "After winning a stud farm in lieu of gambling debts, bookie Duke Bradley turns an eye to the daughter of the now deceased gambler and her millionaire fianc\u00e9e.",
+        "runtime": "97 min",
+        "genre": "Comedy, Fantasy, Romance",
+        "description": "A fun-loving couple, finding that they died and are now ghosts, decide to shake up the stuffy lifestyle of a friend of theirs.",
         "director": "",
         "stars": []
     },
-    "31": {
-        "name": "Easy Living",
+    "10": {
+        "name": "Shall We Dance",
+        "certificate": "",
+        "runtime": "109 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "A budding romance between a ballet master and a tap dancer becomes complicated when rumors surface that they're already married.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "Heidi",
         "certificate": "",
         "runtime": "88 min",
-        "genre": "Comedy, Romance",
-        "description": "During the Great Depression, a wealthy banker throws away his wife's expensive fur coat; it lands on the head of a stenographer, leading to everyone assuming she is his mistress and has access to his millions.",
+        "genre": "Drama, Family, Musical",
+        "description": "A plucky little orphan girl gets dumped abruptly into her gruff, hermit grandfather's care, then later gets retaken and delivered as a companion for an injured girl.",
         "director": "",
         "stars": []
     },
-    "32": {
-        "name": "Marked Woman",
+    "12": {
+        "name": "Way Out West",
         "certificate": "",
-        "runtime": "96 min",
-        "genre": "Crime, Film-Noir, Thriller",
-        "description": "A crusading DA persuades a clip joint \"party girl\" to testify against her mobster boss after her innocent sister is accidentally murdered during one of his unsavory \"parties\".",
+        "runtime": "65 min",
+        "genre": "Comedy, Family, Western",
+        "description": "Stanley and Ollie are enlisted to deliver the deed to a goldmine in a small village, only for it to be stolen.",
         "director": "",
         "stars": []
     },
-    "33": {
-        "name": "Sh! The Octopus",
+    "13": {
+        "name": "Stage Door",
         "certificate": "",
-        "runtime": "54 min",
-        "genre": "Comedy, Mystery, Thriller",
-        "description": "Comedy-mystery finds Detectives Kelly and Dempsey trapped in a deserted lighthouse with a group of strangers who are being terrorized by a killer octopus AND a mysterious crime figure named...                See full summary\u00a0\u00bb",
+        "runtime": "92 min",
+        "genre": "Comedy, Drama",
+        "description": "A chronicle of the ambitions, dreams, and disappointments of aspiring actresses who all live in the same boarding house.",
         "director": "",
         "stars": []
     },
-    "34": {
-        "name": "Seventh Heaven",
+    "14": {
+        "name": "Dead End",
         "certificate": "",
-        "runtime": "102 min",
+        "runtime": "93 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "The lives of a young man and woman, an infamous gangster and a group of street kids converge one day in a volatile New York City slum.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "You Only Live Once",
+        "certificate": "",
+        "runtime": "86 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "The public defender's secretary and an ex-convict get married and try to make a life together, but a series of disasters sends their lives spiraling out of control.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "The Good Earth",
+        "certificate": "",
+        "runtime": "138 min",
         "genre": "Drama, Romance",
-        "description": "A Parisian sewer worker longs for a rise in status and a beautiful wife. He rescues a girl from the police, lives with her in a barren flat on the seventh floor, and then marches away to ...                See full summary\u00a0\u00bb",
+        "description": "Although married Chinese farmers Wang and O-Lan initially experience success, their lives are complicated by declining fortunes and lean times, as well as the arrival of the beautiful young Lotus.",
         "director": "",
         "stars": []
     },
-    "35": {
-        "name": "They Won't Forget",
+    "17": {
+        "name": "Captains Courageous",
         "certificate": "",
-        "runtime": "95 min",
-        "genre": "Drama, Film-Noir, Mystery",
-        "description": "A politically ambitious district attorney, unscrupulous tabloid journalists, and regional prejudice combine to charge a teacher with the murder of his student.",
+        "runtime": "117 min",
+        "genre": "Adventure, Drama, Family",
+        "description": "A spoiled brat who falls overboard from a steamship gets picked up by a fishing boat, where he's made to earn his keep by joining the crew in their work.",
         "director": "",
         "stars": []
     },
-    "36": {
-        "name": "Kid Galahad",
-        "certificate": "",
-        "runtime": "102 min",
-        "genre": "Crime, Drama, Romance",
-        "description": "Fight promoter Nick Donati grooms a bellhop as a future champ, but has second thoughts when the 'kid' falls for his sister.",
-        "director": "",
-        "stars": []
-    },
-    "37": {
-        "name": "Conquest",
-        "certificate": "",
-        "runtime": "113 min",
-        "genre": "Drama, History, Romance",
-        "description": "A Polish countess becomes Napoleon Bonaparte's mistress at the urging of Polish leaders, who feel she could influence him to make Poland independent.",
-        "director": "",
-        "stars": []
-    },
-    "38": {
-        "name": "Storm in a Teacup",
-        "certificate": "",
-        "runtime": "87 min",
-        "genre": "Comedy, Romance",
-        "description": "A local politician in Scotland tries to break the reporter who wrote a negative story about him, and who is also in love with his daughter.",
-        "director": "",
-        "stars": []
-    },
-    "39": {
-        "name": "Le roman de Renard",
-        "certificate": "",
-        "runtime": "63 min",
-        "genre": "Animation, Adventure, Comedy",
-        "description": "When Renard the Fox's mischievous pranks go too far, King Lion is forced to attempt to bring the trickster to justice.",
-        "director": "",
-        "stars": []
-    },
-    "40": {
-        "name": "King Solomon's Mines",
-        "certificate": "",
-        "runtime": "77 min",
-        "genre": "Action, Adventure, Drama",
-        "description": "White hunter Allan Quartermain and his enigmatic guide help a young Irish woman locate her missing father in unexplored Darkest Africa.",
-        "director": "",
-        "stars": []
-    },
-    "41": {
-        "name": "The Bride Wore Red",
-        "certificate": "",
-        "runtime": "103 min",
-        "genre": "Comedy, Drama, Romance",
-        "description": "Count Armalia believes that the luck of birth is all that separates the rich from the poor. To test his theory, he sends Anni, who is a singer in a dive, to a ritzy resort for two weeks. ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "42": {
-        "name": "Broadway Melody of 1938",
-        "certificate": "",
-        "runtime": "110 min",
-        "genre": "Musical, Romance",
-        "description": "Steve Raleight wants to produce a show on Broadway. He finds a backer, Herman Whipple and a leading lady, Sally Lee. But Caroline Whipple forces Steve to use a known star, not a newcomer. ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "43": {
-        "name": "Wee Willie Winkie",
-        "certificate": "",
-        "runtime": "100 min",
-        "genre": "Adventure, Family",
-        "description": "Priscilla Williams, a young girl living with her widowed mother and paternal grandfather at the post he commands in northern India, becomes enamored of military life and embroiled in brewing rebellion against the crown in the early 1900's.",
-        "director": "",
-        "stars": []
-    },
-    "44": {
-        "name": "Ever Since Eve",
+    "18": {
+        "name": "Thoroughbreds Don't Cry",
         "certificate": "",
         "runtime": "80 min",
-        "genre": "Comedy, Romance",
-        "description": "Lecherous bosses make it difficult for an attractive secretary to keep jobs, so she decides to appear considerably more homely in hopes of holding onto work.",
+        "genre": "Comedy, Drama, Music",
+        "description": "A cocky young jockey who gets mixed up with some crooked gamblers befriends an English lad with a fast horse and the niece of a woman who runs a boarding house for jockeys.",
         "director": "",
         "stars": []
     },
-    "45": {
-        "name": "Mannequin",
-        "certificate": "",
-        "runtime": "95 min",
-        "genre": "Drama",
-        "description": "Rags-to-riches Hennessey meets newlyweds Jessie and Eddie from his old neighborhood. Eddie plots to have Jessie divorce him, marry Hennessey, divorce Hennessey, then bring Hennessey's money...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "46": {
-        "name": "Born to the West",
-        "certificate": "",
-        "runtime": "59 min",
-        "genre": "Romance, Western",
-        "description": "Can Dare Rudd prove he is responsible enough to win the heart of Judy and also outwit the crooked saloon owner?",
-        "director": "",
-        "stars": []
-    },
-    "47": {
+    "19": {
         "name": "Oh, Mr. Porter!",
         "certificate": "",
         "runtime": "85 min",
@@ -422,30 +170,282 @@
         "director": "",
         "stars": []
     },
+    "20": {
+        "name": "The Prisoner of Zenda",
+        "certificate": "",
+        "runtime": "101 min",
+        "genre": "Adventure, Drama, Romance",
+        "description": "An Englishman on a Ruritarian holiday must impersonate the king when the rightful monarch, a distant cousin, is drugged and kidnapped.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "A Day at the Races",
+        "certificate": "",
+        "runtime": "111 min",
+        "genre": "Comedy, Musical, Sport",
+        "description": "A veterinarian posing as a doctor and a race-horse owner and his friends struggle to help keep a sanitarium open with the help of a misfit race-horse.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "Parnell",
+        "certificate": "",
+        "runtime": "118 min",
+        "genre": "Biography, Drama, Romance",
+        "description": "The life of Irish politician Charles Stewart Parnell, following from 1880 onward his struggle to secure Home Rule, pursued in prison, Parliament, and elsewhere. Emphasis is on the ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "Young and Innocent",
+        "certificate": "",
+        "runtime": "80 min",
+        "genre": "Crime, Mystery, Romance",
+        "description": "A man on the run from a murder charge enlists a beautiful stranger who must put herself at risk for his cause.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "The Life of Emile Zola",
+        "certificate": "",
+        "runtime": "116 min",
+        "genre": "Biography, Drama",
+        "description": "The biopic of the famous French muckraking writer and his involvement in fighting the injustice of the Dreyfuss Affair.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "Easy Living",
+        "certificate": "",
+        "runtime": "88 min",
+        "genre": "Comedy, Romance",
+        "description": "During the Great Depression, a wealthy banker throws away his wife's expensive fur coat; it lands on the head of a stenographer, leading to everyone assuming she is his mistress and has access to his millions.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "Stella Dallas",
+        "certificate": "",
+        "runtime": "106 min",
+        "genre": "Drama, Romance",
+        "description": "A working-class woman is willing to do whatever it takes to give her daughter a socially promising future.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "Make Way for Tomorrow",
+        "certificate": "",
+        "runtime": "91 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "An elderly couple are forced to separate when they lose their house and none of their five children will take both parents in.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "The Hurricane",
+        "certificate": "",
+        "runtime": "110 min",
+        "genre": "Action, Drama, Romance",
+        "description": "A Polynesian sailor -- unjustly imprisoned after defending himself against a colonial bully -- is relentlessly persecuted by his island's martinet French governor.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "That Certain Woman",
+        "certificate": "",
+        "runtime": "93 min",
+        "genre": "Drama, Romance",
+        "description": "Mary Donnell, a young legal secretary with a past, elopes with a client's son, but his father has the marriage annulled without knowing she's pregnant.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "Marked Woman",
+        "certificate": "",
+        "runtime": "96 min",
+        "genre": "Crime, Film-Noir, Thriller",
+        "description": "A crusading DA persuades a clip joint \"party girl\" to testify against her mobster boss after her innocent sister is accidentally murdered during one of his unsavory \"parties\".",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "Wee Willie Winkie",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Adventure, Family",
+        "description": "Priscilla Williams, a young girl living with her widowed mother and paternal grandfather at the post he commands in northern India, becomes enamored of military life and embroiled in brewing rebellion against the crown in the early 1900's.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "King Solomon's Mines",
+        "certificate": "",
+        "runtime": "77 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "White hunter Allan Quartermain and his enigmatic guide help a young Irish woman locate her missing father in unexplored Darkest Africa.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "Night Must Fall",
+        "certificate": "",
+        "runtime": "116 min",
+        "genre": "Drama, Mystery, Thriller",
+        "description": "When a rich but cantankerous dowager on an isolated estates hires an engaging handyman, her niece/companion becomes suspicious of his motives.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "Hopalong Rides Again",
+        "certificate": "",
+        "runtime": "65 min",
+        "genre": "Action, Drama, Western",
+        "description": "On a cattle drive Hoppy, camp cook Windy, companion Lucky, and young Artie Peters encounter an eccentric professor. The professor professes to be searching for the evolutionary missing link...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "A Damsel in Distress",
+        "certificate": "",
+        "runtime": "101 min",
+        "genre": "Comedy, Music, Romance",
+        "description": "Lady Alyce Marshmorton must marry soon, and the staff of Tottney Castle have laid bets on who she'll choose, with young Albert wagering on \"Mr. X\". After Alyce goes to London to meet a beau...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "Abus de confiance",
+        "certificate": "",
+        "runtime": "88 min",
+        "genre": "Drama",
+        "description": "Imposture helps an orphan girl become a lawyer.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "Black Legion",
+        "certificate": "",
+        "runtime": "83 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "When a hard-working machinist loses a promotion to a Polish-born worker, he is seduced into joining the secretive Black Legion, which intimidates foreigners through violence.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "Mannequin",
+        "certificate": "",
+        "runtime": "95 min",
+        "genre": "Drama",
+        "description": "Rags-to-riches Hennessey meets newlyweds Jessie and Eddie from his old neighborhood. Eddie plots to have Jessie divorce him, marry Hennessey, divorce Hennessey, then bring Hennessey's money...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "I, Claudius",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Drama",
+        "description": "The life and times of the Roman emperor Claudius (10 B.C.-A.D. 54).",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Broadway Melody of 1938",
+        "certificate": "",
+        "runtime": "110 min",
+        "genre": "Musical, Romance",
+        "description": "Steve Raleight wants to produce a show on Broadway. He finds a backer, Herman Whipple and a leading lady, Sally Lee. But Caroline Whipple forces Steve to use a known star, not a newcomer. ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "P\u00e9p\u00e9 le Moko",
+        "certificate": "",
+        "runtime": "94 min",
+        "genre": "Crime, Drama, Romance",
+        "description": "A wanted gangster is both king and prisoner of the Casbah. He is protected from arrest by his friends, but is torn by his desire for freedom outside. A visiting Parisian beauty may just tempt his fate.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "Kid Galahad",
+        "certificate": "",
+        "runtime": "102 min",
+        "genre": "Crime, Drama, Romance",
+        "description": "Fight promoter Nick Donati grooms a bellhop as a future champ, but has second thoughts when the 'kid' falls for his sister.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Saratoga",
+        "certificate": "",
+        "runtime": "92 min",
+        "genre": "Drama, Comedy, Romance",
+        "description": "After winning a stud farm in lieu of gambling debts, bookie Duke Bradley turns an eye to the daughter of the now deceased gambler and her millionaire fianc\u00e9e.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "Souls at Sea",
+        "certificate": "",
+        "runtime": "92 min",
+        "genre": "Action, Adventure",
+        "description": "Cooper and Raft save lives during a sea tragedy in this story about slave trade on the high seas in 1842.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "Dark Journey",
+        "certificate": "",
+        "runtime": "77 min",
+        "genre": "Adventure, Romance, Thriller",
+        "description": "During World War I, a German spy and a French spy meet and fall in love.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "History Is Made at Night",
+        "certificate": "",
+        "runtime": "97 min",
+        "genre": "Drama, Romance",
+        "description": "A wealthy divorc\u00e9e falls for a charming Parisian, but her insanely jealous ex-husband will do anything to get her back.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "Double Wedding",
+        "certificate": "",
+        "runtime": "87 min",
+        "genre": "Comedy, Romance",
+        "description": "Two sisters of differing temperaments, the younger's milquetoast fianc\u00e9, and a free-spirited artist in an auto trailer are all experiencing romantic complications.",
+        "director": "",
+        "stars": []
+    },
     "48": {
-        "name": "Breakfast for Two",
+        "name": "Bulldog Drummond Escapes",
         "certificate": "",
         "runtime": "67 min",
-        "genre": "Comedy, Romance",
-        "description": "Texan debutante Valentine Ransome tries to reform a bankrupt playboy.",
+        "genre": "Adventure, Mystery, Thriller",
+        "description": "Captain Drummond becomes a prisoner when he intents to protect a beautiful heiress of an espionage organization.",
         "director": "",
         "stars": []
     },
     "49": {
-        "name": "Hollywood Hotel",
+        "name": "The Last Gangster",
         "certificate": "",
-        "runtime": "109 min",
-        "genre": "Comedy, Musical, Romance",
-        "description": "Ronny Bowers, a saxophonist in Benny Goodman's band has won a talent contest an got a ten week contract with a film studio. On his first evening he is supposed to go with the studio's star ...                See full summary\u00a0\u00bb",
+        "runtime": "81 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "A gangster is jailed for ten years after his wife becomes pregnant. He becomes bitter when she divorces him and remarries.",
         "director": "",
         "stars": []
     },
     "50": {
-        "name": "Wells Fargo",
+        "name": "Sh! The Octopus",
         "certificate": "",
-        "runtime": "97 min",
-        "genre": "History, Western",
-        "description": "The life and career of a Wells Fargo official frames this fictionalized account of the express company's formation.",
+        "runtime": "54 min",
+        "genre": "Comedy, Mystery, Thriller",
+        "description": "Comedy-mystery finds Detectives Kelly and Dempsey trapped in a deserted lighthouse with a group of strangers who are being terrorized by a killer octopus AND a mysterious crime figure named...                See full summary\u00a0\u00bb",
         "director": "",
         "stars": []
     }

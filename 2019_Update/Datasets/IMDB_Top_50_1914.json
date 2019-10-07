@@ -9,20 +9,20 @@
         "stars": []
     },
     "2": {
+        "name": "The Squaw Man",
+        "certificate": "",
+        "runtime": "74 min",
+        "genre": "Action, Drama, Romance",
+        "description": "A chivalrous British officer takes the blame for his cousin's embezzlement and journeys to the American West to start a new life on a cattle ranch.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
         "name": "The Perils of Pauline",
         "certificate": "",
         "runtime": "199 min",
         "genre": "Action, Adventure, Drama",
         "description": "Young Pauline is left a lot of money when her wealthy uncle dies. However, her uncle's secretary has been named as her guardian until she marries, at which time she will officially take ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "3": {
-        "name": "Judith of Bethulia",
-        "certificate": "",
-        "runtime": "61 min",
-        "genre": "Drama",
-        "description": "A religious woman seeks to save her people from destruction by seducing and murdering the enemy leader, but her plans get complicated once she falls for him.",
         "director": "",
         "stars": []
     },
@@ -36,29 +36,29 @@
         "stars": []
     },
     "5": {
-        "name": "The Squaw Man",
+        "name": "Judith of Bethulia",
         "certificate": "",
-        "runtime": "74 min",
-        "genre": "Action, Drama, Romance",
-        "description": "A chivalrous British officer takes the blame for his cousin's embezzlement and journeys to the American West to start a new life on a cattle ranch.",
+        "runtime": "61 min",
+        "genre": "Drama",
+        "description": "A religious woman seeks to save her people from destruction by seducing and murdering the enemy leader, but her plans get complicated once she falls for him.",
         "director": "",
         "stars": []
     },
     "6": {
-        "name": "The Patchwork Girl of Oz",
-        "certificate": "",
-        "runtime": "81 min",
-        "genre": "Adventure, Family, Fantasy",
-        "description": "Ojo and Unc Nunkie are out of food, so they decide to journey to the Emerald City where they will never starve. Along the way, they meet Mewel, a waif and stray (mule) who leads them to Dr....                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "7": {
         "name": "Brewster's Millions",
         "certificate": "",
         "runtime": "",
         "genre": "Comedy",
         "description": "Robert Brewster, a scion of a well-to-do family, elopes with Louise Sedgewick. Peter Brewster disinherits Robert and refuses to be reconciled to the marriage, and later drives the young ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "The Patchwork Girl of Oz",
+        "certificate": "",
+        "runtime": "81 min",
+        "genre": "Adventure, Family, Fantasy",
+        "description": "Ojo and Unc Nunkie are out of food, so they decide to journey to the Emerald City where they will never starve. Along the way, they meet Mewel, a waif and stray (mule) who leads them to Dr....                See full summary\u00a0\u00bb",
         "director": "",
         "stars": []
     },
@@ -72,11 +72,11 @@
         "stars": []
     },
     "9": {
-        "name": "In the Land of the Head Hunters",
+        "name": "The Avenging Conscience: or 'Thou Shalt Not Kill'",
         "certificate": "",
-        "runtime": "65 min",
-        "genre": "Drama, History",
-        "description": "In 1911, as part of his massive undertaking, famed Northwest photographer Edward S. Curtis travelled to Vancouver Island, British Columbia, to visit the Kwakwaka'wakw. By the next year, ...                See full summary\u00a0\u00bb",
+        "runtime": "78 min",
+        "genre": "Crime, Drama, Horror",
+        "description": "Prevented from dating his sweetheart by his uncle, a young man turns his thoughts to murder.",
         "director": "",
         "stars": []
     },
@@ -90,15 +90,24 @@
         "stars": []
     },
     "11": {
-        "name": "The Hazards of Helen",
+        "name": "In the Land of the Head Hunters",
         "certificate": "",
-        "runtime": "1,428 min",
-        "genre": "Action",
-        "description": "Add a Plot",
+        "runtime": "65 min",
+        "genre": "Drama, History",
+        "description": "In 1911, as part of his massive undertaking, famed Northwest photographer Edward S. Curtis travelled to Vancouver Island, British Columbia, to visit the Kwakwaka'wakw. By the next year, ...                See full summary\u00a0\u00bb",
         "director": "",
         "stars": []
     },
     "12": {
+        "name": "Det hemmelighedsfulde X",
+        "certificate": "",
+        "runtime": "84 min",
+        "genre": "Drama, Mystery",
+        "description": "On the brink of war, Lt. van Hauen is summoned to take command of the cruiser, but due to unforeseen events, he is wrongfully convicted as a traitor.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
         "name": "His Majesty, the Scarecrow of Oz",
         "certificate": "",
         "runtime": "59 min",
@@ -107,61 +116,7 @@
         "director": "",
         "stars": []
     },
-    "13": {
-        "name": "Home, Sweet Home",
-        "certificate": "",
-        "runtime": "55 min",
-        "genre": "Drama",
-        "description": "John Howard Payne at his most miserable point in life, writes a song which becomes popular and inspires other people at some point in their lives.",
-        "director": "",
-        "stars": []
-    },
     "14": {
-        "name": "The Life of General Villa",
-        "certificate": "",
-        "runtime": "105 min",
-        "genre": "Action, Adventure, Biography",
-        "description": "The life and career of Panccho Villa from young man to revolutionary leader is chronicled.",
-        "director": "",
-        "stars": []
-    },
-    "15": {
-        "name": "The Avenging Conscience: or 'Thou Shalt Not Kill'",
-        "certificate": "",
-        "runtime": "78 min",
-        "genre": "Crime, Drama, Horror",
-        "description": "Prevented from dating his sweetheart by his uncle, a young man turns his thoughts to murder.",
-        "director": "",
-        "stars": []
-    },
-    "16": {
-        "name": "The Virginian",
-        "certificate": "",
-        "runtime": "55 min",
-        "genre": "Western",
-        "description": "A good-natured but chivalrous cowboy romances the local schoolmarm and leads the posse that brings a gang of rustlers, which includes his best friend, to justice.",
-        "director": "",
-        "stars": []
-    },
-    "17": {
-        "name": "Tess of the Storm Country",
-        "certificate": "",
-        "runtime": "80 min",
-        "genre": "Drama",
-        "description": "A wealthy resident attempts to dispossess squatters who live near his home, which leads to a false accusation of murder.",
-        "director": "",
-        "stars": []
-    },
-    "18": {
-        "name": "Neptune's Daughter",
-        "certificate": "",
-        "runtime": "70 min",
-        "genre": "Fantasy",
-        "description": "The daughter of King Neptune determines to avenge the death of her sister, who was caught in a fishing net laid by the king of a country above the waves. However, she soon falls in love ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "19": {
         "name": "A Florida Enchantment",
         "certificate": "",
         "runtime": "63 min",
@@ -170,16 +125,16 @@
         "director": "",
         "stars": []
     },
-    "20": {
-        "name": "Le faux magistrat",
+    "15": {
+        "name": "The Merchant of Venice",
         "certificate": "",
-        "runtime": "70 min",
-        "genre": "Crime, Drama",
-        "description": "Having committed murder in Belgium, Fantomas is sentenced to life imprisonment. Two crimes committed in France suggest to inspector Juve that the Fantomas gang is still at work. He ...                See full summary\u00a0\u00bb",
+        "runtime": "",
+        "genre": "Drama",
+        "description": "A rich merchant, Antonio is depressed for no good reason, until his good friend Bassanio comes to tell him how he's in love with Portia. Portia's father has died and left a very strange ...                See full summary\u00a0\u00bb",
         "director": "",
         "stars": []
     },
-    "21": {
+    "16": {
         "name": "Fant\u00f4mas contre Fant\u00f4mas",
         "certificate": "",
         "runtime": "59 min",
@@ -188,16 +143,16 @@
         "director": "",
         "stars": []
     },
-    "22": {
-        "name": "Uncle Tom's Cabin",
+    "17": {
+        "name": "The Hazards of Helen",
         "certificate": "",
-        "runtime": "54 min",
-        "genre": "Drama",
-        "description": "A black and white silent film based on Harriet Beecher Stowe's novel documenting the life and times of Uncle Tom.",
+        "runtime": "1,428 min",
+        "genre": "Action",
+        "description": "Add a Plot",
         "director": "",
         "stars": []
     },
-    "23": {
+    "18": {
         "name": "The Million Dollar Mystery",
         "certificate": "",
         "runtime": "",
@@ -206,12 +161,57 @@
         "director": "",
         "stars": []
     },
-    "24": {
-        "name": "The King of Crime",
+    "19": {
+        "name": "The Life of General Villa",
+        "certificate": "",
+        "runtime": "105 min",
+        "genre": "Action, Adventure, Biography",
+        "description": "The life and career of Panccho Villa from young man to revolutionary leader is chronicled.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "Uncle Tom's Cabin",
+        "certificate": "",
+        "runtime": "54 min",
+        "genre": "Drama",
+        "description": "A black and white silent film based on Harriet Beecher Stowe's novel documenting the life and times of Uncle Tom.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "Home, Sweet Home",
+        "certificate": "",
+        "runtime": "55 min",
+        "genre": "Drama",
+        "description": "John Howard Payne at his most miserable point in life, writes a song which becomes popular and inspires other people at some point in their lives.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "The Sign of the Cross",
         "certificate": "",
         "runtime": "",
-        "genre": "Crime, Drama",
-        "description": "A stolen heiress is secretly wed to a man framed for killing her miserly guardian.",
+        "genre": "Drama",
+        "description": "Add a Plot",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "Damon and Pythias",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Drama",
+        "description": "After a prologue which shows several aerial views of the Acropolis, the story begins. The friendship of Damon, the senator, and Pythias, the soldier, is famous in Ancient Syracuse. Because ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "Tess of the Storm Country",
+        "certificate": "",
+        "runtime": "80 min",
+        "genre": "Drama",
+        "description": "A wealthy resident attempts to dispossess squatters who live near his home, which leads to a false accusation of murder.",
         "director": "",
         "stars": []
     },
@@ -225,51 +225,15 @@
         "stars": []
     },
     "26": {
-        "name": "The Battle of the Sexes",
+        "name": "The Virginian",
         "certificate": "",
-        "runtime": "50 min",
-        "genre": "Drama",
-        "description": "Frank Andrews is a successful businessman. He has always found pride and joy in the company of his wife, son and daughter. He suddenly finds himself enthralled by the advances of a gay ...                See full summary\u00a0\u00bb",
+        "runtime": "55 min",
+        "genre": "Western",
+        "description": "A good-natured but chivalrous cowboy romances the local schoolmarm and leads the posse that brings a gang of rustlers, which includes his best friend, to justice.",
         "director": "",
         "stars": []
     },
     "27": {
-        "name": "Damon and Pythias",
-        "certificate": "",
-        "runtime": "100 min",
-        "genre": "Drama",
-        "description": "After a prologue which shows several aerial views of the Acropolis, the story begins. The friendship of Damon, the senator, and Pythias, the soldier, is famous in Ancient Syracuse. Because ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "28": {
-        "name": "Lola",
-        "certificate": "",
-        "runtime": "",
-        "genre": "Drama",
-        "description": "With the help of an electric ray machine a scientist brings back to life his daughter killed in a car crash but fails to revive her soul at the same time.",
-        "director": "",
-        "stars": []
-    },
-    "29": {
-        "name": "Sperduti nel buio",
-        "certificate": "",
-        "runtime": "66 min",
-        "genre": "Drama",
-        "description": "Paolina is the illegitimate daughter of the Duke of Vallenza, and lives as a beggar. She meets with Nunzio, a blind man who plays violin, exploited by his stepfather, and the two fall in ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "30": {
-        "name": "Det hemmelighedsfulde X",
-        "certificate": "",
-        "runtime": "84 min",
-        "genre": "Drama, Mystery",
-        "description": "On the brink of war, Lt. van Hauen is summoned to take command of the cruiser, but due to unforeseen events, he is wrongfully convicted as a traitor.",
-        "director": "",
-        "stars": []
-    },
-    "31": {
         "name": "The Wrath of the Gods",
         "certificate": "",
         "runtime": "56 min",
@@ -278,79 +242,34 @@
         "director": "",
         "stars": []
     },
-    "32": {
-        "name": "The Exploits of Elaine",
-        "certificate": "",
-        "runtime": "",
-        "genre": "Action",
-        "description": "With the help of a private detective, Elaine tries to catch the masked criminal mastermind The Clutching Hand, who has murdered her father.",
-        "director": "",
-        "stars": []
-    },
-    "33": {
-        "name": "Michael Strogoff",
-        "certificate": "",
-        "runtime": "",
-        "genre": "Drama",
-        "description": "The Russian Czar sends his trusted confidant, Michael Strogoff, to warn his brother the Grand Duke of a Tartar rebellion that will be led by Feofar Khan and Ivan Ogareff. Calling himself ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "34": {
-        "name": "The Typhoon",
-        "certificate": "",
-        "runtime": "50 min",
-        "genre": "Drama",
-        "description": "Japanese diplomat Tokoramo ( Sessue Hayakawa ), on a mission to Paris, begins a love affair with chorus girl, Helene ( Gladys Brockwell ), who subsequently rejects her American fiance, ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "35": {
-        "name": "The Merchant of Venice",
-        "certificate": "",
-        "runtime": "",
-        "genre": "Drama",
-        "description": "A rich merchant, Antonio is depressed for no good reason, until his good friend Bassanio comes to tell him how he's in love with Portia. Portia's father has died and left a very strange ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "36": {
-        "name": "Samson",
-        "certificate": "",
-        "runtime": "",
-        "genre": "Drama",
-        "description": "Manoah and his wife mourn deeply because both have passed the middle age mark and yet they are childless. As they become older their sorrow increases until one day the old wife calls upon ...                See full synopsis\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "37": {
+    "28": {
         "name": "Der Hund von Baskerville",
         "certificate": "",
         "runtime": "65 min",
         "genre": "Crime, Mystery, Horror",
-        "description": "In this early version the classic \"Hound of the Baskervilles\" mystery is faithfully adapted, although Watson's character is absent. Holmes' foe is called Stapleton and he menaces Holmes' client Lord Henry and his fianc\u00e9e, Laura Lyons.",
+        "description": "In this early version the classic \"Hound of the Baskervilles\" mystery is not faithfully adapted, Watson's character is absent and there are two Holmes. Holmes' foe is called Stapleton and he menaces Holmes' client Lord Henry and his fianc\u00e9e, Laura Lyons, masquerading himself as Holmes. Hidden passages, hand bombs and mechanical devices abound, reminding more of a serial than of a Conan Doyle ...                See full summary\u00a0\u00bb",
         "director": "",
         "stars": []
     },
-    "38": {
-        "name": "Joseph in the Land of Egypt",
+    "29": {
+        "name": "Le faux magistrat",
         "certificate": "",
-        "runtime": "52 min",
-        "genre": "Drama",
-        "description": "The second of \"Thanhouser Big Productions,\" a monthly schedule, Joseph in the Land of Egypt was a true \"feature\" film, a new class of film which came to dominate the market by the end of ...                See full summary\u00a0\u00bb",
+        "runtime": "70 min",
+        "genre": "Crime, Drama",
+        "description": "Having committed murder in Belgium, Fantomas is sentenced to life imprisonment. Two crimes committed in France suggest to inspector Juve that the Fantomas gang is still at work. He ...                See full summary\u00a0\u00bb",
         "director": "",
         "stars": []
     },
-    "39": {
-        "name": "The Sign of the Cross",
+    "30": {
+        "name": "Salomy Jane",
         "certificate": "",
-        "runtime": "",
-        "genre": "Drama",
-        "description": "Add a Plot",
+        "runtime": "85 min",
+        "genre": "Western",
+        "description": "The story opens with the arrival in Hangtown of Madison Clay and his daughter, Salomy Jane, who have emigrated all the way from Kentucky. Straightway the young men and bachelors of the camp...                See full summary\u00a0\u00bb",
         "director": "",
         "stars": []
     },
-    "40": {
+    "31": {
         "name": "The Spoilers",
         "certificate": "",
         "runtime": "110 min",
@@ -359,34 +278,52 @@
         "director": "",
         "stars": []
     },
-    "41": {
-        "name": "The Escape",
+    "32": {
+        "name": "The Wishing Ring: An Idyll of Old England",
         "certificate": "",
-        "runtime": "70 min",
-        "genre": "Drama",
-        "description": "A dramatic comparison between the mating habits of animals and the way humans choose their own partners.",
+        "runtime": "54 min",
+        "genre": "Comedy, Drama",
+        "description": "After being expelled from college, Giles runs away from home and meets a young lady who he falls for.",
         "director": "",
         "stars": []
     },
-    "42": {
-        "name": "The Indian Wars",
-        "certificate": "",
-        "runtime": "",
-        "genre": "History, Western",
-        "description": "Add a Plot",
-        "director": "",
-        "stars": []
-    },
-    "43": {
-        "name": "The Nightingale",
+    "33": {
+        "name": "The Exploits of Elaine",
         "certificate": "",
         "runtime": "",
-        "genre": "Drama",
-        "description": "Add a Plot",
+        "genre": "Action",
+        "description": "With the help of a private detective, Elaine tries to catch the masked criminal mastermind The Clutching Hand, who has murdered her father.",
         "director": "",
         "stars": []
     },
-    "44": {
+    "34": {
+        "name": "The Battle of the Sexes",
+        "certificate": "",
+        "runtime": "50 min",
+        "genre": "Drama",
+        "description": "Frank Andrews is a successful businessman. He has always found pride and joy in the company of his wife, son and daughter. He suddenly finds himself enthralled by the advances of a gay ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "Evangeline",
+        "certificate": "",
+        "runtime": "50 min",
+        "genre": "Drama",
+        "description": "PART I: Evangeline and Gabriel as children are being taught their lessons by Father Felician, priest and pedagogue. After their lessons they hurry to the forge of Basil, the blacksmith, to ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "Hearts Adrift",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Romance",
+        "description": "A man and a woman are shipwrecked on a desert island. It doesn't take long before they fall in love and, figuring that they would never see civilization again, declare themselves married ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "37": {
         "name": "A Good Little Devil",
         "certificate": "",
         "runtime": "50 min",
@@ -395,57 +332,120 @@
         "director": "",
         "stars": []
     },
-    "45": {
+    "38": {
         "name": "The Stain",
         "certificate": "",
         "runtime": "",
-        "genre": "",
+        "genre": "Drama",
         "description": "Stevens, the bank clerk, is ambitious. His great desire is to become a lawyer. He stays at the bank at night to study, but is unable to take a course at college owing to his poverty. He ...                See full summary\u00a0\u00bb",
         "director": "",
         "stars": []
     },
-    "46": {
-        "name": "Der Stolz der Firma",
+    "39": {
+        "name": "The Christian",
         "certificate": "",
-        "runtime": "47 min",
-        "genre": "Comedy",
+        "runtime": "",
+        "genre": "Drama",
+        "description": "Glory Quayle, a natural-born mimic, leaves her country home, reaches London, goes on the stage, gains fame and affluence. John Storm, her country sweetheart, believing he has lost Glory ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Rose of the Rancho",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Action, Adventure, Romance",
+        "description": "Esra Kincaid takes land by force and, having taken the Espinoza land, his sights are set on the Castro rancho. US government agent Kearney holds him off till the cavalry shows up and he can...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "A Study in Scarlet",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Drama, Mystery",
+        "description": "Sherlock Holmes solves a murder rooted in the Mormon trek of 1850.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "Pieces of Silver: A Story of Hearts and Souls",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Drama",
         "description": "Add a Plot",
         "director": "",
         "stars": []
     },
-    "47": {
-        "name": "The Land of the Lost",
+    "43": {
+        "name": "The Ghost Breaker",
+        "certificate": "",
+        "runtime": "60 min",
+        "genre": "Adventure, Horror",
+        "description": "The treasure of the Aragon family has never been found or any trace of it, until one day, while Princess Maria Theresa is looking over her jewels, she drops the casket and a secret ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "Neptune's Daughter",
+        "certificate": "",
+        "runtime": "70 min",
+        "genre": "Fantasy",
+        "description": "The daughter of King Neptune determines to avenge the death of her sister, who was caught in a fishing net laid by the king of a country above the waves. However, she soon falls in love ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "Trilby",
         "certificate": "",
         "runtime": "",
         "genre": "Drama",
-        "description": "John R. Bradley, a wealthy ship builder, seeks a title for his daughter, Miriam. Mr. Bradley introduces Baron de Coverly, a fortune hunter to Miriam. The baron becomes an ardent suitor and ...                See full summary\u00a0\u00bb",
+        "description": "A hypnotist makes an artist's model sing, but cannot force her love.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Cajus Julius Caesar",
+        "certificate": "",
+        "runtime": "112 min",
+        "genre": "Drama, History",
+        "description": "The growing ambition of Julius Caesar is a source of major concern to his close friend Brutus. Cassius persuades him to participate in his plot to assassinate Caesar but they have both sorely underestimated Mark Antony.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "The Only Son",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Drama",
+        "description": "Thomas Brainerd, Sr., as a prospector, is a dutiful and loving husband and father. Two children, Gertrude and Thomas, Jr., are born while the Brainerds live in a log cabin in the mountains....                See full summary\u00a0\u00bb",
         "director": "",
         "stars": []
     },
     "48": {
-        "name": "Lucille Love: The Girl of Mystery",
+        "name": "Samson",
         "certificate": "",
-        "runtime": "300 min",
-        "genre": "Action",
-        "description": "Episode 1: Hugo Loubeque and Sumpter Love are cadets at West Point. Both love the same woman. Loubeque is expelled from the institution for theft from his fellow cadets. The principal ...                See full synopsis\u00a0\u00bb",
+        "runtime": "",
+        "genre": "Drama",
+        "description": "Manoah and his wife mourn deeply because both have passed the middle age mark and yet they are childless. As they become older their sorrow increases until one day the old wife calls upon ...                See full synopsis\u00a0\u00bb",
         "director": "",
         "stars": []
     },
     "49": {
-        "name": "The Crucible",
+        "name": "Zudora",
         "certificate": "",
         "runtime": "",
-        "genre": "Drama, Romance",
-        "description": "Jean finds the boyish manner in which her late father raised her, is now causing quite a lot of trouble for her, and she ends up in a reformatory. After escaping this prison she meets Craig...                See full summary\u00a0\u00bb",
+        "genre": "Adventure, Mystery",
+        "description": "Zudora, not knowing she's an heiress to a $20 million fortune, lives with her uncle, a mystic and detective, who covets her inheritance. She wants to marry John Storm but her uncle is ...                See full summary\u00a0\u00bb",
         "director": "",
         "stars": []
     },
     "50": {
-        "name": "Ma l'amor mio non muore...",
+        "name": "The Master Mind",
         "certificate": "",
-        "runtime": "90 min",
-        "genre": "Drama",
-        "description": "Leslie Swayne, an adventurer, in order to obtain enough money to satisfy the needs of his extravagant life, has been bribed to steal the plans of the fortification from the staff officers ...                See full summary\u00a0\u00bb",
+        "runtime": "",
+        "genre": "Crime, Drama",
+        "description": "Pledging to revenge the execution of his brother, whom the District Attorney caused to be convicted, Richard Allen, a quaint individual who takes delight in concealing his identity by ...                See full summary\u00a0\u00bb",
         "director": "",
         "stars": []
     }

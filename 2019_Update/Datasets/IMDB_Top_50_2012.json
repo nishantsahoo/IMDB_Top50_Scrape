@@ -9,20 +9,20 @@
         "stars": []
     },
     "2": {
-        "name": "Les Mis\u00e9rables",
+        "name": "The Master",
         "certificate": "A",
-        "runtime": "158 min",
-        "genre": "Drama, History, Musical",
-        "description": "In 19th-century France, Jean Valjean, who for decades has been hunted by the ruthless policeman Javert after breaking parole, agrees to care for a factory worker's daughter. The decision changes their lives forever.",
+        "runtime": "138 min",
+        "genre": "Drama",
+        "description": "A Naval veteran arrives home from war unsettled and uncertain of his future - until he is tantalized by The Cause and its charismatic leader.",
         "director": "",
         "stars": []
     },
     "3": {
-        "name": "Django Unchained",
-        "certificate": "A",
-        "runtime": "165 min",
-        "genre": "Drama, Western",
-        "description": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+        "name": "Pitch Perfect",
+        "certificate": "PG-13",
+        "runtime": "112 min",
+        "genre": "Comedy, Music, Romance",
+        "description": "Beca, a freshman at Barden University, is cajoled into joining The Bellas, her school's all-girls singing group. Injecting some much needed energy into their repertoire, The Bellas take on their male rivals in a campus competition.",
         "director": "",
         "stars": []
     },
@@ -36,213 +36,15 @@
         "stars": []
     },
     "5": {
-        "name": "Pitch Perfect",
-        "certificate": "PG-13",
-        "runtime": "112 min",
-        "genre": "Comedy, Music, Romance",
-        "description": "Beca, a freshman at Barden University, is cajoled into joining The Bellas, her school's all-girls singing group. Injecting some much needed energy into their repertoire, The Bellas take on their male rivals in a campus competition.",
+        "name": "Django Unchained",
+        "certificate": "A",
+        "runtime": "165 min",
+        "genre": "Drama, Western",
+        "description": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
         "director": "",
         "stars": []
     },
     "6": {
-        "name": "The Avengers",
-        "certificate": "UA",
-        "runtime": "143 min",
-        "genre": "Action, Adventure, Sci-Fi",
-        "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
-        "director": "",
-        "stars": []
-    },
-    "7": {
-        "name": "The Hobbit: An Unexpected Journey",
-        "certificate": "UA",
-        "runtime": "169 min",
-        "genre": "Adventure, Family, Fantasy",
-        "description": "A reluctant Hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home, and the gold within it from the dragon Smaug.",
-        "director": "",
-        "stars": []
-    },
-    "8": {
-        "name": "Jack Reacher",
-        "certificate": "UA",
-        "runtime": "130 min",
-        "genre": "Action, Crime, Thriller",
-        "description": "A homicide investigator digs deeper into a case involving a trained military sniper who shot five random victims.",
-        "director": "",
-        "stars": []
-    },
-    "9": {
-        "name": "Silver Linings Playbook",
-        "certificate": "R",
-        "runtime": "122 min",
-        "genre": "Comedy, Drama, Romance",
-        "description": "After a stint in a mental institution, former teacher Pat Solitano moves back in with his parents and tries to reconcile with his ex-wife. Things get more challenging when Pat meets Tiffany, a mysterious girl with problems of her own.",
-        "director": "",
-        "stars": []
-    },
-    "10": {
-        "name": "Spring Breakers",
-        "certificate": "R",
-        "runtime": "94 min",
-        "genre": "Comedy, Crime, Drama",
-        "description": "Four college girls hold up a restaurant in order to fund their spring break vacation. While partying, drinking, and taking drugs, they are arrested, only to be bailed out by a drug and arms dealer.",
-        "director": "",
-        "stars": []
-    },
-    "11": {
-        "name": "Jagten",
-        "certificate": "R",
-        "runtime": "115 min",
-        "genre": "Drama",
-        "description": "A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.",
-        "director": "",
-        "stars": []
-    },
-    "12": {
-        "name": "Prometheus",
-        "certificate": "A",
-        "runtime": "124 min",
-        "genre": "Adventure, Mystery, Sci-Fi",
-        "description": "Following clues to the origin of mankind, a team finds a structure on a distant moon, but they soon realize they are not alone.",
-        "director": "",
-        "stars": []
-    },
-    "13": {
-        "name": "Zero Dark Thirty",
-        "certificate": "A",
-        "runtime": "157 min",
-        "genre": "Drama, Thriller",
-        "description": "A chronicle of the decade-long hunt for al-Qaeda terrorist leader Osama bin Laden after the September 2001 attacks, and his death at the hands of the Navy S.E.A.L.s Team 6 in May 2011.",
-        "director": "",
-        "stars": []
-    },
-    "14": {
-        "name": "Cloud Atlas",
-        "certificate": "A",
-        "runtime": "172 min",
-        "genre": "Action, Drama, Mystery",
-        "description": "An exploration of how the actions of individual lives impact one another in the past, present and future, as one soul is shaped from a killer into a hero, and an act of kindness ripples across centuries to inspire a revolution.",
-        "director": "",
-        "stars": []
-    },
-    "15": {
-        "name": "The Twilight Saga: Breaking Dawn - Part 2",
-        "certificate": "UA",
-        "runtime": "115 min",
-        "genre": "Adventure, Drama, Fantasy",
-        "description": "After the birth of Renesmee/Nessie, the Cullens gather other vampire clans in order to protect the child from a false allegation that puts the family in front of the Volturi.",
-        "director": "",
-        "stars": []
-    },
-    "16": {
-        "name": "Wreck-It Ralph",
-        "certificate": "U",
-        "runtime": "101 min",
-        "genre": "Animation, Adventure, Comedy",
-        "description": "A video game villain wants to be a hero and sets out to fulfill his dream, but his quest brings havoc to the whole arcade where he lives.",
-        "director": "",
-        "stars": []
-    },
-    "17": {
-        "name": "Skyfall",
-        "certificate": "UA",
-        "runtime": "143 min",
-        "genre": "Action, Adventure, Thriller",
-        "description": "Bond's loyalty to M is tested when her past comes back to haunt her. When MI6 comes under attack, 007 must track down and destroy the threat, no matter how personal the cost.",
-        "director": "",
-        "stars": []
-    },
-    "18": {
-        "name": "The Place Beyond the Pines",
-        "certificate": "A",
-        "runtime": "140 min",
-        "genre": "Crime, Drama, Thriller",
-        "description": "A motorcycle stunt rider turns to robbing banks as a way to provide for his lover and their newborn child, a decision that puts him on a collision course with an ambitious rookie cop navigating a department ruled by a corrupt detective.",
-        "director": "",
-        "stars": []
-    },
-    "19": {
-        "name": "Mud",
-        "certificate": "UA",
-        "runtime": "130 min",
-        "genre": "Drama",
-        "description": "Two young boys encounter a fugitive and form a pact to help him evade the vigilantes that are on his trail and to reunite him with his true love.",
-        "director": "",
-        "stars": []
-    },
-    "20": {
-        "name": "The Amazing Spider-Man",
-        "certificate": "UA",
-        "runtime": "136 min",
-        "genre": "Action, Adventure, Sci-Fi",
-        "description": "After Peter Parker is bitten by a genetically altered spider, he gains newfound, spider-like powers and ventures out to solve the mystery of his parent's mysterious death.",
-        "director": "",
-        "stars": []
-    },
-    "21": {
-        "name": "The Perks of Being a Wallflower",
-        "certificate": "PG-13",
-        "runtime": "103 min",
-        "genre": "Drama, Romance",
-        "description": "An introvert freshman is taken under the wings of two seniors who welcome him to the real world.",
-        "director": "",
-        "stars": []
-    },
-    "22": {
-        "name": "Argo",
-        "certificate": "A",
-        "runtime": "120 min",
-        "genre": "Biography, Drama, Thriller",
-        "description": "Acting under the cover of a Hollywood producer scouting a location for a science fiction film, a CIA agent launches a dangerous operation to rescue six Americans in Tehran during the U.S. hostage crisis in Iran in 1979.",
-        "director": "",
-        "stars": []
-    },
-    "23": {
-        "name": "This Is 40",
-        "certificate": "R",
-        "runtime": "134 min",
-        "genre": "Comedy, Romance",
-        "description": "Pete and Debbie are both about to turn 40, their kids hate each other, both of their businesses are failing, they're on the verge of losing their house, and their relationship is threatening to fall apart.",
-        "director": "",
-        "stars": []
-    },
-    "24": {
-        "name": "Lawless",
-        "certificate": "R",
-        "runtime": "116 min",
-        "genre": "Crime, Drama",
-        "description": "Set in Depression-era Franklin County, Virginia, a trio of bootlegging brothers are threatened by a new special deputy and other authorities angling for a cut of their profits.",
-        "director": "",
-        "stars": []
-    },
-    "25": {
-        "name": "Looper",
-        "certificate": "A",
-        "runtime": "113 min",
-        "genre": "Action, Crime, Drama",
-        "description": "In 2074, when the mob wants to get rid of someone, the target is sent into the past, where a hired gun awaits - someone like Joe - who one day learns the mob wants to 'close the loop' by sending back Joe's future self for assassination.",
-        "director": "",
-        "stars": []
-    },
-    "26": {
-        "name": "Dark Shadows",
-        "certificate": "UA",
-        "runtime": "113 min",
-        "genre": "Comedy, Fantasy, Horror",
-        "description": "An imprisoned vampire, Barnabas Collins, is set free and returns to his ancestral home, where his dysfunctional descendants are in need of his protection.",
-        "director": "",
-        "stars": []
-    },
-    "27": {
-        "name": "The Iceman",
-        "certificate": "A",
-        "runtime": "106 min",
-        "genre": "Biography, Crime, Drama",
-        "description": "The story of Richard Kuklinski, the notorious contract killer and family man. When finally arrested in 1986, neither his wife nor daughters had any clue about his real profession.",
-        "director": "",
-        "stars": []
-    },
-    "28": {
         "name": "Lo imposible",
         "certificate": "UA",
         "runtime": "114 min",
@@ -251,43 +53,178 @@
         "director": "",
         "stars": []
     },
-    "29": {
-        "name": "Lincoln",
-        "certificate": "U",
-        "runtime": "150 min",
-        "genre": "Biography, Drama, History",
-        "description": "As the American Civil War continues to rage, America's president struggles with continuing carnage on the battlefield as he fights with many inside his own cabinet on the decision to emancipate the slaves.",
-        "director": "",
-        "stars": []
-    },
-    "30": {
-        "name": "Hotel Transylvania",
+    "7": {
+        "name": "The Avengers",
         "certificate": "UA",
-        "runtime": "91 min",
-        "genre": "Animation, Comedy, Family",
-        "description": "Dracula, who operates a high-end resort away from the human world, goes into overprotective mode when a boy discovers the resort and falls for the count's teenaged daughter.",
+        "runtime": "143 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
         "director": "",
         "stars": []
     },
-    "31": {
-        "name": "Moonrise Kingdom",
+    "8": {
+        "name": "Prometheus",
         "certificate": "A",
-        "runtime": "94 min",
-        "genre": "Adventure, Comedy, Drama",
-        "description": "A pair of young lovers flee their New England town, which causes a local search party to fan out to find them.",
+        "runtime": "124 min",
+        "genre": "Adventure, Mystery, Sci-Fi",
+        "description": "Following clues to the origin of mankind, a team finds a structure on a distant moon, but they soon realize they are not alone.",
         "director": "",
         "stars": []
     },
-    "32": {
-        "name": "The Master",
+    "9": {
+        "name": "21 Jump Street",
+        "certificate": "R",
+        "runtime": "109 min",
+        "genre": "Action, Comedy, Crime",
+        "description": "A pair of underachieving cops are sent back to a local high school to blend in and bring down a synthetic drug ring.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "Cloud Atlas",
         "certificate": "A",
-        "runtime": "138 min",
+        "runtime": "172 min",
+        "genre": "Action, Drama, Mystery",
+        "description": "An exploration of how the actions of individual lives impact one another in the past, present and future, as one soul is shaped from a killer into a hero, and an act of kindness ripples across centuries to inspire a revolution.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "Les Mis\u00e9rables",
+        "certificate": "A",
+        "runtime": "158 min",
+        "genre": "Drama, History, Musical",
+        "description": "In 19th-century France, Jean Valjean, who for decades has been hunted by the ruthless policeman Javert after breaking parole, agrees to care for a factory worker's daughter. The decision changes their lives forever.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "Skyfall",
+        "certificate": "UA",
+        "runtime": "143 min",
+        "genre": "Action, Adventure, Thriller",
+        "description": "Bond's loyalty to M is tested when her past comes back to haunt her. When MI6 comes under attack, 007 must track down and destroy the threat, no matter how personal the cost.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "The Hobbit: An Unexpected Journey",
+        "certificate": "UA",
+        "runtime": "169 min",
+        "genre": "Adventure, Fantasy",
+        "description": "A reluctant Hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home, and the gold within it from the dragon Smaug.",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "Battleship",
+        "certificate": "UA",
+        "runtime": "131 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "A fleet of ships is forced to do battle with an armada of unknown origins in order to discover and thwart their destructive goals.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "The Amazing Spider-Man",
+        "certificate": "UA",
+        "runtime": "136 min",
+        "genre": "Action, Sci-Fi",
+        "description": "After Peter Parker is bitten by a genetically altered spider, he gains newfound, spider-like powers and ventures out to save the city from the machinations of a mysterious reptilian foe.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "The Twilight Saga: Breaking Dawn - Part 2",
+        "certificate": "UA",
+        "runtime": "115 min",
+        "genre": "Adventure, Drama, Fantasy",
+        "description": "After the birth of Renesmee/Nessie, the Cullens gather other vampire clans in order to protect the child from a false allegation that puts the family in front of the Volturi.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "Zero Dark Thirty",
+        "certificate": "A",
+        "runtime": "157 min",
+        "genre": "Drama, Thriller",
+        "description": "A chronicle of the decade-long hunt for al-Qaeda terrorist leader Osama bin Laden after the September 2001 attacks, and his death at the hands of the Navy S.E.A.L.s Team 6 in May 2011.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Jack Reacher",
+        "certificate": "UA",
+        "runtime": "130 min",
+        "genre": "Action, Crime, Thriller",
+        "description": "A homicide investigator digs deeper into a case involving a trained military sniper who shot five random victims.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "The Perks of Being a Wallflower",
+        "certificate": "PG-13",
+        "runtime": "103 min",
         "genre": "Drama",
-        "description": "A Naval veteran arrives home from war unsettled and uncertain of his future - until he is tantalized by The Cause and its charismatic leader.",
+        "description": "An introvert freshman is taken under the wings of two seniors who welcome him to the real world.",
         "director": "",
         "stars": []
     },
-    "33": {
+    "20": {
+        "name": "Spring Breakers",
+        "certificate": "R",
+        "runtime": "94 min",
+        "genre": "Crime, Drama",
+        "description": "Four college girls hold up a restaurant in order to fund their spring break vacation. While partying, drinking, and taking drugs, they are arrested, only to be bailed out by a drug and arms dealer.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "Silver Linings Playbook",
+        "certificate": "R",
+        "runtime": "122 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "After a stint in a mental institution, former teacher Pat Solitano moves back in with his parents and tries to reconcile with his ex-wife. Things get more challenging when Pat meets Tiffany, a mysterious girl with problems of her own.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "Dark Shadows",
+        "certificate": "UA",
+        "runtime": "113 min",
+        "genre": "Comedy, Fantasy, Horror",
+        "description": "An imprisoned vampire, Barnabas Collins, is set free and returns to his ancestral home, where his dysfunctional descendants are in need of his protection.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "Sinister",
+        "certificate": "R",
+        "runtime": "110 min",
+        "genre": "Horror, Mystery, Thriller",
+        "description": "Washed-up true-crime writer Ellison Oswalt finds a box of super 8 home movies that suggest the murder he is currently researching is the work of a serial killer whose work dates back to the 1960s.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "Looper",
+        "certificate": "A",
+        "runtime": "113 min",
+        "genre": "Action, Crime, Drama",
+        "description": "In 2074, when the mob wants to get rid of someone, the target is sent into the past, where a hired gun awaits - someone like Joe - who one day learns the mob wants to 'close the loop' by sending back Joe's future self for assassination.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "Jagten",
+        "certificate": "R",
+        "runtime": "115 min",
+        "genre": "Drama",
+        "description": "A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
         "name": "John Carter",
         "certificate": "UA",
         "runtime": "132 min",
@@ -296,16 +233,16 @@
         "director": "",
         "stars": []
     },
-    "34": {
-        "name": "This Means War",
-        "certificate": "A",
-        "runtime": "103 min",
-        "genre": "Action, Comedy, Romance",
-        "description": "A pair of C.I.A. operatives wage an epic battle against one another when they discover they are dating the same woman.",
+    "27": {
+        "name": "Lincoln",
+        "certificate": "U",
+        "runtime": "150 min",
+        "genre": "Biography, Drama, History",
+        "description": "As the American Civil War continues to rage, America's president struggles with continuing carnage on the battlefield as he fights with many inside his own cabinet on the decision to emancipate the slaves.",
         "director": "",
         "stars": []
     },
-    "35": {
+    "28": {
         "name": "Life of Pi",
         "certificate": "U",
         "runtime": "127 min",
@@ -314,21 +251,84 @@
         "director": "",
         "stars": []
     },
-    "36": {
-        "name": "Magic Mike",
+    "29": {
+        "name": "Argo",
+        "certificate": "A",
+        "runtime": "120 min",
+        "genre": "Biography, Drama, Thriller",
+        "description": "Acting under the cover of a Hollywood producer scouting a location for a science fiction film, a CIA agent launches a dangerous operation to rescue six Americans in Tehran during the U.S. hostage crisis in Iran in 1979.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "Moonrise Kingdom",
+        "certificate": "A",
+        "runtime": "94 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A pair of young lovers flee their New England town, which causes a local search party to fan out to find them.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "Men in Black 3",
+        "certificate": "UA",
+        "runtime": "106 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "Agent J travels in time to M.I.B.'s early days in 1969 to stop an alien from assassinating his friend Agent K and changing history.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "Dredd",
+        "certificate": "A",
+        "runtime": "95 min",
+        "genre": "Action, Crime, Sci-Fi",
+        "description": "In a violent, futuristic city where the police have the authority to act as judge, jury and executioner, a cop teams with a trainee to take down a gang that deals the reality-altering drug, SLO-MO.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "Hotel Transylvania",
+        "certificate": "UA",
+        "runtime": "91 min",
+        "genre": "Animation, Comedy, Family",
+        "description": "Dracula, who operates a high-end resort away from the human world, goes into overprotective mode when a boy discovers the resort and falls for the count's teenaged daughter.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "The Place Beyond the Pines",
+        "certificate": "A",
+        "runtime": "140 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "A motorcycle stunt rider turns to robbing banks as a way to provide for his lover and their newborn child, a decision that puts him on a collision course with an ambitious rookie cop navigating a department ruled by a corrupt detective.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "The Dictator",
         "certificate": "R",
-        "runtime": "110 min",
-        "genre": "Comedy, Drama",
-        "description": "A male stripper teaches a younger performer how to party, pick up women, and make easy money.",
+        "runtime": "83 min",
+        "genre": "Comedy",
+        "description": "The heroic story of a dictator who risked his life to ensure that democracy would never come to the country he so lovingly oppressed.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "Snow White and the Huntsman",
+        "certificate": "UA",
+        "runtime": "127 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "In a twist to the fairy tale, the Huntsman ordered to take Snow White into the woods to be killed winds up becoming her protector and mentor in a quest to vanquish the Evil Queen.",
         "director": "",
         "stars": []
     },
     "37": {
-        "name": "21 Jump Street",
+        "name": "Lawless",
         "certificate": "R",
-        "runtime": "109 min",
-        "genre": "Action, Comedy, Crime",
-        "description": "A pair of underachieving cops are sent back to a local high school to blend in and bring down a synthetic drug ring.",
+        "runtime": "116 min",
+        "genre": "Crime, Drama",
+        "description": "Set in Depression-era Franklin County, Virginia, a trio of bootlegging brothers are threatened by a new special deputy and other authorities angling for a cut of their profits.",
         "director": "",
         "stars": []
     },
@@ -342,60 +342,6 @@
         "stars": []
     },
     "39": {
-        "name": "Total Recall",
-        "certificate": "UA",
-        "runtime": "118 min",
-        "genre": "Action, Adventure, Mystery",
-        "description": "A factory worker, Douglas Quaid, begins to suspect that he is a spy after visiting Recall - a company that provides its clients with implanted fake memories of a life they would like to have led - goes wrong and he finds himself on the run.",
-        "director": "",
-        "stars": []
-    },
-    "40": {
-        "name": "Resident Evil: Retribution",
-        "certificate": "A",
-        "runtime": "95 min",
-        "genre": "Action, Horror, Sci-Fi",
-        "description": "Alice fights alongside a resistance movement to regain her freedom from an Umbrella Corporation testing facility.",
-        "director": "",
-        "stars": []
-    },
-    "41": {
-        "name": "Ted",
-        "certificate": "A",
-        "runtime": "106 min",
-        "genre": "Comedy, Fantasy",
-        "description": "John Bennett, a man whose childhood wish of bringing his teddy bear to life came true, now must decide between keeping the relationship with the bear or his girlfriend, Lori.",
-        "director": "",
-        "stars": []
-    },
-    "42": {
-        "name": "Flight",
-        "certificate": "R",
-        "runtime": "138 min",
-        "genre": "Drama, Thriller",
-        "description": "An airline pilot saves almost all his passengers on his malfunctioning airliner which eventually crashed, but an investigation into the accident reveals something troubling.",
-        "director": "",
-        "stars": []
-    },
-    "43": {
-        "name": "Snow White and the Huntsman",
-        "certificate": "UA",
-        "runtime": "127 min",
-        "genre": "Action, Adventure, Drama",
-        "description": "In a twist to the fairy tale, the Huntsman ordered to take Snow White into the woods to be killed winds up becoming her protector and mentor in a quest to vanquish the Evil Queen.",
-        "director": "",
-        "stars": []
-    },
-    "44": {
-        "name": "Brave",
-        "certificate": "U",
-        "runtime": "93 min",
-        "genre": "Animation, Adventure, Comedy",
-        "description": "Determined to make her own path in life, Princess Merida defies a custom that brings chaos to her kingdom. Granted one wish, Merida must rely on her bravery and her archery skills to undo a beastly curse.",
-        "director": "",
-        "stars": []
-    },
-    "45": {
         "name": "Seven Psychopaths",
         "certificate": "R",
         "runtime": "110 min",
@@ -404,25 +350,25 @@
         "director": "",
         "stars": []
     },
-    "46": {
-        "name": "The Vow",
-        "certificate": "UA",
-        "runtime": "104 min",
-        "genre": "Drama, Romance",
-        "description": "A car accident puts Paige in a coma, and when she wakes up with severe memory loss, her husband Leo works to win her heart again.",
+    "40": {
+        "name": "Flight",
+        "certificate": "R",
+        "runtime": "138 min",
+        "genre": "Drama, Thriller",
+        "description": "An airline pilot saves almost all his passengers on his malfunctioning airliner which eventually crashed, but an investigation into the accident reveals something troubling.",
         "director": "",
         "stars": []
     },
-    "47": {
-        "name": "Men in Black 3",
-        "certificate": "UA",
-        "runtime": "106 min",
-        "genre": "Action, Adventure, Comedy",
-        "description": "Agent J travels in time to M.I.B.'s early days in 1969 to stop an alien from assassinating his friend Agent K and changing history.",
+    "41": {
+        "name": "Magic Mike",
+        "certificate": "R",
+        "runtime": "110 min",
+        "genre": "Comedy, Drama",
+        "description": "A male stripper teaches a younger performer how to party, pick up women, and make easy money.",
         "director": "",
         "stars": []
     },
-    "48": {
+    "42": {
         "name": "That's My Boy",
         "certificate": "R",
         "runtime": "116 min",
@@ -431,21 +377,75 @@
         "director": "",
         "stars": []
     },
-    "49": {
-        "name": "American Mary",
+    "43": {
+        "name": "Wreck-It Ralph",
+        "certificate": "U",
+        "runtime": "101 min",
+        "genre": "Animation, Adventure, Comedy",
+        "description": "A video game villain wants to be a hero and sets out to fulfill his dream, but his quest brings havoc to the whole arcade where he lives.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "De rouille et d'os",
         "certificate": "R",
+        "runtime": "120 min",
+        "genre": "Drama, Romance",
+        "description": "Put in charge of his young son, Alain leaves Belgium for Antibes to live with his sister and her husband as a family. Alain's bond with Stephanie, a killer whale trainer, grows deeper after Stephanie suffers a horrible accident.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "The Lords of Salem",
+        "certificate": "R",
+        "runtime": "101 min",
+        "genre": "Horror, Thriller",
+        "description": "Heidi, a radio DJ, is sent a box containing a record - a \"gift from the Lords\". The sounds within the grooves trigger flashbacks of her town's violent past. Is Heidi going mad, or are the Lords back to take revenge on Salem, Massachusetts?",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Brave",
+        "certificate": "U",
+        "runtime": "93 min",
+        "genre": "Animation, Adventure, Comedy",
+        "description": "Determined to make her own path in life, Princess Merida defies a custom that brings chaos to her kingdom. Granted one wish, Merida must rely on her bravery and her archery skills to undo a beastly curse.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "American Reunion",
+        "certificate": "R",
+        "runtime": "113 min",
+        "genre": "Comedy",
+        "description": "Jim, Michelle, Stifler, and their friends reunite in East Great Falls, Michigan for their high school reunion.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "Project X",
+        "certificate": "R",
+        "runtime": "88 min",
+        "genre": "Comedy",
+        "description": "3 high school seniors throw a birthday party to make a name for themselves. As the night progresses, things spiral out of control as word of the party spreads.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "The Expendables 2",
+        "certificate": "A",
         "runtime": "103 min",
-        "genre": "Drama, Horror",
-        "description": "The allure of easy money sends Mary Mason, a medical student, into the world of underground surgeries which ends up leaving more marks on her than her so called \"freakish\" clients.",
+        "genre": "Action, Adventure, Thriller",
+        "description": "Mr. Church reunites the Expendables for what should be an easy paycheck, but when one of their men is murdered on the job, their quest for revenge puts them deep in enemy territory and up against an unexpected threat.",
         "director": "",
         "stars": []
     },
     "50": {
-        "name": "The Dictator",
-        "certificate": "R",
-        "runtime": "83 min",
+        "name": "Ted",
+        "certificate": "A",
+        "runtime": "106 min",
         "genre": "Comedy",
-        "description": "The heroic story of a dictator who risked his life to ensure that democracy would never come to the country he so lovingly oppressed.",
+        "description": "John Bennett, a man whose childhood wish of bringing his teddy bear to life came true, now must decide between keeping the relationship with the bear or his girlfriend, Lori.",
         "director": "",
         "stars": []
     }

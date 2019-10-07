@@ -9,15 +9,6 @@
         "stars": []
     },
     "2": {
-        "name": "Baby Face",
-        "certificate": "",
-        "runtime": "71 min",
-        "genre": "Drama, Romance",
-        "description": "A young woman, sexually exploited all her life, decides to turn the tables and exploit the hapless men at a big city bank - by gleefully sleeping her way to the top.",
-        "director": "",
-        "stars": []
-    },
-    "3": {
         "name": "The Invisible Man",
         "certificate": "",
         "runtime": "71 min",
@@ -26,16 +17,16 @@
         "director": "",
         "stars": []
     },
-    "4": {
-        "name": "Ekstase",
+    "3": {
+        "name": "Rafter Romance",
         "certificate": "",
-        "runtime": "82 min",
-        "genre": "Drama, Romance",
-        "description": "Eva has just gotten married to an older gentleman, but discovers that he is obsessed with order in his life and doesn't have much room for passion. She becomes despondent and leaves him, ...                See full summary\u00a0\u00bb",
+        "runtime": "73 min",
+        "genre": "Comedy, Romance",
+        "description": "A man and a woman share an apartment on a shift basis, never seeing each other; she dislikes him until they actually meet.",
         "director": "",
         "stars": []
     },
-    "5": {
+    "4": {
         "name": "Duck Soup",
         "certificate": "",
         "runtime": "68 min",
@@ -44,151 +35,34 @@
         "director": "",
         "stars": []
     },
+    "5": {
+        "name": "Employees' Entrance",
+        "certificate": "",
+        "runtime": "75 min",
+        "genre": "Drama, Romance",
+        "description": "A working girl is menaced by her tyrannical employer.",
+        "director": "",
+        "stars": []
+    },
     "6": {
-        "name": "Sons of the Desert",
+        "name": "Ever in My Heart",
         "certificate": "",
         "runtime": "68 min",
-        "genre": "Comedy",
-        "description": "When Stan and Ollie trick their wives into thinking that they are taking a medicinal cruise while they're actually going to a convention, the wives find out the truth the hard way.",
+        "genre": "Drama, Romance, War",
+        "description": "World War I brings tribulations to an American woman married to a German.",
         "director": "",
         "stars": []
     },
     "7": {
-        "name": "42nd Street",
+        "name": "One Sunday Afternoon",
         "certificate": "",
-        "runtime": "89 min",
-        "genre": "Comedy, Musical, Romance",
-        "description": "A director puts on what may be his last Broadway show and, at the last moment, a naive newcomer has to replace the star.",
+        "runtime": "85 min",
+        "genre": "Comedy, Romance",
+        "description": "Middle-aged dentist Biff Grimes reminisces about his unrequited love for beautiful Virginia Brush and her husband Hugo, his ex-friend, who betrayed him.",
         "director": "",
         "stars": []
     },
     "8": {
-        "name": "Somewhere in Sonora",
-        "certificate": "",
-        "runtime": "59 min",
-        "genre": "Action, Comedy, Drama",
-        "description": "John Bishop discovers a plot to rob a silver mine belonging to his girlfriend Mary's father and, to foil the evildoers, he joins them.",
-        "director": "",
-        "stars": []
-    },
-    "9": {
-        "name": "Little Women",
-        "certificate": "",
-        "runtime": "115 min",
-        "genre": "Drama, Family, Romance",
-        "description": "A chronicle of the lives of a group of sisters growing up in nineteenth-century America.",
-        "director": "",
-        "stars": []
-    },
-    "10": {
-        "name": "Cavalcade",
-        "certificate": "",
-        "runtime": "112 min",
-        "genre": "Drama, Romance, War",
-        "description": "The triumphs and tragedies of two English families, the upper-crust Marryots and the working-class Bridges, from 1899 to 1933 are portrayed.",
-        "director": "",
-        "stars": []
-    },
-    "11": {
-        "name": "Gold Diggers of 1933",
-        "certificate": "",
-        "runtime": "97 min",
-        "genre": "Comedy, Drama, Musical",
-        "description": "A wealthy composer rescues unemployed Broadway performers with a new play.",
-        "director": "",
-        "stars": []
-    },
-    "12": {
-        "name": "Alice in Wonderland",
-        "certificate": "",
-        "runtime": "76 min",
-        "genre": "Adventure, Family, Fantasy",
-        "description": "In Victorian England a bored young girl dreams that she has entered a fantasy world called Wonderland populated by even more fantastic characters.",
-        "director": "",
-        "stars": []
-    },
-    "13": {
-        "name": "The Vampire Bat",
-        "certificate": "",
-        "runtime": "65 min",
-        "genre": "Drama, Horror, Mystery",
-        "description": "When corpses drained of blood begin to show up in a European village, vampirism is suspected to be responsible.",
-        "director": "",
-        "stars": []
-    },
-    "14": {
-        "name": "Das Testament des Dr. Mabuse",
-        "certificate": "",
-        "runtime": "122 min",
-        "genre": "Crime",
-        "description": "A new crime wave grips the city and all clues seem to lead to the nefarious Dr. Mabuse, even though he has been imprisoned in a mental asylum for nearly a decade.",
-        "director": "",
-        "stars": []
-    },
-    "15": {
-        "name": "Footlight Parade",
-        "certificate": "",
-        "runtime": "104 min",
-        "genre": "Comedy, Musical, Romance",
-        "description": "Chester Kent struggles against time, romance, and a rival's spy to produce spectacular live \"prologues\" for movie houses.",
-        "director": "",
-        "stars": []
-    },
-    "16": {
-        "name": "The Barbarian",
-        "certificate": "",
-        "runtime": "83 min",
-        "genre": "Adventure, Drama, Romance",
-        "description": "An American tourist catches the eye of a disguised Arab prince who decides to kidnap her, then try to win her love.",
-        "director": "",
-        "stars": []
-    },
-    "17": {
-        "name": "Design for Living",
-        "certificate": "",
-        "runtime": "91 min",
-        "genre": "Comedy, Romance",
-        "description": "A woman cannot decide between two men who love her, and the trio agree to try living together in a platonic friendly relationship.",
-        "director": "",
-        "stars": []
-    },
-    "18": {
-        "name": "Dinner at Eight",
-        "certificate": "",
-        "runtime": "111 min",
-        "genre": "Comedy, Drama",
-        "description": "Affluent Millicent and Oliver Jordan throw a dinner for a handful of wealthy and/or well-born acquaintances, each of whom has much to reveal.",
-        "director": "",
-        "stars": []
-    },
-    "19": {
-        "name": "She Done Him Wrong",
-        "certificate": "",
-        "runtime": "66 min",
-        "genre": "Comedy, Drama, History",
-        "description": "In the Gay Nineties, a seductive nightclub singer contends with several suitors, including a jealous escaped convict and a handsome temperance league member.",
-        "director": "",
-        "stars": []
-    },
-    "20": {
-        "name": "The Private Life of Henry VIII.",
-        "certificate": "",
-        "runtime": "97 min",
-        "genre": "Biography, Comedy, Drama",
-        "description": "King Henry VIII marries five more times after his divorce from his first wife Catherine of Aragon.",
-        "director": "",
-        "stars": []
-    },
-    "21": {
-        "name": "Roman Scandals",
-        "certificate": "",
-        "runtime": "92 min",
-        "genre": "Comedy, Fantasy, Musical",
-        "description": "A kind-hearted young man is thrown out of his corrupt home town of West Rome, Oklahoma. He falls asleep and dreams that he is back in the days of olden Rome, where he gets mixed up with court intrigue and a murder plot against the Emperor.",
-        "director": "",
-        "stars": []
-    },
-    "22": {
         "name": "Morning Glory",
         "certificate": "",
         "runtime": "74 min",
@@ -197,97 +71,79 @@
         "director": "",
         "stars": []
     },
-    "23": {
-        "name": "The Son of Kong",
+    "9": {
+        "name": "Ex-Lady",
         "certificate": "",
-        "runtime": "70 min",
-        "genre": "Adventure, Comedy",
-        "description": "The men who captured the giant ape King Kong return to Skull Island and find his likewise gigantic but far more friendly son.",
+        "runtime": "67 min",
+        "genre": "Comedy, Drama",
+        "description": "Although free spirit Helen Bauer does not believe in marriage, she consents to marry Don, but his infidelities cause her to also take on a lover.",
         "director": "",
         "stars": []
     },
-    "24": {
-        "name": "Sagebrush Trail",
+    "10": {
+        "name": "Ekstase",
         "certificate": "",
-        "runtime": "54 min",
-        "genre": "Western",
-        "description": "Imprisoned for a murder he did not commit, John Brant escapes and ends up out west where, after giving the local lawmen the slip, he joins up with an outlaw gang. Brant finds out that '...                See full summary\u00a0\u00bb",
+        "runtime": "82 min",
+        "genre": "Drama, Romance",
+        "description": "Eva has just gotten married to an older gentleman, but discovers that he is obsessed with order in his life and doesn't have much room for passion. She becomes despondent and leaves him, ...                See full summary\u00a0\u00bb",
         "director": "",
         "stars": []
     },
-    "25": {
-        "name": "Flying Down to Rio",
+    "11": {
+        "name": "Lilly Turner",
+        "certificate": "",
+        "runtime": "65 min",
+        "genre": "Drama",
+        "description": "A carnival magician deserts his wife when he finds out she's pregnant. She then marries the carnival's barker, but finds herself attracted to a young engineer.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "The Barbarian",
+        "certificate": "",
+        "runtime": "83 min",
+        "genre": "Adventure, Drama, Romance",
+        "description": "An American tourist catches the eye of a disguised Arab prince who decides to kidnap her, then try to win her love.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "Bed of Roses",
+        "certificate": "",
+        "runtime": "67 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Lorry and Minnie are ex-hookers who leave prison, determined to find the good life with rich men. Along the way Lorry meets and falls in love with cotton barge owner Dan. She must choose ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "42nd Street",
         "certificate": "",
         "runtime": "89 min",
         "genre": "Comedy, Musical, Romance",
-        "description": "An aviator and band leader who is always getting his group fired for his flirtatious behavior with the female guests soon finds himself falling for an engaged woman.",
+        "description": "A director puts on what may be his last Broadway show and, at the last moment, a naive newcomer has to replace the star.",
         "director": "",
         "stars": []
     },
-    "26": {
-        "name": "State Fair",
+    "15": {
+        "name": "Little Women",
         "certificate": "",
-        "runtime": "99 min",
-        "genre": "Comedy, Drama, Romance",
-        "description": "An Iowa family finds adventure, love, and heartbreak, when they spend a week at the state fair.",
+        "runtime": "115 min",
+        "genre": "Drama, Family, Romance",
+        "description": "A chronicle of the lives of a group of sisters growing up in nineteenth-century America.",
         "director": "",
         "stars": []
     },
-    "27": {
-        "name": "Dancing Lady",
+    "16": {
+        "name": "Gold Diggers of 1933",
         "certificate": "",
-        "runtime": "92 min",
-        "genre": "Comedy, Musical, Romance",
-        "description": "An attractive dancer is rescued from jail by a rich man, who helps her to have her first big opportunity at a musical play on Broadway.",
+        "runtime": "97 min",
+        "genre": "Comedy, Drama, Musical",
+        "description": "A wealthy composer rescues unemployed Broadway performers with a new play.",
         "director": "",
         "stars": []
     },
-    "28": {
-        "name": "Lady for a Day",
-        "certificate": "",
-        "runtime": "96 min",
-        "genre": "Comedy, Drama",
-        "description": "A gangster tries to make Apple Annie, the Times Square apple seller, a lady for a day.",
-        "director": "",
-        "stars": []
-    },
-    "29": {
-        "name": "The Story of Temple Drake",
-        "certificate": "",
-        "runtime": "70 min",
-        "genre": "Drama",
-        "description": "A wealthy but neurotic Southern belle finds herself trapped in the hideout of a gang of vicious bootleggers. The gang's leader lusts after her, and is determined not to let anything stand in the way of his having her.",
-        "director": "",
-        "stars": []
-    },
-    "30": {
-        "name": "The Kennel Murder Case",
-        "certificate": "",
-        "runtime": "73 min",
-        "genre": "Mystery",
-        "description": "Philo Vance, accompanied by his prize-losing Scottish terrier, investigates the locked-room murder of a prominent and much-hated collector whose broken Chinese vase provides an important clue.",
-        "director": "",
-        "stars": []
-    },
-    "31": {
-        "name": "Christopher Strong",
-        "certificate": "",
-        "runtime": "78 min",
-        "genre": "Action, Adventure, Drama",
-        "description": "A famous female flier and a member of Parliament drift into a potentially disastrous affair.",
-        "director": "",
-        "stars": []
-    },
-    "32": {
-        "name": "The Devil's Brother",
-        "certificate": "",
-        "runtime": "90 min",
-        "genre": "Comedy, Musical",
-        "description": "Two wannabe bandits join the service of a dashing nobleman, who secretly masquerades as Fra Diavolo, a notorious outlaw.",
-        "director": "",
-        "stars": []
-    },
-    "33": {
+    "17": {
         "name": "Mystery of the Wax Museum",
         "certificate": "",
         "runtime": "77 min",
@@ -296,25 +152,61 @@
         "director": "",
         "stars": []
     },
-    "34": {
-        "name": "Eskimo",
+    "18": {
+        "name": "Baby Face",
         "certificate": "",
-        "runtime": "117 min",
+        "runtime": "71 min",
+        "genre": "Drama, Romance",
+        "description": "A young woman, sexually exploited all her life, decides to turn the tables and exploit the hapless men at a big city bank - by gleefully sleeping her way to the top.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "The Story of Temple Drake",
+        "certificate": "",
+        "runtime": "70 min",
         "genre": "Drama",
-        "description": "The happy life of an Eskimo is disastrously changed when he mingles with an unscrupulous white trader.",
+        "description": "A wealthy but neurotic Southern belle finds herself trapped in the hideout of a gang of vicious bootleggers. The gang's leader lusts after her, and is determined not to let anything stand in the way of his having her.",
         "director": "",
         "stars": []
     },
-    "35": {
-        "name": "Riders of Destiny",
+    "20": {
+        "name": "Sons of the Desert",
         "certificate": "",
-        "runtime": "53 min",
-        "genre": "Music, Romance, Western",
-        "description": "Bad guy Kincaid controls the local water supply and plans to do in the other ranchers. Government agent Saunders shows up undercover to do in Kincaid and win the heart of one of his victims Fay Denton.",
+        "runtime": "68 min",
+        "genre": "Comedy",
+        "description": "When Stan and Ollie trick their wives into thinking that they are taking a medicinal cruise while they're actually going to a convention, the wives find out the truth the hard way.",
         "director": "",
         "stars": []
     },
-    "36": {
+    "21": {
+        "name": "Only Yesterday",
+        "certificate": "",
+        "runtime": "105 min",
+        "genre": "Drama, Romance",
+        "description": "A one-night fling during World War I results in a young girl getting pregnant. Years later, she meets him again. Now a successful businessman, he doesn't even remember her, but tries to seduce her.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "Footlight Parade",
+        "certificate": "",
+        "runtime": "104 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "Chester Kent struggles against time, romance, and a rival's spy to produce spectacular live \"prologues\" for movie houses.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "Das Testament des Dr. Mabuse",
+        "certificate": "",
+        "runtime": "122 min",
+        "genre": "Crime",
+        "description": "A new crime wave grips the city and all clues seem to lead to the nefarious Dr. Mabuse, even though he has been imprisoned in a mental asylum for nearly a decade.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
         "name": "Queen Christina",
         "certificate": "",
         "runtime": "99 min",
@@ -323,34 +215,34 @@
         "director": "",
         "stars": []
     },
-    "37": {
-        "name": "The Eagle and the Hawk",
+    "25": {
+        "name": "Alice in Wonderland",
         "certificate": "",
-        "runtime": "73 min",
-        "genre": "Action, Drama, War",
-        "description": "The pilots of a Royal Air Force squadron in World War I face not only physical but mental dangers in their struggle to survive while fighting the enemy.",
+        "runtime": "76 min",
+        "genre": "Adventure, Family, Fantasy",
+        "description": "In Victorian England a bored young girl dreams that she has entered a fantasy world called Wonderland populated by even more fantastic characters.",
         "director": "",
         "stars": []
     },
-    "38": {
-        "name": "Chance at Heaven",
+    "26": {
+        "name": "She Done Him Wrong",
         "certificate": "",
-        "runtime": "71 min",
-        "genre": "Drama, Romance",
-        "description": "An ambitious mechanic is tempted to desert his wonderful girlfriend when a silly but rich debutante falls for him.",
+        "runtime": "66 min",
+        "genre": "Comedy, Drama, History",
+        "description": "In the Gay Nineties, a seductive nightclub singer contends with several suitors, including a jealous escaped convict and a handsome temperance league member.",
         "director": "",
         "stars": []
     },
-    "39": {
-        "name": "The Song of Songs",
+    "27": {
+        "name": "The Private Life of Henry VIII.",
         "certificate": "",
-        "runtime": "90 min",
-        "genre": "Drama, Romance",
-        "description": "Lily falls in love with the sculptor who leaves her out of fear of commitment.",
+        "runtime": "97 min",
+        "genre": "Biography, Comedy, Drama",
+        "description": "King Henry VIII marries five more times after his divorce from his first wife Catherine of Aragon.",
         "director": "",
         "stars": []
     },
-    "40": {
+    "28": {
         "name": "The Ghoul",
         "certificate": "",
         "runtime": "77 min",
@@ -359,52 +251,97 @@
         "director": "",
         "stars": []
     },
-    "41": {
-        "name": "Viktor und Viktoria",
+    "29": {
+        "name": "Cavalcade",
         "certificate": "",
-        "runtime": "100 min",
-        "genre": "Comedy, Musical",
-        "description": "Aspiring singer Susanne takes over for ham actor Viktor at a small cabaret in Berlin where he works a woman impersonator and per chance she's discovered by an agent, who thinks that she ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "42": {
-        "name": "Today We Live",
-        "certificate": "",
-        "runtime": "113 min",
+        "runtime": "112 min",
         "genre": "Drama, Romance, War",
-        "description": "During WWI, two officers, one a pilot and the other in the navy, compete for the same beautiful young woman.",
+        "description": "The triumphs and tragedies of two English families, the upper-crust Marryots and the working-class Bridges, from 1899 to 1933 are portrayed.",
         "director": "",
         "stars": []
     },
-    "43": {
-        "name": "A Study in Scarlet",
+    "30": {
+        "name": "Design for Living",
         "certificate": "",
-        "runtime": "72 min",
-        "genre": "Mystery, Thriller",
-        "description": "In London, a secret society led by lawyer Thaddeus Merrydew collects the assets of any of its deceased members and divides them among the remaining members. Society members start dropping ...                See full summary\u00a0\u00bb",
+        "runtime": "91 min",
+        "genre": "Comedy, Romance",
+        "description": "A woman cannot decide between two men who love her, and the trio agree to try living together in a platonic friendly relationship.",
         "director": "",
         "stars": []
     },
-    "44": {
-        "name": "Professional Sweetheart",
+    "31": {
+        "name": "The Son of Kong",
+        "certificate": "",
+        "runtime": "70 min",
+        "genre": "Adventure, Comedy",
+        "description": "The men who captured the giant ape King Kong return to Skull Island and find his likewise gigantic but far more friendly son.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "The Vampire Bat",
+        "certificate": "",
+        "runtime": "65 min",
+        "genre": "Drama, Horror, Mystery",
+        "description": "When corpses drained of blood begin to show up in a European village, vampirism is suspected to be responsible.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "Bombshell",
+        "certificate": "",
+        "runtime": "96 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Sexpot film star Lola Burns seeks a new image and tries marrying a marquis and adopting a baby - all sorts of schemes which go awry.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "Ladies They Talk About",
+        "certificate": "",
+        "runtime": "69 min",
+        "genre": "Crime, Drama, Romance",
+        "description": "Attractive Nan, member of a bank-robbery gang, goes to prison thanks to evangelist Dave Slade...who loves her.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "Flying Down to Rio",
+        "certificate": "",
+        "runtime": "89 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "An aviator and band leader who is always getting his group fired for his flirtatious behavior with the female guests soon finds himself falling for an engaged woman.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "The Kennel Murder Case",
         "certificate": "",
         "runtime": "73 min",
-        "genre": "Comedy, Romance",
-        "description": "A vice-free radio singer wants to experience the dark side of life, so a press agent convinces her sponsor to choose a \"professional sweetheart\" from her fans.",
+        "genre": "Crime, Mystery",
+        "description": "Philo Vance, accompanied by his prize-losing Scottish terrier, investigates the locked-room murder of a prominent and much-hated collector whose broken Chinese vase provides an important clue.",
         "director": "",
         "stars": []
     },
-    "45": {
-        "name": "His Private Secretary",
+    "37": {
+        "name": "Roman Scandals",
         "certificate": "",
-        "runtime": "60 min",
-        "genre": "Comedy, Romance",
-        "description": "Dick Wallace secretly marries a minister's grand-daughter but his father, who thinks she is a gold digger, is opposed. She takes a job with the company under her maiden name to prove she's okay.",
+        "runtime": "92 min",
+        "genre": "Comedy, Fantasy, Musical",
+        "description": "A kind-hearted young man is thrown out of his corrupt home town of West Rome, Oklahoma. He falls asleep and dreams that he is back in the days of olden Rome, where he gets mixed up with court intrigue and a murder plot against the Emperor.",
         "director": "",
         "stars": []
     },
-    "46": {
+    "38": {
+        "name": "Dinner at Eight",
+        "certificate": "",
+        "runtime": "111 min",
+        "genre": "Comedy, Drama",
+        "description": "Affluent Millicent and Oliver Jordan throw a dinner for a handful of wealthy and/or well-born acquaintances, each of whom has much to reveal.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
         "name": "I'm No Angel",
         "certificate": "",
         "runtime": "87 min",
@@ -413,39 +350,102 @@
         "director": "",
         "stars": []
     },
-    "47": {
-        "name": "Deluge",
+    "40": {
+        "name": "The Prizefighter and the Lady",
         "certificate": "",
-        "runtime": "70 min",
-        "genre": "Drama, Sci-Fi",
-        "description": "A massive earthquake strikes the United States, which destroys the West Coast and unleashes a massive flood that threatens to destroy the East Coast as well.",
+        "runtime": "102 min",
+        "genre": "Comedy, Crime, Romance",
+        "description": "An ex-sailor turned boxer finds romance and gets a shot at the heavyweight title.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Sagebrush Trail",
+        "certificate": "",
+        "runtime": "54 min",
+        "genre": "Action, Drama, Romance",
+        "description": "The Duke is wrongly convicted for a killing, but he escapes from prison and heads out west to find the real killer.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "Christopher Strong",
+        "certificate": "",
+        "runtime": "78 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "A famous female flier and a member of Parliament drift into a potentially disastrous affair.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "The Eagle and the Hawk",
+        "certificate": "",
+        "runtime": "73 min",
+        "genre": "Action, Drama, War",
+        "description": "The pilots of a Royal Air Force squadron in World War I face not only physical but mental dangers in their struggle to survive while fighting the enemy.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "Dancing Lady",
+        "certificate": "",
+        "runtime": "92 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "An attractive dancer is rescued from jail by a rich man, who helps her to have her first big opportunity at a musical play on Broadway.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "Elysia (Valley of the Nude)",
+        "certificate": "",
+        "runtime": "46 min",
+        "genre": "Drama",
+        "description": "A reporter is assigned to write a article on a nudist camp.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Female",
+        "certificate": "",
+        "runtime": "60 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Alison Drake, the tough-minded executive of an automobile factory, succeeds in the man's world of business until she meets an independent design engineer.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "Night of Terror",
+        "certificate": "",
+        "runtime": "65 min",
+        "genre": "Horror, Mystery, Thriller",
+        "description": "The heirs to a family fortune are required to attend a seance at the spooky old family mansion. However, throughout the night members of the family are being killed off one by one.",
         "director": "",
         "stars": []
     },
     "48": {
-        "name": "Tarzan the Fearless",
+        "name": "Counsellor at Law",
         "certificate": "",
-        "runtime": "200 min",
-        "genre": "Action, Adventure",
-        "description": "In the African Jungle, a group of Europeans come across the fabled white man who was raised by apes. Tarzan takes an immediate liking to the blond Mary Brooks and rescues her during a nasty...                See full summary\u00a0\u00bb",
+        "runtime": "82 min",
+        "genre": "Comedy, Drama",
+        "description": "Successful attorney has his Jewish heritage and poverty-stricken background brought home to him when he learns his wife has been unfaithful.",
         "director": "",
         "stars": []
     },
     "49": {
-        "name": "Midnight Mary",
+        "name": "Gabriel Over the White House",
         "certificate": "",
-        "runtime": "74 min",
-        "genre": "Crime, Drama, Romance",
-        "description": "An abused orphan sinks into a life of crime.",
+        "runtime": "86 min",
+        "genre": "Drama, Fantasy, Romance",
+        "description": "A political hack becomes President during the height of the Depression and undergoes a metamorphosis into an incorruptible statesman after a near-fatal accident.",
         "director": "",
         "stars": []
     },
     "50": {
-        "name": "The Three Musketeers",
+        "name": "The Kiss Before the Mirror",
         "certificate": "",
-        "runtime": "210 min",
-        "genre": "Action, Adventure, Drama",
-        "description": "Tom Wayne rescues Clancy, Renard and Schmidt in the Arabian desert and they join him in going after El Shaitan, a bad guy who is never seen as he tries to wipe out the Foreign Legion.",
+        "runtime": "69 min",
+        "genre": "Drama, Mystery",
+        "description": "When a famous doctor kills his adulterous wife, he is defended by his best friend, an attorney--who suspects that his own wife is having an affair.",
         "director": "",
         "stars": []
     }

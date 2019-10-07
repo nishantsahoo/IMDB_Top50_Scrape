@@ -18,15 +18,6 @@
         "stars": []
     },
     "3": {
-        "name": "The Big Trail",
-        "certificate": "",
-        "runtime": "125 min",
-        "genre": "Adventure, Western, Romance",
-        "description": "Breck Coleman leads hundreds of settlers in covered wagons from the Mississippi River to their destiny out West.",
-        "director": "",
-        "stars": []
-    },
-    "4": {
         "name": "Der blaue Engel",
         "certificate": "",
         "runtime": "104 min",
@@ -35,25 +26,16 @@
         "director": "",
         "stars": []
     },
+    "4": {
+        "name": "Redemption",
+        "certificate": "",
+        "runtime": "75 min",
+        "genre": "Drama",
+        "description": "Fedya wins Lisa away from her fiance, Victor Karenin. But after Fedya weds Lisa, he becomes infatuated with a gypsy girl, Masha. His duplicity leads to tragedy.",
+        "director": "",
+        "stars": []
+    },
     "5": {
-        "name": "L'\u00e2ge d'or",
-        "certificate": "",
-        "runtime": "60 min",
-        "genre": "Comedy, Drama",
-        "description": "A surrealist tale of a man and a woman who are passionately in love with each other, but their attempts to consummate that passion are constantly thwarted by their families, the Church, and bourgeois society.",
-        "director": "",
-        "stars": []
-    },
-    "6": {
-        "name": "Murder!",
-        "certificate": "",
-        "runtime": "104 min",
-        "genre": "Crime, Mystery, Thriller",
-        "description": "A juror in a murder trial, after voting to convict, has second thoughts and begins to investigate on his own before the execution.",
-        "director": "",
-        "stars": []
-    },
-    "7": {
         "name": "Morocco",
         "certificate": "",
         "runtime": "92 min",
@@ -62,7 +44,16 @@
         "director": "",
         "stars": []
     },
-    "8": {
+    "6": {
+        "name": "L'\u00e2ge d'or",
+        "certificate": "",
+        "runtime": "60 min",
+        "genre": "Comedy, Drama",
+        "description": "A surrealist tale of a man and a woman who are passionately in love with each other, but their attempts to consummate that passion are constantly thwarted by their families, the Church, and bourgeois society.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
         "name": "Animal Crackers",
         "certificate": "",
         "runtime": "97 min",
@@ -71,88 +62,34 @@
         "director": "",
         "stars": []
     },
-    "9": {
-        "name": "Little Rascals: Best of Our Gang",
+    "8": {
+        "name": "Murder!",
         "certificate": "",
-        "runtime": "84 min",
-        "genre": "Comedy",
-        "description": "Spanky, Buckwheat, Porky and all The Little Rascals at their hilarious best!",
+        "runtime": "104 min",
+        "genre": "Crime, Mystery, Thriller",
+        "description": "A juror in a murder trial, after voting to convict, has second thoughts and begins to investigate on his own before the execution.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "Maybe It's Love",
+        "certificate": "",
+        "runtime": "72 min",
+        "genre": "Comedy, Music, Romance",
+        "description": "A college football player (Joe E. Brown) persuades a beautiful young woman (Joan Bennett) to individually flirt with an entire team of All-American football players, in order to entice them...                See full summary\u00a0\u00bb",
         "director": "",
         "stars": []
     },
     "10": {
-        "name": "New Moon",
+        "name": "The Big Trail",
         "certificate": "",
-        "runtime": "78 min",
-        "genre": "Drama, Musical, Romance",
-        "description": "New Moon is the name of the ship crossing the Caspian Sea. A young Lt. Petroff meets the Princess Tanya and they have a ship board romance. Upon arriving at the port of Krasnov, Petroff ...                See full summary\u00a0\u00bb",
+        "runtime": "125 min",
+        "genre": "Adventure, Western, Romance",
+        "description": "Breck Coleman leads hundreds of settlers in covered wagons from the Mississippi River to their destiny out West.",
         "director": "",
         "stars": []
     },
     "11": {
-        "name": "Menschen am Sonntag",
-        "certificate": "",
-        "runtime": "73 min",
-        "genre": "Comedy, Drama, Romance",
-        "description": "Edwin, a taxi driver, lives with Annie, a neurasthenic model. They plan to spend Sunday at the Nikolassee beach with Wolfgang, an officer, gentleman, antiquarian, gigolo, at the moment a ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "12": {
-        "name": "The Big House",
-        "certificate": "",
-        "runtime": "87 min",
-        "genre": "Crime, Drama, Thriller",
-        "description": "A convict falls in love with his new cellmate's sister, only to become embroiled in a planned break-out which is certain to have lethal consequences.",
-        "director": "",
-        "stars": []
-    },
-    "13": {
-        "name": "Ladies of Leisure",
-        "certificate": "",
-        "runtime": "99 min",
-        "genre": "Drama, Romance",
-        "description": "An upper-crust artist hires a 'party girl' as a model; romance follows.",
-        "director": "",
-        "stars": []
-    },
-    "14": {
-        "name": "The Divorcee",
-        "certificate": "",
-        "runtime": "84 min",
-        "genre": "Romance, Drama",
-        "description": "When a woman discovers that her husband has been unfaithful to her, she decides to respond to his infidelities in kind.",
-        "director": "",
-        "stars": []
-    },
-    "15": {
-        "name": "Anna Christie",
-        "certificate": "",
-        "runtime": "89 min",
-        "genre": "Drama, Romance",
-        "description": "A young woman reunites with her estranged father and falls in love with a sailor, but struggles to tell them about her dark past.",
-        "director": "",
-        "stars": []
-    },
-    "16": {
-        "name": "Holiday",
-        "certificate": "",
-        "runtime": "91 min",
-        "genre": "Comedy, Drama",
-        "description": "Holiday is a 1930 American Pre-Code romantic comedy film which tells the story of a young man who is torn between his free-thinking lifestyle and the tradition of his wealthy fianc\u00e9e's family.",
-        "director": "",
-        "stars": []
-    },
-    "17": {
-        "name": "Westfront 1918: Vier von der Infanterie",
-        "certificate": "",
-        "runtime": "97 min",
-        "genre": "Drama, Romance, War",
-        "description": "A group of German infantrymen of the First World War live out their lives in the trenches of France. They find brief entertainment and relief in a village behind the lines, but primarily ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "18": {
         "name": "Madam Satan",
         "certificate": "",
         "runtime": "116 min",
@@ -161,30 +98,93 @@
         "director": "",
         "stars": []
     },
-    "19": {
-        "name": "Sous les toits de Paris",
+    "12": {
+        "name": "Menschen am Sonntag",
         "certificate": "",
-        "runtime": "96 min",
-        "genre": "Comedy, Drama, Musical",
-        "description": "Albert is smitten for Pola but ends up wrongly committed in jail, in the meantime her affections are sought after by his friend, and on his release both love and friendship must be tested.",
+        "runtime": "73 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Two men and two women enjoy a pleasant Sunday at the beach amid the unending toil of the working week.",
         "director": "",
         "stars": []
     },
-    "20": {
-        "name": "What Men Want",
+    "13": {
+        "name": "Little Rascals: Best of Our Gang",
         "certificate": "",
-        "runtime": "65 min",
+        "runtime": "84 min",
+        "genre": "Comedy",
+        "description": "Spanky, Buckwheat, Porky and all The Little Rascals at their hilarious best!",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "Anna Christie",
+        "certificate": "",
+        "runtime": "89 min",
         "genre": "Drama, Romance",
-        "description": "A playboy's mistress falls in love with another man. Her younger sister arrives in town. Complications ensue.",
+        "description": "A young woman reunites with her estranged father and falls in love with a sailor, but struggles to tell them about her dark past.",
         "director": "",
         "stars": []
     },
-    "21": {
+    "15": {
         "name": "Up the River",
         "certificate": "",
         "runtime": "92 min",
         "genre": "Comedy, Crime, Drama",
         "description": "When paroled trustee Steve and former inmate Judy who try to put their criminal lives behind them are blackmailed, two career criminals come to their rescue.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "Ladies of Leisure",
+        "certificate": "",
+        "runtime": "99 min",
+        "genre": "Drama, Romance",
+        "description": "An upper-crust artist hires a 'party girl' as a model; romance follows.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "The Unholy Three",
+        "certificate": "",
+        "runtime": "72 min",
+        "genre": "Crime, Drama, Romance",
+        "description": "\"Talkie\" remake of Tod Browning's 1925 silent film. A trio of former sideshow performers double as the \"Unholy Three\" in a scam to nab some shiny rocks.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Zemlya",
+        "certificate": "",
+        "runtime": "75 min",
+        "genre": "Drama",
+        "description": "In the peaceful countryside, Vassily opposes the rich kulaks over the coming of collective farming.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "The Bat Whispers",
+        "certificate": "",
+        "runtime": "83 min",
+        "genre": "Crime, Thriller, Horror",
+        "description": "A master criminal terrorizes the occupants of an isolated country mansion.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "The Divorcee",
+        "certificate": "",
+        "runtime": "84 min",
+        "genre": "Romance, Drama",
+        "description": "When a woman discovers that her husband has been unfaithful to her, she decides to respond to his infidelities in kind.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "The Doorway to Hell",
+        "certificate": "",
+        "runtime": "78 min",
+        "genre": "Crime, Drama",
+        "description": "Despite his efforts to go straight, a young gangster keeps falling back into crime.",
         "director": "",
         "stars": []
     },
@@ -198,96 +198,6 @@
         "stars": []
     },
     "23": {
-        "name": "The Doorway to Hell",
-        "certificate": "",
-        "runtime": "78 min",
-        "genre": "Crime, Drama",
-        "description": "Despite his efforts to go straight, a young gangster keeps falling back into crime.",
-        "director": "",
-        "stars": []
-    },
-    "24": {
-        "name": "Journey's End",
-        "certificate": "",
-        "runtime": "120 min",
-        "genre": "Drama, War",
-        "description": "In France, 1917, an alcoholic captain is afraid that his new replacement, his sweetheart's brother, will betray his downfall.",
-        "director": "",
-        "stars": []
-    },
-    "25": {
-        "name": "Juno and the Paycock",
-        "certificate": "",
-        "runtime": "85 min",
-        "genre": "Comedy, Drama",
-        "description": "During the Irish Civil War in 1922, a family earns a big inheritance. They start leading a rich life, forgetting what the most important values are.",
-        "director": "",
-        "stars": []
-    },
-    "26": {
-        "name": "The Dawn Patrol",
-        "certificate": "",
-        "runtime": "108 min",
-        "genre": "War, Drama, Action",
-        "description": "World War I ace Dick Courtney derides the leadership of his superior officer, but Courtney is soon promoted to squadron commander and learns harsh lessons about sending subordinates to their deaths.",
-        "director": "",
-        "stars": []
-    },
-    "27": {
-        "name": "Fast and Loose",
-        "certificate": "",
-        "runtime": "70 min",
-        "genre": "Comedy, Romance",
-        "description": "A wealthy family is thrown into turmoil when the daughter falls for the family chauffeur and the son begins to keep company with a chorus girl.",
-        "director": "",
-        "stars": []
-    },
-    "28": {
-        "name": "Just Imagine",
-        "certificate": "",
-        "runtime": "113 min",
-        "genre": "Comedy, Fantasy, Musical",
-        "description": "New York, 1980: airplanes have replaced cars, numbers have replaced names, pills have replaced food, government-arranged marriages have replaced love, and test tube babies have replaced ......                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "29": {
-        "name": "King of Jazz",
-        "certificate": "",
-        "runtime": "99 min",
-        "genre": "Animation, Comedy, Music",
-        "description": "This revue presents its numbers around the orchestra leader Paul Whiteman, besides that it shows in it's final number that the European popular music are the roots of American popular music...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "30": {
-        "name": "Whoopee!",
-        "certificate": "",
-        "runtime": "93 min",
-        "genre": "Comedy, Musical, Romance",
-        "description": "Western sheriff Bob Wells is preparing to marry Sally Morgan; she loves part-Indian Wanenis, whose race is an obstacle. Sally flees the wedding with hypochondriac Henry Williams, who thinks...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "31": {
-        "name": "Zemlya",
-        "certificate": "",
-        "runtime": "75 min",
-        "genre": "Drama",
-        "description": "In the peaceful countryside, Vassily opposes the rich kulaks over the coming of collective farming.",
-        "director": "",
-        "stars": []
-    },
-    "32": {
-        "name": "Safety in Numbers",
-        "certificate": "",
-        "runtime": "80 min",
-        "genre": "Comedy, Musical, Romance",
-        "description": "A songwriter hires three chorus girls to show him the \"underside\" of big-city life.",
-        "director": "",
-        "stars": []
-    },
-    "33": {
         "name": "City Girl",
         "certificate": "",
         "runtime": "77 min",
@@ -296,61 +206,106 @@
         "director": "",
         "stars": []
     },
-    "34": {
-        "name": "The Bat Whispers",
+    "24": {
+        "name": "Just Imagine",
         "certificate": "",
-        "runtime": "83 min",
-        "genre": "Crime, Thriller, Horror",
-        "description": "A master criminal terrorizes the occupants of an isolated country mansion.",
+        "runtime": "113 min",
+        "genre": "Comedy, Fantasy, Musical",
+        "description": "New York, 1980: airplanes have replaced cars, numbers have replaced names, pills have replaced food, government-arranged marriages have replaced love, and test tube babies have replaced ......                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "Montana Moon",
+        "certificate": "",
+        "runtime": "89 min",
+        "genre": "Comedy, Drama, Musical",
+        "description": "While returning to Montana from a fling in New York, wealthy Joan Prescott leaves the train, intending to return to the big city. She runs into handsome cowboy Larry and gets engaged. On ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "The Big House",
+        "certificate": "",
+        "runtime": "87 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "A convict falls in love with his new cellmate's sister, only to become embroiled in a planned break-out which is certain to have lethal consequences.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "Loose Ankles",
+        "certificate": "",
+        "runtime": "69 min",
+        "genre": "Comedy, Romance",
+        "description": "In this light romantic comedy, 17-year old Loretta Young is cast as Ann Harper, a wealthy socialite who has inherited a fortune provided the family is involved in no scandals appearing in ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "King of Jazz",
+        "certificate": "",
+        "runtime": "99 min",
+        "genre": "Animation, Comedy, Music",
+        "description": "American Pre-Code color film starring Paul Whiteman and his Jazz orchestra.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "Westfront 1918: Vier von der Infanterie",
+        "certificate": "",
+        "runtime": "97 min",
+        "genre": "Drama, Romance, War",
+        "description": "A group of German infantrymen of the First World War live out their lives in the trenches of France. They find brief entertainment and relief in a village behind the lines, but primarily ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "Juno and the Paycock",
+        "certificate": "",
+        "runtime": "85 min",
+        "genre": "Comedy, Drama",
+        "description": "During the Irish Civil War in 1922, a family earns a big inheritance. They start leading a rich life, forgetting what the most important values are.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "Whoopee!",
+        "certificate": "",
+        "runtime": "93 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "Western sheriff Bob Wells is preparing to marry Sally Morgan; she loves part-Indian Wanenis, whose race is an obstacle. Sally flees the wedding with hypochondriac Henry Williams, who thinks...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "Liliom",
+        "certificate": "",
+        "runtime": "94 min",
+        "genre": "Drama",
+        "description": "Liliom, a merry-go-round barker at a Budapest amusement park, becomes enamored of Julie, a servant girl, and though under the influence of Madame Muskat, a sideshow entrepreneur, he marries...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "Journey's End",
+        "certificate": "",
+        "runtime": "120 min",
+        "genre": "Drama, War",
+        "description": "In France, 1917, an alcoholic captain is afraid that his new replacement, his sweetheart's brother, will betray his downfall.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "Free and Easy",
+        "certificate": "",
+        "runtime": "92 min",
+        "genre": "Comedy, Musical",
+        "description": "A bumbling manager tries to get a small town beauty contest winner into the movies.",
         "director": "",
         "stars": []
     },
     "35": {
-        "name": "Let Us Be Gay",
-        "certificate": "",
-        "runtime": "79 min",
-        "genre": "Comedy, Drama",
-        "description": "Dowdy housewife Kitty dotes on her self-centered husband but divorces him when his mistress shows up at their home one day to break up their marriage. Bob had become bored with her ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "36": {
-        "name": "Tom Sawyer",
-        "certificate": "",
-        "runtime": "86 min",
-        "genre": "Adventure, Comedy, Drama",
-        "description": "The classic Mark Twain tale of a young boy and his friends on the Mississippi River. Tom and his pals Huckleberry Finn and Joe Harper have numerous adventures, including running away to be ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "37": {
-        "name": "Paid",
-        "certificate": "",
-        "runtime": "86 min",
-        "genre": "Drama, Film-Noir",
-        "description": "Mary Turner goes up for three years on a crime she didn't commit. Once out she and former prison mates plan a scam in which old men can be sued for breach of promise - the \"heart balm\" ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "38": {
-        "name": "The Florodora Girl",
-        "certificate": "",
-        "runtime": "79 min",
-        "genre": "Drama, Musical, Romance",
-        "description": "The married friends of a New York chorus girl encourage her to pursue a handsome but poor socialite.",
-        "director": "",
-        "stars": []
-    },
-    "39": {
-        "name": "Elstree Calling",
-        "certificate": "",
-        "runtime": "86 min",
-        "genre": "Comedy, Musical",
-        "description": "A series of nineteen musical and comedy \"vaudeville\" sketches presented in the form of a live broadcast hosted by Tommy Handley (as himself). There are two \"running gags\" which connect the ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "40": {
         "name": "Paramount on Parade",
         "certificate": "",
         "runtime": "102 min",
@@ -359,16 +314,34 @@
         "director": "",
         "stars": []
     },
-    "41": {
-        "name": "Feet First",
+    "36": {
+        "name": "Sous les toits de Paris",
         "certificate": "",
-        "runtime": "93 min",
-        "genre": "Comedy",
-        "description": "An ambitious shoe salesman unknowingly meets his boss' daughter and tells her he is a leather tycoon, then has to try to hide his true circumstances.",
+        "runtime": "96 min",
+        "genre": "Comedy, Drama, Musical",
+        "description": "Albert is smitten for Pola but ends up wrongly committed in jail, in the meantime her affections are sought after by his friend, and on his release both love and friendship must be tested.",
         "director": "",
         "stars": []
     },
-    "42": {
+    "37": {
+        "name": "Soup to Nuts",
+        "certificate": "",
+        "runtime": "70 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "Mr. Schmidt's costume store is bankrupt because he spends his time on Rube Goldberg-style inventions; the creditors send a young manager who falls for Schmidt's niece Louise, but she'll ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "Safety in Numbers",
+        "certificate": "",
+        "runtime": "80 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "A songwriter hires three chorus girls to show him the \"underside\" of big-city life.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
         "name": "Romance",
         "certificate": "",
         "runtime": "76 min",
@@ -377,21 +350,48 @@
         "director": "",
         "stars": []
     },
-    "43": {
-        "name": "Sin Takes a Holiday",
+    "40": {
+        "name": "The Dawn Patrol",
         "certificate": "",
-        "runtime": "81 min",
-        "genre": "Comedy, Romance",
-        "description": "Dowdy Sylvia accepts her boss' marriage proposal, even though he only asked her to avoid marriage to another woman. As a wealthy wife, Sylvia changes from ugly duckling to uninhibited swan ...                See full summary\u00a0\u00bb",
+        "runtime": "108 min",
+        "genre": "Action, Drama, War",
+        "description": "World War I ace Dick Courtney derides the leadership of his superior officer, but Courtney is soon promoted to squadron commander and learns harsh lessons about sending subordinates to their deaths.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "The Texan",
+        "certificate": "",
+        "runtime": "79 min",
+        "genre": "Western",
+        "description": "An outlaw, the Llano Kid is the scourge of south Texas and a Bible quoting lawman named Thacker. The kid joins a con man in a plot to deceive a wealthy old woman that he's her long-lost son...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "Doughboys",
+        "certificate": "",
+        "runtime": "79 min",
+        "genre": "Comedy, War",
+        "description": "A naive and wealthy young man seeks to impress a girl and then unwittingly signs up for army service.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "Moby Dick",
+        "certificate": "",
+        "runtime": "80 min",
+        "genre": "Adventure, Drama",
+        "description": "In this extremely loose adaptation of Melville's classic novel, Ahab is revealed initially not as a bitter and vengeful madman, but as a bit of a lovable scamp. Ashore in New Bedford, he ...                See full summary\u00a0\u00bb",
         "director": "",
         "stars": []
     },
     "44": {
-        "name": "Framed",
+        "name": "Sinners' Holiday",
         "certificate": "",
-        "runtime": "65 min",
-        "genre": "Crime, Drama",
-        "description": "Woman swears revenge against an Inspector who was responsible for her father's death.",
+        "runtime": "60 min",
+        "genre": "Crime, Romance",
+        "description": "Ma Delano (La Verne) runs a boardwalk penny arcade, living upstairs with her sons (Cagney and Gallagher) and daughter (Knapp). Story involves rum running, accidental murder and a frame-up.",
         "director": "",
         "stars": []
     },
@@ -405,47 +405,47 @@
         "stars": []
     },
     "46": {
-        "name": "Billy the Kid",
+        "name": "Sin Takes a Holiday",
         "certificate": "",
-        "runtime": "98 min",
-        "genre": "Biography, Drama, Western",
-        "description": "In this version of the Billy the Kid legend, Billy, after shooting down land baron William Donovan's henchmen for killing Billy's boss, is hunted down and captured by his friend, Sheriff ...                See full summary\u00a0\u00bb",
+        "runtime": "81 min",
+        "genre": "Comedy, Romance",
+        "description": "Dowdy Sylvia accepts her boss' marriage proposal, even though he only asked her to avoid marriage to another woman. As a wealthy wife, Sylvia changes from ugly duckling to uninhibited swan ...                See full summary\u00a0\u00bb",
         "director": "",
         "stars": []
     },
     "47": {
-        "name": "The Texan",
+        "name": "Paid",
         "certificate": "",
-        "runtime": "79 min",
-        "genre": "Western",
-        "description": "An outlaw, the Llano Kid is the scourge of south Texas and a Bible quoting lawman named Thacker. The kid joins a con man in a plot to deceive a wealthy old woman that he's her long-lost son...                See full summary\u00a0\u00bb",
+        "runtime": "86 min",
+        "genre": "Drama, Film-Noir",
+        "description": "Mary Turner goes up for three years on a crime she didn't commit. Once out she and former prison mates plan a scam in which old men can be sued for breach of promise - the \"heart balm\" ...                See full summary\u00a0\u00bb",
         "director": "",
         "stars": []
     },
     "48": {
-        "name": "Our Blushing Brides",
+        "name": "Anybody's Woman",
         "certificate": "",
-        "runtime": "102 min",
+        "runtime": "80 min",
         "genre": "Drama",
-        "description": "Three department store girls--Connie, Franky, and Jerry--share an apartment on West 91st Street in New York City. Each earns little more than 20 dollars per week. Jerry is the sensible one,...                See full summary\u00a0\u00bb",
+        "description": "A man, left by his wife, gets drunk and marries a chorus girl.",
         "director": "",
         "stars": []
     },
     "49": {
-        "name": "Alraune",
+        "name": "The Naughty Flirt",
         "certificate": "",
-        "runtime": "103 min",
-        "genre": "Sci-Fi",
-        "description": "A scientist, Professor Jakob ten Brinken, interested in the laws of heredity, impregnates a prostitute in a laboratory with the semen of a hanged murderer. The prostitute conceives a female...                See full summary\u00a0\u00bb",
+        "runtime": "56 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Rich party girl sets her eyes on a young attorney.",
         "director": "",
         "stars": []
     },
     "50": {
-        "name": "Laughter",
+        "name": "The Lady of Scandal",
         "certificate": "",
-        "runtime": "85 min",
-        "genre": "Comedy, Romance",
-        "description": "A former chorus girl weds a millionaire after the composer she loves leaves. Meanwhile, she strings along an artist in love with her. When the composer returns, she struggles with her needs for security vs love. High jinks and drama ensue.",
+        "runtime": "76 min",
+        "genre": "Romance, Comedy, Drama",
+        "description": "A famous British actress gets involved with two members of a reserved British noble family, whose plan to get rid of her backfires.",
         "director": "",
         "stars": []
     }

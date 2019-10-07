@@ -1,23 +1,14 @@
 {
     "1": {
-        "name": "Rebecca",
+        "name": "His Girl Friday",
         "certificate": "",
-        "runtime": "130 min",
-        "genre": "Drama, Mystery, Romance",
-        "description": "A self-conscious bride is tormented by the memory of her husband's dead first wife.",
+        "runtime": "92 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A newspaper editor uses every trick in the book to keep his ace reporter ex-wife from remarrying.",
         "director": "",
         "stars": []
     },
     "2": {
-        "name": "Pinocchio",
-        "certificate": "G",
-        "runtime": "88 min",
-        "genre": "Animation, Comedy, Family",
-        "description": "A living puppet, with the help of a cricket as his conscience, must prove himself worthy to become a real boy.",
-        "director": "",
-        "stars": []
-    },
-    "3": {
         "name": "The Great Dictator",
         "certificate": "",
         "runtime": "125 min",
@@ -26,21 +17,30 @@
         "director": "",
         "stars": []
     },
-    "4": {
-        "name": "The Grapes of Wrath",
+    "3": {
+        "name": "Rebecca",
         "certificate": "",
-        "runtime": "129 min",
-        "genre": "Drama, History",
-        "description": "A poor Midwest family is forced off their land. They travel to California, suffering the misfortunes of the homeless in the Great Depression.",
+        "runtime": "130 min",
+        "genre": "Drama, Mystery, Romance",
+        "description": "A self-conscious woman juggles adjusting to her new role as an aristocrat's wife and avoiding being intimidated by his first wife's spectral presence.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "Pinocchio",
+        "certificate": "G",
+        "runtime": "88 min",
+        "genre": "Animation, Comedy, Family",
+        "description": "A living puppet, with the help of a cricket as his conscience, must prove himself worthy to become a real boy.",
         "director": "",
         "stars": []
     },
     "5": {
-        "name": "The Shop Around the Corner",
+        "name": "Fantasia",
         "certificate": "",
-        "runtime": "99 min",
-        "genre": "Comedy, Drama, Romance",
-        "description": "Two employees at a gift shop can barely stand each other, without realizing that they are falling in love through the post as each other's anonymous pen pal.",
+        "runtime": "125 min",
+        "genre": "Animation, Family, Fantasy",
+        "description": "A collection of animated interpretations of great works of Western classical music.",
         "director": "",
         "stars": []
     },
@@ -54,42 +54,15 @@
         "stars": []
     },
     "7": {
-        "name": "Fantasia",
+        "name": "The Grapes of Wrath",
         "certificate": "",
-        "runtime": "125 min",
-        "genre": "Animation, Family, Fantasy",
-        "description": "A collection of animated interpretations of great works of Western classical music.",
+        "runtime": "129 min",
+        "genre": "Drama, History",
+        "description": "A poor Midwest family is forced off their land. They travel to California, suffering the misfortunes of the homeless in the Great Depression.",
         "director": "",
         "stars": []
     },
     "8": {
-        "name": "Brother Orchid",
-        "certificate": "",
-        "runtime": "88 min",
-        "genre": "Comedy, Crime, Drama",
-        "description": "When retired racket boss John Sarto tries to reclaim his place and former friends try to kill him, he finds solace in a monastery and reinvents himself as a pious monk.",
-        "director": "",
-        "stars": []
-    },
-    "9": {
-        "name": "The Blue Bird",
-        "certificate": "",
-        "runtime": "88 min",
-        "genre": "Drama, Family, Fantasy",
-        "description": "Mytyl and her brother Tyltyl, a woodchopper's children, are led by the Fairy Berylune on a magical trip through the past, present, and future to locate the Blue Bird of Happiness.",
-        "director": "",
-        "stars": []
-    },
-    "10": {
-        "name": "His Girl Friday",
-        "certificate": "",
-        "runtime": "92 min",
-        "genre": "Comedy, Drama, Romance",
-        "description": "A newspaper editor uses every trick in the book to keep his ace reporter ex-wife from remarrying.",
-        "director": "",
-        "stars": []
-    },
-    "11": {
         "name": "The Thief of Bagdad",
         "certificate": "",
         "runtime": "106 min",
@@ -98,16 +71,7 @@
         "director": "",
         "stars": []
     },
-    "12": {
-        "name": "They Drive by Night",
-        "certificate": "",
-        "runtime": "95 min",
-        "genre": "Crime, Drama, Film-Noir",
-        "description": "When one of 2 truck driving brothers loses an arm, they both join a transport company where later, the other is falsely charged as an accessory in the murder of the owner.",
-        "director": "",
-        "stars": []
-    },
-    "13": {
+    "9": {
         "name": "The Letter",
         "certificate": "",
         "runtime": "95 min",
@@ -116,79 +80,7 @@
         "director": "",
         "stars": []
     },
-    "14": {
-        "name": "The Mark of Zorro",
-        "certificate": "",
-        "runtime": "94 min",
-        "genre": "Action, Adventure, Romance",
-        "description": "A young aristocrat must masquerade as a fop in order to maintain his secret identity of Zorro as he restores justice to early California.",
-        "director": "",
-        "stars": []
-    },
-    "15": {
-        "name": "Pride and Prejudice",
-        "certificate": "",
-        "runtime": "118 min",
-        "genre": "Drama, Romance",
-        "description": "Mr. and Mrs. Bennet have five unmarried daughters, and Mrs. Bennet is especially eager to find suitable husbands for them. When the rich single gentlemen Mr. Bingley and Mr. Darcy come to ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "16": {
-        "name": "The Westerner",
-        "certificate": "",
-        "runtime": "100 min",
-        "genre": "Drama, Romance, Western",
-        "description": "Judge Roy Bean, a self-appointed hanging judge in Vinegarroon, Texas, befriends saddle tramp Cole Harden, who opposes Bean's policy against homesteaders.",
-        "director": "",
-        "stars": []
-    },
-    "17": {
-        "name": "Foreign Correspondent",
-        "certificate": "",
-        "runtime": "120 min",
-        "genre": "Action, Romance, Thriller",
-        "description": "On the eve of World War II, a young American reporter tries to expose enemy agents in London.",
-        "director": "",
-        "stars": []
-    },
-    "18": {
-        "name": "Waterloo Bridge",
-        "certificate": "",
-        "runtime": "108 min",
-        "genre": "Drama, Romance, War",
-        "description": "During World War I, believing her fiance to be dead, a young ballerina loses her job and is forced to turn to prostitution. From there, things only get worse for her in this tragic, heart-wrenching, love story.",
-        "director": "",
-        "stars": []
-    },
-    "19": {
-        "name": "Santa Fe Trail",
-        "certificate": "",
-        "runtime": "110 min",
-        "genre": "Adventure, Biography, Drama",
-        "description": "In 1854, Jeb Stuart, George Custer and other graduates from West Point are posted to Kansas to help pacify the territory before railroad construction to Santa Fe can resume.",
-        "director": "",
-        "stars": []
-    },
-    "20": {
-        "name": "One Million B.C.",
-        "certificate": "",
-        "runtime": "80 min",
-        "genre": "Adventure, Fantasy, Romance",
-        "description": "Tale of Prehistoric survival and love between a male and a female belonging to opposing tribes that happened to be at slightly different stages of evolution.",
-        "director": "",
-        "stars": []
-    },
-    "21": {
-        "name": "My Favorite Wife",
-        "certificate": "",
-        "runtime": "88 min",
-        "genre": "Comedy, Romance",
-        "description": "Missing for seven years and presumed dead, a woman returns home on the day of her husband's second marriage.",
-        "director": "",
-        "stars": []
-    },
-    "22": {
+    "10": {
         "name": "The Return of Frank James",
         "certificate": "",
         "runtime": "92 min",
@@ -197,133 +89,88 @@
         "director": "",
         "stars": []
     },
-    "23": {
-        "name": "Gaslight",
+    "11": {
+        "name": "Waterloo Bridge",
         "certificate": "",
-        "runtime": "84 min",
-        "genre": "Thriller",
-        "description": "Twenty years after the murder of Alice Barlow, her house is finally occupied again. However, the husband of the couple who have moved in has a secret which he will do anything to keep hidden.",
+        "runtime": "108 min",
+        "genre": "Drama, Romance, War",
+        "description": "During World War I, believing her fiance to be dead, a young ballerina loses her job and is forced to turn to prostitution.",
         "director": "",
         "stars": []
     },
-    "24": {
-        "name": "Virginia City",
+    "12": {
+        "name": "The Shop Around the Corner",
         "certificate": "",
-        "runtime": "121 min",
-        "genre": "Action, Drama, History",
-        "description": "Union officer Kerry Bradford escapes from Confederate Prison and is set to Virginia City in Nevada. Once there he finds that the former commander of his prison Vance Irby is planning to send $5 million in gold to save the Confederacy.",
+        "runtime": "99 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Two employees at a gift shop can barely stand each other, without realizing that they are falling in love through the post as each other's anonymous pen pal.",
         "director": "",
         "stars": []
     },
-    "25": {
-        "name": "Night Train to Munich",
+    "13": {
+        "name": "The Mark of Zorro",
         "certificate": "",
-        "runtime": "95 min",
-        "genre": "Thriller, War",
-        "description": "When Germany invades Czechoslovakia, the German and the British intelligence services try to capture Czech scientist Axel Bomasch, inventor of a new type of armor-plating.",
+        "runtime": "94 min",
+        "genre": "Action, Adventure, Romance",
+        "description": "A young Spanish aristocrat must masquerade as a fop in order to maintain his secret identity of Zorro as he restores justice to early California.",
         "director": "",
         "stars": []
     },
-    "26": {
-        "name": "Saps at Sea",
+    "14": {
+        "name": "Foreign Correspondent",
         "certificate": "",
-        "runtime": "57 min",
-        "genre": "Comedy",
-        "description": "Oliver suffers a nervous breakdown as a result of working in a horn factory, but when he follows doctor's orders about sea air, he finds an ex-con is aboard.",
+        "runtime": "120 min",
+        "genre": "Action, Romance, Thriller",
+        "description": "On the eve of World War II, a young American reporter tries to expose enemy agents in London.",
         "director": "",
         "stars": []
     },
-    "27": {
-        "name": "Flash Gordon Conquers the Universe",
+    "15": {
+        "name": "The Earl of Chicago",
         "certificate": "",
-        "runtime": "220 min",
-        "genre": "Action, Sci-Fi, Adventure",
-        "description": "Flash Gordon, Dale Arden and Dr. Zarkov return to the planet Mongo for an antidote to the Purple Death, which wreaking destruction on Earth. However, Ming the Merciless has other plans for them.",
+        "runtime": "87 min",
+        "genre": "Drama",
+        "description": "Silky has always moved booze. In prohibition, he smuggled it from Canada, but now that it is legal, he produces his own brand. Seven years before, he sent Doc to prison because Doc was an ...                See full summary\u00a0\u00bb",
         "director": "",
         "stars": []
     },
-    "28": {
-        "name": "The Long Voyage Home",
+    "16": {
+        "name": "Texas Rangers Ride Again",
         "certificate": "",
-        "runtime": "105 min",
-        "genre": "Drama, War",
-        "description": "In 1940, the motley crew of the British tramp steamer SS Glencairn prepares the ship for its perilous voyage from the West Indies to Baltimore and then to England.",
+        "runtime": "68 min",
+        "genre": "Action, Drama, Romance",
+        "description": "With thousands of cattle being rustled from White Sage ranch the 1930's Texas Rangers are called in. They manage to get one of their agents into the gang by making them think he is the Pecos Kid on the lam.",
         "director": "",
         "stars": []
     },
-    "29": {
-        "name": "Our Town",
-        "certificate": "",
-        "runtime": "90 min",
-        "genre": "Drama, Romance",
-        "description": "Change comes slowly to a small New Hampshire town in the early 20th century. People grow up, get married, live, and die. Milk and the newspaper get delivered every morning, and nobody locks...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "30": {
-        "name": "The Green Hornet",
-        "certificate": "",
-        "runtime": "258 min",
-        "genre": "Adventure, Crime, Drama",
-        "description": "A newspaper publisher and his Korean servant fight crime as vigilantes who pose as a notorious masked gangster and his aide.",
-        "director": "",
-        "stars": []
-    },
-    "31": {
-        "name": "My Little Chickadee",
-        "certificate": "",
-        "runtime": "83 min",
-        "genre": "Comedy, Western",
-        "description": "Rightly suspected of illicit relations with the Masked Bandit, Flower Belle Lee is run out of Little Bend. On the train she meets con man Cuthbert J. Twillie and pretends to marry him for \"...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "32": {
-        "name": "The Sea Hawk",
-        "certificate": "",
-        "runtime": "127 min",
-        "genre": "Action, Adventure, History",
-        "description": "Geoffrey Thorpe, a buccaneer, is hired by Queen Elizabeth I to nag the Spanish Armada. The Armada is waiting for the attack on England and Thorpe surprises them with attacks on their galleons where he shows his skills on the sword.",
-        "director": "",
-        "stars": []
-    },
-    "33": {
-        "name": "Dance, Girl, Dance",
-        "certificate": "",
-        "runtime": "90 min",
-        "genre": "Comedy, Drama, Musical",
-        "description": "Judy O'Brien is an aspiring ballerina in a dance troupe. Also in the company is Bubbles, a brash mantrap who leaves the struggling troupe for a career in burlesque. When the company ...                See full summary\u00a0\u00bb",
-        "director": "",
-        "stars": []
-    },
-    "34": {
-        "name": "The Mortal Storm",
+    "17": {
+        "name": "The Westerner",
         "certificate": "",
         "runtime": "100 min",
-        "genre": "Drama",
-        "description": "The Roth family leads a quiet life in a small village in the German Alps during the early 1930s. When the Nazis come to power, the family is divided and Martin Brietner, a family friend is caught up in the turmoil.",
+        "genre": "Drama, Romance, Western",
+        "description": "Judge Roy Bean, a self-appointed hanging judge in Vinegarroon, Texas, befriends saddle tramp Cole Harden, who opposes Bean's policy against homesteaders.",
         "director": "",
         "stars": []
     },
-    "35": {
-        "name": "The Bank Dick",
+    "18": {
+        "name": "Pride and Prejudice",
         "certificate": "",
-        "runtime": "72 min",
-        "genre": "Comedy",
-        "description": "Henpecked Egbert Sous\u00e9 has comic adventures as a substitute film director and unlikely bank guard.",
+        "runtime": "118 min",
+        "genre": "Drama, Romance",
+        "description": "Mr. and Mrs. Bennet have five unmarried daughters, and Mrs. Bennet is especially eager to find suitable husbands for them. When the rich single gentlemen Mr. Bingley and Mr. Darcy come to ...                See full summary\u00a0\u00bb",
         "director": "",
         "stars": []
     },
-    "36": {
-        "name": "'Northwest Passage' (Book I -- Rogers' Rangers)",
+    "19": {
+        "name": "Saloon Bar",
         "certificate": "",
-        "runtime": "126 min",
-        "genre": "Adventure, Drama, History",
-        "description": "Langdon Towne and Hunk Marriner join Major Rogers' Rangers as they wipe out an Indian village. They set out for Fort Wentworth, but when they arrive they find no soldiers and none of the supplies they expected.",
+        "runtime": "76 min",
+        "genre": "Thriller",
+        "description": "Against a background of Christmas and the pending arrival of another baby for the landlord, a group of pub locals lead by bookie Joe Harris set out to prove that former customer Eddie ...                See full summary\u00a0\u00bb",
         "director": "",
         "stars": []
     },
-    "37": {
+    "20": {
         "name": "The Mummy's Hand",
         "certificate": "",
         "runtime": "67 min",
@@ -332,25 +179,70 @@
         "director": "",
         "stars": []
     },
-    "38": {
-        "name": "Remember the Night",
+    "21": {
+        "name": "Gaslight",
         "certificate": "",
-        "runtime": "94 min",
-        "genre": "Comedy, Drama, Romance",
-        "description": "A shoplifter and her prosecutor fall in love, creating tensions for his career and family.",
+        "runtime": "84 min",
+        "genre": "Thriller",
+        "description": "Twenty years after the murder of Alice Barlow, her house is finally occupied again. However, the husband of the couple who have moved in has a secret which he will do anything to keep hidden.",
         "director": "",
         "stars": []
     },
-    "39": {
-        "name": "Road to Singapore",
+    "22": {
+        "name": "Jud S\u00fc\u00df",
+        "certificate": "",
+        "runtime": "98 min",
+        "genre": "Drama",
+        "description": "Infamous anti-Semitic Nazi propaganda historical drama about Duke Karl Alexander of W\u00fcrttemberg and his treasurer S\u00fc\u00df Oppenheimer.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "The Long Voyage Home",
+        "certificate": "",
+        "runtime": "105 min",
+        "genre": "Drama, War",
+        "description": "In 1940, the motley crew of the British tramp steamer SS Glencairn prepares the ship for its perilous voyage from the West Indies to Baltimore and then to England.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "The Ghost Breakers",
         "certificate": "",
         "runtime": "85 min",
-        "genre": "Comedy, Musical, Romance",
-        "description": "Two playboys try to forget previous romances in Singapore - until they meet a beautiful dancer.",
+        "genre": "Comedy, Horror, Mystery",
+        "description": "A radio broadcaster, his quaking manservant and an heiress investigate the mystery of a haunted castle in Cuba.",
         "director": "",
         "stars": []
     },
-    "40": {
+    "25": {
+        "name": "Santa Fe Trail",
+        "certificate": "",
+        "runtime": "110 min",
+        "genre": "Adventure, Biography, Drama",
+        "description": "In 1854, Jeb Stuart, George Custer and other graduates from West Point are posted to Kansas to help pacify the territory before railroad construction to Santa Fe can resume.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "'Northwest Passage' (Book I -- Rogers' Rangers)",
+        "certificate": "",
+        "runtime": "126 min",
+        "genre": "Adventure, Drama, History",
+        "description": "Langdon Towne and Hunk Marriner join Major Rogers' Rangers as they wipe out an Indian village. They set out for Fort Wentworth, but when they arrive they find no soldiers and none of the supplies they expected.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "The Invisible Man Returns",
+        "certificate": "",
+        "runtime": "81 min",
+        "genre": "Drama, Horror, Mystery",
+        "description": "The owner of a coal mining operation, falsely imprisoned for fratricide, takes a drug to make him invisible, despite its side effect: gradual madness.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
         "name": "The Invisible Woman",
         "certificate": "",
         "runtime": "72 min",
@@ -359,12 +251,120 @@
         "director": "",
         "stars": []
     },
-    "41": {
-        "name": "The Invisible Man Returns",
+    "29": {
+        "name": "They Drive by Night",
         "certificate": "",
-        "runtime": "81 min",
-        "genre": "Drama, Horror, Mystery",
-        "description": "The owner of a coal mining operation, falsely imprisoned for fratricide, takes a drug to make him invisible, despite its side effect: gradual madness.",
+        "runtime": "95 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "When one of 2 truck driving brothers loses an arm, they both join a transport company where later, the other is falsely charged as an accessory in the murder of the owner.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "Our Town",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Drama, Romance",
+        "description": "Change comes slowly to a small New Hampshire town in the early 20th century.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "My Favorite Wife",
+        "certificate": "",
+        "runtime": "88 min",
+        "genre": "Comedy, Romance",
+        "description": "Missing for seven years and presumed dead, a woman returns home on the day of her husband's second marriage.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "Night Train to Munich",
+        "certificate": "",
+        "runtime": "95 min",
+        "genre": "Thriller, War",
+        "description": "When Germany invades Czechoslovakia, the German and the British intelligence services try to capture Czech scientist Dr. Axel Bomasch (James Harcourt), inventor of a new type of armor-plating.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "The Blue Bird",
+        "certificate": "",
+        "runtime": "88 min",
+        "genre": "Adventure, Comedy, Family",
+        "description": "Mytyl and her brother Tyltyl, a woodchopper's children, are led by the Fairy Berylune on a magical trip through the past, present, and future to locate the Blue Bird of Happiness.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "Knute Rockne All American",
+        "certificate": "",
+        "runtime": "98 min",
+        "genre": "Biography, Drama, Sport",
+        "description": "The story of legendary Notre Dame football player and coach Knute Rockne.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "The Mortal Storm",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Drama",
+        "description": "The Roth family leads a quiet life in a small village in the German Alps during the early 1930s. When the Nazis come to power, the family is divided and Martin Brietner, a family friend is caught up in the turmoil.",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "Saps at Sea",
+        "certificate": "",
+        "runtime": "56 min",
+        "genre": "Comedy",
+        "description": "Oliver suffers a nervous breakdown as a result of working in a horn factory, but when he follows doctor's orders about sea air, he finds an ex-con is aboard.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "Snurriga familjen",
+        "certificate": "",
+        "runtime": "106 min",
+        "genre": "Comedy",
+        "description": "The Bloom family is considered by most as totally dizzy. They have plenty of money and freedom. But grim times arrives, when both parents and children must prove that they can support themselves on honest work.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "Black Friday",
+        "certificate": "",
+        "runtime": "70 min",
+        "genre": "Crime, Drama, Horror",
+        "description": "Dr. Sovac transplants the brain of a gangster into his professor friend's body to save his life, but there is a side effect that causes a dangerous split personality.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "Strange Cargo",
+        "certificate": "",
+        "runtime": "113 min",
+        "genre": "Adventure, Drama, Romance",
+        "description": "Convicts escaping from Devil's Island come under the influence of a strange Christ-like figure.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Stranger on the Third Floor",
+        "certificate": "",
+        "runtime": "64 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "An aspiring reporter is the key witness at the murder trial of a young man accused of cutting a caf\u00e9 owner's throat and is soon accused of a similar crime himself.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "The Sea Hawk",
+        "certificate": "",
+        "runtime": "127 min",
+        "genre": "Action, Adventure, History",
+        "description": "Geoffrey Thorpe, a buccaneer, is hired by Queen Elizabeth I to nag the Spanish Armada. The Armada is waiting for the attack on England and Thorpe surprises them with attacks on their galleons where he shows his skills on the sword.",
         "director": "",
         "stars": []
     },
@@ -378,74 +378,74 @@
         "stars": []
     },
     "43": {
-        "name": "Jud S\u00fc\u00df",
+        "name": "Dark Command",
         "certificate": "",
-        "runtime": "98 min",
-        "genre": "Drama",
-        "description": "Infamous anti-Semitic Nazi propaganda historical drama about Duke Karl Alexander of W\u00fcrttemberg and his treasurer S\u00fc\u00df Oppenheimer.",
+        "runtime": "94 min",
+        "genre": "Drama, Romance, Western",
+        "description": "In Kansas, during the Civil War opposing pro-Union and pro-Confederate camps clash and visiting Texan Bob Seton runs afoul of William Cantrell's Raiders.",
         "director": "",
         "stars": []
     },
     "44": {
+        "name": "Virginia City",
+        "certificate": "",
+        "runtime": "121 min",
+        "genre": "Action, Drama, History",
+        "description": "Union officer Kerry Bradford escapes from Confederate Prison and is set to Virginia City in Nevada. Once there he finds that the former commander of his prison Vance Irby is planning to send $5 million in gold to save the Confederacy.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "The Devil Bat",
+        "certificate": "",
+        "runtime": "68 min",
+        "genre": "Horror, Sci-Fi",
+        "description": "A mad scientist develops an aftershave lotion that causes his gigantic bats to kill anyone who wears it.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Juninatten",
+        "certificate": "",
+        "runtime": "88 min",
+        "genre": "Drama",
+        "description": "Young Kerstin Norb\u00e4ck lives in a small town. She has a relationship with a sailor, but when she tries to leave him, he shoots her. She survives and begins a new life in Stockholm. There she...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "The Great McGinty",
+        "certificate": "",
+        "runtime": "82 min",
+        "genre": "Comedy",
+        "description": "Dan McGinty has great success in his chosen field of crooked politics, but he endangers it all in one crazy moment of honesty.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "Remember the Night",
+        "certificate": "",
+        "runtime": "94 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A shoplifter and her prosecutor fall in love, creating tensions for his career and family.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "Little Nellie Kelly",
+        "certificate": "",
+        "runtime": "98 min",
+        "genre": "Comedy, Family, Musical",
+        "description": "Irish colleen Nellie is in love with handsome Jerry Kelly, even though her father objects. Nellie and Jerry soon marry and announce plans to move to New York, which again angers Nellie's ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "50": {
         "name": "North West Mounted Police",
         "certificate": "",
         "runtime": "126 min",
         "genre": "Action, Adventure, Drama",
         "description": "In 1885, a Texas Ranger travels to Canada to arrest a trapper who's wanted for murder and who's stirring up the Natives in a rebellion against the Canadian government.",
-        "director": "",
-        "stars": []
-    },
-    "45": {
-        "name": "Angels Over Broadway",
-        "certificate": "",
-        "runtime": "79 min",
-        "genre": "Adventure, Comedy, Crime",
-        "description": "A cuckolded embezzler on the verge of suicide is helped by a tout, an alcoholic playwright, and a pick-up girl to reimburse the money with a gambling sting.",
-        "director": "",
-        "stars": []
-    },
-    "46": {
-        "name": "The Ghost Breakers",
-        "certificate": "",
-        "runtime": "85 min",
-        "genre": "Comedy, Horror, Mystery",
-        "description": "A radio broadcaster, his quaking manservant and an heiress investigate the mystery of a haunted castle in Cuba.",
-        "director": "",
-        "stars": []
-    },
-    "47": {
-        "name": "Boom Town",
-        "certificate": "",
-        "runtime": "119 min",
-        "genre": "Adventure, Drama, Romance",
-        "description": "Two buddies who rise from fly-by-night wildcatters to oil tycoons over a twenty year period both love the same woman.",
-        "director": "",
-        "stars": []
-    },
-    "48": {
-        "name": "All This, and Heaven Too",
-        "certificate": "",
-        "runtime": "141 min",
-        "genre": "Drama, Romance",
-        "description": "A duchess' irrational behavior toward the governess of her children triggers tragic events that will change her family's lives forever.",
-        "director": "",
-        "stars": []
-    },
-    "49": {
-        "name": "Turnabout",
-        "certificate": "",
-        "runtime": "83 min",
-        "genre": "Comedy, Fantasy",
-        "description": "Bickering husband and wife Tim and Sally Willows mutter a few angry words to a statue of Buddha and wind up living each other's life.",
-        "director": "",
-        "stars": []
-    },
-    "50": {
-        "name": "Abe Lincoln in Illinois",
-        "certificate": "",
-        "runtime": "110 min",
-        "genre": "Biography, Drama, History",
-        "description": "Humble Abraham Lincoln gains the respect of his Illinois neighbors, growing in stature and respect until he is elected President in 1860 and departs for Washington.",
         "director": "",
         "stars": []
     }
