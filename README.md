@@ -5,7 +5,7 @@ This script is used to scrape the list of Top 50 movies from year your choice  t
 ## Dependencies
 1. Python
 2. BeautifulSoup
-3. request
+3. requests
 
 ## Execution
 ``` python IMDB_Top50_Scraper.py ```
