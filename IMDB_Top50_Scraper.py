@@ -3,6 +3,7 @@ import sys
 from bs4 import BeautifulSoup
 from tqdm import tqdm
 import datetime
+import request
 current_year = int(datetime.datetime.now().year)
 for year in tqdm(range(1898, current_year+1)):
     sys.stdout = open('DataSets//IMDB_Top_50_' + str(year) + '.txt', 'w')
