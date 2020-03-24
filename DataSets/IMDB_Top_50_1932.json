@@ -1,0 +1,807 @@
+{
+    "1": {
+        "name": "Strange Interlude",
+        "certificate": "Passed",
+        "runtime": "109 min",
+        "genre": "Drama",
+        "description": "After Nina Leeds finds out that insanity runs in her husband's family, she has a love child with a handsome doctor and lets her husband believes the child is his.",
+        "director": "Robert Z. Leonard",
+        "stars": [
+            "Norma Shearer",
+            "Clark Gable",
+            "Alexander Kirkland",
+            "Ralph Morgan"
+        ],
+        "votes": "560",
+        "gross": ""
+    },
+    "2": {
+        "name": "One Way Passage",
+        "certificate": "Unrated",
+        "runtime": "67 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A terminally ill woman and a debonair murderer facing execution meet and fall in love on a trans-Pacific crossing, each without knowing the other's secret.",
+        "director": "Tay Garnett",
+        "stars": [
+            "William Powell",
+            "Kay Francis",
+            "Frank McHugh",
+            "Aline MacMahon"
+        ],
+        "votes": "2,995",
+        "gross": ""
+    },
+    "3": {
+        "name": "Red Dust",
+        "certificate": "Passed",
+        "runtime": "83 min",
+        "genre": "Drama, Romance",
+        "description": "The owner of a rubber plantation becomes involved with the new wife of one of his employees.",
+        "director": "Victor Fleming",
+        "stars": [
+            "Clark Gable",
+            "Jean Harlow",
+            "Gene Raymond",
+            "Mary Astor"
+        ],
+        "votes": "3,351",
+        "gross": ""
+    },
+    "4": {
+        "name": "Freaks",
+        "certificate": "Not Rated",
+        "runtime": "64 min",
+        "genre": "Drama, Horror",
+        "description": "A circus' beautiful trapeze artist agrees to marry the leader of side-show performers, but his deformed friends discover she is only marrying him for his inheritance.",
+        "director": "Tod Browning",
+        "stars": [
+            "Wallace Ford",
+            "Leila Hyams",
+            "Olga Baclanova",
+            "Roscoe Ates"
+        ],
+        "votes": "37,986",
+        "gross": ""
+    },
+    "5": {
+        "name": "Scarface",
+        "certificate": "PG",
+        "runtime": "93 min",
+        "genre": "Action, Crime, Drama",
+        "description": "An ambitious and nearly insane violent gangster climbs the ladder of success in the mob, but his weaknesses prove to be his downfall.",
+        "director": "Howard Hawks",
+        "stars": [
+            "Richard Rosson",
+            "Paul Muni",
+            "Ann Dvorak",
+            "Karen Morley",
+            "Osgood Perkins"
+        ],
+        "votes": "22,764",
+        "gross": ""
+    },
+    "6": {
+        "name": "Jewel Robbery",
+        "certificate": "Passed",
+        "runtime": "68 min",
+        "genre": "Comedy, Crime, Romance",
+        "description": "A gentleman thief charms a Viennese baron's wife and also conducts a daring daylight robbery of a jewellers.",
+        "director": "William Dieterle",
+        "stars": [
+            "William Powell",
+            "Kay Francis",
+            "Helen Vinson",
+            "Hardie Albright"
+        ],
+        "votes": "1,512",
+        "gross": ""
+    },
+    "7": {
+        "name": "Penguin Pool Murder",
+        "certificate": "Passed",
+        "runtime": "70 min",
+        "genre": "Comedy, Drama, Mystery",
+        "description": "Shady stockbroker and abusive husband Gerald Parker is found dead in the penguin pool of a NYC aquarium after being knocked cold by his wife's boyfriend.",
+        "director": "George Archainbaud",
+        "stars": [
+            "Edna May Oliver",
+            "Robert Armstrong",
+            "James Gleason",
+            "Mae Clarke"
+        ],
+        "votes": "891",
+        "gross": ""
+    },
+    "8": {
+        "name": "Tarzan the Ape Man",
+        "certificate": "Passed",
+        "runtime": "100 min",
+        "genre": "Action, Adventure, Romance",
+        "description": "A trader and his daughter set off in search of the fabled graveyard of the elephants in deepest Africa, only to encounter a wild man raised by apes.",
+        "director": "W.S. Van Dyke",
+        "stars": [
+            "Johnny Weissmuller",
+            "Neil Hamilton",
+            "C. Aubrey Smith",
+            "Maureen O'Sullivan"
+        ],
+        "votes": "6,413",
+        "gross": ""
+    },
+    "9": {
+        "name": "Grand Hotel",
+        "certificate": "Not Rated",
+        "runtime": "112 min",
+        "genre": "Drama, Romance",
+        "description": "A group of very different individuals staying at a luxurious hotel in Berlin deal with each of their respective dramas.",
+        "director": "Edmund Goulding",
+        "stars": [
+            "Greta Garbo",
+            "John Barrymore",
+            "Joan Crawford",
+            "Wallace Beery"
+        ],
+        "votes": "15,558",
+        "gross": "$1.24M"
+    },
+    "10": {
+        "name": "The Mummy",
+        "certificate": "Approved",
+        "runtime": "73 min",
+        "genre": "Fantasy, Horror",
+        "description": "A resurrected Egyptian mummy stalks a beautiful woman he believes to be the reincarnation of his lover and bride.",
+        "director": "Karl Freund",
+        "stars": [
+            "Boris Karloff",
+            "Zita Johann",
+            "David Manners",
+            "Arthur Byron"
+        ],
+        "votes": "20,469",
+        "gross": ""
+    },
+    "11": {
+        "name": "Ghost Valley",
+        "certificate": "Passed",
+        "runtime": "54 min",
+        "genre": "Romance, Western",
+        "description": "Jerry Long and Jane Worth are heirs to an abandoned mining town. Judge Drake knows there is gold there and wants them to sell. He plans to scare Jane and has hired Jerry, not knowing his ...                See full summary\u00a0\u00bb",
+        "director": "Fred Allen",
+        "stars": [
+            "Tom Keene",
+            "Merna Kennedy",
+            "Kate Campbell",
+            "Mitchell Harris"
+        ],
+        "votes": "73",
+        "gross": ""
+    },
+    "12": {
+        "name": "The Most Dangerous Game",
+        "certificate": "Passed",
+        "runtime": "63 min",
+        "genre": "Action, Adventure, Thriller",
+        "description": "An insane hunter arranges for a ship to be wrecked on an island where he can indulge in some sort of hunting and killing of the passengers.",
+        "director": "Irving Pichel",
+        "stars": [
+            "Ernest B. Schoedsack",
+            "Joel McCrea",
+            "Fay Wray",
+            "Leslie Banks",
+            "Robert Armstrong"
+        ],
+        "votes": "8,938",
+        "gross": "$0.97M"
+    },
+    "13": {
+        "name": "Vampyr",
+        "certificate": "Not Rated",
+        "runtime": "75 min",
+        "genre": "Fantasy, Horror",
+        "description": "A drifter obsessed with the supernatural stumbles upon an inn where a severely ill adolescent girl is slowly becoming a vampire.",
+        "director": "Carl Theodor Dreyer",
+        "stars": [
+            "Julian West",
+            "Maurice Schutz",
+            "Rena Mandel",
+            "Sybille Schmitz"
+        ],
+        "votes": "13,597",
+        "gross": ""
+    },
+    "14": {
+        "name": "Island of Lost Souls",
+        "certificate": "Not Rated",
+        "runtime": "70 min",
+        "genre": "Horror, Sci-Fi",
+        "description": "An obsessed scientist conducts profane experiments in evolution, eventually establishing himself as the self-styled demigod to a race of mutated, half-human abominations.",
+        "director": "Erle C. Kenton",
+        "stars": [
+            "Charles Laughton",
+            "Bela Lugosi",
+            "Richard Arlen",
+            "Leila Hyams"
+        ],
+        "votes": "7,202",
+        "gross": ""
+    },
+    "15": {
+        "name": "The Old Dark House",
+        "certificate": "Not Rated",
+        "runtime": "72 min",
+        "genre": "Comedy, Horror, Thriller",
+        "description": "Seeking shelter from a storm, five travelers are in for a bizarre and terrifying night when they stumble upon the Femm family estate.",
+        "director": "James Whale",
+        "stars": [
+            "Boris Karloff",
+            "Melvyn Douglas",
+            "Charles Laughton",
+            "Gloria Stuart"
+        ],
+        "votes": "7,564",
+        "gross": "$0.03M"
+    },
+    "16": {
+        "name": "White Zombie",
+        "certificate": "Passed",
+        "runtime": "69 min",
+        "genre": "Horror",
+        "description": "A young man turns to a witch doctor to lure the woman he loves away from her fianc\u00e9, but instead turns her into a zombie slave.",
+        "director": "Victor Halperin",
+        "stars": [
+            "Bela Lugosi",
+            "Madge Bellamy",
+            "Joseph Cawthorn",
+            "Robert Frazer"
+        ],
+        "votes": "8,188",
+        "gross": ""
+    },
+    "17": {
+        "name": "The Sign of the Cross",
+        "certificate": "Not Rated",
+        "runtime": "108 min",
+        "genre": "Drama, History",
+        "description": "A Roman soldier becomes torn between his love for a Christian woman and his loyalty to Emperor Nero.",
+        "director": "Cecil B. DeMille",
+        "stars": [
+            "Fredric March",
+            "Claudette Colbert",
+            "Elissa Landi",
+            "Charles Laughton"
+        ],
+        "votes": "1,779",
+        "gross": ""
+    },
+    "18": {
+        "name": "Trouble in Paradise",
+        "certificate": "Not Rated",
+        "runtime": "83 min",
+        "genre": "Comedy, Crime, Romance",
+        "description": "A gentleman thief and a lady pickpocket join forces to con a beautiful perfume company owner. Romantic entanglements and jealousies confuse the scheme.",
+        "director": "Ernst Lubitsch",
+        "stars": [
+            "Miriam Hopkins",
+            "Kay Francis",
+            "Herbert Marshall",
+            "Charles Ruggles"
+        ],
+        "votes": "11,637",
+        "gross": ""
+    },
+    "19": {
+        "name": "A Farewell to Arms",
+        "certificate": "Unrated",
+        "runtime": "80 min",
+        "genre": "Drama, Romance, War",
+        "description": "An American ambulance driver and an English nurse fall in love in Italy during World War I.",
+        "director": "Frank Borzage",
+        "stars": [
+            "Gary Cooper",
+            "Helen Hayes",
+            "Adolphe Menjou",
+            "Mary Philips"
+        ],
+        "votes": "4,366",
+        "gross": ""
+    },
+    "20": {
+        "name": "I Am a Fugitive from a Chain Gang",
+        "certificate": "Passed",
+        "runtime": "92 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "Wrongly convicted James Allen serves in the intolerable conditions of a southern chain gang, which later comes back to haunt him.",
+        "director": "Mervyn LeRoy",
+        "stars": [
+            "Paul Muni",
+            "Glenda Farrell",
+            "Helen Vinson",
+            "Noel Francis"
+        ],
+        "votes": "10,477",
+        "gross": ""
+    },
+    "21": {
+        "name": "Blonde Venus",
+        "certificate": "Not Rated",
+        "runtime": "93 min",
+        "genre": "Drama",
+        "description": "A cabaret singer takes up with a millionaire to pay for her gravely ill husband's operation.",
+        "director": "Josef von Sternberg",
+        "stars": [
+            "Marlene Dietrich",
+            "Cary Grant",
+            "Herbert Marshall",
+            "Dickie Moore"
+        ],
+        "votes": "3,798",
+        "gross": ""
+    },
+    "22": {
+        "name": "Law and Order",
+        "certificate": "TV-PG",
+        "runtime": "75 min",
+        "genre": "Western",
+        "description": "A lawman sets out to tame Tombstone, Arizona.",
+        "director": "Edward L. Cahn",
+        "stars": [
+            "Walter Huston",
+            "Harry Carey",
+            "Raymond Hatton",
+            "Russell Hopton"
+        ],
+        "votes": "219",
+        "gross": ""
+    },
+    "23": {
+        "name": "Call Her Savage",
+        "certificate": "Passed",
+        "runtime": "88 min",
+        "genre": "Drama",
+        "description": "Sexy Texas gal storms her way through life, brawling and boozing until her luck runs out, forcing her to learn the errors of her ways.",
+        "director": "John Francis Dillon",
+        "stars": [
+            "Clara Bow",
+            "Gilbert Roland",
+            "Thelma Todd",
+            "Monroe Owsley"
+        ],
+        "votes": "634",
+        "gross": ""
+    },
+    "24": {
+        "name": "Horse Feathers",
+        "certificate": "Not Rated",
+        "runtime": "68 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "Quincy Adams Wagstaff, the new president of Huxley University, accidentally hires bumblers Baravelli and Pinky to help his school win the big football game against the rival Darwin University.",
+        "director": "Norman Z. McLeod",
+        "stars": [
+            "Groucho Marx",
+            "Chico Marx",
+            "Harpo Marx",
+            "The Marx Brothers"
+        ],
+        "votes": "10,769",
+        "gross": ""
+    },
+    "25": {
+        "name": "The Bitter Tea of General Yen",
+        "certificate": "Approved",
+        "runtime": "88 min",
+        "genre": "Drama, Romance, War",
+        "description": "A Chinese warlord and an engaged Christian missionary fall in love.",
+        "director": "Frank Capra",
+        "stars": [
+            "Barbara Stanwyck",
+            "Nils Asther",
+            "Toshia Mori",
+            "Walter Connolly"
+        ],
+        "votes": "3,104",
+        "gross": ""
+    },
+    "26": {
+        "name": "Red-Headed Woman",
+        "certificate": "Approved",
+        "runtime": "79 min",
+        "genre": "Comedy, Romance",
+        "description": "Lillian relentlessly attempts to seduce a married man.",
+        "director": "Jack Conway",
+        "stars": [
+            "Jean Harlow",
+            "Chester Morris",
+            "Lewis Stone",
+            "Leila Hyams"
+        ],
+        "votes": "2,338",
+        "gross": ""
+    },
+    "27": {
+        "name": "Murders in the Rue Morgue",
+        "certificate": "Passed",
+        "runtime": "61 min",
+        "genre": "Crime, Horror, Mystery",
+        "description": "A mad scientist seeks to mingle human blood with that of an ape, and resorts to kidnapping women for his experiments.",
+        "director": "Robert Florey",
+        "stars": [
+            "Bela Lugosi",
+            "Sidney Fox",
+            "Leon Ames",
+            "Bert Roach"
+        ],
+        "votes": "3,229",
+        "gross": ""
+    },
+    "28": {
+        "name": "Bird of Paradise",
+        "certificate": "Passed",
+        "runtime": "80 min",
+        "genre": "Adventure, Drama, Romance",
+        "description": "A native girl falls for a visitor to her island, but she's chosen to be sacrificed to the volcano god.",
+        "director": "King Vidor",
+        "stars": [
+            "Dolores del Rio",
+            "Joel McCrea",
+            "John Halliday",
+            "Richard 'Skeets' Gallagher"
+        ],
+        "votes": "931",
+        "gross": ""
+    },
+    "29": {
+        "name": "Three on a Match",
+        "certificate": "Passed",
+        "runtime": "63 min",
+        "genre": "Crime, Drama, Romance",
+        "description": "Although Vivian Revere is seemingly the most successful of a trio of reunited schoolmates, she throws it away by descending into a life of debauchery and drugs.",
+        "director": "Mervyn LeRoy",
+        "stars": [
+            "Joan Blondell",
+            "Warren William",
+            "Ann Dvorak",
+            "Bette Davis"
+        ],
+        "votes": "2,841",
+        "gross": ""
+    },
+    "30": {
+        "name": "The Blood of a Poet",
+        "certificate": "Not Rated",
+        "runtime": "55 min",
+        "genre": "Fantasy",
+        "description": "A young artist draws a face at a canvas on his easel. Suddenly the mouth on the drawing comes into life and starts talking. The artist tries to wipe it away with his hand, but when he looks...                See full summary\u00a0\u00bb",
+        "director": "Jean Cocteau",
+        "stars": [
+            "Enrique Rivero",
+            "Elizabeth Lee Miller",
+            "Pauline Carton",
+            "Odette Talazac"
+        ],
+        "votes": "5,061",
+        "gross": ""
+    },
+    "31": {
+        "name": "Shanghai Express",
+        "certificate": "Approved",
+        "runtime": "82 min",
+        "genre": "Adventure, Drama, Romance",
+        "description": "A loose woman rediscovers a former lover during a dangerous train ride to Shanghai.",
+        "director": "Josef von Sternberg",
+        "stars": [
+            "Marlene Dietrich",
+            "Clive Brook",
+            "Anna May Wong",
+            "Warner Oland"
+        ],
+        "votes": "6,454",
+        "gross": "$3.70M"
+    },
+    "32": {
+        "name": "Forbidden",
+        "certificate": "Approved",
+        "runtime": "85 min",
+        "genre": "Drama, Romance",
+        "description": "A librarian takes a cruise and falls for an unobtainable man, a district attorney married to a crippled woman.",
+        "director": "Frank Capra",
+        "stars": [
+            "Barbara Stanwyck",
+            "Adolphe Menjou",
+            "Ralph Bellamy",
+            "Dorothy Peterson"
+        ],
+        "votes": "1,088",
+        "gross": ""
+    },
+    "33": {
+        "name": "What Price Hollywood?",
+        "certificate": "Passed",
+        "runtime": "88 min",
+        "genre": "Drama",
+        "description": "The career of a waitress takes off when she meets an amiable drunken Hollywood director.",
+        "director": "George Cukor",
+        "stars": [
+            "Constance Bennett",
+            "Lowell Sherman",
+            "Neil Hamilton",
+            "Gregory Ratoff"
+        ],
+        "votes": "1,835",
+        "gross": ""
+    },
+    "34": {
+        "name": "Merrily We Go to Hell",
+        "certificate": "",
+        "runtime": "78 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A drunken newspaperman is rescued from his alcoholic haze by an heiress whose love sobers him up and encourages him to write a play, but he lapses back into dipsomania.",
+        "director": "Dorothy Arzner",
+        "stars": [
+            "Sylvia Sidney",
+            "Fredric March",
+            "Adrianne Allen",
+            "Richard 'Skeets' Gallagher"
+        ],
+        "votes": "669",
+        "gross": ""
+    },
+    "35": {
+        "name": "Little Orphan Annie",
+        "certificate": "",
+        "runtime": "70 min",
+        "genre": "Comedy, Drama",
+        "description": "Daddy Warbucks has to go on a long trip, leaving Annie alone. While wandering the street, Sandy leads Annie to discover Mickey, who is crying. Mickey's grandmother recently died, and he is ...                See full summary\u00a0\u00bb",
+        "director": "John S. Robertson",
+        "stars": [
+            "Mitzi Green",
+            "Buster Phelps",
+            "May Robson",
+            "Matt Moore"
+        ],
+        "votes": "45",
+        "gross": ""
+    },
+    "36": {
+        "name": "Number 17",
+        "certificate": "TV-PG",
+        "runtime": "66 min",
+        "genre": "Crime, Mystery, Thriller",
+        "description": "A gang of thieves gather at a safe house following a robbery, but a detective is on their trail.",
+        "director": "Alfred Hitchcock",
+        "stars": [
+            "Leon M. Lion",
+            "Anne Grey",
+            "John Stuart",
+            "Donald Calthrop"
+        ],
+        "votes": "4,093",
+        "gross": ""
+    },
+    "37": {
+        "name": "Night World",
+        "certificate": "",
+        "runtime": "58 min",
+        "genre": "Drama",
+        "description": "Story of the goings-on at a Prohibition-era nightclub.",
+        "director": "Hobart Henley",
+        "stars": [
+            "Lew Ayres",
+            "Mae Clarke",
+            "Boris Karloff",
+            "Dorothy Revier"
+        ],
+        "votes": "283",
+        "gross": ""
+    },
+    "38": {
+        "name": "Rain",
+        "certificate": "Passed",
+        "runtime": "94 min",
+        "genre": "Drama",
+        "description": "A prostitute newly arrived in the South Pacific finds herself at odds with a stern missionary determined to save her soul.",
+        "director": "Lewis Milestone",
+        "stars": [
+            "Joan Crawford",
+            "Walter Huston",
+            "Fred Howard",
+            "Ben Hendricks Jr."
+        ],
+        "votes": "2,142",
+        "gross": ""
+    },
+    "39": {
+        "name": "The Blue Light",
+        "certificate": "",
+        "runtime": "85 min",
+        "genre": "Drama, Fantasy, Mystery",
+        "description": "When the moon is full, young men die attempting to reach the mysterious blue light in the mountains.",
+        "director": "Leni Riefenstahl",
+        "stars": [
+            "B\u00e9la Bal\u00e1zs",
+            "Leni Riefenstahl",
+            "Mathias Wieman",
+            "Beni F\u00fchrer",
+            "Max Holzboer"
+        ],
+        "votes": "1,015",
+        "gross": ""
+    },
+    "40": {
+        "name": "As You Desire Me",
+        "certificate": "Approved",
+        "runtime": "70 min",
+        "genre": "Drama",
+        "description": "Budapest bar entertainer Zara is a discontented alcoholic who is pursued by many men but lives with novelist Carl Salter. A strange man (Tony) shows up on Salter's estate claiming that Zara...                See full summary\u00a0\u00bb",
+        "director": "George Fitzmaurice",
+        "stars": [
+            "Greta Garbo",
+            "Melvyn Douglas",
+            "Erich von Stroheim",
+            "Owen Moore"
+        ],
+        "votes": "536",
+        "gross": "$0.71M"
+    },
+    "41": {
+        "name": "I Was Born, But...",
+        "certificate": "Not Rated",
+        "runtime": "100 min",
+        "genre": "Comedy, Drama",
+        "description": "Two young brothers throw a tantrum when they discover that their father isn't the most important man in his workplace.",
+        "director": "Yasujir\u00f4 Ozu",
+        "stars": [
+            "Tatsuo Sait\u00f4",
+            "Tomio Aoki",
+            "Mitsuko Yoshikawa",
+            "Hideo Sugawara"
+        ],
+        "votes": "4,173",
+        "gross": ""
+    },
+    "42": {
+        "name": "No Man of Her Own",
+        "certificate": "",
+        "runtime": "85 min",
+        "genre": "Drama, Romance",
+        "description": "A con man on the run from the police falls for a librarian.",
+        "director": "Wesley Ruggles",
+        "stars": [
+            "Clark Gable",
+            "Carole Lombard",
+            "Dorothy Mackaill",
+            "Grant Mitchell"
+        ],
+        "votes": "931",
+        "gross": ""
+    },
+    "43": {
+        "name": "Rasputin and the Empress",
+        "certificate": "Passed",
+        "runtime": "121 min",
+        "genre": "Biography, Drama, History",
+        "description": "A prince plots to kill the mad monk Rasputin for the good of the czar, the czarina and Russia.",
+        "director": "Richard Boleslawski",
+        "stars": [
+            "Charles Brabin",
+            "John Barrymore",
+            "Ethel Barrymore",
+            "Lionel Barrymore",
+            "Ralph Morgan"
+        ],
+        "votes": "753",
+        "gross": ""
+    },
+    "44": {
+        "name": "Devil and the Deep",
+        "certificate": "Passed",
+        "runtime": "78 min",
+        "genre": "Drama",
+        "description": "Man sets out for revenge after learning of his wife's affair.",
+        "director": "Marion Gering",
+        "stars": [
+            "Tallulah Bankhead",
+            "Gary Cooper",
+            "Charles Laughton",
+            "Cary Grant"
+        ],
+        "votes": "391",
+        "gross": ""
+    },
+    "45": {
+        "name": "A Bill of Divorcement",
+        "certificate": "Passed",
+        "runtime": "70 min",
+        "genre": "Drama",
+        "description": "A man, Hilary Fairfield returns home after fifteen years in a mental asylum. However, he finds things are not the way they were when he left.",
+        "director": "George Cukor",
+        "stars": [
+            "John Barrymore",
+            "Katharine Hepburn",
+            "Billie Burke",
+            "David Manners"
+        ],
+        "votes": "1,317",
+        "gross": ""
+    },
+    "46": {
+        "name": "Ars\u00e8ne Lupin",
+        "certificate": "",
+        "runtime": "84 min",
+        "genre": "Crime, Mystery, Romance",
+        "description": "A detective is tasked to capture an elusive thief called Arsene Lupin.",
+        "director": "Jack Conway",
+        "stars": [
+            "John Barrymore",
+            "Lionel Barrymore",
+            "Karen Morley",
+            "John Miljan"
+        ],
+        "votes": "838",
+        "gross": ""
+    },
+    "47": {
+        "name": "Love Me Tonight",
+        "certificate": "Passed",
+        "runtime": "104 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "A Parisian tailor finds himself posing as a baron in order to collect a sizeable bill from an aristocrat, only to fall in love with an aloof young princess.",
+        "director": "Rouben Mamoulian",
+        "stars": [
+            "Maurice Chevalier",
+            "Jeanette MacDonald",
+            "Charles Ruggles",
+            "Charles Butterworth"
+        ],
+        "votes": "3,266",
+        "gross": ""
+    },
+    "48": {
+        "name": "One Hour with You",
+        "certificate": "Passed",
+        "runtime": "80 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "An unhappily married couple try to come between a happy one.",
+        "director": "George Cukor",
+        "stars": [
+            "Ernst Lubitsch",
+            "Maurice Chevalier",
+            "Jeanette MacDonald",
+            "Genevieve Tobin",
+            "Lili Damita"
+        ],
+        "votes": "1,814",
+        "gross": ""
+    },
+    "49": {
+        "name": "Hot Saturday",
+        "certificate": "Approved",
+        "runtime": "73 min",
+        "genre": "Drama, Romance",
+        "description": "A pretty but virtuous small-town bank clerk is the victim of a vicious rumor from an unsuccessful suitor that she spent the night with a notorious womanizer.",
+        "director": "William A. Seiter",
+        "stars": [
+            "Cary Grant",
+            "Nancy Carroll",
+            "Randolph Scott",
+            "Edward Woods"
+        ],
+        "votes": "839",
+        "gross": ""
+    },
+    "50": {
+        "name": "Night After Night",
+        "certificate": "Passed",
+        "runtime": "73 min",
+        "genre": "Comedy, Drama",
+        "description": "A successful ex-boxer opens a high-class speakeasy in what once was the childhood home of a formerly rich society girl.",
+        "director": "Archie Mayo",
+        "stars": [
+            "George Raft",
+            "Constance Cummings",
+            "Wynne Gibson",
+            "Mae West"
+        ],
+        "votes": "549",
+        "gross": ""
+    }
+}

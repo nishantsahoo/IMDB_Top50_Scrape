@@ -1,0 +1,807 @@
+{
+    "1": {
+        "name": "Shazam!",
+        "certificate": "PG-13",
+        "runtime": "132 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "We all have a superhero inside us, it just takes a bit of magic to bring it out. In Billy Batson's case, by shouting out one word - SHAZAM. - this streetwise fourteen-year-old foster kid can turn into the grown-up superhero Shazam.",
+        "director": "David F. Sandberg",
+        "stars": [
+            "Zachary Levi",
+            "Mark Strong",
+            "Asher Angel",
+            "Jack Dylan Grazer"
+        ],
+        "votes": "64,732",
+        "gross": "$96.32M"
+    },
+    "2": {
+        "name": "Avengers: Endgame",
+        "certificate": "PG-13",
+        "runtime": "181 min",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to undo Thanos' actions and restore order to the universe.",
+        "director": "Anthony Russo",
+        "stars": [
+            "Joe Russo",
+            "Brie Larson",
+            "Scarlett Johansson",
+            "Karen Gillan",
+            "Paul Rudd"
+        ],
+        "votes": "",
+        "gross": ""
+    },
+    "3": {
+        "name": "Hellboy",
+        "certificate": "R",
+        "runtime": "120 min",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "Based on the graphic novels by Mike Mignola, Hellboy, caught between the worlds of the supernatural and human, battles an ancient sorceress bent on revenge.",
+        "director": "Neil Marshall",
+        "stars": [
+            "David Harbour",
+            "Milla Jovovich",
+            "Ian McShane",
+            "Sasha Lane"
+        ],
+        "votes": "9,828",
+        "gross": "$12.97M"
+    },
+    "4": {
+        "name": "Joker",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Crime, Drama, Thriller",
+        "description": "A failed stand-up comedian is driven insane and becomes a psychopathic murderer.",
+        "director": "Todd Phillips",
+        "stars": [
+            "Joaquin Phoenix",
+            "Zazie Beetz",
+            "Robert De Niro",
+            "Jolie Chan"
+        ],
+        "votes": "",
+        "gross": ""
+    },
+    "5": {
+        "name": "After",
+        "certificate": "PG-13",
+        "runtime": "105 min",
+        "genre": "Drama, Romance",
+        "description": "A young woman falls for a guy with a dark secret and the two embark on a rocky relationship. Based on the novel by Anna Todd.",
+        "director": "Jenny Gage",
+        "stars": [
+            "Hero Fiennes Tiffin",
+            "Josephine Langford",
+            "Selma Blair",
+            "Jennifer Beals"
+        ],
+        "votes": "2,940",
+        "gross": "$6.41M"
+    },
+    "6": {
+        "name": "Pet Sematary",
+        "certificate": "R",
+        "runtime": "101 min",
+        "genre": "Horror, Mystery, Thriller",
+        "description": "Dr. Louis Creed and his wife, Rachel, relocate from Boston to rural Maine with their two young children. The couple soon discover a mysterious burial ground hidden deep in the woods near their new home.",
+        "director": "Kevin K\u00f6lsch",
+        "stars": [
+            "Dennis Widmyer",
+            "Jason Clarke",
+            "Amy Seimetz",
+            "John Lithgow",
+            "Jet\u00e9 Laurence"
+        ],
+        "votes": "18,378",
+        "gross": "$41.74M"
+    },
+    "7": {
+        "name": "The Lion King",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Animation, Adventure, Drama",
+        "description": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.",
+        "director": "Jon Favreau",
+        "stars": [
+            "Chiwetel Ejiofor",
+            "Seth Rogen",
+            "Billy Eichner",
+            "Donald Glover"
+        ],
+        "votes": "",
+        "gross": ""
+    },
+    "8": {
+        "name": "Terminator: Dark Fate",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Plot unknown.",
+        "director": "Tim Miller",
+        "stars": [
+            "Mackenzie Davis",
+            "Linda Hamilton",
+            "Arnold Schwarzenegger",
+            "Brett Azar"
+        ],
+        "votes": "",
+        "gross": ""
+    },
+    "9": {
+        "name": "Star Wars: The Rise of Skywalker",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "The final chapter of the saga from a galaxy far, far away.",
+        "director": "J.J. Abrams",
+        "stars": [
+            "Daisy Ridley",
+            "Oscar Isaac",
+            "Lupita Nyong'o",
+            "Ian McDiarmid"
+        ],
+        "votes": "",
+        "gross": ""
+    },
+    "10": {
+        "name": "The Silence",
+        "certificate": "PG-13",
+        "runtime": "90 min",
+        "genre": "Horror, Thriller",
+        "description": "When the world is under attack from terrifying creatures who hunt their human prey by sound, 16-year old Ally Andrews (Kiernan Shipka), who lost her hearing at 13, and her family seek refuge in a remote haven.",
+        "director": "John R. Leonetti",
+        "stars": [
+            "Stanley Tucci",
+            "Kiernan Shipka",
+            "Miranda Otto",
+            "Kate Trotter"
+        ],
+        "votes": "10,138",
+        "gross": ""
+    },
+    "11": {
+        "name": "Us",
+        "certificate": "R",
+        "runtime": "116 min",
+        "genre": "Horror, Thriller",
+        "description": "A family's serene beach vacation turns to chaos when their doppelg\u00e4ngers appear and begin to terrorize them.",
+        "director": "Jordan Peele",
+        "stars": [
+            "Lupita Nyong'o",
+            "Winston Duke",
+            "Elisabeth Moss",
+            "Tim Heidecker"
+        ],
+        "votes": "68,108",
+        "gross": "$164.00M"
+    },
+    "12": {
+        "name": "Captain Marvel",
+        "certificate": "PG-13",
+        "runtime": "123 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.",
+        "director": "Anna Boden",
+        "stars": [
+            "Ryan Fleck",
+            "Brie Larson",
+            "Samuel L. Jackson",
+            "Ben Mendelsohn",
+            "Jude Law"
+        ],
+        "votes": "220,069",
+        "gross": "$387.41M"
+    },
+    "13": {
+        "name": "The Highwaymen",
+        "certificate": "R",
+        "runtime": "132 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "A pair of Texas Rangers come out of retirement to catch the infamous outlaws Bonnie and Clyde.",
+        "director": "John Lee Hancock",
+        "stars": [
+            "Kevin Costner",
+            "Woody Harrelson",
+            "Kathy Bates",
+            "John Carroll Lynch"
+        ],
+        "votes": "28,475",
+        "gross": ""
+    },
+    "14": {
+        "name": "Glass",
+        "certificate": "PG-13",
+        "runtime": "129 min",
+        "genre": "Drama, Sci-Fi, Thriller",
+        "description": "Security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities.",
+        "director": "M. Night Shyamalan",
+        "stars": [
+            "James McAvoy",
+            "Bruce Willis",
+            "Samuel L. Jackson",
+            "Anya Taylor-Joy"
+        ],
+        "votes": "98,485",
+        "gross": "$111.04M"
+    },
+    "15": {
+        "name": "Dumbo",
+        "certificate": "PG",
+        "runtime": "112 min",
+        "genre": "Adventure, Family, Fantasy",
+        "description": "A young elephant, whose oversized ears enable him to fly, helps save a struggling circus, but when the circus plans a new venture, Dumbo and his friends discover dark secrets beneath its shiny veneer.",
+        "director": "Tim Burton",
+        "stars": [
+            "Colin Farrell",
+            "Michael Keaton",
+            "Danny DeVito",
+            "Eva Green"
+        ],
+        "votes": "18,609",
+        "gross": "$91.07M"
+    },
+    "16": {
+        "name": "The Dirt",
+        "certificate": "TV-MA",
+        "runtime": "107 min",
+        "genre": "Biography, Comedy, Drama",
+        "description": "The story of how M\u00f6tley Cr\u00fce came to be one of the most notorious rock 'n roll groups in history.",
+        "director": "Jeff Tremaine",
+        "stars": [
+            "Douglas Booth",
+            "Iwan Rheon",
+            "Daniel Webber",
+            "Machine Gun Kelly"
+        ],
+        "votes": "20,944",
+        "gross": ""
+    },
+    "17": {
+        "name": "Escape Room",
+        "certificate": "PG-13",
+        "runtime": "99 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "Six strangers find themselves in a maze of deadly mystery rooms, and must use their wits to survive.",
+        "director": "Adam Robitel",
+        "stars": [
+            "Taylor Russell",
+            "Logan Miller",
+            "Jay Ellis",
+            "Tyler Labine"
+        ],
+        "votes": "25,558",
+        "gross": "$56.96M"
+    },
+    "18": {
+        "name": "The Addams Family",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Animation, Comedy, Family",
+        "description": "An animated version of Charles Addams' series of cartoons about a peculiar, ghoulish family.",
+        "director": "Greg Tiernan",
+        "stars": [
+            "Conrad Vernon",
+            "Charlize Theron",
+            "Chlo\u00eb Grace Moretz",
+            "Oscar Isaac",
+            "Finn Wolfhard"
+        ],
+        "votes": "",
+        "gross": ""
+    },
+    "19": {
+        "name": "Unplanned",
+        "certificate": "R",
+        "runtime": "106 min",
+        "genre": "Drama",
+        "description": "Abby Johnson is one of the youngest Planned Parenthood directors in the US. After she is asked to assist in an abortion at thirteen weeks gestation she instead resigns, becoming a pro-life activist.",
+        "director": "Chuck Konzelman",
+        "stars": [
+            "Cary Solomon",
+            "Ashley Bratcher",
+            "Brooks Ryan",
+            "Robia Scott",
+            "Jared Lotz"
+        ],
+        "votes": "4,556",
+        "gross": "$16.02M"
+    },
+    "20": {
+        "name": "Once Upon a Time in Hollywood",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Comedy, Drama",
+        "description": "A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood's Golden Age in 1969 Los Angeles.",
+        "director": "Quentin Tarantino",
+        "stars": [
+            "Margot Robbie",
+            "Timothy Olyphant",
+            "Brad Pitt",
+            "Leonardo DiCaprio"
+        ],
+        "votes": "",
+        "gross": ""
+    },
+    "21": {
+        "name": "Triple Frontier",
+        "certificate": "R",
+        "runtime": "125 min",
+        "genre": "Action, Adventure, Crime",
+        "description": "Loyalties are tested when five former special forces operatives reunite to steal a drug lord's fortune, unleashing a chain of unintended consequences.",
+        "director": "J.C. Chandor",
+        "stars": [
+            "Ben Affleck",
+            "Oscar Isaac",
+            "Charlie Hunnam",
+            "Garrett Hedlund"
+        ],
+        "votes": "60,503",
+        "gross": ""
+    },
+    "22": {
+        "name": "Stuber",
+        "certificate": "",
+        "runtime": "105 min",
+        "genre": "Action, Comedy",
+        "description": "A detective recruits his Uber driver into an unexpected night of adventure.",
+        "director": "Michael Dowse",
+        "stars": [
+            "Karen Gillan",
+            "Dave Bautista",
+            "Natalie Morales",
+            "Betty Gilpin"
+        ],
+        "votes": "146",
+        "gross": ""
+    },
+    "23": {
+        "name": "How to Train Your Dragon: The Hidden World",
+        "certificate": "PG",
+        "runtime": "104 min",
+        "genre": "Animation, Action, Adventure",
+        "description": "When Hiccup discovers Toothless isn't the only Night Fury, he must seek \"The Hidden World\", a secret Dragon Utopia before a hired tyrant named Grimmel finds it first.",
+        "director": "Dean DeBlois",
+        "stars": [
+            "Jay Baruchel",
+            "America Ferrera",
+            "F. Murray Abraham",
+            "Cate Blanchett"
+        ],
+        "votes": "44,949",
+        "gross": "$158.05M"
+    },
+    "24": {
+        "name": "Brightburn",
+        "certificate": "R",
+        "runtime": "",
+        "genre": "Drama, Horror, Sci-Fi",
+        "description": "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
+        "director": "David Yarovesky",
+        "stars": [
+            "Elizabeth Banks",
+            "David Denman",
+            "Matt Jones",
+            "Jennifer Holland"
+        ],
+        "votes": "",
+        "gross": ""
+    },
+    "25": {
+        "name": "The Dead Don't Die",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Comedy, Fantasy, Horror",
+        "description": "The peaceful town of Centerville finds itself battling a zombie horde as the dead start rising from their graves.",
+        "director": "Jim Jarmusch",
+        "stars": [
+            "Chlo\u00eb Sevigny",
+            "Adam Driver",
+            "Tilda Swinton",
+            "Bill Murray"
+        ],
+        "votes": "",
+        "gross": ""
+    },
+    "26": {
+        "name": "Aladdin",
+        "certificate": "PG",
+        "runtime": "",
+        "genre": "Adventure, Comedy, Family",
+        "description": "A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.",
+        "director": "Guy Ritchie",
+        "stars": [
+            "Will Smith",
+            "Naomi Scott",
+            "Alan Tudyk",
+            "Billy Magnussen"
+        ],
+        "votes": "",
+        "gross": ""
+    },
+    "27": {
+        "name": "The Curse of La Llorona",
+        "certificate": "R",
+        "runtime": "93 min",
+        "genre": "Horror, Mystery, Thriller",
+        "description": "Ignoring the eerie warning of a troubled mother suspected of child endangerment, a social worker and her own small kids are soon drawn into a frightening supernatural realm.",
+        "director": "Michael Chaves",
+        "stars": [
+            "Linda Cardellini",
+            "Raymond Cruz",
+            "Patricia Velasquez",
+            "Marisol Ramirez"
+        ],
+        "votes": "653",
+        "gross": ""
+    },
+    "28": {
+        "name": "Little",
+        "certificate": "PG-13",
+        "runtime": "109 min",
+        "genre": "Comedy, Fantasy, Romance",
+        "description": "A woman is transformed into her younger self at a point in her life when the pressures of adulthood become too much to bear.",
+        "director": "Tina Gordon",
+        "stars": [
+            "Regina Hall",
+            "Issa Rae",
+            "Marsai Martin",
+            "Justin Hartley"
+        ],
+        "votes": "941",
+        "gross": "$16.52M"
+    },
+    "29": {
+        "name": "The Perfect Date",
+        "certificate": "TV-14",
+        "runtime": "89 min",
+        "genre": "Comedy, Romance",
+        "description": "To save up for college, Brooks Rattigan creates an app where anyone can pay him to play the perfect stand-in boyfriend for any occasion.",
+        "director": "Chris Nelson",
+        "stars": [
+            "Noah Centineo",
+            "Laura Marano",
+            "Odiseas Georgiadis",
+            "Camila Mendes"
+        ],
+        "votes": "6,565",
+        "gross": ""
+    },
+    "30": {
+        "name": "Sonic the Hedgehog",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Animation, Action, Adventure",
+        "description": "A cop in the rural town of Green Hills will help Sonic escape from the government who is looking to capture him.",
+        "director": "Jeff Fowler",
+        "stars": [
+            "Jim Carrey",
+            "Adam Pally",
+            "James Marsden",
+            "Neal McDonough"
+        ],
+        "votes": "",
+        "gross": ""
+    },
+    "31": {
+        "name": "Missing Link",
+        "certificate": "PG",
+        "runtime": "95 min",
+        "genre": "Animation, Adventure, Comedy",
+        "description": "Mr. Link recruits explorer Sir Lionel Frost to help find his long-lost relatives in the fabled valley of Shangri-La. Along with adventurer Adelina Fortnight, this trio of explorers travel the world to help their new friend.",
+        "director": "Chris Butler",
+        "stars": [
+            "Hugh Jackman",
+            "David Walliams",
+            "Stephen Fry",
+            "Matt Lucas"
+        ],
+        "votes": "1,319",
+        "gross": "$6.52M"
+    },
+    "32": {
+        "name": "Five Feet Apart",
+        "certificate": "PG-13",
+        "runtime": "116 min",
+        "genre": "Drama, Romance",
+        "description": "A pair of teenagers with cystic fibrosis meet in a hospital and fall in love.",
+        "director": "Justin Baldoni",
+        "stars": [
+            "Haley Lu Richardson",
+            "Cole Sprouse",
+            "Moises Arias",
+            "Kimberly Hebert Gregory"
+        ],
+        "votes": "4,970",
+        "gross": "$44.04M"
+    },
+    "33": {
+        "name": "Spider-Man: Far from Home",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Action, Adventure, Comedy",
+        "description": "Peter Parker and his friends go on a European vacation, where Peter finds himself agreeing to help Nick Fury uncover the mystery of several elemental creature attacks, creating havoc across the continent.",
+        "director": "Jon Watts",
+        "stars": [
+            "Zendaya",
+            "Tom Holland",
+            "Jon Favreau",
+            "Samuel L. Jackson"
+        ],
+        "votes": "",
+        "gross": ""
+    },
+    "34": {
+        "name": "It: Chapter Two",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Horror, Thriller",
+        "description": "Twenty-seven years later, the Losers Club have grown up and moved away, until a devastating phone call brings them back.",
+        "director": "Andy Muschietti",
+        "stars": [
+            "Jack Dylan Grazer",
+            "James McAvoy",
+            "Jessica Chastain",
+            "Bill Skarsg\u00e5rd"
+        ],
+        "votes": "",
+        "gross": ""
+    },
+    "35": {
+        "name": "The Kid Who Would Be King",
+        "certificate": "PG",
+        "runtime": "120 min",
+        "genre": "Action, Adventure, Family",
+        "description": "A band of kids embark on an epic quest to thwart a medieval menace.",
+        "director": "Joe Cornish",
+        "stars": [
+            "Louis Ashbourne Serkis",
+            "Denise Gough",
+            "Dean Chaumoo",
+            "Tom Taylor"
+        ],
+        "votes": "5,039",
+        "gross": "$16.79M"
+    },
+    "36": {
+        "name": "Dark Phoenix",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Jean Grey begins to develop incredible powers that corrupt and turn her into a Dark Phoenix. Now the X-Men will have to decide if the life of a team member is worth more than all the people living in the world.",
+        "director": "Simon Kinberg",
+        "stars": [
+            "Sophie Turner",
+            "Jennifer Lawrence",
+            "James McAvoy",
+            "Jessica Chastain"
+        ],
+        "votes": "",
+        "gross": ""
+    },
+    "37": {
+        "name": "The Beach Bum",
+        "certificate": "R",
+        "runtime": "95 min",
+        "genre": "Comedy",
+        "description": "A rebellious stoner named Moondog lives life by his own rules.",
+        "director": "Harmony Korine",
+        "stars": [
+            "Matthew McConaughey",
+            "Snoop Dogg",
+            "Isla Fisher",
+            "Stefania LaVie Owen"
+        ],
+        "votes": "2,613",
+        "gross": "$3.34M"
+    },
+    "38": {
+        "name": "The Trap",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Comedy",
+        "description": "A man returns home to Atlanta to help his brother's struggling restaurant.",
+        "director": "Erik White",
+        "stars": [
+            "T.I.",
+            "Mike Epps",
+            "Loretta Devine",
+            "Queen Latifah"
+        ],
+        "votes": "392",
+        "gross": ""
+    },
+    "39": {
+        "name": "The Last Summer",
+        "certificate": "",
+        "runtime": "109 min",
+        "genre": "Comedy",
+        "description": "A group of young people in Chicago come together during the summer before they head off to college.",
+        "director": "William Bindley",
+        "stars": [
+            "K.J. Apa",
+            "Maia Mitchell",
+            "Norman Johnson Jr.",
+            "Jacob Latimore"
+        ],
+        "votes": "",
+        "gross": ""
+    },
+    "40": {
+        "name": "Rambo V: Last Blood",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Action, Adventure, Thriller",
+        "description": "Rambo goes up against a Mexican cartel in what's reported to be his last adventure.",
+        "director": "Adrian Grunberg",
+        "stars": [
+            "Sylvester Stallone",
+            "Paz Vega",
+            "Louis Mandylor",
+            "\u00d3scar Jaenada"
+        ],
+        "votes": "",
+        "gross": ""
+    },
+    "41": {
+        "name": "Booksmart",
+        "certificate": "",
+        "runtime": "102 min",
+        "genre": "Comedy",
+        "description": "On the eve of their high school graduation, two academic superstars and best friends realize they should have worked less and played more. Determined not to fall short of their peers, the girls try to cram four years of fun into one night.",
+        "director": "Olivia Wilde",
+        "stars": [
+            "Skyler Gisondo",
+            "Kaitlyn Dever",
+            "Billie Lourd",
+            "Jason Sudeikis"
+        ],
+        "votes": "163",
+        "gross": ""
+    },
+    "42": {
+        "name": "Godzilla: King of the Monsters",
+        "certificate": "PG-13",
+        "runtime": "",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "The crypto-zoological agency Monarch faces off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah.",
+        "director": "Michael Dougherty",
+        "stars": [
+            "Millie Bobby Brown",
+            "Vera Farmiga",
+            "Charles Dance",
+            "Bradley Whitford"
+        ],
+        "votes": "",
+        "gross": ""
+    },
+    "43": {
+        "name": "Native Son",
+        "certificate": "TV-MA",
+        "runtime": "104 min",
+        "genre": "Drama",
+        "description": "A young African-American living in Chicago enters into a seductive new world of money and power after he is hired as a chauffeur for an affluent businessman.",
+        "director": "Rashid Johnson",
+        "stars": [
+            "Ashton Sanders",
+            "Margaret Qualley",
+            "Nick Robinson",
+            "KiKi Layne"
+        ],
+        "votes": "547",
+        "gross": ""
+    },
+    "44": {
+        "name": "Pok\u00e9mon Detective Pikachu",
+        "certificate": "PG",
+        "runtime": "104 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "In a world where people collect Pok\u00e9mon to do battle, a boy comes across an intelligent talking Pikachu who seeks to be a detective.",
+        "director": "Rob Letterman",
+        "stars": [
+            "Ryan Reynolds",
+            "Suki Waterhouse",
+            "Kathryn Newton",
+            "Justice Smith"
+        ],
+        "votes": "",
+        "gross": ""
+    },
+    "45": {
+        "name": "John Wick: Chapter 3 - Parabellum",
+        "certificate": "",
+        "runtime": "130 min",
+        "genre": "Action, Thriller",
+        "description": "Super-Assassin John Wick is on the run after killing a member of the international assassin's guild, and with a $14 million price tag on his head - he is the target of hit men and women everywhere.",
+        "director": "Chad Stahelski",
+        "stars": [
+            "Keanu Reeves",
+            "Ian McShane",
+            "Asia Kate Dillon",
+            "Jerome Flynn"
+        ],
+        "votes": "",
+        "gross": ""
+    },
+    "46": {
+        "name": "Alita: Battle Angel",
+        "certificate": "PG-13",
+        "runtime": "122 min",
+        "genre": "Action, Adventure, Romance",
+        "description": "A deactivated female cyborg is revived, but cannot remember anything of her past life and goes on a quest to find out who she is.",
+        "director": "Robert Rodriguez",
+        "stars": [
+            "Rosa Salazar",
+            "Christoph Waltz",
+            "Jennifer Connelly",
+            "Mahershala Ali"
+        ],
+        "votes": "82,922",
+        "gross": "$85.48M"
+    },
+    "47": {
+        "name": "The Best of Enemies",
+        "certificate": "PG-13",
+        "runtime": "133 min",
+        "genre": "Biography, Drama, History",
+        "description": "Civil rights activist Ann Atwater faces off against C.P. Ellis, Exalted Cyclops of the Ku Klux Klan, in 1971 Durham, North Carolina over the issue of school integration.",
+        "director": "Robin Bissell",
+        "stars": [
+            "Taraji P. Henson",
+            "Sam Rockwell",
+            "Babou Ceesay",
+            "Anne Heche"
+        ],
+        "votes": "730",
+        "gross": "$8.32M"
+    },
+    "48": {
+        "name": "Alien Warfare",
+        "certificate": "",
+        "runtime": "88 min",
+        "genre": "Action, Sci-Fi",
+        "description": "A team of Navy Seals investigates a mysterious science outpost only to have to combat a squad of formidable alien soldiers.",
+        "director": "Jeremiah Jones",
+        "stars": [
+            "Clayton Snyder",
+            "David Meadows",
+            "Daniel Washington",
+            "Scott C. Roe"
+        ],
+        "votes": "605",
+        "gross": ""
+    },
+    "49": {
+        "name": "Extremely Wicked, Shockingly Evil, and Vile",
+        "certificate": "R",
+        "runtime": "108 min",
+        "genre": "Biography, Crime, Drama",
+        "description": "A chronicle of the crimes of Ted Bundy, from the perspective of his longtime girlfriend, Elizabeth Kloepfer, who refused to believe the truth about him for years.",
+        "director": "Joe Berlinger",
+        "stars": [
+            "Lily Collins",
+            "Zac Efron",
+            "Angela Sarafyan",
+            "Sydney Vollmer"
+        ],
+        "votes": "682",
+        "gross": ""
+    },
+    "50": {
+        "name": "Long Shot",
+        "certificate": "R",
+        "runtime": "125 min",
+        "genre": "Comedy, Romance",
+        "description": "When Fred Flarsky reunites with his first crush, one of the most influential women in the world, Charlotte Field, he charms her. As she prepares to make a run for the Presidency, Charlotte hires Fred as her speechwriter and sparks fly.",
+        "director": "Jonathan Levine",
+        "stars": [
+            "Charlize Theron",
+            "Seth Rogen",
+            "June Diane Raphael",
+            "O'Shea Jackson Jr."
+        ],
+        "votes": "279",
+        "gross": ""
+    }
+}

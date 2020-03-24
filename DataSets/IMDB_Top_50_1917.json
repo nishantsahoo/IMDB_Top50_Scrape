@@ -1,0 +1,806 @@
+{
+    "1": {
+        "name": "Cleopatra",
+        "certificate": "",
+        "runtime": "125 min",
+        "genre": "Biography, Drama, History",
+        "description": "The story of Cleopatra, the fabulous queen of Egypt, and the epic romances between her and the greatest men of Rome, Julius Caesar and Antony.",
+        "director": "J. Gordon Edwards",
+        "stars": [
+            "Theda Bara",
+            "Fritz Leiber",
+            "Thurston Hall",
+            "Alan Roscoe"
+        ],
+        "votes": "286",
+        "gross": ""
+    },
+    "2": {
+        "name": "The Poor Little Rich Girl",
+        "certificate": "Not Rated",
+        "runtime": "65 min",
+        "genre": "Comedy, Drama, Family",
+        "description": "The wealthy but selfish parents of a lonely young girl begin to rethink what is important to them after a servant's irresponsibility results in a crisis.",
+        "director": "Maurice Tourneur",
+        "stars": [
+            "Mary Pickford",
+            "Madlaine Traverse",
+            "Charles Wellesley",
+            "Gladys Fairbanks"
+        ],
+        "votes": "1,201",
+        "gross": ""
+    },
+    "3": {
+        "name": "The Little Princess",
+        "certificate": "",
+        "runtime": "62 min",
+        "genre": "Drama",
+        "description": "Little Sara Crewe is placed in a boarding school by her father when he goes off to war, but he does not understand that the headmistress is a cruel, spiteful woman who makes life miserable ...                See full summary\u00a0\u00bb",
+        "director": "Marshall Neilan",
+        "stars": [
+            "Mary Pickford",
+            "Norman Kerry",
+            "Katherine Griffith",
+            "Anne Schaefer"
+        ],
+        "votes": "611",
+        "gross": ""
+    },
+    "4": {
+        "name": "Terje Vigen",
+        "certificate": "Not Rated",
+        "runtime": "48 min",
+        "genre": "Drama, War",
+        "description": "Terje Vigen, a sailor, suffers the loss of his family through the cruelty of another man. Years later, when his enemy's family finds itself dependent on Terje's beneficence, Terje must ...                See full summary\u00a0\u00bb",
+        "director": "Victor Sj\u00f6str\u00f6m",
+        "stars": [
+            "Victor Sj\u00f6str\u00f6m",
+            "August Falck",
+            "Edith Erastoff",
+            "Bergliot Husberg"
+        ],
+        "votes": "1,326",
+        "gross": ""
+    },
+    "5": {
+        "name": "Rebecca of Sunnybrook Farm",
+        "certificate": "Passed",
+        "runtime": "78 min",
+        "genre": "Comedy, Drama",
+        "description": "With her family in financial difficulties, Rebecca is sent to live with her two strict, unfeeling aunts, who do not appreciate the young girl's charm and energy. Rebecca must make new ...                See full summary\u00a0\u00bb",
+        "director": "Marshall Neilan",
+        "stars": [
+            "Mary Pickford",
+            "Eugene O'Brien",
+            "Helen Jerome Eddy",
+            "Charles Ogle"
+        ],
+        "votes": "731",
+        "gross": ""
+    },
+    "6": {
+        "name": "Nearly Married",
+        "certificate": "",
+        "runtime": "60 min",
+        "genre": "Comedy",
+        "description": "Add a Plot",
+        "director": "Chester Withey",
+        "stars": [
+            "Madge Kennedy",
+            "Frank M. Thomas",
+            "Mark Smith",
+            "Alma Tell"
+        ],
+        "votes": "",
+        "gross": ""
+    },
+    "7": {
+        "name": "The Little American",
+        "certificate": "Not Rated",
+        "runtime": "80 min",
+        "genre": "Drama, Romance, War",
+        "description": "A young American has her ship torpedoed by a German U-boat but makes it back to ancestral home in France, where she witnesses German brutality firsthand.",
+        "director": "Cecil B. DeMille",
+        "stars": [
+            "Joseph Levering",
+            "Mary Pickford",
+            "Jack Holt",
+            "Raymond Hatton",
+            "Hobart Bosworth"
+        ],
+        "votes": "573",
+        "gross": ""
+    },
+    "8": {
+        "name": "Straight Shooting",
+        "certificate": "Passed",
+        "runtime": "57 min",
+        "genre": "Western",
+        "description": "Cattleman Flint cuts off farmer Sims' water supply. When Sims' son Ted goes for water, one of Flint's men kills him. Cheyenne is sent to finish off Sims, but finding the family at the newly dug grave, he changes sides.",
+        "director": "John Ford",
+        "stars": [
+            "Harry Carey",
+            "Duke R. Lee",
+            "George Berrell",
+            "Molly Malone"
+        ],
+        "votes": "322",
+        "gross": ""
+    },
+    "9": {
+        "name": "'49-'17",
+        "certificate": "Unrated",
+        "runtime": "61 min",
+        "genre": "Western",
+        "description": "A retired judge comes West to restore a ghost town.",
+        "director": "Ruth Ann Baldwin",
+        "stars": [
+            "Joseph W. Girard",
+            "Leo Pierson",
+            "William Dyer",
+            "Mattie Witting"
+        ],
+        "votes": "209",
+        "gross": ""
+    },
+    "10": {
+        "name": "Satan's Rhapsody",
+        "certificate": "",
+        "runtime": "55 min",
+        "genre": "Drama, Fantasy, Horror",
+        "description": "A Faustian tale about an old woman who makes a pact with Mephisto to regain her youth, in return she must stay away from love. After the deal she meets two brothers who fall in love with her.",
+        "director": "Nino Oxilia",
+        "stars": [
+            "Lyda Borelli",
+            "Andrea Habay",
+            "Ugo Bazzini",
+            "Giovanni Cini"
+        ],
+        "votes": "499",
+        "gross": ""
+    },
+    "11": {
+        "name": "The Slave Market",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Adventure",
+        "description": "Ramona is the daughter of the governor of Port Royal. She is a school girl living in Spain. John Barton, a soldier of fortune, is cast ashore in Spain penniless and scrapes an acquaintance ...                See full summary\u00a0\u00bb",
+        "director": "Hugh Ford",
+        "stars": [
+            "Pauline Frederick",
+            "Thomas Meighan",
+            "Al Hart",
+            "Ruby Hoffman"
+        ],
+        "votes": "7",
+        "gross": ""
+    },
+    "12": {
+        "name": "Blue Jeans",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Drama",
+        "description": "Perry Bascom comes to the town of Rising Sun, Indiana, to take charge of the sawmills which have for years been managed by his father's best friend, Col. Henry Clay Risener. His father's ...                See full summary\u00a0\u00bb",
+        "director": "John H. Collins",
+        "stars": [
+            "Viola Dana",
+            "Robert Walker",
+            "Sally Crute",
+            "Clifford Bruce"
+        ],
+        "votes": "29",
+        "gross": ""
+    },
+    "13": {
+        "name": "The Hand That Rocks the Cradle",
+        "certificate": "Passed",
+        "runtime": "60 min",
+        "genre": "Drama",
+        "description": "A doctor's wife is the head of a bureau that publishes and hands out literature on birth control. However, the police stop it and forbid her to speak in meetings about the secret that was ...                See full summary\u00a0\u00bb",
+        "director": "Phillips Smalley",
+        "stars": [
+            "Lois Weber",
+            "Phillips Smalley",
+            "Lois Weber",
+            "Priscilla Dean",
+            "Wedgwood Nowell"
+        ],
+        "votes": "12",
+        "gross": ""
+    },
+    "14": {
+        "name": "The Great Secret",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Action, Adventure",
+        "description": "A wealthy young athlete comes to the aid of a beautiful heiress, whose fortune is being threatened by two arch villains, The Great Master and Doctor Zulph.",
+        "director": "Christy Cabanne",
+        "stars": [
+            "Francis X. Bushman",
+            "Beverly Bayne",
+            "Fred R. Stanton",
+            "Edward Connelly"
+        ],
+        "votes": "9",
+        "gross": ""
+    },
+    "15": {
+        "name": "Bucking Broadway",
+        "certificate": "",
+        "runtime": "53 min",
+        "genre": "Western",
+        "description": "A ranch foreman battles a rich stockbroker for the affections of a beautiful young woman.",
+        "director": "John Ford",
+        "stars": [
+            "Harry Carey",
+            "Molly Malone",
+            "L.M. Wells",
+            "Vester Pegg"
+        ],
+        "votes": "417",
+        "gross": ""
+    },
+    "16": {
+        "name": "National Red Cross Pageant",
+        "certificate": "",
+        "runtime": "50 min",
+        "genre": "Drama",
+        "description": "Add a Plot",
+        "director": "Christy Cabanne",
+        "stars": [
+            "Edith Wynne Matthison",
+            "Douglas Wood",
+            "Ethel Barrymore",
+            "Kitty Gordon"
+        ],
+        "votes": "14",
+        "gross": ""
+    },
+    "17": {
+        "name": "Sirens of the Sea",
+        "certificate": "",
+        "runtime": "60 min",
+        "genre": "Fantasy",
+        "description": "Add a Plot",
+        "director": "Allen Holubar",
+        "stars": [
+            "Louise Lovely",
+            "Carmel Myers",
+            "Jack Mulhall",
+            "Sydney Deane"
+        ],
+        "votes": "7",
+        "gross": ""
+    },
+    "18": {
+        "name": "The Secret Man",
+        "certificate": "",
+        "runtime": "50 min",
+        "genre": "Western",
+        "description": "Convict Cheyenne Harry escapes from prison in a garbage truck and boards a train, where he eludes capture with the help of passenger Henry Beaufort.",
+        "director": "John Ford",
+        "stars": [
+            "Harry Carey",
+            "Edythe Sterling",
+            "J. Morris Foster",
+            "Elizabeth Janes"
+        ],
+        "votes": "31",
+        "gross": ""
+    },
+    "19": {
+        "name": "Umirayushchiy lebed",
+        "certificate": "",
+        "runtime": "49 min",
+        "genre": "Drama",
+        "description": "A grief-stricken ballerina becomes the obsession of an increasingly unhinged artist.",
+        "director": "Yevgeny Bauer",
+        "stars": [
+            "Vera Karalli",
+            "Aleksandr Kheruvimov",
+            "Vitold Polonsky",
+            "Andrej Gromov"
+        ],
+        "votes": "791",
+        "gross": ""
+    },
+    "20": {
+        "name": "The Gray Ghost",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Action, Crime, Drama",
+        "description": "Chapter 1: The Bank Mystery - Carlow (T.D. Crittenden'), a wealthy American living in London, is engaged to Lady Gwendolyn (Gertrude Astor) and has ordered from Arabin & Company, famous ...                See full summary\u00a0\u00bb",
+        "director": "Stuart Paton",
+        "stars": [
+            "Harry Carter",
+            "Priscilla Dean",
+            "Emory Johnson",
+            "Eddie Polo"
+        ],
+        "votes": "",
+        "gross": ""
+    },
+    "21": {
+        "name": "The Silent Man",
+        "certificate": "",
+        "runtime": "61 min",
+        "genre": "Western",
+        "description": "A gold prospector strikes it rich, but the crooks who run a frontier town take it away from him. He determines to get it back and clean up the town.",
+        "director": "William S. Hart",
+        "stars": [
+            "William S. Hart",
+            "Vola Vale",
+            "Robert McKim",
+            "Dorcas Matthews"
+        ],
+        "votes": "54",
+        "gross": ""
+    },
+    "22": {
+        "name": "Les Mis\u00e9rables",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Drama",
+        "description": "Jean Valjean, a good and decent man who has committed a minor crime, is imprisoned but escapes. He is pursued thereafter for years by Javert, the cruel and implacable arm of the law.",
+        "director": "Frank Lloyd",
+        "stars": [
+            "William Farnum",
+            "George Moss",
+            "Hardee Kirkland",
+            "Gretchen Hartman"
+        ],
+        "votes": "16",
+        "gross": ""
+    },
+    "23": {
+        "name": "The Golem and the Dancing Girl",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Horror, Comedy",
+        "description": "As a practical joke, an actor impersonates the screen monster he made famous. Complications ensue.",
+        "director": "Rochus Gliese",
+        "stars": [
+            "Paul Wegener",
+            "Paul Wegener",
+            "Lyda Salmonova",
+            "Rochus Gliese",
+            "Wilhelm Diegelmann"
+        ],
+        "votes": "22",
+        "gross": ""
+    },
+    "24": {
+        "name": "Patria",
+        "certificate": "",
+        "runtime": "310 min",
+        "genre": "Action, Drama",
+        "description": "Serial about Japanese spies trying to invade the US but whose plans are foiled by a rich heiress and a Secret Service agent.",
+        "director": "Jacques Jaccard",
+        "stars": [
+            "Leopold Wharton",
+            "Theodore Wharton",
+            "Irene Castle",
+            "Milton Sills",
+            "Warner Oland",
+            "Dorothy Green"
+        ],
+        "votes": "18",
+        "gross": ""
+    },
+    "25": {
+        "name": "Tom Sawyer",
+        "certificate": "Unrated",
+        "runtime": "59 min",
+        "genre": "Adventure, Comedy, Drama",
+        "description": "Tom Sawyer, a young Missouri lad, finds fun and adventure with his pals Joe Harper and Huckleberry Finn, running away to hide out on Jackson's Island and pretending to be Mississippi River ...                See full summary\u00a0\u00bb",
+        "director": "William Desmond Taylor",
+        "stars": [
+            "Jack Pickford",
+            "George Hackathorne",
+            "Alice Marvin",
+            "Edythe Chapman"
+        ],
+        "votes": "127",
+        "gross": ""
+    },
+    "26": {
+        "name": "Das Bildnis des Dorian Gray",
+        "certificate": "",
+        "runtime": "80 min",
+        "genre": "Fantasy, Thriller",
+        "description": "A variation of the famous Oscar Wilde tale in which Dorian Gray's soul is manifested in a painting instead of his own body.",
+        "director": "Richard Oswald",
+        "stars": [
+            "Bernd Aldor",
+            "Ernst Pittschau",
+            "Ernst Ludwig",
+            "Andreas Van Horn"
+        ],
+        "votes": "20",
+        "gross": ""
+    },
+    "27": {
+        "name": "The Woman God Forgot",
+        "certificate": "",
+        "runtime": "60 min",
+        "genre": "History, Romance",
+        "description": "Cortez sends Alvarado to Montezuma who throws him into a dungeon from which he is rescued by Tecza who loves him. He is recaptured when her lover Guatemoco finds Alvarado hiding in her ...                See full summary\u00a0\u00bb",
+        "director": "Cecil B. DeMille",
+        "stars": [
+            "Wallace Reid",
+            "Raymond Hatton",
+            "Hobart Bosworth",
+            "Theodore Kosloff"
+        ],
+        "votes": "47",
+        "gross": "$0.34M"
+    },
+    "28": {
+        "name": "The Torture of Silence",
+        "certificate": "",
+        "runtime": "80 min",
+        "genre": "Drama",
+        "description": "Sad story of an unfaithful wife and her subsequent sufferings as a mother.",
+        "director": "Abel Gance",
+        "stars": [
+            "Emmy Lynn",
+            "Firmin G\u00e9mier",
+            "Armand Tallier",
+            "Anthony Gild\u00e8s"
+        ],
+        "votes": "90",
+        "gross": ""
+    },
+    "29": {
+        "name": "Hilde Warren und der Tod",
+        "certificate": "",
+        "runtime": "80 min",
+        "genre": "Horror",
+        "description": "Hilde Warren, a famous actress, is impregnated by a convicted murderer and becomes plagued by visions of an extremely gaunt and sepulchral Death. Upon discovering her child is the image of ...                See full summary\u00a0\u00bb",
+        "director": "Joe May",
+        "stars": [
+            "Mia May",
+            "Bruno Kastner",
+            "Georg John",
+            "Hans Mierendorff"
+        ],
+        "votes": "79",
+        "gross": ""
+    },
+    "30": {
+        "name": "The Pride of the Clan",
+        "certificate": "",
+        "runtime": "84 min",
+        "genre": "Drama, Romance",
+        "description": "Among the simple fisher-folk of a little island off the west coast of Scotland lives MacTavish, head of a clan. Here he rules as a chieftain and his word is law. One day a hurricane sweeps ...                See full summary\u00a0\u00bb",
+        "director": "Maurice Tourneur",
+        "stars": [
+            "Mary Pickford",
+            "Matt Moore",
+            "Warren Cook",
+            "Kathryn Browne-Decker"
+        ],
+        "votes": "72",
+        "gross": ""
+    },
+    "31": {
+        "name": "Runaway Romany",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Drama, Romance",
+        "description": "\"Inky\" Ames, theatrical press agent, through a fictitious story makes it appear that Anitra St. Clair, an actress, is the long lost daughter of Theodore True, the copper king. True accepts ...                See full summary\u00a0\u00bb",
+        "director": "George W. Lederer",
+        "stars": [
+            "Marion Davies",
+            "W.W. Bitner",
+            "Boyce Combe",
+            "Pedro de Cordoba"
+        ],
+        "votes": "46",
+        "gross": ""
+    },
+    "32": {
+        "name": "Princess Virtue",
+        "certificate": "",
+        "runtime": "60 min",
+        "genre": "Drama",
+        "description": "Count Oudoff, a fortune-hunting European nobleman, marries a wealthy American widow and brings his new wife and her pretty young daughter, Liane, back to Paris. When word gets around that ...                See full summary\u00a0\u00bb",
+        "director": "Robert Z. Leonard",
+        "stars": [
+            "Mae Murray",
+            "Lule Warrenton",
+            "Wheeler Oakman",
+            "Clarissa Selwynne"
+        ],
+        "votes": "",
+        "gross": ""
+    },
+    "33": {
+        "name": "Hamlet",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Drama",
+        "description": "Hamlet suspects his uncle has murdered his father to claim the throne of Denmark and the hand of Hamlet's mother, but the prince cannot decide whether or not he should take vengeance.",
+        "director": "Eleuterio Rodolfi",
+        "stars": [
+            "Ruggero Ruggeri",
+            "Helena Makowska",
+            "Mercedes Brignone",
+            "Armand Pouget"
+        ],
+        "votes": "",
+        "gross": ""
+    },
+    "34": {
+        "name": "A Romance of the Redwoods",
+        "certificate": "",
+        "runtime": "70 min",
+        "genre": "Adventure, Comedy, Drama",
+        "description": "A young girl travels west to live with her uncle during the California Gold Rush only to find that he has been killed by Indians and his identity assumed by an outlaw.",
+        "director": "Cecil B. DeMille",
+        "stars": [
+            "Mary Pickford",
+            "Elliott Dexter",
+            "Tully Marshall",
+            "Raymond Hatton"
+        ],
+        "votes": "699",
+        "gross": "$0.42M"
+    },
+    "35": {
+        "name": "El ap\u00f3stol",
+        "certificate": "",
+        "runtime": "70 min",
+        "genre": "Animation, Comedy, Drama",
+        "description": "Argentinian President Yrigoyen burns Buenos Aires using Jupiter's thunderbolts.",
+        "director": "Quirino Cristiani",
+        "stars": [],
+        "votes": "32",
+        "gross": ""
+    },
+    "36": {
+        "name": "On Dangerous Ground",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Drama, War",
+        "description": "Bradford Stewart, a young American surgeon studying in Germany, is dining in Cologne with a German friend, Ritter Bloem, a philosopher and a patriotic German. The latter is called away by ...                See full summary\u00a0\u00bb",
+        "director": "Robert Thornby",
+        "stars": [
+            "Carlyle Blackwell",
+            "Gail Kane",
+            "William Bailey",
+            "Stanhope Wheatcroft"
+        ],
+        "votes": "41",
+        "gross": ""
+    },
+    "37": {
+        "name": "Madame Du Barry",
+        "certificate": "Passed",
+        "runtime": "",
+        "genre": "Drama, History",
+        "description": "Jeanette (Theda Bara), unknown in Paris but of great beauty and wit, attracts the attention of Louis XV (Charles Clary) who expresses a desire to meet her to Jean Du Barry (Herschel Mayall)...                See full synopsis\u00a0\u00bb",
+        "director": "J. Gordon Edwards",
+        "stars": [
+            "Theda Bara",
+            "Charles Clary",
+            "Fred Church",
+            "Herschel Mayall"
+        ],
+        "votes": "6",
+        "gross": ""
+    },
+    "38": {
+        "name": "A Tale of Two Cities",
+        "certificate": "",
+        "runtime": "70 min",
+        "genre": "Drama, History, Romance",
+        "description": "Alcoholic lawyer Sydney Carton travels to Paris during the Reign of Terror to rescue French aristocrat Charles Darnay, husband of the woman he loves.",
+        "director": "Frank Lloyd",
+        "stars": [
+            "William Farnum",
+            "Jewel Carmen",
+            "Charles Clary",
+            "Herschel Mayall"
+        ],
+        "votes": "95",
+        "gross": ""
+    },
+    "39": {
+        "name": "Polly of the Circus",
+        "certificate": "",
+        "runtime": "80 min",
+        "genre": "Drama",
+        "description": "When circus aerialist Polly Fisher is injured, she is taken to the nearby home of minister John Hartley. The two fall in love and marry secretly. But when the news leaks out, the minister ...                See full summary\u00a0\u00bb",
+        "director": "Edwin L. Hollywood",
+        "stars": [
+            "Charles Horan",
+            "Mae Marsh",
+            "Vernon Steele",
+            "Harry La Pearl",
+            "Wellington A. Playter"
+        ],
+        "votes": "31",
+        "gross": ""
+    },
+    "40": {
+        "name": "The Black Stork",
+        "certificate": "",
+        "runtime": "50 min",
+        "genre": "Drama",
+        "description": "A young man and woman are considering marriage; eugenicist Harry J Haiselden warns that they are ill-matched and will produce defective offspring. He is right; their baby is born defective,...                See full summary\u00a0\u00bb",
+        "director": "Leopold Wharton",
+        "stars": [
+            "Theodore Wharton",
+            "Jane Fearnley",
+            "Allan Murnane",
+            "Hamilton Revelle",
+            "Elsie Esmond"
+        ],
+        "votes": "15",
+        "gross": ""
+    },
+    "41": {
+        "name": "Wild and Woolly",
+        "certificate": "Passed",
+        "runtime": "72 min",
+        "genre": "Comedy, Western, Romance",
+        "description": "A rich young Easterner who has always wanted to live in \"the Wild West\" plans to move to a Western town. Unknown to him, the town's \"wild\" days are long gone, and it is an orderly, ...                See full summary\u00a0\u00bb",
+        "director": "John Emerson",
+        "stars": [
+            "Douglas Fairbanks",
+            "Eileen Percy",
+            "Calvert Carter",
+            "Charles Stevens"
+        ],
+        "votes": "518",
+        "gross": ""
+    },
+    "42": {
+        "name": "Panthea",
+        "certificate": "",
+        "runtime": "78 min",
+        "genre": "Drama",
+        "description": "A woman sacrifices everything for her husband's career.",
+        "director": "Allan Dwan",
+        "stars": [
+            "Norma Talmadge",
+            "L. Rogers Lytton",
+            "George Fawcett",
+            "Earle Foxe"
+        ],
+        "votes": "",
+        "gross": ""
+    },
+    "43": {
+        "name": "A Modern Musketeer",
+        "certificate": "Passed",
+        "runtime": "68 min",
+        "genre": "Adventure, Comedy, Western",
+        "description": "A restless young man travels west, encountering adventure, romance, and danger.",
+        "director": "Allan Dwan",
+        "stars": [
+            "Douglas Fairbanks",
+            "Marjorie Daw",
+            "Kathleen Kirkham",
+            "Eugene Ormonde"
+        ],
+        "votes": "243",
+        "gross": ""
+    },
+    "44": {
+        "name": "Reaching for the Moon",
+        "certificate": "",
+        "runtime": "69 min",
+        "genre": "Adventure",
+        "description": "A factory worker has always dreamed that he was meant for better things, to be rich and famous and in \"the company of kings\". One day he discovers that he is indeed the only heir to the ...                See full summary\u00a0\u00bb",
+        "director": "John Emerson",
+        "stars": [
+            "Douglas Fairbanks",
+            "Eileen Percy",
+            "Richard Cummings",
+            "Millard Webb"
+        ],
+        "votes": "65",
+        "gross": ""
+    },
+    "45": {
+        "name": "Paradise Garden",
+        "certificate": "",
+        "runtime": "50 min",
+        "genre": "Comedy, Romance",
+        "description": "Add a Plot",
+        "director": "Fred J. Balshofer",
+        "stars": [
+            "Harold Lockwood",
+            "Vera Sisson",
+            "Virginia Rappe",
+            "William Clifford"
+        ],
+        "votes": "",
+        "gross": ""
+    },
+    "46": {
+        "name": "A Mormon Maid",
+        "certificate": "",
+        "runtime": "68 min",
+        "genre": "Drama, History, Western",
+        "description": "This silent melodrama is set against the 1840s westward migration of the Mormons. Dora, a young woman, and her family are saved from an Indian attack by a Mormon community traveling to Utah...                See full summary\u00a0\u00bb",
+        "director": "Robert Z. Leonard",
+        "stars": [
+            "Mae Murray",
+            "Frank Borzage",
+            "Hobart Bosworth",
+            "Edythe Chapman"
+        ],
+        "votes": "67",
+        "gross": ""
+    },
+    "47": {
+        "name": "Draft 258",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Drama",
+        "description": "Mary Alden and her brothers Matthew and George have extremely different political views. Matthew is a committed pacifist, and is constantly giving speeches against war. George is notified ...                See full summary\u00a0\u00bb",
+        "director": "Christy Cabanne",
+        "stars": [
+            "Mabel Taliaferro",
+            "Walter Miller",
+            "Earl Brunswick",
+            "Eugene Borden"
+        ],
+        "votes": "",
+        "gross": ""
+    },
+    "48": {
+        "name": "Betsy Ross",
+        "certificate": "",
+        "runtime": "60 min",
+        "genre": "Biography, Drama, Romance",
+        "description": "Revolutionary War heroine Betsy Ross finds herself in competition with her sister for the affections of a British soldier.",
+        "director": "George Cowl",
+        "stars": [
+            "Travers Vale",
+            "Alice Brady",
+            "John Bowers",
+            "Lillian Cook",
+            "Victor Kennard"
+        ],
+        "votes": "37",
+        "gross": ""
+    },
+    "49": {
+        "name": "Sangre y arena",
+        "certificate": "",
+        "runtime": "65 min",
+        "genre": "",
+        "description": "Juan Gallardo, a poor but ambitious young shoemaker's son in Southern Spain yearns to be a matador. To that end he and his companions set out for Seville where he eventually finds fame and ...                See full summary\u00a0\u00bb",
+        "director": "Ricardo de Ba\u00f1os",
+        "stars": [
+            "Vicente Blasco Ib\u00e1\u00f1ez",
+            "P. Alcaide",
+            "Mark Andrews",
+            "Matilde Domenech",
+            "Jos\u00e9 Portes"
+        ],
+        "votes": "11",
+        "gross": ""
+    },
+    "50": {
+        "name": "Down to Earth",
+        "certificate": "Passed",
+        "runtime": "71 min",
+        "genre": "Comedy, Romance",
+        "description": "A healthy outdoors-type follows the girl he loves to a resort for wealthy hypochondriacs. In order to prove to her and the other patients that their \"illnesses\" are all in their minds, he ...                See full summary\u00a0\u00bb",
+        "director": "John Emerson",
+        "stars": [
+            "Douglas Fairbanks",
+            "Eileen Percy",
+            "Gustav von Seyffertitz",
+            "Charles McHugh"
+        ],
+        "votes": "29",
+        "gross": ""
+    }
+}

@@ -1,0 +1,817 @@
+{
+    "1": {
+        "name": "The Wizard of Oz",
+        "certificate": "PG",
+        "runtime": "102 min",
+        "genre": "Adventure, Family, Fantasy",
+        "description": "Dorothy Gale is swept away from a farm in Kansas to a magical land of Oz in a tornado and embarks on a quest with her new friends to see the Wizard who can help her return home to Kansas and help her friends as well.",
+        "director": "Victor Fleming",
+        "stars": [
+            "George Cukor",
+            "Mervyn LeRoy",
+            "Norman Taurog",
+            "Richard Thorpe",
+            "King Vidor",
+            "Judy Garland",
+            "Frank Morgan",
+            "Ray Bolger",
+            "Bert Lahr"
+        ],
+        "votes": "349,488",
+        "gross": "$2.08M"
+    },
+    "2": {
+        "name": "Gone with the Wind",
+        "certificate": "Passed",
+        "runtime": "238 min",
+        "genre": "Drama, History, Romance",
+        "description": "A manipulative woman and a roguish man conduct a turbulent romance during the American Civil War and Reconstruction periods.",
+        "director": "Victor Fleming",
+        "stars": [
+            "George Cukor",
+            "Sam Wood",
+            "Clark Gable",
+            "Vivien Leigh",
+            "Thomas Mitchell",
+            "Barbara O'Neil"
+        ],
+        "votes": "262,258",
+        "gross": "$198.68M"
+    },
+    "3": {
+        "name": "Stagecoach",
+        "certificate": "Not Rated",
+        "runtime": "96 min",
+        "genre": "Adventure, Drama, Western",
+        "description": "A group of people traveling on a stagecoach find their journey complicated by the threat of Geronimo and learn something about each other in the process.",
+        "director": "John Ford",
+        "stars": [
+            "John Wayne",
+            "Claire Trevor",
+            "Andy Devine",
+            "John Carradine"
+        ],
+        "votes": "37,742",
+        "gross": ""
+    },
+    "4": {
+        "name": "Ninotchka",
+        "certificate": "Not Rated",
+        "runtime": "110 min",
+        "genre": "Comedy, Romance",
+        "description": "A stern Russian woman sent to Paris on official business finds herself attracted to a man who represents everything she is supposed to detest.",
+        "director": "Ernst Lubitsch",
+        "stars": [
+            "Greta Garbo",
+            "Melvyn Douglas",
+            "Ina Claire",
+            "Bela Lugosi"
+        ],
+        "votes": "17,084",
+        "gross": "$1.19M"
+    },
+    "5": {
+        "name": "Mr. Smith Goes to Washington",
+        "certificate": "Not Rated",
+        "runtime": "129 min",
+        "genre": "Comedy, Drama",
+        "description": "A naive man is appointed to fill a vacancy in the United States Senate. His plans promptly collide with political corruption, but he doesn't back down.",
+        "director": "Frank Capra",
+        "stars": [
+            "James Stewart",
+            "Jean Arthur",
+            "Claude Rains",
+            "Edward Arnold"
+        ],
+        "votes": "97,518",
+        "gross": "$9.60M"
+    },
+    "6": {
+        "name": "The Hunchback of Notre Dame",
+        "certificate": "Passed",
+        "runtime": "117 min",
+        "genre": "Drama, Horror, Romance",
+        "description": "In 15th century France, a gypsy girl is framed for murder by the infatuated Chief Justice, and only the deformed bellringer of Notre Dame Cathedral can save her.",
+        "director": "William Dieterle",
+        "stars": [
+            "Charles Laughton",
+            "Maureen O'Hara",
+            "Cedric Hardwicke",
+            "Thomas Mitchell"
+        ],
+        "votes": "9,225",
+        "gross": "$3.27M"
+    },
+    "7": {
+        "name": "Wuthering Heights",
+        "certificate": "Not Rated",
+        "runtime": "104 min",
+        "genre": "Drama, Romance",
+        "description": "A servant in the house of Wuthering Heights tells a traveller the unfortunate tale of lovers Cathy and Heathcliff.",
+        "director": "William Wyler",
+        "stars": [
+            "Merle Oberon",
+            "Laurence Olivier",
+            "David Niven",
+            "Flora Robson"
+        ],
+        "votes": "14,781",
+        "gross": ""
+    },
+    "8": {
+        "name": "Dodge City",
+        "certificate": "Approved",
+        "runtime": "104 min",
+        "genre": "Western",
+        "description": "A Texas cattle agent witnesses first hand, the brutal lawlessness of Dodge City and takes the job of sheriff to clean the town up.",
+        "director": "Michael Curtiz",
+        "stars": [
+            "Errol Flynn",
+            "Olivia de Havilland",
+            "Ann Sheridan",
+            "Bruce Cabot"
+        ],
+        "votes": "4,048",
+        "gross": ""
+    },
+    "9": {
+        "name": "The Rules of the Game",
+        "certificate": "Not Rated",
+        "runtime": "110 min",
+        "genre": "Comedy, Drama",
+        "description": "A bourgeois life in France at the onset of World War II, as the rich and their poor servants meet up at a French chateau.",
+        "director": "Jean Renoir",
+        "stars": [
+            "Marcel Dalio",
+            "Nora Gregor",
+            "Paulette Dubost",
+            "Mila Par\u00e9ly"
+        ],
+        "votes": "24,097",
+        "gross": ""
+    },
+    "10": {
+        "name": "The Women",
+        "certificate": "Not Rated",
+        "runtime": "133 min",
+        "genre": "Comedy, Drama",
+        "description": "A study of the lives and romantic entanglements of various interconnected women.",
+        "director": "George Cukor",
+        "stars": [
+            "Norma Shearer",
+            "Joan Crawford",
+            "Rosalind Russell",
+            "Mary Boland"
+        ],
+        "votes": "11,388",
+        "gross": "$2.27M"
+    },
+    "11": {
+        "name": "Gunga Din",
+        "certificate": "Approved",
+        "runtime": "117 min",
+        "genre": "Adventure, Comedy, War",
+        "description": "In 19th century India, three British soldiers and a native waterbearer must stop a secret mass revival of the murderous Thuggee cult before it can rampage across the land.",
+        "director": "George Stevens",
+        "stars": [
+            "Cary Grant",
+            "Joan Fontaine",
+            "Victor McLaglen",
+            "Douglas Fairbanks Jr."
+        ],
+        "votes": "10,084",
+        "gross": ""
+    },
+    "12": {
+        "name": "Dark Victory",
+        "certificate": "Approved",
+        "runtime": "104 min",
+        "genre": "Drama, Romance",
+        "description": "A young socialite is diagnosed with an inoperable brain tumor, and must decide whether or not she'll meet her final days with dignity.",
+        "director": "Edmund Goulding",
+        "stars": [
+            "Bette Davis",
+            "George Brent",
+            "Humphrey Bogart",
+            "Geraldine Fitzgerald"
+        ],
+        "votes": "8,836",
+        "gross": ""
+    },
+    "13": {
+        "name": "The Little Princess",
+        "certificate": "Approved",
+        "runtime": "93 min",
+        "genre": "Comedy, Drama, Family",
+        "description": "A little girl is left by her father in an exclusive seminary for girls, due to her father having to go to South Africa to fight in the Second Boer War.",
+        "director": "Walter Lang",
+        "stars": [
+            "William A. Seiter",
+            "Shirley Temple",
+            "Richard Greene",
+            "Anita Louise",
+            "Ian Hunter"
+        ],
+        "votes": "5,041",
+        "gross": ""
+    },
+    "14": {
+        "name": "Destry Rides Again",
+        "certificate": "Approved",
+        "runtime": "95 min",
+        "genre": "Comedy, Western",
+        "description": "When a tough western town needs taming, the mild-mannered son of a hard-nosed sheriff gets the job.",
+        "director": "George Marshall",
+        "stars": [
+            "Marlene Dietrich",
+            "James Stewart",
+            "Mischa Auer",
+            "Charles Winninger"
+        ],
+        "votes": "9,083",
+        "gross": "$0.35M"
+    },
+    "15": {
+        "name": "Only Angels Have Wings",
+        "certificate": "Not Rated",
+        "runtime": "121 min",
+        "genre": "Adventure, Drama, Romance",
+        "description": "At a remote South American trading port, the manager of an air freight company is forced to risk his pilots' lives in order to win an important contract.",
+        "director": "Howard Hawks",
+        "stars": [
+            "Cary Grant",
+            "Jean Arthur",
+            "Rita Hayworth",
+            "Richard Barthelmess"
+        ],
+        "votes": "10,890",
+        "gross": ""
+    },
+    "16": {
+        "name": "Nancy Drew and the Hidden Staircase",
+        "certificate": "Approved",
+        "runtime": "60 min",
+        "genre": "Comedy, Crime, Mystery",
+        "description": "Nancy helps two aging spinsters fulfill the byzantine provisions of their father's will, but the murder of their chauffeur complicates matters.",
+        "director": "William Clemens",
+        "stars": [
+            "Bonita Granville",
+            "Frankie Thomas",
+            "John Litel",
+            "Frank Orth"
+        ],
+        "votes": "595",
+        "gross": ""
+    },
+    "17": {
+        "name": "Jamaica Inn",
+        "certificate": "Not Rated",
+        "runtime": "98 min",
+        "genre": "Adventure, Crime",
+        "description": "In Cornwall in 1819, a young woman discovers that she's living near a gang of criminals who arrange shipwrecks for profit.",
+        "director": "Alfred Hitchcock",
+        "stars": [
+            "Maureen O'Hara",
+            "Robert Newton",
+            "Charles Laughton",
+            "Horace Hodges"
+        ],
+        "votes": "7,930",
+        "gross": ""
+    },
+    "18": {
+        "name": "The Hound of the Baskervilles",
+        "certificate": "Approved",
+        "runtime": "80 min",
+        "genre": "Horror, Mystery, Thriller",
+        "description": "Sherlock Holmes and Dr Watson investigate the legend of a supernatural hound, a beast that may be stalking a young heir on the fog-shrouded moorland that makes up his estate.",
+        "director": "Sidney Lanfield",
+        "stars": [
+            "Basil Rathbone",
+            "Nigel Bruce",
+            "Richard Greene",
+            "Wendy Barrie"
+        ],
+        "votes": "8,504",
+        "gross": ""
+    },
+    "19": {
+        "name": "Zenobia",
+        "certificate": "Approved",
+        "runtime": "73 min",
+        "genre": "Comedy",
+        "description": "A modest country doctor in the antebellum South has to contend with his daughter's upcoming marriage and an affectionate medicine show elephant.",
+        "director": "Gordon Douglas",
+        "stars": [
+            "Oliver Hardy",
+            "Harry Langdon",
+            "Billie Burke",
+            "Alice Brady"
+        ],
+        "votes": "495",
+        "gross": ""
+    },
+    "20": {
+        "name": "Of Mice and Men",
+        "certificate": "Approved",
+        "runtime": "106 min",
+        "genre": "Drama",
+        "description": "Two itinerant migrant workers, one mentally disabled and the other his carer, take jobs as ranch hands during the Great Depression to fulfill their shared dream of owning their own ranch.",
+        "director": "Lewis Milestone",
+        "stars": [
+            "Lon Chaney Jr.",
+            "Burgess Meredith",
+            "Betty Field",
+            "Charles Bickford"
+        ],
+        "votes": "4,963",
+        "gross": ""
+    },
+    "21": {
+        "name": "The Flying Deuces",
+        "certificate": "Approved",
+        "runtime": "69 min",
+        "genre": "Comedy, War",
+        "description": "Ollie has fallen in love with the innkeeper's daughter in Paris. The only problem - she's very much in love with her husband. To forget her he joins the Foreign Legion with Stan. Bad idea.",
+        "director": "A. Edward Sutherland",
+        "stars": [
+            "Stan Laurel",
+            "Oliver Hardy",
+            "Jean Parker",
+            "Reginald Gardiner"
+        ],
+        "votes": "4,198",
+        "gross": ""
+    },
+    "22": {
+        "name": "The Roaring Twenties",
+        "certificate": "Not Rated",
+        "runtime": "106 min",
+        "genre": "Action, Crime, Drama",
+        "description": "Three men attempt to make a living in Prohibitionist America after returning home from fighting together in World War I.",
+        "director": "Raoul Walsh",
+        "stars": [
+            "James Cagney",
+            "Humphrey Bogart",
+            "Priscilla Lane",
+            "Gladys George"
+        ],
+        "votes": "11,279",
+        "gross": ""
+    },
+    "23": {
+        "name": "Son of Frankenstein",
+        "certificate": "Approved",
+        "runtime": "99 min",
+        "genre": "Drama, Horror, Sci-Fi",
+        "description": "One of the sons of Frankenstein finds his father's monster in a coma and revives him, only to find out he is controlled by Ygor who is bent on revenge.",
+        "director": "Rowland V. Lee",
+        "stars": [
+            "Boris Karloff",
+            "Basil Rathbone",
+            "Bela Lugosi",
+            "Lionel Atwill"
+        ],
+        "votes": "7,970",
+        "gross": ""
+    },
+    "24": {
+        "name": "The Old Maid",
+        "certificate": "Approved",
+        "runtime": "95 min",
+        "genre": "Drama",
+        "description": "The arrival of an ex-lover on a young woman's wedding day sets in motion a chain of events which will alter her and her cousin's lives forever.",
+        "director": "Edmund Goulding",
+        "stars": [
+            "Bette Davis",
+            "Miriam Hopkins",
+            "George Brent",
+            "Donald Crisp"
+        ],
+        "votes": "2,815",
+        "gross": ""
+    },
+    "25": {
+        "name": "Beau Geste",
+        "certificate": "Passed",
+        "runtime": "112 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "Three adopted English brothers join the French Foreign Legion in North Africa, after one of them steals their adoptive family's famous heirloom sapphire.",
+        "director": "William A. Wellman",
+        "stars": [
+            "Gary Cooper",
+            "Ray Milland",
+            "Robert Preston",
+            "Brian Donlevy"
+        ],
+        "votes": "4,944",
+        "gross": ""
+    },
+    "26": {
+        "name": "Love Affair",
+        "certificate": "Approved",
+        "runtime": "88 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A French playboy and an American former nightclub singer fall in love aboard a ship. They arrange to reunite six months later, after he has had a chance to earn a decent living.",
+        "director": "Leo McCarey",
+        "stars": [
+            "Irene Dunne",
+            "Charles Boyer",
+            "Maria Ouspenskaya",
+            "Lee Bowman"
+        ],
+        "votes": "3,834",
+        "gross": ""
+    },
+    "27": {
+        "name": "The Four Feathers",
+        "certificate": "Not Rated",
+        "runtime": "129 min",
+        "genre": "Adventure, Drama, Romance",
+        "description": "A timid British Army officer has quit and burns his last day summons to a war in Egypt. Calling him a coward, his girl friend and 3 officer friends give him a white feather. In redemption, he shadows his friends in war to save their lives.",
+        "director": "Zoltan Korda",
+        "stars": [
+            "John Clements",
+            "Ralph Richardson",
+            "C. Aubrey Smith",
+            "June Duprez"
+        ],
+        "votes": "5,028",
+        "gross": ""
+    },
+    "28": {
+        "name": "Bachelor Mother",
+        "certificate": "Approved",
+        "runtime": "82 min",
+        "genre": "Comedy, Romance",
+        "description": "An unemployed woman discovers an abandoned baby on the steps of an orphanage, and accepts an offer to take responsibility for the child in return for a job.",
+        "director": "Garson Kanin",
+        "stars": [
+            "Ginger Rogers",
+            "David Niven",
+            "Charles Coburn",
+            "Frank Albertson"
+        ],
+        "votes": "3,251",
+        "gross": ""
+    },
+    "29": {
+        "name": "Susannah of the Mounties",
+        "certificate": "Approved",
+        "runtime": "79 min",
+        "genre": "Drama, Family, Romance",
+        "description": "Shirley is the orphaned survivor of an Indian attack in the Canadian West. A Mountie and his girlfriend take her in. Everybody suffers further Indian attacks and the Mountie is saved from ...                See full summary\u00a0\u00bb",
+        "director": "William A. Seiter",
+        "stars": [
+            "Walter Lang",
+            "Shirley Temple",
+            "Randolph Scott",
+            "Margaret Lockwood",
+            "Martin Good Rider"
+        ],
+        "votes": "652",
+        "gross": ""
+    },
+    "30": {
+        "name": "Goodbye, Mr. Chips",
+        "certificate": "Unrated",
+        "runtime": "114 min",
+        "genre": "Drama, Romance",
+        "description": "An aged teacher and former headmaster of a boarding school recalls his career and his personal life over the decades.",
+        "director": "Sam Wood",
+        "stars": [
+            "Sidney Franklin",
+            "Robert Donat",
+            "Greer Garson",
+            "Terry Kilburn",
+            "John Mills"
+        ],
+        "votes": "8,918",
+        "gross": ""
+    },
+    "31": {
+        "name": "A Chump at Oxford",
+        "certificate": "Approved",
+        "runtime": "62 min",
+        "genre": "Comedy",
+        "description": "As a reward for capturing a bank robber, Stan and Ollie get scholarship to Oxford, but are met with resentment by other students.",
+        "director": "Alfred J. Goulding",
+        "stars": [
+            "Stan Laurel",
+            "Oliver Hardy",
+            "Forrester Harvey",
+            "Wilfred Lucas"
+        ],
+        "votes": "3,197",
+        "gross": ""
+    },
+    "32": {
+        "name": "Union Pacific",
+        "certificate": "Passed",
+        "runtime": "135 min",
+        "genre": "Drama, Western",
+        "description": "In 1862, Central Pacific and Union Pacific Railroads compete westward across the wilderness toward California.",
+        "director": "Cecil B. DeMille",
+        "stars": [
+            "Barbara Stanwyck",
+            "Joel McCrea",
+            "Akim Tamiroff",
+            "Robert Preston"
+        ],
+        "votes": "2,240",
+        "gross": ""
+    },
+    "33": {
+        "name": "Jesse James",
+        "certificate": "Approved",
+        "runtime": "106 min",
+        "genre": "Biography, Crime, Drama",
+        "description": "After railroad agents forcibly evict the James family from their family farm, Jesse and Frank turn to banditry for revenge.",
+        "director": "Henry King",
+        "stars": [
+            "Irving Cummings",
+            "Tyrone Power",
+            "Henry Fonda",
+            "Nancy Kelly",
+            "Randolph Scott"
+        ],
+        "votes": "3,579",
+        "gross": ""
+    },
+    "34": {
+        "name": "Hitler - Beast of Berlin",
+        "certificate": "Approved",
+        "runtime": "87 min",
+        "genre": "Drama, War",
+        "description": "Hans Memling, a young intellectual, patriotic German, is secretly opposed to the Nazi regime. With the aid of Gustav Schultz, Father Pommer, Anna Wahl and others, he is gleaning accurate ...                See full summary\u00a0\u00bb",
+        "director": "Sam Newfield",
+        "stars": [
+            "Roland Drew",
+            "Steffi Duna",
+            "Greta Granstedt",
+            "Alan Ladd"
+        ],
+        "votes": "73",
+        "gross": ""
+    },
+    "35": {
+        "name": "Another Thin Man",
+        "certificate": "Passed",
+        "runtime": "103 min",
+        "genre": "Comedy, Crime, Mystery",
+        "description": "An explosives manufacturer suspects a young man is out to kill him. He calls in new parents Nick and Nora to sort things out.",
+        "director": "W.S. Van Dyke",
+        "stars": [
+            "William Powell",
+            "Myrna Loy",
+            "Virginia Grey",
+            "Otto Kruger"
+        ],
+        "votes": "5,787",
+        "gross": ""
+    },
+    "36": {
+        "name": "The Lion Has Wings",
+        "certificate": "",
+        "runtime": "76 min",
+        "genre": "Drama, War",
+        "description": "Alexander Korda's bit for the British war effort shows the world both at peace and on the verge of Nazi domination. Spliced together to form a documentary-style movie of both newsreel and ...                See full summary\u00a0\u00bb",
+        "director": "Adrian Brunel",
+        "stars": [
+            "Brian Desmond Hurst",
+            "Michael Powell",
+            "Alexander Korda",
+            "Merle Oberon",
+            "Ralph Richardson",
+            "June Duprez",
+            "Flora Robson"
+        ],
+        "votes": "448",
+        "gross": ""
+    },
+    "37": {
+        "name": "Tarzan Finds a Son!",
+        "certificate": "Passed",
+        "runtime": "82 min",
+        "genre": "Action, Adventure, Family",
+        "description": "Tarzan finds a boy from a crashed plane and raises him with Jane in the jungle. A search party comes looking for the plane.",
+        "director": "Richard Thorpe",
+        "stars": [
+            "Johnny Weissmuller",
+            "Maureen O'Sullivan",
+            "Johnny Sheffield",
+            "Ian Hunter"
+        ],
+        "votes": "2,947",
+        "gross": "$2.27M"
+    },
+    "38": {
+        "name": "In Name Only",
+        "certificate": "Approved",
+        "runtime": "94 min",
+        "genre": "Drama, Romance",
+        "description": "After a wealthy man finds out his wife is a gold digger, he meets and falls for a widowed mother, and complications ensue.",
+        "director": "John Cromwell",
+        "stars": [
+            "Cary Grant",
+            "Carole Lombard",
+            "Kay Francis",
+            "Charles Coburn"
+        ],
+        "votes": "2,330",
+        "gross": ""
+    },
+    "39": {
+        "name": "Made for Each Other",
+        "certificate": "Approved",
+        "runtime": "92 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "While on a business trip, an ambitious young lawyer meets and immediately falls in love with a stranger. They wed the following day, and tragedy soon strikes.",
+        "director": "John Cromwell",
+        "stars": [
+            "Carole Lombard",
+            "James Stewart",
+            "Charles Coburn",
+            "Lucile Watson"
+        ],
+        "votes": "2,894",
+        "gross": ""
+    },
+    "40": {
+        "name": "Young Mr. Lincoln",
+        "certificate": "Passed",
+        "runtime": "100 min",
+        "genre": "Biography, Drama",
+        "description": "A fictionalized account of the early life of the American president as a young lawyer facing his greatest court case.",
+        "director": "John Ford",
+        "stars": [
+            "Henry Fonda",
+            "Alice Brady",
+            "Marjorie Weaver",
+            "Arleen Whelan"
+        ],
+        "votes": "6,611",
+        "gross": ""
+    },
+    "41": {
+        "name": "The Adventures of Sherlock Holmes",
+        "certificate": "Approved",
+        "runtime": "85 min",
+        "genre": "Crime, Mystery, Thriller",
+        "description": "The master sleuth hunts his archenemy, Professor Moriarty, who is planning the crime of the century.",
+        "director": "Alfred L. Werker",
+        "stars": [
+            "Basil Rathbone",
+            "Nigel Bruce",
+            "Ida Lupino",
+            "Alan Marshal"
+        ],
+        "votes": "5,639",
+        "gross": ""
+    },
+    "42": {
+        "name": "Le Jour Se Leve",
+        "certificate": "Not Rated",
+        "runtime": "93 min",
+        "genre": "Crime, Drama, Romance",
+        "description": "After committing a murder, a man locks himself in his apartment and recollects the events that led him to the killing.",
+        "director": "Marcel Carn\u00e9",
+        "stars": [
+            "Jean Gabin",
+            "Jacqueline Laurent",
+            "Arletty",
+            "Jules Berry"
+        ],
+        "votes": "5,855",
+        "gross": "$0.03M"
+    },
+    "43": {
+        "name": "Buck Rogers",
+        "certificate": "Approved",
+        "runtime": "237 min",
+        "genre": "Adventure, Family, Fantasy",
+        "description": "A 20th Century pilot named Buck Rogers and his young friend Buddy Wade awake from 500 years in suspended animation to find that the world has been taken over by the outlaw army of Killer Kane.",
+        "director": "Ford Beebe",
+        "stars": [
+            "Saul A. Goodkind",
+            "Buster Crabbe",
+            "Constance Moore",
+            "Jackie Moran",
+            "Jack Mulhall"
+        ],
+        "votes": "699",
+        "gross": ""
+    },
+    "44": {
+        "name": "Nancy Drew... Reporter",
+        "certificate": "Approved",
+        "runtime": "68 min",
+        "genre": "Comedy, Crime, Mystery",
+        "description": "Nancy Drew, reporter for the school newspaper, clears a girl of murder charges.",
+        "director": "William Clemens",
+        "stars": [
+            "Bonita Granville",
+            "John Litel",
+            "Frankie Thomas",
+            "Dickie Jones"
+        ],
+        "votes": "920",
+        "gross": ""
+    },
+    "45": {
+        "name": "It's a Wonderful World",
+        "certificate": "Not Rated",
+        "runtime": "86 min",
+        "genre": "Comedy, Crime, Mystery",
+        "description": "When a tycoon is accused of murder, the private eye tracking him finds himself roped in as an accessory and attempts to evade police, kidnapping a poetess along the way.",
+        "director": "W.S. Van Dyke",
+        "stars": [
+            "Claudette Colbert",
+            "James Stewart",
+            "Guy Kibbee",
+            "Nat Pendleton"
+        ],
+        "votes": "2,254",
+        "gross": ""
+    },
+    "46": {
+        "name": "Nancy Drew... Trouble Shooter",
+        "certificate": "Approved",
+        "runtime": "68 min",
+        "genre": "Comedy, Mystery",
+        "description": "When a close friend of the Drew family is accused of murder in a rural community, Nancy, aided by boyfriend Ted, helps her lawyer father expose the real killers.",
+        "director": "William Clemens",
+        "stars": [
+            "Bonita Granville",
+            "Frankie Thomas",
+            "John Litel",
+            "Aldrich Bowker"
+        ],
+        "votes": "508",
+        "gross": ""
+    },
+    "47": {
+        "name": "The Man in the Iron Mask",
+        "certificate": "Passed",
+        "runtime": "113 min",
+        "genre": "Adventure, History, Romance",
+        "description": "Despotic King Louis XIV discovers he has a twin brother who has grown up under the tutelage of his foster father, the patriotic musketeer D'Artagnan.",
+        "director": "James Whale",
+        "stars": [
+            "Louis Hayward",
+            "Joan Bennett",
+            "Warren William",
+            "Joseph Schildkraut"
+        ],
+        "votes": "1,331",
+        "gross": ""
+    },
+    "48": {
+        "name": "Pacific Liner",
+        "certificate": "Approved",
+        "runtime": "76 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "The S. S. Arcturus sails from Shanghai to San Francisco, and Dr. Jim Craig takes the post of ship's physician in order to be near Ann Grayson, the ship's nurse. Chief Engineer 'Crusher\" ...                See full summary\u00a0\u00bb",
+        "director": "Lew Landers",
+        "stars": [
+            "Victor McLaglen",
+            "Chester Morris",
+            "Wendy Barrie",
+            "Alan Hale"
+        ],
+        "votes": "175",
+        "gross": ""
+    },
+    "49": {
+        "name": "Midnight",
+        "certificate": "Not Rated",
+        "runtime": "94 min",
+        "genre": "Comedy, Romance",
+        "description": "A chorus girl stranded in Paris is set up by a millionaire to break up his wife's affair with another man, while being romantically pursued by a cab driver.",
+        "director": "Mitchell Leisen",
+        "stars": [
+            "Claudette Colbert",
+            "Don Ameche",
+            "John Barrymore",
+            "Francis Lederer"
+        ],
+        "votes": "4,048",
+        "gross": ""
+    },
+    "50": {
+        "name": "Babes in Arms",
+        "certificate": "Unrated",
+        "runtime": "94 min",
+        "genre": "Comedy, Musical",
+        "description": "A group of vaudevillians struggling to compete with talkies hits the road hoping for a comeback. Frustrated to be left behind, all of their kids put on a show themselves to raise money for the families and to prove they've got talent, too.",
+        "director": "Busby Berkeley",
+        "stars": [
+            "Mickey Rooney",
+            "Judy Garland",
+            "Charles Winninger",
+            "Guy Kibbee"
+        ],
+        "votes": "2,068",
+        "gross": ""
+    }
+}

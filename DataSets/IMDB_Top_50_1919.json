@@ -1,0 +1,801 @@
+{
+    "1": {
+        "name": "Broken Blossoms or The Yellow Man and the Girl",
+        "certificate": "Not Rated",
+        "runtime": "90 min",
+        "genre": "Drama, Romance",
+        "description": "A frail waif, abused by her brutal boxer father in London's seedy Limehouse District, is befriended by a sensitive Chinese immigrant with tragic consequences.",
+        "director": "D.W. Griffith",
+        "stars": [
+            "Lillian Gish",
+            "Richard Barthelmess",
+            "Donald Crisp",
+            "Arthur Howard"
+        ],
+        "votes": "8,484",
+        "gross": ""
+    },
+    "2": {
+        "name": "Anders als die Andern",
+        "certificate": "Not Rated",
+        "runtime": "50 min",
+        "genre": "Crime, Drama, History",
+        "description": "Two male musicians fall in love, but blackmail and scandal makes the affair take a tragic turn.",
+        "director": "Richard Oswald",
+        "stars": [
+            "Conrad Veidt",
+            "Leo Connard",
+            "Ilse von Tasso-Lind",
+            "Alexandra Willegh"
+        ],
+        "votes": "987",
+        "gross": ""
+    },
+    "3": {
+        "name": "Daddy-Long-Legs",
+        "certificate": "Unrated",
+        "runtime": "85 min",
+        "genre": "Comedy, Drama",
+        "description": "An orphan discovers that she has an anonymous benefactor who is willing to pay her college tuition, unaware he's the same man who has been romantically pursuing her.",
+        "director": "Marshall Neilan",
+        "stars": [
+            "Mary Pickford",
+            "Milla Davenport",
+            "Percy Haswell",
+            "Fay Lemport"
+        ],
+        "votes": "1,269",
+        "gross": ""
+    },
+    "4": {
+        "name": "Male and Female",
+        "certificate": "Not Rated",
+        "runtime": "116 min",
+        "genre": "Adventure, Drama",
+        "description": "Lady Mary Lasenby is a spoiled maiden who always gets her way until shipwrecked with her butler, then learns which qualities are really admirable in a person.",
+        "director": "Cecil B. DeMille",
+        "stars": [
+            "Thomas Meighan",
+            "Theodore Roberts",
+            "Raymond Hatton",
+            "Robert Cain"
+        ],
+        "votes": "1,633",
+        "gross": ""
+    },
+    "5": {
+        "name": "The Hoodlum",
+        "certificate": "Not Rated",
+        "runtime": "78 min",
+        "genre": "Comedy",
+        "description": "A spoiled young rich girl is forced by misfortune to fight for survival in the slums and alleys, where she becomes involved with all manner of unpleasantness.",
+        "director": "Sidney Franklin",
+        "stars": [
+            "Mary Pickford",
+            "Ralph Lewis",
+            "Kenneth Harlan",
+            "T.D. Crittenden"
+        ],
+        "votes": "891",
+        "gross": ""
+    },
+    "6": {
+        "name": "Blind Husbands",
+        "certificate": "Not Rated",
+        "runtime": "99 min",
+        "genre": "Drama, Romance",
+        "description": "An Austrian officer sets out to seduce a neglected young wife.",
+        "director": "Erich von Stroheim",
+        "stars": [
+            "Sam De Grasse",
+            "Francelia Billington",
+            "Erich von Stroheim",
+            "Gibson Gowland"
+        ],
+        "votes": "1,236",
+        "gross": ""
+    },
+    "7": {
+        "name": "J'accuse!",
+        "certificate": "Not Rated",
+        "runtime": "166 min",
+        "genre": "Drama, Horror, War",
+        "description": "The story of two men, one married, the other the lover of the other's wife, who meet in the trenches of the First World War, and how their tale becomes a microcosm for the horrors of war.",
+        "director": "Abel Gance",
+        "stars": [
+            "Romuald Joub\u00e9",
+            "Maxime Desjardins",
+            "S\u00e9verin-Mars",
+            "Ang\u00e8le Guys"
+        ],
+        "votes": "1,219",
+        "gross": ""
+    },
+    "8": {
+        "name": "Auction of Souls",
+        "certificate": "",
+        "runtime": "80 min",
+        "genre": "Drama, History, Romance",
+        "description": "Aurora Mardiganian, a young and beautiful Armenian girl, lives with her parents in the Turkish city of Havpoul. Her father, a prosperous merchant, was preparing to send her to the West to ...                See full summary\u00a0\u00bb",
+        "director": "Oscar Apfel",
+        "stars": [
+            "Aurora Mardiganian",
+            "Irving Cummings",
+            "Anna Q. Nilsson",
+            "Henry Morgenthau"
+        ],
+        "votes": "915",
+        "gross": ""
+    },
+    "9": {
+        "name": "True Heart Susie",
+        "certificate": "Not Rated",
+        "runtime": "87 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Susie, a plain young country girl, secretly loves a neighbor boy, William. She believes in him and sacrifices much of her own happiness to promote his own ambitions, all without his ...                See full summary\u00a0\u00bb",
+        "director": "D.W. Griffith",
+        "stars": [
+            "Lillian Gish",
+            "Robert Harron",
+            "Wilbur Higby",
+            "Loyola O'Connor"
+        ],
+        "votes": "1,467",
+        "gross": ""
+    },
+    "10": {
+        "name": "Harakiri",
+        "certificate": "Not Rated",
+        "runtime": "80 min",
+        "genre": "Drama",
+        "description": "The Buddhist priest wants the Daughter of the Daimyo to become a priestess at the Forbidden Garden. The Daimyo thinks if he were in Europe that his daughter should decide on her own, but he...                See full summary\u00a0\u00bb",
+        "director": "Fritz Lang",
+        "stars": [
+            "Paul Biensfeldt",
+            "Lil Dagover",
+            "Georg John",
+            "Meinhart Maur"
+        ],
+        "votes": "482",
+        "gross": ""
+    },
+    "11": {
+        "name": "Herr Arnes pengar",
+        "certificate": "Not Rated",
+        "runtime": "122 min",
+        "genre": "Drama, History",
+        "description": "Three Scottish officers, including Sir Archi, murder Sir Arne and his household for a coffin filled with gold. The only survivor is Elsalill, who moves to relatives in Marstrand. There she ...                See full summary\u00a0\u00bb",
+        "director": "Mauritz Stiller",
+        "stars": [
+            "Erik Stocklassa",
+            "Bror Berger",
+            "Richard Lund",
+            "Axel Nilsson"
+        ],
+        "votes": "1,063",
+        "gross": ""
+    },
+    "12": {
+        "name": "Don't Change Your Husband",
+        "certificate": "Not Rated",
+        "runtime": "71 min",
+        "genre": "Comedy",
+        "description": "Leila Porter comes to dislike her husband James, a glue king who is always eating onions and looking sloppy. But after she divorces him and marries two-timing playboy Schuyler Van Sutphen the now-reformed James looks pretty good.",
+        "director": "Cecil B. DeMille",
+        "stars": [
+            "Elliott Dexter",
+            "Gloria Swanson",
+            "Lew Cody",
+            "Sylvia Ashton"
+        ],
+        "votes": "1,080",
+        "gross": ""
+    },
+    "13": {
+        "name": "Anne of Green Gables",
+        "certificate": "",
+        "runtime": "60 min",
+        "genre": "Comedy, Drama",
+        "description": "Anne Shirley, an orphan, is taken into the lives of a generous farmer and his sister. She grows from an adventuresome young lass into a charming and much sought-after young lady.",
+        "director": "William Desmond Taylor",
+        "stars": [
+            "Mary Miles Minter",
+            "Paul Kelly",
+            "Marcia Harris",
+            "Frederick Burton"
+        ],
+        "votes": "53",
+        "gross": ""
+    },
+    "14": {
+        "name": "Madame DuBarry",
+        "certificate": "Not Rated",
+        "runtime": "85 min",
+        "genre": "Biography, Drama",
+        "description": "The story of Madame DuBarry, the mistress of Louis XV of France, and her loves in the time of the French revolution.",
+        "director": "Ernst Lubitsch",
+        "stars": [
+            "Pola Negri",
+            "Emil Jannings",
+            "Harry Liedtke",
+            "Eduard von Winterstein"
+        ],
+        "votes": "680",
+        "gross": ""
+    },
+    "15": {
+        "name": "Die Spinnen, 1. Teil - Der Goldene See",
+        "certificate": "Not Rated",
+        "runtime": "130 min",
+        "genre": "Adventure, Western",
+        "description": "Kay Hoog finds a message that indicates that some Incas are still alive, but the secret organisation \"Die Spinnen\" wants the Incas' gold....",
+        "director": "Fritz Lang",
+        "stars": [
+            "Carl de Vogt",
+            "Ressel Orla",
+            "Georg John",
+            "Lil Dagover"
+        ],
+        "votes": "936",
+        "gross": ""
+    },
+    "16": {
+        "name": "Behind the Door",
+        "certificate": "",
+        "runtime": "70 min",
+        "genre": "Drama, Thriller, War",
+        "description": "A German-American naval officer takes revenge against the German submarine commander who brutalized his wife.",
+        "director": "Irvin Willat",
+        "stars": [
+            "Hobart Bosworth",
+            "Jane Novak",
+            "Wallace Beery",
+            "James Gordon"
+        ],
+        "votes": "129",
+        "gross": ""
+    },
+    "17": {
+        "name": "Back to God's Country",
+        "certificate": "Unrated",
+        "runtime": "73 min",
+        "genre": "Adventure, Romance",
+        "description": "A woman finds herself all alone in a remote harbor with the man responsible for the murder of her father. With seemingly nobody around to protect her, she has to be resourceful.",
+        "director": "David Hartford",
+        "stars": [
+            "Nell Shipman",
+            "Charles Arling",
+            "Wheeler Oakman",
+            "Wellington A. Playter"
+        ],
+        "votes": "798",
+        "gross": ""
+    },
+    "18": {
+        "name": "The Doll",
+        "certificate": "Not Rated",
+        "runtime": "48 min",
+        "genre": "Comedy, Fantasy",
+        "description": "Because the Baron of Chanterelle wants to preserve his family line, he forces his timid nephew Lancelot to choose one of the village maidens to wed. Lancelot flees to a monastery to escape ...                See full summary\u00a0\u00bb",
+        "director": "Ernst Lubitsch",
+        "stars": [
+            "Ossi Oswalda",
+            "Hermann Thimig",
+            "Victor Janson",
+            "Max Kronert"
+        ],
+        "votes": "1,474",
+        "gross": ""
+    },
+    "19": {
+        "name": "Die Austernprinzessin",
+        "certificate": "Not Rated",
+        "runtime": "58 min",
+        "genre": "Comedy",
+        "description": "An American heiress seeks the hand of an impoverished German prince.",
+        "director": "Ernst Lubitsch",
+        "stars": [
+            "Victor Janson",
+            "Ossi Oswalda",
+            "Harry Liedtke",
+            "Julius Falkenstein"
+        ],
+        "votes": "1,480",
+        "gross": ""
+    },
+    "20": {
+        "name": "Eerie Tales",
+        "certificate": "",
+        "runtime": "112 min",
+        "genre": "Fantasy, Horror, Mystery",
+        "description": "A demon, a reaper, and a supernatural prostitute read gothic short stories and act them out.",
+        "director": "Richard Oswald",
+        "stars": [
+            "Anita Berber",
+            "Conrad Veidt",
+            "Reinhold Sch\u00fcnzel",
+            "Hugo D\u00f6blin"
+        ],
+        "votes": "386",
+        "gross": ""
+    },
+    "21": {
+        "name": "Pr\u00e6sidenten",
+        "certificate": "",
+        "runtime": "75 min",
+        "genre": "Drama",
+        "description": "The judge in a Danish town sees his illegitimate daughter facing a trial for the murder of her newborn child, and is rather sure that she will be sentenced to death. She became pregnant ...                See full summary\u00a0\u00bb",
+        "director": "Carl Theodor Dreyer",
+        "stars": [
+            "Richard Christensen",
+            "Christian Engelstoft",
+            "Hallander Helleman",
+            "Halvard Hoff"
+        ],
+        "votes": "704",
+        "gross": ""
+    },
+    "22": {
+        "name": "The Red Lantern",
+        "certificate": "",
+        "runtime": "70 min",
+        "genre": "Drama",
+        "description": "Mahlee and Blanche Sackville are half-sisters, Blanche the daughter of an Englishman and his wife, Mahlee of the Englishman and his Chinese mistress. Mahlee rejects her people and attempts ...                See full summary\u00a0\u00bb",
+        "director": "Albert Capellani",
+        "stars": [
+            "Alla Nazimova",
+            "Noah Beery",
+            "Charles Bryant",
+            "Edward Connelly"
+        ],
+        "votes": "30",
+        "gross": ""
+    },
+    "23": {
+        "name": "The Mother and the Law",
+        "certificate": "",
+        "runtime": "95 min",
+        "genre": "Drama",
+        "description": "A re-edited version of the 'modern' story from Intolerance: Love's Struggle Throughout the Ages (1916).",
+        "director": "D.W. Griffith",
+        "stars": [
+            "Mae Marsh",
+            "Robert Harron",
+            "Miriam Cooper",
+            "Vera Lewis"
+        ],
+        "votes": "143",
+        "gross": ""
+    },
+    "24": {
+        "name": "Le bercail",
+        "certificate": "",
+        "runtime": "69 min",
+        "genre": "Drama",
+        "description": "Add a Plot",
+        "director": "Marcel L'Herbier",
+        "stars": [
+            "Marcelle Pradot",
+            "Jaque Catelain",
+            "Paul Capellani",
+            "Claire Pr\u00e9lia"
+        ],
+        "votes": "6",
+        "gross": ""
+    },
+    "25": {
+        "name": "The Grim Game",
+        "certificate": "",
+        "runtime": "71 min",
+        "genre": "Adventure, Drama",
+        "description": "Jailed unjustly for a murder he did not commit, a young man uses his amazing powers of escape to free himself and pursue the actual killers, who hold his fianc\u00e9e captive.",
+        "director": "Irvin Willat",
+        "stars": [
+            "Harry Houdini",
+            "Thomas Jefferson",
+            "Ann Forrest",
+            "Augustus Phillips"
+        ],
+        "votes": "233",
+        "gross": ""
+    },
+    "26": {
+        "name": "The Lost Battalion",
+        "certificate": "",
+        "runtime": "70 min",
+        "genre": "Drama, War",
+        "description": "A battalion of the U.S. Army's 77th Division penetrates deep into the Argonne Forest of France during the First World War. The battalion becomes surrounded and holds out for six long days, ...                See full summary\u00a0\u00bb",
+        "director": "Burton L. King",
+        "stars": [
+            "Robert Alexander",
+            "George G. McMurtry",
+            "Charles W. Whittlesey",
+            "William J. Cullen"
+        ],
+        "votes": "67",
+        "gross": ""
+    },
+    "27": {
+        "name": "The First Men in the Moon",
+        "certificate": "",
+        "runtime": "50 min",
+        "genre": "Fantasy",
+        "description": "The inventor of a space sphere flies to the moon and is marooned by a crooked financier.",
+        "director": "Bruce Gordon",
+        "stars": [
+            "J.L.V. Leigh",
+            "Bruce Gordon",
+            "Heather Thatcher",
+            "Hector Abbas",
+            "Lionel d'Aragon"
+        ],
+        "votes": "30",
+        "gross": ""
+    },
+    "28": {
+        "name": "When the Clouds Roll by",
+        "certificate": "",
+        "runtime": "85 min",
+        "genre": "Action, Comedy, Romance",
+        "description": "Psychiatrist Dr. Ulrich Metz attempts to drive Daniel Brown to suicide.",
+        "director": "Victor Fleming",
+        "stars": [
+            "Douglas Fairbanks",
+            "Albert MacQuarrie",
+            "Kathleen Clifford",
+            "Frank Campeau"
+        ],
+        "votes": "720",
+        "gross": ""
+    },
+    "29": {
+        "name": "The Little Boss",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Drama",
+        "description": "Add a Plot",
+        "director": "David Smith",
+        "stars": [
+            "Bessie Love",
+            "Wallace MacDonald",
+            "Harry Russell",
+            "Otto Lederer"
+        ],
+        "votes": "",
+        "gross": ""
+    },
+    "30": {
+        "name": "The Miracle Man",
+        "certificate": "Not Rated",
+        "runtime": "80 min",
+        "genre": "Drama",
+        "description": "A gang of crooks evade the police by moving their operations to a small town. There the gang's leader encounters a faith healer and uses him to scam gullible public of funds for a supposed ...                See full summary\u00a0\u00bb",
+        "director": "George Loane Tucker",
+        "stars": [
+            "Lon Chaney",
+            "Betty Compson",
+            "Joseph J. Dowling",
+            "J.M. Dumont"
+        ],
+        "votes": "139",
+        "gross": "$3.00M"
+    },
+    "31": {
+        "name": "Captain Kidd, Jr.",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Comedy",
+        "description": "An old man wills a map to his grandson, with instructions showing a buried treasure, but it is accidentally sold to a book store. The owner and her granddaughter Mary discover it. Mary and ...                See full summary\u00a0\u00bb",
+        "director": "William Desmond Taylor",
+        "stars": [
+            "Mary Pickford",
+            "Douglas MacLean",
+            "Spottiswoode Aitken",
+            "Robert Gordon"
+        ],
+        "votes": "8",
+        "gross": ""
+    },
+    "32": {
+        "name": "S\u00e5ngen om den eldr\u00f6da blomman",
+        "certificate": "",
+        "runtime": "145 min",
+        "genre": "Drama, Romance",
+        "description": "Olof Koskela is the son of a rich farmer. He seduces young girls at random, until an inconsistent gesture rushes him away from home and his carefree lifestyle. Based on the 1905 novel by Finnish author Johannes Linnankoski.",
+        "director": "Mauritz Stiller",
+        "stars": [
+            "Lars Hanson",
+            "Greta Almroth",
+            "Lillebil Ibsen",
+            "Louise Fahlman"
+        ],
+        "votes": "98",
+        "gross": ""
+    },
+    "33": {
+        "name": "Deliverance",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Biography, Drama",
+        "description": "The true story of Helen Keller, who lost her vision and hearing at the age of two, was considered a hopeless case, but who through the diligent aid of teacher Anne Sullivan became a ...                See full summary\u00a0\u00bb",
+        "director": "George Foster Platt",
+        "stars": [
+            "Etna Ross",
+            "Tula Belle",
+            "Edith Lyle",
+            "Betty Schade"
+        ],
+        "votes": "42",
+        "gross": ""
+    },
+    "34": {
+        "name": "The Delicious Little Devil",
+        "certificate": "Passed",
+        "runtime": "63 min",
+        "genre": "Comedy, Drama",
+        "description": "A poor hat-check girl loses her job and is forced to get a job as a dancer at a roadhouse. There she falls in love with the son of a rich businessman. The boy's father, believing her to be ...                See full summary\u00a0\u00bb",
+        "director": "Robert Z. Leonard",
+        "stars": [
+            "Mae Murray",
+            "Richard Cummings",
+            "Harry L. Rattenberry",
+            "Edward Jobson"
+        ],
+        "votes": "788",
+        "gross": ""
+    },
+    "35": {
+        "name": "The Greatest Question",
+        "certificate": "",
+        "runtime": "80 min",
+        "genre": "Drama",
+        "description": "An orphan girl is given shelter by a farm family, but soon finds herself in the clutches of a murderous farmer and his wife.",
+        "director": "D.W. Griffith",
+        "stars": [
+            "Lillian Gish",
+            "Robert Harron",
+            "Ralph Graves",
+            "Eugenie Besserer"
+        ],
+        "votes": "637",
+        "gross": ""
+    },
+    "36": {
+        "name": "Emerald of Death",
+        "certificate": "",
+        "runtime": "54 min",
+        "genre": "Drama",
+        "description": "Thomas von Weerth lives as the last descendant of an aristocratic family in the decayed castle. He is fascinated by the picture, 'The Boy in Blue', which shows the so-called Death Emerald.",
+        "director": "F.W. Murnau",
+        "stars": [
+            "Ernst Hofmann",
+            "Blandine Ebinger",
+            "Margit Barnay",
+            "Karl Platen"
+        ],
+        "votes": "34",
+        "gross": ""
+    },
+    "37": {
+        "name": "Nerven",
+        "certificate": "",
+        "runtime": "110 min",
+        "genre": "Drama",
+        "description": "Doubt and uncertainty ensue when the figurehead of a rebellion goes to court for an alleged rape.",
+        "director": "Robert Reinert",
+        "stars": [
+            "Eduard von Winterstein",
+            "Lia Borr\u00e9",
+            "Erna Morena",
+            "Paul Bender"
+        ],
+        "votes": "197",
+        "gross": ""
+    },
+    "38": {
+        "name": "Wagon Tracks",
+        "certificate": "Not Rated",
+        "runtime": "64 min",
+        "genre": "Western",
+        "description": "Buckskin Hamilton guides a wagon train across the wasteland, caring well for the pioneers he escorts, but hoping to solve the murder of his brother by one of the travellers.",
+        "director": "Lambert Hillyer",
+        "stars": [
+            "William S. Hart",
+            "Jane Novak",
+            "Robert McKim",
+            "Lloyd Bacon"
+        ],
+        "votes": "100",
+        "gross": ""
+    },
+    "39": {
+        "name": "Getting Mary Married",
+        "certificate": "",
+        "runtime": "65 min",
+        "genre": "Comedy",
+        "description": "Young Mary feels like a prisoner in the New York apartments of her step-father John Bussard but everything changes when her heartless guardian dies in an accident. Mary is left a fortune ...                See full synopsis\u00a0\u00bb",
+        "director": "Allan Dwan",
+        "stars": [
+            "Marion Davies",
+            "Norman Kerry",
+            "Matt Moore",
+            "Frederick Burton"
+        ],
+        "votes": "121",
+        "gross": ""
+    },
+    "40": {
+        "name": "Victory",
+        "certificate": "Not Rated",
+        "runtime": "62 min",
+        "genre": "Drama, Romance",
+        "description": "Axel Heyst, an uncommitted wanderer, has settled on an island in the South Seas. He takes pity on a troubled young woman, Lena, and gives her refuge on her island. But the piratical Mr. ...                See full summary\u00a0\u00bb",
+        "director": "Maurice Tourneur",
+        "stars": [
+            "Jack Holt",
+            "Seena Owen",
+            "Wallace Beery",
+            "Ben Deeley"
+        ],
+        "votes": "297",
+        "gross": ""
+    },
+    "41": {
+        "name": "Big Little Person",
+        "certificate": "Passed",
+        "runtime": "",
+        "genre": "Drama",
+        "description": "The Big Little Person was a 1919 American silent romantic drama film produced and distributed by Universal Pictures. Based on the novel of the same name by Rebecca Lane Hooper Eastman, the ...                See full summary\u00a0\u00bb",
+        "director": "Robert Z. Leonard",
+        "stars": [
+            "Mae Murray",
+            "Clarissa Selwynne",
+            "Rudolph Valentino",
+            "Allan Sears"
+        ],
+        "votes": "",
+        "gross": ""
+    },
+    "42": {
+        "name": "Dalagang bukid",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Romance",
+        "description": "This is the first Filipino feature-length film made by a Filipino director regarded as \"Father of Filipino Movies\" and is now lost forever. Dalagang Bukid is a story about a young flower ...                See full summary\u00a0\u00bb",
+        "director": "Jose Nepomuceno",
+        "stars": [
+            "Atang Dela Rama",
+            "Mar I. Esmeralda"
+        ],
+        "votes": "12",
+        "gross": ""
+    },
+    "43": {
+        "name": "The Fall of Babylon",
+        "certificate": "",
+        "runtime": "82 min",
+        "genre": "Drama",
+        "description": "In the last days of ancient Babylon, a tomboyish mountain girl fights for her king when the city is attacked.",
+        "director": "D.W. Griffith",
+        "stars": [
+            "Constance Talmadge",
+            "Tully Marshall",
+            "Alfred Paget",
+            "Carl Stockdale"
+        ],
+        "votes": "81",
+        "gross": ""
+    },
+    "44": {
+        "name": "The Woman Thou Gavest Me",
+        "certificate": "",
+        "runtime": "60 min",
+        "genre": "Drama",
+        "description": "Mary is forced to marry Lord Raa, a man she despises. When he abandons her, she flies to the arms of the man she truly loves, Conrad. But soon she finds herself abandoned again and pregnant...                See full summary\u00a0\u00bb",
+        "director": "Hugh Ford",
+        "stars": [
+            "Fritzi Brunette",
+            "Katherine Griffith",
+            "Jack Holt",
+            "Katherine MacDonald"
+        ],
+        "votes": "",
+        "gross": ""
+    },
+    "45": {
+        "name": "A Romance of Happy Valley",
+        "certificate": "Not Rated",
+        "runtime": "76 min",
+        "genre": "Drama, Romance",
+        "description": "John Logan leaves his parents and sweetheart in bucolic Happy Valley to make his fortune in the city. Those he left behind become miserable and beleaguered in his absence, but after several...                See full summary\u00a0\u00bb",
+        "director": "D.W. Griffith",
+        "stars": [
+            "Lydia Yeamans Titus",
+            "Robert Harron",
+            "Kate Bruce",
+            "George Fawcett"
+        ],
+        "votes": "303",
+        "gross": ""
+    },
+    "46": {
+        "name": "Halbblut",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Fantasy",
+        "description": "The story of a man destroyed by love.",
+        "director": "Fritz Lang",
+        "stars": [
+            "Ressel Orla",
+            "Carl de Vogt",
+            "Gilda Langer",
+            "Paul Morgan"
+        ],
+        "votes": "48",
+        "gross": ""
+    },
+    "47": {
+        "name": "Scarlet Days",
+        "certificate": "",
+        "runtime": "77 min",
+        "genre": "Adventure, Romance, Western",
+        "description": "A romantic bandit named Alvarez, wanted for raids on the mining camps of the California gold rush in 1849, is reformed by the love of a good woman.",
+        "director": "D.W. Griffith",
+        "stars": [
+            "Richard Barthelmess",
+            "Eugenie Besserer",
+            "Carol Dempster",
+            "Clarine Seymour"
+        ],
+        "votes": "404",
+        "gross": ""
+    },
+    "48": {
+        "name": "Johnny Get Your Gun",
+        "certificate": "Approved",
+        "runtime": "50 min",
+        "genre": "Comedy, Drama",
+        "description": "Sing Johnny Get Your Gun in the Style of \"Gibson Miller Band\". Stingray Karaoke Country, 80'S & 90'S, 1994, English, Key E.",
+        "director": "Donald Crisp",
+        "stars": [
+            "Fred Stone",
+            "Mary Anderson",
+            "Casson Ferguson",
+            "James Cruze"
+        ],
+        "votes": "19",
+        "gross": ""
+    },
+    "49": {
+        "name": "Mod lyset",
+        "certificate": "",
+        "runtime": "55 min",
+        "genre": "Drama",
+        "description": "Spoiled Ysabel marries a man of respectability but he later turns out to a criminal. Consequently, her mother breaks down, and on her deathbed, Ysabel wows to become an evangelist.",
+        "director": "Holger-Madsen",
+        "stars": [
+            "Asta Nielsen",
+            "Augusta Blad",
+            "Frederik Jacobsen",
+            "Carl Schenstr\u00f8m"
+        ],
+        "votes": "78",
+        "gross": ""
+    },
+    "50": {
+        "name": "The Downy Girl",
+        "certificate": "",
+        "runtime": "131 min",
+        "genre": "Drama",
+        "description": "The mayor's son Mauritz Fristedt has fallen in love with the baker's daughter Dunungen.",
+        "director": "Ivan Hedqvist",
+        "stars": [
+            "Ren\u00e9e Bj\u00f6rling",
+            "Carl Browallius",
+            "Mia Gr\u00fcnder",
+            "Bell Hedqvist"
+        ],
+        "votes": "10",
+        "gross": ""
+    }
+}

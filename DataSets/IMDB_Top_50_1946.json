@@ -1,0 +1,818 @@
+{
+    "1": {
+        "name": "It's a Wonderful Life",
+        "certificate": "PG",
+        "runtime": "130 min",
+        "genre": "Drama, Family, Fantasy",
+        "description": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
+        "director": "Frank Capra",
+        "stars": [
+            "James Stewart",
+            "Donna Reed",
+            "Lionel Barrymore",
+            "Thomas Mitchell"
+        ],
+        "votes": "353,047",
+        "gross": ""
+    },
+    "2": {
+        "name": "My Darling Clementine",
+        "certificate": "Not Rated",
+        "runtime": "97 min",
+        "genre": "Biography, Drama, Western",
+        "description": "The Earps battle the Clantons at the OK Corral in Tombstone, Arizona.",
+        "director": "John Ford",
+        "stars": [
+            "Henry Fonda",
+            "Linda Darnell",
+            "Victor Mature",
+            "Cathy Downs"
+        ],
+        "votes": "19,284",
+        "gross": ""
+    },
+    "3": {
+        "name": "Notorious",
+        "certificate": "Not Rated",
+        "runtime": "102 min",
+        "genre": "Drama, Film-Noir, Romance",
+        "description": "A woman is asked to spy on a group of Nazi friends in South America. How far will she have to go to ingratiate herself with them?",
+        "director": "Alfred Hitchcock",
+        "stars": [
+            "Cary Grant",
+            "Ingrid Bergman",
+            "Claude Rains",
+            "Louis Calhern"
+        ],
+        "votes": "84,613",
+        "gross": "$10.46M"
+    },
+    "4": {
+        "name": "The Big Sleep",
+        "certificate": "Not Rated",
+        "runtime": "114 min",
+        "genre": "Crime, Film-Noir, Mystery",
+        "description": "Private detective Philip Marlowe is hired by a rich family. Before the complex case is over, he's seen murder, blackmail, and what might be love.",
+        "director": "Howard Hawks",
+        "stars": [
+            "Humphrey Bogart",
+            "Lauren Bacall",
+            "John Ridgely",
+            "Martha Vickers"
+        ],
+        "votes": "73,154",
+        "gross": "$6.54M"
+    },
+    "5": {
+        "name": "Song of the South",
+        "certificate": "Approved",
+        "runtime": "94 min",
+        "genre": "Animation, Comedy, Family",
+        "description": "The kindly story-teller Uncle Remus tells a young boy stories about trickster Br'er Rabbit, who outwits Br'er Fox and slow-witted Br'er Bear.",
+        "director": "Harve Foster",
+        "stars": [
+            "Wilfred Jackson",
+            "Ruth Warrick",
+            "Bobby Driscoll",
+            "James Baskett",
+            "Luana Patten"
+        ],
+        "votes": "10,049",
+        "gross": "$63.72M"
+    },
+    "6": {
+        "name": "The Best Years of Our Lives",
+        "certificate": "Approved",
+        "runtime": "170 min",
+        "genre": "Drama, Romance, War",
+        "description": "Three World War II veterans return home to small-town America to discover that they and their families have been irreparably changed.",
+        "director": "William Wyler",
+        "stars": [
+            "Myrna Loy",
+            "Dana Andrews",
+            "Fredric March",
+            "Teresa Wright"
+        ],
+        "votes": "52,904",
+        "gross": "$23.65M"
+    },
+    "7": {
+        "name": "Great Expectations",
+        "certificate": "Not Rated",
+        "runtime": "118 min",
+        "genre": "Adventure, Drama, Mystery",
+        "description": "A humble orphan suddenly becomes a gentleman with the help of an unknown benefactor.",
+        "director": "David Lean",
+        "stars": [
+            "John Mills",
+            "Valerie Hobson",
+            "Tony Wager",
+            "Jean Simmons"
+        ],
+        "votes": "20,242",
+        "gross": ""
+    },
+    "8": {
+        "name": "The Stranger",
+        "certificate": "Not Rated",
+        "runtime": "95 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "An investigator from the War Crimes Commission travels to Connecticut to find an infamous Nazi.",
+        "director": "Orson Welles",
+        "stars": [
+            "Orson Welles",
+            "Edward G. Robinson",
+            "Loretta Young",
+            "Philip Merivale"
+        ],
+        "votes": "18,624",
+        "gross": ""
+    },
+    "9": {
+        "name": "Gilda",
+        "certificate": "Not Rated",
+        "runtime": "110 min",
+        "genre": "Drama, Film-Noir, Romance",
+        "description": "A small-time gambler hired to work in a Buenos Aires casino learns that his ex-lover is married to his employer.",
+        "director": "Charles Vidor",
+        "stars": [
+            "Rita Hayworth",
+            "Glenn Ford",
+            "George Macready",
+            "Joseph Calleia"
+        ],
+        "votes": "24,675",
+        "gross": ""
+    },
+    "10": {
+        "name": "The Killers",
+        "certificate": "Passed",
+        "runtime": "103 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "Hit men kill an unresisting victim, and investigator Reardon uncovers his past involvement with beautiful, deadly Kitty Collins.",
+        "director": "Robert Siodmak",
+        "stars": [
+            "Burt Lancaster",
+            "Ava Gardner",
+            "Edmond O'Brien",
+            "Albert Dekker"
+        ],
+        "votes": "16,806",
+        "gross": ""
+    },
+    "11": {
+        "name": "Lady in the Lake",
+        "certificate": "Approved",
+        "runtime": "105 min",
+        "genre": "Crime, Film-Noir, Mystery",
+        "description": "The lady editor of a crime magazine hires Philip Marlowe to find the wife of her boss. The private detective soon finds himself involved in murder.",
+        "director": "Robert Montgomery",
+        "stars": [
+            "Robert Montgomery",
+            "Audrey Totter",
+            "Lloyd Nolan",
+            "Tom Tully"
+        ],
+        "votes": "4,493",
+        "gross": ""
+    },
+    "12": {
+        "name": "So Dark the Night",
+        "certificate": "Not Rated",
+        "runtime": "71 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "A renowned and relentless Paris detective takes his first vacation in eleven years at a small inn in the French countryside. There he meets and falls in love with the hotelier's daughter, ...                See full summary\u00a0\u00bb",
+        "director": "Joseph H. Lewis",
+        "stars": [
+            "Steven Geray",
+            "Micheline Cheirel",
+            "Eugene Borden",
+            "Ann Codee"
+        ],
+        "votes": "671",
+        "gross": ""
+    },
+    "13": {
+        "name": "The Strange Love of Martha Ivers",
+        "certificate": "Unrated",
+        "runtime": "116 min",
+        "genre": "Drama, Film-Noir, Romance",
+        "description": "A man is reunited with his childhood friend and her husband, who believe he knows the truth about the death of her rich aunt years earlier.",
+        "director": "Lewis Milestone",
+        "stars": [
+            "Barbara Stanwyck",
+            "Van Heflin",
+            "Lizabeth Scott",
+            "Kirk Douglas"
+        ],
+        "votes": "7,134",
+        "gross": ""
+    },
+    "14": {
+        "name": "The Postman Always Rings Twice",
+        "certificate": "Not Rated",
+        "runtime": "113 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "A married woman and a drifter fall in love, then plot to murder her husband.",
+        "director": "Tay Garnett",
+        "stars": [
+            "Lana Turner",
+            "John Garfield",
+            "Cecil Kellaway",
+            "Hume Cronyn"
+        ],
+        "votes": "16,669",
+        "gross": "$8.33M"
+    },
+    "15": {
+        "name": "Duel in the Sun",
+        "certificate": "Passed",
+        "runtime": "129 min",
+        "genre": "Drama, Romance, Western",
+        "description": "Beautiful half-breed Pearl Chavez becomes the ward of her dead father's first love and finds herself torn between her sons, one good and the other bad.",
+        "director": "King Vidor",
+        "stars": [
+            "Otto Brower",
+            "William Dieterle",
+            "Sidney Franklin",
+            "William Cameron Menzies",
+            "David O. Selznick",
+            "Josef von Sternberg",
+            "Jennifer Jones",
+            "Joseph Cotten",
+            "Gregory Peck",
+            "Lionel Barrymore"
+        ],
+        "votes": "7,391",
+        "gross": "$20.41M"
+    },
+    "16": {
+        "name": "Beauty and the Beast",
+        "certificate": "Not Rated",
+        "runtime": "93 min",
+        "genre": "Drama, Fantasy, Romance",
+        "description": "A beautiful young woman takes her father's place as the prisoner of a mysterious beast, who wishes to marry her.",
+        "director": "Jean Cocteau",
+        "stars": [
+            "Ren\u00e9 Cl\u00e9ment",
+            "Jean Marais",
+            "Josette Day",
+            "Mila Par\u00e9ly",
+            "Nane Germon"
+        ],
+        "votes": "22,112",
+        "gross": "$0.30M"
+    },
+    "17": {
+        "name": "A Matter of Life and Death",
+        "certificate": "PG",
+        "runtime": "104 min",
+        "genre": "Comedy, Drama, Fantasy",
+        "description": "A British wartime aviator who cheats death must argue for his life before a celestial court.",
+        "director": "Michael Powell",
+        "stars": [
+            "Emeric Pressburger",
+            "David Niven",
+            "Kim Hunter",
+            "Robert Coote",
+            "Kathleen Byron"
+        ],
+        "votes": "16,963",
+        "gross": ""
+    },
+    "18": {
+        "name": "The Razor's Edge",
+        "certificate": "Approved",
+        "runtime": "145 min",
+        "genre": "Drama, Romance",
+        "description": "An adventuresome young man goes off to find himself and loses his socialite fianc\u00e9e in the process. But when he returns 10 years later, she will stop at nothing to get him back, even though she is already married.",
+        "director": "Edmund Goulding",
+        "stars": [
+            "Tyrone Power",
+            "Gene Tierney",
+            "John Payne",
+            "Anne Baxter"
+        ],
+        "votes": "4,795",
+        "gross": ""
+    },
+    "19": {
+        "name": "Nobody Lives Forever",
+        "certificate": "Approved",
+        "runtime": "100 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "G.I. Nick Blake, a never charged con man in his pre-military life, has just received an honorable discharge from the army on medical reasons. Rather than return to his old life, he plans to...                See full summary\u00a0\u00bb",
+        "director": "Jean Negulesco",
+        "stars": [
+            "John Garfield",
+            "Geraldine Fitzgerald",
+            "Walter Brennan",
+            "Faye Emerson"
+        ],
+        "votes": "1,061",
+        "gross": ""
+    },
+    "20": {
+        "name": "Decoy",
+        "certificate": "Approved",
+        "runtime": "76 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "A mortally wounded female gangster recounts how she and her gang revived an executed killer from the gas chamber, to try and find out where he buried a fortune in cash.",
+        "director": "Jack Bernhard",
+        "stars": [
+            "Jean Gillie",
+            "Edward Norris",
+            "Robert Armstrong",
+            "Herbert Rudley"
+        ],
+        "votes": "1,351",
+        "gross": ""
+    },
+    "21": {
+        "name": "Night Boat to Dublin",
+        "certificate": "Approved",
+        "runtime": "100 min",
+        "genre": "Thriller",
+        "description": "The allies plan to rescue a Swedish atomic scientist from under the noses of the Nazis.",
+        "director": "Lawrence Huntington",
+        "stars": [
+            "Robert Newton",
+            "Raymond Lovell",
+            "Guy Middleton",
+            "Muriel Pavlow"
+        ],
+        "votes": "137",
+        "gross": ""
+    },
+    "22": {
+        "name": "Terror by Night",
+        "certificate": "Approved",
+        "runtime": "60 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "When the fabled Star of Rhodesia diamond is stolen on a London to Edinburgh train and the son of its owner is murdered, Sherlock Holmes must discover which of his suspicious fellow passengers is responsible.",
+        "director": "Roy William Neill",
+        "stars": [
+            "Basil Rathbone",
+            "Nigel Bruce",
+            "Alan Mowbray",
+            "Dennis Hoey"
+        ],
+        "votes": "4,749",
+        "gross": ""
+    },
+    "23": {
+        "name": "Dragonwyck",
+        "certificate": "Not Rated",
+        "runtime": "103 min",
+        "genre": "Drama, Thriller, Mystery",
+        "description": "A simple Connecticut farm girl is recruited by a distant relative, an aristocratic patroon, to be governess to his young daughter in his Hudson Valley mansion.",
+        "director": "Joseph L. Mankiewicz",
+        "stars": [
+            "Gene Tierney",
+            "Walter Huston",
+            "Vincent Price",
+            "Glenn Langan"
+        ],
+        "votes": "3,190",
+        "gross": ""
+    },
+    "24": {
+        "name": "Till the Clouds Roll By",
+        "certificate": "Passed",
+        "runtime": "132 min",
+        "genre": "Biography, Musical",
+        "description": "Biography of songwriter, Broadway pioneer, Jerome Kern. Unable to find immediate success in the USA, Kern sought recognition abroad. He journeyed to England where his dreams of success became real and where he met his future wife Eva.",
+        "director": "Richard Whorf",
+        "stars": [
+            "Vincente Minnelli",
+            "George Sidney",
+            "Robert Walker",
+            "Van Heflin",
+            "Lucille Bremer",
+            "June Allyson"
+        ],
+        "votes": "1,855",
+        "gross": "$6.72M"
+    },
+    "25": {
+        "name": "The Yearling",
+        "certificate": "Approved",
+        "runtime": "128 min",
+        "genre": "Drama, Family, Western",
+        "description": "A boy persuades his parents to allow him to adopt a young deer, but what will happen if the deer misbehaves?",
+        "director": "Clarence Brown",
+        "stars": [
+            "Gregory Peck",
+            "Jane Wyman",
+            "Claude Jarman Jr.",
+            "Chill Wills"
+        ],
+        "votes": "4,871",
+        "gross": "$5.20M"
+    },
+    "26": {
+        "name": "The Harvey Girls",
+        "certificate": "Not Rated",
+        "runtime": "102 min",
+        "genre": "Comedy, Musical, Western",
+        "description": "On a train trip West to become a mail-order bride, Susan Bradley meets a cheery crew of young women travelling out to open a \" Harvey House \" restaurant at a remote whistle-stop.",
+        "director": "George Sidney",
+        "stars": [
+            "Judy Garland",
+            "Ray Bolger",
+            "John Hodiak",
+            "Angela Lansbury"
+        ],
+        "votes": "3,120",
+        "gross": ""
+    },
+    "27": {
+        "name": "Paisan",
+        "certificate": "Not Rated",
+        "runtime": "120 min",
+        "genre": "Drama, War",
+        "description": "The language barrier has tragic consequences in a series of unrelated stories set during the Italian Campaign of WWII.",
+        "director": "Roberto Rossellini",
+        "stars": [
+            "Carmela Sazio",
+            "Joseph Garland Moore Jr.",
+            "William Tubbs",
+            "Robert Van Loon"
+        ],
+        "votes": "6,260",
+        "gross": ""
+    },
+    "28": {
+        "name": "Cloak and Dagger",
+        "certificate": "Approved",
+        "runtime": "106 min",
+        "genre": "Adventure, Film-Noir, Romance",
+        "description": "In WW2, the Allies race against time to persuade two nuclear scientists working for the Germans to switch sides.",
+        "director": "Fritz Lang",
+        "stars": [
+            "Gary Cooper",
+            "Robert Alda",
+            "Lilli Palmer",
+            "Vladimir Sokoloff"
+        ],
+        "votes": "2,128",
+        "gross": ""
+    },
+    "29": {
+        "name": "The Spiral Staircase",
+        "certificate": "Approved",
+        "runtime": "83 min",
+        "genre": "Drama, Mystery, Thriller",
+        "description": "In 1916, a shadowy serial killer is targeting women with \"afflictions\"; one night during a thunderstorm, the mute Helen feels menaced.",
+        "director": "Robert Siodmak",
+        "stars": [
+            "Dorothy McGuire",
+            "George Brent",
+            "Ethel Barrymore",
+            "Kent Smith"
+        ],
+        "votes": "8,040",
+        "gross": ""
+    },
+    "30": {
+        "name": "Dressed to Kill",
+        "certificate": "Approved",
+        "runtime": "76 min",
+        "genre": "Crime, Mystery",
+        "description": "Sherlock Holmes sets out to discover why a trio of murderous villains, including a dangerously attractive female, are desperate to obtain three unassuming and inexpensive little music boxes.",
+        "director": "Roy William Neill",
+        "stars": [
+            "Basil Rathbone",
+            "Nigel Bruce",
+            "Patricia Morison",
+            "Edmund Breon"
+        ],
+        "votes": "4,776",
+        "gross": ""
+    },
+    "31": {
+        "name": "The Strange Woman",
+        "certificate": "Approved",
+        "runtime": "100 min",
+        "genre": "Drama, Film-Noir, Romance",
+        "description": "In 1820s New England beautiful but poor and manipulative Jenny Hager marries rich old man Isaiah Poster but also seduces his son and his company foreman.",
+        "director": "Edgar G. Ulmer",
+        "stars": [
+            "Douglas Sirk",
+            "Hedy Lamarr",
+            "George Sanders",
+            "Louis Hayward",
+            "Gene Lockhart"
+        ],
+        "votes": "1,415",
+        "gross": ""
+    },
+    "32": {
+        "name": "Shoeshine",
+        "certificate": "Not Rated",
+        "runtime": "90 min",
+        "genre": "Drama",
+        "description": "Two shoeshine boys in postwar Rome, Italy, save up to buy a horse, but their involvement as dupes in a burglary lands them in juvenile prison where the experience take a devastating toll on their friendship.",
+        "director": "Vittorio De Sica",
+        "stars": [
+            "Rinaldo Smordoni",
+            "Franco Interlenghi",
+            "Annielo Mele",
+            "Bruno Ortenzi"
+        ],
+        "votes": "5,557",
+        "gross": ""
+    },
+    "33": {
+        "name": "The Blue Dahlia",
+        "certificate": "Not Rated",
+        "runtime": "96 min",
+        "genre": "Crime, Film-Noir, Mystery",
+        "description": "An ex-bomber pilot is suspected of murdering his unfaithful wife.",
+        "director": "George Marshall",
+        "stars": [
+            "Alan Ladd",
+            "Veronica Lake",
+            "William Bendix",
+            "Howard Da Silva"
+        ],
+        "votes": "6,724",
+        "gross": "$2.70M"
+    },
+    "34": {
+        "name": "Enamorada",
+        "certificate": "PG",
+        "runtime": "99 min",
+        "genre": "Drama, Romance, War",
+        "description": "During the Mexican Revolution, a macho rebel general falls in love with the independent-minded daughter of an aristocrat in the town he is occupying.",
+        "director": "Emilio Fern\u00e1ndez",
+        "stars": [
+            "Mar\u00eda F\u00e9lix",
+            "Pedro Armend\u00e1riz",
+            "Fernando Fern\u00e1ndez",
+            "Jos\u00e9 Morcillo"
+        ],
+        "votes": "552",
+        "gross": ""
+    },
+    "35": {
+        "name": "The Dark Mirror",
+        "certificate": "Not Rated",
+        "runtime": "85 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "A man is found murdered, with witnesses convinced about the woman they saw leaving his apartment. However, it becomes apparent that the woman has a twin, and finding out which one is the killer seems impossible.",
+        "director": "Robert Siodmak",
+        "stars": [
+            "Olivia de Havilland",
+            "Lew Ayres",
+            "Thomas Mitchell",
+            "Richard Long"
+        ],
+        "votes": "3,463",
+        "gross": ""
+    },
+    "36": {
+        "name": "Cluny Brown",
+        "certificate": "Passed",
+        "runtime": "100 min",
+        "genre": "Comedy, Romance",
+        "description": "A free-spirited parlor maid and a Czech refugee surprise an English village with their unconventional ways.",
+        "director": "Ernst Lubitsch",
+        "stars": [
+            "Charles Boyer",
+            "Jennifer Jones",
+            "Peter Lawford",
+            "Helen Walker"
+        ],
+        "votes": "2,366",
+        "gross": ""
+    },
+    "37": {
+        "name": "The Dark Corner",
+        "certificate": "Approved",
+        "runtime": "99 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "Secretary tries to help her boss, who is framed for a murder.",
+        "director": "Henry Hathaway",
+        "stars": [
+            "Lucille Ball",
+            "Clifton Webb",
+            "William Bendix",
+            "Mark Stevens"
+        ],
+        "votes": "3,579",
+        "gross": ""
+    },
+    "38": {
+        "name": "To Each His Own",
+        "certificate": "Approved",
+        "runtime": "122 min",
+        "genre": "Drama, Romance",
+        "description": "An unwed mother, forced to give up her child to avoid scandal, follows her son's life from afar even as she prospers in business.",
+        "director": "Mitchell Leisen",
+        "stars": [
+            "Olivia de Havilland",
+            "John Lund",
+            "Mary Anderson",
+            "Roland Culver"
+        ],
+        "votes": "2,021",
+        "gross": ""
+    },
+    "39": {
+        "name": "Anna and the King of Siam",
+        "certificate": "Approved",
+        "runtime": "128 min",
+        "genre": "Biography, Drama, Romance",
+        "description": "In 1862, a young Englishwoman becomes royal tutor in Siam and befriends the King.",
+        "director": "John Cromwell",
+        "stars": [
+            "Irene Dunne",
+            "Rex Harrison",
+            "Linda Darnell",
+            "Lee J. Cobb"
+        ],
+        "votes": "1,986",
+        "gross": ""
+    },
+    "40": {
+        "name": "Night and Day",
+        "certificate": "Approved",
+        "runtime": "128 min",
+        "genre": "Biography, Drama, Musical",
+        "description": "A fictionalized biopic of composer Cole Porter from his days at Yale in the 1910s through the height of his success to the 1940s.",
+        "director": "Michael Curtiz",
+        "stars": [
+            "Cary Grant",
+            "Alexis Smith",
+            "Monty Woolley",
+            "Ginny Simms"
+        ],
+        "votes": "2,443",
+        "gross": ""
+    },
+    "41": {
+        "name": "Make Mine Music",
+        "certificate": "Approved",
+        "runtime": "75 min",
+        "genre": "Animation, Family, Music",
+        "description": "Animation done to contemporary popular music.",
+        "director": "Robert Cormack",
+        "stars": [
+            "Clyde Geronimi",
+            "Jack Kinney",
+            "Hamilton Luske",
+            "Joshua Meador",
+            "Nelson Eddy",
+            "Dinah Shore",
+            "Benny Goodman",
+            "The Andrews Sisters"
+        ],
+        "votes": "3,129",
+        "gross": ""
+    },
+    "42": {
+        "name": "A Night in Casablanca",
+        "certificate": "Passed",
+        "runtime": "85 min",
+        "genre": "Comedy",
+        "description": "The Marx Brothers are employed at a hotel in postwar Casablanca, where a ring of Nazis is trying to recover a cache of stolen treasure.",
+        "director": "Archie Mayo",
+        "stars": [
+            "Groucho Marx",
+            "Harpo Marx",
+            "Chico Marx",
+            "Charles Drake"
+        ],
+        "votes": "5,428",
+        "gross": ""
+    },
+    "43": {
+        "name": "The Trap",
+        "certificate": "Approved",
+        "runtime": "68 min",
+        "genre": "Comedy, Crime, Mystery",
+        "description": "When a troupe of showgirls with their impresario and press agent vacation at a Malibu Beach resort, two of them are garroted. Charlie takes on the case assisted by Number Two Son Jimmy and faithful chauffeur Birmingham Brown.",
+        "director": "Howard Bretherton",
+        "stars": [
+            "Sidney Toler",
+            "Mantan Moreland",
+            "Victor Sen Yung",
+            "Tanis Chandler"
+        ],
+        "votes": "827",
+        "gross": ""
+    },
+    "44": {
+        "name": "The Time of Their Lives",
+        "certificate": "Approved",
+        "runtime": "82 min",
+        "genre": "Comedy, Fantasy, Romance",
+        "description": "Two ghosts who were mistakenly branded as traitors during the Revolutionary War return to 20th century New England to retrieve a letter from George Washington which would prove their ...                See full summary\u00a0\u00bb",
+        "director": "Charles Barton",
+        "stars": [
+            "Bud Abbott",
+            "Lou Costello",
+            "Marjorie Reynolds",
+            "Binnie Barnes"
+        ],
+        "votes": "2,732",
+        "gross": ""
+    },
+    "45": {
+        "name": "Panique",
+        "certificate": "Not Rated",
+        "runtime": "99 min",
+        "genre": "Drama",
+        "description": "After an elderly maid is murdered, opinions are manipulated, evidence is planted, violence erupts, and panic ensues.",
+        "director": "Julien Duvivier",
+        "stars": [
+            "Viviane Romance",
+            "Michel Simon",
+            "Max Dalban",
+            "\u00c9mile Drain"
+        ],
+        "votes": "943",
+        "gross": "$0.04M"
+    },
+    "46": {
+        "name": "Angel on My Shoulder",
+        "certificate": "Approved",
+        "runtime": "100 min",
+        "genre": "Adventure, Comedy, Fantasy",
+        "description": "The Devil arranges for a deceased gangster to return to Earth as a well-respected judge to make up for his previous life.",
+        "director": "Archie Mayo",
+        "stars": [
+            "Paul Muni",
+            "Anne Baxter",
+            "Claude Rains",
+            "Onslow Stevens"
+        ],
+        "votes": "2,122",
+        "gross": ""
+    },
+    "47": {
+        "name": "Black Angel",
+        "certificate": "Passed",
+        "runtime": "81 min",
+        "genre": "Adventure, Crime, Film-Noir",
+        "description": "When Kirk Bennett is convicted of a singer's murder, his wife tries to prove him innocent...aided by the victim's ex-husband.",
+        "director": "Roy William Neill",
+        "stars": [
+            "Dan Duryea",
+            "June Vincent",
+            "Peter Lorre",
+            "Broderick Crawford"
+        ],
+        "votes": "2,266",
+        "gross": ""
+    },
+    "48": {
+        "name": "A Stolen Life",
+        "certificate": "Approved",
+        "runtime": "109 min",
+        "genre": "Drama",
+        "description": "When a woman's twin sister is drowned, she assumes her identity in order to be close to the man she feels her sister took from her years before.",
+        "director": "Curtis Bernhardt",
+        "stars": [
+            "Bette Davis",
+            "Glenn Ford",
+            "Dane Clark",
+            "Walter Brennan"
+        ],
+        "votes": "2,648",
+        "gross": ""
+    },
+    "49": {
+        "name": "The Jolson Story",
+        "certificate": "Approved",
+        "runtime": "128 min",
+        "genre": "Biography, Drama, Music",
+        "description": "This movie shows the idealized career of the singer Al Jolson, a little Jewish boy who goes against the will of his father in order to be in showbiz. He becomes a star, falls in love with a...                See full summary\u00a0\u00bb",
+        "director": "Alfred E. Green",
+        "stars": [
+            "Larry Parks",
+            "Evelyn Keyes",
+            "William Demarest",
+            "Bill Goodwin"
+        ],
+        "votes": "1,375",
+        "gross": ""
+    },
+    "50": {
+        "name": "The Verdict",
+        "certificate": "Approved",
+        "runtime": "86 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "After an innocent man is executed in a case he was responsible for, a Scotland Yard superintendent finds himself investigating the murder of his key witness.",
+        "director": "Don Siegel",
+        "stars": [
+            "Sydney Greenstreet",
+            "Peter Lorre",
+            "Joan Lorring",
+            "George Coulouris"
+        ],
+        "votes": "1,577",
+        "gross": ""
+    }
+}

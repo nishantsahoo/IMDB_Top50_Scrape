@@ -1,0 +1,803 @@
+{
+    "1": {
+        "name": "Angel and the Badman",
+        "certificate": "Approved",
+        "runtime": "100 min",
+        "genre": "Romance, Western",
+        "description": "Quirt Evans, an all round bad guy, is nursed back to health and sought after by Penelope Worth, a Quaker girl. He eventually finds himself having to choose between his world and the world Penelope lives in.",
+        "director": "James Edward Grant",
+        "stars": [
+            "John Wayne",
+            "Gail Russell",
+            "Harry Carey",
+            "Bruce Cabot"
+        ],
+        "votes": "4,625",
+        "gross": ""
+    },
+    "2": {
+        "name": "Out of the Past",
+        "certificate": "Not Rated",
+        "runtime": "97 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "A private eye escapes his past to run a gas station in a small town, but his past catches up with him. Now he must return to the big city world of danger, corruption, double crosses and duplicitous dames.",
+        "director": "Jacques Tourneur",
+        "stars": [
+            "Robert Mitchum",
+            "Jane Greer",
+            "Kirk Douglas",
+            "Rhonda Fleming"
+        ],
+        "votes": "28,810",
+        "gross": ""
+    },
+    "3": {
+        "name": "Black Narcissus",
+        "certificate": "Not Rated",
+        "runtime": "101 min",
+        "genre": "Drama",
+        "description": "After opening a convent in the Himalayas, five nuns encounter conflict and tension - both with the natives and also within their own group - as they attempt to adapt to their remote, exotic surroundings.",
+        "director": "Michael Powell",
+        "stars": [
+            "Emeric Pressburger",
+            "Deborah Kerr",
+            "David Farrar",
+            "Flora Robson",
+            "Jenny Laird"
+        ],
+        "votes": "18,991",
+        "gross": ""
+    },
+    "4": {
+        "name": "The Lady from Shanghai",
+        "certificate": "Not Rated",
+        "runtime": "87 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "Fascinated by gorgeous Mrs. Bannister, seaman Michael O'Hara joins a bizarre yachting cruise, and ends up mired in a complex murder plot.",
+        "director": "Orson Welles",
+        "stars": [
+            "Rita Hayworth",
+            "Orson Welles",
+            "Everett Sloane",
+            "Glenn Anders"
+        ],
+        "votes": "23,282",
+        "gross": "$0.01M"
+    },
+    "5": {
+        "name": "Miracle on 34th Street",
+        "certificate": "Not Rated",
+        "runtime": "96 min",
+        "genre": "Comedy, Drama, Family",
+        "description": "When a nice old man who claims to be Santa Claus is institutionalized as insane, a young lawyer decides to defend him by arguing in court that he is the real thing.",
+        "director": "George Seaton",
+        "stars": [
+            "Edmund Gwenn",
+            "Maureen O'Hara",
+            "John Payne",
+            "Gene Lockhart"
+        ],
+        "votes": "36,771",
+        "gross": "$2.65M"
+    },
+    "6": {
+        "name": "My Favorite Brunette",
+        "certificate": "Approved",
+        "runtime": "87 min",
+        "genre": "Comedy, Crime, Mystery",
+        "description": "Shortly before his execution on the death row in San Quentin, amateur sleuth and baby photographer Ronnie Jackson, tells reporters how he got there.",
+        "director": "Elliott Nugent",
+        "stars": [
+            "Bob Hope",
+            "Dorothy Lamour",
+            "Peter Lorre",
+            "Lon Chaney Jr."
+        ],
+        "votes": "2,655",
+        "gross": ""
+    },
+    "7": {
+        "name": "Monsieur Verdoux",
+        "certificate": "Passed",
+        "runtime": "124 min",
+        "genre": "Comedy, Crime, Drama",
+        "description": "A suave but cynical man supports his family by marrying and murdering rich women for their money, but the job has some occupational hazards.",
+        "director": "Charles Chaplin",
+        "stars": [
+            "Charles Chaplin",
+            "Mady Correll",
+            "Allison Roddan",
+            "Robert Lewis"
+        ],
+        "votes": "14,007",
+        "gross": "$0.33M"
+    },
+    "8": {
+        "name": "Dark Passage",
+        "certificate": "Passed",
+        "runtime": "106 min",
+        "genre": "Film-Noir, Thriller",
+        "description": "A man convicted of murdering his wife escapes from prison and works with a woman to try and prove his innocence.",
+        "director": "Delmer Daves",
+        "stars": [
+            "Humphrey Bogart",
+            "Lauren Bacall",
+            "Bruce Bennett",
+            "Agnes Moorehead"
+        ],
+        "votes": "15,771",
+        "gross": ""
+    },
+    "9": {
+        "name": "Gentleman's Agreement",
+        "certificate": "Not Rated",
+        "runtime": "118 min",
+        "genre": "Drama, Romance",
+        "description": "A reporter pretends to be Jewish in order to cover a story on anti-Semitism, and personally discovers the true depths of bigotry and hatred.",
+        "director": "Elia Kazan",
+        "stars": [
+            "Gregory Peck",
+            "Dorothy McGuire",
+            "John Garfield",
+            "Celeste Holm"
+        ],
+        "votes": "13,175",
+        "gross": ""
+    },
+    "10": {
+        "name": "The Ghost and Mrs. Muir",
+        "certificate": "Not Rated",
+        "runtime": "104 min",
+        "genre": "Comedy, Drama, Fantasy",
+        "description": "In 1900, a young widow finds her seaside cottage is haunted...and forms a unique relationship with the ghost.",
+        "director": "Joseph L. Mankiewicz",
+        "stars": [
+            "Gene Tierney",
+            "Rex Harrison",
+            "George Sanders",
+            "Edna Best"
+        ],
+        "votes": "14,139",
+        "gross": ""
+    },
+    "11": {
+        "name": "The Bachelor and the Bobby-Soxer",
+        "certificate": "Approved",
+        "runtime": "95 min",
+        "genre": "Comedy, Romance",
+        "description": "A high school girl falls for a playboy artist, with screwball results.",
+        "director": "Irving Reis",
+        "stars": [
+            "Cary Grant",
+            "Myrna Loy",
+            "Shirley Temple",
+            "Rudy Vallee"
+        ],
+        "votes": "7,128",
+        "gross": ""
+    },
+    "12": {
+        "name": "Odd Man Out",
+        "certificate": "Not Rated",
+        "runtime": "116 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "A wounded Irish nationalist leader attempts to evade police following a failed robbery in Belfast.",
+        "director": "Carol Reed",
+        "stars": [
+            "James Mason",
+            "Robert Newton",
+            "Cyril Cusack",
+            "F.J. McCormick"
+        ],
+        "votes": "7,853",
+        "gross": ""
+    },
+    "13": {
+        "name": "The Unfaithful",
+        "certificate": "Approved",
+        "runtime": "109 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "A Los Angeles socialite kills a man while home alone one night and claims he was an intruder she did not know. It seems like a clear case of self defense until the story hits the papers and people connected to the dead man come forward.",
+        "director": "Vincent Sherman",
+        "stars": [
+            "Ann Sheridan",
+            "Lew Ayres",
+            "Zachary Scott",
+            "Eve Arden"
+        ],
+        "votes": "801",
+        "gross": ""
+    },
+    "14": {
+        "name": "Kiss of Death",
+        "certificate": "Approved",
+        "runtime": "99 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "Nick Bianco is caught during a botched jewellery heist. The prosecution offer him a more lenient sentence if he squeals on his accomplices but he doesn't roll over on them. Three years into the sentence an event changes his mind.",
+        "director": "Henry Hathaway",
+        "stars": [
+            "Victor Mature",
+            "Brian Donlevy",
+            "Coleen Gray",
+            "Richard Widmark"
+        ],
+        "votes": "6,332",
+        "gross": ""
+    },
+    "15": {
+        "name": "The Paradine Case",
+        "certificate": "Approved",
+        "runtime": "125 min",
+        "genre": "Crime, Drama, Romance",
+        "description": "A happily married London barrister falls in love with the accused poisoner he is defending.",
+        "director": "Alfred Hitchcock",
+        "stars": [
+            "Gregory Peck",
+            "Ann Todd",
+            "Charles Laughton",
+            "Charles Coburn"
+        ],
+        "votes": "9,123",
+        "gross": ""
+    },
+    "16": {
+        "name": "The Egg and I",
+        "certificate": "Approved",
+        "runtime": "108 min",
+        "genre": "Comedy, Romance",
+        "description": "On their wedding night, Bob reveals to Betty that he has purchased an abandoned chicken farm. Betty struggles to adapt to their new rural lifestyle, especially when a glamorous neighbor seems to set her eyes on Bob.",
+        "director": "Chester Erskine",
+        "stars": [
+            "Claudette Colbert",
+            "Fred MacMurray",
+            "Marjorie Main",
+            "Louise Allbritton"
+        ],
+        "votes": "2,070",
+        "gross": ""
+    },
+    "17": {
+        "name": "Fun & Fancy Free",
+        "certificate": "Approved",
+        "runtime": "73 min",
+        "genre": "Animation, Adventure, Comedy",
+        "description": "Jiminy Cricket hosts two Disney animated shorts: \"Bongo,\" about a circus bear escaping to the wild, and \"Mickey and the Beanstalk,\" a take on the famous fairy tale.",
+        "director": "Edgar Bergen",
+        "stars": [
+            "Dinah Shore",
+            "Charlie McCarthy",
+            "Mortimer Snerd"
+        ],
+        "votes": "5,699",
+        "gross": ""
+    },
+    "18": {
+        "name": "Dead Reckoning",
+        "certificate": "Passed",
+        "runtime": "100 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "A soldier runs away rather than receive the Medal of Honor, so his buddy gets permission to investigate, and love and death soon follow.",
+        "director": "John Cromwell",
+        "stars": [
+            "Humphrey Bogart",
+            "Lizabeth Scott",
+            "Morris Carnovsky",
+            "Charles Cane"
+        ],
+        "votes": "5,648",
+        "gross": ""
+    },
+    "19": {
+        "name": "Nightmare Alley",
+        "certificate": "Passed",
+        "runtime": "110 min",
+        "genre": "Drama, Film-Noir",
+        "description": "The rise and fall of Stanton Carlisle, a mentalist whose lies and deceit prove to be his downfall.",
+        "director": "Edmund Goulding",
+        "stars": [
+            "Tyrone Power",
+            "Joan Blondell",
+            "Coleen Gray",
+            "Helen Walker"
+        ],
+        "votes": "6,239",
+        "gross": ""
+    },
+    "20": {
+        "name": "Brute Force",
+        "certificate": "Passed",
+        "runtime": "98 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "At a tough penitentiary, prisoner Joe Collins plans to rebel against Captain Munsey, the power-mad chief guard.",
+        "director": "Jules Dassin",
+        "stars": [
+            "Burt Lancaster",
+            "Hume Cronyn",
+            "Charles Bickford",
+            "Yvonne De Carlo"
+        ],
+        "votes": "7,812",
+        "gross": ""
+    },
+    "21": {
+        "name": "Crossfire",
+        "certificate": "Approved",
+        "runtime": "86 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "A man is murdered, apparently by one of a group of demobilized soldiers he met in a bar. But which one? And why?",
+        "director": "Edward Dmytryk",
+        "stars": [
+            "Robert Young",
+            "Robert Mitchum",
+            "Robert Ryan",
+            "Gloria Grahame"
+        ],
+        "votes": "6,604",
+        "gross": "$1.30M"
+    },
+    "22": {
+        "name": "Life with Father",
+        "certificate": "Passed",
+        "runtime": "118 min",
+        "genre": "Comedy",
+        "description": "A financier from New York rules his numerous family, consisting of his wife and his four sons, with the meticulousness of a bookkeeper.",
+        "director": "Michael Curtiz",
+        "stars": [
+            "William Powell",
+            "Irene Dunne",
+            "Elizabeth Taylor",
+            "Edmund Gwenn"
+        ],
+        "votes": "4,142",
+        "gross": ""
+    },
+    "23": {
+        "name": "Quai des Orf\u00e8vres",
+        "certificate": "Not Rated",
+        "runtime": "106 min",
+        "genre": "Crime, Drama",
+        "description": "Jenny Lamour wants to succeed in music hall. Her husband and accompanist is Maurice Martineau, a nice but jealous man. When he knew Jenny is making eyes at Brignon, an old businessman, in ...                See full summary\u00a0\u00bb",
+        "director": "Henri-Georges Clouzot",
+        "stars": [
+            "Louis Jouvet",
+            "Simone Renant",
+            "Bernard Blier",
+            "Suzy Delair"
+        ],
+        "votes": "4,216",
+        "gross": "$0.03M"
+    },
+    "24": {
+        "name": "The Secret Life of Walter Mitty",
+        "certificate": "Approved",
+        "runtime": "110 min",
+        "genre": "Comedy, Fantasy, Romance",
+        "description": "A clumsy daydreamer gets caught up in a sinister conspiracy.",
+        "director": "Norman Z. McLeod",
+        "stars": [
+            "Danny Kaye",
+            "Virginia Mayo",
+            "Boris Karloff",
+            "Fay Bainter"
+        ],
+        "votes": "5,175",
+        "gross": ""
+    },
+    "25": {
+        "name": "The Bishop's Wife",
+        "certificate": "Not Rated",
+        "runtime": "109 min",
+        "genre": "Comedy, Drama, Fantasy",
+        "description": "An angel in human form enters the life of a bishop in order to help him build a new cathedral and repair his fractured marriage.",
+        "director": "Henry Koster",
+        "stars": [
+            "Cary Grant",
+            "Loretta Young",
+            "David Niven",
+            "Monty Woolley"
+        ],
+        "votes": "12,394",
+        "gross": ""
+    },
+    "26": {
+        "name": "The Red House",
+        "certificate": "Unrated",
+        "runtime": "100 min",
+        "genre": "Drama, Film-Noir, Mystery",
+        "description": "An old man and his sister are concealing a terrible secret from their adopted teen daughter, concerning a hidden abandoned farmhouse, located deep in the woods.",
+        "director": "Delmer Daves",
+        "stars": [
+            "Edward G. Robinson",
+            "Lon McCallister",
+            "Judith Anderson",
+            "Rory Calhoun"
+        ],
+        "votes": "2,745",
+        "gross": ""
+    },
+    "27": {
+        "name": "Magic Town",
+        "certificate": "Approved",
+        "runtime": "103 min",
+        "genre": "Comedy, Romance",
+        "description": "An opinion pollster finds a town which is a perfect mirror of U.S. opinions.",
+        "director": "William A. Wellman",
+        "stars": [
+            "James Stewart",
+            "Jane Wyman",
+            "Kent Smith",
+            "Ned Sparks"
+        ],
+        "votes": "1,306",
+        "gross": ""
+    },
+    "28": {
+        "name": "The Exile",
+        "certificate": "Approved",
+        "runtime": "95 min",
+        "genre": "Adventure, Romance",
+        "description": "Charles II, the King of England, finds himself in exile in Holland, where he falls in love with a beautiful farm-girl.",
+        "director": "Max Oph\u00fcls",
+        "stars": [
+            "Douglas Fairbanks Jr.",
+            "Maria Montez",
+            "Rita Corday",
+            "Henry Daniell"
+        ],
+        "votes": "383",
+        "gross": ""
+    },
+    "29": {
+        "name": "Song of the Thin Man",
+        "certificate": "Not Rated",
+        "runtime": "86 min",
+        "genre": "Comedy, Crime, Musical",
+        "description": "Nick and Nora investigate the murder of a bandleader in New York.",
+        "director": "Edward Buzzell",
+        "stars": [
+            "William Powell",
+            "Myrna Loy",
+            "Keenan Wynn",
+            "Dean Stockwell"
+        ],
+        "votes": "4,015",
+        "gross": ""
+    },
+    "30": {
+        "name": "Gunfighters",
+        "certificate": "Passed",
+        "runtime": "87 min",
+        "genre": "Western",
+        "description": "Gunfighter Brazos Kane takes a job on a ranch but he is unjustly accused of killing fellow cowhand Bob Tyrell and must clear himself by finding the real killer.",
+        "director": "George Waggner",
+        "stars": [
+            "Randolph Scott",
+            "Barbara Britton",
+            "Dorothy Hart",
+            "Bruce Cabot"
+        ],
+        "votes": "490",
+        "gross": ""
+    },
+    "31": {
+        "name": "The Sea of Grass",
+        "certificate": "Passed",
+        "runtime": "123 min",
+        "genre": "Drama, Western",
+        "description": "On America's frontier, a St. Louis woman marries a New Mexico cattleman who is seen as a tyrant by the locals.",
+        "director": "Elia Kazan",
+        "stars": [
+            "Katharine Hepburn",
+            "Spencer Tracy",
+            "Robert Walker",
+            "Melvyn Douglas"
+        ],
+        "votes": "1,712",
+        "gross": ""
+    },
+    "32": {
+        "name": "Born to Kill",
+        "certificate": "Approved",
+        "runtime": "92 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "A calculating divorc\u00e9e risks her chances at wealth and security with a man she doesn't love by getting involved with the hotheaded murderer romancing her foster sister.",
+        "director": "Robert Wise",
+        "stars": [
+            "Claire Trevor",
+            "Lawrence Tierney",
+            "Walter Slezak",
+            "Phillip Terry"
+        ],
+        "votes": "3,915",
+        "gross": ""
+    },
+    "33": {
+        "name": "Lured",
+        "certificate": "Approved",
+        "runtime": "102 min",
+        "genre": "Crime, Film-Noir, Mystery",
+        "description": "A serial killer in London is murdering young women he meets through the personal columns of newspapers. He announces each of his murders to the police by sending them a cryptic poem. After ...                See full summary\u00a0\u00bb",
+        "director": "Douglas Sirk",
+        "stars": [
+            "George Sanders",
+            "Lucille Ball",
+            "Charles Coburn",
+            "Boris Karloff"
+        ],
+        "votes": "2,611",
+        "gross": ""
+    },
+    "34": {
+        "name": "I Walk Alone",
+        "certificate": "Approved",
+        "runtime": "97 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "Frankie Madison leaves prison expecting a share from his ex-partner. But Prohibition bootlegging didn't prepare Frankie for Big Business.",
+        "director": "Byron Haskin",
+        "stars": [
+            "Burt Lancaster",
+            "Lizabeth Scott",
+            "Kirk Douglas",
+            "Wendell Corey"
+        ],
+        "votes": "1,820",
+        "gross": ""
+    },
+    "35": {
+        "name": "A Double Life",
+        "certificate": "Approved",
+        "runtime": "104 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "Anthony John is an actor whose life is strongly influenced by the characters he plays. When he's playing comedy, he's the most enjoyable person in the world, but when he's playing drama, ...                See full summary\u00a0\u00bb",
+        "director": "George Cukor",
+        "stars": [
+            "Ronald Colman",
+            "Edmond O'Brien",
+            "Signe Hasso",
+            "Shelley Winters"
+        ],
+        "votes": "2,655",
+        "gross": ""
+    },
+    "36": {
+        "name": "Secret Beyond the Door...",
+        "certificate": "Not Rated",
+        "runtime": "99 min",
+        "genre": "Drama, Film-Noir, Mystery",
+        "description": "When a lovely woman and her new husband settle in an ancient mansion on the East coast, she discovers that he may want to kill her.",
+        "director": "Fritz Lang",
+        "stars": [
+            "Joan Bennett",
+            "Michael Redgrave",
+            "Anne Revere",
+            "Barbara O'Neil"
+        ],
+        "votes": "3,875",
+        "gross": ""
+    },
+    "37": {
+        "name": "T-Men",
+        "certificate": "Approved",
+        "runtime": "92 min",
+        "genre": "Crime, Film-Noir, Thriller",
+        "description": "Two US Treasury agents hunt a successful counterfeiting ring.",
+        "director": "Anthony Mann",
+        "stars": [
+            "Dennis O'Keefe",
+            "Wallace Ford",
+            "Alfred Ryder",
+            "Mary Meade"
+        ],
+        "votes": "2,684",
+        "gross": ""
+    },
+    "38": {
+        "name": "The Farmer's Daughter",
+        "certificate": "Unrated",
+        "runtime": "97 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "After leaving her family's farm to study nursing in the city, a young woman finds herself on an unexpected path towards politics.",
+        "director": "H.C. Potter",
+        "stars": [
+            "Loretta Young",
+            "Joseph Cotten",
+            "Ethel Barrymore",
+            "Charles Bickford"
+        ],
+        "votes": "2,056",
+        "gross": ""
+    },
+    "39": {
+        "name": "Framed",
+        "certificate": "Approved",
+        "runtime": "82 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "Mike Lambert, seeking a mining job, instead becomes the patsy for a femme-fatale's schemes.",
+        "director": "Richard Wallace",
+        "stars": [
+            "Glenn Ford",
+            "Janis Carter",
+            "Barry Sullivan",
+            "Edgar Buchanan"
+        ],
+        "votes": "1,097",
+        "gross": ""
+    },
+    "40": {
+        "name": "Dishonored Lady",
+        "certificate": "Approved",
+        "runtime": "85 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "Madeleine Damien is the fashion editor of a slick Manhattan magazine by day and a lively party girl by night. Unfortunately, the pressures of her job, including kowtowing to a hefty ...                See full summary\u00a0\u00bb",
+        "director": "Robert Stevenson",
+        "stars": [
+            "Hedy Lamarr",
+            "Dennis O'Keefe",
+            "John Loder",
+            "William Lundigan"
+        ],
+        "votes": "845",
+        "gross": ""
+    },
+    "41": {
+        "name": "Possessed",
+        "certificate": "Approved",
+        "runtime": "108 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "After being found wandering the streets of Los Angeles, a severely catatonic woman tells a doctor the complex story of how she wound up there.",
+        "director": "Curtis Bernhardt",
+        "stars": [
+            "Joan Crawford",
+            "Van Heflin",
+            "Raymond Massey",
+            "Geraldine Brooks"
+        ],
+        "votes": "4,048",
+        "gross": "$1.99M"
+    },
+    "42": {
+        "name": "Pursued",
+        "certificate": "Approved",
+        "runtime": "101 min",
+        "genre": "Drama, Mystery, Romance",
+        "description": "A boy haunted by nightmares about the night his entire family was murdered is brought up by a neighboring family in the 1880s. He falls for his lovely adoptive sister but his nasty adoptive brother and mysterious uncle want him dead.",
+        "director": "Raoul Walsh",
+        "stars": [
+            "Teresa Wright",
+            "Robert Mitchum",
+            "Judith Anderson",
+            "Dean Jagger"
+        ],
+        "votes": "2,490",
+        "gross": ""
+    },
+    "43": {
+        "name": "Johnny O'Clock",
+        "certificate": "Passed",
+        "runtime": "96 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "High-class crook gets in trouble with the law.",
+        "director": "Robert Rossen",
+        "stars": [
+            "Dick Powell",
+            "Evelyn Keyes",
+            "Lee J. Cobb",
+            "Ellen Drew"
+        ],
+        "votes": "1,181",
+        "gross": ""
+    },
+    "44": {
+        "name": "Body and Soul",
+        "certificate": "Approved",
+        "runtime": "104 min",
+        "genre": "Drama, Film-Noir, Sport",
+        "description": "A talented boxer's young career hits difficult terrain when an unethical promoter takes interest in him.",
+        "director": "Robert Rossen",
+        "stars": [
+            "John Garfield",
+            "Lilli Palmer",
+            "Hazel Brooks",
+            "Anne Revere"
+        ],
+        "votes": "3,838",
+        "gross": ""
+    },
+    "45": {
+        "name": "Unconquered",
+        "certificate": "Approved",
+        "runtime": "146 min",
+        "genre": "Adventure, Drama, History",
+        "description": "Intrepid frontiersman Chris Holden foils the political and personal ambitions of renegade Martin Garth in the Ohio Valley following the French and Indian War.",
+        "director": "Cecil B. DeMille",
+        "stars": [
+            "Gary Cooper",
+            "Paulette Goddard",
+            "Howard Da Silva",
+            "Boris Karloff"
+        ],
+        "votes": "1,809",
+        "gross": ""
+    },
+    "46": {
+        "name": "Down to Earth",
+        "certificate": "Approved",
+        "runtime": "101 min",
+        "genre": "Comedy, Fantasy, Musical",
+        "description": "Upset about a new Broadway musical's mockery of Greek mythology, the goddess Terpsichore comes down to earth and lands a part in the show. She works her charms on the show's producer and he...                See full summary\u00a0\u00bb",
+        "director": "Alexander Hall",
+        "stars": [
+            "Rita Hayworth",
+            "Larry Parks",
+            "Marc Platt",
+            "Roland Culver"
+        ],
+        "votes": "946",
+        "gross": "$5.45M"
+    },
+    "47": {
+        "name": "Mourning Becomes Electra",
+        "certificate": "Approved",
+        "runtime": "121 min",
+        "genre": "Drama",
+        "description": "Eugene O'Neill's updated version of the Oresteia set in New England, after the American Civil War.",
+        "director": "Dudley Nichols",
+        "stars": [
+            "Rosalind Russell",
+            "Michael Redgrave",
+            "Raymond Massey",
+            "Katina Paxinou"
+        ],
+        "votes": "855",
+        "gross": "$0.44M"
+    },
+    "48": {
+        "name": "Ride the Pink Horse",
+        "certificate": "Not Rated",
+        "runtime": "101 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "WW2 veteran Lucky Gagin arrives in a New Mexico border-town intent on revenging against mobster Frank Hugo but FBI agent Bill Retz, who also wants Hugo, tries to keep Gagin out of trouble.",
+        "director": "Robert Montgomery",
+        "stars": [
+            "Robert Montgomery",
+            "Thomas Gomez",
+            "Wanda Hendrix",
+            "Rita Conde"
+        ],
+        "votes": "2,075",
+        "gross": ""
+    },
+    "49": {
+        "name": "The Fugitive",
+        "certificate": "Approved",
+        "runtime": "104 min",
+        "genre": "Drama, History",
+        "description": "Anti-Catholic and anti-cleric policies in the Mexican state of Tabasco lead the revolutionary government to persecute the state's last remaining priest.",
+        "director": "John Ford",
+        "stars": [
+            "Emilio Fern\u00e1ndez",
+            "Henry Fonda",
+            "Dolores del Rio",
+            "Pedro Armend\u00e1riz",
+            "J. Carrol Naish"
+        ],
+        "votes": "1,814",
+        "gross": ""
+    },
+    "50": {
+        "name": "The Two Mrs. Carrolls",
+        "certificate": "Not Rated",
+        "runtime": "99 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "An artist forms an attachment with a woman on holiday in the country. As the relationship develops, his behavior and information about his past cause her increasing concern.",
+        "director": "Peter Godfrey",
+        "stars": [
+            "Humphrey Bogart",
+            "Barbara Stanwyck",
+            "Alexis Smith",
+            "Nigel Bruce"
+        ],
+        "votes": "3,060",
+        "gross": ""
+    }
+}

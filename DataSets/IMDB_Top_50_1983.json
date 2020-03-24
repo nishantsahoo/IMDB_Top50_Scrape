@@ -1,0 +1,807 @@
+{
+    "1": {
+        "name": "Scarface",
+        "certificate": "R",
+        "runtime": "170 min",
+        "genre": "Crime, Drama",
+        "description": "In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.",
+        "director": "Brian De Palma",
+        "stars": [
+            "Al Pacino",
+            "Michelle Pfeiffer",
+            "Steven Bauer",
+            "Mary Elizabeth Mastrantonio"
+        ],
+        "votes": "657,561",
+        "gross": "$45.60M"
+    },
+    "2": {
+        "name": "The Outsiders",
+        "certificate": "PG",
+        "runtime": "91 min",
+        "genre": "Crime, Drama",
+        "description": "The rivalry between two gangs, the poor Greasers and the rich Socs, only heats up when one gang member kills a member of the other.",
+        "director": "Francis Ford Coppola",
+        "stars": [
+            "C. Thomas Howell",
+            "Matt Dillon",
+            "Ralph Macchio",
+            "Patrick Swayze"
+        ],
+        "votes": "67,432",
+        "gross": "$25.60M"
+    },
+    "3": {
+        "name": "Christine",
+        "certificate": "R",
+        "runtime": "110 min",
+        "genre": "Horror, Thriller",
+        "description": "A nerdish boy buys a strange car with an evil mind of its own and his nature starts to change to reflect it.",
+        "director": "John Carpenter",
+        "stars": [
+            "Keith Gordon",
+            "John Stockwell",
+            "Alexandra Paul",
+            "Robert Prosky"
+        ],
+        "votes": "62,704",
+        "gross": "$21.20M"
+    },
+    "4": {
+        "name": "Star Wars: Episode VI - Return of the Jedi",
+        "certificate": "PG",
+        "runtime": "131 min",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "After a daring mission to rescue Han Solo from Jabba the Hutt, the rebels dispatch to Endor to destroy a more powerful Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side without falling into the Emperor's trap.",
+        "director": "Richard Marquand",
+        "stars": [
+            "Mark Hamill",
+            "Harrison Ford",
+            "Carrie Fisher",
+            "Billy Dee Williams"
+        ],
+        "votes": "852,818",
+        "gross": "$309.13M"
+    },
+    "5": {
+        "name": "Superman III",
+        "certificate": "PG",
+        "runtime": "125 min",
+        "genre": "Action, Comedy, Sci-Fi",
+        "description": "Synthetic kryptonite laced with tar splits Superman in two: good Clark Kent and bad Man of Steel.",
+        "director": "Richard Lester",
+        "stars": [
+            "Christopher Reeve",
+            "Richard Pryor",
+            "Margot Kidder",
+            "Jackie Cooper"
+        ],
+        "votes": "59,165",
+        "gross": "$59.95M"
+    },
+    "6": {
+        "name": "National Lampoon's Vacation",
+        "certificate": "R",
+        "runtime": "98 min",
+        "genre": "Adventure, Comedy",
+        "description": "The Griswold family's cross-country drive to the Walley World theme park proves to be much more arduous than they ever anticipated.",
+        "director": "Harold Ramis",
+        "stars": [
+            "Chevy Chase",
+            "Beverly D'Angelo",
+            "Imogene Coca",
+            "Randy Quaid"
+        ],
+        "votes": "86,291",
+        "gross": "$61.40M"
+    },
+    "7": {
+        "name": "Twilight Zone: The Movie",
+        "certificate": "PG",
+        "runtime": "101 min",
+        "genre": "Horror, Sci-Fi",
+        "description": "Four horror and science fiction segments, directed by four famous directors, each of them being a new version of a classic story from Rod Serling's landmark television series.",
+        "director": "Joe Dante",
+        "stars": [
+            "John Landis",
+            "George Miller",
+            "Steven Spielberg",
+            "Dan Aykroyd",
+            "Albert Brooks",
+            "Vic Morrow",
+            "Doug McGrath"
+        ],
+        "votes": "30,054",
+        "gross": "$29.50M"
+    },
+    "8": {
+        "name": "Risky Business",
+        "certificate": "R",
+        "runtime": "99 min",
+        "genre": "Comedy, Crime, Drama",
+        "description": "A Chicago teenager is looking for fun at home while his parents are away, but the situation quickly gets out of hand.",
+        "director": "Paul Brickman",
+        "stars": [
+            "Tom Cruise",
+            "Rebecca De Mornay",
+            "Joe Pantoliano",
+            "Richard Masur"
+        ],
+        "votes": "73,091",
+        "gross": "$63.50M"
+    },
+    "9": {
+        "name": "Never Say Never Again",
+        "certificate": "PG",
+        "runtime": "134 min",
+        "genre": "Action, Adventure, Thriller",
+        "description": "A S.P.E.C.T.R.E. Agent has stolen two American nuclear warheads, and James Bond must find their targets before they are detonated.",
+        "director": "Irvin Kershner",
+        "stars": [
+            "Sean Connery",
+            "Kim Basinger",
+            "Klaus Maria Brandauer",
+            "Max von Sydow"
+        ],
+        "votes": "55,695",
+        "gross": "$55.50M"
+    },
+    "10": {
+        "name": "Flashdance",
+        "certificate": "R",
+        "runtime": "95 min",
+        "genre": "Drama, Music, Romance",
+        "description": "A Pittsburgh woman with two jobs as a welder and an exotic dancer wants to get into ballet school.",
+        "director": "Adrian Lyne",
+        "stars": [
+            "Jennifer Beals",
+            "Michael Nouri",
+            "Lilia Skala",
+            "Sunny Johnson"
+        ],
+        "votes": "42,487",
+        "gross": "$94.90M"
+    },
+    "11": {
+        "name": "Cujo",
+        "certificate": "R",
+        "runtime": "93 min",
+        "genre": "Horror, Thriller",
+        "description": "Cujo, a friendly St. Bernard, contracts rabies and conducts a reign of terror on a small American town.",
+        "director": "Lewis Teague",
+        "stars": [
+            "Dee Wallace",
+            "Daniel Hugh Kelly",
+            "Danny Pintauro",
+            "Christopher Stone"
+        ],
+        "votes": "34,089",
+        "gross": "$21.20M"
+    },
+    "12": {
+        "name": "Terms of Endearment",
+        "certificate": "PG",
+        "runtime": "132 min",
+        "genre": "Comedy, Drama",
+        "description": "Follows hard-to-please Aurora looking for love, and her daughter's family problems.",
+        "director": "James L. Brooks",
+        "stars": [
+            "Shirley MacLaine",
+            "Debra Winger",
+            "Jack Nicholson",
+            "Danny DeVito"
+        ],
+        "votes": "49,059",
+        "gross": "$108.42M"
+    },
+    "13": {
+        "name": "Silkwood",
+        "certificate": "R",
+        "runtime": "131 min",
+        "genre": "Biography, Drama, History",
+        "description": "A worker at a plutonium processing plant is purposefully contaminated, psychologically tortured and possibly murdered to prevent her from exposing worker safety violations at the plant.",
+        "director": "Mike Nichols",
+        "stars": [
+            "Meryl Streep",
+            "Kurt Russell",
+            "Cher",
+            "Craig T. Nelson"
+        ],
+        "votes": "16,601",
+        "gross": "$35.62M"
+    },
+    "14": {
+        "name": "WarGames",
+        "certificate": "PG",
+        "runtime": "114 min",
+        "genre": "Sci-Fi, Thriller",
+        "description": "A young man finds a back door into a military central computer in which reality is confused with game-playing, possibly starting World War III.",
+        "director": "John Badham",
+        "stars": [
+            "Matthew Broderick",
+            "Ally Sheedy",
+            "John Wood",
+            "Dabney Coleman"
+        ],
+        "votes": "82,824",
+        "gross": "$79.57M"
+    },
+    "15": {
+        "name": "Sleepaway Camp",
+        "certificate": "R",
+        "runtime": "84 min",
+        "genre": "Horror",
+        "description": "Angela Baker, a traumatized and very shy young girl, is sent to summer camp with her cousin. Shortly after her arrival, anyone with sinister or less than honorable intentions gets their comeuppance.",
+        "director": "Robert Hiltzik",
+        "stars": [
+            "Felissa Rose",
+            "Jonathan Tiersten",
+            "Karen Fields",
+            "Christopher Collet"
+        ],
+        "votes": "21,791",
+        "gross": "$11.00M"
+    },
+    "16": {
+        "name": "The Big Chill",
+        "certificate": "R",
+        "runtime": "105 min",
+        "genre": "Comedy, Drama",
+        "description": "A group of seven former college friends gather for a weekend reunion at a South Carolina vacation home after the funeral of another of their college friends.",
+        "director": "Lawrence Kasdan",
+        "stars": [
+            "Tom Berenger",
+            "Glenn Close",
+            "Jeff Goldblum",
+            "William Hurt"
+        ],
+        "votes": "29,888",
+        "gross": "$56.20M"
+    },
+    "17": {
+        "name": "The Right Stuff",
+        "certificate": "PG",
+        "runtime": "193 min",
+        "genre": "Adventure, Biography, Drama",
+        "description": "The story of the original Mercury 7 astronauts and their macho, seat-of-the-pants approach to the space program.",
+        "director": "Philip Kaufman",
+        "stars": [
+            "Sam Shepard",
+            "Scott Glenn",
+            "Ed Harris",
+            "Dennis Quaid"
+        ],
+        "votes": "51,775",
+        "gross": "$21.50M"
+    },
+    "18": {
+        "name": "Octopussy",
+        "certificate": "PG",
+        "runtime": "131 min",
+        "genre": "Action, Adventure, Thriller",
+        "description": "A fake Faberg\u00e9 egg, and a fellow Agent's death, lead James Bond to uncover an international jewel-smuggling operation, headed by the mysterious Octopussy, being used to disguise a nuclear attack on N.A.T.O. forces.",
+        "director": "John Glen",
+        "stars": [
+            "Roger Moore",
+            "Maud Adams",
+            "Louis Jourdan",
+            "Kristina Wayborn"
+        ],
+        "votes": "86,130",
+        "gross": "$67.90M"
+    },
+    "19": {
+        "name": "Trading Places",
+        "certificate": "R",
+        "runtime": "116 min",
+        "genre": "Comedy",
+        "description": "A snobbish investor and a wily street con artist find their positions reversed as part of a bet by two callous millionaires.",
+        "director": "John Landis",
+        "stars": [
+            "Eddie Murphy",
+            "Dan Aykroyd",
+            "Ralph Bellamy",
+            "Don Ameche"
+        ],
+        "votes": "122,508",
+        "gross": "$90.40M"
+    },
+    "20": {
+        "name": "Psycho II",
+        "certificate": "R",
+        "runtime": "113 min",
+        "genre": "Crime, Horror, Mystery",
+        "description": "After twenty-two years of psychiatric care, Norman Bates attempts to return to a life of solitude, but the specters of his crimes - and his mother - continue to haunt him.",
+        "director": "Richard Franklin",
+        "stars": [
+            "Anthony Perkins",
+            "Vera Miles",
+            "Meg Tilly",
+            "Robert Loggia"
+        ],
+        "votes": "20,858",
+        "gross": "$34.73M"
+    },
+    "21": {
+        "name": "Krull",
+        "certificate": "PG",
+        "runtime": "121 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "A prince and a fellowship of companions set out to rescue his bride from a fortress of alien invaders who have arrived on their home planet.",
+        "director": "Peter Yates",
+        "stars": [
+            "Ken Marshall",
+            "Lysette Anthony",
+            "Freddie Jones",
+            "Francesca Annis"
+        ],
+        "votes": "27,559",
+        "gross": "$16.52M"
+    },
+    "22": {
+        "name": "The Dead Zone",
+        "certificate": "R",
+        "runtime": "103 min",
+        "genre": "Drama, Horror, Sci-Fi",
+        "description": "A man awakens from a coma to discover he has a psychic ability.",
+        "director": "David Cronenberg",
+        "stars": [
+            "Christopher Walken",
+            "Brooke Adams",
+            "Tom Skerritt",
+            "Herbert Lom"
+        ],
+        "votes": "54,218",
+        "gross": "$20.77M"
+    },
+    "23": {
+        "name": "Easy Money",
+        "certificate": "R",
+        "runtime": "95 min",
+        "genre": "Comedy",
+        "description": "To inherit his mother-in-law's colossal fortune, a hard-living gambling addict must change his unhealthy ways before they get the best of him.",
+        "director": "James Signorelli",
+        "stars": [
+            "Rodney Dangerfield",
+            "Joe Pesci",
+            "Geraldine Fitzgerald",
+            "Candice Azzara"
+        ],
+        "votes": "7,070",
+        "gross": "$29.31M"
+    },
+    "24": {
+        "name": "Rumble Fish",
+        "certificate": "R",
+        "runtime": "94 min",
+        "genre": "Crime, Drama, Romance",
+        "description": "Rusty James, an absent-minded street thug struggles to live up to his legendary older brother's reputation, and longs for the days when gang warfare was going on.",
+        "director": "Francis Ford Coppola",
+        "stars": [
+            "Matt Dillon",
+            "Mickey Rourke",
+            "Diane Lane",
+            "Dennis Hopper"
+        ],
+        "votes": "28,767",
+        "gross": "$2.49M"
+    },
+    "25": {
+        "name": "Videodrome",
+        "certificate": "R",
+        "runtime": "87 min",
+        "genre": "Horror, Sci-Fi, Thriller",
+        "description": "When he acquires a different kind of show for his station, a sleazy cable-TV programmer begins to see his life and the future of media spin out of control in a terrifying new reality.",
+        "director": "David Cronenberg",
+        "stars": [
+            "James Woods",
+            "Debbie Harry",
+            "Sonja Smits",
+            "Peter Dvorsky"
+        ],
+        "votes": "73,985",
+        "gross": "$2.12M"
+    },
+    "26": {
+        "name": "Star 80",
+        "certificate": "R",
+        "runtime": "103 min",
+        "genre": "Biography, Drama",
+        "description": "A successful young model finds trouble when her obsessive manager-turned-husband becomes dangerously jealous. Based on the true story of 1980 Playmate of the Year Dorothy Stratten.",
+        "director": "Bob Fosse",
+        "stars": [
+            "Mariel Hemingway",
+            "Eric Roberts",
+            "Cliff Robertson",
+            "Carroll Baker"
+        ],
+        "votes": "5,184",
+        "gross": "$6.47M"
+    },
+    "27": {
+        "name": "Bad Boys",
+        "certificate": "R",
+        "runtime": "123 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "Chicago crime kid Mick O'Brien is sent to reform school after accidentally killing a rival's kid brother.",
+        "director": "Rick Rosenthal",
+        "stars": [
+            "Sean Penn",
+            "Reni Santoni",
+            "Jim Moody",
+            "Eric Gurry"
+        ],
+        "votes": "12,582",
+        "gross": "$9.20M"
+    },
+    "28": {
+        "name": "A Christmas Story",
+        "certificate": "PG",
+        "runtime": "94 min",
+        "genre": "Comedy, Family",
+        "description": "In the 1940s, a young boy named Ralphie attempts to convince his parents, his teacher and Santa that a Red Ryder BB gun really is the perfect Christmas gift.",
+        "director": "Bob Clark",
+        "stars": [
+            "Peter Billingsley",
+            "Melinda Dillon",
+            "Darren McGavin",
+            "Scott Schwartz"
+        ],
+        "votes": "121,743",
+        "gross": "$20.61M"
+    },
+    "29": {
+        "name": "Mr. Mom",
+        "certificate": "PG",
+        "runtime": "91 min",
+        "genre": "Comedy, Drama",
+        "description": "After he's laid off, a husband switches roles with his wife. She returns to the workforce, and he becomes a stay-at-home dad, a job he has no clue how to do.",
+        "director": "Stan Dragoti",
+        "stars": [
+            "Michael Keaton",
+            "Teri Garr",
+            "Frederick Koehler",
+            "Taliesin Jaffe"
+        ],
+        "votes": "19,024",
+        "gross": "$64.80M"
+    },
+    "30": {
+        "name": "Jaws 3-D",
+        "certificate": "PG",
+        "runtime": "99 min",
+        "genre": "Adventure, Horror, Thriller",
+        "description": "The sons of police chief Brody must protect customers at a SeaWorld theme park after a thirty-five-foot shark becomes trapped in the park with them.",
+        "director": "Joe Alves",
+        "stars": [
+            "Dennis Quaid",
+            "Bess Armstrong",
+            "Simon MacCorkindale",
+            "Louis Gossett Jr."
+        ],
+        "votes": "34,971",
+        "gross": "$45.52M"
+    },
+    "31": {
+        "name": "Nostalgia",
+        "certificate": "Not Rated",
+        "runtime": "125 min",
+        "genre": "Drama",
+        "description": "A Russian poet and his interpreter travel to Italy to research the life of an 18th-century composer.",
+        "director": "Andrei Tarkovsky",
+        "stars": [
+            "Oleg Yankovskiy",
+            "Erland Josephson",
+            "Domiziana Giordano",
+            "Patrizia Terreno"
+        ],
+        "votes": "18,660",
+        "gross": "$0.01M"
+    },
+    "32": {
+        "name": "Valley Girl",
+        "certificate": "R",
+        "runtime": "99 min",
+        "genre": "Comedy, Romance",
+        "description": "Julie, a girl from the valley, meets Randy, a punk from the city. They are from different worlds and find love. Somehow they need to stay together in spite of her trendy, shallow friends.",
+        "director": "Martha Coolidge",
+        "stars": [
+            "Nicolas Cage",
+            "Deborah Foreman",
+            "Elizabeth Daily",
+            "Michael Bowen"
+        ],
+        "votes": "11,788",
+        "gross": "$16.80M"
+    },
+    "33": {
+        "name": "The Meaning of Life",
+        "certificate": "R",
+        "runtime": "107 min",
+        "genre": "Comedy, Musical",
+        "description": "The comedy team takes a look at life in all its stages in their own uniquely silly way.",
+        "director": "Terry Jones",
+        "stars": [
+            "Terry Gilliam",
+            "John Cleese",
+            "Terry Gilliam",
+            "Eric Idle",
+            "Terry Jones"
+        ],
+        "votes": "103,796",
+        "gross": "$14.93M"
+    },
+    "34": {
+        "name": "Fire and Ice",
+        "certificate": "PG",
+        "runtime": "81 min",
+        "genre": "Animation, Fantasy, Adventure",
+        "description": "At the end of the ice age, an evil queen and her son are set on conquering the world using magic and warriors. The lone survivor of a crushed village fights back as does the king of Fire Keep.",
+        "director": "Ralph Bakshi",
+        "stars": [
+            "Tom Tataranowicz",
+            "Randy Norton",
+            "Cynthia Leake",
+            "Steve Sandor",
+            "Sean Hannon"
+        ],
+        "votes": "8,283",
+        "gross": "$0.76M"
+    },
+    "35": {
+        "name": "Private School",
+        "certificate": "R",
+        "runtime": "89 min",
+        "genre": "Comedy, Romance",
+        "description": "Christine (Phoebe Cates), a student at an exclusive all-girls private school, is in love with Jim, who attends an academy for boys nearby. Christine's arch rival Jordan also has her eye on ...                See full summary\u00a0\u00bb",
+        "director": "Noel Black",
+        "stars": [
+            "Phoebe Cates",
+            "Betsy Russell",
+            "Matthew Modine",
+            "Michael Zorek"
+        ],
+        "votes": "5,163",
+        "gross": "$14.05M"
+    },
+    "36": {
+        "name": "The Hunger",
+        "certificate": "R",
+        "runtime": "97 min",
+        "genre": "Drama, Horror",
+        "description": "A love triangle develops between a beautiful yet dangerous vampire, her cellist companion, and a gerontologist.",
+        "director": "Tony Scott",
+        "stars": [
+            "Catherine Deneuve",
+            "David Bowie",
+            "Susan Sarandon",
+            "Cliff De Young"
+        ],
+        "votes": "20,704",
+        "gross": "$5.98M"
+    },
+    "37": {
+        "name": "Sudden Impact",
+        "certificate": "R",
+        "runtime": "117 min",
+        "genre": "Action, Crime, Thriller",
+        "description": "A rape victim is exacting revenge on her aggressors in a small town outside San Francisco. \"Dirty\" Harry Callahan, on suspension for angering his superiors (again), is assigned to the case.",
+        "director": "Clint Eastwood",
+        "stars": [
+            "Clint Eastwood",
+            "Sondra Locke",
+            "Pat Hingle",
+            "Bradford Dillman"
+        ],
+        "votes": "36,848",
+        "gross": "$67.64M"
+    },
+    "38": {
+        "name": "Local Hero",
+        "certificate": "PG",
+        "runtime": "111 min",
+        "genre": "Comedy, Drama",
+        "description": "An American oil company sends a man to Scotland to buy up an entire village where they want to build a refinery. But things don't go as expected.",
+        "director": "Bill Forsyth",
+        "stars": [
+            "Burt Lancaster",
+            "Peter Riegert",
+            "Fulton Mackay",
+            "Denis Lawson"
+        ],
+        "votes": "18,529",
+        "gross": "$5.90M"
+    },
+    "39": {
+        "name": "Deathstalker",
+        "certificate": "R",
+        "runtime": "80 min",
+        "genre": "Adventure, Fantasy",
+        "description": "The warrior Deathstalker is tasked by an old witch to obtain and unite the three powers of creation - a chalice, an amulet, and a sword - lest the evil magician Munkar get them and use them...                See full summary\u00a0\u00bb",
+        "director": "James Sbardellati",
+        "stars": [
+            "Rick Hill",
+            "Barbi Benton",
+            "Richard Brooker",
+            "Lana Clarkson"
+        ],
+        "votes": "3,481",
+        "gross": "$11.92M"
+    },
+    "40": {
+        "name": "Class",
+        "certificate": "R",
+        "runtime": "98 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A young man in private school spends one crazy night out, but soon realizes the woman he hooked up with is not who he expected.",
+        "director": "Lewis John Carlino",
+        "stars": [
+            "Jacqueline Bisset",
+            "Rob Lowe",
+            "Andrew McCarthy",
+            "Cliff Robertson"
+        ],
+        "votes": "8,729",
+        "gross": ""
+    },
+    "41": {
+        "name": "Losin' It",
+        "certificate": "R",
+        "runtime": "100 min",
+        "genre": "Comedy, Drama",
+        "description": "Set in 1965, four rowdy teenage guys travel to Tijuana, Mexico for a night of partying when they are joined by a heartbroken housewife who is in town seeking a quick divorce.",
+        "director": "Curtis Hanson",
+        "stars": [
+            "Tom Cruise",
+            "Jackie Earle Haley",
+            "John Stockwell",
+            "John P. Navin Jr."
+        ],
+        "votes": "3,730",
+        "gross": "$1.25M"
+    },
+    "42": {
+        "name": "Lone Wolf McQuade",
+        "certificate": "PG",
+        "runtime": "107 min",
+        "genre": "Action, Crime, Drama",
+        "description": "After helping the local police with some horse thieves, a Texas Ranger aims at a drug lord with arms trade as well. They're interested in the same woman and they're both into martial arts.",
+        "director": "Steve Carver",
+        "stars": [
+            "Chuck Norris",
+            "David Carradine",
+            "Barbara Carrera",
+            "Leon Isaac Kennedy"
+        ],
+        "votes": "9,663",
+        "gross": "$12.23M"
+    },
+    "43": {
+        "name": "Staying Alive",
+        "certificate": "PG",
+        "runtime": "93 min",
+        "genre": "Drama, Music, Romance",
+        "description": "It's five years later and Tony Manero's Saturday Night Fever is still burning. Now he's strutting toward his biggest challenge yet - succeeding as a dancer on the Broadway stage.",
+        "director": "Sylvester Stallone",
+        "stars": [
+            "John Travolta",
+            "Cynthia Rhodes",
+            "Finola Hughes",
+            "Steve Inwood"
+        ],
+        "votes": "13,162",
+        "gross": "$64.89M"
+    },
+    "44": {
+        "name": "My Tutor",
+        "certificate": "R",
+        "runtime": "97 min",
+        "genre": "Comedy",
+        "description": "A rich father hires a tutor for his son. The son is a horny teenager and the tutor is a gorgeous blonde. Complications ensue.",
+        "director": "George Bowers",
+        "stars": [
+            "Matt Lattanzi",
+            "Caren Kaye",
+            "Kevin McCarthy",
+            "Clark Brandon"
+        ],
+        "votes": "2,856",
+        "gross": "$22.59M"
+    },
+    "45": {
+        "name": "Blue Thunder",
+        "certificate": "R",
+        "runtime": "109 min",
+        "genre": "Action, Crime, Drama",
+        "description": "The cop test pilot for an experimental police helicopter learns the sinister implications of the new vehicle.",
+        "director": "John Badham",
+        "stars": [
+            "Roy Scheider",
+            "Warren Oates",
+            "Candy Clark",
+            "Daniel Stern"
+        ],
+        "votes": "14,958",
+        "gross": "$42.31M"
+    },
+    "46": {
+        "name": "Brainstorm",
+        "certificate": "PG",
+        "runtime": "106 min",
+        "genre": "Sci-Fi, Thriller",
+        "description": "Researchers develop a system where they can jump into people's minds. But when people involved bring their personal problems into the equation, it becomes dangerous - perhaps deadly.",
+        "director": "Douglas Trumbull",
+        "stars": [
+            "Christopher Walken",
+            "Natalie Wood",
+            "Louise Fletcher",
+            "Cliff Robertson"
+        ],
+        "votes": "10,042",
+        "gross": "$8.90M"
+    },
+    "47": {
+        "name": "Suburbia",
+        "certificate": "R",
+        "runtime": "94 min",
+        "genre": "Drama, Thriller",
+        "description": "When household tensions and a sense of worthlessness overcome Evan, he finds escape when he clings with the orphans of a throw-away society.",
+        "director": "Penelope Spheeris",
+        "stars": [
+            "Chris Pedersen",
+            "Bill Coyne",
+            "Jennifer Clay",
+            "Timothy O'Brien"
+        ],
+        "votes": "3,739",
+        "gross": ""
+    },
+    "48": {
+        "name": "Something Wicked This Way Comes",
+        "certificate": "PG",
+        "runtime": "95 min",
+        "genre": "Fantasy, Mystery, Thriller",
+        "description": "In a small American town, a diabolical circus and its demonic proprietor prey on the townsfolk.",
+        "director": "Jack Clayton",
+        "stars": [
+            "Jason Robards",
+            "Jonathan Pryce",
+            "Diane Ladd",
+            "Royal Dano"
+        ],
+        "votes": "7,568",
+        "gross": "$8.40M"
+    },
+    "49": {
+        "name": "D.C. Cab",
+        "certificate": "R",
+        "runtime": "100 min",
+        "genre": "Comedy, Action",
+        "description": "The tale of a hapless group of cabbies and a rundown cab company owned by Harold. Albert comes to town with a dream of starting his own cab company but needs to motivate Harold's employees ...                See full summary\u00a0\u00bb",
+        "director": "Joel Schumacher",
+        "stars": [
+            "Max Gail",
+            "Adam Baldwin",
+            "Mr. T",
+            "Charlie Barnett"
+        ],
+        "votes": "4,022",
+        "gross": "$16.13M"
+    },
+    "50": {
+        "name": "All the Right Moves",
+        "certificate": "R",
+        "runtime": "91 min",
+        "genre": "Drama, Romance, Sport",
+        "description": "A high school football player desperate for a scholarship and his headstrong coach clash in a dying Pennsylvania steel town.",
+        "director": "Michael Chapman",
+        "stars": [
+            "Tom Cruise",
+            "Lea Thompson",
+            "Craig T. Nelson",
+            "Charles Cioffi"
+        ],
+        "votes": "14,381",
+        "gross": "$17.23M"
+    }
+}

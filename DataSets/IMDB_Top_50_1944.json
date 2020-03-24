@@ -1,0 +1,814 @@
+{
+    "1": {
+        "name": "Gaslight",
+        "certificate": "Not Rated",
+        "runtime": "114 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "Years after her aunt was murdered in her home, a young woman moves back into the house with her new husband. However, he has a secret that he will do anything to protect, even if it means driving his wife insane.",
+        "director": "George Cukor",
+        "stars": [
+            "Charles Boyer",
+            "Ingrid Bergman",
+            "Joseph Cotten",
+            "May Whitty"
+        ],
+        "votes": "20,772",
+        "gross": ""
+    },
+    "2": {
+        "name": "Double Indemnity",
+        "certificate": "Passed",
+        "runtime": "107 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "An insurance representative lets himself be talked into a murder/insurance fraud scheme that arouses the suspicion of an insurance investigator.",
+        "director": "Billy Wilder",
+        "stars": [
+            "Fred MacMurray",
+            "Barbara Stanwyck",
+            "Edward G. Robinson",
+            "Byron Barr"
+        ],
+        "votes": "125,939",
+        "gross": "$5.72M"
+    },
+    "3": {
+        "name": "Thirty Seconds Over Tokyo",
+        "certificate": "Passed",
+        "runtime": "138 min",
+        "genre": "Drama, History, War",
+        "description": "In the wake of Pearl Harbor, a young lieutenant leaves his expectant wife to volunteer for a secret bombing mission which will take the war to the Japanese homeland.",
+        "director": "Mervyn LeRoy",
+        "stars": [
+            "Spencer Tracy",
+            "Van Johnson",
+            "Robert Walker",
+            "Tim Murdock"
+        ],
+        "votes": "4,887",
+        "gross": ""
+    },
+    "4": {
+        "name": "Arsenic and Old Lace",
+        "certificate": "Not Rated",
+        "runtime": "118 min",
+        "genre": "Comedy, Crime, Thriller",
+        "description": "A drama critic learns on his wedding day that his beloved maiden aunts are homicidal maniacs, and that insanity runs in his family.",
+        "director": "Frank Capra",
+        "stars": [
+            "Cary Grant",
+            "Priscilla Lane",
+            "Raymond Massey",
+            "Jack Carson"
+        ],
+        "votes": "61,245",
+        "gross": ""
+    },
+    "5": {
+        "name": "Laura",
+        "certificate": "Passed",
+        "runtime": "88 min",
+        "genre": "Drama, Film-Noir, Mystery",
+        "description": "A police detective falls in love with the woman whose murder he is investigating.",
+        "director": "Otto Preminger",
+        "stars": [
+            "Gene Tierney",
+            "Dana Andrews",
+            "Clifton Webb",
+            "Vincent Price"
+        ],
+        "votes": "38,153",
+        "gross": ""
+    },
+    "6": {
+        "name": "To Have and Have Not",
+        "certificate": "Not Rated",
+        "runtime": "100 min",
+        "genre": "Adventure, Comedy, Romance",
+        "description": "During World War II, American expatriate Harry Morgan helps transport a French Resistance leader and his beautiful wife to Martinique while romancing a sensuous lounge singer.",
+        "director": "Howard Hawks",
+        "stars": [
+            "Humphrey Bogart",
+            "Lauren Bacall",
+            "Walter Brennan",
+            "Dolores Moran"
+        ],
+        "votes": "27,792",
+        "gross": ""
+    },
+    "7": {
+        "name": "Meet Me in St. Louis",
+        "certificate": "Not Rated",
+        "runtime": "113 min",
+        "genre": "Comedy, Drama, Family",
+        "description": "In the year leading up to the 1904 St. Louis World's Fair, the four Smith daughters learn lessons of life and love, even as they prepare for a reluctant move to New York.",
+        "director": "Vincente Minnelli",
+        "stars": [
+            "Judy Garland",
+            "Margaret O'Brien",
+            "Mary Astor",
+            "Lucille Bremer"
+        ],
+        "votes": "18,164",
+        "gross": "$7.57M"
+    },
+    "8": {
+        "name": "Lifeboat",
+        "certificate": "Not Rated",
+        "runtime": "97 min",
+        "genre": "Drama, War",
+        "description": "Several survivors of a torpedoed merchant ship in World War II find themselves in the same lifeboat with one of the U-boat men who sunk it.",
+        "director": "Alfred Hitchcock",
+        "stars": [
+            "Tallulah Bankhead",
+            "John Hodiak",
+            "Walter Slezak",
+            "William Bendix"
+        ],
+        "votes": "24,141",
+        "gross": ""
+    },
+    "9": {
+        "name": "Murder, My Sweet",
+        "certificate": "Approved",
+        "runtime": "95 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "After being hired to find an ex-con's former girlfriend, Philip Marlowe is drawn into a deeply complex web of mystery and deceit.",
+        "director": "Edward Dmytryk",
+        "stars": [
+            "Dick Powell",
+            "Claire Trevor",
+            "Anne Shirley",
+            "Otto Kruger"
+        ],
+        "votes": "10,717",
+        "gross": ""
+    },
+    "10": {
+        "name": "Captain America",
+        "certificate": "Approved",
+        "runtime": "244 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Superhero Captain America battles the evil forces of the archvillain called The Scarab, who poisons his enemies and steals a secret device capable of destroying buildings by sound vibrations.",
+        "director": "Elmer Clifton",
+        "stars": [
+            "John English",
+            "Dick Purcell",
+            "Lorna Gray",
+            "Lionel Atwill",
+            "Charles Trowbridge"
+        ],
+        "votes": "665",
+        "gross": ""
+    },
+    "11": {
+        "name": "House of Frankenstein",
+        "certificate": "Passed",
+        "runtime": "71 min",
+        "genre": "Fantasy, Horror, Sci-Fi",
+        "description": "An evil scientist and his hunchbacked assistant escape from prison and encounter Dracula, the Wolf Man and Frankenstein's Monster.",
+        "director": "Erle C. Kenton",
+        "stars": [
+            "Boris Karloff",
+            "Lon Chaney Jr.",
+            "J. Carrol Naish",
+            "John Carradine"
+        ],
+        "votes": "5,332",
+        "gross": ""
+    },
+    "12": {
+        "name": "Detective Kitty O'Day",
+        "certificate": "Approved",
+        "runtime": "61 min",
+        "genre": "Comedy, Mystery, Romance",
+        "description": "A girl and her boyfriend are suspected of murdering her employer. They have to clear their names and find the real killer.",
+        "director": "William Beaudine",
+        "stars": [
+            "Jean Parker",
+            "Peter Cookson",
+            "Tim Ryan",
+            "Veda Ann Borg"
+        ],
+        "votes": "193",
+        "gross": ""
+    },
+    "13": {
+        "name": "National Velvet",
+        "certificate": "G",
+        "runtime": "123 min",
+        "genre": "Drama, Family, Sport",
+        "description": "A jaded former jockey helps a young girl prepare a wild but gifted horse for England's Grand National Sweepstakes.",
+        "director": "Clarence Brown",
+        "stars": [
+            "Mickey Rooney",
+            "Elizabeth Taylor",
+            "Donald Crisp",
+            "Anne Revere"
+        ],
+        "votes": "5,895",
+        "gross": ""
+    },
+    "14": {
+        "name": "Phantom Lady",
+        "certificate": "Not Rated",
+        "runtime": "87 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "A devoted secretary risks her life to try to find the elusive woman who may prove her boss didn't murder his selfish wife.",
+        "director": "Robert Siodmak",
+        "stars": [
+            "Franchot Tone",
+            "Ella Raines",
+            "Alan Curtis",
+            "Aurora Miranda"
+        ],
+        "votes": "3,663",
+        "gross": ""
+    },
+    "15": {
+        "name": "The Woman in the Window",
+        "certificate": "Approved",
+        "runtime": "107 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "When a conservative middle-aged professor engages in a minor dalliance with a femme fatale, he is plunged into a nightmarish quicksand of blackmail and murder.",
+        "director": "Fritz Lang",
+        "stars": [
+            "Edward G. Robinson",
+            "Joan Bennett",
+            "Raymond Massey",
+            "Edmund Breon"
+        ],
+        "votes": "11,919",
+        "gross": ""
+    },
+    "16": {
+        "name": "The Three Caballeros",
+        "certificate": "Approved",
+        "runtime": "71 min",
+        "genre": "Animation, Comedy, Family",
+        "description": "Donald receives his birthday gifts, which include traditional gifts and information about Brazil (hosted by Z\u00e9 Carioca) and Mexico (by Panchito, a Mexican Charro Rooster).",
+        "director": "Norman Ferguson",
+        "stars": [
+            "Clyde Geronimi",
+            "Jack Kinney",
+            "Bill Roberts",
+            "Harold Young",
+            "Aurora Miranda",
+            "Carmen Molina",
+            "Dora Luz",
+            "Sterling Holloway"
+        ],
+        "votes": "10,491",
+        "gross": ""
+    },
+    "17": {
+        "name": "The Uninvited",
+        "certificate": "Not Rated",
+        "runtime": "99 min",
+        "genre": "Fantasy, Horror, Mystery",
+        "description": "A composer and his sister discover that the reason they are able to purchase a beautiful gothic seacoast mansion very cheaply is the house's unsavory past.",
+        "director": "Lewis Allen",
+        "stars": [
+            "Ray Milland",
+            "Ruth Hussey",
+            "Donald Crisp",
+            "Cornelia Otis Skinner"
+        ],
+        "votes": "8,431",
+        "gross": ""
+    },
+    "18": {
+        "name": "Going My Way",
+        "certificate": "Passed",
+        "runtime": "126 min",
+        "genre": "Comedy, Drama, Music",
+        "description": "Father Charles O'Mailey, a young priest at a financially failing Church in a tough neighborhood, gains support and inspires his superior.",
+        "director": "Leo McCarey",
+        "stars": [
+            "Bing Crosby",
+            "Barry Fitzgerald",
+            "Frank McHugh",
+            "James Brown"
+        ],
+        "votes": "9,239",
+        "gross": "$16.30M"
+    },
+    "19": {
+        "name": "Since You Went Away",
+        "certificate": "Approved",
+        "runtime": "177 min",
+        "genre": "Drama, Romance, War",
+        "description": "With her husband away to fight in World War II, a housewife struggles to care for their two daughters - and a pair of lodgers who have moved in - alone.",
+        "director": "John Cromwell",
+        "stars": [
+            "Edward F. Cline",
+            "Tay Garnett",
+            "David O. Selznick",
+            "Claudette Colbert",
+            "Jennifer Jones",
+            "Joseph Cotten",
+            "Shirley Temple"
+        ],
+        "votes": "3,883",
+        "gross": ""
+    },
+    "20": {
+        "name": "It Happened Tomorrow",
+        "certificate": "Approved",
+        "runtime": "85 min",
+        "genre": "Comedy, Fantasy",
+        "description": "A young turn-of-the-century newspaper man finds he can get hold of the next day's paper. This brings more problems than fortune, especially as his new girlfriend is part of a phony clairvoyant act.",
+        "director": "Ren\u00e9 Clair",
+        "stars": [
+            "Dick Powell",
+            "Linda Darnell",
+            "Jack Oakie",
+            "Edgar Kennedy"
+        ],
+        "votes": "1,715",
+        "gross": ""
+    },
+    "21": {
+        "name": "Henry V",
+        "certificate": "Not Rated",
+        "runtime": "137 min",
+        "genre": "Biography, Drama, History",
+        "description": "In the midst of the Hundred Years' War, the young King Henry V of England embarks on the conquest of France in 1415.",
+        "director": "Laurence Olivier",
+        "stars": [
+            "Laurence Olivier",
+            "Robert Newton",
+            "Leslie Banks",
+            "Felix Aylmer"
+        ],
+        "votes": "5,194",
+        "gross": ""
+    },
+    "22": {
+        "name": "Cover Girl",
+        "certificate": "Passed",
+        "runtime": "107 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "Rusty Parker wins a contest and becomes a celebrated cover girl; this endangers her romance with dancing mentor Danny.",
+        "director": "Charles Vidor",
+        "stars": [
+            "Rita Hayworth",
+            "Gene Kelly",
+            "Lee Bowman",
+            "Phil Silvers"
+        ],
+        "votes": "4,208",
+        "gross": ""
+    },
+    "23": {
+        "name": "Ivan the Terrible, Part I",
+        "certificate": "Not Rated",
+        "runtime": "95 min",
+        "genre": "Biography, Drama, History",
+        "description": "During the early part of his reign, Ivan the Terrible faces betrayal from the aristocracy and even his closest friends as he seeks to unite the Russian people.",
+        "director": "Sergei M. Eisenstein",
+        "stars": [
+            "Nikolay Cherkasov",
+            "Lyudmila Tselikovskaya",
+            "Serafima Birman",
+            "Mikhail Nazvanov"
+        ],
+        "votes": "8,115",
+        "gross": ""
+    },
+    "24": {
+        "name": "Ministry of Fear",
+        "certificate": "Not Rated",
+        "runtime": "86 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "Stephen Neale has just been released from an asylum during World War 2 in England when he stumbles on a deadly Nazi spy plot by accident, and tries to stop it.",
+        "director": "Fritz Lang",
+        "stars": [
+            "Ray Milland",
+            "Marjorie Reynolds",
+            "Carl Esmond",
+            "Hillary Brooke"
+        ],
+        "votes": "5,967",
+        "gross": ""
+    },
+    "25": {
+        "name": "Address Unknown",
+        "certificate": "Approved",
+        "runtime": "75 min",
+        "genre": "Drama",
+        "description": "US art dealer returns to his native Germany for a visit and is attracted by Nazi propaganda.",
+        "director": "William Cameron Menzies",
+        "stars": [
+            "Paul Lukas",
+            "Mady Christians",
+            "Morris Carnovsky",
+            "Carl Esmond"
+        ],
+        "votes": "352",
+        "gross": ""
+    },
+    "26": {
+        "name": "Charlie Chan in the Secret Service",
+        "certificate": "Approved",
+        "runtime": "63 min",
+        "genre": "Comedy, Crime, Mystery",
+        "description": "Charlie Chan is an agent of the U.S. government assigned to investigate the mysterious death of an inventor.",
+        "director": "Phil Rosen",
+        "stars": [
+            "Sidney Toler",
+            "Mantan Moreland",
+            "Arthur Loft",
+            "Gwen Kenyon"
+        ],
+        "votes": "1,318",
+        "gross": ""
+    },
+    "27": {
+        "name": "The Thin Man Goes Home",
+        "certificate": "Approved",
+        "runtime": "100 min",
+        "genre": "Comedy, Crime, Mystery",
+        "description": "Nick and Nora visit Nick's hometown, and end up involved in a murder.",
+        "director": "Richard Thorpe",
+        "stars": [
+            "William Powell",
+            "Myrna Loy",
+            "Lucile Watson",
+            "Gloria DeHaven"
+        ],
+        "votes": "4,448",
+        "gross": ""
+    },
+    "28": {
+        "name": "This Happy Breed",
+        "certificate": "Not Rated",
+        "runtime": "115 min",
+        "genre": "Comedy, Drama",
+        "description": "No\u00ebl Coward's attempt to show how the ordinary people lived between the wars. Just after World War I, the Gibbons family moves to a nice house in the suburbs. An ordinary sort of life is ...                See full summary\u00a0\u00bb",
+        "director": "David Lean",
+        "stars": [
+            "Robert Newton",
+            "Celia Johnson",
+            "Amy Veness",
+            "Alison Leggatt"
+        ],
+        "votes": "2,570",
+        "gross": ""
+    },
+    "29": {
+        "name": "The Purple Heart",
+        "certificate": "Approved",
+        "runtime": "99 min",
+        "genre": "Drama, History, War",
+        "description": "A stock WW2 era drama which was produced for morale purposes.",
+        "director": "Lewis Milestone",
+        "stars": [
+            "Dana Andrews",
+            "Richard Conte",
+            "Farley Granger",
+            "Kevin O'Shea"
+        ],
+        "votes": "780",
+        "gross": ""
+    },
+    "30": {
+        "name": "The Fighting Seabees",
+        "certificate": "Approved",
+        "runtime": "100 min",
+        "genre": "Drama, Romance, War",
+        "description": "During WW2, the U.S. Navy implements a new idea of forming construction battalions that also are fighting units, in case of Japanese attack.",
+        "director": "Edward Ludwig",
+        "stars": [
+            "John Wayne",
+            "Susan Hayward",
+            "Dennis O'Keefe",
+            "William Frawley"
+        ],
+        "votes": "2,986",
+        "gross": ""
+    },
+    "31": {
+        "name": "A Canterbury Tale",
+        "certificate": "Not Rated",
+        "runtime": "124 min",
+        "genre": "Comedy, Drama, Mystery",
+        "description": "Three modern day pilgrims investigate a bizarre crime in a small town on the way to Canterbury.",
+        "director": "Michael Powell",
+        "stars": [
+            "Emeric Pressburger",
+            "Eric Portman",
+            "Sheila Sim",
+            "Dennis Price",
+            "John Sweet"
+        ],
+        "votes": "4,453",
+        "gross": ""
+    },
+    "32": {
+        "name": "The Big Noise",
+        "certificate": "Approved",
+        "runtime": "74 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "During World War II Stan and Ollie find themselves as improbable bodyguards to an eccentric inventor and his strategically important new bomb.",
+        "director": "Malcolm St. Clair",
+        "stars": [
+            "Stan Laurel",
+            "Oliver Hardy",
+            "Doris Merrick",
+            "Arthur Space"
+        ],
+        "votes": "922",
+        "gross": ""
+    },
+    "33": {
+        "name": "The Lodger",
+        "certificate": "Approved",
+        "runtime": "84 min",
+        "genre": "Crime, Horror, Mystery",
+        "description": "A landlady suspects her new lodger is Jack the Ripper.",
+        "director": "John Brahm",
+        "stars": [
+            "Laird Cregar",
+            "Merle Oberon",
+            "George Sanders",
+            "Cedric Hardwicke"
+        ],
+        "votes": "2,694",
+        "gross": ""
+    },
+    "34": {
+        "name": "Mr. Skeffington",
+        "certificate": "Approved",
+        "runtime": "146 min",
+        "genre": "Drama, Romance",
+        "description": "Popular and beautiful Fanny Trellis is forced into a loveless marriage with an older man, Jewish banker Job Skeffington, in order to save her beloved brother Trippy from an embezzlement charge, and predictable complications result.",
+        "director": "Vincent Sherman",
+        "stars": [
+            "Bette Davis",
+            "Claude Rains",
+            "Walter Abel",
+            "George Coulouris"
+        ],
+        "votes": "4,836",
+        "gross": ""
+    },
+    "35": {
+        "name": "Tall in the Saddle",
+        "certificate": "Approved",
+        "runtime": "87 min",
+        "genre": "Mystery, Romance, Western",
+        "description": "Ranch hand Rocklin arrives in town to start his new job but his employer has been murdered and the locals don't seem too friendly.",
+        "director": "Edwin L. Marin",
+        "stars": [
+            "John Wayne",
+            "Ella Raines",
+            "Ward Bond",
+            "George 'Gabby' Hayes"
+        ],
+        "votes": "2,508",
+        "gross": ""
+    },
+    "36": {
+        "name": "The Curse of the Cat People",
+        "certificate": "Approved",
+        "runtime": "70 min",
+        "genre": "Drama, Horror, Mystery",
+        "description": "The young, friendless daughter of Oliver and Alice Reed befriends her father's dead first wife and an aging, reclusive actress.",
+        "director": "Gunther von Fritsch",
+        "stars": [
+            "Robert Wise",
+            "Simone Simon",
+            "Kent Smith",
+            "Jane Randolph",
+            "Ann Carter"
+        ],
+        "votes": "5,068",
+        "gross": ""
+    },
+    "37": {
+        "name": "The Keys of the Kingdom",
+        "certificate": "Approved",
+        "runtime": "137 min",
+        "genre": "Drama",
+        "description": "A young priest, Father Chisholm is sent to China to establish a Catholic parish among the non-Christian Chinese. While his boyhood friend, also a priest, flourishes in his calling as a ...                See full summary\u00a0\u00bb",
+        "director": "John M. Stahl",
+        "stars": [
+            "Gregory Peck",
+            "Thomas Mitchell",
+            "Vincent Price",
+            "Rose Stradner"
+        ],
+        "votes": "2,171",
+        "gross": ""
+    },
+    "38": {
+        "name": "None But the Lonely Heart",
+        "certificate": "Passed",
+        "runtime": "113 min",
+        "genre": "Drama, Romance",
+        "description": "When an itinerant reluctantly returns home to help his sickly mother run her shop, they are both tempted to turn to crime to help make ends meet.",
+        "director": "Clifford Odets",
+        "stars": [
+            "Cary Grant",
+            "Ethel Barrymore",
+            "Barry Fitzgerald",
+            "June Duprez"
+        ],
+        "votes": "2,023",
+        "gross": ""
+    },
+    "39": {
+        "name": "The Suspect",
+        "certificate": "Approved",
+        "runtime": "85 min",
+        "genre": "Drama, Thriller",
+        "description": "In 1902 London, unhappily married Philip Marshall meets young Mary Gray, who is unemployed and depressed. Their deepening friendship, though physically innocent, is discovered by Philip's ...                See full summary\u00a0\u00bb",
+        "director": "Robert Siodmak",
+        "stars": [
+            "Charles Laughton",
+            "Ella Raines",
+            "Dean Harens",
+            "Stanley Ridges"
+        ],
+        "votes": "1,450",
+        "gross": ""
+    },
+    "40": {
+        "name": "Between Two Worlds",
+        "certificate": "Approved",
+        "runtime": "112 min",
+        "genre": "Mystery, Drama, Fantasy",
+        "description": "Passengers on an ocean liner can't recall how they got on board or where they are going yet, oddly enough, it soon becomes apparent that they all have something in common.",
+        "director": "Edward A. Blatt",
+        "stars": [
+            "John Garfield",
+            "Paul Henreid",
+            "Sydney Greenstreet",
+            "Eleanor Parker"
+        ],
+        "votes": "1,499",
+        "gross": ""
+    },
+    "41": {
+        "name": "Casanova Brown",
+        "certificate": "Approved",
+        "runtime": "94 min",
+        "genre": "Comedy",
+        "description": "Cass Brown is about to marry for the second time; his first marriage, to Isabel, was annulled. But when he discovers that Isabel just had their baby, Cass kidnaps the infant to keep her ...                See full summary\u00a0\u00bb",
+        "director": "Sam Wood",
+        "stars": [
+            "Gary Cooper",
+            "Teresa Wright",
+            "Frank Morgan",
+            "Anita Louise"
+        ],
+        "votes": "799",
+        "gross": ""
+    },
+    "42": {
+        "name": "The Mummy's Curse",
+        "certificate": "Approved",
+        "runtime": "60 min",
+        "genre": "Action, Fantasy, Horror",
+        "description": "An irrigation project in the rural bayous of Louisiana unearths living mummy Kharis, who was buried in quicksand twenty-five years earlier.",
+        "director": "Leslie Goodwins",
+        "stars": [
+            "Lon Chaney Jr.",
+            "Peter Coe",
+            "Virginia Christine",
+            "Kay Harding"
+        ],
+        "votes": "2,129",
+        "gross": ""
+    },
+    "43": {
+        "name": "Dragon Seed",
+        "certificate": "Passed",
+        "runtime": "148 min",
+        "genre": "Drama, History, War",
+        "description": "The lives of a small Chinese village are turned Upside down when the Japanese invade it. And heroic young Chinese woman leads her fellow villagers in an uprising against Japanese Invaders.",
+        "director": "Harold S. Bucquet",
+        "stars": [
+            "Jack Conway",
+            "Katharine Hepburn",
+            "Walter Huston",
+            "Aline MacMahon",
+            "Akim Tamiroff"
+        ],
+        "votes": "993",
+        "gross": ""
+    },
+    "44": {
+        "name": "The Seventh Cross",
+        "certificate": "Passed",
+        "runtime": "112 min",
+        "genre": "Drama, War",
+        "description": "In Nazi Germany in 1936 seven men escape from a concentration camp. The camp commander puts up seven crosses and, as the Gestapo returns each escapee he is put to death on a cross. The ...                See full summary\u00a0\u00bb",
+        "director": "Fred Zinnemann",
+        "stars": [
+            "Spencer Tracy",
+            "Signe Hasso",
+            "Hume Cronyn",
+            "Jessica Tandy"
+        ],
+        "votes": "2,051",
+        "gross": ""
+    },
+    "45": {
+        "name": "The Mask of Dimitrios",
+        "certificate": "Approved",
+        "runtime": "95 min",
+        "genre": "Crime, Drama, Film-Noir",
+        "description": "Mystery writer Cornelius Leyden becomes intrigued when the murdered body of a vicious career criminal washes up in the Bosphorus.",
+        "director": "Jean Negulesco",
+        "stars": [
+            "Peter Lorre",
+            "Sydney Greenstreet",
+            "Zachary Scott",
+            "Faye Emerson"
+        ],
+        "votes": "2,742",
+        "gross": ""
+    },
+    "46": {
+        "name": "The Way Ahead",
+        "certificate": "Approved",
+        "runtime": "91 min",
+        "genre": "Drama, War",
+        "description": "World War II drama that follows a group of British draftees, starting with their rigorous basic training, and ending with their deployment in North Africa.",
+        "director": "Carol Reed",
+        "stars": [
+            "David Niven",
+            "Stanley Holloway",
+            "James Donald",
+            "John Laurie"
+        ],
+        "votes": "1,488",
+        "gross": ""
+    },
+    "47": {
+        "name": "Days of Glory",
+        "certificate": "Not Rated",
+        "runtime": "86 min",
+        "genre": "Drama, Romance, War",
+        "description": "A heroic guerilla group fights back against impossible odds during the 1941 Nazi invasion of Russia.",
+        "director": "Jacques Tourneur",
+        "stars": [
+            "Gregory Peck",
+            "Tamara Toumanova",
+            "Alan Reed",
+            "Maria Palmer"
+        ],
+        "votes": "1,042",
+        "gross": ""
+    },
+    "48": {
+        "name": "I'll Be Seeing You",
+        "certificate": "Approved",
+        "runtime": "85 min",
+        "genre": "Drama, Family, Romance",
+        "description": "A soldier suffering from combat fatigue meets a young woman on Christmas furlough from prison and their mutual loneliness blossoms into romance.",
+        "director": "William Dieterle",
+        "stars": [
+            "George Cukor",
+            "Ginger Rogers",
+            "Joseph Cotten",
+            "Shirley Temple",
+            "Spring Byington"
+        ],
+        "votes": "1,805",
+        "gross": ""
+    },
+    "49": {
+        "name": "The Scarlet Claw",
+        "certificate": "Approved",
+        "runtime": "74 min",
+        "genre": "Crime, Film-Noir, Mystery",
+        "description": "When a gentlewoman is found dead with her throat torn out, the villagers blame a supernatural monster. But Sherlock Holmes, who gets drawn into the case from nearby Quebec, suspects a human murderer.",
+        "director": "Roy William Neill",
+        "stars": [
+            "Basil Rathbone",
+            "Nigel Bruce",
+            "Gerald Hamer",
+            "Paul Cavanagh"
+        ],
+        "votes": "4,246",
+        "gross": ""
+    },
+    "50": {
+        "name": "Buffalo Bill",
+        "certificate": "Approved",
+        "runtime": "90 min",
+        "genre": "Biography, Romance, Western",
+        "description": "The story of William \"Buffalo Bill\" Cody, legendary westerner, from his days as an army scout to his later activities as owner of a Wild West show.",
+        "director": "William A. Wellman",
+        "stars": [
+            "Joel McCrea",
+            "Maureen O'Hara",
+            "Linda Darnell",
+            "Thomas Mitchell"
+        ],
+        "votes": "1,187",
+        "gross": ""
+    }
+}

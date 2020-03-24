@@ -1,0 +1,803 @@
+{
+    "1": {
+        "name": "The Good, the Bad and the Ugly",
+        "certificate": "R",
+        "runtime": "178 min",
+        "genre": "Western",
+        "description": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+        "director": "Sergio Leone",
+        "stars": [
+            "Clint Eastwood",
+            "Eli Wallach",
+            "Lee Van Cleef",
+            "Aldo Giuffr\u00e8"
+        ],
+        "votes": "615,594",
+        "gross": "$6.10M"
+    },
+    "2": {
+        "name": "Persona",
+        "certificate": "Not Rated",
+        "runtime": "83 min",
+        "genre": "Drama, Thriller",
+        "description": "A nurse is put in charge of a mute actress and finds that their personae are melding together.",
+        "director": "Ingmar Bergman",
+        "stars": [
+            "Bibi Andersson",
+            "Liv Ullmann",
+            "Margaretha Krook",
+            "Gunnar Bj\u00f6rnstrand"
+        ],
+        "votes": "86,012",
+        "gross": ""
+    },
+    "3": {
+        "name": "Blow-Up",
+        "certificate": "Not Rated",
+        "runtime": "111 min",
+        "genre": "Drama, Mystery, Thriller",
+        "description": "A mod London photographer finds something very suspicious in the shots he has taken of a mysterious beauty in a desolate park.",
+        "director": "Michelangelo Antonioni",
+        "stars": [
+            "David Hemmings",
+            "Vanessa Redgrave",
+            "Sarah Miles",
+            "John Castle"
+        ],
+        "votes": "50,341",
+        "gross": ""
+    },
+    "4": {
+        "name": "Batman: The Movie",
+        "certificate": "PG",
+        "runtime": "105 min",
+        "genre": "Adventure, Comedy, Crime",
+        "description": "The Dynamic Duo faces four supervillains who plan to hold the world for ransom with the help of a secret invention that instantly dehydrates people.",
+        "director": "Leslie H. Martinson",
+        "stars": [
+            "Adam West",
+            "Burt Ward",
+            "Lee Meriwether",
+            "Cesar Romero"
+        ],
+        "votes": "27,386",
+        "gross": ""
+    },
+    "5": {
+        "name": "Fahrenheit 451",
+        "certificate": "Not Rated",
+        "runtime": "112 min",
+        "genre": "Drama, Sci-Fi",
+        "description": "In an oppressive future, a fireman whose duty is to destroy all books begins to question his task.",
+        "director": "Fran\u00e7ois Truffaut",
+        "stars": [
+            "Oskar Werner",
+            "Julie Christie",
+            "Cyril Cusack",
+            "Anton Diffring"
+        ],
+        "votes": "38,208",
+        "gross": ""
+    },
+    "6": {
+        "name": "Andrei Rublev",
+        "certificate": "R",
+        "runtime": "205 min",
+        "genre": "Biography, Drama, History",
+        "description": "The life, times and afflictions of the fifteenth-century Russian iconographer.",
+        "director": "Andrei Tarkovsky",
+        "stars": [
+            "Anatoliy Solonitsyn",
+            "Ivan Lapikov",
+            "Nikolay Grinko",
+            "Nikolay Sergeev"
+        ],
+        "votes": "38,278",
+        "gross": "$0.10M"
+    },
+    "7": {
+        "name": "Who's Afraid of Virginia Woolf?",
+        "certificate": "Not Rated",
+        "runtime": "131 min",
+        "genre": "Drama",
+        "description": "A bitter, aging couple, with the help of alcohol, use a young couple to fuel anguish and emotional pain towards each other.",
+        "director": "Mike Nichols",
+        "stars": [
+            "Elizabeth Taylor",
+            "Richard Burton",
+            "George Segal",
+            "Sandy Dennis"
+        ],
+        "votes": "63,535",
+        "gross": ""
+    },
+    "8": {
+        "name": "Grand Prix",
+        "certificate": "Approved",
+        "runtime": "176 min",
+        "genre": "Drama, Sport",
+        "description": "American Grand Prix driver Pete Aron is fired by his Jordan-BRM racing team after a crash at Monaco that injures his British teammate, Scott Stoddard.",
+        "director": "John Frankenheimer",
+        "stars": [
+            "James Garner",
+            "Eva Marie Saint",
+            "Yves Montand",
+            "Toshir\u00f4 Mifune"
+        ],
+        "votes": "7,082",
+        "gross": "$20.85M"
+    },
+    "9": {
+        "name": "The Sand Pebbles",
+        "certificate": "PG-13",
+        "runtime": "182 min",
+        "genre": "Adventure, Drama, Romance",
+        "description": "In 1926, a U.S. Naval engineer gets assigned to a gunboat on a rescue mission in war-torn China.",
+        "director": "Robert Wise",
+        "stars": [
+            "Steve McQueen",
+            "Richard Attenborough",
+            "Richard Crenna",
+            "Candice Bergen"
+        ],
+        "votes": "12,091",
+        "gross": ""
+    },
+    "10": {
+        "name": "A Man for All Seasons",
+        "certificate": "G",
+        "runtime": "120 min",
+        "genre": "Biography, Drama, History",
+        "description": "The story of Thomas More, who stood up to King Henry VIII when the King rejected the Roman Catholic Church to obtain a divorce and remarry.",
+        "director": "Fred Zinnemann",
+        "stars": [
+            "Paul Scofield",
+            "Wendy Hiller",
+            "Robert Shaw",
+            "Leo McKern"
+        ],
+        "votes": "27,998",
+        "gross": "$28.35M"
+    },
+    "11": {
+        "name": "Daisies",
+        "certificate": "",
+        "runtime": "74 min",
+        "genre": "Comedy",
+        "description": "Two girls try to understand the meaning of the world and their life.",
+        "director": "Vera Chytilov\u00e1",
+        "stars": [
+            "Ivana Karbanov\u00e1",
+            "Jitka Cerhov\u00e1",
+            "Marie Ceskov\u00e1",
+            "Jirina Myskova"
+        ],
+        "votes": "8,195",
+        "gross": ""
+    },
+    "12": {
+        "name": "Modesty Blaise",
+        "certificate": "",
+        "runtime": "119 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "A spy spoof in the 60s tradition featuring the comic book heroine Modesty Blaise set in the Italian Mediterranean.",
+        "director": "Joseph Losey",
+        "stars": [
+            "Monica Vitti",
+            "Terence Stamp",
+            "Dirk Bogarde",
+            "Harry Andrews"
+        ],
+        "votes": "2,315",
+        "gross": ""
+    },
+    "13": {
+        "name": "Manos: The Hands of Fate",
+        "certificate": "Not Rated",
+        "runtime": "70 min",
+        "genre": "Horror",
+        "description": "A family gets lost on the road and stumbles upon a hidden, underground, devil-worshiping cult led by the fearsome Master and his servant Torgo.",
+        "director": "Harold P. Warren",
+        "stars": [
+            "Tom Neyman",
+            "John Reynolds",
+            "Diane Adelson",
+            "Harold P. Warren"
+        ],
+        "votes": "33,354",
+        "gross": ""
+    },
+    "14": {
+        "name": "Khartoum",
+        "certificate": "Approved",
+        "runtime": "128 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "In the Sudan, in 1884 to 1885, Egyptian forces led by a British General defend Khartoum against an invading Muslim Army led by a religious fanatic, the Mahdi.",
+        "director": "Basil Dearden",
+        "stars": [
+            "Eliot Elisofon",
+            "Charlton Heston",
+            "Laurence Olivier",
+            "Richard Johnson",
+            "Ralph Richardson"
+        ],
+        "votes": "5,970",
+        "gross": ""
+    },
+    "15": {
+        "name": "The Battle of Algiers",
+        "certificate": "Not Rated",
+        "runtime": "121 min",
+        "genre": "Drama, War",
+        "description": "In the 1950s, fear and violence escalate as the people of Algiers fight for independence from the French government.",
+        "director": "Gillo Pontecorvo",
+        "stars": [
+            "Brahim Hadjadj",
+            "Jean Martin",
+            "Yacef Saadi",
+            "Tommaso Neri"
+        ],
+        "votes": "46,795",
+        "gross": "$0.06M"
+    },
+    "16": {
+        "name": "The Quiller Memorandum",
+        "certificate": "Approved",
+        "runtime": "104 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "In the West Berlin of the 1960s, two British agents are killed by a Nazi group, prompting British Intelligence to dispatch agent Quiller to investigate.",
+        "director": "Michael Anderson",
+        "stars": [
+            "George Segal",
+            "Alec Guinness",
+            "Max von Sydow",
+            "Senta Berger"
+        ],
+        "votes": "3,050",
+        "gross": ""
+    },
+    "17": {
+        "name": "Django",
+        "certificate": "Not Rated",
+        "runtime": "91 min",
+        "genre": "Action, Western",
+        "description": "A coffin-dragging gunslinger and a half-breed prostitute become embroiled in a bitter feud between a Klan of Southern racists and a band of Mexican Revolutionaries.",
+        "director": "Sergio Corbucci",
+        "stars": [
+            "Franco Nero",
+            "Jos\u00e9 Canalejas",
+            "Jos\u00e9 B\u00f3dalo",
+            "Loredana Nusciak"
+        ],
+        "votes": "21,960",
+        "gross": "$0.03M"
+    },
+    "18": {
+        "name": "Fantastic Voyage",
+        "certificate": "PG",
+        "runtime": "100 min",
+        "genre": "Adventure, Family, Sci-Fi",
+        "description": "A scientist is nearly assassinated. In order to save him, a submarine is shrunken to microscopic size and injected into his blood stream with a small crew. Problems arise almost as soon as they enter the bloodstream.",
+        "director": "Richard Fleischer",
+        "stars": [
+            "Stephen Boyd",
+            "Raquel Welch",
+            "Edmond O'Brien",
+            "Donald Pleasence"
+        ],
+        "votes": "15,616",
+        "gross": ""
+    },
+    "19": {
+        "name": "The Chase",
+        "certificate": "Not Rated",
+        "runtime": "134 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "The escape of Bubber Reeves from prison affects the inhabitants of a small Southern town.",
+        "director": "Arthur Penn",
+        "stars": [
+            "Marlon Brando",
+            "Jane Fonda",
+            "Robert Redford",
+            "E.G. Marshall"
+        ],
+        "votes": "9,076",
+        "gross": "$5.00M"
+    },
+    "20": {
+        "name": "The Shooting",
+        "certificate": "G",
+        "runtime": "82 min",
+        "genre": "Western",
+        "description": "A mysterious woman persuades two cowboys to help her in a revenge scheme.",
+        "director": "Monte Hellman",
+        "stars": [
+            "Millie Perkins",
+            "Jack Nicholson",
+            "Will Hutchins",
+            "Warren Oates"
+        ],
+        "votes": "3,792",
+        "gross": ""
+    },
+    "21": {
+        "name": "War and Peace",
+        "certificate": "Unrated",
+        "runtime": "422 min",
+        "genre": "Drama, History, Romance",
+        "description": "Eight-hour epic based on the book of the same name by Leo Tolstoy. Two main story-lines are complex and intertwined. One is the love story of young Countess Natasha Rostova and Count Pierre...                See full summary\u00a0\u00bb",
+        "director": "Sergey Bondarchuk",
+        "stars": [
+            "Lyudmila Saveleva",
+            "Vyacheslav Tikhonov",
+            "Sergey Bondarchuk",
+            "Boris Zakhava"
+        ],
+        "votes": "5,426",
+        "gross": "$0.06M"
+    },
+    "22": {
+        "name": "Ride in the Whirlwind",
+        "certificate": "G",
+        "runtime": "82 min",
+        "genre": "Western",
+        "description": "Three cowboys, mistaken for members of an outlaw gang, are relentlessly pursued by a posse.",
+        "director": "Monte Hellman",
+        "stars": [
+            "Jack Nicholson",
+            "Cameron Mitchell",
+            "Millie Perkins",
+            "Katherine Squire"
+        ],
+        "votes": "2,725",
+        "gross": ""
+    },
+    "23": {
+        "name": "The Professionals",
+        "certificate": "PG-13",
+        "runtime": "117 min",
+        "genre": "Action, Adventure, Western",
+        "description": "An arrogant Texas millionaire hires four adventurers to rescue his kidnapped wife from a notorious Mexican bandit.",
+        "director": "Richard Brooks",
+        "stars": [
+            "Burt Lancaster",
+            "Lee Marvin",
+            "Robert Ryan",
+            "Woody Strode"
+        ],
+        "votes": "12,238",
+        "gross": "$19.54M"
+    },
+    "24": {
+        "name": "A Funny Thing Happened on the Way to the Forum",
+        "certificate": "Approved",
+        "runtime": "99 min",
+        "genre": "Comedy, Musical",
+        "description": "A wily slave must unite a virgin courtesan and his young smitten master to earn his freedom.",
+        "director": "Richard Lester",
+        "stars": [
+            "Zero Mostel",
+            "Phil Silvers",
+            "Buster Keaton",
+            "Michael Crawford"
+        ],
+        "votes": "7,706",
+        "gross": ""
+    },
+    "25": {
+        "name": "Au Hasard Balthazar",
+        "certificate": "Not Rated",
+        "runtime": "95 min",
+        "genre": "Drama",
+        "description": "The story of a mistreated donkey and the people around him. A study on saintliness and a sister piece to Bresson's Mouchette.",
+        "director": "Robert Bresson",
+        "stars": [
+            "Anne Wiazemsky",
+            "Walter Green",
+            "Fran\u00e7ois Lafarge",
+            "Jean-Claude Guilbert"
+        ],
+        "votes": "15,088",
+        "gross": "$0.04M"
+    },
+    "26": {
+        "name": "The Bible: In the Beginning...",
+        "certificate": "Unrated",
+        "runtime": "174 min",
+        "genre": "Drama",
+        "description": "Extravagant production of the first part of the book of Genesis. Covers Adam and Eve, Noah and the Flood and Abraham and Isaac.",
+        "director": "John Huston",
+        "stars": [
+            "Michael Parks",
+            "Ulla Bergryd",
+            "Richard Harris",
+            "John Huston"
+        ],
+        "votes": "4,265",
+        "gross": "$34.90M"
+    },
+    "27": {
+        "name": "Seconds",
+        "certificate": "R",
+        "runtime": "106 min",
+        "genre": "Sci-Fi, Thriller",
+        "description": "An unhappy middle-aged banker agrees to a procedure that will fake his death and give him a completely new look and identity - one that comes with its own price.",
+        "director": "John Frankenheimer",
+        "stars": [
+            "Rock Hudson",
+            "Frank Campanella",
+            "John Randolph",
+            "Frances Reid"
+        ],
+        "votes": "13,997",
+        "gross": ""
+    },
+    "28": {
+        "name": "Torn Curtain",
+        "certificate": "PG",
+        "runtime": "128 min",
+        "genre": "Thriller",
+        "description": "An American scientist publicly defects to East Germany as part of a cloak and dagger mission to find the solution for a formula resin before planning an escape back to the West.",
+        "director": "Alfred Hitchcock",
+        "stars": [
+            "Paul Newman",
+            "Julie Andrews",
+            "Lila Kedrova",
+            "Hansj\u00f6rg Felmy"
+        ],
+        "votes": "22,183",
+        "gross": ""
+    },
+    "29": {
+        "name": "Return of the Magnificent Seven",
+        "certificate": "Unrated",
+        "runtime": "95 min",
+        "genre": "Action, Western",
+        "description": "Two survivors of the initial Magnificent Seven outfit, Chris and Vin, recruit four new members in order to re-form the outfit and defend a few Mexican villages from attacks by vicious bandits.",
+        "director": "Burt Kennedy",
+        "stars": [
+            "Yul Brynner",
+            "Robert Fuller",
+            "Juli\u00e1n Mateos",
+            "Warren Oates"
+        ],
+        "votes": "3,258",
+        "gross": "$6.32M"
+    },
+    "30": {
+        "name": "Alfie",
+        "certificate": "PG",
+        "runtime": "114 min",
+        "genre": "Comedy, Drama",
+        "description": "An unrepentant ladies' man gradually begins to understand the consequences of his lifestyle.",
+        "director": "Lewis Gilbert",
+        "stars": [
+            "Michael Caine",
+            "Shelley Winters",
+            "Millicent Martin",
+            "Julia Foster"
+        ],
+        "votes": "12,319",
+        "gross": "$18.87M"
+    },
+    "31": {
+        "name": "The Russians Are Coming the Russians Are Coming",
+        "certificate": "Unrated",
+        "runtime": "126 min",
+        "genre": "Comedy, War",
+        "description": "Without hostile intent, a Soviet submarine runs aground off New England. Men are sent for a boat, but many villagers go into a tizzy, risking bloodshed.",
+        "director": "Norman Jewison",
+        "stars": [
+            "Carl Reiner",
+            "Eva Marie Saint",
+            "Alan Arkin",
+            "Brian Keith"
+        ],
+        "votes": "7,154",
+        "gross": "$21.69M"
+    },
+    "32": {
+        "name": "The Black Klansman",
+        "certificate": "Not Rated",
+        "runtime": "88 min",
+        "genre": "Drama",
+        "description": "After a black man's daughter is killed by the KKK, he seeks revenge by becoming a Klansman.",
+        "director": "Ted V. Mikels",
+        "stars": [
+            "Richard Gilden",
+            "Rima Kutner",
+            "Harry Lovejoy",
+            "Max Julien"
+        ],
+        "votes": "394",
+        "gross": ""
+    },
+    "33": {
+        "name": "How to Steal a Million",
+        "certificate": "Not Rated",
+        "runtime": "123 min",
+        "genre": "Comedy, Crime, Romance",
+        "description": "Romantic comedy about a woman who must steal a statue from a Paris museum to help conceal her father's art forgeries, and the man who helps her.",
+        "director": "William Wyler",
+        "stars": [
+            "Audrey Hepburn",
+            "Peter O'Toole",
+            "Eli Wallach",
+            "Hugh Griffith"
+        ],
+        "votes": "21,974",
+        "gross": ""
+    },
+    "34": {
+        "name": "One Million Years B.C.",
+        "certificate": "Not Rated",
+        "runtime": "92 min",
+        "genre": "Adventure, Fantasy",
+        "description": "Prehistoric man Tumak is banished from his savage tribe and meets pretty Loana who belongs to a gentler coastal tribe but he must fight caveman Payto to win her favors.",
+        "director": "Don Chaffey",
+        "stars": [
+            "Raquel Welch",
+            "John Richardson",
+            "Percy Herbert",
+            "Robert Brown"
+        ],
+        "votes": "6,938",
+        "gross": ""
+    },
+    "35": {
+        "name": "Cast a Giant Shadow",
+        "certificate": "Approved",
+        "runtime": "146 min",
+        "genre": "Adventure, Drama, History",
+        "description": "In 1947, following the U.N. decision to split British Palestine into separate Jewish and Palestinian states, a former U.S. Army officer is recruited by the Jews to reorganize the Haganah.",
+        "director": "Melville Shavelson",
+        "stars": [
+            "Kirk Douglas",
+            "John Wayne",
+            "Frank Sinatra",
+            "Senta Berger"
+        ],
+        "votes": "2,492",
+        "gross": ""
+    },
+    "36": {
+        "name": "The Silencers",
+        "certificate": "TV-PG",
+        "runtime": "102 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "Retired agent Matt Helm is re-activated in order to stop an evil organization from exploding an atom bomb over the USA and starting WWIII.",
+        "director": "Phil Karlson",
+        "stars": [
+            "Dean Martin",
+            "Stella Stevens",
+            "Daliah Lavi",
+            "Victor Buono"
+        ],
+        "votes": "2,355",
+        "gross": ""
+    },
+    "37": {
+        "name": "A Man and a Woman",
+        "certificate": "Unrated",
+        "runtime": "102 min",
+        "genre": "Drama, Romance",
+        "description": "A widow and a widower find their relationship developing into love, but their past tragedies prove hard to overcome, causing them to proceed with utmost delicacy.",
+        "director": "Claude Lelouch",
+        "stars": [
+            "Anouk Aim\u00e9e",
+            "Jean-Louis Trintignant",
+            "Pierre Barouh",
+            "Val\u00e9rie Lagrange"
+        ],
+        "votes": "8,382",
+        "gross": ""
+    },
+    "38": {
+        "name": "The Fortune Cookie",
+        "certificate": "Approved",
+        "runtime": "125 min",
+        "genre": "Comedy, Romance",
+        "description": "A crooked lawyer persuades his brother-in-law to feign a serious injury.",
+        "director": "Billy Wilder",
+        "stars": [
+            "Jack Lemmon",
+            "Walter Matthau",
+            "Ron Rich",
+            "Judi West"
+        ],
+        "votes": "11,247",
+        "gross": ""
+    },
+    "39": {
+        "name": "Madame X",
+        "certificate": "Approved",
+        "runtime": "100 min",
+        "genre": "Drama",
+        "description": "When her lover is killed, the wife of a wealthy man is convinced to fake her own death, which leads her into greater depths of depravity until fate reunites her with her long-lost son, who is unaware of her real identity.",
+        "director": "David Lowell Rich",
+        "stars": [
+            "Lana Turner",
+            "John Forsythe",
+            "Ricardo Montalban",
+            "Burgess Meredith"
+        ],
+        "votes": "1,720",
+        "gross": ""
+    },
+    "40": {
+        "name": "The Trouble with Angels",
+        "certificate": "PG",
+        "runtime": "112 min",
+        "genre": "Comedy, Family",
+        "description": "Two high-spirited young students at St. Francis Academy For Girls keep things hopping for the challenged Mother Superior and her staff of bewildered Sisters.",
+        "director": "Ida Lupino",
+        "stars": [
+            "Rosalind Russell",
+            "Hayley Mills",
+            "Binnie Barnes",
+            "Camilla Sparv"
+        ],
+        "votes": "3,901",
+        "gross": ""
+    },
+    "41": {
+        "name": "Nevada Smith",
+        "certificate": "Not Rated",
+        "runtime": "128 min",
+        "genre": "Western",
+        "description": "A half American Indian and half white teenager evolves into a hardened killer as he tracks down his parents' murderers.",
+        "director": "Henry Hathaway",
+        "stars": [
+            "Steve McQueen",
+            "Karl Malden",
+            "Brian Keith",
+            "Arthur Kennedy"
+        ],
+        "votes": "6,582",
+        "gross": "$14.17M"
+    },
+    "42": {
+        "name": "Hawaii",
+        "certificate": "Approved",
+        "runtime": "189 min",
+        "genre": "Drama",
+        "description": "An American missionary and his wife travel to the exotic island kingdom of Hawaii, intent on converting the natives. But the clash between the two cultures is too great and instead of understanding there comes tragedy.",
+        "director": "George Roy Hill",
+        "stars": [
+            "Julie Andrews",
+            "Max von Sydow",
+            "Richard Harris",
+            "Gene Hackman"
+        ],
+        "votes": "2,423",
+        "gross": "$34.56M"
+    },
+    "43": {
+        "name": "Arabesque",
+        "certificate": "Unrated",
+        "runtime": "105 min",
+        "genre": "Action, Adventure, Crime",
+        "description": "Story of international intrigue involving a university professor, an Arab prime minister, a ruthless businessman, a beautiful spy, and hieroglyphics.",
+        "director": "Stanley Donen",
+        "stars": [
+            "Gregory Peck",
+            "Sophia Loren",
+            "Alan Badel",
+            "Kieron Moore"
+        ],
+        "votes": "5,636",
+        "gross": ""
+    },
+    "44": {
+        "name": "Dead Heat on a Merry-Go-Round",
+        "certificate": "TV-PG",
+        "runtime": "104 min",
+        "genre": "Crime, Comedy, Drama",
+        "description": "A paroled conman co-ordinates the robbery of an L. A. Airport bank with the arrival of the Soviet premier.",
+        "director": "Bernard Girard",
+        "stars": [
+            "James Coburn",
+            "Camilla Sparv",
+            "Aldo Ray",
+            "Nina Wayne"
+        ],
+        "votes": "986",
+        "gross": ""
+    },
+    "45": {
+        "name": "Masculin F\u00e9minin",
+        "certificate": "Not Rated",
+        "runtime": "103 min",
+        "genre": "Drama, Romance",
+        "description": "A romance between young Parisians, shown through a series of vignettes.",
+        "director": "Jean-Luc Godard",
+        "stars": [
+            "Jean-Pierre L\u00e9aud",
+            "Chantal Goya",
+            "Marl\u00e8ne Jobert",
+            "Michel Debord"
+        ],
+        "votes": "10,889",
+        "gross": "$0.20M"
+    },
+    "46": {
+        "name": "Georgy Girl",
+        "certificate": "Approved",
+        "runtime": "99 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A homely but vivacious young woman dodges the amorous attentions of her father's middle-aged employer while striving to capture some of the glamorous life of her swinging London roommate.",
+        "director": "Silvio Narizzano",
+        "stars": [
+            "James Mason",
+            "Alan Bates",
+            "Lynn Redgrave",
+            "Charlotte Rampling"
+        ],
+        "votes": "3,074",
+        "gross": ""
+    },
+    "47": {
+        "name": "Carry On Screaming!",
+        "certificate": "Not Rated",
+        "runtime": "97 min",
+        "genre": "Comedy, Horror",
+        "description": "The sinister Dr Watt has an evil scheme going. He's kidnapping beautiful young women and turning them into mannequins to sell to local stores. Fortunately for Dr Watt, Detective-Sergeant ...                See full summary\u00a0\u00bb",
+        "director": "Gerald Thomas",
+        "stars": [
+            "Kenneth Williams",
+            "Jim Dale",
+            "Harry H. Corbett",
+            "Charles Hawtrey"
+        ],
+        "votes": "3,932",
+        "gross": ""
+    },
+    "48": {
+        "name": "This Property Is Condemned",
+        "certificate": "Unrated",
+        "runtime": "110 min",
+        "genre": "Drama, Romance",
+        "description": "The dramatic love story of small-town Mississippi girl Alva Starr and railroad official Owen Legate, set during the Great Depression.",
+        "director": "Sydney Pollack",
+        "stars": [
+            "Natalie Wood",
+            "Robert Redford",
+            "Charles Bronson",
+            "Kate Reid"
+        ],
+        "votes": "4,606",
+        "gross": ""
+    },
+    "49": {
+        "name": "Closely Watched Trains",
+        "certificate": "Not Rated",
+        "runtime": "92 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "An apprentice train dispatcher at a village station seeks his first sexual encounter and becomes despondent when he is unable to perform.",
+        "director": "Jir\u00ed Menzel",
+        "stars": [
+            "V\u00e1clav Neck\u00e1r",
+            "Josef Somr",
+            "Vlastimil Brodsk\u00fd",
+            "Vladim\u00edr Valenta"
+        ],
+        "votes": "10,028",
+        "gross": ""
+    },
+    "50": {
+        "name": "The Wild Angels",
+        "certificate": "R",
+        "runtime": "93 min",
+        "genre": "Action, Drama, Thriller",
+        "description": "The \"Angels\", a San Pedro motorcycle gang, parties in the Coachella Valley's Palm Springs Indian Canyons, California, and wreaks havoc with the local police.",
+        "director": "Roger Corman",
+        "stars": [
+            "Peter Fonda",
+            "Nancy Sinatra",
+            "Bruce Dern",
+            "Diane Ladd"
+        ],
+        "votes": "2,268",
+        "gross": "$6.50M"
+    }
+}

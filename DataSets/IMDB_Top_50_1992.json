@@ -1,0 +1,803 @@
+{
+    "1": {
+        "name": "Pet Sematary II",
+        "certificate": "R",
+        "runtime": "100 min",
+        "genre": "Fantasy, Horror",
+        "description": "A teenage boy and his father move to his recently-deceased mother's hometown, where they encounter the ancient Native American cemetery with the power to raise the dead.",
+        "director": "Mary Lambert",
+        "stars": [
+            "Edward Furlong",
+            "Anthony Edwards",
+            "Clancy Brown",
+            "Jared Rushton"
+        ],
+        "votes": "16,763",
+        "gross": "$17.09M"
+    },
+    "2": {
+        "name": "Reservoir Dogs",
+        "certificate": "R",
+        "runtime": "99 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+        "director": "Quentin Tarantino",
+        "stars": [
+            "Harvey Keitel",
+            "Tim Roth",
+            "Michael Madsen",
+            "Chris Penn"
+        ],
+        "votes": "814,586",
+        "gross": "$2.83M"
+    },
+    "3": {
+        "name": "All Ladies Do It",
+        "certificate": "Not Rated",
+        "runtime": "93 min",
+        "genre": "Comedy, Drama",
+        "description": "A happily married 24-year-old woman who experiences an inexplicable, rather restless craving to finally live her life intensely, retells her extra-marital escapades to her husband intending to spice up their marriage.",
+        "director": "Tinto Brass",
+        "stars": [
+            "Claudia Koll",
+            "Paolo Lanza",
+            "Franco Branciaroli",
+            "Isabella Deiana"
+        ],
+        "votes": "3,153",
+        "gross": ""
+    },
+    "4": {
+        "name": "Basic Instinct",
+        "certificate": "R",
+        "runtime": "127 min",
+        "genre": "Drama, Mystery, Thriller",
+        "description": "A violent police detective investigates a brutal murder, in which a manipulative and seductive novelist could be involved.",
+        "director": "Paul Verhoeven",
+        "stars": [
+            "Michael Douglas",
+            "Sharon Stone",
+            "George Dzundza",
+            "Jeanne Tripplehorn"
+        ],
+        "votes": "155,685",
+        "gross": "$117.73M"
+    },
+    "5": {
+        "name": "Batman Returns",
+        "certificate": "PG-13",
+        "runtime": "126 min",
+        "genre": "Action, Crime, Fantasy",
+        "description": "When a corrupt businessman and the grotesque Penguin plot to take control of Gotham City, only Batman can stop them, while the Catwoman has her own agenda.",
+        "director": "Tim Burton",
+        "stars": [
+            "Michael Keaton",
+            "Danny DeVito",
+            "Michelle Pfeiffer",
+            "Christopher Walken"
+        ],
+        "votes": "251,085",
+        "gross": "$162.83M"
+    },
+    "6": {
+        "name": "A Few Good Men",
+        "certificate": "R",
+        "runtime": "138 min",
+        "genre": "Drama, Thriller",
+        "description": "Military lawyer Lieutenant Daniel Kaffee defends Marines accused of murder. They contend they were acting under orders.",
+        "director": "Rob Reiner",
+        "stars": [
+            "Tom Cruise",
+            "Jack Nicholson",
+            "Demi Moore",
+            "Kevin Bacon"
+        ],
+        "votes": "213,129",
+        "gross": "$141.34M"
+    },
+    "7": {
+        "name": "Dracula",
+        "certificate": "R",
+        "runtime": "128 min",
+        "genre": "Horror",
+        "description": "The centuries old vampire Count Dracula comes to England to seduce his barrister Jonathan Harker's fianc\u00e9e Mina Murray and inflict havoc in the foreign land.",
+        "director": "Francis Ford Coppola",
+        "stars": [
+            "Gary Oldman",
+            "Winona Ryder",
+            "Anthony Hopkins",
+            "Keanu Reeves"
+        ],
+        "votes": "172,018",
+        "gross": "$82.52M"
+    },
+    "8": {
+        "name": "Aladdin",
+        "certificate": "G",
+        "runtime": "90 min",
+        "genre": "Animation, Adventure, Comedy",
+        "description": "A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.",
+        "director": "Ron Clements",
+        "stars": [
+            "John Musker",
+            "Scott Weinger",
+            "Robin Williams",
+            "Linda Larkin",
+            "Jonathan Freeman"
+        ],
+        "votes": "315,941",
+        "gross": "$217.35M"
+    },
+    "9": {
+        "name": "Unforgiven",
+        "certificate": "R",
+        "runtime": "130 min",
+        "genre": "Drama, Western",
+        "description": "Retired Old West gunslinger William Munny reluctantly takes on one last job, with the help of his old partner and a young man.",
+        "director": "Clint Eastwood",
+        "stars": [
+            "Clint Eastwood",
+            "Gene Hackman",
+            "Morgan Freeman",
+            "Richard Harris"
+        ],
+        "votes": "337,686",
+        "gross": "$101.16M"
+    },
+    "10": {
+        "name": "Scent of a Woman",
+        "certificate": "R",
+        "runtime": "156 min",
+        "genre": "Drama",
+        "description": "A prep school student needing money agrees to \"babysit\" a blind man, but the job is not at all what he anticipated.",
+        "director": "Martin Brest",
+        "stars": [
+            "Al Pacino",
+            "Chris O'Donnell",
+            "James Rebhorn",
+            "Gabrielle Anwar"
+        ],
+        "votes": "230,826",
+        "gross": "$63.90M"
+    },
+    "11": {
+        "name": "Alien\u00b3",
+        "certificate": "R",
+        "runtime": "114 min",
+        "genre": "Action, Horror, Sci-Fi",
+        "description": "After her last encounter, Ellen Ripley crash-lands on Fiorina 161, a maximum security prison. When a series of strange and deadly events occur shortly after her arrival, Ripley realizes that she has brought along an unwelcome visitor.",
+        "director": "David Fincher",
+        "stars": [
+            "Sigourney Weaver",
+            "Charles S. Dutton",
+            "Charles Dance",
+            "Paul McGann"
+        ],
+        "votes": "253,199",
+        "gross": "$55.47M"
+    },
+    "12": {
+        "name": "My Cousin Vinny",
+        "certificate": "R",
+        "runtime": "120 min",
+        "genre": "Comedy, Crime",
+        "description": "Two New Yorkers are accused of murder in rural Alabama while on their way back to college, and one of their cousins--an inexperienced, loudmouth lawyer not accustomed to Southern rules and manners--comes in to defend them.",
+        "director": "Jonathan Lynn",
+        "stars": [
+            "Joe Pesci",
+            "Marisa Tomei",
+            "Ralph Macchio",
+            "Mitchell Whitfield"
+        ],
+        "votes": "95,847",
+        "gross": "$52.93M"
+    },
+    "13": {
+        "name": "The Last of the Mohicans",
+        "certificate": "R",
+        "runtime": "112 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "Three trappers protect the daughters of a British Colonel in the midst of the French and Indian War.",
+        "director": "Michael Mann",
+        "stars": [
+            "Daniel Day-Lewis",
+            "Madeleine Stowe",
+            "Russell Means",
+            "Eric Schweig"
+        ],
+        "votes": "135,206",
+        "gross": "$75.51M"
+    },
+    "14": {
+        "name": "The Mighty Ducks",
+        "certificate": "PG",
+        "runtime": "100 min",
+        "genre": "Comedy, Drama, Family",
+        "description": "A self-centered Minnesota lawyer is sentenced to community service coaching a rag tag youth hockey team.",
+        "director": "Stephen Herek",
+        "stars": [
+            "Emilio Estevez",
+            "Joss Ackland",
+            "Lane Smith",
+            "Heidi Kling"
+        ],
+        "votes": "52,689",
+        "gross": "$50.75M"
+    },
+    "15": {
+        "name": "Wayne's World",
+        "certificate": "PG-13",
+        "runtime": "94 min",
+        "genre": "Comedy, Music",
+        "description": "Two slacker friends try to promote their public-access cable show.",
+        "director": "Penelope Spheeris",
+        "stars": [
+            "Mike Myers",
+            "Dana Carvey",
+            "Rob Lowe",
+            "Tia Carrere"
+        ],
+        "votes": "131,905",
+        "gross": "$121.70M"
+    },
+    "16": {
+        "name": "Under Siege",
+        "certificate": "R",
+        "runtime": "103 min",
+        "genre": "Action, Thriller",
+        "description": "An ex-Navy Seal turned cook is the only person who can stop a group of terrorists when they seize control of a U.S. battleship.",
+        "director": "Andrew Davis",
+        "stars": [
+            "Steven Seagal",
+            "Gary Busey",
+            "Tommy Lee Jones",
+            "Erika Eleniak"
+        ],
+        "votes": "70,348",
+        "gross": "$83.36M"
+    },
+    "17": {
+        "name": "Sister Act",
+        "certificate": "PG",
+        "runtime": "100 min",
+        "genre": "Comedy, Crime, Family",
+        "description": "When a worldly singer witnesses a mob crime, the police hide her as a nun in a traditional convent where she has trouble fitting in.",
+        "director": "Emile Ardolino",
+        "stars": [
+            "Whoopi Goldberg",
+            "Maggie Smith",
+            "Kathy Najimy",
+            "Wendy Makkena"
+        ],
+        "votes": "78,302",
+        "gross": "$139.61M"
+    },
+    "18": {
+        "name": "A League of Their Own",
+        "certificate": "PG",
+        "runtime": "128 min",
+        "genre": "Comedy, Drama, Family",
+        "description": "Two sisters join the first female professional baseball league and struggle to help it succeed amidst their own growing rivalry.",
+        "director": "Penny Marshall",
+        "stars": [
+            "Tom Hanks",
+            "Geena Davis",
+            "Lori Petty",
+            "Madonna"
+        ],
+        "votes": "83,715",
+        "gross": "$107.53M"
+    },
+    "19": {
+        "name": "The Bodyguard",
+        "certificate": "R",
+        "runtime": "129 min",
+        "genre": "Drama, Music, Romance",
+        "description": "A former Secret Service agent takes on the job of bodyguard to an R&B singer, whose lifestyle is most unlike a President's.",
+        "director": "Mick Jackson",
+        "stars": [
+            "Kevin Costner",
+            "Whitney Houston",
+            "Gary Kemp",
+            "Bill Cobbs"
+        ],
+        "votes": "107,562",
+        "gross": "$121.95M"
+    },
+    "20": {
+        "name": "Death Becomes Her",
+        "certificate": "PG-13",
+        "runtime": "104 min",
+        "genre": "Comedy, Fantasy, Horror",
+        "description": "When a woman learns of an immortality treatment, she sees it as a way to outdo her long-time rival.",
+        "director": "Robert Zemeckis",
+        "stars": [
+            "Meryl Streep",
+            "Bruce Willis",
+            "Goldie Hawn",
+            "Isabella Rossellini"
+        ],
+        "votes": "93,439",
+        "gross": "$58.42M"
+    },
+    "21": {
+        "name": "Beethoven",
+        "certificate": "PG",
+        "runtime": "87 min",
+        "genre": "Comedy, Drama, Family",
+        "description": "A slobbering St. Bernard becomes the center of attention for a loving family, but must contend with a dog-napping veterinarian and his henchmen.",
+        "director": "Brian Levant",
+        "stars": [
+            "Charles Grodin",
+            "Bonnie Hunt",
+            "Dean Jones",
+            "Nicholle Tom"
+        ],
+        "votes": "59,589",
+        "gross": "$57.11M"
+    },
+    "22": {
+        "name": "Army of Darkness",
+        "certificate": "R",
+        "runtime": "81 min",
+        "genre": "Comedy, Horror",
+        "description": "A man is accidentally transported to 1300 A.D., where he must battle an army of the dead and retrieve the Necronomicon so he can return home.",
+        "director": "Sam Raimi",
+        "stars": [
+            "Bruce Campbell",
+            "Embeth Davidtz",
+            "Marcus Gilbert",
+            "Ian Abercrombie"
+        ],
+        "votes": "150,240",
+        "gross": "$11.50M"
+    },
+    "23": {
+        "name": "Twin Peaks: Fire Walk with Me",
+        "certificate": "R",
+        "runtime": "134 min",
+        "genre": "Drama, Horror, Mystery",
+        "description": "A young FBI agent disappears while investigating a murder miles from Twin Peaks that may be related to the future murder of Laura Palmer; the last week of the life of Laura Palmer is chronicled.",
+        "director": "David Lynch",
+        "stars": [
+            "Sheryl Lee",
+            "Ray Wise",
+            "M\u00e4dchen Amick",
+            "Dana Ashbrook"
+        ],
+        "votes": "75,998",
+        "gross": "$4.16M"
+    },
+    "24": {
+        "name": "Chaplin",
+        "certificate": "PG-13",
+        "runtime": "143 min",
+        "genre": "Biography, Comedy, Drama",
+        "description": "A movie about the troubled and controversial life of the master comedy filmmaker Charlie Chaplin.",
+        "director": "Richard Attenborough",
+        "stars": [
+            "Robert Downey Jr.",
+            "Geraldine Chaplin",
+            "Paul Rhys",
+            "John Thaw"
+        ],
+        "votes": "49,263",
+        "gross": "$9.49M"
+    },
+    "25": {
+        "name": "Candyman",
+        "certificate": "R",
+        "runtime": "99 min",
+        "genre": "Horror, Thriller",
+        "description": "The Candyman, a murderous soul with a hook for a hand, is accidentally summoned to reality by a skeptic grad student researching the monster's myth.",
+        "director": "Bernard Rose",
+        "stars": [
+            "Virginia Madsen",
+            "Xander Berkeley",
+            "Tony Todd",
+            "Kasi Lemmons"
+        ],
+        "votes": "58,601",
+        "gross": "$25.79M"
+    },
+    "26": {
+        "name": "The Crying Game",
+        "certificate": "R",
+        "runtime": "112 min",
+        "genre": "Crime, Drama, Romance",
+        "description": "A British soldier kidnapped by IRA terrorists soon befriends one of his captors, who then becomes drawn into the soldier's world.",
+        "director": "Neil Jordan",
+        "stars": [
+            "Stephen Rea",
+            "Jaye Davidson",
+            "Forest Whitaker",
+            "Miranda Richardson"
+        ],
+        "votes": "47,135",
+        "gross": "$62.55M"
+    },
+    "27": {
+        "name": "Buffy the Vampire Slayer",
+        "certificate": "PG-13",
+        "runtime": "86 min",
+        "genre": "Action, Comedy, Fantasy",
+        "description": "A flighty teenage girl learns that she is her generation's destined battler of vampires.",
+        "director": "Fran Rubel Kuzui",
+        "stars": [
+            "Kristy Swanson",
+            "Donald Sutherland",
+            "Paul Reubens",
+            "Rutger Hauer"
+        ],
+        "votes": "36,859",
+        "gross": "$16.62M"
+    },
+    "28": {
+        "name": "The Lawnmower Man",
+        "certificate": "R",
+        "runtime": "108 min",
+        "genre": "Horror, Sci-Fi",
+        "description": "A simple man is turned into a genius through the application of computer science.",
+        "director": "Brett Leonard",
+        "stars": [
+            "Jeff Fahey",
+            "Pierce Brosnan",
+            "Jenny Wright",
+            "Mark Bringelson"
+        ],
+        "votes": "31,547",
+        "gross": "$32.10M"
+    },
+    "29": {
+        "name": "Bitter Moon",
+        "certificate": "R",
+        "runtime": "139 min",
+        "genre": "Drama, Romance, Thriller",
+        "description": "After hearing stories of her, a passenger on a cruise ship develops an irresistible infatuation with an eccentric paraplegic's wife.",
+        "director": "Roman Polanski",
+        "stars": [
+            "Hugh Grant",
+            "Kristin Scott Thomas",
+            "Emmanuelle Seigner",
+            "Peter Coyote"
+        ],
+        "votes": "31,139",
+        "gross": "$1.86M"
+    },
+    "30": {
+        "name": "Patriot Games",
+        "certificate": "R",
+        "runtime": "117 min",
+        "genre": "Action, Thriller",
+        "description": "When CIA analyst Jack Ryan interferes with an IRA assassination, a renegade faction targets him and his family for revenge.",
+        "director": "Phillip Noyce",
+        "stars": [
+            "Harrison Ford",
+            "Sean Bean",
+            "Anne Archer",
+            "Patrick Bergin"
+        ],
+        "votes": "93,441",
+        "gross": "$83.29M"
+    },
+    "31": {
+        "name": "Home Alone 2: Lost in New York",
+        "certificate": "PG",
+        "runtime": "120 min",
+        "genre": "Adventure, Comedy, Family",
+        "description": "One year after Kevin McCallister was left home alone and had to defeat a pair of bumbling burglars, he accidentally finds himself stranded in New York City - and the same criminals are not far behind.",
+        "director": "Chris Columbus",
+        "stars": [
+            "Macaulay Culkin",
+            "Joe Pesci",
+            "Daniel Stern",
+            "Catherine O'Hara"
+        ],
+        "votes": "261,881",
+        "gross": "$173.59M"
+    },
+    "32": {
+        "name": "Newsies",
+        "certificate": "PG",
+        "runtime": "121 min",
+        "genre": "Drama, Family, History",
+        "description": "A musical based on the New York City newsboy strike of 1899. When young newspaper sellers are exploited beyond reason by their bosses they set out to enact change and are met by the ruthlessness of big business.",
+        "director": "Kenny Ortega",
+        "stars": [
+            "Christian Bale",
+            "Bill Pullman",
+            "Robert Duvall",
+            "Ann-Margret"
+        ],
+        "votes": "17,290",
+        "gross": "$2.82M"
+    },
+    "33": {
+        "name": "Sleepwalkers",
+        "certificate": "R",
+        "runtime": "91 min",
+        "genre": "Horror",
+        "description": "A mother-and-son team of strange supernatural creatures move to a small town to seek out a young virgin to feed on.",
+        "director": "Mick Garris",
+        "stars": [
+            "Brian Krause",
+            "M\u00e4dchen Amick",
+            "Alice Krige",
+            "Jim Haynie"
+        ],
+        "votes": "18,208",
+        "gross": "$30.52M"
+    },
+    "34": {
+        "name": "White Men Can't Jump",
+        "certificate": "R",
+        "runtime": "115 min",
+        "genre": "Comedy, Drama, Sport",
+        "description": "Black and white basketball hustlers join forces to double their chances of winning money on the street courts and in a basketball tournament.",
+        "director": "Ron Shelton",
+        "stars": [
+            "Wesley Snipes",
+            "Woody Harrelson",
+            "Rosie Perez",
+            "Tyra Ferrell"
+        ],
+        "votes": "68,614",
+        "gross": "$76.25M"
+    },
+    "35": {
+        "name": "Single White Female",
+        "certificate": "R",
+        "runtime": "107 min",
+        "genre": "Drama, Thriller",
+        "description": "A woman advertising for a new roommate finds that something very strange is going on with the tenant who decides to move in.",
+        "director": "Barbet Schroeder",
+        "stars": [
+            "Bridget Fonda",
+            "Jennifer Jason Leigh",
+            "Steven Weber",
+            "Peter Friedman"
+        ],
+        "votes": "28,600",
+        "gross": "$47.92M"
+    },
+    "36": {
+        "name": "Poison Ivy",
+        "certificate": "R",
+        "runtime": "90 min",
+        "genre": "Drama, Thriller",
+        "description": "A seductive teen befriends an introverted high school student and schemes her way into the lives of her wealthy family.",
+        "director": "Katt Shea",
+        "stars": [
+            "Drew Barrymore",
+            "Sara Gilbert",
+            "Tom Skerritt",
+            "Cheryl Ladd"
+        ],
+        "votes": "15,892",
+        "gross": "$1.83M"
+    },
+    "37": {
+        "name": "Malcolm X",
+        "certificate": "PG-13",
+        "runtime": "202 min",
+        "genre": "Biography, Drama, History",
+        "description": "Biographical epic of the controversial and influential Black Nationalist leader, from his early life and career as a small-time gangster, to his ministry as a member of the Nation of Islam.",
+        "director": "Spike Lee",
+        "stars": [
+            "Denzel Washington",
+            "Angela Bassett",
+            "Delroy Lindo",
+            "Spike Lee"
+        ],
+        "votes": "75,270",
+        "gross": "$48.17M"
+    },
+    "38": {
+        "name": "School Ties",
+        "certificate": "PG-13",
+        "runtime": "106 min",
+        "genre": "Drama",
+        "description": "Set in the 1950s, a star-quarterback is given an opportunity to attend an elite preparatory school but must conceal the fact that he is Jewish.",
+        "director": "Robert Mandel",
+        "stars": [
+            "Brendan Fraser",
+            "Matt Damon",
+            "Chris O'Donnell",
+            "Randall Batinkoff"
+        ],
+        "votes": "20,478",
+        "gross": "$14.72M"
+    },
+    "39": {
+        "name": "Glengarry Glen Ross",
+        "certificate": "R",
+        "runtime": "100 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "An examination of the machinations behind the scenes at a real estate office.",
+        "director": "James Foley",
+        "stars": [
+            "Al Pacino",
+            "Jack Lemmon",
+            "Alec Baldwin",
+            "Alan Arkin"
+        ],
+        "votes": "88,193",
+        "gross": "$10.73M"
+    },
+    "40": {
+        "name": "Braindead",
+        "certificate": "R",
+        "runtime": "104 min",
+        "genre": "Comedy, Horror",
+        "description": "A young man's mother is bitten by a Sumatran rat-monkey. She gets sick and dies, at which time she comes back to life, killing and eating dogs, nurses, friends, and neighbors.",
+        "director": "Peter Jackson",
+        "stars": [
+            "Timothy Balme",
+            "Diana Pe\u00f1alver",
+            "Elizabeth Moody",
+            "Ian Watkin"
+        ],
+        "votes": "86,165",
+        "gross": "$0.24M"
+    },
+    "41": {
+        "name": "Of Mice and Men",
+        "certificate": "PG-13",
+        "runtime": "115 min",
+        "genre": "Drama",
+        "description": "Two drifters, one a gentle but slow giant, try to make money working the fields during the Depression so they can fulfill their dreams.",
+        "director": "Gary Sinise",
+        "stars": [
+            "John Malkovich",
+            "Gary Sinise",
+            "Ray Walston",
+            "Casey Siemaszko"
+        ],
+        "votes": "37,082",
+        "gross": "$5.10M"
+    },
+    "42": {
+        "name": "The Lover",
+        "certificate": "R",
+        "runtime": "115 min",
+        "genre": "Biography, Drama, Romance",
+        "description": "In 1929 French Indochina, a French teenage girl embarks on a reckless and forbidden romance with a wealthy, older Chinese man, each knowing that knowledge of their affair will bring drastic consequences to each other.",
+        "director": "Jean-Jacques Annaud",
+        "stars": [
+            "Jane March",
+            "Tony Ka Fai Leung",
+            "Fr\u00e9d\u00e9rique Meininger",
+            "Arnaud Giovaninetti"
+        ],
+        "votes": "17,399",
+        "gross": "$4.90M"
+    },
+    "43": {
+        "name": "The Player",
+        "certificate": "R",
+        "runtime": "124 min",
+        "genre": "Comedy, Crime, Drama",
+        "description": "A Hollywood studio executive is being sent death threats by a writer whose script he rejected, but which one?",
+        "director": "Robert Altman",
+        "stars": [
+            "Tim Robbins",
+            "Greta Scacchi",
+            "Fred Ward",
+            "Whoopi Goldberg"
+        ],
+        "votes": "49,180",
+        "gross": "$21.71M"
+    },
+    "44": {
+        "name": "A River Runs Through It",
+        "certificate": "PG",
+        "runtime": "123 min",
+        "genre": "Drama",
+        "description": "The story about two sons of a stern minister -- one reserved, one rebellious -- growing up in rural Montana while devoted to fly fishing.",
+        "director": "Robert Redford",
+        "stars": [
+            "Craig Sheffer",
+            "Brad Pitt",
+            "Tom Skerritt",
+            "Brenda Blethyn"
+        ],
+        "votes": "48,723",
+        "gross": "$43.44M"
+    },
+    "45": {
+        "name": "Encino Man",
+        "certificate": "PG",
+        "runtime": "88 min",
+        "genre": "Comedy",
+        "description": "When they find a frozen caveman in their back yard, two high school outcasts thaw him and introduce him to modern life while he in turn gets them to actually enjoy life.",
+        "director": "Les Mayfield",
+        "stars": [
+            "Sean Astin",
+            "Brendan Fraser",
+            "Pauly Shore",
+            "Megan Ward"
+        ],
+        "votes": "34,393",
+        "gross": "$40.69M"
+    },
+    "46": {
+        "name": "Universal Soldier",
+        "certificate": "R",
+        "runtime": "102 min",
+        "genre": "Action, Sci-Fi",
+        "description": "Private Luc Deveraux and his sadistic sergeant, Andrew Scott, got killed in Vietnam. The army uses their bodies for a secret project - reanimating dead soldiers as deadly obedient cyborgs. However, their memories come back too.",
+        "director": "Roland Emmerich",
+        "stars": [
+            "Jean-Claude Van Damme",
+            "Dolph Lundgren",
+            "Ally Walker",
+            "Ed O'Ross"
+        ],
+        "votes": "77,134",
+        "gross": "$36.30M"
+    },
+    "47": {
+        "name": "FernGully: The Last Rainforest",
+        "certificate": "G",
+        "runtime": "76 min",
+        "genre": "Animation, Adventure, Family",
+        "description": "The magical inhabitants of a rainforest fight to save their home, which is threatened by logging and a polluting force of destruction called Hexxus.",
+        "director": "Bill Kroyer",
+        "stars": [
+            "Samantha Mathis",
+            "Christian Slater",
+            "Robin Williams",
+            "Tim Curry"
+        ],
+        "votes": "24,530",
+        "gross": "$24.65M"
+    },
+    "48": {
+        "name": "Lethal Weapon 3",
+        "certificate": "R",
+        "runtime": "118 min",
+        "genre": "Action, Crime, Thriller",
+        "description": "Martin Riggs and Roger Murtaugh pursue a former LAPD officer who uses his knowledge of police procedure and policies to steal and sell confiscated guns and ammunition to local street gangs.",
+        "director": "Richard Donner",
+        "stars": [
+            "Mel Gibson",
+            "Danny Glover",
+            "Joe Pesci",
+            "Rene Russo"
+        ],
+        "votes": "145,148",
+        "gross": "$144.73M"
+    },
+    "49": {
+        "name": "The Hand That Rocks the Cradle",
+        "certificate": "R",
+        "runtime": "110 min",
+        "genre": "Drama, Thriller",
+        "description": "After her humiliated husband kills himself, an embittered pregnant widow loses her child, and embarks on a mission of vengeance against a woman and her family.",
+        "director": "Curtis Hanson",
+        "stars": [
+            "Annabella Sciorra",
+            "Rebecca De Mornay",
+            "Matt McCoy",
+            "Ernie Hudson"
+        ],
+        "votes": "34,569",
+        "gross": "$88.04M"
+    },
+    "50": {
+        "name": "Bad Lieutenant",
+        "certificate": "NC-17",
+        "runtime": "96 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "While investigating a young nun's rape, a corrupt New York City police detective, with a serious drug and gambling addiction, tries to change his ways and find forgiveness and redemption.",
+        "director": "Abel Ferrara",
+        "stars": [
+            "Harvey Keitel",
+            "Brian McElroy",
+            "Frank Acciarito",
+            "Peggy Gormley"
+        ],
+        "votes": "34,393",
+        "gross": "$2.00M"
+    }
+}

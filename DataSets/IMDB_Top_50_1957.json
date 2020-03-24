@@ -1,0 +1,803 @@
+{
+    "1": {
+        "name": "12 Angry Men",
+        "certificate": "Not Rated",
+        "runtime": "96 min",
+        "genre": "Drama",
+        "description": "A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.",
+        "director": "Sidney Lumet",
+        "stars": [
+            "Henry Fonda",
+            "Lee J. Cobb",
+            "Martin Balsam",
+            "John Fiedler"
+        ],
+        "votes": "586,014",
+        "gross": "$4.36M"
+    },
+    "2": {
+        "name": "The Seventh Seal",
+        "certificate": "Not Rated",
+        "runtime": "96 min",
+        "genre": "Drama, Fantasy",
+        "description": "A man seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague.",
+        "director": "Ingmar Bergman",
+        "stars": [
+            "Max von Sydow",
+            "Gunnar Bj\u00f6rnstrand",
+            "Bengt Ekerot",
+            "Nils Poppe"
+        ],
+        "votes": "142,145",
+        "gross": ""
+    },
+    "3": {
+        "name": "3:10 to Yuma",
+        "certificate": "Not Rated",
+        "runtime": "92 min",
+        "genre": "Drama, Thriller, Western",
+        "description": "Broke small-time rancher Dan Evans is hired by the stagecoach line to put big-time captured outlaw leader Ben Wade on the 3:10 train to Yuma but Wade's gang tries to free him.",
+        "director": "Delmer Daves",
+        "stars": [
+            "Glenn Ford",
+            "Van Heflin",
+            "Felicia Farr",
+            "Leora Dana"
+        ],
+        "votes": "16,443",
+        "gross": ""
+    },
+    "4": {
+        "name": "The Bridge on the River Kwai",
+        "certificate": "PG",
+        "runtime": "161 min",
+        "genre": "Adventure, Drama, War",
+        "description": "After settling his differences with a Japanese P.O.W. camp commander, a British Colonel co-operates to oversee his men's construction of a railway bridge for their captors, while oblivious to a plan by the Allies to destroy it.",
+        "director": "David Lean",
+        "stars": [
+            "William Holden",
+            "Alec Guinness",
+            "Jack Hawkins",
+            "Sessue Hayakawa"
+        ],
+        "votes": "184,881",
+        "gross": "$44.91M"
+    },
+    "5": {
+        "name": "Paths of Glory",
+        "certificate": "Not Rated",
+        "runtime": "88 min",
+        "genre": "Drama, War",
+        "description": "After refusing to attack an enemy position, a general accuses the soldiers of cowardice and their commanding officer must defend them.",
+        "director": "Stanley Kubrick",
+        "stars": [
+            "Kirk Douglas",
+            "Ralph Meeker",
+            "Adolphe Menjou",
+            "George Macready"
+        ],
+        "votes": "154,079",
+        "gross": ""
+    },
+    "6": {
+        "name": "Witness for the Prosecution",
+        "certificate": "Not Rated",
+        "runtime": "116 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "A veteran British barrister must defend his client in a murder trial that has surprise after surprise.",
+        "director": "Billy Wilder",
+        "stars": [
+            "Tyrone Power",
+            "Marlene Dietrich",
+            "Charles Laughton",
+            "Elsa Lanchester"
+        ],
+        "votes": "90,159",
+        "gross": "$8.18M"
+    },
+    "7": {
+        "name": "Wild Strawberries",
+        "certificate": "Not Rated",
+        "runtime": "91 min",
+        "genre": "Drama, Romance",
+        "description": "After living a life marked by coldness, an aging professor is forced to confront the emptiness of his existence.",
+        "director": "Ingmar Bergman",
+        "stars": [
+            "Victor Sj\u00f6str\u00f6m",
+            "Bibi Andersson",
+            "Ingrid Thulin",
+            "Gunnar Bj\u00f6rnstrand"
+        ],
+        "votes": "83,421",
+        "gross": ""
+    },
+    "8": {
+        "name": "Funny Face",
+        "certificate": "Not Rated",
+        "runtime": "103 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "An impromptu fashion shoot at a book store brings about a new fashion model discovery in the shop clerk.",
+        "director": "Stanley Donen",
+        "stars": [
+            "Audrey Hepburn",
+            "Fred Astaire",
+            "Kay Thompson",
+            "Michel Auclair"
+        ],
+        "votes": "23,546",
+        "gross": ""
+    },
+    "9": {
+        "name": "An Affair to Remember",
+        "certificate": "Not Rated",
+        "runtime": "115 min",
+        "genre": "Drama, Romance",
+        "description": "A couple falls in love and agrees to meet in six months at the Empire State Building - but will it happen?",
+        "director": "Leo McCarey",
+        "stars": [
+            "Cary Grant",
+            "Deborah Kerr",
+            "Richard Denning",
+            "Neva Patterson"
+        ],
+        "votes": "25,481",
+        "gross": ""
+    },
+    "10": {
+        "name": "Old Yeller",
+        "certificate": "Approved",
+        "runtime": "83 min",
+        "genre": "Adventure, Drama, Family",
+        "description": "A teenage boy grows to love a stray yellow dog while helping his mother and younger brother run their Texas homestead while their father is away on a cattle drive. First thought to be good-for-nothing mutt, Old Yeller is soon beloved by all.",
+        "director": "Robert Stevenson",
+        "stars": [
+            "Dorothy McGuire",
+            "Fess Parker",
+            "Tommy Kirk",
+            "Jeff York"
+        ],
+        "votes": "10,435",
+        "gross": "$21.91M"
+    },
+    "11": {
+        "name": "The Nights of Cabiria",
+        "certificate": "Not Rated",
+        "runtime": "110 min",
+        "genre": "Drama",
+        "description": "A waifish prostitute wanders the streets of Rome looking for true love but finds only heartbreak.",
+        "director": "Federico Fellini",
+        "stars": [
+            "Giulietta Masina",
+            "Fran\u00e7ois P\u00e9rier",
+            "Franca Marzi",
+            "Dorian Gray"
+        ],
+        "votes": "38,377",
+        "gross": "$0.75M"
+    },
+    "12": {
+        "name": "Throne of Blood",
+        "certificate": "Not Rated",
+        "runtime": "110 min",
+        "genre": "Drama",
+        "description": "A war-hardened general, egged on by his ambitious wife, works to fulfill a prophecy that he would become lord of Spider's Web Castle.",
+        "director": "Akira Kurosawa",
+        "stars": [
+            "Toshir\u00f4 Mifune",
+            "Minoru Chiaki",
+            "Isuzu Yamada",
+            "Takashi Shimura"
+        ],
+        "votes": "39,468",
+        "gross": ""
+    },
+    "13": {
+        "name": "Sweet Smell of Success",
+        "certificate": "Approved",
+        "runtime": "96 min",
+        "genre": "Drama, Film-Noir",
+        "description": "Powerful but unethical Broadway columnist J.J. Hunsecker coerces unscrupulous press agent Sidney Falco into breaking up his sister's romance with a jazz musician.",
+        "director": "Alexander Mackendrick",
+        "stars": [
+            "Burt Lancaster",
+            "Tony Curtis",
+            "Susan Harrison",
+            "Martin Milner"
+        ],
+        "votes": "24,198",
+        "gross": ""
+    },
+    "14": {
+        "name": "Night Passage",
+        "certificate": "Approved",
+        "runtime": "90 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "A fired railroad man is re-hired and trusted to carry a ten thousand dollar payroll in secret, even though he is suspected of being connected to outlaws.",
+        "director": "James Neilson",
+        "stars": [
+            "James Stewart",
+            "Audie Murphy",
+            "Dan Duryea",
+            "Dianne Foster"
+        ],
+        "votes": "3,119",
+        "gross": ""
+    },
+    "15": {
+        "name": "Sayonara",
+        "certificate": "Not Rated",
+        "runtime": "147 min",
+        "genre": "Drama, Romance",
+        "description": "A US Air Force major in Kobe confronts his own opposition to marriages between American servicemen and Japanese women when he falls for a beautiful performer.",
+        "director": "Joshua Logan",
+        "stars": [
+            "Marlon Brando",
+            "Ricardo Montalban",
+            "Patricia Owens",
+            "James Garner"
+        ],
+        "votes": "5,355",
+        "gross": "$26.30M"
+    },
+    "16": {
+        "name": "Gunfight at the O.K. Corral",
+        "certificate": "Passed",
+        "runtime": "122 min",
+        "genre": "Biography, Drama, Western",
+        "description": "Lawman Wyatt Earp and outlaw Doc Holliday form an unlikely alliance which culminates in their participation in the legendary Gunfight at the O.K. Corral.",
+        "director": "John Sturges",
+        "stars": [
+            "Burt Lancaster",
+            "Kirk Douglas",
+            "Rhonda Fleming",
+            "Jo Van Fleet"
+        ],
+        "votes": "12,335",
+        "gross": "$11.75M"
+    },
+    "17": {
+        "name": "A Face in the Crowd",
+        "certificate": "Not Rated",
+        "runtime": "126 min",
+        "genre": "Drama, Music",
+        "description": "An Arkansas drifter becomes an overnight media sensation. As he becomes drunk with fame and power, will he ever be exposed as the fraud he has become?",
+        "director": "Elia Kazan",
+        "stars": [
+            "Andy Griffith",
+            "Patricia Neal",
+            "Anthony Franciosa",
+            "Walter Matthau"
+        ],
+        "votes": "11,874",
+        "gross": ""
+    },
+    "18": {
+        "name": "Love in the Afternoon",
+        "certificate": "Not Rated",
+        "runtime": "130 min",
+        "genre": "Comedy, Crime, Drama",
+        "description": "A middle-aged playboy becomes fascinated by the daughter of a private detective who has been hired to entrap him with the wife of a client.",
+        "director": "Billy Wilder",
+        "stars": [
+            "Gary Cooper",
+            "Audrey Hepburn",
+            "Maurice Chevalier",
+            "John McGiver"
+        ],
+        "votes": "12,335",
+        "gross": ""
+    },
+    "19": {
+        "name": "Zero Hour!",
+        "certificate": "Passed",
+        "runtime": "81 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "In 1950s Canada, during a commercial flight, the pilots and some passengers suffer food poisoning, thus forcing an ex-WW2 fighter pilot to try to land the airliner in heavy fog.",
+        "director": "Hall Bartlett",
+        "stars": [
+            "Dana Andrews",
+            "Linda Darnell",
+            "Sterling Hayden",
+            "Elroy 'Crazylegs' Hirsch"
+        ],
+        "votes": "1,248",
+        "gross": ""
+    },
+    "20": {
+        "name": "The Shiralee",
+        "certificate": "Not Rated",
+        "runtime": "99 min",
+        "genre": "Drama",
+        "description": "When Jim Macauley finds his wife with another man, he takes their young daughter and they hit the road. With a young child as his responsibility, he finds he can't be quite the fancy-free ...                See full summary\u00a0\u00bb",
+        "director": "Leslie Norman",
+        "stars": [
+            "Peter Finch",
+            "Dana Wilson",
+            "Elizabeth Sellars",
+            "George Rose"
+        ],
+        "votes": "243",
+        "gross": ""
+    },
+    "21": {
+        "name": "Desk Set",
+        "certificate": "Approved",
+        "runtime": "103 min",
+        "genre": "Comedy, Romance",
+        "description": "Two extremely strong personalities clash over the computerization of a television network's research department.",
+        "director": "Walter Lang",
+        "stars": [
+            "Spencer Tracy",
+            "Katharine Hepburn",
+            "Gig Young",
+            "Joan Blondell"
+        ],
+        "votes": "7,078",
+        "gross": ""
+    },
+    "22": {
+        "name": "The Pajama Game",
+        "certificate": "Approved",
+        "runtime": "101 min",
+        "genre": "Comedy, Drama, Musical",
+        "description": "An Iowa pajama factory worker falls in love with an affable superintendent who had been hired by the factory's boss to help oppose the workers' demand for a pay rise.",
+        "director": "George Abbott",
+        "stars": [
+            "Stanley Donen",
+            "Doris Day",
+            "John Raitt",
+            "Carol Haney",
+            "Eddie Foy Jr."
+        ],
+        "votes": "2,836",
+        "gross": ""
+    },
+    "23": {
+        "name": "The Incredible Shrinking Man",
+        "certificate": "Not Rated",
+        "runtime": "81 min",
+        "genre": "Horror, Sci-Fi",
+        "description": "When Scott Carey begins to shrink because of exposure to a combination of radiation and insecticide, medical science is powerless to help him.",
+        "director": "Jack Arnold",
+        "stars": [
+            "Grant Williams",
+            "Randy Stuart",
+            "April Kent",
+            "Paul Langton"
+        ],
+        "votes": "14,213",
+        "gross": ""
+    },
+    "24": {
+        "name": "The Enemy Below",
+        "certificate": "Approved",
+        "runtime": "98 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "During World War II, an American destroyer meets a German U-Boat. Both captains are experts, and so begins a deadly game of cat-and-mouse.",
+        "director": "Dick Powell",
+        "stars": [
+            "Robert Mitchum",
+            "Curd J\u00fcrgens",
+            "David Hedison",
+            "Theodore Bikel"
+        ],
+        "votes": "8,881",
+        "gross": ""
+    },
+    "25": {
+        "name": "Curse of the Demon",
+        "certificate": "Not Rated",
+        "runtime": "95 min",
+        "genre": "Fantasy, Horror, Mystery",
+        "description": "American professor John Holden arrives in London for a parapsychology conference, only to find himself investigating the mysterious actions of Devil-worshiper Julian Karswell.",
+        "director": "Jacques Tourneur",
+        "stars": [
+            "Dana Andrews",
+            "Peggy Cummins",
+            "Niall MacGinnis",
+            "Maurice Denham"
+        ],
+        "votes": "10,477",
+        "gross": ""
+    },
+    "26": {
+        "name": "A King in New York",
+        "certificate": "G",
+        "runtime": "105 min",
+        "genre": "Comedy, Drama",
+        "description": "A recently-deposed European monarch seeks shelter in New York City, where he becomes an accidental television celebrity and is later wrongly accused of being a Communist.",
+        "director": "Charles Chaplin",
+        "stars": [
+            "Charles Chaplin",
+            "Maxine Audley",
+            "Jerry Desmonde",
+            "Oliver Johnston"
+        ],
+        "votes": "6,472",
+        "gross": ""
+    },
+    "27": {
+        "name": "Will Success Spoil Rock Hunter?",
+        "certificate": "Not Rated",
+        "runtime": "93 min",
+        "genre": "Comedy, Romance",
+        "description": "To save his career, a writer for television advertising wants a famous actress to endorse a lipstick. In return, he has to pretend to be her new lover.",
+        "director": "Frank Tashlin",
+        "stars": [
+            "Tony Randall",
+            "Jayne Mansfield",
+            "Betsy Drake",
+            "Joan Blondell"
+        ],
+        "votes": "2,771",
+        "gross": ""
+    },
+    "28": {
+        "name": "Jailhouse Rock",
+        "certificate": "Not Rated",
+        "runtime": "96 min",
+        "genre": "Drama, Music, Musical",
+        "description": "After serving time for manslaughter, young Vince Everett becomes a teenage rock star.",
+        "director": "Richard Thorpe",
+        "stars": [
+            "Elvis Presley",
+            "Judy Tyler",
+            "Mickey Shaughnessy",
+            "Vaughn Taylor"
+        ],
+        "votes": "7,056",
+        "gross": "$4.00M"
+    },
+    "29": {
+        "name": "The Cranes Are Flying",
+        "certificate": "Not Rated",
+        "runtime": "95 min",
+        "genre": "Drama, Romance, War",
+        "description": "Veronica plans a rendezvous with her lover, Boris, at the bank of river, only for him to be drafted into World War II shortly thereafter.",
+        "director": "Mikhail Kalatozov",
+        "stars": [
+            "Tatyana Samoylova",
+            "Aleksey Batalov",
+            "Vasiliy Merkurev",
+            "Aleksandr Shvorin"
+        ],
+        "votes": "12,766",
+        "gross": ""
+    },
+    "30": {
+        "name": "The Curse of Frankenstein",
+        "certificate": "Approved",
+        "runtime": "82 min",
+        "genre": "Horror, Sci-Fi, Thriller",
+        "description": "Victor Frankenstein builds a creature and brings it to life, but it behaves not as he intended.",
+        "director": "Terence Fisher",
+        "stars": [
+            "Peter Cushing",
+            "Hazel Court",
+            "Robert Urquhart",
+            "Christopher Lee"
+        ],
+        "votes": "8,140",
+        "gross": "$7.00M"
+    },
+    "31": {
+        "name": "The Burglar",
+        "certificate": "Approved",
+        "runtime": "90 min",
+        "genre": "Drama, Film-Noir, Thriller",
+        "description": "Dan Duryea and his cronies rob a fake spiritualist and then take it on the lam to Atlantic City.",
+        "director": "Paul Wendkos",
+        "stars": [
+            "Dan Duryea",
+            "Jayne Mansfield",
+            "Martha Vickers",
+            "Peter Capell"
+        ],
+        "votes": "839",
+        "gross": ""
+    },
+    "32": {
+        "name": "The Prince and the Showgirl",
+        "certificate": "PG",
+        "runtime": "115 min",
+        "genre": "Comedy, Romance",
+        "description": "An American showgirl becomes entangled in political intrigue when the Prince Regent of a foreign country attempts to seduce her.",
+        "director": "Laurence Olivier",
+        "stars": [
+            "Marilyn Monroe",
+            "Laurence Olivier",
+            "Richard Wattis",
+            "David Horne"
+        ],
+        "votes": "6,858",
+        "gross": ""
+    },
+    "33": {
+        "name": "Legend of the Lost",
+        "certificate": "Approved",
+        "runtime": "109 min",
+        "genre": "Adventure, Drama",
+        "description": "American ne'er-do-well Joe January is hired to take Paul Bonnard on an expedition into the desert in search of treasure.",
+        "director": "Henry Hathaway",
+        "stars": [
+            "John Wayne",
+            "Sophia Loren",
+            "Rossano Brazzi",
+            "Kurt Kasznar"
+        ],
+        "votes": "2,492",
+        "gross": ""
+    },
+    "34": {
+        "name": "Tammy and the Bachelor",
+        "certificate": "Approved",
+        "runtime": "89 min",
+        "genre": "Comedy, Romance",
+        "description": "An unsophisticated young woman from the Mississippi swamps falls in love with an unconventional southern gentleman.",
+        "director": "Joseph Pevney",
+        "stars": [
+            "Debbie Reynolds",
+            "Walter Brennan",
+            "Leslie Nielsen",
+            "Mala Powers"
+        ],
+        "votes": "1,973",
+        "gross": ""
+    },
+    "35": {
+        "name": "Peyton Place",
+        "certificate": "Approved",
+        "runtime": "157 min",
+        "genre": "Drama, Romance",
+        "description": "A peaceful New England town hides secrets and scandals.",
+        "director": "Mark Robson",
+        "stars": [
+            "Lana Turner",
+            "Lee Philips",
+            "Lloyd Nolan",
+            "Arthur Kennedy"
+        ],
+        "votes": "4,713",
+        "gross": "$25.60M"
+    },
+    "36": {
+        "name": "Raintree County",
+        "certificate": "Approved",
+        "runtime": "160 min",
+        "genre": "Drama, Romance, War",
+        "description": "A student falls in love with a Southern belle, but their relationship is complicated by her troubled past and the onset of the Civil War.",
+        "director": "Edward Dmytryk",
+        "stars": [
+            "Montgomery Clift",
+            "Elizabeth Taylor",
+            "Eva Marie Saint",
+            "Nigel Patrick"
+        ],
+        "votes": "3,144",
+        "gross": ""
+    },
+    "37": {
+        "name": "Boy on a Dolphin",
+        "certificate": "Not Rated",
+        "runtime": "111 min",
+        "genre": "Adventure, Drama, Romance",
+        "description": "A woman finds a treasure and is torn between two men: one who wants to sell it and one who wants to gift it to Greece.",
+        "director": "Jean Negulesco",
+        "stars": [
+            "Alan Ladd",
+            "Clifton Webb",
+            "Sophia Loren",
+            "Alexis Minotis"
+        ],
+        "votes": "1,207",
+        "gross": ""
+    },
+    "38": {
+        "name": "Pal Joey",
+        "certificate": "Approved",
+        "runtime": "111 min",
+        "genre": "Drama, Musical, Romance",
+        "description": "Joey Evans is charming, handsome, funny, talented, and a first class, A-number-one heel. When Joey meets the former chorus girl (\"She used to be 'Vera...with the Vanishing Veils'\") and now ...                See full summary\u00a0\u00bb",
+        "director": "George Sidney",
+        "stars": [
+            "Rita Hayworth",
+            "Frank Sinatra",
+            "Kim Novak",
+            "Barbara Nichols"
+        ],
+        "votes": "4,177",
+        "gross": ""
+    },
+    "39": {
+        "name": "I Was a Teenage Werewolf",
+        "certificate": "Approved",
+        "runtime": "76 min",
+        "genre": "Drama, Fantasy, Horror",
+        "description": "A hypnotherapist uses a temperamental teenager as guinea pig for a serum which transforms him into a vicious werewolf.",
+        "director": "Gene Fowler Jr.",
+        "stars": [
+            "Michael Landon",
+            "Yvonne Lime",
+            "Whit Bissell",
+            "Charles Willcox"
+        ],
+        "votes": "2,112",
+        "gross": "$2.00M"
+    },
+    "40": {
+        "name": "The Circle",
+        "certificate": "",
+        "runtime": "84 min",
+        "genre": "Crime, Mystery, Thriller",
+        "description": "When Dr. Howard Latimer finds the German actress that he had just met at London Airport murdered in his flat. It leads him into the world of murder, blackmail, and a fake passport scam.",
+        "director": "Gerald Thomas",
+        "stars": [
+            "John Mills",
+            "Derek Farr",
+            "Noelle Middleton",
+            "Wilfrid Hyde-White"
+        ],
+        "votes": "419",
+        "gross": ""
+    },
+    "41": {
+        "name": "Time Without Pity",
+        "certificate": "",
+        "runtime": "85 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "The day before a young man is to be executed for killing his girlfriend, his alcoholic father shows up to try to prove his innocence.",
+        "director": "Joseph Losey",
+        "stars": [
+            "Michael Redgrave",
+            "Ann Todd",
+            "Leo McKern",
+            "Paul Daneman"
+        ],
+        "votes": "924",
+        "gross": ""
+    },
+    "42": {
+        "name": "Loving You",
+        "certificate": "Approved",
+        "runtime": "101 min",
+        "genre": "Drama, Musical",
+        "description": "A musician and a publicist help a delivery man achieve stardom.",
+        "director": "Hal Kanter",
+        "stars": [
+            "Elvis Presley",
+            "Lizabeth Scott",
+            "Wendell Corey",
+            "James Gleason"
+        ],
+        "votes": "1,687",
+        "gross": ""
+    },
+    "43": {
+        "name": "The Three Faces of Eve",
+        "certificate": "Approved",
+        "runtime": "91 min",
+        "genre": "Drama, Mystery",
+        "description": "A doctor treats a woman suffering from Multiple Personality Disorder.",
+        "director": "Nunnally Johnson",
+        "stars": [
+            "Joanne Woodward",
+            "David Wayne",
+            "Lee J. Cobb",
+            "Edwin Jerome"
+        ],
+        "votes": "6,596",
+        "gross": ""
+    },
+    "44": {
+        "name": "The Giant Claw",
+        "certificate": "Approved",
+        "runtime": "75 min",
+        "genre": "Fantasy, Horror, Sci-Fi",
+        "description": "Global panic ensues when it is revealed that a mysterious UFO is actually a giant bird that flies at supersonic speed and has no regard for life or architecture.",
+        "director": "Fred F. Sears",
+        "stars": [
+            "Jeff Morrow",
+            "Mara Corday",
+            "Morris Ankrum",
+            "Louis Merrill"
+        ],
+        "votes": "2,760",
+        "gross": ""
+    },
+    "45": {
+        "name": "Invasion of the Saucer Men",
+        "certificate": "Passed",
+        "runtime": "69 min",
+        "genre": "Comedy, Horror, Sci-Fi",
+        "description": "A teenage couple accidentally awakens an alien after hitting it with their car.",
+        "director": "Edward L. Cahn",
+        "stars": [
+            "Steven Terrell",
+            "Gloria Castillo",
+            "Frank Gorshin",
+            "Raymond Hatton"
+        ],
+        "votes": "1,333",
+        "gross": ""
+    },
+    "46": {
+        "name": "The Wings of Eagles",
+        "certificate": "Approved",
+        "runtime": "110 min",
+        "genre": "Biography, Drama, War",
+        "description": "A biography of Navy flier-turned-screenwriter Frank W. \"Spig\" Read.",
+        "director": "John Ford",
+        "stars": [
+            "John Wayne",
+            "Maureen O'Hara",
+            "Dan Dailey",
+            "Ward Bond"
+        ],
+        "votes": "3,319",
+        "gross": ""
+    },
+    "47": {
+        "name": "Hell Drivers",
+        "certificate": "Approved",
+        "runtime": "91 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "Ex-con trucker tries to expose his boss' rackets.",
+        "director": "Cy Endfield",
+        "stars": [
+            "Stanley Baker",
+            "Herbert Lom",
+            "Peggy Cummins",
+            "Patrick McGoohan"
+        ],
+        "votes": "2,434",
+        "gross": ""
+    },
+    "48": {
+        "name": "Run of the Arrow",
+        "certificate": "Approved",
+        "runtime": "86 min",
+        "genre": "Western",
+        "description": "When the South loses the war, Confederate veteran O'Meara goes West, joins the Sioux, takes a wife and refuses to be an American but he must choose a side when the Sioux go to war against the U.S. Army.",
+        "director": "Samuel Fuller",
+        "stars": [
+            "Rod Steiger",
+            "Sara Montiel",
+            "Brian Keith",
+            "Ralph Meeker"
+        ],
+        "votes": "1,666",
+        "gross": ""
+    },
+    "49": {
+        "name": "Designing Woman",
+        "certificate": "Approved",
+        "runtime": "118 min",
+        "genre": "Comedy, Romance",
+        "description": "A sportswriter and a fashion-designer marry after a whirlwind romance, and discover they have little in common.",
+        "director": "Vincente Minnelli",
+        "stars": [
+            "Gregory Peck",
+            "Lauren Bacall",
+            "Dolores Gray",
+            "Sam Levene"
+        ],
+        "votes": "3,723",
+        "gross": ""
+    },
+    "50": {
+        "name": "Silk Stockings",
+        "certificate": "Approved",
+        "runtime": "117 min",
+        "genre": "Comedy, Musical, Romance",
+        "description": "A musical remake of Ninotchka: After three bumbling Soviet agents fail in their mission to retrieve a straying Soviet composer from Paris, the beautiful, ultra-serious Ninotchka is sent to ...                See full summary\u00a0\u00bb",
+        "director": "Rouben Mamoulian",
+        "stars": [
+            "Fred Astaire",
+            "Cyd Charisse",
+            "Janis Paige",
+            "Peter Lorre"
+        ],
+        "votes": "3,265",
+        "gross": ""
+    }
+}

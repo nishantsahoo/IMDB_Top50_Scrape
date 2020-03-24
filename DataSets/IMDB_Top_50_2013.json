@@ -1,0 +1,816 @@
+{
+    "1": {
+        "name": "Thor: The Dark World",
+        "certificate": "PG-13",
+        "runtime": "112 min",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "When Dr. Jane Foster gets cursed with a powerful entity known as the Aether, Thor is heralded of the cosmic event known as the Convergence and the genocidal Dark Elves.",
+        "director": "Alan Taylor",
+        "stars": [
+            "Chris Hemsworth",
+            "Natalie Portman",
+            "Tom Hiddleston",
+            "Stellan Skarsg\u00e5rd"
+        ],
+        "votes": "529,181",
+        "gross": "$206.36M"
+    },
+    "2": {
+        "name": "The Wolf of Wall Street",
+        "certificate": "R",
+        "runtime": "180 min",
+        "genre": "Biography, Crime, Drama",
+        "description": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+        "director": "Martin Scorsese",
+        "stars": [
+            "Leonardo DiCaprio",
+            "Jonah Hill",
+            "Margot Robbie",
+            "Matthew McConaughey"
+        ],
+        "votes": "1,022,403",
+        "gross": "$116.90M"
+    },
+    "3": {
+        "name": "Iron Man Three",
+        "certificate": "PG-13",
+        "runtime": "130 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+        "director": "Shane Black",
+        "stars": [
+            "Robert Downey Jr.",
+            "Guy Pearce",
+            "Gwyneth Paltrow",
+            "Don Cheadle"
+        ],
+        "votes": "678,510",
+        "gross": "$409.01M"
+    },
+    "4": {
+        "name": "Her",
+        "certificate": "R",
+        "runtime": "126 min",
+        "genre": "Drama, Romance, Sci-Fi",
+        "description": "In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.",
+        "director": "Spike Jonze",
+        "stars": [
+            "Joaquin Phoenix",
+            "Amy Adams",
+            "Scarlett Johansson",
+            "Rooney Mara"
+        ],
+        "votes": "461,592",
+        "gross": "$25.57M"
+    },
+    "5": {
+        "name": "Man of Steel",
+        "certificate": "PG-13",
+        "runtime": "143 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Clark Kent is an alien who as a child was evacuated from his dying world and came to Earth, living as a normal human. But when survivors of his alien home invade Earth, he must reveal himself to the world.",
+        "director": "Zack Snyder",
+        "stars": [
+            "Henry Cavill",
+            "Amy Adams",
+            "Michael Shannon",
+            "Diane Lane"
+        ],
+        "votes": "641,944",
+        "gross": "$291.05M"
+    },
+    "6": {
+        "name": "The Conjuring",
+        "certificate": "R",
+        "runtime": "112 min",
+        "genre": "Horror, Mystery, Thriller",
+        "description": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse.",
+        "director": "James Wan",
+        "stars": [
+            "Patrick Wilson",
+            "Vera Farmiga",
+            "Ron Livingston",
+            "Lili Taylor"
+        ],
+        "votes": "391,996",
+        "gross": "$137.40M"
+    },
+    "7": {
+        "name": "The Great Gatsby",
+        "certificate": "PG-13",
+        "runtime": "143 min",
+        "genre": "Drama, Romance",
+        "description": "A writer and wall street trader, Nick, finds himself drawn to the past and lifestyle of his millionaire neighbor, Jay Gatsby.",
+        "director": "Baz Luhrmann",
+        "stars": [
+            "Leonardo DiCaprio",
+            "Carey Mulligan",
+            "Joel Edgerton",
+            "Tobey Maguire"
+        ],
+        "votes": "428,794",
+        "gross": "$144.84M"
+    },
+    "8": {
+        "name": "This Is the End",
+        "certificate": "R",
+        "runtime": "107 min",
+        "genre": "Comedy, Fantasy",
+        "description": "6 Los Angeles celebrities are stuck in James Franco's house after a series of devastating events just destroyed the city. Inside, the group not only will have to face with the apocalypse, but with themselves.",
+        "director": "Evan Goldberg",
+        "stars": [
+            "Seth Rogen",
+            "James Franco",
+            "Jonah Hill",
+            "Seth Rogen",
+            "Jay Baruchel"
+        ],
+        "votes": "358,228",
+        "gross": "$101.47M"
+    },
+    "9": {
+        "name": "Grown Ups 2",
+        "certificate": "PG-13",
+        "runtime": "101 min",
+        "genre": "Comedy",
+        "description": "After moving his family back to his hometown to be with his friends and their kids, Lenny finds out that between old bullies, new bullies, schizo bus drivers, drunk cops on skis, and four hundred costumed party crashers sometimes crazy follows you.",
+        "director": "Dennis Dugan",
+        "stars": [
+            "Adam Sandler",
+            "Kevin James",
+            "Chris Rock",
+            "David Spade"
+        ],
+        "votes": "127,520",
+        "gross": "$133.67M"
+    },
+    "10": {
+        "name": "Prisoners",
+        "certificate": "R",
+        "runtime": "153 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts.",
+        "director": "Denis Villeneuve",
+        "stars": [
+            "Hugh Jackman",
+            "Jake Gyllenhaal",
+            "Viola Davis",
+            "Melissa Leo"
+        ],
+        "votes": "520,468",
+        "gross": "$61.00M"
+    },
+    "11": {
+        "name": "Movie 43",
+        "certificate": "R",
+        "runtime": "94 min",
+        "genre": "Comedy",
+        "description": "A series of interconnected short films follows a washed-up producer as he pitches insane story lines featuring some of the biggest stars in Hollywood.",
+        "director": "Elizabeth Banks",
+        "stars": [
+            "Steven Brill",
+            "Steve Carr",
+            "Rusty Cundieff",
+            "James Duffy",
+            "Griffin Dunne",
+            "Peter Farrelly",
+            "Patrik Forsberg",
+            "Will Graham",
+            "James Gunn",
+            "Brett Ratner",
+            "Jonathan van Tulleken",
+            "Bob Odenkirk",
+            "Emma Stone",
+            "Stephen Merchant",
+            "Richard Gere",
+            "Liev Schreiber"
+        ],
+        "votes": "91,718",
+        "gross": "$8.83M"
+    },
+    "12": {
+        "name": "Frozen",
+        "certificate": "PG",
+        "runtime": "102 min",
+        "genre": "Animation, Adventure, Comedy",
+        "description": "When the newly-crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.",
+        "director": "Chris Buck",
+        "stars": [
+            "Jennifer Lee",
+            "Kristen Bell",
+            "Idina Menzel",
+            "Jonathan Groff",
+            "Josh Gad"
+        ],
+        "votes": "512,447",
+        "gross": "$400.74M"
+    },
+    "13": {
+        "name": "Nymphomaniac: Vol. I",
+        "certificate": "Not Rated",
+        "runtime": "117 min",
+        "genre": "Drama",
+        "description": "A self-diagnosed nymphomaniac recounts her erotic experiences to the man who saved her after a beating.",
+        "director": "Lars von Trier",
+        "stars": [
+            "Charlotte Gainsbourg",
+            "Stellan Skarsg\u00e5rd",
+            "Stacy Martin",
+            "Shia LaBeouf"
+        ],
+        "votes": "105,805",
+        "gross": "$0.79M"
+    },
+    "14": {
+        "name": "Blue Is the Warmest Color",
+        "certificate": "NC-17",
+        "runtime": "180 min",
+        "genre": "Drama, Romance",
+        "description": "Ad\u00e8le's life is changed when she meets Emma, a young woman with blue hair, who will allow her to discover desire and to assert herself as a woman and as an adult. In front of others, Ad\u00e8le grows, seeks herself, loses herself, and ultimately finds herself through love and loss.",
+        "director": "Abdellatif Kechiche",
+        "stars": [
+            "L\u00e9a Seydoux",
+            "Ad\u00e8le Exarchopoulos",
+            "Salim Kechiouche",
+            "Aur\u00e9lien Recoing"
+        ],
+        "votes": "123,069",
+        "gross": "$2.20M"
+    },
+    "15": {
+        "name": "Saving Mr. Banks",
+        "certificate": "PG-13",
+        "runtime": "125 min",
+        "genre": "Biography, Comedy, Drama",
+        "description": "Author P.L. Travers reflects on her childhood after reluctantly meeting with Walt Disney, who seeks to adapt her Mary Poppins books for the big screen.",
+        "director": "John Lee Hancock",
+        "stars": [
+            "Emma Thompson",
+            "Tom Hanks",
+            "Annie Rose Buckley",
+            "Colin Farrell"
+        ],
+        "votes": "139,473",
+        "gross": "$83.30M"
+    },
+    "16": {
+        "name": "12 Years a Slave",
+        "certificate": "R",
+        "runtime": "134 min",
+        "genre": "Biography, Drama, History",
+        "description": "In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.",
+        "director": "Steve McQueen",
+        "stars": [
+            "Chiwetel Ejiofor",
+            "Michael Kenneth Williams",
+            "Michael Fassbender",
+            "Brad Pitt"
+        ],
+        "votes": "571,785",
+        "gross": "$56.67M"
+    },
+    "17": {
+        "name": "Gravity",
+        "certificate": "PG-13",
+        "runtime": "91 min",
+        "genre": "Drama, Sci-Fi, Thriller",
+        "description": "Two astronauts work together to survive after an accident leaves them stranded in space.",
+        "director": "Alfonso Cuar\u00f3n",
+        "stars": [
+            "Sandra Bullock",
+            "George Clooney",
+            "Ed Harris",
+            "Orto Ignatiussen"
+        ],
+        "votes": "703,674",
+        "gross": "$274.09M"
+    },
+    "18": {
+        "name": "Now You See Me",
+        "certificate": "PG-13",
+        "runtime": "115 min",
+        "genre": "Crime, Mystery, Thriller",
+        "description": "An F.B.I. Agent and an Interpol Detective track a team of illusionists who pull off bank heists during their performances, and reward their audiences with the money.",
+        "director": "Louis Leterrier",
+        "stars": [
+            "Jesse Eisenberg",
+            "Common",
+            "Mark Ruffalo",
+            "Woody Harrelson"
+        ],
+        "votes": "548,926",
+        "gross": "$117.72M"
+    },
+    "19": {
+        "name": "Don Jon",
+        "certificate": "R",
+        "runtime": "90 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A New Jersey guy dedicated to his family, friends, and church, develops unrealistic expectations from watching porn and works to find happiness and intimacy with his potential true love.",
+        "director": "Joseph Gordon-Levitt",
+        "stars": [
+            "Joseph Gordon-Levitt",
+            "Scarlett Johansson",
+            "Julianne Moore",
+            "Tony Danza"
+        ],
+        "votes": "215,131",
+        "gross": "$24.48M"
+    },
+    "20": {
+        "name": "Ender's Game",
+        "certificate": "PG-13",
+        "runtime": "114 min",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "Young Ender Wiggin is recruited by the International Military to lead the fight against the Formics, an insectoid alien race who had previously tried to invade Earth and had inflicted heavy losses on humankind.",
+        "director": "Gavin Hood",
+        "stars": [
+            "Harrison Ford",
+            "Asa Butterfield",
+            "Hailee Steinfeld",
+            "Abigail Breslin"
+        ],
+        "votes": "210,457",
+        "gross": "$61.74M"
+    },
+    "21": {
+        "name": "The Hunger Games: Catching Fire",
+        "certificate": "PG-13",
+        "runtime": "146 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Katniss Everdeen and Peeta Mellark become targets of the Capitol after their victory in the 74th Hunger Games sparks a rebellion in the Districts of Panem.",
+        "director": "Francis Lawrence",
+        "stars": [
+            "Jennifer Lawrence",
+            "Josh Hutcherson",
+            "Liam Hemsworth",
+            "Philip Seymour Hoffman"
+        ],
+        "votes": "571,758",
+        "gross": "$424.67M"
+    },
+    "22": {
+        "name": "We're the Millers",
+        "certificate": "R",
+        "runtime": "110 min",
+        "genre": "Comedy, Crime",
+        "description": "A veteran pot dealer creates a fake family as part of his plan to move a huge shipment of weed into the U.S. from Mexico.",
+        "director": "Rawson Marshall Thurber",
+        "stars": [
+            "Jason Sudeikis",
+            "Jennifer Aniston",
+            "Emma Roberts",
+            "Ed Helms"
+        ],
+        "votes": "369,298",
+        "gross": "$150.39M"
+    },
+    "23": {
+        "name": "Snowpiercer",
+        "certificate": "R",
+        "runtime": "126 min",
+        "genre": "Action, Drama, Sci-Fi",
+        "description": "In a future where a failed climate-change experiment has killed all life except for the lucky few who boarded the Snowpiercer, a train that travels around the globe, a new class system emerges.",
+        "director": "Joon-ho Bong",
+        "stars": [
+            "Chris Evans",
+            "Jamie Bell",
+            "Tilda Swinton",
+            "Ed Harris"
+        ],
+        "votes": "233,647",
+        "gross": "$4.56M"
+    },
+    "24": {
+        "name": "American Hustle",
+        "certificate": "R",
+        "runtime": "138 min",
+        "genre": "Crime, Drama",
+        "description": "A con man, Irving Rosenfeld, along with his seductive partner Sydney Prosser, is forced to work for a wild F.B.I. Agent, Richie DiMaso, who pushes them into a world of Jersey powerbrokers and the Mafia.",
+        "director": "David O. Russell",
+        "stars": [
+            "Christian Bale",
+            "Amy Adams",
+            "Bradley Cooper",
+            "Jennifer Lawrence"
+        ],
+        "votes": "415,822",
+        "gross": "$150.12M"
+    },
+    "25": {
+        "name": "Oblivion",
+        "certificate": "PG-13",
+        "runtime": "124 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "A veteran assigned to extract Earth's remaining resources begins to question what he knows about his mission and himself.",
+        "director": "Joseph Kosinski",
+        "stars": [
+            "Tom Cruise",
+            "Morgan Freeman",
+            "Andrea Riseborough",
+            "Olga Kurylenko"
+        ],
+        "votes": "449,841",
+        "gross": "$89.02M"
+    },
+    "26": {
+        "name": "Under the Skin",
+        "certificate": "R",
+        "runtime": "108 min",
+        "genre": "Drama, Horror, Sci-Fi",
+        "description": "A mysterious young woman seduces lonely men in the evening hours in Scotland. However, events lead her to begin a process of self-discovery.",
+        "director": "Jonathan Glazer",
+        "stars": [
+            "Scarlett Johansson",
+            "Jeremy McWilliams",
+            "Lynsey Taylor Mackay",
+            "Dougie McConnell"
+        ],
+        "votes": "112,059",
+        "gross": "$2.61M"
+    },
+    "27": {
+        "name": "The Green Inferno",
+        "certificate": "R",
+        "runtime": "100 min",
+        "genre": "Adventure, Horror, Thriller",
+        "description": "A group of student activists travels to the Amazon to save the rain forest and soon discover that they are not alone, and that no good deed goes unpunished.",
+        "director": "Eli Roth",
+        "stars": [
+            "Lorenza Izzo",
+            "Ariel Levy",
+            "Aaron Burns",
+            "Kirby Bliss Blanton"
+        ],
+        "votes": "32,697",
+        "gross": "$7.19M"
+    },
+    "28": {
+        "name": "The Mortal Instruments: City of Bones",
+        "certificate": "PG-13",
+        "runtime": "130 min",
+        "genre": "Action, Fantasy, Horror",
+        "description": "When her mother disappears, Clary Fray learns that she descends from a line of warriors who protect our world from demons. She joins forces with others like her and heads into a dangerous alternate New York called the Shadow World.",
+        "director": "Harald Zwart",
+        "stars": [
+            "Lily Collins",
+            "Jamie Campbell Bower",
+            "Robert Sheehan",
+            "Jemima West"
+        ],
+        "votes": "121,181",
+        "gross": "$31.17M"
+    },
+    "29": {
+        "name": "World War Z",
+        "certificate": "PG-13",
+        "runtime": "116 min",
+        "genre": "Action, Adventure, Horror",
+        "description": "Former United Nations employee Gerry Lane traverses the world in a race against time to stop the Zombie pandemic that is toppling armies and governments, and threatening to destroy humanity itself.",
+        "director": "Marc Forster",
+        "stars": [
+            "Brad Pitt",
+            "Mireille Enos",
+            "Daniella Kertesz",
+            "James Badge Dale"
+        ],
+        "votes": "548,979",
+        "gross": "$202.36M"
+    },
+    "30": {
+        "name": "About Time",
+        "certificate": "R",
+        "runtime": "123 min",
+        "genre": "Comedy, Drama, Fantasy",
+        "description": "At the age of 21, Tim discovers he can travel in time and change what happens and has happened in his own life. His decision to make his world a better place by getting a girlfriend turns out not to be as easy as you might think.",
+        "director": "Richard Curtis",
+        "stars": [
+            "Domhnall Gleeson",
+            "Rachel McAdams",
+            "Bill Nighy",
+            "Lydia Wilson"
+        ],
+        "votes": "256,823",
+        "gross": "$15.32M"
+    },
+    "31": {
+        "name": "Furious 6",
+        "certificate": "PG-13",
+        "runtime": "130 min",
+        "genre": "Action, Crime, Thriller",
+        "description": "Hobbs has Dominic and Brian reassemble their crew to take down a team of mercenaries: Dominic unexpectedly gets convoluted also facing his presumed deceased girlfriend, Letty.",
+        "director": "Justin Lin",
+        "stars": [
+            "Vin Diesel",
+            "Paul Walker",
+            "Dwayne Johnson",
+            "Michelle Rodriguez"
+        ],
+        "votes": "344,643",
+        "gross": "$238.68M"
+    },
+    "32": {
+        "name": "Pacific Rim",
+        "certificate": "PG-13",
+        "runtime": "131 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "As a war between humankind and monstrous sea creatures wages on, a former pilot and a trainee are paired up to drive a seemingly obsolete special weapon in a desperate effort to save the world from the apocalypse.",
+        "director": "Guillermo del Toro",
+        "stars": [
+            "Idris Elba",
+            "Charlie Hunnam",
+            "Rinko Kikuchi",
+            "Charlie Day"
+        ],
+        "votes": "440,908",
+        "gross": "$101.80M"
+    },
+    "33": {
+        "name": "Dallas Buyers Club",
+        "certificate": "R",
+        "runtime": "117 min",
+        "genre": "Biography, Drama",
+        "description": "In 1985 Dallas, electrician and hustler Ron Woodroof works around the system to help AIDS patients get the medication they need after he is diagnosed with the disease.",
+        "director": "Jean-Marc Vall\u00e9e",
+        "stars": [
+            "Matthew McConaughey",
+            "Jennifer Garner",
+            "Jared Leto",
+            "Steve Zahn"
+        ],
+        "votes": "399,586",
+        "gross": "$27.30M"
+    },
+    "34": {
+        "name": "Gangster Squad",
+        "certificate": "R",
+        "runtime": "113 min",
+        "genre": "Action, Crime, Drama",
+        "description": "It's 1949 Los Angeles, the city is run by gangsters and a malicious mobster, Mickey Cohen. Determined to end the corruption, John O'Mara assembles a team of cops, ready to take down the ruthless leader and restore peace to the city.",
+        "director": "Ruben Fleischer",
+        "stars": [
+            "Sean Penn",
+            "Ryan Gosling",
+            "Emma Stone",
+            "Giovanni Ribisi"
+        ],
+        "votes": "194,614",
+        "gross": "$46.00M"
+    },
+    "35": {
+        "name": "The Spectacular Now",
+        "certificate": "R",
+        "runtime": "95 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A hard-partying high school senior's philosophy on life changes when he meets the not-so-typical \"nice girl.\"",
+        "director": "James Ponsoldt",
+        "stars": [
+            "Miles Teller",
+            "Shailene Woodley",
+            "Kyle Chandler",
+            "Jennifer Jason Leigh"
+        ],
+        "votes": "132,771",
+        "gross": "$6.85M"
+    },
+    "36": {
+        "name": "Rush",
+        "certificate": "R",
+        "runtime": "123 min",
+        "genre": "Action, Biography, Drama",
+        "description": "The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.",
+        "director": "Ron Howard",
+        "stars": [
+            "Daniel Br\u00fchl",
+            "Chris Hemsworth",
+            "Olivia Wilde",
+            "Alexandra Maria Lara"
+        ],
+        "votes": "388,524",
+        "gross": "$26.95M"
+    },
+    "37": {
+        "name": "Evil Dead",
+        "certificate": "R",
+        "runtime": "91 min",
+        "genre": "Fantasy, Horror, Thriller",
+        "description": "Five friends head to a remote cabin, where the discovery of a Book of the Dead leads them to unwittingly summon up demons living in the nearby woods.",
+        "director": "Fede Alvarez",
+        "stars": [
+            "Jane Levy",
+            "Shiloh Fernandez",
+            "Jessica Lucas",
+            "Lou Taylor Pucci"
+        ],
+        "votes": "145,448",
+        "gross": "$54.24M"
+    },
+    "38": {
+        "name": "The Purge",
+        "certificate": "R",
+        "runtime": "85 min",
+        "genre": "Horror, Thriller",
+        "description": "A wealthy family are held hostage for harboring the target of a murderous syndicate during the Purge, a 12-hour period in which any and all crime is legal.",
+        "director": "James DeMonaco",
+        "stars": [
+            "Ethan Hawke",
+            "Lena Headey",
+            "Max Burkholder",
+            "Adelaide Kane"
+        ],
+        "votes": "181,542",
+        "gross": "$64.47M"
+    },
+    "39": {
+        "name": "Enemy",
+        "certificate": "R",
+        "runtime": "91 min",
+        "genre": "Mystery, Thriller",
+        "description": "A man seeks out his exact look-alike after spotting him in a movie.",
+        "director": "Denis Villeneuve",
+        "stars": [
+            "Jake Gyllenhaal",
+            "M\u00e9lanie Laurent",
+            "Sarah Gadon",
+            "Isabella Rossellini"
+        ],
+        "votes": "141,574",
+        "gross": "$1.01M"
+    },
+    "40": {
+        "name": "G.I. Joe: Retaliation",
+        "certificate": "PG-13",
+        "runtime": "110 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "The G.I. Joes are not only fighting their mortal enemy Cobra; they are forced to contend with threats from within the government that jeopardize their very existence.",
+        "director": "Jon M. Chu",
+        "stars": [
+            "Dwayne Johnson",
+            "Channing Tatum",
+            "Adrianne Palicki",
+            "Byung-Hun Lee"
+        ],
+        "votes": "164,891",
+        "gross": "$122.52M"
+    },
+    "41": {
+        "name": "Kick-Ass 2",
+        "certificate": "R",
+        "runtime": "103 min",
+        "genre": "Action, Comedy, Crime",
+        "description": "Following Kick-Ass' heroics, other citizens are inspired to become masked crusaders. But Red Mist leads his own group of evil supervillains to get revenge, kill Kick-Ass and destroy everything he stands for.",
+        "director": "Jeff Wadlow",
+        "stars": [
+            "Aaron Taylor-Johnson",
+            "Chlo\u00eb Grace Moretz",
+            "Christopher Mintz-Plasse",
+            "Jim Carrey"
+        ],
+        "votes": "236,380",
+        "gross": "$28.80M"
+    },
+    "42": {
+        "name": "Lone Survivor",
+        "certificate": "R",
+        "runtime": "121 min",
+        "genre": "Action, Biography, Drama",
+        "description": "Marcus Luttrell and his team set out on a mission to capture or kill notorious Taliban leader Ahmad Shah, in late June 2005. Marcus and his team are left to fight for their lives in one of the most valiant efforts of modern warfare.",
+        "director": "Peter Berg",
+        "stars": [
+            "Mark Wahlberg",
+            "Taylor Kitsch",
+            "Emile Hirsch",
+            "Ben Foster"
+        ],
+        "votes": "244,978",
+        "gross": "$125.10M"
+    },
+    "43": {
+        "name": "The Hobbit: The Desolation of Smaug",
+        "certificate": "PG-13",
+        "runtime": "161 min",
+        "genre": "Adventure, Fantasy",
+        "description": "The dwarves, along with Bilbo Baggins and Gandalf the Grey, continue their quest to reclaim Erebor, their homeland, from Smaug. Bilbo Baggins is in possession of a mysterious and magical ring.",
+        "director": "Peter Jackson",
+        "stars": [
+            "Ian McKellen",
+            "Martin Freeman",
+            "Richard Armitage",
+            "Ken Stott"
+        ],
+        "votes": "561,907",
+        "gross": "$258.37M"
+    },
+    "44": {
+        "name": "The Wolverine",
+        "certificate": "PG-13",
+        "runtime": "126 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Wolverine comes to Japan to meet an old friend whose life he saved years ago, and gets embroiled in a conspiracy involving yakuza and mutants.",
+        "director": "James Mangold",
+        "stars": [
+            "Hugh Jackman",
+            "Will Yun Lee",
+            "Tao Okamoto",
+            "Rila Fukushima"
+        ],
+        "votes": "396,892",
+        "gross": "$132.56M"
+    },
+    "45": {
+        "name": "Oldboy",
+        "certificate": "R",
+        "runtime": "104 min",
+        "genre": "Action, Drama, Mystery",
+        "description": "Obsessed with vengeance, a man sets out to find out why he was kidnapped and locked into solitary confinement for twenty years without reason.",
+        "director": "Spike Lee",
+        "stars": [
+            "Josh Brolin",
+            "Elizabeth Olsen",
+            "Samuel L. Jackson",
+            "Sharlto Copley"
+        ],
+        "votes": "62,663",
+        "gross": "$2.19M"
+    },
+    "46": {
+        "name": "Carrie",
+        "certificate": "R",
+        "runtime": "100 min",
+        "genre": "Drama, Horror",
+        "description": "A shy girl, outcasted by her peers and sheltered by her religious mother, unleashes telekinetic terror on her small town after being pushed too far at her senior prom.",
+        "director": "Kimberly Peirce",
+        "stars": [
+            "Chlo\u00eb Grace Moretz",
+            "Julianne Moore",
+            "Gabriella Wilde",
+            "Portia Doubleday"
+        ],
+        "votes": "124,539",
+        "gross": "$35.27M"
+    },
+    "47": {
+        "name": "Beautiful Creatures",
+        "certificate": "PG-13",
+        "runtime": "124 min",
+        "genre": "Drama, Fantasy, Romance",
+        "description": "Ethan longs to escape his small Southern town. He meets a mysterious new girl, Lena. Together, they uncover dark secrets about their respective families, their history and their town.",
+        "director": "Richard LaGravenese",
+        "stars": [
+            "Alice Englert",
+            "Viola Davis",
+            "Emma Thompson",
+            "Alden Ehrenreich"
+        ],
+        "votes": "79,397",
+        "gross": "$19.45M"
+    },
+    "48": {
+        "name": "Short Term 12",
+        "certificate": "R",
+        "runtime": "96 min",
+        "genre": "Drama",
+        "description": "A 20-something supervising staff member of a residential treatment facility navigates the troubled waters of that world alongside her co-worker and longtime boyfriend.",
+        "director": "Destin Daniel Cretton",
+        "stars": [
+            "Brie Larson",
+            "Frantz Turner",
+            "John Gallagher Jr.",
+            "Kaitlyn Dever"
+        ],
+        "votes": "72,254",
+        "gross": "$1.01M"
+    },
+    "49": {
+        "name": "Elysium",
+        "certificate": "R",
+        "runtime": "109 min",
+        "genre": "Action, Drama, Sci-Fi",
+        "description": "In the year 2154, the very wealthy live on a man-made space station while the rest of the population resides on a ruined Earth. A man takes on a mission that could bring equality to the polarized worlds.",
+        "director": "Neill Blomkamp",
+        "stars": [
+            "Matt Damon",
+            "Jodie Foster",
+            "Sharlto Copley",
+            "Alice Braga"
+        ],
+        "votes": "393,015",
+        "gross": "$93.05M"
+    },
+    "50": {
+        "name": "Only Lovers Left Alive",
+        "certificate": "R",
+        "runtime": "123 min",
+        "genre": "Comedy, Drama, Fantasy",
+        "description": "A depressed musician reunites with his lover. Though their romance, which has already endured several centuries, is disrupted by the arrival of her uncontrollable younger sister.",
+        "director": "Jim Jarmusch",
+        "stars": [
+            "Tilda Swinton",
+            "Tom Hiddleston",
+            "Mia Wasikowska",
+            "John Hurt"
+        ],
+        "votes": "80,098",
+        "gross": "$1.88M"
+    }
+}

@@ -1,0 +1,802 @@
+{
+    "1": {
+        "name": "The Godfather",
+        "certificate": "R",
+        "runtime": "175 min",
+        "genre": "Crime, Drama",
+        "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        "director": "Francis Ford Coppola",
+        "stars": [
+            "Marlon Brando",
+            "Al Pacino",
+            "James Caan",
+            "Diane Keaton"
+        ],
+        "votes": "1,423,151",
+        "gross": "$134.97M"
+    },
+    "2": {
+        "name": "Cabaret",
+        "certificate": "PG",
+        "runtime": "124 min",
+        "genre": "Drama, Musical",
+        "description": "A female girlie club entertainer in Weimar Republic era Berlin romances two men while the Nazi Party rises to power around them.",
+        "director": "Bob Fosse",
+        "stars": [
+            "Liza Minnelli",
+            "Michael York",
+            "Helmut Griem",
+            "Joel Grey"
+        ],
+        "votes": "43,037",
+        "gross": "$42.77M"
+    },
+    "3": {
+        "name": "Deliverance",
+        "certificate": "R",
+        "runtime": "109 min",
+        "genre": "Adventure, Drama, Thriller",
+        "description": "Intent on seeing the Cahulawassee River before it's dammed and turned into a lake, outdoor fanatic Lewis Medlock takes his friends on a canoeing trip they'll never forget into the dangerous American back-country.",
+        "director": "John Boorman",
+        "stars": [
+            "Jon Voight",
+            "Burt Reynolds",
+            "Ned Beatty",
+            "Ronny Cox"
+        ],
+        "votes": "90,455",
+        "gross": ""
+    },
+    "4": {
+        "name": "Young Winston",
+        "certificate": "PG",
+        "runtime": "124 min",
+        "genre": "Biography, Drama, War",
+        "description": "Complex family relationships, as well as a combat experience, form the personality of the future world-famous politician.",
+        "director": "Richard Attenborough",
+        "stars": [
+            "Simon Ward",
+            "Robert Shaw",
+            "Anne Bancroft",
+            "Jack Hawkins"
+        ],
+        "votes": "1,902",
+        "gross": ""
+    },
+    "5": {
+        "name": "The Poseidon Adventure",
+        "certificate": "PG",
+        "runtime": "117 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "Nine people explore a cruise ship at sea in a manner that turns their whole lives upside down.",
+        "director": "Ronald Neame",
+        "stars": [
+            "Gene Hackman",
+            "Ernest Borgnine",
+            "Shelley Winters",
+            "Red Buttons"
+        ],
+        "votes": "37,571",
+        "gross": "$84.56M"
+    },
+    "6": {
+        "name": "Last Tango in Paris",
+        "certificate": "NC-17",
+        "runtime": "129 min",
+        "genre": "Drama, Romance",
+        "description": "A young Parisian woman meets a middle-aged American businessman who demands their clandestine relationship be based only on sex.",
+        "director": "Bernardo Bertolucci",
+        "stars": [
+            "Marlon Brando",
+            "Maria Schneider",
+            "Maria Michi",
+            "Giovanna Galletti"
+        ],
+        "votes": "44,632",
+        "gross": "$36.14M"
+    },
+    "7": {
+        "name": "The Last House on the Left",
+        "certificate": "R",
+        "runtime": "84 min",
+        "genre": "Horror, Thriller",
+        "description": "Two teenage girls head to a rock concert for one's birthday. While trying to score marijuana in the city, they are kidnapped and brutalized by a gang of psychotic convicts.",
+        "director": "Wes Craven",
+        "stars": [
+            "Sandra Peabody",
+            "Lucy Grantham",
+            "David Hess",
+            "Fred J. Lincoln"
+        ],
+        "votes": "29,500",
+        "gross": "$3.10M"
+    },
+    "8": {
+        "name": "Avanti!",
+        "certificate": "R",
+        "runtime": "144 min",
+        "genre": "Comedy, Romance",
+        "description": "A successful businessman goes to Italy to arrange for the return of his tycoon-father's body only to discover dad died with his mistress of long standing.",
+        "director": "Billy Wilder",
+        "stars": [
+            "Jack Lemmon",
+            "Juliet Mills",
+            "Clive Revill",
+            "Edward Andrews"
+        ],
+        "votes": "8,397",
+        "gross": "$3.30M"
+    },
+    "9": {
+        "name": "The Way of the Dragon",
+        "certificate": "R",
+        "runtime": "90 min",
+        "genre": "Action, Adventure, Crime",
+        "description": "A man visits his relatives at their restaurant in Italy and has to help them defend against brutal gangsters harassing them.",
+        "director": "Bruce Lee",
+        "stars": [
+            "Bruce Lee",
+            "Chuck Norris",
+            "Nora Miao",
+            "Ping Ou Wei"
+        ],
+        "votes": "28,218",
+        "gross": ""
+    },
+    "10": {
+        "name": "Pink Flamingos",
+        "certificate": "NC-17",
+        "runtime": "93 min",
+        "genre": "Comedy, Crime",
+        "description": "Notorious Baltimore criminal and underground figure Divine goes up against a sleazy married couple who make a passionate attempt to humiliate her and seize her tabloid-given title as \"The Filthiest Person Alive\".",
+        "director": "John Waters",
+        "stars": [
+            "Divine",
+            "David Lochary",
+            "Mary Vivian Pearce",
+            "Mink Stole"
+        ],
+        "votes": "19,883",
+        "gross": "$0.18M"
+    },
+    "11": {
+        "name": "The Heartbreak Kid",
+        "certificate": "PG",
+        "runtime": "106 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Three days into his Miami honeymoon, New York Jewish Lenny meets tall, blonde Kelly. This confirms him in his opinion that he has made a serious mistake and he decides he wants Kelly ...                See full summary\u00a0\u00bb",
+        "director": "Elaine May",
+        "stars": [
+            "Charles Grodin",
+            "Cybill Shepherd",
+            "Jeannie Berlin",
+            "Audra Lindley"
+        ],
+        "votes": "3,489",
+        "gross": "$12.21M"
+    },
+    "12": {
+        "name": "Frenzy",
+        "certificate": "R",
+        "runtime": "116 min",
+        "genre": "Thriller",
+        "description": "A serial murderer is strangling women with a necktie. The London police have a suspect, but he is the wrong man.",
+        "director": "Alfred Hitchcock",
+        "stars": [
+            "Jon Finch",
+            "Barry Foster",
+            "Barbara Leigh-Hunt",
+            "Anna Massey"
+        ],
+        "votes": "36,871",
+        "gross": ""
+    },
+    "13": {
+        "name": "Jeremiah Johnson",
+        "certificate": "GP",
+        "runtime": "108 min",
+        "genre": "Adventure, Drama, Western",
+        "description": "A mountain man who wishes to live the life of a hermit becomes the unwilling object of a long vendetta by Indians, and proves to be a match for their warriors in one-on-one combat on the early frontier.",
+        "director": "Sydney Pollack",
+        "stars": [
+            "Robert Redford",
+            "Will Geer",
+            "Delle Bolton",
+            "Josh Albee"
+        ],
+        "votes": "25,738",
+        "gross": "$47.74M"
+    },
+    "14": {
+        "name": "Fist of Fury",
+        "certificate": "R",
+        "runtime": "107 min",
+        "genre": "Action, Drama, Romance",
+        "description": "A young man seeks vengence for the death of his teacher.",
+        "director": "Wei Lo",
+        "stars": [
+            "Bruce Lee",
+            "Nora Miao",
+            "James Tien",
+            "Maria Yi"
+        ],
+        "votes": "22,395",
+        "gross": ""
+    },
+    "15": {
+        "name": "Slaughterhouse-Five",
+        "certificate": "R",
+        "runtime": "104 min",
+        "genre": "Comedy, Drama, Sci-Fi",
+        "description": "A man named Billy Pilgrim tells the story of how he became unstuck in time and was abducted by aliens.",
+        "director": "George Roy Hill",
+        "stars": [
+            "Michael Sacks",
+            "Ron Leibman",
+            "Eugene Roche",
+            "Sharon Gans"
+        ],
+        "votes": "11,217",
+        "gross": ""
+    },
+    "16": {
+        "name": "Aguirre, the Wrath of God",
+        "certificate": "Not Rated",
+        "runtime": "95 min",
+        "genre": "Adventure, Biography, Drama",
+        "description": "In the 16th century, the ruthless and insane Don Lope de Aguirre leads a Spanish expedition in search of El Dorado.",
+        "director": "Werner Herzog",
+        "stars": [
+            "Klaus Kinski",
+            "Ruy Guerra",
+            "Helena Rojo",
+            "Del Negro"
+        ],
+        "votes": "46,234",
+        "gross": ""
+    },
+    "17": {
+        "name": "Silent Running",
+        "certificate": "G",
+        "runtime": "89 min",
+        "genre": "Drama, Sci-Fi",
+        "description": "In a future where all flora is extinct on Earth, an astronaut is given orders to destroy the last of Earth's botany, kept in a greenhouse aboard a spacecraft.",
+        "director": "Douglas Trumbull",
+        "stars": [
+            "Bruce Dern",
+            "Cliff Potts",
+            "Ron Rifkin",
+            "Jesse Vint"
+        ],
+        "votes": "24,410",
+        "gross": ""
+    },
+    "18": {
+        "name": "The Getaway",
+        "certificate": "PG",
+        "runtime": "123 min",
+        "genre": "Action, Crime, Thriller",
+        "description": "A recently released ex-con and his loyal wife go on the run after a heist goes awry.",
+        "director": "Sam Peckinpah",
+        "stars": [
+            "Steve McQueen",
+            "Ali MacGraw",
+            "Ben Johnson",
+            "Sally Struthers"
+        ],
+        "votes": "25,113",
+        "gross": "$36.73M"
+    },
+    "19": {
+        "name": "Cries & Whispers",
+        "certificate": "R",
+        "runtime": "91 min",
+        "genre": "Drama",
+        "description": "When a woman dying of cancer in early twentieth-century Sweden is visited by her two sisters, long-repressed feelings between the siblings rise to the surface.",
+        "director": "Ingmar Bergman",
+        "stars": [
+            "Harriet Andersson",
+            "Liv Ullmann",
+            "Kari Sylwan",
+            "Ingrid Thulin"
+        ],
+        "votes": "25,549",
+        "gross": ""
+    },
+    "20": {
+        "name": "Sisters",
+        "certificate": "R",
+        "runtime": "93 min",
+        "genre": "Horror, Mystery, Thriller",
+        "description": "A fledgling Staten Island journalist witnesses a brutal murder in the neighboring apartment of a French-Canadian model, but the police do not believe that the crime took place. With the help of a private detective, she seeks out the truth.",
+        "director": "Brian De Palma",
+        "stars": [
+            "Margot Kidder",
+            "Jennifer Salt",
+            "Charles Durning",
+            "William Finley"
+        ],
+        "votes": "13,268",
+        "gross": ""
+    },
+    "21": {
+        "name": "The Cowboys",
+        "certificate": "GP",
+        "runtime": "134 min",
+        "genre": "Adventure, Drama, Western",
+        "description": "Rancher Wil Andersen is forced to hire inexperienced boys as cowhands in order to get his herd to market on time but the rough drive is full of dangers and a gang of cattle rustlers is trailing them.",
+        "director": "Mark Rydell",
+        "stars": [
+            "John Wayne",
+            "Roscoe Lee Browne",
+            "Bruce Dern",
+            "Colleen Dewhurst"
+        ],
+        "votes": "11,954",
+        "gross": "$7.50M"
+    },
+    "22": {
+        "name": "Everything You Always Wanted to Know About Sex * But Were Afraid to Ask",
+        "certificate": "R",
+        "runtime": "88 min",
+        "genre": "Comedy",
+        "description": "Seven stories are trying to answer the question: what is sex? Or maybe they are not trying.",
+        "director": "Woody Allen",
+        "stars": [
+            "Woody Allen",
+            "Gene Wilder",
+            "Louise Lasser",
+            "John Carradine"
+        ],
+        "votes": "35,590",
+        "gross": ""
+    },
+    "23": {
+        "name": "The Valachi Papers",
+        "certificate": "R",
+        "runtime": "125 min",
+        "genre": "Crime, Drama",
+        "description": "Gangster Joe Valachi is a marked man in the same joint where mob boss Don Vito Genovese is imprisoned and he's forced to co-operate with the DA in exchange for protection.",
+        "director": "Terence Young",
+        "stars": [
+            "Charles Bronson",
+            "Lino Ventura",
+            "Jill Ireland",
+            "Walter Chiari"
+        ],
+        "votes": "2,706",
+        "gross": "$20.27M"
+    },
+    "24": {
+        "name": "The Discreet Charm of the Bourgeoisie",
+        "certificate": "PG",
+        "runtime": "102 min",
+        "genre": "Comedy",
+        "description": "A surreal, virtually plotless series of dreams centered around six middle-class people and their consistently interrupted attempts to have a meal together.",
+        "director": "Luis Bu\u00f1uel",
+        "stars": [
+            "Fernando Rey",
+            "Delphine Seyrig",
+            "Paul Frankeur",
+            "Bulle Ogier"
+        ],
+        "votes": "33,322",
+        "gross": "$0.20M"
+    },
+    "25": {
+        "name": "Joe Kidd",
+        "certificate": "PG",
+        "runtime": "88 min",
+        "genre": "Western",
+        "description": "An ex-bounty hunter reluctantly helps a wealthy landowner and his henchmen track down a Mexican revolutionary leader.",
+        "director": "John Sturges",
+        "stars": [
+            "Clint Eastwood",
+            "Robert Duvall",
+            "John Saxon",
+            "Don Stroud"
+        ],
+        "votes": "14,982",
+        "gross": ""
+    },
+    "26": {
+        "name": "What's Up, Doc?",
+        "certificate": "G",
+        "runtime": "94 min",
+        "genre": "Comedy",
+        "description": "The accidental mix-up of four identical plaid overnight bags leads to a series of increasingly wild and wacky situations.",
+        "director": "Peter Bogdanovich",
+        "stars": [
+            "Barbra Streisand",
+            "Ryan O'Neal",
+            "Madeline Kahn",
+            "Kenneth Mars"
+        ],
+        "votes": "17,326",
+        "gross": ""
+    },
+    "27": {
+        "name": "Fritz the Cat",
+        "certificate": "Unrated",
+        "runtime": "78 min",
+        "genre": "Animation, Comedy, Drama",
+        "description": "A hypocritical swinging college student cat raises hell in a satiric vision of various elements on the 1960s.",
+        "director": "Ralph Bakshi",
+        "stars": [
+            "Skip Hinnant",
+            "Rosetta LeNoire",
+            "John McCurry",
+            "Judy Engles"
+        ],
+        "votes": "9,984",
+        "gross": "$25.00M"
+    },
+    "28": {
+        "name": "Sleuth",
+        "certificate": "PG",
+        "runtime": "138 min",
+        "genre": "Mystery, Thriller",
+        "description": "A man who loves games and theater invites his wife's lover to meet him, setting up a battle of wits with potentially deadly results.",
+        "director": "Joseph L. Mankiewicz",
+        "stars": [
+            "Laurence Olivier",
+            "Michael Caine",
+            "Alec Cawthorne",
+            "John Matthews"
+        ],
+        "votes": "41,652",
+        "gross": ""
+    },
+    "29": {
+        "name": "The Big Bird Cage",
+        "certificate": "R",
+        "runtime": "88 min",
+        "genre": "Action, Crime, Drama",
+        "description": "Grier and Haig are thieving mercenaries who engineer a prison break from the outside.",
+        "director": "Jack Hill",
+        "stars": [
+            "Pam Grier",
+            "Anitra Ford",
+            "Candice Roman",
+            "Teda Bracci"
+        ],
+        "votes": "1,861",
+        "gross": ""
+    },
+    "30": {
+        "name": "Boxcar Bertha",
+        "certificate": "R",
+        "runtime": "88 min",
+        "genre": "Crime, Drama, Romance",
+        "description": "During the Great Depression, a union leader and a young woman become criminals to exact revenge on the management of a railroad.",
+        "director": "Martin Scorsese",
+        "stars": [
+            "Barbara Hershey",
+            "David Carradine",
+            "Barry Primus",
+            "Bernie Casey"
+        ],
+        "votes": "7,455",
+        "gross": ""
+    },
+    "31": {
+        "name": "The Mechanic",
+        "certificate": "PG",
+        "runtime": "100 min",
+        "genre": "Action, Crime, Thriller",
+        "description": "An aging hitman befriends a young man who wants to be a professional killer. Eventually it becomes clear that someone has betrayed them.",
+        "director": "Michael Winner",
+        "stars": [
+            "Charles Bronson",
+            "Jan-Michael Vincent",
+            "Keenan Wynn",
+            "Jill Ireland"
+        ],
+        "votes": "11,015",
+        "gross": ""
+    },
+    "32": {
+        "name": "Prime Cut",
+        "certificate": "R",
+        "runtime": "88 min",
+        "genre": "Action, Crime, Drama",
+        "description": "A vicious Kansas City slaughterhouse owner and his hick family are having a bloody \"beef\" with the Chicago crime syndicate over profits from their joint illegal operations. Top enforcer Nick Devlin is sent to straighten things out.",
+        "director": "Michael Ritchie",
+        "stars": [
+            "Lee Marvin",
+            "Gene Hackman",
+            "Sissy Spacek",
+            "Angel Tompkins"
+        ],
+        "votes": "4,015",
+        "gross": ""
+    },
+    "33": {
+        "name": "The Canterbury Tales",
+        "certificate": "NC-17",
+        "runtime": "111 min",
+        "genre": "Comedy, Drama, History",
+        "description": "Pasolini's artistic, sometimes violent, always vividly cinematic retelling of some of Chaucer's most erotic tales.",
+        "director": "Pier Paolo Pasolini",
+        "stars": [
+            "Hugh Griffith",
+            "Laura Betti",
+            "Ninetto Davoli",
+            "Franco Citti"
+        ],
+        "votes": "5,738",
+        "gross": ""
+    },
+    "34": {
+        "name": "Dr. Phibes Rises Again",
+        "certificate": "PG",
+        "runtime": "89 min",
+        "genre": "Comedy, Horror",
+        "description": "The vengeful doctor rises again, seeking the Scrolls of Life in an attempt to resurrect his deceased wife.",
+        "director": "Robert Fuest",
+        "stars": [
+            "Vincent Price",
+            "Robert Quarry",
+            "Valli Kemp",
+            "Hugh Griffith"
+        ],
+        "votes": "4,990",
+        "gross": ""
+    },
+    "35": {
+        "name": "Frogs",
+        "certificate": "PG",
+        "runtime": "91 min",
+        "genre": "Horror, Mystery, Romance",
+        "description": "A group of helpless victims celebrate a birthday on an island estate crawling with killer amphibians, birds, insects, and reptiles.",
+        "director": "George McCowan",
+        "stars": [
+            "Ray Milland",
+            "Sam Elliott",
+            "Joan Van Ark",
+            "Adam Roarke"
+        ],
+        "votes": "5,281",
+        "gross": ""
+    },
+    "36": {
+        "name": "The Magnificent Seven Ride!",
+        "certificate": "PG",
+        "runtime": "100 min",
+        "genre": "Action, Western",
+        "description": "Forced by personal circumstances, Marshal Chris Adams recruits a writer and five prisoners to help him eliminate a gang of Mexican bandits.",
+        "director": "George McCowan",
+        "stars": [
+            "Lee Van Cleef",
+            "Stefanie Powers",
+            "Michael Callan",
+            "Mariette Hartley"
+        ],
+        "votes": "2,201",
+        "gross": ""
+    },
+    "37": {
+        "name": "Ben",
+        "certificate": "PG",
+        "runtime": "94 min",
+        "genre": "Horror, Thriller",
+        "description": "A lonely boy befriends Ben, the leader of a violent pack of killer rats.",
+        "director": "Phil Karlson",
+        "stars": [
+            "Lee Montgomery",
+            "Joseph Campanella",
+            "Arthur O'Connell",
+            "Rosemary Murphy"
+        ],
+        "votes": "2,156",
+        "gross": ""
+    },
+    "38": {
+        "name": "Super Fly",
+        "certificate": "R",
+        "runtime": "91 min",
+        "genre": "Action, Crime, Drama",
+        "description": "The daily routine of cocaine dealer Priest who wants to score one more super deal and retire.",
+        "director": "Gordon Parks Jr.",
+        "stars": [
+            "Ron O'Neal",
+            "Carl Lee",
+            "Sheila Frazier",
+            "Julius Harris"
+        ],
+        "votes": "5,640",
+        "gross": ""
+    },
+    "39": {
+        "name": "Blacula",
+        "certificate": "PG",
+        "runtime": "93 min",
+        "genre": "Fantasy, Horror, Romance",
+        "description": "An ancient African prince, turned into a vampire by Dracula himself, finds himself in modern Los Angeles.",
+        "director": "William Crain",
+        "stars": [
+            "William Marshall",
+            "Vonetta McGee",
+            "Denise Nicholas",
+            "Thalmus Rasulala"
+        ],
+        "votes": "5,068",
+        "gross": "$2.18M"
+    },
+    "40": {
+        "name": "Man of La Mancha",
+        "certificate": "PG",
+        "runtime": "132 min",
+        "genre": "Drama, Fantasy, Musical",
+        "description": "The funny story of mad but kind and chivalrous elderly nobleman Don Quixote who, aided by his squire Sancho Panza, fights windmills that are seen as dragons to save prostitute Dulcinea who is seen as a noblewoman.",
+        "director": "Arthur Hiller",
+        "stars": [
+            "Peter O'Toole",
+            "Sophia Loren",
+            "James Coco",
+            "Harry Andrews"
+        ],
+        "votes": "3,533",
+        "gross": "$3.80M"
+    },
+    "41": {
+        "name": "Dracula A.D. 1972",
+        "certificate": "PG",
+        "runtime": "96 min",
+        "genre": "Horror",
+        "description": "Johnny Alucard raises Count Dracula from the dead in London in 1972. The Count goes after the descendants of Van Helsing.",
+        "director": "Alan Gibson",
+        "stars": [
+            "Christopher Lee",
+            "Peter Cushing",
+            "Stephanie Beacham",
+            "Christopher Neame"
+        ],
+        "votes": "4,747",
+        "gross": ""
+    },
+    "42": {
+        "name": "Horror Express",
+        "certificate": "R",
+        "runtime": "88 min",
+        "genre": "Horror, Sci-Fi",
+        "description": "In 1906, in China, a British anthropologist discovers a frozen prehistoric creature and must transport it to Europe by train.",
+        "director": "Eugenio Mart\u00edn",
+        "stars": [
+            "Christopher Lee",
+            "Peter Cushing",
+            "Alberto de Mendoza",
+            "Silvia Tortosa"
+        ],
+        "votes": "7,801",
+        "gross": ""
+    },
+    "43": {
+        "name": "Roma",
+        "certificate": "R",
+        "runtime": "120 min",
+        "genre": "Comedy, Drama",
+        "description": "A fluid, unconnected and sometimes chaotic procession of scenes detailing the various people and events of life in Italy's capital, most of it based on director Federico Fellini's life.",
+        "director": "Federico Fellini",
+        "stars": [
+            "Britta Barnes",
+            "Peter Gonzales Falcon",
+            "Fiona Florence",
+            "Pia De Doses"
+        ],
+        "votes": "10,313",
+        "gross": ""
+    },
+    "44": {
+        "name": "Don't Torture a Duckling",
+        "certificate": "Not Rated",
+        "runtime": "105 min",
+        "genre": "Horror, Mystery, Thriller",
+        "description": "A reporter and a promiscuous young woman try to solve a series of child killings in a remote southern Italian town rife with superstition and a distrust of outsiders.",
+        "director": "Lucio Fulci",
+        "stars": [
+            "Florinda Bolkan",
+            "Barbara Bouchet",
+            "Tomas Milian",
+            "Irene Papas"
+        ],
+        "votes": "6,767",
+        "gross": ""
+    },
+    "45": {
+        "name": "The Life and Times of Judge Roy Bean",
+        "certificate": "PG",
+        "runtime": "120 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "In Vinegaroon, Texas, former outlaw Roy Bean appoints himself the judge for the region and dispenses his brand of justice as he sees fit.",
+        "director": "John Huston",
+        "stars": [
+            "Paul Newman",
+            "Ava Gardner",
+            "Roy Jenson",
+            "Gary Combs"
+        ],
+        "votes": "6,493",
+        "gross": ""
+    },
+    "46": {
+        "name": "1776",
+        "certificate": "G",
+        "runtime": "141 min",
+        "genre": "Drama, Family, History",
+        "description": "A musical retelling of the American Revolution's political struggle in the Continental Congress to declare independence.",
+        "director": "Peter H. Hunt",
+        "stars": [
+            "William Daniels",
+            "Howard Da Silva",
+            "Ken Howard",
+            "Donald Madden"
+        ],
+        "votes": "7,091",
+        "gross": "$6.10M"
+    },
+    "47": {
+        "name": "The Case of the Bloody Iris",
+        "certificate": "Not Rated",
+        "runtime": "94 min",
+        "genre": "Mystery, Thriller",
+        "description": "Having recently escaped the clutches of a hippie sex cult, a beautiful model is pursued by a serial killer whose previous victims include former occupants of her new apartment.",
+        "director": "Giuliano Carnimeo",
+        "stars": [
+            "Edwige Fenech",
+            "George Hilton",
+            "Paola Quattrini",
+            "Giampiero Albertini"
+        ],
+        "votes": "1,790",
+        "gross": ""
+    },
+    "48": {
+        "name": "Night of the Lepus",
+        "certificate": "PG",
+        "runtime": "88 min",
+        "genre": "Horror, Sci-Fi, Thriller",
+        "description": "Giant mutant rabbits terrorize the south-west.",
+        "director": "William F. Claxton",
+        "stars": [
+            "Stuart Whitman",
+            "Janet Leigh",
+            "Rory Calhoun",
+            "DeForest Kelley"
+        ],
+        "votes": "3,784",
+        "gross": ""
+    },
+    "49": {
+        "name": "State of Siege",
+        "certificate": "Not Rated",
+        "runtime": "120 min",
+        "genre": "Drama, Thriller",
+        "description": "Using the interrogation of a US counterinsurgency agent as a backdrop, the film explores the consequences of the struggle between Uruguay's government and the leftist Tupamaro guerrillas.",
+        "director": "Costa-Gavras",
+        "stars": [
+            "Yves Montand",
+            "Renato Salvatori",
+            "O.E. Hasse",
+            "Jacques Weber"
+        ],
+        "votes": "3,729",
+        "gross": ""
+    },
+    "50": {
+        "name": "Conquest of the Planet of the Apes",
+        "certificate": "PG",
+        "runtime": "88 min",
+        "genre": "Action, Sci-Fi",
+        "description": "In a futuristic world that has embraced ape slavery, Caesar, the son of the late simians Cornelius and Zira, surfaces after almost twenty years of hiding out from the authorities, and prepares for a slave revolt against humanity.",
+        "director": "J. Lee Thompson",
+        "stars": [
+            "Roddy McDowall",
+            "Don Murray",
+            "Ricardo Montalban",
+            "Natalie Trundy"
+        ],
+        "votes": "27,791",
+        "gross": "$9.00M"
+    }
+}

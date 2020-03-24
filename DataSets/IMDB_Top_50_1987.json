@@ -1,0 +1,803 @@
+{
+    "1": {
+        "name": "The Princess Bride",
+        "certificate": "PG",
+        "runtime": "98 min",
+        "genre": "Adventure, Family, Fantasy",
+        "description": "While home sick in bed, a young boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and allies in his quest to be reunited with his true love.",
+        "director": "Rob Reiner",
+        "stars": [
+            "Cary Elwes",
+            "Mandy Patinkin",
+            "Robin Wright",
+            "Chris Sarandon"
+        ],
+        "votes": "355,314",
+        "gross": "$30.86M"
+    },
+    "2": {
+        "name": "Full Metal Jacket",
+        "certificate": "R",
+        "runtime": "116 min",
+        "genre": "Drama, War",
+        "description": "A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+        "director": "Stanley Kubrick",
+        "stars": [
+            "Matthew Modine",
+            "R. Lee Ermey",
+            "Vincent D'Onofrio",
+            "Adam Baldwin"
+        ],
+        "votes": "602,805",
+        "gross": "$46.36M"
+    },
+    "3": {
+        "name": "Masters of the Universe",
+        "certificate": "PG",
+        "runtime": "106 min",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "The heroic warrior He-Man battles against the evil lord Skeletor and his armies of darkness for control of Castle Grayskull.",
+        "director": "Gary Goddard",
+        "stars": [
+            "Dolph Lundgren",
+            "Frank Langella",
+            "Meg Foster",
+            "Billy Barty"
+        ],
+        "votes": "33,366",
+        "gross": "$17.34M"
+    },
+    "4": {
+        "name": "The Running Man",
+        "certificate": "R",
+        "runtime": "101 min",
+        "genre": "Action, Sci-Fi, Thriller",
+        "description": "A wrongly convicted man must try to survive a public execution gauntlet staged as a game show.",
+        "director": "Paul Michael Glaser",
+        "stars": [
+            "Arnold Schwarzenegger",
+            "Maria Conchita Alonso",
+            "Yaphet Kotto",
+            "Jim Brown"
+        ],
+        "votes": "129,797",
+        "gross": "$38.12M"
+    },
+    "5": {
+        "name": "Predator",
+        "certificate": "R",
+        "runtime": "107 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "A team of commandos on a mission in a Central American jungle find themselves hunted by an extraterrestrial warrior.",
+        "director": "John McTiernan",
+        "stars": [
+            "Arnold Schwarzenegger",
+            "Carl Weathers",
+            "Kevin Peter Hall",
+            "Elpidia Carrillo"
+        ],
+        "votes": "342,989",
+        "gross": "$59.74M"
+    },
+    "6": {
+        "name": "Dirty Dancing",
+        "certificate": "PG-13",
+        "runtime": "100 min",
+        "genre": "Drama, Music, Romance",
+        "description": "Spending the summer at a Catskills resort with her family, Frances \"Baby\" Houseman falls in love with the camp's dance instructor, Johnny Castle.",
+        "director": "Emile Ardolino",
+        "stars": [
+            "Patrick Swayze",
+            "Jennifer Grey",
+            "Jerry Orbach",
+            "Cynthia Rhodes"
+        ],
+        "votes": "173,389",
+        "gross": "$0.62M"
+    },
+    "7": {
+        "name": "The Lost Boys",
+        "certificate": "R",
+        "runtime": "97 min",
+        "genre": "Comedy, Horror",
+        "description": "After moving to a new town, two brothers discover that the area is a haven for vampires.",
+        "director": "Joel Schumacher",
+        "stars": [
+            "Jason Patric",
+            "Corey Haim",
+            "Dianne Wiest",
+            "Barnard Hughes"
+        ],
+        "votes": "110,557",
+        "gross": "$32.22M"
+    },
+    "8": {
+        "name": "Can't Buy Me Love",
+        "certificate": "PG-13",
+        "runtime": "94 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A nerdy outcast secretly pays the most popular girl in school one thousand dollars to be his girlfriend.",
+        "director": "Steve Rash",
+        "stars": [
+            "Patrick Dempsey",
+            "Amanda Peterson",
+            "Courtney Gains",
+            "Tina Caspary"
+        ],
+        "votes": "29,119",
+        "gross": "$31.62M"
+    },
+    "9": {
+        "name": "RoboCop",
+        "certificate": "R",
+        "runtime": "102 min",
+        "genre": "Action, Crime, Sci-Fi",
+        "description": "In a dystopic and crime-ridden Detroit, a terminally wounded cop returns to the force as a powerful cyborg haunted by submerged memories.",
+        "director": "Paul Verhoeven",
+        "stars": [
+            "Peter Weller",
+            "Nancy Allen",
+            "Dan O'Herlihy",
+            "Ronny Cox"
+        ],
+        "votes": "213,159",
+        "gross": "$53.42M"
+    },
+    "10": {
+        "name": "La Bamba",
+        "certificate": "PG-13",
+        "runtime": "108 min",
+        "genre": "Biography, Drama, Music",
+        "description": "Biographical story of the rise from nowhere of early rock and roll singer Ritchie Valens who died at age 17 in a plane crash with Buddy Holly and the Big Bopper.",
+        "director": "Luis Valdez",
+        "stars": [
+            "Lou Diamond Phillips",
+            "Esai Morales",
+            "Rosanna DeSoto",
+            "Elizabeth Pe\u00f1a"
+        ],
+        "votes": "24,850",
+        "gross": "$54.22M"
+    },
+    "11": {
+        "name": "The Untouchables",
+        "certificate": "R",
+        "runtime": "119 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "During the era of Prohibition in the United States, Federal Agent Eliot Ness sets out to stop ruthless Chicago gangster Al Capone, and because of rampant corruption, assembles a small, hand-picked team to help him.",
+        "director": "Brian De Palma",
+        "stars": [
+            "Kevin Costner",
+            "Sean Connery",
+            "Robert De Niro",
+            "Charles Martin Smith"
+        ],
+        "votes": "254,027",
+        "gross": "$76.27M"
+    },
+    "12": {
+        "name": "Lethal Weapon",
+        "certificate": "R",
+        "runtime": "109 min",
+        "genre": "Action, Crime, Thriller",
+        "description": "Two newly paired cops who are complete opposites must put aside their differences in order to catch a gang of drug smugglers.",
+        "director": "Richard Donner",
+        "stars": [
+            "Mel Gibson",
+            "Danny Glover",
+            "Gary Busey",
+            "Mitchell Ryan"
+        ],
+        "votes": "218,291",
+        "gross": "$65.21M"
+    },
+    "13": {
+        "name": "Empire of the Sun",
+        "certificate": "PG",
+        "runtime": "153 min",
+        "genre": "Drama, History, War",
+        "description": "A young English boy struggles to survive under Japanese occupation during World War II.",
+        "director": "Steven Spielberg",
+        "stars": [
+            "Christian Bale",
+            "John Malkovich",
+            "Miranda Richardson",
+            "Nigel Havers"
+        ],
+        "votes": "105,170",
+        "gross": "$22.24M"
+    },
+    "14": {
+        "name": "Hellraiser",
+        "certificate": "R",
+        "runtime": "94 min",
+        "genre": "Horror, Thriller",
+        "description": "An unfaithful wife encounters the zombie of her dead lover; the demonic cenobites are pursuing him after he escaped their sadomasochistic underworld.",
+        "director": "Clive Barker",
+        "stars": [
+            "Andrew Robinson",
+            "Clare Higgins",
+            "Ashley Laurence",
+            "Sean Chapman"
+        ],
+        "votes": "91,467",
+        "gross": "$14.56M"
+    },
+    "15": {
+        "name": "Overboard",
+        "certificate": "PG",
+        "runtime": "106 min",
+        "genre": "Comedy, Romance",
+        "description": "A cruel but beautiful heiress mocks and cheats a hired carpenter. When she gets amnesia after an accident, he decides to introduce her to regular life by convincing her they're husband and wife.",
+        "director": "Garry Marshall",
+        "stars": [
+            "Goldie Hawn",
+            "Kurt Russell",
+            "Edward Herrmann",
+            "Katherine Helmond"
+        ],
+        "votes": "47,023",
+        "gross": "$26.71M"
+    },
+    "16": {
+        "name": "Dragnet",
+        "certificate": "PG-13",
+        "runtime": "106 min",
+        "genre": "Comedy, Crime",
+        "description": "The equally-straight-laced and \"by the book\" nephew of Joe Friday must work with his more laid-back partner to solve a mystery.",
+        "director": "Tom Mankiewicz",
+        "stars": [
+            "Dan Aykroyd",
+            "Tom Hanks",
+            "Christopher Plummer",
+            "Harry Morgan"
+        ],
+        "votes": "29,266",
+        "gross": "$57.39M"
+    },
+    "17": {
+        "name": "Spaceballs",
+        "certificate": "PG",
+        "runtime": "96 min",
+        "genre": "Adventure, Comedy, Sci-Fi",
+        "description": "A rogue star pilot and his trusty sidekick must come to the rescue of a Princess and save the galaxy from a ruthless race of beings known as Spaceballs.",
+        "director": "Mel Brooks",
+        "stars": [
+            "Mel Brooks",
+            "John Candy",
+            "Rick Moranis",
+            "Bill Pullman"
+        ],
+        "votes": "157,535",
+        "gross": "$38.12M"
+    },
+    "18": {
+        "name": "Fatal Attraction",
+        "certificate": "R",
+        "runtime": "119 min",
+        "genre": "Drama, Thriller",
+        "description": "A married man's one-night stand comes back to haunt him when that lover begins to stalk him and his family.",
+        "director": "Adrian Lyne",
+        "stars": [
+            "Michael Douglas",
+            "Glenn Close",
+            "Anne Archer",
+            "Ellen Latzen"
+        ],
+        "votes": "66,721",
+        "gross": "$156.65M"
+    },
+    "19": {
+        "name": "Angel Heart",
+        "certificate": "R",
+        "runtime": "113 min",
+        "genre": "Horror, Mystery, Thriller",
+        "description": "A private investigator is hired by a man who calls himself Louis Cyphre to track down a singer named Johnny Favorite. But the investigation takes an unexpected and somber turn.",
+        "director": "Alan Parker",
+        "stars": [
+            "Mickey Rourke",
+            "Robert De Niro",
+            "Lisa Bonet",
+            "Charlotte Rampling"
+        ],
+        "votes": "72,484",
+        "gross": "$17.19M"
+    },
+    "20": {
+        "name": "Some Kind of Wonderful",
+        "certificate": "PG-13",
+        "runtime": "95 min",
+        "genre": "Drama, Romance",
+        "description": "When Keith goes out with Amanda, the girl of his dreams, Amanda's ex-boyfriend plans to get back at Keith. Meanwhile, Keith's best friend, tomboy Watts, realizes she has feelings for Keith.",
+        "director": "Howard Deutch",
+        "stars": [
+            "Eric Stoltz",
+            "Mary Stuart Masterson",
+            "Lea Thompson",
+            "Craig Sheffer"
+        ],
+        "votes": "24,251",
+        "gross": "$18.55M"
+    },
+    "21": {
+        "name": "Superman IV: The Quest for Peace",
+        "certificate": "PG",
+        "runtime": "90 min",
+        "genre": "Action, Adventure, Family",
+        "description": "The Man of Steel crusades for nuclear disarmament and meets Lex Luthor's latest creation, Nuclear Man.",
+        "director": "Sidney J. Furie",
+        "stars": [
+            "Christopher Reeve",
+            "Gene Hackman",
+            "Margot Kidder",
+            "Jackie Cooper"
+        ],
+        "votes": "39,146",
+        "gross": "$15.68M"
+    },
+    "22": {
+        "name": "No Way Out",
+        "certificate": "R",
+        "runtime": "114 min",
+        "genre": "Action, Crime, Drama",
+        "description": "A coverup and witchhunt occur after a politician accidentally kills his mistress.",
+        "director": "Roger Donaldson",
+        "stars": [
+            "Kevin Costner",
+            "Gene Hackman",
+            "Sean Young",
+            "Will Patton"
+        ],
+        "votes": "31,732",
+        "gross": "$35.51M"
+    },
+    "23": {
+        "name": "Wall Street",
+        "certificate": "R",
+        "runtime": "126 min",
+        "genre": "Crime, Drama",
+        "description": "A young and impatient stockbroker is willing to do anything to get to the top, including trading on illegal inside information taken through a ruthless and greedy corporate raider who takes the youth under his wing.",
+        "director": "Oliver Stone",
+        "stars": [
+            "Charlie Sheen",
+            "Michael Douglas",
+            "Tamara Tunie",
+            "Franklin Cover"
+        ],
+        "votes": "133,909",
+        "gross": "$43.85M"
+    },
+    "24": {
+        "name": "Beverly Hills Cop II",
+        "certificate": "R",
+        "runtime": "100 min",
+        "genre": "Action, Comedy, Crime",
+        "description": "Axel Foley returns to Beverly Hills to help Taggart and Rosewood investigate Chief Bogomil's near-fatal shooting and the series of \"alphabet crimes\" associated with it.",
+        "director": "Tony Scott",
+        "stars": [
+            "Eddie Murphy",
+            "Judge Reinhold",
+            "J\u00fcrgen Prochnow",
+            "Ronny Cox"
+        ],
+        "votes": "98,009",
+        "gross": "$153.67M"
+    },
+    "25": {
+        "name": "The Living Daylights",
+        "certificate": "PG",
+        "runtime": "130 min",
+        "genre": "Action, Adventure, Thriller",
+        "description": "James Bond is living on the edge to stop an evil arms dealer from starting another world war. Bond crosses all seven continents in order to stop the evil Whitaker and General Koskov.",
+        "director": "John Glen",
+        "stars": [
+            "Timothy Dalton",
+            "Maryam d'Abo",
+            "Jeroen Krabb\u00e9",
+            "Joe Don Baker"
+        ],
+        "votes": "80,232",
+        "gross": "$51.19M"
+    },
+    "26": {
+        "name": "Evil Dead II",
+        "certificate": "R",
+        "runtime": "84 min",
+        "genre": "Comedy, Horror",
+        "description": "The lone survivor of an onslaught of flesh-possessing spirits holes up in a cabin with a group of strangers while the demons continue their attack.",
+        "director": "Sam Raimi",
+        "stars": [
+            "Bruce Campbell",
+            "Sarah Berry",
+            "Dan Hicks",
+            "Kassie Wesley DePaiva"
+        ],
+        "votes": "134,438",
+        "gross": "$5.92M"
+    },
+    "27": {
+        "name": "*batteries not included",
+        "certificate": "PG",
+        "runtime": "106 min",
+        "genre": "Comedy, Family, Fantasy",
+        "description": "Apartment block tenants seek the aid of alien mechanical life-forms to save their building from demolition.",
+        "director": "Matthew Robbins",
+        "stars": [
+            "Hume Cronyn",
+            "Jessica Tandy",
+            "Frank McRae",
+            "Elizabeth Pe\u00f1a"
+        ],
+        "votes": "28,187",
+        "gross": "$32.95M"
+    },
+    "28": {
+        "name": "A Nightmare on Elm Street 3: Dream Warriors",
+        "certificate": "R",
+        "runtime": "96 min",
+        "genre": "Fantasy, Horror",
+        "description": "A psychiatrist familiar with knife-wielding dream demon Freddy Krueger helps teens at a mental hospital battle the killer who is invading their dreams.",
+        "director": "Chuck Russell",
+        "stars": [
+            "Heather Langenkamp",
+            "Robert Englund",
+            "Craig Wasson",
+            "Patricia Arquette"
+        ],
+        "votes": "62,355",
+        "gross": "$44.79M"
+    },
+    "29": {
+        "name": "Adventures in Babysitting",
+        "certificate": "PG-13",
+        "runtime": "102 min",
+        "genre": "Adventure, Comedy, Crime",
+        "description": "A babysitter must battle her way through the big city after being stranded there with the kids she's looking after.",
+        "director": "Chris Columbus",
+        "stars": [
+            "Elisabeth Shue",
+            "Maia Brewton",
+            "Keith Coogan",
+            "Anthony Rapp"
+        ],
+        "votes": "33,574",
+        "gross": "$34.37M"
+    },
+    "30": {
+        "name": "Mannequin",
+        "certificate": "PG",
+        "runtime": "90 min",
+        "genre": "Comedy, Fantasy, Romance",
+        "description": "A young artist, searching for his vocation, makes a mannequin so perfect he falls in love with it. Finding the mannequin in a store window, he gets a job there and his creation comes to life.",
+        "director": "Michael Gottlieb",
+        "stars": [
+            "Andrew McCarthy",
+            "Kim Cattrall",
+            "Estelle Getty",
+            "James Spader"
+        ],
+        "votes": "26,419",
+        "gross": "$42.72M"
+    },
+    "31": {
+        "name": "Moonstruck",
+        "certificate": "PG",
+        "runtime": "102 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Loretta Castorini, a bookkeeper from Brooklyn, New York, finds herself in a difficult situation when she falls for the brother of the man she has agreed to marry.",
+        "director": "Norman Jewison",
+        "stars": [
+            "Cher",
+            "Nicolas Cage",
+            "Olympia Dukakis",
+            "Danny Aiello"
+        ],
+        "votes": "43,376",
+        "gross": "$80.64M"
+    },
+    "32": {
+        "name": "The Last Emperor",
+        "certificate": "PG-13",
+        "runtime": "163 min",
+        "genre": "Biography, Drama, History",
+        "description": "The story of the final Emperor of China.",
+        "director": "Bernardo Bertolucci",
+        "stars": [
+            "John Lone",
+            "Joan Chen",
+            "Peter O'Toole",
+            "Ruocheng Ying"
+        ],
+        "votes": "84,490",
+        "gross": "$43.98M"
+    },
+    "33": {
+        "name": "Raising Arizona",
+        "certificate": "PG-13",
+        "runtime": "94 min",
+        "genre": "Comedy, Crime",
+        "description": "When a childless couple of an ex-con and an ex-cop decide to help themselves to one of another family's quintuplets, their lives become more complicated than they anticipated.",
+        "director": "Joel Coen",
+        "stars": [
+            "Ethan Coen",
+            "Nicolas Cage",
+            "Holly Hunter",
+            "Trey Wilson",
+            "John Goodman"
+        ],
+        "votes": "115,819",
+        "gross": "$22.85M"
+    },
+    "34": {
+        "name": "Good Morning, Vietnam",
+        "certificate": "R",
+        "runtime": "121 min",
+        "genre": "Biography, Comedy, Drama",
+        "description": "In 1965, an unorthodox and irreverent DJ named Adrian Cronauer begins to shake up things when he is assigned to the U.S. Armed Services radio station in Vietnam.",
+        "director": "Barry Levinson",
+        "stars": [
+            "Robin Williams",
+            "Forest Whitaker",
+            "Tung Thanh Tran",
+            "Chintara Sukapatana"
+        ],
+        "votes": "115,647",
+        "gross": "$123.92M"
+    },
+    "35": {
+        "name": "Wings of Desire",
+        "certificate": "PG-13",
+        "runtime": "128 min",
+        "genre": "Drama, Fantasy, Romance",
+        "description": "An angel tires of overseeing human activity and wishes to become human when he falls in love with a mortal.",
+        "director": "Wim Wenders",
+        "stars": [
+            "Bruno Ganz",
+            "Solveig Dommartin",
+            "Otto Sander",
+            "Curt Bois"
+        ],
+        "votes": "57,320",
+        "gross": "$3.21M"
+    },
+    "36": {
+        "name": "Harry and the Hendersons",
+        "certificate": "PG",
+        "runtime": "110 min",
+        "genre": "Comedy, Family, Fantasy",
+        "description": "The Henderson family adopt a friendly Sasquatch but have a hard time trying to keep the legend of 'Bigfoot' a secret.",
+        "director": "William Dear",
+        "stars": [
+            "John Lithgow",
+            "Melinda Dillon",
+            "Margaret Langrick",
+            "Joshua Rudoy"
+        ],
+        "votes": "28,385",
+        "gross": "$29.76M"
+    },
+    "37": {
+        "name": "Planes, Trains & Automobiles",
+        "certificate": "R",
+        "runtime": "93 min",
+        "genre": "Comedy",
+        "description": "A man must struggle to travel home for Thanksgiving with an obnoxious slob of a shower curtain ring salesman as his only companion.",
+        "director": "John Hughes",
+        "stars": [
+            "Steve Martin",
+            "John Candy",
+            "Laila Robins",
+            "Michael McKean"
+        ],
+        "votes": "109,215",
+        "gross": "$49.53M"
+    },
+    "38": {
+        "name": "Innerspace",
+        "certificate": "PG",
+        "runtime": "120 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "A hapless store clerk must foil criminals to save the life of the man who, miniaturized in a secret experiment, was accidentally injected into him.",
+        "director": "Joe Dante",
+        "stars": [
+            "Dennis Quaid",
+            "Martin Short",
+            "Meg Ryan",
+            "Kevin McCarthy"
+        ],
+        "votes": "49,440",
+        "gross": "$25.89M"
+    },
+    "39": {
+        "name": "Creepshow 2",
+        "certificate": "R",
+        "runtime": "92 min",
+        "genre": "Comedy, Fantasy, Horror",
+        "description": "Three more bone-chilling tales that include a vengeful wooden Native American, a monstrous blob in a lake, and a hitchhiker who wants revenge and will not die.",
+        "director": "Michael Gornick",
+        "stars": [
+            "George Kennedy",
+            "Lois Chiles",
+            "Domenick John",
+            "Tom Savini"
+        ],
+        "votes": "19,330",
+        "gross": "$14.00M"
+    },
+    "40": {
+        "name": "Near Dark",
+        "certificate": "R",
+        "runtime": "94 min",
+        "genre": "Action, Crime, Drama",
+        "description": "A small-town farmer's son reluctantly joins a traveling group of vampires after he is bitten by a beautiful drifter.",
+        "director": "Kathryn Bigelow",
+        "stars": [
+            "Adrian Pasdar",
+            "Jenny Wright",
+            "Lance Henriksen",
+            "Bill Paxton"
+        ],
+        "votes": "29,772",
+        "gross": "$3.37M"
+    },
+    "41": {
+        "name": "The Witches of Eastwick",
+        "certificate": "R",
+        "runtime": "118 min",
+        "genre": "Comedy, Fantasy, Horror",
+        "description": "Three single women in a picturesque village have their wishes granted, at a cost, when a mysterious and flamboyant man arrives in their lives.",
+        "director": "George Miller",
+        "stars": [
+            "Jack Nicholson",
+            "Cher",
+            "Susan Sarandon",
+            "Michelle Pfeiffer"
+        ],
+        "votes": "55,999",
+        "gross": "$63.77M"
+    },
+    "42": {
+        "name": "Over the Top",
+        "certificate": "PG",
+        "runtime": "93 min",
+        "genre": "Action, Drama, Sport",
+        "description": "Tough trucker Lincoln Hawk is determined to win back his son and triumph at the world arm wrestling championships.",
+        "director": "Menahem Golan",
+        "stars": [
+            "Sylvester Stallone",
+            "Robert Loggia",
+            "Susan Blakely",
+            "Rick Zumwalt"
+        ],
+        "votes": "45,363",
+        "gross": "$16.06M"
+    },
+    "43": {
+        "name": "Stakeout",
+        "certificate": "R",
+        "runtime": "117 min",
+        "genre": "Action, Comedy, Crime",
+        "description": "Two detectives observe an escaped convict's ex-girlfriend, but complications set in when one of them falls for her.",
+        "director": "John Badham",
+        "stars": [
+            "Richard Dreyfuss",
+            "Emilio Estevez",
+            "Madeleine Stowe",
+            "Aidan Quinn"
+        ],
+        "votes": "21,441",
+        "gross": "$65.67M"
+    },
+    "44": {
+        "name": "Jaws: The Revenge",
+        "certificate": "PG-13",
+        "runtime": "89 min",
+        "genre": "Adventure, Horror, Thriller",
+        "description": "Chief Brody's widow believes that her family is deliberately being targeted by another shark in search of revenge.",
+        "director": "Joseph Sargent",
+        "stars": [
+            "Lorraine Gary",
+            "Lance Guest",
+            "Mario Van Peebles",
+            "Karen Young"
+        ],
+        "votes": "36,874",
+        "gross": "$20.76M"
+    },
+    "45": {
+        "name": "Prince of Darkness",
+        "certificate": "R",
+        "runtime": "102 min",
+        "genre": "Horror",
+        "description": "A research team finds a mysterious cylinder in a deserted church. If opened, it could mean the end of the world.",
+        "director": "John Carpenter",
+        "stars": [
+            "Donald Pleasence",
+            "Lisa Blount",
+            "Jameson Parker",
+            "Victor Wong"
+        ],
+        "votes": "31,994",
+        "gross": "$14.18M"
+    },
+    "46": {
+        "name": "Teen Wolf Too",
+        "certificate": "PG",
+        "runtime": "95 min",
+        "genre": "Comedy, Fantasy",
+        "description": "Todd Howard is a struggling teenager. Nothing seems to be going very well for him, until he turns into a wolf.",
+        "director": "Christopher Leitch",
+        "stars": [
+            "Jason Bateman",
+            "Kim Darby",
+            "John Astin",
+            "Paul Sand"
+        ],
+        "votes": "9,515",
+        "gross": "$7.89M"
+    },
+    "47": {
+        "name": "Summer School",
+        "certificate": "PG-13",
+        "runtime": "97 min",
+        "genre": "Comedy, Romance",
+        "description": "Freddy the gym teacher has to teach remedial English in summer (high) school, if he wants tenure. As he can only teach gym and his students want fun, emphasis is on \"field trips\" - until he's fired unless all his students pass the test.",
+        "director": "Carl Reiner",
+        "stars": [
+            "Mark Harmon",
+            "Kirstie Alley",
+            "Robin Thomas",
+            "Patrick Labyorteaux"
+        ],
+        "votes": "15,309",
+        "gross": "$35.66M"
+    },
+    "48": {
+        "name": "3 Men and a Baby",
+        "certificate": "PG",
+        "runtime": "102 min",
+        "genre": "Comedy, Drama, Family",
+        "description": "Three bachelors find themselves forced to take care of a baby left by one of the guys' girlfriends.",
+        "director": "Leonard Nimoy",
+        "stars": [
+            "Tom Selleck",
+            "Steve Guttenberg",
+            "Ted Danson",
+            "Nancy Travis"
+        ],
+        "votes": "42,815",
+        "gross": "$167.78M"
+    },
+    "49": {
+        "name": "Less Than Zero",
+        "certificate": "R",
+        "runtime": "98 min",
+        "genre": "Crime, Drama",
+        "description": "A college freshman returns to L.A. for the holidays at his ex-girlfriend's request, but discovers that his former best friend has an out-of-control drug habit.",
+        "director": "Marek Kanievska",
+        "stars": [
+            "Andrew McCarthy",
+            "Jami Gertz",
+            "Robert Downey Jr.",
+            "James Spader"
+        ],
+        "votes": "16,734",
+        "gross": "$12.40M"
+    },
+    "50": {
+        "name": "Police Academy 4: Citizens on Patrol",
+        "certificate": "PG",
+        "runtime": "88 min",
+        "genre": "Comedy, Crime",
+        "description": "The misfit Police Academy (1984) graduates now are assigned to train a group of civilian volunteers to fight crime once again plaguing the streets.",
+        "director": "Jim Drake",
+        "stars": [
+            "Steve Guttenberg",
+            "Bubba Smith",
+            "Michael Winslow",
+            "David Graf"
+        ],
+        "votes": "36,901",
+        "gross": "$28.06M"
+    }
+}

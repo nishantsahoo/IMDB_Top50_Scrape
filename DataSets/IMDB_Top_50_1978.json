@@ -1,0 +1,807 @@
+{
+    "1": {
+        "name": "Superman",
+        "certificate": "PG",
+        "runtime": "143 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "An alien orphan is sent from his dying planet to Earth, where he grows up to become his adoptive home's first and greatest superhero.",
+        "director": "Richard Donner",
+        "stars": [
+            "Christopher Reeve",
+            "Margot Kidder",
+            "Gene Hackman",
+            "Marlon Brando"
+        ],
+        "votes": "146,897",
+        "gross": "$134.22M"
+    },
+    "2": {
+        "name": "Grease",
+        "certificate": "PG-13",
+        "runtime": "110 min",
+        "genre": "Musical, Romance",
+        "description": "Good girl Sandy and greaser Danny fell in love over the summer. When they unexpectedly discover they're now in the same high school, will they be able to rekindle their romance?",
+        "director": "Randal Kleiser",
+        "stars": [
+            "John Travolta",
+            "Olivia Newton-John",
+            "Stockard Channing",
+            "Jeff Conaway"
+        ],
+        "votes": "208,389",
+        "gross": "$188.76M"
+    },
+    "3": {
+        "name": "Animal House",
+        "certificate": "R",
+        "runtime": "109 min",
+        "genre": "Comedy",
+        "description": "At a 1962 college, Dean Vernon Wormer is determined to expel the entire Delta Tau Chi Fraternity, but those troublemakers have other plans for him.",
+        "director": "John Landis",
+        "stars": [
+            "John Belushi",
+            "Karen Allen",
+            "Tom Hulce",
+            "Stephen Furst"
+        ],
+        "votes": "104,493",
+        "gross": "$0.20M"
+    },
+    "4": {
+        "name": "Halloween",
+        "certificate": "R",
+        "runtime": "91 min",
+        "genre": "Horror, Thriller",
+        "description": "Fifteen years after murdering his sister on Halloween night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.",
+        "director": "John Carpenter",
+        "stars": [
+            "Donald Pleasence",
+            "Jamie Lee Curtis",
+            "Tony Moran",
+            "Nancy Kyes"
+        ],
+        "votes": "203,703",
+        "gross": "$47.00M"
+    },
+    "5": {
+        "name": "The Deer Hunter",
+        "certificate": "R",
+        "runtime": "183 min",
+        "genre": "Drama, War",
+        "description": "An in-depth examination of the ways in which the U.S. Vietnam War impacts and disrupts the lives of people in a small industrial town in Pennsylvania.",
+        "director": "Michael Cimino",
+        "stars": [
+            "Robert De Niro",
+            "Christopher Walken",
+            "John Cazale",
+            "John Savage"
+        ],
+        "votes": "282,282",
+        "gross": "$48.98M"
+    },
+    "6": {
+        "name": "Pretty Baby",
+        "certificate": "R",
+        "runtime": "110 min",
+        "genre": "Drama",
+        "description": "A teenage girl lives as a prostitute in New Orleans in 1917.",
+        "director": "Louis Malle",
+        "stars": [
+            "Brooke Shields",
+            "Keith Carradine",
+            "Susan Sarandon",
+            "Frances Faye"
+        ],
+        "votes": "8,811",
+        "gross": "$5.79M"
+    },
+    "7": {
+        "name": "Jaws 2",
+        "certificate": "PG",
+        "runtime": "116 min",
+        "genre": "Adventure, Drama, Horror",
+        "description": "Police chief Brody must protect the citizens of Amity after a second monstrous shark begins terrorizing the waters.",
+        "director": "Jeannot Szwarc",
+        "stars": [
+            "Roy Scheider",
+            "Lorraine Gary",
+            "Murray Hamilton",
+            "Joseph Mascolo"
+        ],
+        "votes": "63,445",
+        "gross": "$102.92M"
+    },
+    "8": {
+        "name": "Midnight Express",
+        "certificate": "R",
+        "runtime": "121 min",
+        "genre": "Biography, Crime, Drama",
+        "description": "Billy Hayes, an American college student, is caught smuggling drugs out of Turkey and thrown into prison.",
+        "director": "Alan Parker",
+        "stars": [
+            "Brad Davis",
+            "Irene Miracle",
+            "Bo Hopkins",
+            "Paolo Bonacelli"
+        ],
+        "votes": "65,037",
+        "gross": "$35.00M"
+    },
+    "9": {
+        "name": "I Spit on Your Grave",
+        "certificate": "R",
+        "runtime": "101 min",
+        "genre": "Horror, Thriller",
+        "description": "An aspiring writer is repeatedly gang-raped, humiliated, and left for dead by four men whom she systematically hunts down to seek revenge.",
+        "director": "Meir Zarchi",
+        "stars": [
+            "Camille Keaton",
+            "Eron Tabor",
+            "Richard Pace",
+            "Anthony Nichols"
+        ],
+        "votes": "23,581",
+        "gross": ""
+    },
+    "10": {
+        "name": "Up in Smoke",
+        "certificate": "R",
+        "runtime": "86 min",
+        "genre": "Comedy, Music",
+        "description": "Two stoners unknowingly smuggle a van - made entirely of marijuana - from Mexico to L.A., with incompetent Sgt. Stedenko on their trail.",
+        "director": "Lou Adler",
+        "stars": [
+            "Tommy Chong",
+            "Cheech Marin",
+            "Tommy Chong",
+            "Strother Martin",
+            "Edie Adams"
+        ],
+        "votes": "33,167",
+        "gross": "$44.36M"
+    },
+    "11": {
+        "name": "The Lord of the Rings",
+        "certificate": "PG",
+        "runtime": "132 min",
+        "genre": "Animation, Adventure, Fantasy",
+        "description": "The Fellowship of the Ring embark on a journey to destroy the One Ring and end Sauron's reign over Middle-earth.",
+        "director": "Ralph Bakshi",
+        "stars": [
+            "Christopher Guard",
+            "William Squire",
+            "Michael Scholes",
+            "John Hurt"
+        ],
+        "votes": "27,442",
+        "gross": "$0.92M"
+    },
+    "12": {
+        "name": "Dawn of the Dead",
+        "certificate": "Unrated",
+        "runtime": "127 min",
+        "genre": "Horror, Thriller",
+        "description": "Following an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia S.W.A.T. team members, a traffic reporter, and his television executive girlfriend seek refuge in a secluded shopping mall.",
+        "director": "George A. Romero",
+        "stars": [
+            "David Emge",
+            "Ken Foree",
+            "Scott H. Reiniger",
+            "Gaylen Ross"
+        ],
+        "votes": "102,820",
+        "gross": "$5.10M"
+    },
+    "13": {
+        "name": "Invasion of the Body Snatchers",
+        "certificate": "PG",
+        "runtime": "115 min",
+        "genre": "Horror, Sci-Fi",
+        "description": "When seeds drift to earth from space, mysterious pods begin to grow and invade a small town, replicating the residents one body at a time.",
+        "director": "Philip Kaufman",
+        "stars": [
+            "Donald Sutherland",
+            "Brooke Adams",
+            "Jeff Goldblum",
+            "Veronica Cartwright"
+        ],
+        "votes": "45,905",
+        "gross": "$24.95M"
+    },
+    "14": {
+        "name": "The Wiz",
+        "certificate": "G",
+        "runtime": "134 min",
+        "genre": "Adventure, Family, Fantasy",
+        "description": "An adaptation of \"The Wizard of Oz\" that tries to capture the essence of the African-American experience.",
+        "director": "Sidney Lumet",
+        "stars": [
+            "Diana Ross",
+            "Michael Jackson",
+            "Nipsey Russell",
+            "Ted Ross"
+        ],
+        "votes": "12,569",
+        "gross": "$21.05M"
+    },
+    "15": {
+        "name": "Days of Heaven",
+        "certificate": "PG",
+        "runtime": "94 min",
+        "genre": "Drama, Romance",
+        "description": "A hot-tempered farm laborer convinces the woman he loves to marry their rich but dying boss so that they can have a claim to his fortune.",
+        "director": "Terrence Malick",
+        "stars": [
+            "Richard Gere",
+            "Brooke Adams",
+            "Sam Shepard",
+            "Linda Manz"
+        ],
+        "votes": "45,363",
+        "gross": ""
+    },
+    "16": {
+        "name": "Every Which Way but Loose",
+        "certificate": "PG",
+        "runtime": "114 min",
+        "genre": "Action, Comedy",
+        "description": "The San Fernando Valley adventures of trucker turned prize-fighter Philo Beddoe and his pet orangutan Clyde.",
+        "director": "James Fargo",
+        "stars": [
+            "Clint Eastwood",
+            "Sondra Locke",
+            "Geoffrey Lewis",
+            "Beverly D'Angelo"
+        ],
+        "votes": "21,003",
+        "gross": "$106.00M"
+    },
+    "17": {
+        "name": "Game of Death",
+        "certificate": "R",
+        "runtime": "100 min",
+        "genre": "Action, Crime, Drama",
+        "description": "A martial arts movie star must fake his death to find the people who are trying to kill him.",
+        "director": "Robert Clouse",
+        "stars": [
+            "Bruce Lee",
+            "Bruce Lee",
+            "Gig Young",
+            "Dean Jagger",
+            "Hugh O'Brian"
+        ],
+        "votes": "14,978",
+        "gross": "$10.00M"
+    },
+    "18": {
+        "name": "Starcrash",
+        "certificate": "PG",
+        "runtime": "92 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "An outlaw smuggler and her alien companion are recruited by the Emperor of the Galaxy to rescue his son and destroy a secret weapon by the evil Count Zarth Arn.",
+        "director": "Luigi Cozzi",
+        "stars": [
+            "Marjoe Gortner",
+            "Caroline Munro",
+            "Christopher Plummer",
+            "David Hasselhoff"
+        ],
+        "votes": "5,297",
+        "gross": ""
+    },
+    "19": {
+        "name": "Watership Down",
+        "certificate": "PG",
+        "runtime": "91 min",
+        "genre": "Animation, Adventure, Drama",
+        "description": "A group of rabbits flee their doomed warren and face many dangers to find and protect their new home.",
+        "director": "Martin Rosen",
+        "stars": [
+            "John Hurt",
+            "Richard Briers",
+            "Ralph Richardson",
+            "Michael Graham Cox"
+        ],
+        "votes": "30,546",
+        "gross": ""
+    },
+    "20": {
+        "name": "Convoy",
+        "certificate": "PG",
+        "runtime": "110 min",
+        "genre": "Action, Drama",
+        "description": "Truckers form a mile long \"convoy\" in support of a trucker's vendetta with an abusive sheriff...Based on the country song of same title by C.W. McCall.",
+        "director": "Sam Peckinpah",
+        "stars": [
+            "Kris Kristofferson",
+            "Ali MacGraw",
+            "Ernest Borgnine",
+            "Burt Young"
+        ],
+        "votes": "13,551",
+        "gross": "$45.00M"
+    },
+    "21": {
+        "name": "The Driver",
+        "certificate": "R",
+        "runtime": "91 min",
+        "genre": "Action, Crime, Thriller",
+        "description": "A getaway driver becomes the latest assignment for a tenacious detective.",
+        "director": "Walter Hill",
+        "stars": [
+            "Ryan O'Neal",
+            "Bruce Dern",
+            "Isabelle Adjani",
+            "Ronee Blakley"
+        ],
+        "votes": "12,311",
+        "gross": "$4.91M"
+    },
+    "22": {
+        "name": "Death on the Nile",
+        "certificate": "PG",
+        "runtime": "140 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "As Hercule Poirot (Sir Peter Ustinov) enjoys a luxurious cruise down the Nile, a newlywed heiress is found murdered on board. Can Poirot identify the killer before the ship reaches the end of its journey?",
+        "director": "John Guillermin",
+        "stars": [
+            "Peter Ustinov",
+            "Mia Farrow",
+            "Simon MacCorkindale",
+            "Jane Birkin"
+        ],
+        "votes": "24,636",
+        "gross": ""
+    },
+    "23": {
+        "name": "The Boys from Brazil",
+        "certificate": "R",
+        "runtime": "125 min",
+        "genre": "Drama, Thriller",
+        "description": "A Nazi hunter in Paraguay discovers a sinister and bizarre plot to rekindle the Third Reich.",
+        "director": "Franklin J. Schaffner",
+        "stars": [
+            "Gregory Peck",
+            "Laurence Olivier",
+            "James Mason",
+            "Lilli Palmer"
+        ],
+        "votes": "23,401",
+        "gross": "$19.00M"
+    },
+    "24": {
+        "name": "Heaven Can Wait",
+        "certificate": "PG",
+        "runtime": "101 min",
+        "genre": "Comedy, Fantasy, Romance",
+        "description": "A Los Angeles Rams quarterback, accidentally taken away from his body by an overanxious angel before he was meant to die, returns to life in the body of a recently murdered millionaire.",
+        "director": "Warren Beatty",
+        "stars": [
+            "Buck Henry",
+            "Warren Beatty",
+            "James Mason",
+            "Julie Christie",
+            "Jack Warden"
+        ],
+        "votes": "16,785",
+        "gross": "$81.64M"
+    },
+    "25": {
+        "name": "Drunken Master",
+        "certificate": "PG-13",
+        "runtime": "111 min",
+        "genre": "Action, Comedy",
+        "description": "Wong Fei-Hung (Jackie Chan) is a mischievous, yet righteous young man, but after a series of incidents, his frustrated father has him disciplined by Beggar So (Siu Tin Yuen), a Master of drunken martial arts.",
+        "director": "Woo-Ping Yuen",
+        "stars": [
+            "Jackie Chan",
+            "Siu Tin Yuen",
+            "Jung-Lee Hwang",
+            "Dean Shek"
+        ],
+        "votes": "31,811",
+        "gross": ""
+    },
+    "26": {
+        "name": "The Wild Geese",
+        "certificate": "R",
+        "runtime": "134 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "A British banker hires a group of British mercenaries to rescue a deposed African President from the hands of a corrupt African dictator.",
+        "director": "Andrew V. McLaglen",
+        "stars": [
+            "Richard Burton",
+            "Roger Moore",
+            "Richard Harris",
+            "Hardy Kr\u00fcger"
+        ],
+        "votes": "10,688",
+        "gross": ""
+    },
+    "27": {
+        "name": "Revenge of the Pink Panther",
+        "certificate": "PG",
+        "runtime": "99 min",
+        "genre": "Comedy, Crime, Mystery",
+        "description": "To prove that he still is strong and powerful, Philippe Douvier decides to kill Clouseau. Once news of his \"death\" has been announced, Clouseau tries to take advantage of it and goes undercover with Cato to find out who tried to kill him.",
+        "director": "Blake Edwards",
+        "stars": [
+            "Peter Sellers",
+            "Herbert Lom",
+            "Burt Kwouk",
+            "Dyan Cannon"
+        ],
+        "votes": "18,344",
+        "gross": ""
+    },
+    "28": {
+        "name": "Force 10 from Navarone",
+        "certificate": "PG",
+        "runtime": "118 min",
+        "genre": "Action, Drama, War",
+        "description": "During World War II, several oddly assorted military experts are teamed in a mission to raid and destroy a bridge vital to enemy strategy.",
+        "director": "Guy Hamilton",
+        "stars": [
+            "Harrison Ford",
+            "Robert Shaw",
+            "Edward Fox",
+            "Franco Nero"
+        ],
+        "votes": "15,269",
+        "gross": ""
+    },
+    "29": {
+        "name": "Coming Home",
+        "certificate": "R",
+        "runtime": "127 min",
+        "genre": "Drama, Romance, War",
+        "description": "A woman whose husband is fighting in Viet Nam falls in love with another man who suffered a paralyzing combat injury there.",
+        "director": "Hal Ashby",
+        "stars": [
+            "Jane Fonda",
+            "Jon Voight",
+            "Bruce Dern",
+            "Penelope Milford"
+        ],
+        "votes": "11,139",
+        "gross": "$32.65M"
+    },
+    "30": {
+        "name": "Piranha",
+        "certificate": "R",
+        "runtime": "94 min",
+        "genre": "Comedy, Horror, Sci-Fi",
+        "description": "When flesh-eating piranhas are accidentally released into a summer resort's rivers, the guests become their next meal.",
+        "director": "Joe Dante",
+        "stars": [
+            "Bradford Dillman",
+            "Heather Menzies-Urich",
+            "Kevin McCarthy",
+            "Keenan Wynn"
+        ],
+        "votes": "16,891",
+        "gross": "$6.00M"
+    },
+    "31": {
+        "name": "Coma",
+        "certificate": "PG",
+        "runtime": "113 min",
+        "genre": "Drama, Horror, Mystery",
+        "description": "When a young female doctor notices an unnatural amount of comas occurring in her hospital she uncovers a horrible conspiracy.",
+        "director": "Michael Crichton",
+        "stars": [
+            "Michael Douglas",
+            "Rip Torn",
+            "Genevi\u00e8ve Bujold",
+            "Elizabeth Ashley"
+        ],
+        "votes": "15,632",
+        "gross": ""
+    },
+    "32": {
+        "name": "Quel maledetto treno blindato",
+        "certificate": "R",
+        "runtime": "99 min",
+        "genre": "Action, Adventure, War",
+        "description": "In 1944 France, a group of escaped American military prisoners en route to Switzerland volunteers to steal a Nazi V2 rocket warhead for the Allies.",
+        "director": "Enzo G. Castellari",
+        "stars": [
+            "Bo Svenson",
+            "Peter Hooten",
+            "Fred Williamson",
+            "Michael Pergolani"
+        ],
+        "votes": "8,247",
+        "gross": ""
+    },
+    "33": {
+        "name": "I Wanna Hold Your Hand",
+        "certificate": "PG",
+        "runtime": "104 min",
+        "genre": "Comedy, Music, Romance",
+        "description": "In 1964, six teenagers from New Jersey run off to see The Beatles perform on The Ed Sullivan Show (1948) in the hope of meeting their idols. However, they don't have tickets. Along the way, they learn new things about friendship and growing up.",
+        "director": "Robert Zemeckis",
+        "stars": [
+            "Nancy Allen",
+            "Bobby Di Cicco",
+            "Marc McClure",
+            "Susan Kendall Newman"
+        ],
+        "votes": "3,791",
+        "gross": ""
+    },
+    "34": {
+        "name": "The Fury",
+        "certificate": "R",
+        "runtime": "118 min",
+        "genre": "Horror, Sci-Fi",
+        "description": "A former CIA agent uses the talents of a young psychic to help retrieve his telekinetic son from terrorists, who want to use his mental powers for evil.",
+        "director": "Brian De Palma",
+        "stars": [
+            "Kirk Douglas",
+            "John Cassavetes",
+            "Carrie Snodgress",
+            "Charles Durning"
+        ],
+        "votes": "11,998",
+        "gross": ""
+    },
+    "35": {
+        "name": "Damien: Omen II",
+        "certificate": "R",
+        "runtime": "107 min",
+        "genre": "Horror",
+        "description": "Damien the Antichrist, now thirteen years old, finally learns of his destiny under the guidance of an unholy disciple of Satan. Meanwhile dark forces begin to eliminate all those who suspect the child's true identity.",
+        "director": "Don Taylor",
+        "stars": [
+            "Mike Hodges",
+            "William Holden",
+            "Lee Grant",
+            "Jonathan Scott-Taylor",
+            "Robert Foxworth"
+        ],
+        "votes": "26,450",
+        "gross": "$3.88M"
+    },
+    "36": {
+        "name": "Corvette Summer",
+        "certificate": "PG",
+        "runtime": "105 min",
+        "genre": "Adventure, Comedy",
+        "description": "A high school grad and a hooker-in-training try to track down his stolen Corvette.",
+        "director": "Matthew Robbins",
+        "stars": [
+            "Mark Hamill",
+            "Annie Potts",
+            "Eugene Roche",
+            "William Bryant"
+        ],
+        "votes": "2,447",
+        "gross": "$15.50M"
+    },
+    "37": {
+        "name": "Autumn Sonata",
+        "certificate": "PG",
+        "runtime": "99 min",
+        "genre": "Drama, Music",
+        "description": "A married daughter who longs for her mother's love is visited by the latter, a successful concert pianist.",
+        "director": "Ingmar Bergman",
+        "stars": [
+            "Ingrid Bergman",
+            "Liv Ullmann",
+            "Lena Nyman",
+            "Halvar Bj\u00f6rk"
+        ],
+        "votes": "20,749",
+        "gross": ""
+    },
+    "38": {
+        "name": "Goin' South",
+        "certificate": "PG",
+        "runtime": "105 min",
+        "genre": "Comedy, Crime, Romance",
+        "description": "Due to the lack of men after the Civil War, a small western town allows a bachelorette with ulterior motives to save a horse thief from the gallows by marrying him. They must deal with his old gang, the Sheriff, the bank, and each other.",
+        "director": "Jack Nicholson",
+        "stars": [
+            "Jack Nicholson",
+            "Mary Steenburgen",
+            "Christopher Lloyd",
+            "John Belushi"
+        ],
+        "votes": "5,583",
+        "gross": ""
+    },
+    "39": {
+        "name": "The Buddy Holly Story",
+        "certificate": "PG",
+        "runtime": "114 min",
+        "genre": "Biography, Drama, Music",
+        "description": "The story of the life and career of the early rock and roll singer, from his meteoric rise to stardom, to his marriage and untimely death.",
+        "director": "Steve Rash",
+        "stars": [
+            "Gary Busey",
+            "Don Stroud",
+            "Charles Martin Smith",
+            "Conrad Janis"
+        ],
+        "votes": "7,458",
+        "gross": "$14.36M"
+    },
+    "40": {
+        "name": "Eyes of Laura Mars",
+        "certificate": "R",
+        "runtime": "104 min",
+        "genre": "Mystery, Thriller",
+        "description": "A famous fashion photographer develops a disturbing ability to see through the eyes of a killer.",
+        "director": "Irvin Kershner",
+        "stars": [
+            "Faye Dunaway",
+            "Tommy Lee Jones",
+            "Brad Dourif",
+            "Rene Auberjonois"
+        ],
+        "votes": "7,623",
+        "gross": "$20.00M"
+    },
+    "41": {
+        "name": "La montagna del dio cannibale",
+        "certificate": "",
+        "runtime": "99 min",
+        "genre": "Adventure, Horror",
+        "description": "A girl and her brother fly to New Guinea to look for a lost expedition, led by her husband, which has vanished in the great jungle.",
+        "director": "Sergio Martino",
+        "stars": [
+            "Ursula Andress",
+            "Stacy Keach",
+            "Claudio Cassinelli",
+            "Antonio Marsina"
+        ],
+        "votes": "3,357",
+        "gross": ""
+    },
+    "42": {
+        "name": "Foul Play",
+        "certificate": "PG",
+        "runtime": "116 min",
+        "genre": "Comedy, Mystery, Thriller",
+        "description": "A shy San Francisco librarian and a bumbling cop fall in love as they solve a crime involving albinos, dwarves, and the Catholic Church.",
+        "director": "Colin Higgins",
+        "stars": [
+            "Goldie Hawn",
+            "Chevy Chase",
+            "Burgess Meredith",
+            "Rachel Roberts"
+        ],
+        "votes": "12,353",
+        "gross": "$45.00M"
+    },
+    "43": {
+        "name": "Sgt. Pepper's Lonely Hearts Club Band",
+        "certificate": "PG",
+        "runtime": "113 min",
+        "genre": "Adventure, Comedy, Fantasy",
+        "description": "Small town band hits it big, but they must battle a nefarious plot in the music industry.",
+        "director": "Michael Schultz",
+        "stars": [
+            "Peter Frampton",
+            "Barry Gibb",
+            "Robin Gibb",
+            "Maurice Gibb"
+        ],
+        "votes": "5,525",
+        "gross": "$20.38M"
+    },
+    "44": {
+        "name": "Attack of the Killer Tomatoes!",
+        "certificate": "PG",
+        "runtime": "83 min",
+        "genre": "Adventure, Comedy, Horror",
+        "description": "A group of scientists band together to save the world from mutated killer tomatoes.",
+        "director": "John De Bello",
+        "stars": [
+            "David Miller",
+            "George Wilson",
+            "Sharon Taylor",
+            "J. Stephen Peace"
+        ],
+        "votes": "11,349",
+        "gross": ""
+    },
+    "45": {
+        "name": "The Great Train Robbery",
+        "certificate": "PG",
+        "runtime": "110 min",
+        "genre": "Adventure, Crime, Drama",
+        "description": "In Victorian England, a master criminal makes elaborate plans to steal a shipment of gold from a moving train.",
+        "director": "Michael Crichton",
+        "stars": [
+            "Sean Connery",
+            "Donald Sutherland",
+            "Lesley-Anne Down",
+            "Alan Webb"
+        ],
+        "votes": "14,282",
+        "gross": "$13.03M"
+    },
+    "46": {
+        "name": "Hooper",
+        "certificate": "PG",
+        "runtime": "99 min",
+        "genre": "Action, Comedy",
+        "description": "Hollywood aging stuntman Sonny Hooper wants to prove that he's still got what it takes to be a great professional in this risky and under-recognized line of work.",
+        "director": "Hal Needham",
+        "stars": [
+            "Burt Reynolds",
+            "Jan-Michael Vincent",
+            "Sally Field",
+            "Brian Keith"
+        ],
+        "votes": "5,436",
+        "gross": "$78.00M"
+    },
+    "47": {
+        "name": "Shao Lin san shi liu fang",
+        "certificate": "R",
+        "runtime": "115 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "A man studies kung fu at the Shaolin Temple to fight back against the oppressive Manchu government.",
+        "director": "Chia-Liang Liu",
+        "stars": [
+            "Chia-Hui Liu",
+            "Lieh Lo",
+            "Chia Yung Liu",
+            "Norman Chu"
+        ],
+        "votes": "12,810",
+        "gross": ""
+    },
+    "48": {
+        "name": "Battlestar Galactica",
+        "certificate": "PG",
+        "runtime": "148 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "After the destruction of the Twelve Colonies of Mankind, the last major fighter carrier leads a makeshift fugitive fleet in a desperate search for the legendary planet Earth.",
+        "director": "Richard A. Colla",
+        "stars": [
+            "Alan J. Levi",
+            "Richard Hatch",
+            "Dirk Benedict",
+            "Lorne Greene",
+            "Herbert Jefferson Jr."
+        ],
+        "votes": "7,657",
+        "gross": ""
+    },
+    "49": {
+        "name": "Paradise Alley",
+        "certificate": "PG",
+        "runtime": "107 min",
+        "genre": "Drama",
+        "description": "Three Italian-American brothers, living in the slums of 1940's New York City, try to help each other with one's wrestling career using one brother's promotional skills and another brother's con-artist tactics to thwart a sleazy manager.",
+        "director": "Sylvester Stallone",
+        "stars": [
+            "Sylvester Stallone",
+            "Lee Canalito",
+            "Armand Assante",
+            "Frank McRae"
+        ],
+        "votes": "4,163",
+        "gross": ""
+    },
+    "50": {
+        "name": "Circle of Iron",
+        "certificate": "R",
+        "runtime": "102 min",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "A young martial artist embarks on an adventure, encountering other martial artists in battle until one day he meets an aging blind man who will show him the true meaning of martial arts and life.",
+        "director": "Richard Moore",
+        "stars": [
+            "David Carradine",
+            "Jeff Cooper",
+            "Christopher Lee",
+            "Roddy McDowall"
+        ],
+        "votes": "1,950",
+        "gross": ""
+    }
+}

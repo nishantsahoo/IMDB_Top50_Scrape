@@ -1,0 +1,804 @@
+{
+    "1": {
+        "name": "Mary Poppins",
+        "certificate": "G",
+        "runtime": "139 min",
+        "genre": "Comedy, Family, Fantasy",
+        "description": "In turn of the century London, a magical nanny employs music and adventure to help two neglected children become closer to their father.",
+        "director": "Robert Stevenson",
+        "stars": [
+            "Julie Andrews",
+            "Dick Van Dyke",
+            "David Tomlinson",
+            "Glynis Johns"
+        ],
+        "votes": "140,801",
+        "gross": "$102.27M"
+    },
+    "2": {
+        "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "certificate": "PG",
+        "runtime": "95 min",
+        "genre": "Comedy",
+        "description": "An insane general triggers a path to nuclear holocaust that a War Room full of politicians and generals frantically tries to stop.",
+        "director": "Stanley Kubrick",
+        "stars": [
+            "Peter Sellers",
+            "George C. Scott",
+            "Sterling Hayden",
+            "Keenan Wynn"
+        ],
+        "votes": "411,055",
+        "gross": "$0.28M"
+    },
+    "3": {
+        "name": "Goldfinger",
+        "certificate": "PG",
+        "runtime": "110 min",
+        "genre": "Action, Adventure, Thriller",
+        "description": "While investigating a gold magnate's smuggling, James Bond uncovers a plot to contaminate the Fort Knox gold reserve.",
+        "director": "Guy Hamilton",
+        "stars": [
+            "Sean Connery",
+            "Gert Fr\u00f6be",
+            "Honor Blackman",
+            "Shirley Eaton"
+        ],
+        "votes": "157,882",
+        "gross": "$51.08M"
+    },
+    "4": {
+        "name": "A Fistful of Dollars",
+        "certificate": "R",
+        "runtime": "99 min",
+        "genre": "Western",
+        "description": "A wandering gunfighter plays two rival families against each other in a town torn apart by greed, pride, and revenge.",
+        "director": "Sergio Leone",
+        "stars": [
+            "Clint Eastwood",
+            "Gian Maria Volont\u00e8",
+            "Marianne Koch",
+            "Wolfgang Lukschy"
+        ],
+        "votes": "176,718",
+        "gross": "$14.50M"
+    },
+    "5": {
+        "name": "My Fair Lady",
+        "certificate": "G",
+        "runtime": "170 min",
+        "genre": "Drama, Family, Musical",
+        "description": "A snobbish phonetics professor agrees to a wager that he can make a flower girl presentable in high society.",
+        "director": "George Cukor",
+        "stars": [
+            "Audrey Hepburn",
+            "Rex Harrison",
+            "Stanley Holloway",
+            "Wilfrid Hyde-White"
+        ],
+        "votes": "79,202",
+        "gross": "$72.00M"
+    },
+    "6": {
+        "name": "Marnie",
+        "certificate": "PG",
+        "runtime": "130 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "Mark marries Marnie although she is a habitual thief and has serious psychological problems, and tries to help her confront and resolve them.",
+        "director": "Alfred Hitchcock",
+        "stars": [
+            "Tippi Hedren",
+            "Sean Connery",
+            "Martin Gabel",
+            "Louise Latham"
+        ],
+        "votes": "40,181",
+        "gross": "$7.00M"
+    },
+    "7": {
+        "name": "The Umbrellas of Cherbourg",
+        "certificate": "Not Rated",
+        "runtime": "91 min",
+        "genre": "Drama, Musical, Romance",
+        "description": "A young woman separated from her lover by war faces a life-altering decision.",
+        "director": "Jacques Demy",
+        "stars": [
+            "Catherine Deneuve",
+            "Nino Castelnuovo",
+            "Anne Vernon",
+            "Marc Michel"
+        ],
+        "votes": "20,284",
+        "gross": "$0.02M"
+    },
+    "8": {
+        "name": "Zulu",
+        "certificate": "Not Rated",
+        "runtime": "138 min",
+        "genre": "Drama, History, War",
+        "description": "Outnumbered British soldiers do battle with Zulu warriors at Rorke's Drift.",
+        "director": "Cy Endfield",
+        "stars": [
+            "Stanley Baker",
+            "Jack Hawkins",
+            "Ulla Jacobsson",
+            "James Booth"
+        ],
+        "votes": "33,101",
+        "gross": ""
+    },
+    "9": {
+        "name": "A Hard Day's Night",
+        "certificate": "G",
+        "runtime": "87 min",
+        "genre": "Comedy, Music, Musical",
+        "description": "Over two \"typical\" days in the life of The Beatles, the boys struggle to keep themselves and Paul McCartney's mischievous grandfather in check while preparing for a live television performance.",
+        "director": "Richard Lester",
+        "stars": [
+            "John Lennon",
+            "Paul McCartney",
+            "George Harrison",
+            "Ringo Starr"
+        ],
+        "votes": "36,631",
+        "gross": "$13.78M"
+    },
+    "10": {
+        "name": "Cheyenne Autumn",
+        "certificate": "PG",
+        "runtime": "154 min",
+        "genre": "Drama, History, Western",
+        "description": "The Cheyenne, tired of broken U.S. government promises, head for their ancestral lands but a sympathetic cavalry officer is tasked to bring them back to their reservation.",
+        "director": "John Ford",
+        "stars": [
+            "Richard Widmark",
+            "Carroll Baker",
+            "Karl Malden",
+            "Sal Mineo"
+        ],
+        "votes": "4,523",
+        "gross": ""
+    },
+    "11": {
+        "name": "Woman in the Dunes",
+        "certificate": "Not Rated",
+        "runtime": "123 min",
+        "genre": "Drama, Thriller",
+        "description": "An entomologist on vacation is trapped by local villagers into living with a woman whose life task is shoveling sand for them.",
+        "director": "Hiroshi Teshigahara",
+        "stars": [
+            "Eiji Okada",
+            "Ky\u00f4ko Kishida",
+            "Hiroko It\u00f4",
+            "K\u00f4ji Mitsui"
+        ],
+        "votes": "14,635",
+        "gross": ""
+    },
+    "12": {
+        "name": "The Fall of the Roman Empire",
+        "certificate": "Approved",
+        "runtime": "188 min",
+        "genre": "Drama, History, War",
+        "description": "The death of Marcus Aurelius leads to a succession crisis, in which the deceased emperor's son, Commodus, demonstrates that he is unwilling to let anything undermine his claim to the Roman Empire.",
+        "director": "Anthony Mann",
+        "stars": [
+            "Sophia Loren",
+            "Stephen Boyd",
+            "Alec Guinness",
+            "James Mason"
+        ],
+        "votes": "7,374",
+        "gross": "$4.75M"
+    },
+    "13": {
+        "name": "A Shot in the Dark",
+        "certificate": "PG",
+        "runtime": "102 min",
+        "genre": "Comedy, Mystery",
+        "description": "Inspector Jacques Clouseau investigates the murder of Mr. Benjamin Ballon's driver at a country estate.",
+        "director": "Blake Edwards",
+        "stars": [
+            "Peter Sellers",
+            "Elke Sommer",
+            "George Sanders",
+            "Herbert Lom"
+        ],
+        "votes": "23,187",
+        "gross": "$12.37M"
+    },
+    "14": {
+        "name": "The 7th Dawn",
+        "certificate": "Not Rated",
+        "runtime": "123 min",
+        "genre": "Adventure, Drama, War",
+        "description": "Political and personal intrigues surround a group of characters in Malaya, after the close of the Second World War.",
+        "director": "Lewis Gilbert",
+        "stars": [
+            "William Holden",
+            "Susannah York",
+            "Capucine",
+            "Tetsur\u00f4 Tanba"
+        ],
+        "votes": "646",
+        "gross": ""
+    },
+    "15": {
+        "name": "The Killers",
+        "certificate": "Not Rated",
+        "runtime": "93 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "Surprised that their contract victim didn't try to run away from them, two professional hit men try to find out who hired them and why.",
+        "director": "Don Siegel",
+        "stars": [
+            "Lee Marvin",
+            "Angie Dickinson",
+            "John Cassavetes",
+            "Clu Gulager"
+        ],
+        "votes": "5,923",
+        "gross": ""
+    },
+    "16": {
+        "name": "Zorba the Greek",
+        "certificate": "Not Rated",
+        "runtime": "142 min",
+        "genre": "Comedy, Drama",
+        "description": "An uptight English writer travelling to Crete, on a matter of business, finds his life changed forever when he meets the gregarious Alexis Zorba.",
+        "director": "Michael Cacoyannis",
+        "stars": [
+            "Anthony Quinn",
+            "Alan Bates",
+            "Irene Papas",
+            "Lila Kedrova"
+        ],
+        "votes": "18,553",
+        "gross": ""
+    },
+    "17": {
+        "name": "The Night of the Iguana",
+        "certificate": "Approved",
+        "runtime": "125 min",
+        "genre": "Drama",
+        "description": "A defrocked Episcopal clergyman leads a bus-load of middle-aged Baptist women on a tour of the Mexican coast and comes to terms with the failure haunting his life.",
+        "director": "John Huston",
+        "stars": [
+            "Richard Burton",
+            "Ava Gardner",
+            "Deborah Kerr",
+            "Sue Lyon"
+        ],
+        "votes": "9,775",
+        "gross": ""
+    },
+    "18": {
+        "name": "Father Goose",
+        "certificate": "Approved",
+        "runtime": "118 min",
+        "genre": "Adventure, Comedy, Romance",
+        "description": "During World War II, a man persuaded to live on an isolated island and spot aircraft finds himself responsible for a teacher and several students, all female.",
+        "director": "Ralph Nelson",
+        "stars": [
+            "Cary Grant",
+            "Leslie Caron",
+            "Trevor Howard",
+            "Jack Good"
+        ],
+        "votes": "8,706",
+        "gross": "$12.50M"
+    },
+    "19": {
+        "name": "The Naked Kiss",
+        "certificate": "Not Rated",
+        "runtime": "90 min",
+        "genre": "Crime, Drama",
+        "description": "Kelly, a prostitute, traumatised by an experience, referred to as 'The Naked Kiss,' by psychiatrists, leaves her past, and finds solace in the town of Grantville. She meets Griff, the ...                See full summary\u00a0\u00bb",
+        "director": "Samuel Fuller",
+        "stars": [
+            "Constance Towers",
+            "Anthony Eisley",
+            "Karen Conrad",
+            "Marie Devereux"
+        ],
+        "votes": "6,070",
+        "gross": ""
+    },
+    "20": {
+        "name": "Hush...Hush, Sweet Charlotte",
+        "certificate": "Not Rated",
+        "runtime": "133 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "An aging, reclusive Southern belle plagued by a horrifying family secret descends into madness after the arrival of a lost relative.",
+        "director": "Robert Aldrich",
+        "stars": [
+            "Bette Davis",
+            "Olivia de Havilland",
+            "Joseph Cotten",
+            "Agnes Moorehead"
+        ],
+        "votes": "11,398",
+        "gross": ""
+    },
+    "21": {
+        "name": "Blood and Black Lace",
+        "certificate": "Not Rated",
+        "runtime": "88 min",
+        "genre": "Horror, Mystery, Thriller",
+        "description": "A masked, shadowy killer brutally murders the models of a scandalous fashion house in Rome.",
+        "director": "Mario Bava",
+        "stars": [
+            "Cameron Mitchell",
+            "Eva Bartok",
+            "Thomas Reiner",
+            "Arianna Gorini"
+        ],
+        "votes": "7,184",
+        "gross": ""
+    },
+    "22": {
+        "name": "Goodbye Charlie",
+        "certificate": "Approved",
+        "runtime": "116 min",
+        "genre": "Comedy, Fantasy, Romance",
+        "description": "Shot by a jealous husband, Charley falls out a porthole and is lost at sea only to find himself returned as an attractive blond woman. His best friend is staying at his house as he puts ...                See full summary\u00a0\u00bb",
+        "director": "Vincente Minnelli",
+        "stars": [
+            "Tony Curtis",
+            "Debbie Reynolds",
+            "Pat Boone",
+            "Joanna Barnes"
+        ],
+        "votes": "1,353",
+        "gross": ""
+    },
+    "23": {
+        "name": "The Gospel According to St. Matthew",
+        "certificate": "Not Rated",
+        "runtime": "137 min",
+        "genre": "Biography, Drama, History",
+        "description": "The life of Jesus Christ according to the Gospel of Matthew. Pasolini shows Christ as a Marxist avant-la-lettre and therefore uses half of the text of Matthew.",
+        "director": "Pier Paolo Pasolini",
+        "stars": [
+            "Enrique Irazoqui",
+            "Margherita Caruso",
+            "Susanna Pasolini",
+            "Marcello Morante"
+        ],
+        "votes": "9,446",
+        "gross": ""
+    },
+    "24": {
+        "name": "Seven Days in May",
+        "certificate": "Approved",
+        "runtime": "118 min",
+        "genre": "Drama, Thriller",
+        "description": "United States military leaders plot to overthrow the President because he supports a nuclear disarmament treaty and they fear a Soviet sneak attack.",
+        "director": "John Frankenheimer",
+        "stars": [
+            "Burt Lancaster",
+            "Kirk Douglas",
+            "Fredric March",
+            "Ava Gardner"
+        ],
+        "votes": "11,393",
+        "gross": ""
+    },
+    "25": {
+        "name": "Fail-Safe",
+        "certificate": "Not Rated",
+        "runtime": "112 min",
+        "genre": "Drama, Thriller",
+        "description": "American planes are sent to deliver a nuclear attack on Moscow, but it's a mistake due to an electrical malfunction. Can all-out war be averted?",
+        "director": "Sidney Lumet",
+        "stars": [
+            "Henry Fonda",
+            "Walter Matthau",
+            "Fritz Weaver",
+            "Dan O'Herlihy"
+        ],
+        "votes": "17,521",
+        "gross": ""
+    },
+    "26": {
+        "name": "Red Desert",
+        "certificate": "Not Rated",
+        "runtime": "117 min",
+        "genre": "Drama",
+        "description": "In an industrial area, Giuliana, an unstable woman, attempts to cope with life by starting an affair with a co-worker at the plant her husband manages.",
+        "director": "Michelangelo Antonioni",
+        "stars": [
+            "Monica Vitti",
+            "Richard Harris",
+            "Carlo Chionetti",
+            "Xenia Valderi"
+        ],
+        "votes": "11,819",
+        "gross": ""
+    },
+    "27": {
+        "name": "The Last Man on Earth",
+        "certificate": "Not Rated",
+        "runtime": "86 min",
+        "genre": "Horror, Sci-Fi",
+        "description": "When a disease turns all of humanity into the living dead, the last man on earth becomes a reluctant vampire hunter.",
+        "director": "Ubaldo Ragona",
+        "stars": [
+            "Sidney Salkow",
+            "Vincent Price",
+            "Franca Bettoia",
+            "Emma Danieli",
+            "Giacomo Rossi Stuart"
+        ],
+        "votes": "15,452",
+        "gross": ""
+    },
+    "28": {
+        "name": "The Train",
+        "certificate": "Not Rated",
+        "runtime": "133 min",
+        "genre": "Thriller, War",
+        "description": "In 1944, a German colonel loads a train with French art treasures to send to Germany. The Resistance must stop it without damaging the cargo.",
+        "director": "John Frankenheimer",
+        "stars": [
+            "Arthur Penn",
+            "Burt Lancaster",
+            "Paul Scofield",
+            "Jeanne Moreau",
+            "Suzanne Flon"
+        ],
+        "votes": "12,351",
+        "gross": "$7.41M"
+    },
+    "29": {
+        "name": "The Soft Skin",
+        "certificate": "Not Rated",
+        "runtime": "113 min",
+        "genre": "Drama, Romance",
+        "description": "Pierre Lachenay is a well-known publisher and lecturer, married with Franca and father of Sabine, around 10. He meets an air hostess, Nicole. They start a love affair, which Pierre is hiding, but he cannot stand staying away from her.",
+        "director": "Fran\u00e7ois Truffaut",
+        "stars": [
+            "Jean Desailly",
+            "Fran\u00e7oise Dorl\u00e9ac",
+            "Nelly Benedetti",
+            "Daniel Ceccaldi"
+        ],
+        "votes": "5,896",
+        "gross": ""
+    },
+    "30": {
+        "name": "Murder Most Foul",
+        "certificate": "Unrated",
+        "runtime": "90 min",
+        "genre": "Comedy, Crime, Drama",
+        "description": "When Miss Marple joins a theatrical company after a blackmailer is murdered, several members of the troupe are also dispatched by this mysterious killer.",
+        "director": "George Pollock",
+        "stars": [
+            "Margaret Rutherford",
+            "Ron Moody",
+            "Charles 'Bud' Tingwell",
+            "Andrew Cruickshank"
+        ],
+        "votes": "4,131",
+        "gross": ""
+    },
+    "31": {
+        "name": "What a Way to Go!",
+        "certificate": "Approved",
+        "runtime": "111 min",
+        "genre": "Comedy, Romance",
+        "description": "A four-time widow discusses her four marriages, in which all of her husbands became incredibly rich and died prematurely because of their drive to be rich.",
+        "director": "J. Lee Thompson",
+        "stars": [
+            "Shirley MacLaine",
+            "Paul Newman",
+            "Robert Mitchum",
+            "Dean Martin"
+        ],
+        "votes": "3,696",
+        "gross": "$13.30M"
+    },
+    "32": {
+        "name": "Becket",
+        "certificate": "PG-13",
+        "runtime": "148 min",
+        "genre": "Biography, Drama, History",
+        "description": "King Henry II of England comes to terms with his affection for his close friend and confidant Thomas Becket, who finds his true honor by observing God's divine will rather than the King's.",
+        "director": "Peter Glenville",
+        "stars": [
+            "Richard Burton",
+            "Peter O'Toole",
+            "John Gielgud",
+            "Gino Cervi"
+        ],
+        "votes": "12,580",
+        "gross": ""
+    },
+    "33": {
+        "name": "Onibaba",
+        "certificate": "Not Rated",
+        "runtime": "103 min",
+        "genre": "Drama, Horror",
+        "description": "Two women kill samurai and sell their belongings for a living. While one of them is having an affair with their neighbor, the other woman meets a mysterious samurai wearing a bizarre mask.",
+        "director": "Kaneto Shind\u00f4",
+        "stars": [
+            "Nobuko Otowa",
+            "Jitsuko Yoshimura",
+            "Kei Sat\u00f4",
+            "J\u00fbkichi Uno"
+        ],
+        "votes": "13,475",
+        "gross": ""
+    },
+    "34": {
+        "name": "Seance on a Wet Afternoon",
+        "certificate": "",
+        "runtime": "115 min",
+        "genre": "Crime, Drama",
+        "description": "A medium and her husband stage a kidnapping in order for her to pretend to solve the crime and achieve fame.",
+        "director": "Bryan Forbes",
+        "stars": [
+            "Kim Stanley",
+            "Richard Attenborough",
+            "Margaret Lacey",
+            "Marie Burke"
+        ],
+        "votes": "5,265",
+        "gross": ""
+    },
+    "35": {
+        "name": "The Bargee",
+        "certificate": "Not Rated",
+        "runtime": "102 min",
+        "genre": "Comedy",
+        "description": "Hemel Pike is a canal barge casanova, aided and abetted by his illiterate cousin, Ronnie. Hemel has a girl in every town along his route, and each one is intent on marriage. He is finally ...                See full summary\u00a0\u00bb",
+        "director": "Duncan Wood",
+        "stars": [
+            "Harry H. Corbett",
+            "Hugh Griffith",
+            "Eric Sykes",
+            "Ronnie Barker"
+        ],
+        "votes": "277",
+        "gross": ""
+    },
+    "36": {
+        "name": "The Unsinkable Molly Brown",
+        "certificate": "Approved",
+        "runtime": "128 min",
+        "genre": "Biography, Comedy, Musical",
+        "description": "A poor, uneducated mountain girl leaves her cabin in search of respect, a wealthy husband, and a better life in this fictionalized biopic of Margaret \"Molly\" Brown, who survived the 1912 sinking of the RMS Titanic.",
+        "director": "Charles Walters",
+        "stars": [
+            "Debbie Reynolds",
+            "Harve Presnell",
+            "Ed Begley",
+            "Jack Kruschen"
+        ],
+        "votes": "3,044",
+        "gross": "$13.17M"
+    },
+    "37": {
+        "name": "Kwaidan",
+        "certificate": "Not Rated",
+        "runtime": "183 min",
+        "genre": "Drama, Fantasy, Horror",
+        "description": "A collection of four Japanese folk tales with supernatural themes.",
+        "director": "Masaki Kobayashi",
+        "stars": [
+            "Rentar\u00f4 Mikuni",
+            "Michiyo Aratama",
+            "Misako Watanabe",
+            "Kenjir\u00f4 Ishiyama"
+        ],
+        "votes": "12,640",
+        "gross": ""
+    },
+    "38": {
+        "name": "The Incredible Mr. Limpet",
+        "certificate": "Approved",
+        "runtime": "99 min",
+        "genre": "Animation, Comedy, Family",
+        "description": "Meek and mild mannered bookkeeper Henry Limpet has few passions in life. It's mid-1941 and he would love to join the Navy but has been rated 4F. His friend George Stickle is in the Navy and...                See full summary\u00a0\u00bb",
+        "director": "Arthur Lubin",
+        "stars": [
+            "Don Knotts",
+            "Carole Cook",
+            "Jack Weston",
+            "Andrew Duggan"
+        ],
+        "votes": "4,389",
+        "gross": ""
+    },
+    "39": {
+        "name": "633 Squadron",
+        "certificate": "Approved",
+        "runtime": "102 min",
+        "genre": "Drama, War",
+        "description": "An RAF squadron is assigned to knock out a German rocket fuel factory in Norway. The factory supplies fuel for the Nazi effort to launch rockets on England during D-Day.",
+        "director": "Walter Grauman",
+        "stars": [
+            "Cliff Robertson",
+            "George Chakiris",
+            "Maria Perschy",
+            "Harry Andrews"
+        ],
+        "votes": "3,068",
+        "gross": ""
+    },
+    "40": {
+        "name": "Band of Outsiders",
+        "certificate": "Not Rated",
+        "runtime": "95 min",
+        "genre": "Comedy, Crime, Drama",
+        "description": "Two crooks with a fondness for old Hollywood B-movies convince a languages student to help them commit a robbery.",
+        "director": "Jean-Luc Godard",
+        "stars": [
+            "Anna Karina",
+            "Claude Brasseur",
+            "Dani\u00e8le Girard",
+            "Louisa Colpeyn"
+        ],
+        "votes": "19,961",
+        "gross": "$0.04M"
+    },
+    "41": {
+        "name": "Viva Las Vegas",
+        "certificate": "Approved",
+        "runtime": "85 min",
+        "genre": "Comedy, Musical",
+        "description": "Race car driver Lucky Jackson goes to Las Vegas to earn money to pay for a new engine for his motor car. Working as a waiter, he still finds the time to court young Rusty Martin.",
+        "director": "George Sidney",
+        "stars": [
+            "Elvis Presley",
+            "Ann-Margret",
+            "Cesare Danova",
+            "William Demarest"
+        ],
+        "votes": "5,947",
+        "gross": "$5.13M"
+    },
+    "42": {
+        "name": "The Masque of the Red Death",
+        "certificate": "Not Rated",
+        "runtime": "89 min",
+        "genre": "Horror",
+        "description": "A European prince terrorizes the local peasantry while using his castle as a refuge against the \"Red Death\" plague that stalks the land.",
+        "director": "Roger Corman",
+        "stars": [
+            "Vincent Price",
+            "Hazel Court",
+            "Jane Asher",
+            "David Weston"
+        ],
+        "votes": "10,822",
+        "gross": ""
+    },
+    "43": {
+        "name": "Carry On Cleo",
+        "certificate": "Not Rated",
+        "runtime": "92 min",
+        "genre": "Adventure, Comedy, History",
+        "description": "Two Britons are captured and enslaved by invading Romans and taken to Rome. Hengist Pod creates useless inventions, while Horsa is a brave and cunning fighter. One of their first encounters...                See full summary\u00a0\u00bb",
+        "director": "Gerald Thomas",
+        "stars": [
+            "Kenneth Williams",
+            "Sidney James",
+            "Kenneth Connor",
+            "Charles Hawtrey"
+        ],
+        "votes": "3,578",
+        "gross": ""
+    },
+    "44": {
+        "name": "Paris When It Sizzles",
+        "certificate": "Approved",
+        "runtime": "110 min",
+        "genre": "Comedy, Romance",
+        "description": "The sprightly young assistant of a Hollywood screenwriter helps him over his writer's block by acting out his fantasies of possible plots.",
+        "director": "Richard Quine",
+        "stars": [
+            "William Holden",
+            "Audrey Hepburn",
+            "Gr\u00e9goire Aslan",
+            "Raymond Bussi\u00e8res"
+        ],
+        "votes": "6,840",
+        "gross": ""
+    },
+    "45": {
+        "name": "Send Me No Flowers",
+        "certificate": "Approved",
+        "runtime": "100 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A hypochondriac believes he is dying and makes plans for his wife which she discovers and misunderstands.",
+        "director": "Norman Jewison",
+        "stars": [
+            "Rock Hudson",
+            "Doris Day",
+            "Tony Randall",
+            "Paul Lynde"
+        ],
+        "votes": "5,325",
+        "gross": ""
+    },
+    "46": {
+        "name": "Bedtime Story",
+        "certificate": "",
+        "runtime": "99 min",
+        "genre": "Comedy",
+        "description": "Two scam artists prey on women for their money. They clash in a Mediterranean hot spot. Will the cultured, high-class con artist come out on top, or will the rough small-change scammer rise to win the wager?",
+        "director": "Ralph Levy",
+        "stars": [
+            "Marlon Brando",
+            "David Niven",
+            "Shirley Jones",
+            "Dody Goodman"
+        ],
+        "votes": "1,408",
+        "gross": ""
+    },
+    "47": {
+        "name": "The Pawnbroker",
+        "certificate": "Approved",
+        "runtime": "116 min",
+        "genre": "Drama",
+        "description": "A Jewish pawnbroker, victim of Nazi persecution, loses all faith in his fellow man until he realizes too late the tragedy of his actions.",
+        "director": "Sidney Lumet",
+        "stars": [
+            "Rod Steiger",
+            "Geraldine Fitzgerald",
+            "Brock Peters",
+            "Jaime S\u00e1nchez"
+        ],
+        "votes": "7,226",
+        "gross": ""
+    },
+    "48": {
+        "name": "The Moon-Spinners",
+        "certificate": "G",
+        "runtime": "118 min",
+        "genre": "Family, Mystery, Romance",
+        "description": "Travelling through Crete to collect folk songs for the BBC, a British teen and her aunt stumble upon local criminals who are peddling gems stolen from a London bank.",
+        "director": "James Neilson",
+        "stars": [
+            "Hayley Mills",
+            "Eli Wallach",
+            "Pola Negri",
+            "Peter McEnery"
+        ],
+        "votes": "1,750",
+        "gross": ""
+    },
+    "49": {
+        "name": "Marriage Italian Style",
+        "certificate": "Not Rated",
+        "runtime": "102 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "The rich man Domenico and Filumena, a penniless prostitute, share great part of their lives in the immediate post WWII Italy.",
+        "director": "Vittorio De Sica",
+        "stars": [
+            "Sophia Loren",
+            "Marcello Mastroianni",
+            "Aldo Puglisi",
+            "Tecla Scarano"
+        ],
+        "votes": "7,006",
+        "gross": ""
+    },
+    "50": {
+        "name": "Lilith",
+        "certificate": "Not Rated",
+        "runtime": "114 min",
+        "genre": "Drama",
+        "description": "A war veteran gets work at a mental institution where he meets the beautiful, but eccentric, Lilith.",
+        "director": "Robert Rossen",
+        "stars": [
+            "Warren Beatty",
+            "Jean Seberg",
+            "Peter Fonda",
+            "Kim Hunter"
+        ],
+        "votes": "2,095",
+        "gross": ""
+    }
+}

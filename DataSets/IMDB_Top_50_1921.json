@@ -1,0 +1,807 @@
+{
+    "1": {
+        "name": "The Kid",
+        "certificate": "Not Rated",
+        "runtime": "68 min",
+        "genre": "Comedy, Drama, Family",
+        "description": "The Tramp cares for an abandoned child, but events put that relationship in jeopardy.",
+        "director": "Charles Chaplin",
+        "stars": [
+            "Charles Chaplin",
+            "Edna Purviance",
+            "Jackie Coogan",
+            "Carl Miller"
+        ],
+        "votes": "94,901",
+        "gross": "$5.45M"
+    },
+    "2": {
+        "name": "The Phantom Carriage",
+        "certificate": "Not Rated",
+        "runtime": "100 min",
+        "genre": "Drama, Fantasy, Horror",
+        "description": "On New Year's Eve, the driver of a ghostly carriage forces a drunken man to reflect on his selfish, wasted life.",
+        "director": "Victor Sj\u00f6str\u00f6m",
+        "stars": [
+            "Victor Sj\u00f6str\u00f6m",
+            "Hilda Borgstr\u00f6m",
+            "Tore Svennberg",
+            "Astrid Holm"
+        ],
+        "votes": "8,778",
+        "gross": ""
+    },
+    "3": {
+        "name": "Der m\u00fcde Tod",
+        "certificate": "Not Rated",
+        "runtime": "114 min",
+        "genre": "Drama, Fantasy, Thriller",
+        "description": "When a woman's fianc\u00e9 disappears, Death gives her three chances to save him from his fate.",
+        "director": "Fritz Lang",
+        "stars": [
+            "Lil Dagover",
+            "Walter Janssen",
+            "Bernhard Goetzke",
+            "Hans Sternberg"
+        ],
+        "votes": "4,488",
+        "gross": "$0.01M"
+    },
+    "4": {
+        "name": "The Sheik",
+        "certificate": "Passed",
+        "runtime": "86 min",
+        "genre": "Adventure, Drama, Romance",
+        "description": "A charming Arabian sheik becomes infatuated with an adventurous, modern-thinking Englishwoman and abducts her to his home in the Saharan desert.",
+        "director": "George Melford",
+        "stars": [
+            "Rudolph Valentino",
+            "Agnes Ayres",
+            "Ruth Miller",
+            "George Waggner"
+        ],
+        "votes": "2,886",
+        "gross": ""
+    },
+    "5": {
+        "name": "The Four Horsemen of the Apocalypse",
+        "certificate": "Passed",
+        "runtime": "150 min",
+        "genre": "Drama, Romance, War",
+        "description": "An extended family split up in France and Germany find themselves on opposing sides of the battlefield during World War I.",
+        "director": "Rex Ingram",
+        "stars": [
+            "Rudolph Valentino",
+            "Alice Terry",
+            "Pomeroy Cannon",
+            "Josef Swickard"
+        ],
+        "votes": "2,878",
+        "gross": "$9.20M"
+    },
+    "6": {
+        "name": "The Haunted Castle",
+        "certificate": "Not Rated",
+        "runtime": "69 min",
+        "genre": "Crime, Drama, Horror",
+        "description": "In the castle Vogeloed, a few aristocrats are awaiting baroness Safferst\u00e4tt. But first count Oetsch invites himself.. Everyone thinks he murdered his brother, baroness Safferstat's first ...                See full summary\u00a0\u00bb",
+        "director": "F.W. Murnau",
+        "stars": [
+            "Arnold Korff",
+            "Lulu Kyser-Korff",
+            "Lothar Mehnert",
+            "Paul Hartmann"
+        ],
+        "votes": "1,204",
+        "gross": ""
+    },
+    "7": {
+        "name": "Orphans of the Storm",
+        "certificate": "Not Rated",
+        "runtime": "150 min",
+        "genre": "Drama, History, Romance",
+        "description": "Two orphaned sisters are caught up in the turmoil of the French Revolution, encountering misery and love along the way.",
+        "director": "D.W. Griffith",
+        "stars": [
+            "Lillian Gish",
+            "Dorothy Gish",
+            "Joseph Schildkraut",
+            "Frank Losee"
+        ],
+        "votes": "4,367",
+        "gross": "$0.79M"
+    },
+    "8": {
+        "name": "The Three Musketeers",
+        "certificate": "",
+        "runtime": "119 min",
+        "genre": "Action, Adventure, Romance",
+        "description": "The young Gascon D'Artagnan arrives in Paris, his heart set on joining the king's Musketeers. He is taken under the wings of three of the most respected and feared Musketeers, Porthos, ...                See full summary\u00a0\u00bb",
+        "director": "Fred Niblo",
+        "stars": [
+            "Adolphe Menjou",
+            "Mary MacLaren",
+            "Nigel De Brulier",
+            "Thomas Holding"
+        ],
+        "votes": "741",
+        "gross": "$3.27M"
+    },
+    "9": {
+        "name": "Camille",
+        "certificate": "Passed",
+        "runtime": "72 min",
+        "genre": "Drama, Romance",
+        "description": "A courtesan and an idealistic young man fall in love, only for her to give up the relationship at his status-conscious father's request.",
+        "director": "Ray C. Smallwood",
+        "stars": [
+            "Rudolph Valentino",
+            "Rex Cherryman",
+            "Arthur Hoyt",
+            "Zeffie Tilbury"
+        ],
+        "votes": "824",
+        "gross": ""
+    },
+    "10": {
+        "name": "The Queen of Sheba",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Adventure, Drama",
+        "description": "The story of the ill-fated romance between Solomon, king of Israel, and the Queen of Sheba.",
+        "director": "J. Gordon Edwards",
+        "stars": [
+            "Betty Blythe",
+            "Fritz Leiber",
+            "Claire de Lorez",
+            "George Siegmann"
+        ],
+        "votes": "37",
+        "gross": ""
+    },
+    "11": {
+        "name": "A Sailor-Made Man",
+        "certificate": "Passed",
+        "runtime": "47 min",
+        "genre": "Comedy",
+        "description": "An idle, wealthy playboy foolishly joins the Navy when the father of the girl he wants to marry tells him to get a job to prove himself worthy.",
+        "director": "Fred C. Newmeyer",
+        "stars": [
+            "Harold Lloyd",
+            "Mildred Davis",
+            "Noah Young",
+            "Dick Sutherland"
+        ],
+        "votes": "884",
+        "gross": ""
+    },
+    "12": {
+        "name": "En lyckoriddare",
+        "certificate": "",
+        "runtime": "95 min",
+        "genre": "Drama",
+        "description": "Historical drama which features G\u00f6sta Ekman as the dashing rogue who steals the heart of the ethereal Mary Johnson.",
+        "director": "John W. Brunius",
+        "stars": [
+            "G\u00f6sta Ekman",
+            "Mary Johnson",
+            "Axel Ringvall",
+            "Hilda Forsslund"
+        ],
+        "votes": "27",
+        "gross": ""
+    },
+    "13": {
+        "name": "Rip Van Winkle",
+        "certificate": "",
+        "runtime": "58 min",
+        "genre": "Fantasy",
+        "description": "The story shows the development of the united state in divergent fields : Political, social and even economic field.",
+        "director": "Edward Ludwig",
+        "stars": [
+            "Thomas Jefferson",
+            "Milla Davenport",
+            "Daisy Jefferson",
+            "Gertrude Messinger"
+        ],
+        "votes": "27",
+        "gross": ""
+    },
+    "14": {
+        "name": "Little Lord Fauntleroy",
+        "certificate": "Passed",
+        "runtime": "112 min",
+        "genre": "Drama",
+        "description": "An American boy turns out to be the long-lost heir of a British fortune. He is sent to live with the cold and unsentimental lord who oversees the trust.",
+        "director": "Alfred E. Green",
+        "stars": [
+            "Jack Pickford",
+            "Mary Pickford",
+            "Claude Gillingwater",
+            "Joseph J. Dowling",
+            "James A. Marcus"
+        ],
+        "votes": "249",
+        "gross": "$0.90M"
+    },
+    "15": {
+        "name": "The Love Light",
+        "certificate": "Unrated",
+        "runtime": "89 min",
+        "genre": "Drama",
+        "description": "Angela maintains a coastal lighthouse in Italy, where she awaits the return of her brothers from the war. She learns they are casualties and takes solace in the arms of an American sailor ...                See full summary\u00a0\u00bb",
+        "director": "Frances Marion",
+        "stars": [
+            "Mary Pickford",
+            "Evelyn Dumo",
+            "Raymond Bloomer",
+            "Fred Thomson"
+        ],
+        "votes": "323",
+        "gross": "$0.69M"
+    },
+    "16": {
+        "name": "The Smart Sex",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Comedy",
+        "description": "Add a Plot",
+        "director": "Fred LeRoy Granville",
+        "stars": [
+            "Eva Novak",
+            "Frank Braidwood",
+            "Geoffrey Webb",
+            "Mayre Hall"
+        ],
+        "votes": "",
+        "gross": ""
+    },
+    "17": {
+        "name": "Tol'able David",
+        "certificate": "",
+        "runtime": "99 min",
+        "genre": "Drama",
+        "description": "When three thuggish men are responsible for the death of his father and the crippling of his brother, young David must choose between supporting his family or risking his life and exacting vengeance.",
+        "director": "Henry King",
+        "stars": [
+            "Richard Barthelmess",
+            "Gladys Hulette",
+            "Walter P. Lewis",
+            "Ernest Torrence"
+        ],
+        "votes": "1,657",
+        "gross": ""
+    },
+    "18": {
+        "name": "The Wildcat",
+        "certificate": "Not Rated",
+        "runtime": "79 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A charismatic lieutenant newly assigned to a remote fort is captured by a group of mountain bandits, thus setting in motion a madcap farce that is Lubitsch at his most unrestrained.",
+        "director": "Ernst Lubitsch",
+        "stars": [
+            "Pola Negri",
+            "Victor Janson",
+            "Paul Heidemann",
+            "Wilhelm Diegelmann"
+        ],
+        "votes": "948",
+        "gross": ""
+    },
+    "19": {
+        "name": "Hamlet",
+        "certificate": "",
+        "runtime": "131 min",
+        "genre": "Drama",
+        "description": "Danish silent movie-star Asta Nielsen formed her own production company to make this film, in which new elements are combined with features (and a few lines) familiar from Shakespeare's ...                See full summary\u00a0\u00bb",
+        "director": "Svend Gade",
+        "stars": [
+            "Heinz Schall",
+            "Asta Nielsen",
+            "Paul Conradi",
+            "Mathilde Brandt",
+            "Eduard von Winterstein"
+        ],
+        "votes": "348",
+        "gross": ""
+    },
+    "20": {
+        "name": "The Affairs of Anatol",
+        "certificate": "Unrated",
+        "runtime": "117 min",
+        "genre": "Comedy, Drama",
+        "description": "Socialite Anatol Spencer seeks a better relation that he has with his wife. He sets up the friend of his youth Emilie in an apartment only to have her two-time him. He comforts the near ...                See full summary\u00a0\u00bb",
+        "director": "Cecil B. DeMille",
+        "stars": [
+            "Wallace Reid",
+            "Gloria Swanson",
+            "Wanda Hawley",
+            "Theodore Roberts"
+        ],
+        "votes": "1,177",
+        "gross": ""
+    },
+    "21": {
+        "name": "The Blot",
+        "certificate": "",
+        "runtime": "91 min",
+        "genre": "Drama",
+        "description": "The Professor dispenses the wisdom of the ages and does not make a living wage. The sons of the rich and powerful are students lacking any motivation. The next door neighbor of the ...                See full summary\u00a0\u00bb",
+        "director": "Lois Weber",
+        "stars": [
+            "Philip Hubbard",
+            "Margaret McWade",
+            "Claire Windsor",
+            "Louis Calhern"
+        ],
+        "votes": "419",
+        "gross": ""
+    },
+    "22": {
+        "name": "Missing Husbands",
+        "certificate": "Not Rated",
+        "runtime": "136 min",
+        "genre": "Adventure, Fantasy, Mystery",
+        "description": "Two men, lost in the desert, meet Queen Antinea, ruler of Atlantis.",
+        "director": "Jacques Feyder",
+        "stars": [
+            "Jean Angelo",
+            "Stacia Napierkowska",
+            "Georges Melchior",
+            "Marie-Louise Iribe"
+        ],
+        "votes": "287",
+        "gross": ""
+    },
+    "23": {
+        "name": "Journey into the Night",
+        "certificate": "",
+        "runtime": "81 min",
+        "genre": "Drama",
+        "description": "Dr Eigil Borne is engaged to H\u00e9l\u00e8ne, a girl who is madly in love with him. At H\u00e9l\u00e8ne's birthday celebration, Eigil invites her to a cabaret, where he meets his other love, Lily, a passionate, fiery and funny dancer.",
+        "director": "F.W. Murnau",
+        "stars": [
+            "Olaf F\u00f8nss",
+            "Erna Morena",
+            "Conrad Veidt",
+            "Gudrun Bruun Stephensen"
+        ],
+        "votes": "253",
+        "gross": ""
+    },
+    "24": {
+        "name": "Forbidden Fruit",
+        "certificate": "",
+        "runtime": "87 min",
+        "genre": "Drama",
+        "description": "Mary Maddock becomes a seamstress after her husband Steve wastes their money on booze. Her employer provides her as an escort to accompany millionaire Mallory. Her husband tries ...                See full summary\u00a0\u00bb",
+        "director": "Cecil B. DeMille",
+        "stars": [
+            "Agnes Ayres",
+            "Clarence Burton",
+            "Theodore Roberts",
+            "Kathlyn Williams"
+        ],
+        "votes": "89",
+        "gross": ""
+    },
+    "25": {
+        "name": "Labyrinth des Grauens",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Drama",
+        "description": "Edward Stephenson, the son of a great industrialist, is due to marry the daughter of another prominent business leader. But the boy prefers a modest employee of the latter, Maud Hartley, ...                See full summary\u00a0\u00bb",
+        "director": "Michael Curtiz",
+        "stars": [
+            "Lucy Doraine",
+            "Alphons Fryland",
+            "Max Devrient",
+            "Paul Askonas"
+        ],
+        "votes": "45",
+        "gross": ""
+    },
+    "26": {
+        "name": "Through the Back Door",
+        "certificate": "",
+        "runtime": "89 min",
+        "genre": "Comedy, Drama",
+        "description": "When her mother remarries, a young Belgian girl is left behind with her nurse, but when Germany invades the country, she is sent to America to find her mother.",
+        "director": "Alfred E. Green",
+        "stars": [
+            "Jack Pickford",
+            "Mary Pickford",
+            "Gertrude Astor",
+            "Wilfred Lucas",
+            "Helen Raymond"
+        ],
+        "votes": "145",
+        "gross": ""
+    },
+    "27": {
+        "name": "Fool's Paradise",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Romance",
+        "description": "In a Mexican border town Arthur befriends cantina girl Poll. She falls for him but he still loves the dancer Rosa. When the cigar Poll gives him explodes and blinds him, Arthur is duped ...                See full summary\u00a0\u00bb",
+        "director": "Cecil B. DeMille",
+        "stars": [
+            "Dorothy Dalton",
+            "Conrad Nagel",
+            "Mildred Harris",
+            "Theodore Kosloff"
+        ],
+        "votes": "18",
+        "gross": ""
+    },
+    "28": {
+        "name": "Brewster's Millions",
+        "certificate": "Passed",
+        "runtime": "61 min",
+        "genre": "Comedy",
+        "description": "Monte Brewster learns that he has inherited $10 million from his late grandfather, but then learns that he must spend $2 million in less than a year and remain unmarried to inherit the rest of the money.",
+        "director": "Joseph Henabery",
+        "stars": [
+            "Roscoe 'Fatty' Arbuckle",
+            "Betty Ross Clarke",
+            "Fred Huntley",
+            "Marian Skinner"
+        ],
+        "votes": "27",
+        "gross": ""
+    },
+    "29": {
+        "name": "A Perfect Crime",
+        "certificate": "Passed",
+        "runtime": "",
+        "genre": "Adventure, Comedy, Drama",
+        "description": "Add a Plot",
+        "director": "Allan Dwan",
+        "stars": [
+            "Monte Blue",
+            "Jacqueline Logan",
+            "Stanton Heck",
+            "Hardee Kirkland"
+        ],
+        "votes": "26",
+        "gross": ""
+    },
+    "30": {
+        "name": "Vier um die Frau",
+        "certificate": "Not Rated",
+        "runtime": "52 min",
+        "genre": "Drama",
+        "description": "Harry Yquem, a wealthy broker, remains obsessed with delusions of his devout wife's infidelity.",
+        "director": "Fritz Lang",
+        "stars": [
+            "Hermann B\u00f6ttcher",
+            "Carola Toelle",
+            "Lilli Lohrer",
+            "Ludwig Hartau"
+        ],
+        "votes": "281",
+        "gross": ""
+    },
+    "31": {
+        "name": "Adventures of Tarzan",
+        "certificate": "Passed",
+        "runtime": "60 min",
+        "genre": "Action, Adventure",
+        "description": "Tarzan spurns the love of La, Queen of Opar. When he isn't trying to keep the Bolshevik Rokoff and Clayton (pretender to the Greystoke estate) from reaching Opar, he is attacked ...                See full summary\u00a0\u00bb",
+        "director": "Robert F. Hill",
+        "stars": [
+            "Scott Sidney",
+            "Elmo Lincoln",
+            "Louise Lorraine",
+            "Scott Pembroke",
+            "Frank Whitson"
+        ],
+        "votes": "92",
+        "gross": ""
+    },
+    "32": {
+        "name": "The Conquering Power",
+        "certificate": "TV-G",
+        "runtime": "89 min",
+        "genre": "Drama, Romance",
+        "description": "After losing his father, a playboy moves in with his miserly uncle, who seeks to cheat him out of his inheritance.",
+        "director": "Rex Ingram",
+        "stars": [
+            "Alice Terry",
+            "Rudolph Valentino",
+            "Ralph Lewis",
+            "Carrie Daumery"
+        ],
+        "votes": "373",
+        "gross": ""
+    },
+    "33": {
+        "name": "Rich Girl, Poor Girl",
+        "certificate": "Passed",
+        "runtime": "",
+        "genre": "Drama, Romance",
+        "description": "Poor abused Nora runs into privileged bored Beatrice, while wandering onto the rich girl's family estate. Both girls notice the uncanny resemblance between each other, so they decide to ...                See full summary\u00a0\u00bb",
+        "director": "Harry B. Harris",
+        "stars": [
+            "Gladys Walton",
+            "Gordon McGregor",
+            "Harold Austin",
+            "Antrim Short"
+        ],
+        "votes": "",
+        "gross": ""
+    },
+    "34": {
+        "name": "Eldorado",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Drama",
+        "description": "Sibilla is a single mother, working as a gypsy dancer in a lousy cafe in the south of Spain. Unable to keep with the costs of his son's medical bills, she asks for help to Estiria, her ...                See full summary\u00a0\u00bb",
+        "director": "Marcel L'Herbier",
+        "stars": [
+            "\u00c8ve Francis",
+            "Jaque Catelain",
+            "Marcelle Pradot",
+            "Philippe H\u00e9riat"
+        ],
+        "votes": "327",
+        "gross": ""
+    },
+    "35": {
+        "name": "Dracula's Death",
+        "certificate": "",
+        "runtime": "65 min",
+        "genre": "Horror, Thriller",
+        "description": "A girl has frightening visions after visiting an insane asylum where one of the inmates claims to be Drakula and she can not be sure whether they were a nightmare or real.",
+        "director": "K\u00e1roly Lajthay",
+        "stars": [
+            "Paul Askonas",
+            "Margit Lux",
+            "Lene Myl",
+            "Dezs\u00f5 Kert\u00e9sz"
+        ],
+        "votes": "61",
+        "gross": ""
+    },
+    "36": {
+        "name": "The Gilded Lily",
+        "certificate": "",
+        "runtime": "70 min",
+        "genre": "Drama",
+        "description": "A country boy comes to the big city and falls in love with a showgirl, but turns his back on her when she decides to give up the glamorous life for the homespun existence of a housewife.",
+        "director": "Robert Z. Leonard",
+        "stars": [
+            "Mae Murray",
+            "Lowell Sherman",
+            "Jason Robards Sr.",
+            "Charles K. Gerrard"
+        ],
+        "votes": "",
+        "gross": ""
+    },
+    "37": {
+        "name": "Seven Years Bad Luck",
+        "certificate": "TV-G",
+        "runtime": "62 min",
+        "genre": "Comedy",
+        "description": "After breaking a mirror in his home, superstitious Max tries to avoid situations which could bring bad luck-- but in doing so, causes himself the worst luck imaginable.",
+        "director": "Max Linder",
+        "stars": [
+            "Max Linder",
+            "Alta Allen",
+            "Ralph McCullough",
+            "Betty K. Peterson"
+        ],
+        "votes": "906",
+        "gross": ""
+    },
+    "38": {
+        "name": "Lady Hamilton",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Drama, History",
+        "description": "The dramatic story of Lady Hamilton's rise and fall in European society during the 1700s and early 1800s, including the romantic love story with Lord Nelson.",
+        "director": "Richard Oswald",
+        "stars": [
+            "Liane Haid",
+            "Conrad Veidt",
+            "Werner Krauss",
+            "Reinhold Sch\u00fcnzel"
+        ],
+        "votes": "16",
+        "gross": ""
+    },
+    "39": {
+        "name": "Mysteries of India, Part I: Truth",
+        "certificate": "",
+        "runtime": "120 min",
+        "genre": "Adventure, Fantasy",
+        "description": "Add a Plot",
+        "director": "Joe May",
+        "stars": [
+            "Olaf F\u00f8nss",
+            "Mia May",
+            "Conrad Veidt",
+            "Erna Morena"
+        ],
+        "votes": "220",
+        "gross": ""
+    },
+    "40": {
+        "name": "The Sky Pilot",
+        "certificate": "Not Rated",
+        "runtime": "77 min",
+        "genre": "Drama",
+        "description": "The sky pilot is a preacher who helps Gwen walk again after a near-fatal accident.",
+        "director": "King Vidor",
+        "stars": [
+            "John Bowers",
+            "Colleen Moore",
+            "David Butler",
+            "Harry Todd"
+        ],
+        "votes": "83",
+        "gross": ""
+    },
+    "41": {
+        "name": "His Nibs",
+        "certificate": "",
+        "runtime": "50 min",
+        "genre": "Comedy",
+        "description": "Add a Plot",
+        "director": "Gregory La Cava",
+        "stars": [
+            "Charles 'Chic' Sale",
+            "Colleen Moore",
+            "Joseph J. Dowling",
+            "J.P. Lockney"
+        ],
+        "votes": "16",
+        "gross": ""
+    },
+    "42": {
+        "name": "Mysteries of India, Part II: Above All Law",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Adventure, Fantasy",
+        "description": "Howard is infected with leprosy, Mac Allen was captured by the Maharadsha, and now the Maharadsha offers Irene a deal: one night for letting healing Howard. She accepts, but when she tries ...                See full summary\u00a0\u00bb",
+        "director": "Joe May",
+        "stars": [
+            "Olaf F\u00f8nss",
+            "Mia May",
+            "Conrad Veidt",
+            "Erna Morena"
+        ],
+        "votes": "267",
+        "gross": ""
+    },
+    "43": {
+        "name": "The Ace of Hearts",
+        "certificate": "Passed",
+        "runtime": "75 min",
+        "genre": "Crime, Drama, Mystery",
+        "description": "A romantic rivalry among members of a secret society becomes even tenser when one of the men is assigned to carry out an assassination.",
+        "director": "Wallace Worsley",
+        "stars": [
+            "Lon Chaney",
+            "Leatrice Joy",
+            "John Bowers",
+            "Hardee Kirkland"
+        ],
+        "votes": "984",
+        "gross": ""
+    },
+    "44": {
+        "name": "A Small Town Idol",
+        "certificate": "Passed",
+        "runtime": "70 min",
+        "genre": "Action, Comedy, Romance",
+        "description": "Sam, a young man in a small town, is accused of being a thief. Unable to prove his innocence--and not knowing that he's being framed by a local villain to keep him away from pretty young ...                See full summary\u00a0\u00bb",
+        "director": "Erle C. Kenton",
+        "stars": [
+            "Mack Sennett",
+            "Ben Turpin",
+            "James Finlayson",
+            "Phyllis Haver",
+            "Bert Roach"
+        ],
+        "votes": "33",
+        "gross": ""
+    },
+    "45": {
+        "name": "Miss Lulu Bett",
+        "certificate": "Not Rated",
+        "runtime": "71 min",
+        "genre": "Comedy, Drama",
+        "description": "A once-timid young woman gains newfound confidence after a failed marriage, much to the chagrin of her miserable family.",
+        "director": "William C. de Mille",
+        "stars": [
+            "Lois Wilson",
+            "Milton Sills",
+            "Theodore Roberts",
+            "Helen Ferguson"
+        ],
+        "votes": "274",
+        "gross": ""
+    },
+    "46": {
+        "name": "Buried Treasure",
+        "certificate": "Passed",
+        "runtime": "70 min",
+        "genre": "Adventure, Fantasy, Romance",
+        "description": "Strung around the idea of reincarnation, this film goes back in time to the days of the Spanish galleons and pirates burying their treasure; treasure to be found centuries later.",
+        "director": "George D. Baker",
+        "stars": [
+            "Marion Davies",
+            "Norman Kerry",
+            "Anders Randolf",
+            "Edith Shayne"
+        ],
+        "votes": "99",
+        "gross": ""
+    },
+    "47": {
+        "name": "Guarded Lips",
+        "certificate": "",
+        "runtime": "107 min",
+        "genre": "Drama",
+        "description": "A wealthy Russian family is faced with change and challenges as events unfold during the First World War. Adapted from the novel \"Zoja\" by Runar Schildt.",
+        "director": "Mauritz Stiller",
+        "stars": [
+            "Carl Nissen",
+            "Karin Swanstr\u00f6m",
+            "Jenny Hasselqvist",
+            "Nils Ohlin"
+        ],
+        "votes": "",
+        "gross": ""
+    },
+    "48": {
+        "name": "The Mechanical Man",
+        "certificate": "",
+        "runtime": "80 min",
+        "genre": "Comedy, Horror, Sci-Fi",
+        "description": "The story begins with a scientist creating a device shaped like a man that can be remote-controlled by a machine.",
+        "director": "Andr\u00e9 Deed",
+        "stars": [
+            "Giulia Costa",
+            "Andr\u00e9 Deed",
+            "Valentina Frascaroli",
+            "Mathilde Lambert"
+        ],
+        "votes": "185",
+        "gross": ""
+    },
+    "49": {
+        "name": "Enchantment",
+        "certificate": "Not Rated",
+        "runtime": "90 min",
+        "genre": "Comedy",
+        "description": "The frothy experiences of a vain little flapper. Her father induces an actor friend to become a gentlemanly cave man and the film becomes another variation of the 'Taming of the Shrew' ...                See full summary\u00a0\u00bb",
+        "director": "Robert G. Vignola",
+        "stars": [
+            "Marion Davies",
+            "Forrest Stanley",
+            "Edith Shayne",
+            "Tom Lewis"
+        ],
+        "votes": "194",
+        "gross": ""
+    },
+    "50": {
+        "name": "The Lotus Eater",
+        "certificate": "",
+        "runtime": "70 min",
+        "genre": "Drama, Romance",
+        "description": "Disillusioned in marriage, Jacques Leroi attempts an airship flight across the Pacific Ocean, but crashes and washes ashore on an island populated by a peaceful tribe of completely happy ...                See full summary\u00a0\u00bb",
+        "director": "Marshall Neilan",
+        "stars": [
+            "John Barrymore",
+            "Colleen Moore",
+            "Anna Q. Nilsson",
+            "Ida Waterman"
+        ],
+        "votes": "34",
+        "gross": ""
+    }
+}

@@ -1,0 +1,818 @@
+{
+    "1": {
+        "name": "The Perils of Pauline",
+        "certificate": "Passed",
+        "runtime": "199 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "Young Pauline is left a lot of money when her wealthy uncle dies. However, her uncle's secretary has been named as her guardian until she marries, at which time she will officially take ...                See full summary\u00a0\u00bb",
+        "director": "Louis J. Gasnier",
+        "stars": [
+            "Donald MacKenzie",
+            "Pearl White",
+            "Crane Wilbur",
+            "Paul Panzer",
+            "Edward Jos\u00e9"
+        ],
+        "votes": "910",
+        "gross": ""
+    },
+    "2": {
+        "name": "Cabiria",
+        "certificate": "Not Rated",
+        "runtime": "148 min",
+        "genre": "Adventure, Drama, History",
+        "description": "Three centuries before Christus. Young Cabiria is kidnapped by some pirates during one eruption of the Etna. She is sold as a slave in Carthage, and as she is just going to be sacrificed to...                See full summary\u00a0\u00bb",
+        "director": "Giovanni Pastrone",
+        "stars": [
+            "Italia Almirante-Manzini",
+            "Lidia Quaranta",
+            "Bartolomeo Pagano",
+            "Carolina Catena"
+        ],
+        "votes": "2,758",
+        "gross": ""
+    },
+    "3": {
+        "name": "Judith of Bethulia",
+        "certificate": "Not Rated",
+        "runtime": "61 min",
+        "genre": "Drama",
+        "description": "A religious woman seeks to save her people from destruction by seducing and murdering the enemy leader, but her plans get complicated once she falls for him.",
+        "director": "D.W. Griffith",
+        "stars": [
+            "Blanche Sweet",
+            "Henry B. Walthall",
+            "Mae Marsh",
+            "Robert Harron"
+        ],
+        "votes": "1,155",
+        "gross": ""
+    },
+    "4": {
+        "name": "Tillie's Punctured Romance",
+        "certificate": "Not Rated",
+        "runtime": "82 min",
+        "genre": "Comedy",
+        "description": "A con man from the city dupes a wealthy country girl into marriage.",
+        "director": "Mack Sennett",
+        "stars": [
+            "Charles Bennett",
+            "Charles Chaplin",
+            "Marie Dressler",
+            "Mabel Normand",
+            "Mack Swain"
+        ],
+        "votes": "3,084",
+        "gross": ""
+    },
+    "5": {
+        "name": "The Squaw Man",
+        "certificate": "Not Rated",
+        "runtime": "74 min",
+        "genre": "Action, Drama, Romance",
+        "description": "A chivalrous British officer takes the blame for his cousin's embezzlement and journeys to the American West to start a new life on a cattle ranch.",
+        "director": "Oscar Apfel",
+        "stars": [
+            "Cecil B. DeMille",
+            "Dustin Farnum",
+            "Monroe Salisbury",
+            "Winifred Kingston",
+            "Mrs. A.W. Filson"
+        ],
+        "votes": "781",
+        "gross": "$0.53M"
+    },
+    "6": {
+        "name": "The Patchwork Girl of Oz",
+        "certificate": "",
+        "runtime": "81 min",
+        "genre": "Adventure, Family, Fantasy",
+        "description": "Ojo and Unc Nunkie are out of food, so they decide to journey to the Emerald City where they will never starve. Along the way, they meet Mewel, a waif and stray (mule) who leads them to Dr....                See full summary\u00a0\u00bb",
+        "director": "J. Farrell MacDonald",
+        "stars": [
+            "Violet MacMillan",
+            "Frank Moore",
+            "Raymond Russell",
+            "Leontine Dranet"
+        ],
+        "votes": "340",
+        "gross": ""
+    },
+    "7": {
+        "name": "The New Wizard of Oz",
+        "certificate": "",
+        "runtime": "59 min",
+        "genre": "Family, Fantasy, Adventure",
+        "description": "A wicked king has taken over the Emerald City, and wants his daughter, Princess Gloria, to marry the horrid courtier Googly-Goo, though she loves Pon, the Gardener's Boy. The camera now ...                See full summary\u00a0\u00bb",
+        "director": "J. Farrell MacDonald",
+        "stars": [
+            "Violet MacMillan",
+            "Frank Moore",
+            "Pierre Couderc",
+            "Fred Woodward"
+        ],
+        "votes": "386",
+        "gross": ""
+    },
+    "8": {
+        "name": "In the Land of the Head Hunters",
+        "certificate": "Not Rated",
+        "runtime": "65 min",
+        "genre": "Drama, History",
+        "description": "In 1911, as part of his massive undertaking, famed Northwest photographer Edward S. Curtis travelled to Vancouver Island, British Columbia, to visit the Kwakwaka'wakw. By the next year, ...                See full summary\u00a0\u00bb",
+        "director": "Edward S. Curtis",
+        "stars": [
+            "Stanley Hunt",
+            "Sarah Constance Smith Hunt",
+            "Mrs. George Walkus",
+            "Paddy 'Malid"
+        ],
+        "votes": "363",
+        "gross": ""
+    },
+    "9": {
+        "name": "Cinderella",
+        "certificate": "",
+        "runtime": "52 min",
+        "genre": "Fantasy, Drama",
+        "description": "Though mistreated by her cruel stepmother and stepsisters, Cinderella is able to attend the royal ball through the help of a fairy godmother.",
+        "director": "James Kirkwood",
+        "stars": [
+            "Mary Pickford",
+            "Owen Moore",
+            "Isabel Vernon",
+            "Georgia Wilson"
+        ],
+        "votes": "898",
+        "gross": ""
+    },
+    "10": {
+        "name": "Tess of the Storm Country",
+        "certificate": "",
+        "runtime": "80 min",
+        "genre": "Drama",
+        "description": "A wealthy resident attempts to dispossess squatters who live near his home, which leads to a false accusation of murder.",
+        "director": "Edwin S. Porter",
+        "stars": [
+            "Mary Pickford",
+            "Harold Lockwood",
+            "Olive Carey",
+            "David Hartford"
+        ],
+        "votes": "146",
+        "gross": ""
+    },
+    "11": {
+        "name": "Brewster's Millions",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Comedy",
+        "description": "Robert Brewster, a scion of a well-to-do family, elopes with Louise Sedgewick. Peter Brewster disinherits Robert and refuses to be reconciled to the marriage, and later drives the young ...                See full summary\u00a0\u00bb",
+        "director": "Oscar Apfel",
+        "stars": [
+            "Cecil B. DeMille",
+            "Edward Abeles",
+            "Joseph Singleton",
+            "Sydney Deane",
+            "Miss Bartholomew"
+        ],
+        "votes": "24",
+        "gross": ""
+    },
+    "12": {
+        "name": "The Jungle",
+        "certificate": "Approved",
+        "runtime": "",
+        "genre": "Drama",
+        "description": "Imagrants' mistreated lives in Chicago",
+        "director": "George Irving",
+        "stars": [
+            "Jack Pratt",
+            "Augustus Thomas",
+            "George Nash",
+            "Gail Kane",
+            "Julia Hurley",
+            "Robert Cummings"
+        ],
+        "votes": "42",
+        "gross": ""
+    },
+    "13": {
+        "name": "The Life of General Villa",
+        "certificate": "",
+        "runtime": "105 min",
+        "genre": "Action, Adventure, Biography",
+        "description": "The life and career of Panccho Villa from young man to revolutionary leader is chronicled.",
+        "director": "Christy Cabanne",
+        "stars": [
+            "Raoul Walsh",
+            "Eagle Eye",
+            "Robert Harron",
+            "Irene Hunt",
+            "W.H. Lawrence"
+        ],
+        "votes": "37",
+        "gross": ""
+    },
+    "14": {
+        "name": "A Good Little Devil",
+        "certificate": "",
+        "runtime": "50 min",
+        "genre": "Drama",
+        "description": "Charles MacLance, a mischievous little boy sent to live with his cruel aunt, Mrs. MacMiche, takes his happiness from the make-believe world of fairies which he has created with Juliet, a ...                See full summary\u00a0\u00bb",
+        "director": "Edwin S. Porter",
+        "stars": [
+            "J. Searle Dawley",
+            "Mary Pickford",
+            "Ernest Truex",
+            "William Norris",
+            "Iva Merlin"
+        ],
+        "votes": "11",
+        "gross": ""
+    },
+    "15": {
+        "name": "Fantomas: The Mysterious Finger Print",
+        "certificate": "Not Rated",
+        "runtime": "59 min",
+        "genre": "Crime, Drama",
+        "description": "The mystery of the drama is the appearance of the finger-print of a dead artist upon the neck of Princess Sonia Danidoff, whom Fantomas, as Nanteuil, relieves of her pearl necklace, and ...                See full summary\u00a0\u00bb",
+        "director": "Louis Feuillade",
+        "stars": [
+            "Ren\u00e9 Navarre",
+            "Georges Melchior",
+            "Laurent Morl\u00e9as",
+            "Ren\u00e9e Carl"
+        ],
+        "votes": "1,086",
+        "gross": ""
+    },
+    "16": {
+        "name": "The Dream Woman",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Drama, Horror",
+        "description": "In this story the hero is haunted by a beautiful young woman who tries to stab him to death with a knife. This fantasy recurs on each of his birthdays, becoming more and more real as the ...                See full summary\u00a0\u00bb",
+        "director": "Alice Guy",
+        "stars": [
+            "Fraunie Fraunholz",
+            "Claire Whitney",
+            "Joseph Levering",
+            "Vinnie Burns"
+        ],
+        "votes": "8",
+        "gross": ""
+    },
+    "17": {
+        "name": "Home, Sweet Home",
+        "certificate": "Passed",
+        "runtime": "55 min",
+        "genre": "Drama",
+        "description": "John Howard Payne at his most miserable point in life, writes a song which becomes popular and inspires other people at some point in their lives.",
+        "director": "D.W. Griffith",
+        "stars": [
+            "Henry B. Walthall",
+            "Josephine Crowell",
+            "Lillian Gish",
+            "Dorothy Gish"
+        ],
+        "votes": "166",
+        "gross": ""
+    },
+    "18": {
+        "name": "The Virginian",
+        "certificate": "Passed",
+        "runtime": "55 min",
+        "genre": "Western",
+        "description": "A good-natured but chivalrous cowboy romances the local schoolmarm and leads the posse that brings a gang of rustlers, which includes his best friend, to justice.",
+        "director": "Cecil B. DeMille",
+        "stars": [
+            "Dustin Farnum",
+            "Jack W. Johnston",
+            "Sydney Deane",
+            "William Elmer"
+        ],
+        "votes": "155",
+        "gross": ""
+    },
+    "19": {
+        "name": "The Avenging Conscience: or 'Thou Shalt Not Kill'",
+        "certificate": "Not Rated",
+        "runtime": "78 min",
+        "genre": "Crime, Drama, Horror",
+        "description": "Prevented from dating his sweetheart by his uncle, a young man turns his thoughts to murder.",
+        "director": "D.W. Griffith",
+        "stars": [
+            "Henry B. Walthall",
+            "Spottiswoode Aitken",
+            "Blanche Sweet",
+            "George Siegmann"
+        ],
+        "votes": "1,010",
+        "gross": ""
+    },
+    "20": {
+        "name": "Uncle Tom's Cabin",
+        "certificate": "",
+        "runtime": "54 min",
+        "genre": "Drama",
+        "description": "A black and white silent film based on Harriet Beecher Stowe's novel documenting the life and times of Uncle Tom.",
+        "director": "William Robert Daly",
+        "stars": [
+            "Sam Lucas",
+            "Walter Hitchcock",
+            "Hattie Delaro",
+            "Master Abernathy"
+        ],
+        "votes": "89",
+        "gross": ""
+    },
+    "21": {
+        "name": "A Florida Enchantment",
+        "certificate": "Unrated",
+        "runtime": "63 min",
+        "genre": "Comedy",
+        "description": "A young woman discovers a seed that can make women act like men and men act like women. She decides to take one, then slips one to her maid and another to her fianc\u00e9. The fun begins.",
+        "director": "Sidney Drew",
+        "stars": [
+            "Sidney Drew",
+            "Edith Storey",
+            "Charles Kent",
+            "Mrs. Sidney Drew"
+        ],
+        "votes": "176",
+        "gross": ""
+    },
+    "22": {
+        "name": "The Sign of the Cross",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Drama",
+        "description": "Add a Plot",
+        "director": "Frederick A. Thomson",
+        "stars": [
+            "William Farnum",
+            "Rosina Henley",
+            "Sheridan Block",
+            "Morgan Thorpe"
+        ],
+        "votes": "27",
+        "gross": ""
+    },
+    "23": {
+        "name": "Hearts Adrift",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Romance",
+        "description": "A man and a woman are shipwrecked on a desert island. It doesn't take long before they fall in love and, figuring that they would never see civilization again, declare themselves married ...                See full summary\u00a0\u00bb",
+        "director": "Edwin S. Porter",
+        "stars": [
+            "Mary Pickford",
+            "Harold Lockwood"
+        ],
+        "votes": "8",
+        "gross": ""
+    },
+    "24": {
+        "name": "The Exploits of Elaine",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Action",
+        "description": "With the help of a private detective, Elaine tries to catch the masked criminal mastermind The Clutching Hand, who has murdered her father.",
+        "director": "Louis J. Gasnier",
+        "stars": [
+            "George B. Seitz",
+            "Leopold Wharton",
+            "Theodore Wharton",
+            "Pearl White",
+            "Arnold Daly",
+            "Creighton Hale",
+            "Raymond Owens"
+        ],
+        "votes": "40",
+        "gross": ""
+    },
+    "25": {
+        "name": "Neptune's Daughter",
+        "certificate": "",
+        "runtime": "70 min",
+        "genre": "Fantasy",
+        "description": "The daughter of King Neptune determines to avenge the death of her sister, who was caught in a fishing net laid by the king of a country above the waves. However, she soon falls in love ...                See full summary\u00a0\u00bb",
+        "director": "Herbert Brenon",
+        "stars": [
+            "Annette Kellerman",
+            "William E. Shay",
+            "William Welsh",
+            "Leah Baird"
+        ],
+        "votes": "23",
+        "gross": ""
+    },
+    "26": {
+        "name": "Fant\u00f4mas: The False Magistrate",
+        "certificate": "Not Rated",
+        "runtime": "70 min",
+        "genre": "Crime, Drama",
+        "description": "Having committed murder in Belgium, Fantomas is sentenced to life imprisonment. Two crimes committed in France suggest to inspector Juve that the Fantomas gang is still at work. He ...                See full summary\u00a0\u00bb",
+        "director": "Louis Feuillade",
+        "stars": [
+            "Ren\u00e9 Navarre",
+            "Edmund Breon",
+            "Georges Melchior",
+            "Mesnery"
+        ],
+        "votes": "865",
+        "gross": ""
+    },
+    "27": {
+        "name": "The Million Dollar Mystery",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Adventure, Mystery",
+        "description": "This twenty-three episode serial told the story of a secret society called The Black Hundred and its attempts to gain control of a lost million dollars.",
+        "director": "Howell Hansel",
+        "stars": [
+            "Florence La Badie",
+            "Marguerite Snow",
+            "James Cruze",
+            "Frank Farrington"
+        ],
+        "votes": "21",
+        "gross": "$3.27M"
+    },
+    "28": {
+        "name": "The Spoilers",
+        "certificate": "",
+        "runtime": "110 min",
+        "genre": "Drama, Western",
+        "description": "The first of many filmed adaptations of Rex Beach's adventure novel of the Alaskan gold-rush.",
+        "director": "Colin Campbell",
+        "stars": [
+            "William Farnum",
+            "Kathlyn Williams",
+            "Tom Santschi",
+            "Bessie Eyton"
+        ],
+        "votes": "43",
+        "gross": ""
+    },
+    "29": {
+        "name": "Der Hund von Baskerville",
+        "certificate": "",
+        "runtime": "65 min",
+        "genre": "Crime, Mystery, Horror",
+        "description": "In this early version the classic \"Hound of the Baskervilles\" mystery is faithfully adapted, although Watson's character is absent. Holmes' foe is called Stapleton and he menaces Holmes' client Lord Henry and his fianc\u00e9e, Laura Lyons.",
+        "director": "Rudolf Meinert",
+        "stars": [
+            "Alwin Neu\u00df",
+            "Friedrich K\u00fchne",
+            "Hanni Weisse",
+            "Erwin Fichtner"
+        ],
+        "votes": "47",
+        "gross": ""
+    },
+    "30": {
+        "name": "The Hazards of Helen",
+        "certificate": "",
+        "runtime": "1,428 min",
+        "genre": "Action",
+        "description": "Add a Plot",
+        "director": "J. Gunnis Davis",
+        "stars": [
+            "J.P. McGowan",
+            "Robert G. Vignola",
+            "Helen Holmes",
+            "Paul Hurst",
+            "Leo D. Maloney",
+            "Helen Holmes",
+            "Helen Gibson",
+            "J.P. McGowan",
+            "Ethel Clisbee"
+        ],
+        "votes": "72",
+        "gross": ""
+    },
+    "31": {
+        "name": "Damon and Pythias",
+        "certificate": "",
+        "runtime": "100 min",
+        "genre": "Drama",
+        "description": "After a prologue which shows several aerial views of the Acropolis, the story begins. The friendship of Damon, the senator, and Pythias, the soldier, is famous in Ancient Syracuse. Because ...                See full summary\u00a0\u00bb",
+        "director": "Otis Turner",
+        "stars": [
+            "William Worthington",
+            "Herbert Rawlinson",
+            "Cleo Madison",
+            "Ann Little"
+        ],
+        "votes": "9",
+        "gross": ""
+    },
+    "32": {
+        "name": "The Bargain",
+        "certificate": "",
+        "runtime": "70 min",
+        "genre": "Western",
+        "description": "After the bandit Jim Stokes robs the stage he is wounded fleeing. Recuperating at a ranch, he falls in love with and marries the daughter. Now wishing to go straight he tries to return the ...                See full summary\u00a0\u00bb",
+        "director": "Reginald Barker",
+        "stars": [
+            "William S. Hart",
+            "J. Frank Burke",
+            "Clara Williams",
+            "J. Barney Sherry"
+        ],
+        "votes": "112",
+        "gross": ""
+    },
+    "33": {
+        "name": "Sealed Orders",
+        "certificate": "",
+        "runtime": "84 min",
+        "genre": "Drama, Mystery",
+        "description": "On the brink of war, Lt. van Hauen is summoned to take command of the cruiser, but due to unforeseen events, he is wrongfully convicted as a traitor.",
+        "director": "Benjamin Christensen",
+        "stars": [
+            "Benjamin Christensen",
+            "Karen Caspersen",
+            "Otto Reinwald",
+            "Fritz Lamprecht"
+        ],
+        "votes": "440",
+        "gross": ""
+    },
+    "34": {
+        "name": "McVeagh of the South Seas",
+        "certificate": "",
+        "runtime": "59 min",
+        "genre": "Drama",
+        "description": "A brutal, sadistic overseer runs a pearl-diving operation on a South Seas island and treats the natives terribly, torturing them and violating their women. A local native girl falls in love...                See full summary\u00a0\u00bb",
+        "director": "Cyril Bruce",
+        "stars": [
+            "Harry Carey",
+            "Harry Carey",
+            "Fern Foster",
+            "Herbert Russell",
+            "Kathleen Butler"
+        ],
+        "votes": "11",
+        "gross": ""
+    },
+    "35": {
+        "name": "Sangue blu",
+        "certificate": "",
+        "runtime": "55 min",
+        "genre": "",
+        "description": "The Princess of Monte Cabello is divorced and is granted custody of her beloved daughter. Her ex-husband's mistress hires private detectives who take seemingly incriminating photographs of ...                See full summary\u00a0\u00bb",
+        "director": "Nino Oxilia",
+        "stars": [
+            "Francesca Bertini",
+            "Amedeo Ciaffi",
+            "Anna Cipriani",
+            "Angelo Gallina"
+        ],
+        "votes": "38",
+        "gross": ""
+    },
+    "36": {
+        "name": "The Wishing Ring: An Idyll of Old England",
+        "certificate": "",
+        "runtime": "54 min",
+        "genre": "Comedy, Drama",
+        "description": "After being expelled from college, Giles runs away from home and meets a young lady who he falls for.",
+        "director": "Maurice Tourneur",
+        "stars": [
+            "Vivian Martin",
+            "Alec B. Francis",
+            "Chester Barnett",
+            "Gyp Williams"
+        ],
+        "votes": "206",
+        "gross": ""
+    },
+    "37": {
+        "name": "The Stain",
+        "certificate": "",
+        "runtime": "",
+        "genre": "",
+        "description": "Stevens, the bank clerk, is ambitious. His great desire is to become a lawyer. He stays at the bank at night to study, but is unable to take a course at college owing to his poverty. He ...                See full summary\u00a0\u00bb",
+        "director": "Frank Powell",
+        "stars": [
+            "Edward Jos\u00e9",
+            "Thurlow Bergen",
+            "Virginia Pearson",
+            "Eleanor Woodruff"
+        ],
+        "votes": "15",
+        "gross": ""
+    },
+    "38": {
+        "name": "The Wrath of the Gods",
+        "certificate": "",
+        "runtime": "56 min",
+        "genre": "Drama, Romance",
+        "description": "An American sailor falls in love with a fisherman's daughter and convinces her that Jesus is more powerful than the gods who have cursed her.",
+        "director": "Reginald Barker",
+        "stars": [
+            "Sessue Hayakawa",
+            "Tsuru Aoki",
+            "Frank Borzage",
+            "Kisabur\u00f4 Kurihara"
+        ],
+        "votes": "125",
+        "gross": ""
+    },
+    "39": {
+        "name": "The World, the Flesh and the Devil",
+        "certificate": "",
+        "runtime": "50 min",
+        "genre": "Crime, Drama",
+        "description": "A crooked lawyer schemes to dispossess the heir to a baronetcy.",
+        "director": "F. Martin Thornton",
+        "stars": [
+            "Frank Esmond",
+            "Stella St. Audrie",
+            "Wellington Briggs",
+            "Charles Carter"
+        ],
+        "votes": "14",
+        "gross": ""
+    },
+    "40": {
+        "name": "The Battle of the Sexes",
+        "certificate": "",
+        "runtime": "50 min",
+        "genre": "Drama",
+        "description": "Frank Andrews is a successful businessman. He has always found pride and joy in the company of his wife, son and daughter. He suddenly finds himself enthralled by the advances of a gay ...                See full summary\u00a0\u00bb",
+        "director": "D.W. Griffith",
+        "stars": [
+            "Donald Crisp",
+            "Lillian Gish",
+            "Robert Harron",
+            "Mary Alden"
+        ],
+        "votes": "46",
+        "gross": ""
+    },
+    "41": {
+        "name": "The Beloved Adventurer",
+        "certificate": "",
+        "runtime": "450 min",
+        "genre": "Adventure",
+        "description": "In Chapter 8, \"A Partner To Providence\", His lordship rides a train that is mistakenly rerouted into a headlong collision into another engine, with the well-worn Lubin train crash footage ...                See full summary\u00a0\u00bb",
+        "director": "Arthur V. Johnson",
+        "stars": [
+            "Arthur V. Johnson",
+            "Lottie Briscoe",
+            "Florence Hackett",
+            "Howard M. Mitchell"
+        ],
+        "votes": "9",
+        "gross": ""
+    },
+    "42": {
+        "name": "Love Everlasting",
+        "certificate": "",
+        "runtime": "90 min",
+        "genre": "Drama",
+        "description": "Leslie Swayne, an adventurer, in order to obtain enough money to satisfy the needs of his extravagant life, has been bribed to steal the plans of the fortification from the staff officers ...                See full summary\u00a0\u00bb",
+        "director": "Mario Caserini",
+        "stars": [
+            "Lyda Borelli",
+            "Mario Bonnard",
+            "Gian Paolo Rosmino",
+            "Vittorio Rossi Pianelli"
+        ],
+        "votes": "83",
+        "gross": ""
+    },
+    "43": {
+        "name": "The Merchant of Venice",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Drama",
+        "description": "A rich merchant, Antonio is depressed for no good reason, until his good friend Bassanio comes to tell him how he's in love with Portia. Portia's father has died and left a very strange ...                See full summary\u00a0\u00bb",
+        "director": "Phillips Smalley",
+        "stars": [
+            "Lois Weber",
+            "Phillips Smalley",
+            "Lois Weber",
+            "Douglas Gerrard",
+            "Rupert Julian"
+        ],
+        "votes": "13",
+        "gross": ""
+    },
+    "44": {
+        "name": "The Escape",
+        "certificate": "",
+        "runtime": "70 min",
+        "genre": "Drama",
+        "description": "A dramatic comparison between the mating habits of animals and the way humans choose their own partners.",
+        "director": "D.W. Griffith",
+        "stars": [
+            "Donald Crisp",
+            "F.A. Turner",
+            "Robert Harron",
+            "Blanche Sweet"
+        ],
+        "votes": "15",
+        "gross": ""
+    },
+    "45": {
+        "name": "An American Citizen",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Comedy, Romance",
+        "description": "Berresford Cruger, junior partner of the New York brokerage firm of Barbury, Brown and Cruger, is left a fortune of 60,000 pounds, by an English uncle, Carew, on the condition that he ...                See full summary\u00a0\u00bb",
+        "director": "J. Searle Dawley",
+        "stars": [
+            "John Barrymore",
+            "Evelyn Moore",
+            "Peter Lang",
+            "Hal Clarendon"
+        ],
+        "votes": "16",
+        "gross": ""
+    },
+    "46": {
+        "name": "The Master Key",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Action, Adventure, Drama",
+        "description": "Add a Plot",
+        "director": "Robert Z. Leonard",
+        "stars": [
+            "Robert Z. Leonard",
+            "Ella Hall",
+            "Harry Carter",
+            "Jean Hathaway"
+        ],
+        "votes": "10",
+        "gross": ""
+    },
+    "47": {
+        "name": "The Nightingale",
+        "certificate": "Passed",
+        "runtime": "",
+        "genre": "Drama",
+        "description": "Franti, an organ grinder of the poor districts of New York, has a daughter, Isola, who sings to his street piano's accompaniment. Andrea, a worthless son, and a member of the notorious \"Red...                See full summary\u00a0\u00bb",
+        "director": "Augustus Thomas",
+        "stars": [
+            "Ethel Barrymore",
+            "William Courtleigh",
+            "Frank Andrews",
+            "Conway Tearle"
+        ],
+        "votes": "12",
+        "gross": ""
+    },
+    "48": {
+        "name": "Behind the Scenes",
+        "certificate": "",
+        "runtime": "75 min",
+        "genre": "Drama",
+        "description": "Young Dolly Lane has committed herself to becoming a star on the stage, but when she meets handsome and wealthy farmer Steve Hunter, she falls in love and marries him. Unfortunately, Steve ...                See full summary\u00a0\u00bb",
+        "director": "James Kirkwood",
+        "stars": [
+            "Mary Pickford",
+            "James Kirkwood",
+            "Lowell Sherman",
+            "Ida Waterman"
+        ],
+        "votes": "21",
+        "gross": ""
+    },
+    "49": {
+        "name": "The Envoy Extraordinary",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Drama",
+        "description": "The Countess of Northstone, wife of the Prime Minister of a great power, gives a lawn party at her country home. Among her guests is an ambassador whose government is suspected of plotting ...                See full summary\u00a0\u00bb",
+        "director": "Lorimer Johnston",
+        "stars": [
+            "Jack Nelson",
+            "Caroline Frances Cooke",
+            "Clara Morse",
+            "Scott R. Beal"
+        ],
+        "votes": "",
+        "gross": ""
+    },
+    "50": {
+        "name": "Anna Karenina",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Drama",
+        "description": "A Russian silent film based on the eponymous novel by Leo Tolstoy. Anna Karenina is having an extramarital affair that causes her grave consequences.",
+        "director": "Vladimir Gardin",
+        "stars": [
+            "Mariya Germanova",
+            "Vladimir Shaternikov",
+            "Mikhail Tamarov",
+            "Zoya Barantsevich"
+        ],
+        "votes": "14",
+        "gross": ""
+    }
+}
