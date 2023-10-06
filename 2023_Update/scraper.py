@@ -1,18 +1,20 @@
-from urllib.request import urlopen
+import sys
 from bs4 import BeautifulSoup
 import json
 import datetime
+import requests
+from tqdm import tqdm
 import pprint
-import sys
+
 pp = pprint.PrettyPrinter(indent=4)
 
 def main(): # Main function
 	current_year = int(datetime.datetime.now().year)
-	for year in range(1898, current_year+1):
+	for year in tqdm(range(2020, current_year+1)):
 		sys.stdout = open('DataSets//IMDB_Top_50_' + str(year) + '.json', 'w')
 		url = "http://www.imdb.com/search/title?release_date=" + str(year) + "," + str(year) + "&title_type=feature"
-		html = urlopen(url)
-		soup = BeautifulSoup(html.read(), features="html.parser")
+		html = requests.get(url).text
+		soup = BeautifulSoup(html, features="html.parser")
 		dataset_top50 = {}
 		id = 1
 		movies_list = soup.findAll('div', attrs={'class': 'lister-item-content'})
@@ -54,21 +56,6 @@ def main(): # Main function
 				description_value = p_list[1].text.strip()
 				movie_item['description'] = description_value
 
-			# if p_list[2]:
-			# 	director_value = p_list[2].findAll('a')[0].text.strip()
-			# 	movie_item['director'] = director_value
-			# 	stars_list = p_list[2].findAll('a')[1:]
-			# 	stars_value = [] 
-			# 	for each in stars_list:
-			# 		stars_value += [each.text.strip()]
-
-			# 	movie_item['stars'] = stars_value
-
-			# if len(p_list) == 4:
-			# 	votes_value = p_list[3].findAll('span', attrs={'name': 'nv'})[0].text.strip()
-			# 	movie_item['votes'] = votes_value
-			# 	gross_value = p_list[3].findAll('span', attrs={'name': 'nv'})[1].text.strip()
-			# 	movie_item['gross'] = gross_value
 
 
 			dataset_top50[id] = movie_item
@@ -80,4 +67,4 @@ def main(): # Main function
 	# End of the main function
 
 
-main() # Call of the main function
+main()
